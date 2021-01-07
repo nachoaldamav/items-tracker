@@ -16,7 +16,7 @@
   "namespace": "770e960d43c040db9d74e2311a8eb8c5",
   "status": "ACTIVE",
   "creationDate": "2019-12-16T16:29:50.960Z",
-  "lastModifiedDate": "2019-12-16T16:33:16.433Z",
+  "lastModifiedDate": "2020-12-15T01:12:10.045Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -30,20 +30,13 @@
   "entitlementName": "166a4877488d4d61892c674277d7030f",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
-  "releaseInfo": [
-    {
-      "id": "946df0ee6f884fef80d99349e06b4014",
-      "appId": "UrsusStaging",
-      "platform": [
-        "Windows"
-      ]
-    }
-  ],
+  "releaseInfo": [],
   "developer": "tinyBuild Games",
   "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

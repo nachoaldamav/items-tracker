@@ -11,10 +11,9 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2019-10-17T18:44:51.721Z",
-  "lastModifiedDate": "2019-11-15T05:01:11.038Z",
+  "lastModifiedDate": "2021-01-04T18:46:17.974Z",
   "entitlementName": "Columbus",
   "entitlementType": "ENTITLEMENT",
-  "entitlementEndDate": "2020-12-31T00:00:00.000Z",
   "entitlementStartDate": "2019-10-17T00:00:00.000Z",
   "itemType": "DURABLE",
   "releaseInfo": [],
@@ -23,6 +22,7 @@
   "useCount": 1,
   "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": false,
   "unsearchable": false
 }

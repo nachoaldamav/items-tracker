@@ -17,11 +17,19 @@
   "namespace": "e0172a81e4f0430e88c3156bdadfd088",
   "status": "ACTIVE",
   "creationDate": "2020-11-18T22:57:29.530Z",
-  "lastModifiedDate": "2020-11-18T23:05:25.354Z",
+  "lastModifiedDate": "2020-12-29T15:09:53.323Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Solitairica/Saved/SaveGames/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "Settings.sav"
     },
     "FolderName": {
       "type": "STRING",
@@ -36,9 +44,10 @@
       "id": "08ffe13745a94756be221dc415db93a7",
       "appId": "bfe7de4ddbc64302aa4640fcc57af015",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
-      "dateAdded": "2020-11-18T23:03:51.532Z"
+      "dateAdded": "2020-11-18T00:00:00.000Z"
     }
   ],
   "developer": "Righteous Hammer Games",

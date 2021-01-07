@@ -1,0 +1,77 @@
+{
+  "id": "4cc2f6113b6949cf96965d3e180929ce",
+  "title": "Nyx",
+  "description": "Nyx",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5a2108f4db804040aaf44d139bd21bd1",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-22T20:30:57.573Z",
+  "lastModifiedDate": "2020-12-11T00:09:49.174Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "5a2108f4db804040aaf44d139bd21bd1"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1620667022"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Nyx"
+    }
+  },
+  "entitlementName": "4cc2f6113b6949cf96965d3e180929ce",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "31be56cc6e924196b267da7af0e166f8",
+      "appId": "098f5323a3994362b6c68503d8cf3d57",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567cdt2aUaVNutMqhzH52g4H1Km",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -45,7 +45,7 @@
   "namespace": "85398892cc4544088ee87c673f95bb6f",
   "status": "ACTIVE",
   "creationDate": "2019-05-05T20:51:58.398Z",
-  "lastModifiedDate": "2019-11-19T17:02:08.170Z",
+  "lastModifiedDate": "2021-01-05T22:53:44.210Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -90,12 +90,13 @@
       "dateAdded": "2019-10-08T00:00:00.000Z"
     }
   ],
-  "developer": "Aspyr Media, Inc.",
-  "developerId": "o-dukzxsmt2q39w2xql6eb8vewd2bkc9",
+  "developer": "Bloober Team",
+  "developerId": "o-8nzuqrvr3dvkn9l7dydvhkekqd3xa9",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
   "unsearchable": false
 }

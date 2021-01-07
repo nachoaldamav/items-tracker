@@ -1,0 +1,72 @@
+{
+  "id": "c4e7b40a8b064a7a8e88e68b3c1e5da5",
+  "title": "Castle",
+  "description": "Castle",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2ed7ed64d8604265924b85bbd5670220",
+  "status": "ACTIVE",
+  "creationDate": "2020-12-10T17:28:04.307Z",
+  "lastModifiedDate": "2020-12-10T17:39:38.350Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "2ed7ed64d8604265924b85bbd5670220"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Castle"
+    }
+  },
+  "entitlementName": "c4e7b40a8b064a7a8e88e68b3c1e5da5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7a8090bdb70145168683bdaaa0238d3d",
+      "appId": "9b2c200d7dec4825a83664d8888adad8",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-12-10T17:37:12.090Z"
+    }
+  ],
+  "developer": "Headup Gmbh",
+  "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

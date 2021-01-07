@@ -1,8 +1,63 @@
 {
   "id": "aa98d7d89b424c97b9fc4a37cca082ca",
-  "title": "Day",
-  "description": "Day",
-  "keyImages": [],
+  "title": "T-Day",
+  "description": "T-Day",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_TDay_HaemimontGames_DLC_S1-2560x1440-8b11fc352c996e5c71d5e9f7a0b8846b.jpg",
+      "md5": "8b11fc352c996e5c71d5e9f7a0b8846b",
+      "width": 2560,
+      "height": 1440,
+      "size": 992477,
+      "uploadedDate": "2020-11-16T18:08:31.352Z"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_TDay_HaemimontGames_DLC_S2-1200x1600-edc0a4b5de32e3aa425785d035c41695.jpg",
+      "md5": "edc0a4b5de32e3aa425785d035c41695",
+      "width": 1200,
+      "height": 1600,
+      "size": 955144,
+      "uploadedDate": "2020-11-16T18:08:41.690Z"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_TDay_HaemimontGames_DLC_S1-2560x1440-8b11fc352c996e5c71d5e9f7a0b8846b.jpg",
+      "md5": "8b11fc352c996e5c71d5e9f7a0b8846b",
+      "width": 2560,
+      "height": 1440,
+      "size": 992477,
+      "uploadedDate": "2020-11-16T18:08:49.343Z"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_TDay_HaemimontGames_DLC_S2-1200x1600-edc0a4b5de32e3aa425785d035c41695.jpg",
+      "md5": "edc0a4b5de32e3aa425785d035c41695",
+      "width": 1200,
+      "height": 1600,
+      "size": 955144,
+      "uploadedDate": "2020-11-16T18:08:57.513Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_TDay_HaemimontGames_DLC_S2-1200x1600-edc0a4b5de32e3aa425785d035c41695.jpg",
+      "md5": "edc0a4b5de32e3aa425785d035c41695",
+      "width": 1200,
+      "height": 1600,
+      "size": 955144,
+      "uploadedDate": "2020-11-16T18:09:06.083Z"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_TDay_HaemimontGames_DLC_S2-1200x1600-edc0a4b5de32e3aa425785d035c41695.jpg",
+      "md5": "edc0a4b5de32e3aa425785d035c41695",
+      "width": 1200,
+      "height": 1600,
+      "size": 955144,
+      "uploadedDate": "2020-11-16T18:09:12.883Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -17,7 +72,7 @@
   "namespace": "7015c51a49be4592b5ba3ae2577723c5",
   "status": "ACTIVE",
   "creationDate": "2020-05-08T17:23:00.066Z",
-  "lastModifiedDate": "2020-06-23T14:39:15.810Z",
+  "lastModifiedDate": "2020-12-16T18:21:41.167Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -25,7 +80,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Day"
+      "value": "TDay"
     }
   },
   "entitlementName": "aa98d7d89b424c97b9fc4a37cca082ca",

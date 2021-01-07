@@ -2,6 +2,17 @@
   "id": "56fbf648cc524042bfe7221a669b2315",
   "title": "HelsinkiGeneralAudience",
   "description": "HelsinkiGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/item/ad20a72b-738d-4ae1-a2b4-cbbb63cabbef-200x103-b311d045dfe0de51f76252f874d42753.png",
+      "md5": "b311d045dfe0de51f76252f874d42753",
+      "width": 200,
+      "height": 103,
+      "size": 11822,
+      "uploadedDate": "2020-12-09T03:27:59.242Z"
+    }
+  ],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +24,7 @@
   "namespace": "244aaaa06bfa49d088205b13b9d2d115",
   "status": "ACTIVE",
   "creationDate": "2020-06-12T16:26:49.695Z",
-  "lastModifiedDate": "2020-12-04T05:50:58.564Z",
+  "lastModifiedDate": "2020-12-11T00:53:01.492Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -29,5 +40,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
   "unsearchable": false
 }

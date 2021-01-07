@@ -2,6 +2,17 @@
   "id": "4646166ab44c49b0a83e00ab59df5292",
   "title": "LetheGeneralAudience",
   "description": "LetheGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/AI_ratingesrb-842x404-a0f2839446610332ae8e35742a2dfe2d.png",
+      "md5": "a0f2839446610332ae8e35742a2dfe2d",
+      "width": 842,
+      "height": 404,
+      "size": 81118,
+      "uploadedDate": "2020-12-17T17:24:28.066Z"
+    }
+  ],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +24,7 @@
   "namespace": "df37f065c3f14eadbf011177396e2966",
   "status": "ACTIVE",
   "creationDate": "2020-10-26T16:28:13.150Z",
-  "lastModifiedDate": "2020-10-28T01:32:17.155Z",
+  "lastModifiedDate": "2020-12-18T16:36:46.496Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -29,6 +40,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
   "requiresSecureAccount": false,
   "unsearchable": false
 }

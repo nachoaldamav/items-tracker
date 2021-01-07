@@ -1,7 +1,7 @@
 {
   "id": "5039810677ba47b4bf63dec4db6fb6a9",
-  "title": "Citrine",
-  "description": "Citrine",
+  "title": "Crying Suns",
+  "description": "Crying Suns",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -36,7 +36,7 @@
   "namespace": "0a4fc789eb0143c29296de79df5387ab",
   "status": "ACTIVE",
   "creationDate": "2020-06-30T15:50:20.468Z",
-  "lastModifiedDate": "2020-10-23T18:11:11.278Z",
+  "lastModifiedDate": "2021-01-07T15:11:18.093Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -46,9 +46,21 @@
       "type": "STRING",
       "value": "0a4fc789eb0143c29296de79df5387ab"
     },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/unity.Alt Shift.Crying Suns/saves/save0/"
+    },
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Alt Shift/Crying Suns/saves/save0/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "backup_*"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -64,7 +76,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Citrine"
+      "value": "CryingSuns"
     }
   },
   "entitlementName": "5039810677ba47b4bf63dec4db6fb6a9",
@@ -88,5 +100,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "fghi4567Ix6YVCuT9rkMpl6LKPaJkOIs",
   "unsearchable": false
 }

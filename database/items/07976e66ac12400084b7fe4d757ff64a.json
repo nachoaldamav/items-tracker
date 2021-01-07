@@ -2,7 +2,26 @@
   "id": "07976e66ac12400084b7fe4d757ff64a",
   "title": "Prez",
   "description": "Prez",
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/item/wide-2560x1440-72cbb35f9176cd1cdf0064584af932df.jpg",
+      "md5": "72cbb35f9176cd1cdf0064584af932df",
+      "width": 2560,
+      "height": 1440,
+      "size": 804615,
+      "uploadedDate": "2020-12-15T21:20:26.980Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/item/tall-1200x1600-0ac5b88d7bf76949d8f0057e4ca62413.jpg",
+      "md5": "0ac5b88d7bf76949d8f0057e4ca62413",
+      "width": 1200,
+      "height": 1600,
+      "size": 750766,
+      "uploadedDate": "2020-12-15T21:20:35.788Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -17,7 +36,7 @@
   "namespace": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "status": "ACTIVE",
   "creationDate": "2020-05-08T16:39:15.026Z",
-  "lastModifiedDate": "2020-05-08T16:57:13.472Z",
+  "lastModifiedDate": "2020-12-16T17:10:04.487Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -41,8 +60,8 @@
       "dateAdded": "2020-05-08T00:00:00.000Z"
     }
   ],
-  "developer": "Kalypso Media",
-  "developerId": "o-ntj9m7f2v76uksvjujurjfxtjkfawq",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
   "eulaIds": [
     "egstore"
   ],

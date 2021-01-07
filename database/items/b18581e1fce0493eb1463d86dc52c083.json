@@ -14,11 +14,19 @@
   "namespace": "hyacinth",
   "status": "ACTIVE",
   "creationDate": "2019-02-10T16:34:38.402Z",
-  "lastModifiedDate": "2020-01-28T15:58:59.365Z",
+  "lastModifiedDate": "2020-12-10T04:38:37.087Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "be38ac6522c348198f6b2d76586d629a"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
     },
     "FolderName": {
       "type": "STRING",
@@ -36,7 +44,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2019-02-10T16:33:43.334Z",
+      "dateAdded": "2019-02-10T00:00:00.000Z",
       "releaseNote": "",
       "versionTitle": "HyacinthStaging"
     }
@@ -47,5 +55,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

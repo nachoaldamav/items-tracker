@@ -42,7 +42,7 @@
   "namespace": "hyacinth",
   "status": "ACTIVE",
   "creationDate": "2019-02-10T16:31:50.047Z",
-  "lastModifiedDate": "2020-01-28T15:58:59.365Z",
+  "lastModifiedDate": "2020-12-15T18:10:26.692Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -107,6 +107,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
   "unsearchable": false
 }

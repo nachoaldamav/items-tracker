@@ -36,7 +36,7 @@
   "namespace": "599d248ca46b45a8b40a3b4e484712cb",
   "status": "ACTIVE",
   "creationDate": "2019-11-27T21:20:34.854Z",
-  "lastModifiedDate": "2019-12-05T13:36:19.080Z",
+  "lastModifiedDate": "2020-12-16T15:03:27.961Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -66,14 +66,6 @@
       "type": "STRING",
       "value": "true"
     },
-    "partnerLinkType": {
-      "type": "STRING",
-      "value": "ubisoft"
-    },
-    "partnerLinkId": {
-      "type": "STRING",
-      "value": "4adeefd34cae424294f1327ba9c349cb"
-    },
     "FolderName": {
       "type": "STRING",
       "value": "TheCrew2Trial"
@@ -98,5 +90,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

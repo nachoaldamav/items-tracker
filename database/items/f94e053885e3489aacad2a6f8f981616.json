@@ -1,8 +1,27 @@
 {
   "id": "f94e053885e3489aacad2a6f8f981616",
-  "title": "Cheese",
-  "description": "Cheese",
-  "keyImages": [],
+  "title": "The Big Cheese",
+  "description": "The Big Cheese",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_TheBigCheese_HaemimontGames_DLC_S1-2560x1440-0b7159ed76acde4a7101243bd62e1a6d.jpg",
+      "md5": "0b7159ed76acde4a7101243bd62e1a6d",
+      "width": 2560,
+      "height": 1440,
+      "size": 987818,
+      "uploadedDate": "2020-11-16T15:29:43.064Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_TheBigCheese_HaemimontGames_DLC_S2-1200x1600-47583ccb4f8d2a01596261ad53540fce.jpg",
+      "md5": "47583ccb4f8d2a01596261ad53540fce",
+      "width": 1200,
+      "height": 1600,
+      "size": 1011576,
+      "uploadedDate": "2020-11-16T15:29:55.178Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -17,7 +36,7 @@
   "namespace": "7015c51a49be4592b5ba3ae2577723c5",
   "status": "ACTIVE",
   "creationDate": "2020-05-08T17:23:21.131Z",
-  "lastModifiedDate": "2020-06-23T14:38:15.035Z",
+  "lastModifiedDate": "2020-12-16T18:21:41.183Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -25,7 +44,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Cheese"
+      "value": "TheBigCheese"
     }
   },
   "entitlementName": "f94e053885e3489aacad2a6f8f981616",

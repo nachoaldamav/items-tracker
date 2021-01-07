@@ -1,13 +1,33 @@
 {
   "id": "22003d8a37714d2daec7f85be1357042",
-  "title": "AI_Release_DLC_2_Contact",
-  "description": "AI_Release_DLC_2_Contact",
+  "title": "Alien: Isolation - Lost Contact",
+  "description": "Alien: Isolation - Lost Contact",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/contactDLC-1920x1080-38d11018e1381e083faf4ccc91205fc4.jfif",
+      "md5": "38d11018e1381e083faf4ccc91205fc4",
+      "width": 1920,
+      "height": 1080,
+      "size": 670410,
+      "uploadedDate": "2020-12-16T18:05:19.137Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/contactDLCportrait-1200x1600-2af9ba12683c699002483df555956818.jfif",
+      "md5": "2af9ba12683c699002483df555956818",
+      "width": 1200,
+      "height": 1600,
+      "size": 586715,
+      "uploadedDate": "2020-12-17T17:12:43.754Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
     },
     {
-      "path": "games"
+      "path": "addons"
     },
     {
       "path": "applications"
@@ -16,7 +36,7 @@
   "namespace": "df37f065c3f14eadbf011177396e2966",
   "status": "ACTIVE",
   "creationDate": "2020-10-26T17:24:36.409Z",
-  "lastModifiedDate": "2020-11-17T20:02:38.369Z",
+  "lastModifiedDate": "2020-12-18T16:36:46.496Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,7 +64,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "AI_Release_DLC_2_Contact"
+      "value": "LostContact"
     }
   },
   "entitlementName": "22003d8a37714d2daec7f85be1357042",

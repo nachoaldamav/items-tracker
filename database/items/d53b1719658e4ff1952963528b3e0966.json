@@ -1,13 +1,33 @@
 {
   "id": "d53b1719658e4ff1952963528b3e0966",
-  "title": "AI_Release_DLC_7_Crew",
-  "description": "AI_Release_DLC_7_Crew",
+  "title": "Alien: Isolation - Crew Expendable",
+  "description": "Alien: Isolation - Crew Expendable",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/crewDLC-1920x1080-035874718eb54df0d46ca8d9958d3ec3.jfif",
+      "md5": "035874718eb54df0d46ca8d9958d3ec3",
+      "width": 1920,
+      "height": 1080,
+      "size": 942732,
+      "uploadedDate": "2020-12-16T18:07:44.533Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/crewDLCportrait-1200x1600-839b98dec3f750f87276a7a96be0d682.jfif",
+      "md5": "839b98dec3f750f87276a7a96be0d682",
+      "width": 1200,
+      "height": 1600,
+      "size": 643564,
+      "uploadedDate": "2020-12-17T17:15:35.472Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
     },
     {
-      "path": "games"
+      "path": "addons"
     },
     {
       "path": "applications"
@@ -16,7 +36,7 @@
   "namespace": "df37f065c3f14eadbf011177396e2966",
   "status": "ACTIVE",
   "creationDate": "2020-10-26T17:26:50.713Z",
-  "lastModifiedDate": "2020-11-17T20:00:05.660Z",
+  "lastModifiedDate": "2020-12-18T16:36:46.496Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,7 +64,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "AI_Release_DLC_7_Crew"
+      "value": "CrewExpendable"
     }
   },
   "entitlementName": "d53b1719658e4ff1952963528b3e0966",

@@ -1,7 +1,27 @@
 {
   "id": "12c56039ad65435f83b381a5374f0007",
-  "title": "Siberian",
-  "description": "Siberian",
+  "title": "Tropico 6",
+  "description": "Tropico 6",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/item/EGS_Tropico6_LimbicEntertainment_S1-2560x1440-deb44da2953f683ecd1d47e72fc52b56.jpg",
+      "md5": "deb44da2953f683ecd1d47e72fc52b56",
+      "width": 2560,
+      "height": 1440,
+      "size": 803292,
+      "uploadedDate": "2020-11-16T20:07:05.975Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/item/EGS_Tropico6_LimbicEntertainment_S2-1200x1600-9dd14a5f6c7120e220dfe8c952f31633.jpg",
+      "md5": "9dd14a5f6c7120e220dfe8c952f31633",
+      "width": 1200,
+      "height": 1600,
+      "size": 720272,
+      "uploadedDate": "2020-11-16T20:07:13.044Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,7 +36,7 @@
   "namespace": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "status": "ACTIVE",
   "creationDate": "2020-05-08T16:35:14.221Z",
-  "lastModifiedDate": "2020-12-09T15:01:03.780Z",
+  "lastModifiedDate": "2020-12-16T17:10:04.489Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -52,7 +72,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Siberian"
+      "value": "Tropico6"
     }
   },
   "entitlementName": "12c56039ad65435f83b381a5374f0007",

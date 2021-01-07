@@ -1,0 +1,34 @@
+{
+  "id": "22134ff069704cda9ad951e468be389b",
+  "title": "DevHydrogenAudience",
+  "description": "DevHydrogenAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "72324f542dc4488681e617b0d39ad115",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-28T15:27:48.047Z",
+  "lastModifiedDate": "2020-12-14T13:53:02.963Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "22134ff069704cda9ad951e468be389b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -36,7 +36,7 @@
   "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
   "status": "ACTIVE",
   "creationDate": "2020-02-04T22:47:39.940Z",
-  "lastModifiedDate": "2020-07-20T19:06:19.348Z",
+  "lastModifiedDate": "2020-12-16T16:41:18.968Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -61,14 +61,6 @@
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
-    },
-    "partnerLinkId": {
-      "type": "STRING",
-      "value": "de779c01f03c4b5584718837da3a69cf"
-    },
-    "partnerLinkType": {
-      "type": "STRING",
-      "value": "ubisoft"
     },
     "FolderName": {
       "type": "STRING",

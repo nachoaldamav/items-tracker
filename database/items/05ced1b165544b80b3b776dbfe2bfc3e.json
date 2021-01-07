@@ -13,7 +13,7 @@
   "namespace": "5d24ed888f9542a09dc406f66705631a",
   "status": "ACTIVE",
   "creationDate": "2020-08-21T13:37:00.217Z",
-  "lastModifiedDate": "2020-10-08T15:30:26.159Z",
+  "lastModifiedDate": "2020-12-17T13:01:16.761Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +23,13 @@
   "entitlementName": "05ced1b165544b80b3b776dbfe2bfc3e",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "developer": "THQ Nordic GmbH",
-  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "developer": "Handy Games",
+  "developerId": "o-ekk92wx8mesnmsvbseequvnt38mzu6",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "requiresSecureAccount": false,
   "unsearchable": false
 }

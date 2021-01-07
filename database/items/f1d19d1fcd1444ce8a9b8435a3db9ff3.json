@@ -4,22 +4,22 @@
   "description": "SMITE",
   "keyImages": [
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/Epic-SMITE-7.10-LandscapeIMG-2560x1440-2560x1440-f459859e6c76c1d0d00671044da42d92.jpg",
-      "md5": "f459859e6c76c1d0d00671044da42d92",
-      "width": 2560,
-      "height": 1440,
-      "size": 571711,
-      "uploadedDate": "2020-11-03T18:54:48.967Z"
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/Smite-EGS-7.12-Danzaburou-FeaturedCarousel-Mobile-510x680-510x680-24788121c782f46463309aea8551e476.jpg",
+      "md5": "24788121c782f46463309aea8551e476",
+      "width": 510,
+      "height": 680,
+      "size": 363718,
+      "uploadedDate": "2020-12-15T02:51:12.071Z"
     },
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/Epic-SMITE-7.10-PortraitIMG-860x1148-860x1148-d80f7a812bcbb4bd38aed5f9738d6ae4.jpg",
-      "md5": "d80f7a812bcbb4bd38aed5f9738d6ae4",
-      "width": 860,
-      "height": 1148,
-      "size": 236228,
-      "uploadedDate": "2020-11-03T18:54:55.598Z"
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/Smite-EGS-7.12-Danzaburou-FeaturedCarousel-Desktop-1360x766-1360x766-422214e6517a5f718f340f7589cf3a01.jpg",
+      "md5": "422214e6517a5f718f340f7589cf3a01",
+      "width": 1360,
+      "height": 766,
+      "size": 167748,
+      "uploadedDate": "2020-12-15T02:51:40.880Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "076207fa2b5c4803a636af606c3c28b7",
   "status": "ACTIVE",
   "creationDate": "2019-10-18T01:53:04.913Z",
-  "lastModifiedDate": "2020-11-03T18:55:01.094Z",
+  "lastModifiedDate": "2020-12-15T11:57:40.079Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

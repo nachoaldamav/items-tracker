@@ -1,8 +1,27 @@
 {
   "id": "bb35ecedfbdc4f5fa2f10d2c6f66d17f",
-  "title": "Venture",
-  "description": "Venture",
-  "keyImages": [],
+  "title": "Joint Venture",
+  "description": "Joint Venture",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_JointVenture_HaemimontGames_DLC_S1-2560x1440-3923558d11ad1c7e0a7dbd1f5becaafc.jpg",
+      "md5": "3923558d11ad1c7e0a7dbd1f5becaafc",
+      "width": 2560,
+      "height": 1440,
+      "size": 957560,
+      "uploadedDate": "2020-11-16T18:50:43.694Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_JointVenture_HaemimontGames_DLC_S2-1200x1600-9469ff501bb110f70b20e75da016c22a.jpg",
+      "md5": "9469ff501bb110f70b20e75da016c22a",
+      "width": 1200,
+      "height": 1600,
+      "size": 976726,
+      "uploadedDate": "2020-11-16T18:50:51.193Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -17,7 +36,7 @@
   "namespace": "7015c51a49be4592b5ba3ae2577723c5",
   "status": "ACTIVE",
   "creationDate": "2020-05-08T17:23:16.547Z",
-  "lastModifiedDate": "2020-06-23T14:37:23.408Z",
+  "lastModifiedDate": "2020-12-16T18:21:41.170Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -25,7 +44,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Venture"
+      "value": "JointVenture"
     }
   },
   "entitlementName": "bb35ecedfbdc4f5fa2f10d2c6f66d17f",

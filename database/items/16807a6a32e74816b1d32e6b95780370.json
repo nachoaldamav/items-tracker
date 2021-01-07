@@ -36,7 +36,7 @@
   "namespace": "07f4a7dd3c884e5d87e9a209716962ca",
   "status": "ACTIVE",
   "creationDate": "2020-03-04T02:18:13.616Z",
-  "lastModifiedDate": "2020-07-15T03:21:47.646Z",
+  "lastModifiedDate": "2021-01-06T21:48:17.048Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -45,6 +45,10 @@
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{UserDir}/My Games/OldWorld/Dev/Saves/"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "true"
     },
     "MaxSizeMB": {
       "type": "STRING",
