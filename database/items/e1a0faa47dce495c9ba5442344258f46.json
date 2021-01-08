@@ -1,7 +1,7 @@
 {
-  "id": "50a767cb3e3b4904bc8ceeac12ffd771",
-  "title": "AzaleaDevAudience",
-  "description": "AzaleaDevAudience",
+  "id": "e1a0faa47dce495c9ba5442344258f46",
+  "title": "The Cycle External PT Audience",
+  "description": "The Cycle External PT Audience",
   "keyImages": [
     {
       "type": "ESRB",
@@ -10,7 +10,7 @@
       "width": 842,
       "height": 404,
       "size": 55379,
-      "uploadedDate": "2019-04-23T21:38:41.819Z"
+      "uploadedDate": "2019-04-23T21:39:52.488Z"
     }
   ],
   "categories": [
@@ -18,20 +18,24 @@
       "path": "audience"
     },
     {
-      "path": "developer"
+      "path": "public"
     }
   ],
   "namespace": "azalea",
   "status": "ACTIVE",
-  "creationDate": "2019-02-22T16:52:34.878Z",
+  "creationDate": "2021-01-08T13:02:03.977Z",
   "lastModifiedDate": "2021-01-08T13:08:50.886Z",
   "customAttributes": {
+    "developerName": {
+      "type": "STRING",
+      "value": "YAGER"
+    },
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
     }
   },
-  "entitlementName": "50a767cb3e3b4904bc8ceeac12ffd771",
+  "entitlementName": "e1a0faa47dce495c9ba5442344258f46",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
@@ -42,5 +46,6 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "RATING_PENDING",
+  "ageGatings": {},
   "unsearchable": false
 }

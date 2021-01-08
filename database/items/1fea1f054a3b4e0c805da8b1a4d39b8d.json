@@ -37,7 +37,7 @@
   "namespace": "b156c3365a5b4cb9a01a5e1108b4e3f4",
   "status": "ACTIVE",
   "creationDate": "2020-11-09T13:43:26.202Z",
-  "lastModifiedDate": "2021-01-07T15:19:58.194Z",
+  "lastModifiedDate": "2021-01-07T22:46:35.257Z",
   "customAttributes": {
     "UseAccessControl": {
       "type": "STRING",
@@ -53,7 +53,7 @@
     },
     "MainWindowProcessName": {
       "type": "STRING",
-      "value": "[]"
+      "value": "starwarsbattlefrontii.exe"
     },
     "FolderName": {
       "type": "STRING",
@@ -73,7 +73,7 @@
     },
     "RegistryPath": {
       "type": "STRING",
-      "value": "[]"
+      "value": "SOFTWARE\\WOW6432Node\\EA Games\\STAR WARS Battlefront II"
     },
     "ThirdPartyManagedApp": {
       "type": "STRING",
@@ -81,15 +81,15 @@
     },
     "AdditionalCommandline": {
       "type": "STRING",
-      "value": "[]"
+      "value": "&theme=sws&platform=epic&Hotfix=go"
     },
     "ProcessNames": {
       "type": "STRING",
-      "value": "[]"
+      "value": "starwarsbattlefrontii.exe"
     },
     "RegistryLocation": {
       "type": "STRING",
-      "value": "[]"
+      "value": "SOFTWARE\\EA Games\\STAR WARS Battlefront II\\Install Dir"
     },
     "RegistryKey": {
       "type": "STRING",

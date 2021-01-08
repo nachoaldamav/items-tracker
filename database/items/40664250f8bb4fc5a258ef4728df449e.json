@@ -1,7 +1,7 @@
 {
-  "id": "98b6e41cad0648209bb3daa8eebd1efb",
-  "title": "The Cycle Press PTS",
-  "description": "The Cycle Press PTS",
+  "id": "40664250f8bb4fc5a258ef4728df449e",
+  "title": "The Cycle External PT",
+  "description": "The Cycle External PT",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -32,8 +32,8 @@
   ],
   "namespace": "azalea",
   "status": "ACTIVE",
-  "creationDate": "2020-06-22T11:45:39.947Z",
-  "lastModifiedDate": "2021-01-08T13:11:25.999Z",
+  "creationDate": "2021-01-08T13:02:13.325Z",
+  "lastModifiedDate": "2021-01-08T13:08:50.886Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -61,20 +61,20 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "TheCyclePressPTS"
+      "value": "TheCycleExternalPT"
     },
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
     }
   },
-  "entitlementName": "98b6e41cad0648209bb3daa8eebd1efb",
+  "entitlementName": "40664250f8bb4fc5a258ef4728df449e",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
       "id": "fa2ca812bd354a9e94dec1fdcff936ce",
-      "appId": "7b5a1de447344c3ca948f5908679c777",
+      "appId": "f8791d0f2bdd4076bd7340b57b514a30",
       "compatibleApps": [],
       "platform": [
         "Windows"
