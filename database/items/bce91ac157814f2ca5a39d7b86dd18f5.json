@@ -1,7 +1,7 @@
 {
-  "id": "d7e89e3063f24173bfe174a07fe0a08e",
-  "title": "EiderCampaignPack",
-  "description": "EiderCampaignPack",
+  "id": "bce91ac157814f2ca5a39d7b86dd18f5",
+  "title": "Selenium",
+  "description": "Selenium",
   "categories": [
     {
       "path": "public"
@@ -13,10 +13,10 @@
       "path": "applications"
     }
   ],
-  "namespace": "ed55aa5edc5941de92fd7f64de415793",
+  "namespace": "73b62f4875a248d8acc95966ce94c80f",
   "status": "ACTIVE",
-  "creationDate": "2020-02-04T16:16:55.928Z",
-  "lastModifiedDate": "2021-01-12T17:26:43.040Z",
+  "creationDate": "2021-01-08T17:57:35.046Z",
+  "lastModifiedDate": "2021-01-11T17:28:26.993Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -24,7 +24,7 @@
     },
     "PresenceId": {
       "type": "STRING",
-      "value": "ed55aa5edc5941de92fd7f64de415793"
+      "value": "73b62f4875a248d8acc95966ce94c80f"
     },
     "MonitorPresence": {
       "type": "STRING",
@@ -44,27 +44,29 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "EiderCampaignPack"
+      "value": "Selenium"
     }
   },
-  "entitlementName": "d7e89e3063f24173bfe174a07fe0a08e",
+  "entitlementName": "bce91ac157814f2ca5a39d7b86dd18f5",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "821f23429b2c45d3bfb7d70db7956d5d",
-      "appId": "EiderCampaignPack",
+      "id": "7dedad5537bd4df6a1ee61aa2bf58cd4",
+      "appId": "c35b9699c4e24c56976b5bd8eceba464",
       "platform": [
         "Windows"
-      ]
+      ],
+      "dateAdded": "2021-01-11T17:07:03.547Z"
     }
   ],
-  "developer": "IO Interactive",
-  "developerId": "o-ank8fbh38u9uzqbag2a5yt5xexb4yr",
+  "developer": "Raw Fury",
+  "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "requiresSecureAccount": false,
   "unsearchable": false
 }
