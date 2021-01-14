@@ -1,0 +1,34 @@
+{
+  "id": "8f2dca40dfb643b2844749d1930a3c64",
+  "title": "DevMtElbertAudience",
+  "description": "DevMtElbertAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "fefe1db11f534484987ef50ec1e25225",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-09T13:43:02.088Z",
+  "lastModifiedDate": "2021-01-14T15:52:50.876Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "8f2dca40dfb643b2844749d1930a3c64",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

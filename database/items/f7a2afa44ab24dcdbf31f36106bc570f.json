@@ -1,0 +1,73 @@
+{
+  "id": "f7a2afa44ab24dcdbf31f36106bc570f",
+  "title": "Strontium",
+  "description": "Strontium",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7e1b3a8e19c949c0bfaed0424a8c4bb5",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-13T23:20:29.275Z",
+  "lastModifiedDate": "2021-01-13T23:54:38.161Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "7e1b3a8e19c949c0bfaed0424a8c4bb5"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Strontium"
+    }
+  },
+  "entitlementName": "f7a2afa44ab24dcdbf31f36106bc570f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3b2f90967d0c4ca0898c22ff38e9441d",
+      "appId": "6d564ff21f9c45b7b782b7113ad60be8",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-01-13T00:00:00.000Z"
+    }
+  ],
+  "developer": "Kongregate",
+  "developerId": "o-ztdpxjrm7lyemkjl4967l76k4vzxfr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,47 @@
+{
+  "id": "08c74bf21d2f49519d2cb612c6402237",
+  "title": "MtElbertGeneralAudience",
+  "description": "MtElbertGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/fefe1db11f534484987ef50ec1e25225/item/ESRB_T_Violence-840x403-5b53761ab1eff24381746101a5506d86.jpg",
+      "md5": "5b53761ab1eff24381746101a5506d86",
+      "width": 840,
+      "height": 403,
+      "size": 15333,
+      "uploadedDate": "2021-01-14T02:47:27.167Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "fefe1db11f534484987ef50ec1e25225",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-09T13:43:01.883Z",
+  "lastModifiedDate": "2021-01-14T15:52:50.859Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "08c74bf21d2f49519d2cb612c6402237",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
