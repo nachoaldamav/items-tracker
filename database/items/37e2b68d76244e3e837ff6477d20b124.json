@@ -1,7 +1,18 @@
 {
   "id": "37e2b68d76244e3e837ff6477d20b124",
-  "title": "UniversityGeneralAudience",
-  "description": "UniversityGeneralAudience",
+  "title": "ScottPilgrimGeneralAudience",
+  "description": "ScottPilgrimGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/a443faa3d6304a7dacd7456e0f6b0fa6/item/scoooott-842x485-fa3be8cd7fb2669dde02d507bbc1375b.png",
+      "md5": "fa3be8cd7fb2669dde02d507bbc1375b",
+      "width": 842,
+      "height": 485,
+      "size": 14873,
+      "uploadedDate": "2021-01-14T03:49:32.351Z"
+    }
+  ],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +24,7 @@
   "namespace": "a443faa3d6304a7dacd7456e0f6b0fa6",
   "status": "ACTIVE",
   "creationDate": "2020-08-31T18:20:59.058Z",
-  "lastModifiedDate": "2020-09-10T19:54:19.162Z",
+  "lastModifiedDate": "2021-01-14T04:55:39.483Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -29,6 +40,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
   "requiresSecureAccount": false,
   "unsearchable": false
 }
