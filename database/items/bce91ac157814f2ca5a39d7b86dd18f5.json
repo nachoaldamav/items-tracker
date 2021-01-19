@@ -16,7 +16,7 @@
   "namespace": "73b62f4875a248d8acc95966ce94c80f",
   "status": "ACTIVE",
   "creationDate": "2021-01-08T17:57:35.046Z",
-  "lastModifiedDate": "2021-01-11T17:28:26.993Z",
+  "lastModifiedDate": "2021-01-19T14:03:20.883Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -55,9 +55,10 @@
       "id": "7dedad5537bd4df6a1ee61aa2bf58cd4",
       "appId": "c35b9699c4e24c56976b5bd8eceba464",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
-      "dateAdded": "2021-01-11T17:07:03.547Z"
+      "dateAdded": "2021-01-11T00:00:00.000Z"
     }
   ],
   "developer": "Raw Fury",
