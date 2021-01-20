@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/IM-POP-UP_EN-1200x1600-11461b51e66067f263c36e08bbd07aed.jpg",
-      "md5": "11461b51e66067f263c36e08bbd07aed",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/BREAKPOINT_STANDARD_BREAKPOINT STANDARD_EPIC_TRIAL_WE_Portrait_Image_1200x1600-1200x1600-8b620c24084fce7c06f86361ad9e912f.png",
+      "md5": "8b620c24084fce7c06f86361ad9e912f",
       "width": 1200,
       "height": 1600,
-      "size": 1525710,
-      "uploadedDate": "2020-07-16T15:26:17.093Z"
+      "size": 3873448,
+      "uploadedDate": "2021-01-19T17:18:32.278Z"
     },
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/HeroBanner_3840x2160_EN-3840x2160-24280765b963c7c7ca1c77e5dd10e90c.jpg",
-      "md5": "24280765b963c7c7ca1c77e5dd10e90c",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/breakpoint-standard-breakpoint-standard-epic-key-art-wide-3840x2160-uk-3840x2160-0ca419868f6e-3840x2160-66346bf6887a4a82d4b477e23d625b59.jpg",
+      "md5": "66346bf6887a4a82d4b477e23d625b59",
       "width": 3840,
       "height": 2160,
-      "size": 4410118,
-      "uploadedDate": "2020-07-16T15:26:42.106Z"
+      "size": 790349,
+      "uploadedDate": "2021-01-19T17:20:39.479Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
   "status": "ACTIVE",
   "creationDate": "2020-02-04T22:47:39.940Z",
-  "lastModifiedDate": "2020-12-16T16:41:18.968Z",
+  "lastModifiedDate": "2021-01-20T00:29:37.970Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -61,6 +61,14 @@
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "9c98b0f790c54ef18743b531e832fed7"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
     },
     "FolderName": {
       "type": "STRING",

@@ -36,7 +36,7 @@
   "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
   "status": "ACTIVE",
   "creationDate": "2019-08-29T14:35:57.216Z",
-  "lastModifiedDate": "2020-12-16T16:37:12.224Z",
+  "lastModifiedDate": "2021-01-19T17:21:56.341Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -62,6 +62,14 @@
       "type": "STRING",
       "value": "true"
     },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "a7b352f6ce61426399c0235600fadd09"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "GhostReconBreakpointBeta"
@@ -86,6 +94,5 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "ageGatings": {},
   "unsearchable": false
 }

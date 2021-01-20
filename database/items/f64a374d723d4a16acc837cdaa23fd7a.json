@@ -16,19 +16,19 @@
   "namespace": "e192c537dd6d47ce9a9b00b643c3cdb9",
   "status": "ACTIVE",
   "creationDate": "2020-08-25T22:23:35.925Z",
-  "lastModifiedDate": "2021-01-11T19:07:00.690Z",
+  "lastModifiedDate": "2021-01-19T20:43:18.828Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
     },
-    "CloudSaveFolder": {
+    "extraLaunchOption_001_Args": {
       "type": "STRING",
-      "value": "{AppData}/Medium/Saved/SaveGames/"
+      "value": "-dx12"
     },
-    "CloudIncludeList": {
+    "extraLaunchOption_001_Name": {
       "type": "STRING",
-      "value": "*.sav"
+      "value": "The Medium DirectX Selector"
     },
     "FolderName": {
       "type": "STRING",
