@@ -36,8 +36,12 @@
   "namespace": "bc2b0372eaa448469cb9a769f27acea1",
   "status": "ACTIVE",
   "creationDate": "2020-04-16T20:33:06.704Z",
-  "lastModifiedDate": "2020-11-19T12:28:14.041Z",
+  "lastModifiedDate": "2021-01-21T15:58:08.405Z",
   "customAttributes": {
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
     "RequirementsJson": {
       "type": "STRING",
       "value": "[]"
