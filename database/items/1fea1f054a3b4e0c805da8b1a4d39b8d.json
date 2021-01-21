@@ -37,7 +37,7 @@
   "namespace": "b156c3365a5b4cb9a01a5e1108b4e3f4",
   "status": "ACTIVE",
   "creationDate": "2020-11-09T13:43:26.202Z",
-  "lastModifiedDate": "2021-01-07T22:46:35.257Z",
+  "lastModifiedDate": "2021-01-21T15:58:08.433Z",
   "customAttributes": {
     "UseAccessControl": {
       "type": "STRING",
@@ -73,7 +73,7 @@
     },
     "RegistryPath": {
       "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\EA Games\\STAR WARS Battlefront II"
+      "value": "SOFTWARE\\\\WOW6432Node\\\\EA Games\\\\STAR WARS Battlefront II"
     },
     "ThirdPartyManagedApp": {
       "type": "STRING",
@@ -89,7 +89,7 @@
     },
     "RegistryLocation": {
       "type": "STRING",
-      "value": "SOFTWARE\\EA Games\\STAR WARS Battlefront II\\Install Dir"
+      "value": "SOFTWARE\\\\EA Games\\\\STAR WARS Battlefront II\\\\Install Dir"
     },
     "RegistryKey": {
       "type": "STRING",
