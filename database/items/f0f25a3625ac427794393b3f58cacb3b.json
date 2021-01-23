@@ -1,0 +1,72 @@
+{
+  "id": "f0f25a3625ac427794393b3f58cacb3b",
+  "title": "Arsenic",
+  "description": "Arsenic",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3dd7b519d7ab4631ae96d3efa8588514",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-21T18:27:12.527Z",
+  "lastModifiedDate": "2021-01-21T18:39:50.658Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "3dd7b519d7ab4631ae96d3efa8588514"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Arsenic"
+    }
+  },
+  "entitlementName": "f0f25a3625ac427794393b3f58cacb3b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "350b5256cedf4a14ad523d3a79b6e3ea",
+      "appId": "b9e848fc5e844f4285b0624789476664",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-01-21T00:00:00.000Z"
+    }
+  ],
+  "developer": "Massive Damage",
+  "developerId": "o-nfrzd5cr4auuxqxmyzuezwhahtmstc",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
