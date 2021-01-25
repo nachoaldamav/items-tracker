@@ -36,7 +36,7 @@
   "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
   "status": "ACTIVE",
   "creationDate": "2020-03-23T16:03:13.051Z",
-  "lastModifiedDate": "2021-01-19T17:21:56.339Z",
+  "lastModifiedDate": "2021-01-25T16:59:16.625Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -68,11 +68,11 @@
     },
     "partnerLinkType": {
       "type": "STRING",
-      "value": "ubisoft"
+      "value": "[]"
     },
     "partnerLinkId": {
       "type": "STRING",
-      "value": "366ad72c018a4c3893ecf209b2171763"
+      "value": "[]"
     },
     "extraLaunchOption_001_Name": {
       "type": "STRING",
@@ -106,5 +106,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }
