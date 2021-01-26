@@ -16,15 +16,23 @@
   "namespace": "e192c537dd6d47ce9a9b00b643c3cdb9",
   "status": "ACTIVE",
   "creationDate": "2020-08-25T22:23:35.925Z",
-  "lastModifiedDate": "2021-01-21T21:48:32.596Z",
+  "lastModifiedDate": "2021-01-25T22:08:02.879Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
     },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Medium/Saved/SaveGames/"
+    },
     "extraLaunchOption_001_Args": {
       "type": "STRING",
       "value": "-dx12"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
     },
     "extraLaunchOption_001_Name": {
       "type": "STRING",

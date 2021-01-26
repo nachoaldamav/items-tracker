@@ -17,11 +17,15 @@
   "namespace": "1c4745021d4243a783b459d928b9088f",
   "status": "ACTIVE",
   "creationDate": "2020-10-16T12:35:08.493Z",
-  "lastModifiedDate": "2020-10-16T12:46:03.269Z",
+  "lastModifiedDate": "2021-01-25T17:42:04.969Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/Octopath_Traveler/EpicGamesStore/"
     },
     "FolderName": {
       "type": "STRING",
