@@ -1,0 +1,74 @@
+{
+  "id": "1e8dded277754e9193c03d7b7e06dde5",
+  "title": "ismDPC",
+  "description": "ismDPC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3671db367c594e2ab5020105dc52dc65",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-26T14:06:43.239Z",
+  "lastModifiedDate": "2020-11-16T12:22:43.921Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "3671db367c594e2ab5020105dc52dc65"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ismDPC"
+    }
+  },
+  "entitlementName": "1e8dded277754e9193c03d7b7e06dde5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "276592c4924e43d59382456b32078b91",
+      "appId": "3cfe73c3c7ed41ad99f616a231a74202",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-26T00:00:00.000Z"
+    }
+  ],
+  "developer": "Square Enix Japan",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567S8DTzaCX9NZf3O5PY91ejKH4",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

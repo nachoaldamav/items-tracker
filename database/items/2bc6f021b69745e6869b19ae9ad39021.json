@@ -1,0 +1,34 @@
+{
+  "id": "2bc6f021b69745e6869b19ae9ad39021",
+  "title": "DevMinskinAudience",
+  "description": "DevMinskinAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "1abab99ab9d54d16abba65857355f017",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-09T18:03:05.585Z",
+  "lastModifiedDate": "2020-11-09T18:06:52.947Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "2bc6f021b69745e6869b19ae9ad39021",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Bossa Studios",
+  "developerId": "o-2xhhr8jdtcqt7uprgbpvf7g9k2vppu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

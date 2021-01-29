@@ -1,0 +1,34 @@
+{
+  "id": "d882eaeccde44f0eb8ab623df331060a",
+  "title": "ScandiumGeneralAudience",
+  "description": "ScandiumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "02ad04ef7a91432b93caef1f421ca67f",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-20T22:38:25.757Z",
+  "lastModifiedDate": "2020-11-20T23:28:35.075Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d882eaeccde44f0eb8ab623df331060a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Brave Software, Inc",
+  "developerId": "o-hx4hxya49vl4zjxyjz5wc3ujukplfq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,73 @@
+{
+  "id": "7542b4e84583402e910c4ab5830507c7",
+  "title": "Pineapple QA",
+  "description": "Pineapple QA",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6f43ab8025ad42d18510aa91e9eb688b",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-30T20:17:42.662Z",
+  "lastModifiedDate": "2020-11-30T20:22:33.689Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "6f43ab8025ad42d18510aa91e9eb688b"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PineappleQA"
+    }
+  },
+  "entitlementName": "7542b4e84583402e910c4ab5830507c7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3e9ee5598504434085b0a2bc753ba307",
+      "appId": "ed777bcf27974ec596ad3d38dbb5552e",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-30T20:20:14.709Z"
+    }
+  ],
+  "developer": "Square Enix Japan",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

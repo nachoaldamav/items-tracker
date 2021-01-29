@@ -1,0 +1,52 @@
+{
+  "id": "dcccd5cdf1ef42e7a7819e32c163d5a8",
+  "title": "PineappleStaging",
+  "description": "PineappleStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6f43ab8025ad42d18510aa91e9eb688b",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-30T20:17:18.101Z",
+  "lastModifiedDate": "2020-11-30T20:22:33.690Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PineappleStaging"
+    }
+  },
+  "entitlementName": "dcccd5cdf1ef42e7a7819e32c163d5a8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6638bd9b04b14c6ea29f0800f33fff70",
+      "appId": "0a2d3a1b628c4cfabdb4f2dc502b6e17",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-30T20:20:28.395Z"
+    }
+  ],
+  "developer": "Square Enix Japan",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
