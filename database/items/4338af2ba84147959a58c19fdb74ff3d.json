@@ -16,7 +16,7 @@
   "namespace": "c22a84689e1a4ad083b2b4ba0ee396f4",
   "status": "ACTIVE",
   "creationDate": "2020-11-12T21:13:42.910Z",
-  "lastModifiedDate": "2020-11-12T21:22:29.140Z",
+  "lastModifiedDate": "2021-01-29T22:26:15.421Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -35,9 +35,10 @@
       "id": "4e7ddc75138e4048b43257cc71609162",
       "appId": "fb4246480a15423686f3a9696c55ec32",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
-      "dateAdded": "2020-11-12T21:20:22.833Z"
+      "dateAdded": "2020-11-12T00:00:00.000Z"
     }
   ],
   "developer": "Beamdog",
