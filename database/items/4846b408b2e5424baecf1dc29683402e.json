@@ -4,22 +4,22 @@
   "description": "Rogue Company",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/item/RoCo_EGS_BaseGame_PortraitProduct_1200x1600-1200x1600-886450991cadd15b0e5e08b80f671556.jpg",
-      "md5": "886450991cadd15b0e5e08b80f671556",
-      "width": 1200,
-      "height": 1600,
-      "size": 477073,
-      "uploadedDate": "2020-07-20T15:32:04.173Z"
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/item/RoCo-EGS-Kestrel-Boxart-LandscapeProductImage-2560x1440-2560x1440-5a1d53a02bebe1d0b1fb9295675f6492.jpg",
+      "md5": "5a1d53a02bebe1d0b1fb9295675f6492",
+      "width": 2560,
+      "height": 1440,
+      "size": 290837,
+      "uploadedDate": "2021-02-02T01:13:46.658Z"
     },
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/item/RoCo_EGS_BaseGame_HeroCarousel_1920x1080-1920x1080-ccb9e1e2dc0a89e1c1b5aa29c1a18769.jpg",
-      "md5": "ccb9e1e2dc0a89e1c1b5aa29c1a18769",
-      "width": 1920,
-      "height": 1080,
-      "size": 570945,
-      "uploadedDate": "2020-07-20T15:32:12.198Z"
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/item/RoCo-EGS-Kestrel-Boxart-PortraitProductImage-1200x1600-1200x1600-f9df422de636cc3a1a8de10ace9f1a1c.jpg",
+      "md5": "f9df422de636cc3a1a8de10ace9f1a1c",
+      "width": 1200,
+      "height": 1600,
+      "size": 190292,
+      "uploadedDate": "2021-02-02T01:13:51.506Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
   "status": "ACTIVE",
   "creationDate": "2019-08-16T21:22:27.462Z",
-  "lastModifiedDate": "2020-11-23T15:14:23.057Z",
+  "lastModifiedDate": "2021-02-03T12:03:23.288Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
