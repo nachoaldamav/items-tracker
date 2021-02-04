@@ -1,0 +1,73 @@
+{
+  "id": "48353a502e72433298f25827e03dbff0",
+  "title": "Bane",
+  "description": "Bane",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7e508f543b05465abe3a935960eb70ac",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-15T12:56:50.481Z",
+  "lastModifiedDate": "2021-02-03T04:29:45.353Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "7e508f543b05465abe3a935960eb70ac"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Bane"
+    }
+  },
+  "entitlementName": "48353a502e72433298f25827e03dbff0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5618de8423984b47a36993a80035ac38",
+      "appId": "40cb42e38c0b4a14a1bb133eb3291572",
+      "platform": [
+        "Windows",
+        "Win32"
+      ],
+      "dateAdded": "2020-10-15T00:00:00.000Z"
+    }
+  ],
+  "developer": "Codename Entertainment",
+  "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

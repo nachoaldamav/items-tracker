@@ -36,7 +36,7 @@
   "namespace": "07f4a7dd3c884e5d87e9a209716962ca",
   "status": "ACTIVE",
   "creationDate": "2020-03-04T02:18:13.616Z",
-  "lastModifiedDate": "2021-01-06T21:48:17.048Z",
+  "lastModifiedDate": "2021-02-03T18:52:20.202Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -67,8 +67,10 @@
       "id": "df00581a1d0f49d19c13ea5a077338db",
       "appId": "NightjarStaging",
       "platform": [
-        "Windows"
-      ]
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-02-03T18:52:14.759Z"
     }
   ],
   "developer": "Mohawk Games",

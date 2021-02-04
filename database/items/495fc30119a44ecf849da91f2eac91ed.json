@@ -15,7 +15,7 @@
   "namespace": "badb0ee71b474ed591ec43212547cfc8",
   "status": "ACTIVE",
   "creationDate": "2021-01-11T23:00:35.189Z",
-  "lastModifiedDate": "2021-02-03T03:13:33.171Z",
+  "lastModifiedDate": "2021-02-03T23:28:26.328Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -24,9 +24,10 @@
   },
   "entitlementName": "495fc30119a44ecf849da91f2eac91ed",
   "entitlementType": "AUDIENCE",
-  "itemType": "DURABLE",
+  "itemType": "CONSUMABLE",
   "developer": "Hi-Rez Studios",
   "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "useCount": 1,
   "eulaIds": [
     "egstore"
   ],
