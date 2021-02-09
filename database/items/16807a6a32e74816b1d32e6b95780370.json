@@ -36,7 +36,7 @@
   "namespace": "07f4a7dd3c884e5d87e9a209716962ca",
   "status": "ACTIVE",
   "creationDate": "2020-03-04T02:18:13.616Z",
-  "lastModifiedDate": "2021-02-03T18:52:20.202Z",
+  "lastModifiedDate": "2021-02-08T20:17:02.157Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -46,6 +46,10 @@
       "type": "STRING",
       "value": "{UserDir}/My Games/OldWorld/Dev/Saves/"
     },
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-batchmode -nographics -server"
+    },
     "AllowMultipleInstances": {
       "type": "STRING",
       "value": "true"
@@ -53,6 +57,10 @@
     "MaxSizeMB": {
       "type": "STRING",
       "value": "2000"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Launch Dedicated Server"
     },
     "FolderName": {
       "type": "STRING",
@@ -70,7 +78,7 @@
         "Windows",
         "Mac"
       ],
-      "dateAdded": "2021-02-03T18:52:14.759Z"
+      "dateAdded": "2021-02-03T00:00:00.000Z"
     }
   ],
   "developer": "Mohawk Games",
