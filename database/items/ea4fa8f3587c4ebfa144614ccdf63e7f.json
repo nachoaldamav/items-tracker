@@ -1,7 +1,7 @@
 {
-  "id": "5f5416726fa948cb9df451e138523617",
-  "title": "Crayta",
-  "description": "Crayta",
+  "id": "ea4fa8f3587c4ebfa144614ccdf63e7f",
+  "title": "Crayta Pre-Purchase",
+  "description": "Crayta Pre-Purchase",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,8 +35,8 @@
   ],
   "namespace": "bb9f87bb3d0042258bb1c97397bc60f2",
   "status": "ACTIVE",
-  "creationDate": "2020-09-25T19:53:46.131Z",
-  "lastModifiedDate": "2021-02-10T14:53:01.567Z",
+  "creationDate": "2021-02-06T01:50:09.611Z",
+  "lastModifiedDate": "2021-02-10T14:53:01.577Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -58,22 +58,26 @@
       "type": "STRING",
       "value": "[]"
     },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1615392000"
+    },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Crayta"
+      "value": "CraytaPrePurchase"
     }
   },
-  "entitlementName": "5f5416726fa948cb9df451e138523617",
+  "entitlementName": "ea4fa8f3587c4ebfa144614ccdf63e7f",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
       "id": "2858424089da425caf6d6e600ce94c14",
-      "appId": "a0a49d82e3f64c1b81873397a6e92f09",
+      "appId": "PikesPeakDummy",
       "platform": [
         "Windows"
       ],
@@ -87,7 +91,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
-  "applicationId": "fghi4567SETDh9wBbVK3riBygctDAHkL",
   "requiresSecureAccount": false,
   "unsearchable": false
 }

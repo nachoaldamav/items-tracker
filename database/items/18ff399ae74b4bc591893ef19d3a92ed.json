@@ -1,7 +1,7 @@
 {
   "id": "18ff399ae74b4bc591893ef19d3a92ed",
-  "title": "Rosemallow DLC01 Staging Audience",
-  "description": "Rosemallow DLC01 Staging Audience",
+  "title": "Rosemallow Internal DLC01 Audience",
+  "description": "Rosemallow Internal DLC01 Audience",
   "keyImages": [
     {
       "type": "ESRB",
@@ -24,7 +24,7 @@
   "namespace": "rosemallow",
   "status": "ACTIVE",
   "creationDate": "2020-02-10T16:44:22.801Z",
-  "lastModifiedDate": "2020-10-23T14:06:24.573Z",
+  "lastModifiedDate": "2021-02-10T01:36:40.163Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -42,5 +42,6 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
   "unsearchable": false
 }
