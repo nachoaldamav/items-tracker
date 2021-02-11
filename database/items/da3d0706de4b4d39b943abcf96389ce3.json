@@ -1,7 +1,27 @@
 {
   "id": "da3d0706de4b4d39b943abcf96389ce3",
-  "title": "Hiddenite",
-  "description": "Hiddenite",
+  "title": "Rage 2",
+  "description": "Rage 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/item/egs-rage2-idsoftware-s1-2560x1440-6c0e47266975-2560x1440-17dce1a4b7078e52a2d710deb8f23a63.jpg",
+      "md5": "17dce1a4b7078e52a2d710deb8f23a63",
+      "width": 2560,
+      "height": 1440,
+      "size": 557650,
+      "uploadedDate": "2021-01-20T04:16:42.276Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/item/egs-rage2-idsoftware-s2-1200x1600-ee8fcbffe5b0-1200x1600-d692008156cef0c206454ef84c987499.jpg",
+      "md5": "d692008156cef0c206454ef84c987499",
+      "width": 1200,
+      "height": 1600,
+      "size": 461436,
+      "uploadedDate": "2021-01-20T04:16:57.054Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,7 +36,7 @@
   "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
   "status": "ACTIVE",
   "creationDate": "2020-11-04T19:34:42.388Z",
-  "lastModifiedDate": "2020-12-21T16:44:40.410Z",
+  "lastModifiedDate": "2021-02-11T15:16:50.433Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,7 +64,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Hiddenite"
+      "value": "Rage2"
     }
   },
   "entitlementName": "da3d0706de4b4d39b943abcf96389ce3",
