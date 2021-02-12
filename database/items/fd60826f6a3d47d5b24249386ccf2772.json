@@ -1,7 +1,7 @@
 {
-  "id": "5aac304f0e8948268ddfd404334dbdc7",
-  "title": "Kingdom Hearts 1.5 + 2.5 Remix",
-  "description": "Kingdom Hearts 1.5 + 2.5 Remix",
+  "id": "fd60826f6a3d47d5b24249386ccf2772",
+  "title": "Kingdom Hearts 1.5 + 2.5 Remix Pre-Purchase",
+  "description": "Kingdom Hearts 1.5 + 2.5 Remix Pre-Purchase",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -10,7 +10,7 @@
       "width": 1920,
       "height": 1080,
       "size": 368454,
-      "uploadedDate": "2021-02-09T23:50:15.631Z"
+      "uploadedDate": "2021-02-03T01:22:36.148Z"
     },
     {
       "type": "DieselGameBoxTall",
@@ -19,7 +19,7 @@
       "width": 1200,
       "height": 1600,
       "size": 986618,
-      "uploadedDate": "2021-02-09T23:50:25.147Z"
+      "uploadedDate": "2021-02-03T01:22:45.684Z"
     }
   ],
   "categories": [
@@ -35,8 +35,8 @@
   ],
   "namespace": "4158b699dd70447a981fee752d970a3e",
   "status": "ACTIVE",
-  "creationDate": "2020-09-11T11:59:40.649Z",
-  "lastModifiedDate": "2021-02-11T19:08:18.502Z",
+  "creationDate": "2021-02-03T01:21:25.395Z",
+  "lastModifiedDate": "2021-02-11T19:08:18.517Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -58,22 +58,26 @@
       "type": "STRING",
       "value": "[]"
     },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1617159600"
+    },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
     },
     "FolderName": {
       "type": "STRING",
-      "value": "KingdomHearts1525Remix"
+      "value": "KH1525RemixDummy"
     }
   },
-  "entitlementName": "5aac304f0e8948268ddfd404334dbdc7",
+  "entitlementName": "fd60826f6a3d47d5b24249386ccf2772",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
       "id": "b6a7d007887349cf9fb8a3324971ccc3",
-      "appId": "68c214c58f694ae88c2dab6f209b43e4",
+      "appId": "GrapefruitDummy",
       "platform": [
         "Windows"
       ],

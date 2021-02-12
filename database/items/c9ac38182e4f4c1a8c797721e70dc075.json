@@ -1,7 +1,8 @@
 {
   "id": "c9ac38182e4f4c1a8c797721e70dc075",
-  "title": "GrapefruitGeneralAudience",
-  "description": "GrapefruitGeneralAudience",
+  "title": "Grapefruit PrePurchase Audience",
+  "description": "Grapefruit PrePurchase Audience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +14,7 @@
   "namespace": "4158b699dd70447a981fee752d970a3e",
   "status": "ACTIVE",
   "creationDate": "2020-09-11T11:59:40.534Z",
-  "lastModifiedDate": "2020-09-11T12:04:24.661Z",
+  "lastModifiedDate": "2021-02-11T19:11:59.712Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -29,6 +30,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "requiresSecureAccount": false,
   "unsearchable": false
 }

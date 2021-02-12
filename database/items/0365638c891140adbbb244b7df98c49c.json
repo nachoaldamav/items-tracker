@@ -2,7 +2,26 @@
   "id": "0365638c891140adbbb244b7df98c49c",
   "title": "Chivalry 2",
   "description": "Chivalry 2",
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/item/EGS_Chivalry2_TornBannerStudios_S5-1920x1080-2aedac7594a774a43217105f0b2b8444.jpg",
+      "md5": "2aedac7594a774a43217105f0b2b8444",
+      "width": 1920,
+      "height": 1080,
+      "size": 532761,
+      "uploadedDate": "2021-02-04T02:19:36.893Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/item/EGS_Chivalry2_TornBannerStudios_S6-1200x1600-48e64699fc5f31e4f85703fa410cee06.jpg",
+      "md5": "48e64699fc5f31e4f85703fa410cee06",
+      "width": 1200,
+      "height": 1600,
+      "size": 518382,
+      "uploadedDate": "2021-02-04T02:19:46.128Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -17,7 +36,7 @@
   "namespace": "bd46d4ce259349e5bd8b3ded20274737",
   "status": "ACTIVE",
   "creationDate": "2020-08-12T15:57:33.333Z",
-  "lastModifiedDate": "2021-01-28T20:07:28.938Z",
+  "lastModifiedDate": "2021-02-11T19:19:39.018Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -38,6 +57,10 @@
     "RequirementsJson": {
       "type": "STRING",
       "value": "[]"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1623124800"
     },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",

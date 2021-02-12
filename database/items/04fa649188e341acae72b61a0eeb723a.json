@@ -1,26 +1,27 @@
 {
-  "id": "c45a6a56d2b5491fbd4516d75dcb3af1",
-  "title": "DevGrapefruitAudience",
-  "description": "DevGrapefruitAudience",
+  "id": "04fa649188e341acae72b61a0eeb723a",
+  "title": "PeachPrePurchaseAudience",
+  "description": "PeachPrePurchaseAudience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
     },
     {
-      "path": "developer"
+      "path": "public"
     }
   ],
-  "namespace": "4158b699dd70447a981fee752d970a3e",
+  "namespace": "c8ff067c1c984cd7ab1998e8a9afc8b6",
   "status": "ACTIVE",
-  "creationDate": "2020-09-11T11:59:40.591Z",
-  "lastModifiedDate": "2021-02-11T19:11:59.711Z",
+  "creationDate": "2021-02-03T02:16:16.996Z",
+  "lastModifiedDate": "2021-02-11T19:11:38.050Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
     }
   },
-  "entitlementName": "c45a6a56d2b5491fbd4516d75dcb3af1",
+  "entitlementName": "04fa649188e341acae72b61a0eeb723a",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "developer": "Square Enix Japan",
@@ -29,6 +30,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "requiresSecureAccount": false,
   "unsearchable": false
 }

@@ -36,7 +36,7 @@
   "namespace": "73b62f4875a248d8acc95966ce94c80f",
   "status": "ACTIVE",
   "creationDate": "2021-01-08T17:57:35.046Z",
-  "lastModifiedDate": "2021-01-20T22:37:43.973Z",
+  "lastModifiedDate": "2021-02-11T20:13:03.887Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -46,17 +46,9 @@
       "type": "STRING",
       "value": "73b62f4875a248d8acc95966ce94c80f"
     },
-    "CloudSaveFolder_MAC": {
-      "type": "STRING",
-      "value": "{UserLibrary}\\Application Support\\com.rawfury.longhathouse.DandaraOSX"
-    },
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
-    },
-    "CloudSaveFolder": {
-      "type": "STRING",
-      "value": "{AppData}/../LocalLow/Long Hat House/Dandara"
     },
     "UseAccessControl": {
       "type": "STRING",

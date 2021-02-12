@@ -1,7 +1,8 @@
 {
-  "id": "1e8dded277754e9193c03d7b7e06dde5",
+  "id": "fc20901b421c41b4be4e405b758a9b98",
   "title": "KINGDOM HEARTS Melody of Memory",
   "description": "KINGDOM HEARTS Melody of Memory",
+  "longDescription": "KINGDOM HEARTS Melody of Memory",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -10,7 +11,7 @@
       "width": 2560,
       "height": 1440,
       "size": 775899,
-      "uploadedDate": "2021-02-10T00:59:04.348Z"
+      "uploadedDate": "2021-01-28T00:29:43.444Z"
     },
     {
       "type": "DieselGameBoxTall",
@@ -19,7 +20,7 @@
       "width": 1200,
       "height": 1600,
       "size": 773953,
-      "uploadedDate": "2021-02-10T00:59:13.381Z"
+      "uploadedDate": "2021-01-28T00:29:56.757Z"
     }
   ],
   "categories": [
@@ -35,8 +36,8 @@
   ],
   "namespace": "3671db367c594e2ab5020105dc52dc65",
   "status": "ACTIVE",
-  "creationDate": "2020-10-26T14:06:43.239Z",
-  "lastModifiedDate": "2021-02-11T19:08:51.126Z",
+  "creationDate": "2021-01-28T00:27:48.586Z",
+  "lastModifiedDate": "2021-02-11T19:08:51.151Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -58,22 +59,26 @@
       "type": "STRING",
       "value": "[]"
     },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1617159600"
+    },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
     },
     "FolderName": {
       "type": "STRING",
-      "value": "KingdomHeartsMM"
+      "value": "ismDPCDummy"
     }
   },
-  "entitlementName": "1e8dded277754e9193c03d7b7e06dde5",
+  "entitlementName": "fc20901b421c41b4be4e405b758a9b98",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
       "id": "276592c4924e43d59382456b32078b91",
-      "appId": "3cfe73c3c7ed41ad99f616a231a74202",
+      "appId": "ismDPCDummy",
       "platform": [
         "Windows"
       ],
