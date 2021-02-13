@@ -1,0 +1,91 @@
+{
+  "id": "35d0baff57d048689ad3c853ced41f21",
+  "title": "GALAHAD 3093",
+  "description": "GALAHAD 3093",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7a6c7ce416d7436895e12c94917eb5f9/item/EGS_Amechbasedheroshootersetin3093_SimutronicsCorp_S3-2560x1440-48b0044bc809e2d3a5d1ac571f5b6ce0.jpg",
+      "md5": "48b0044bc809e2d3a5d1ac571f5b6ce0",
+      "width": 2560,
+      "height": 1440,
+      "size": 686708,
+      "uploadedDate": "2021-01-22T17:53:27.209Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7a6c7ce416d7436895e12c94917eb5f9/item/EGS_Amechbasedheroshootersetin3093_SimutronicsCorp_S2-1200x1600-886b2fc5069380d7b8ce9c9bbaf08f16.jpg",
+      "md5": "886b2fc5069380d7b8ce9c9bbaf08f16",
+      "width": 1200,
+      "height": 1600,
+      "size": 400976,
+      "uploadedDate": "2021-01-22T17:53:37.648Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7a6c7ce416d7436895e12c94917eb5f9",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-16T18:23:19.766Z",
+  "lastModifiedDate": "2021-02-11T19:20:34.974Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "7a6c7ce416d7436895e12c94917eb5f9"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GALAHAD3093"
+    }
+  },
+  "entitlementName": "35d0baff57d048689ad3c853ced41f21",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "31f4731e21a84f908575fe7ac91ce561",
+      "appId": "6fe79531cd404709a9b9f5268a481b3e",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-09T00:00:00.000Z"
+    }
+  ],
+  "developer": "Simutronics",
+  "developerId": "o-6x452gcnptzc6e8v8c3usadhgnvldc",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

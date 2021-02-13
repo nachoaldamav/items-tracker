@@ -1,0 +1,51 @@
+{
+  "id": "7bc60885dfa94a4caf48e226f15a1816",
+  "title": "MonacoStaging",
+  "description": "MonacoStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7a6c7ce416d7436895e12c94917eb5f9",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-16T18:23:19.817Z",
+  "lastModifiedDate": "2021-02-11T19:00:28.505Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MonacoStaging"
+    }
+  },
+  "entitlementName": "7bc60885dfa94a4caf48e226f15a1816",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "59be1e4f3b0244b28fac4e5145f2d790",
+      "appId": "e7b6eafb9ad54937ab23489bcf05746d",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-09T14:26:34.558Z"
+    }
+  ],
+  "developer": "Simutronics",
+  "developerId": "o-6x452gcnptzc6e8v8c3usadhgnvldc",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

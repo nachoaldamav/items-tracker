@@ -1,0 +1,52 @@
+{
+  "id": "7a8075637b4c47018233310c922f01d8",
+  "title": "IronStaging",
+  "description": "IronStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-23T01:09:05.798Z",
+  "lastModifiedDate": "2021-02-11T19:47:16.818Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "IronStaging"
+    }
+  },
+  "entitlementName": "7a8075637b4c47018233310c922f01d8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5a071e88717f4b49b28acf0fb18faf0b",
+      "appId": "195dde172aee42ca8523b554414329ae",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-01-23T01:36:05.549Z"
+    }
+  ],
+  "developer": "Perfect World",
+  "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

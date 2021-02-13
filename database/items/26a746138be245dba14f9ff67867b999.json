@@ -1,0 +1,34 @@
+{
+  "id": "26a746138be245dba14f9ff67867b999",
+  "title": "TelluriumGeneralAudience",
+  "description": "TelluriumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "3fbe0be2f0a44febb56dc080c3a53775",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-25T23:33:21.630Z",
+  "lastModifiedDate": "2021-02-11T23:49:13.845Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "26a746138be245dba14f9ff67867b999",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
