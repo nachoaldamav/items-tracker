@@ -1,0 +1,52 @@
+{
+  "id": "2ab4eced13a74015a59e81b6712d62fb",
+  "title": "GrunterStaging",
+  "description": "GrunterStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e49aaa31c1324e398e0b1029a0c6d390",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-12T23:40:17.494Z",
+  "lastModifiedDate": "2021-02-12T23:46:57.004Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GrunterStaging"
+    }
+  },
+  "entitlementName": "2ab4eced13a74015a59e81b6712d62fb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c86e40c3f55442d98b03a1a9020e42b4",
+      "appId": "4f6b0619759144868455326e408b856a",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-02-12T23:42:09.053Z"
+    }
+  ],
+  "developer": "Nightdive Studios",
+  "developerId": "o-v6zls34ttu4wjwlb379qfte9jaz37b",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
