@@ -1,7 +1,27 @@
 {
   "id": "48353a502e72433298f25827e03dbff0",
-  "title": "Bane",
-  "description": "Bane",
+  "title": "Idle Champions of the Forgotten Realms",
+  "description": "Idle Champions of the Forgotten Realms",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/item/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S1-2560x1440-a890c6157dce97993be432cb8338cb79.jpg",
+      "md5": "a890c6157dce97993be432cb8338cb79",
+      "width": 2560,
+      "height": 1440,
+      "size": 536899,
+      "uploadedDate": "2021-02-15T19:57:16.682Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/item/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
+      "md5": "c67f1998f4ed6ba79d9e5e71cfb30b23",
+      "width": 1200,
+      "height": 1600,
+      "size": 254582,
+      "uploadedDate": "2021-02-15T19:57:27.325Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,7 +36,7 @@
   "namespace": "7e508f543b05465abe3a935960eb70ac",
   "status": "ACTIVE",
   "creationDate": "2020-10-15T12:56:50.481Z",
-  "lastModifiedDate": "2021-02-08T16:25:54.576Z",
+  "lastModifiedDate": "2021-02-16T16:06:10.259Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,7 +64,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Bane"
+      "value": "IdleChampions"
     }
   },
   "entitlementName": "48353a502e72433298f25827e03dbff0",

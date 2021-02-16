@@ -1,7 +1,7 @@
 {
   "id": "147a0351f6c046d0ace20997199a8de8",
   "title": "SDK test mod",
-  "description": "Unnamed mod description",
+  "description": "Unnamed mod description 1",
   "longDescription": "[{\"id\":\"1601055538820.4565\",\"type\":\"text\",\"value\":{\"title\":\"test\",\"description\":\"test\"}}]",
   "keyImages": [
     {
@@ -39,28 +39,23 @@
   ],
   "namespace": "b57455ede0604d83892c3412ec3d610e",
   "status": "ACTIVE",
-  "creationDate": "2020-09-25T17:39:27.265Z",
-  "lastModifiedDate": "2020-10-05T13:05:10.914Z",
+  "creationDate": "2020-09-25T17:30:48.132Z",
+  "lastModifiedDate": "2021-02-16T12:12:48.735Z",
   "entitlementName": "147a0351f6c046d0ace20997199a8de8",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "4191fa03217f4453af87b570eb18309d",
+      "id": "096c2fc6baf4481fa9dcd455648079b9",
       "appId": "ae5f6ec938d24377b3bb0cab6d5e8b58",
       "platform": [
-        "Windows",
-        "Mac",
-        "Win32"
-      ],
-      "dateAdded": "2020-10-05T13:05:03.522Z"
+        "Windows"
+      ]
     }
   ],
   "developer": "EPAM",
   "developerId": "o-4u27qbdqvv6696cs5zlryn4hta8vrk",
-  "eulaIds": [],
   "endOfSupport": false,
-  "ageGatings": {},
   "requiresSecureAccount": false,
   "unsearchable": false
 }
