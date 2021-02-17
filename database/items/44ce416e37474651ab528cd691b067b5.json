@@ -1,8 +1,7 @@
 {
-  "id": "24955da6dc4240d9a1f206aceff2691d",
-  "title": "3 out of 10: Season Two",
-  "description": "3 out of 10: Season Two",
-  "keyImages": [],
+  "id": "44ce416e37474651ab528cd691b067b5",
+  "title": "Germanium",
+  "description": "Germanium",
   "categories": [
     {
       "path": "public"
@@ -14,10 +13,10 @@
       "path": "applications"
     }
   ],
-  "namespace": "b829cfd910554ad3ad2eb3b314e2b1ef",
+  "namespace": "4a9527d6d2984bb39d527631b94ec7f2",
   "status": "ACTIVE",
-  "creationDate": "2020-09-08T21:58:00.346Z",
-  "lastModifiedDate": "2021-02-17T07:21:41.847Z",
+  "creationDate": "2020-12-21T21:00:31.195Z",
+  "lastModifiedDate": "2021-02-11T22:33:13.369Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -25,7 +24,7 @@
     },
     "PresenceId": {
       "type": "STRING",
-      "value": "b829cfd910554ad3ad2eb3b314e2b1ef"
+      "value": "4a9527d6d2984bb39d527631b94ec7f2"
     },
     "MonitorPresence": {
       "type": "STRING",
@@ -45,24 +44,24 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "3outof10S2"
+      "value": "Germanium"
     }
   },
-  "entitlementName": "24955da6dc4240d9a1f206aceff2691d",
+  "entitlementName": "44ce416e37474651ab528cd691b067b5",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "3e9f9b79b856434099756861e90f1e1a",
-      "appId": "9a1aae61129247fb971ce96ab6a959da",
+      "id": "05699308364342b2a28020fc9f69fb21",
+      "appId": "12aa686d0df0456884a73b976652012f",
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-09-08T00:00:00.000Z"
+      "dateAdded": "2021-01-23T00:00:00.000Z"
     }
   ],
-  "developer": "Terrible Posture Games, Inc.",
-  "developerId": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+  "developer": "Milestone Srl",
+  "developerId": "o-n7dnjfk8y2kzquszv8mfn55fg68f7a",
   "eulaIds": [
     "egstore"
   ],

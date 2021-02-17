@@ -1,7 +1,7 @@
 {
-  "id": "549930da1bba428996738974c75c1cda",
-  "title": "PineappleGeneralAudience",
-  "description": "PineappleGeneralAudience",
+  "id": "deabb71c0aee4125ae9e35f035beff72",
+  "title": "GermaniumGeneralAudience",
+  "description": "GermaniumGeneralAudience",
   "categories": [
     {
       "path": "audience"
@@ -10,21 +10,21 @@
       "path": "public"
     }
   ],
-  "namespace": "6f43ab8025ad42d18510aa91e9eb688b",
+  "namespace": "4a9527d6d2984bb39d527631b94ec7f2",
   "status": "ACTIVE",
-  "creationDate": "2020-11-30T20:17:17.296Z",
-  "lastModifiedDate": "2021-02-17T14:57:15.339Z",
+  "creationDate": "2020-12-21T21:00:30.767Z",
+  "lastModifiedDate": "2021-02-11T22:32:35.850Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
     }
   },
-  "entitlementName": "549930da1bba428996738974c75c1cda",
+  "entitlementName": "deabb71c0aee4125ae9e35f035beff72",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "developer": "Square Enix (Japan)",
-  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "developer": "Milestone Srl",
+  "developerId": "o-n7dnjfk8y2kzquszv8mfn55fg68f7a",
   "eulaIds": [
     "egstore"
   ],
