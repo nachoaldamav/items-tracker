@@ -1,0 +1,60 @@
+{
+  "id": "2e496f3a9eb843bb93c79a526b0e2802",
+  "title": "CaramelStaging",
+  "description": "CaramelStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "da0fa474b1c04bfe8ee6c1f980285214",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-19T01:06:10.306Z",
+  "lastModifiedDate": "2021-02-17T00:06:57.460Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/Telltale Games/Tales from the Borderlands/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "2000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CaramelStaging"
+    }
+  },
+  "entitlementName": "2e496f3a9eb843bb93c79a526b0e2802",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "97b9870853854483a262962c6f7d9773",
+      "appId": "72cb8fa12aec4c7c9924c127dd7d3488",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-21T00:00:00.000Z"
+    }
+  ],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
