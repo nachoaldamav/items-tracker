@@ -1,0 +1,34 @@
+{
+  "id": "9e7dc09b02f04326ab6ace7ad0b3472d",
+  "title": "CaliforniumGeneralAudience",
+  "description": "CaliforniumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ab139ee5b644412781cf99f48b993b45",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-09T14:17:47.394Z",
+  "lastModifiedDate": "2021-02-09T14:37:42.021Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9e7dc09b02f04326ab6ace7ad0b3472d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "PlayEveryWare, Inc.",
+  "developerId": "o-qbfu8sbcmbzv63y379449vcs5dhdrj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

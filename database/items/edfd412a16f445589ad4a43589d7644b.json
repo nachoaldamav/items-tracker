@@ -14,12 +14,12 @@
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/sundrop/item/STANDARD HERO-2500x1406-18925359ecbf4bcb7e139341f425fb65-2500x1406-18925359ecbf4bcb7e139341f425fb65-2500x1406-18925359ecbf4bcb7e139341f425fb65.jpg",
-      "md5": "18925359ecbf4bcb7e139341f425fb65",
-      "width": 2500,
-      "height": 1406,
-      "size": 293583,
-      "uploadedDate": "2019-11-20T20:56:36.306Z"
+      "url": "https://cdn1.epicgames.com/sundrop/item/ForHonor_Store_Portrait_1200x1600-1200x1600-5f5feacf17c6a325c2fce2515afbcd1b.jpg",
+      "md5": "5f5feacf17c6a325c2fce2515afbcd1b",
+      "width": 1200,
+      "height": 1600,
+      "size": 932851,
+      "uploadedDate": "2021-02-18T20:53:08.063Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "sundrop",
   "status": "ACTIVE",
   "creationDate": "2019-02-11T17:23:29.967Z",
-  "lastModifiedDate": "2020-12-10T15:22:04.268Z",
+  "lastModifiedDate": "2021-02-18T20:53:16.130Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -106,5 +106,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

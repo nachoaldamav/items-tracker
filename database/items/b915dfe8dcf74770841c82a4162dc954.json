@@ -42,7 +42,7 @@
   "namespace": "crab",
   "status": "ACTIVE",
   "creationDate": "2019-02-26T15:59:56.670Z",
-  "lastModifiedDate": "2021-01-23T02:01:07.539Z",
+  "lastModifiedDate": "2021-02-19T15:04:20.439Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -78,7 +78,7 @@
     },
     "MaxSizeMB": {
       "type": "STRING",
-      "value": "2000"
+      "value": "5000"
     },
     "FolderName": {
       "type": "STRING",
