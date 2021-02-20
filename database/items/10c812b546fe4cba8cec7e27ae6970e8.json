@@ -33,7 +33,7 @@
   "namespace": "iris",
   "status": "ACTIVE",
   "creationDate": "2019-02-15T16:22:06.508Z",
-  "lastModifiedDate": "2021-02-18T18:49:30.784Z",
+  "lastModifiedDate": "2021-02-19T20:13:07.218Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -69,7 +69,7 @@
     },
     "MaxSizeMB": {
       "type": "STRING",
-      "value": "2000"
+      "value": "4000"
     },
     "FolderName": {
       "type": "STRING",

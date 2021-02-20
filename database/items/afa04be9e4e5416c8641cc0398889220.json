@@ -69,7 +69,7 @@
   "namespace": "vpr",
   "status": "ACTIVE",
   "creationDate": "2015-07-30T18:05:49.489Z",
-  "lastModifiedDate": "2020-07-29T16:55:28.371Z",
+  "lastModifiedDate": "2021-02-19T19:31:30.320Z",
   "customAttributes": {
     "PresenceId": {
       "type": "STRING",
@@ -94,6 +94,10 @@
     "AppAccessType": {
       "type": "STRING",
       "value": "public"
+    },
+    "NotarizedAndSigned": {
+      "type": "STRING",
+      "value": "true"
     },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
@@ -126,5 +130,6 @@
     "vpr"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

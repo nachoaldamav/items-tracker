@@ -160,9 +160,13 @@
   "namespace": "ut",
   "status": "ACTIVE",
   "creationDate": "2014-09-02T16:50:15.264Z",
-  "lastModifiedDate": "2020-01-30T14:24:44.705Z",
+  "lastModifiedDate": "2021-02-19T19:34:47.820Z",
   "customAttributes": {
     "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "NotarizedAndSigned": {
       "type": "STRING",
       "value": "true"
     },
@@ -200,5 +204,6 @@
     "ut || ue_games"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

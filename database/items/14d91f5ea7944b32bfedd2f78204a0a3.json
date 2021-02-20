@@ -42,7 +42,7 @@
   "namespace": "snapdragon",
   "status": "ACTIVE",
   "creationDate": "2019-01-11T14:08:02.310Z",
-  "lastModifiedDate": "2019-11-19T17:03:10.931Z",
+  "lastModifiedDate": "2021-02-19T18:26:09.913Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -87,6 +87,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
   "unsearchable": false
 }
