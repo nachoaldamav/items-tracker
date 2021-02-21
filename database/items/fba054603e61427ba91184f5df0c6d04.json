@@ -1,0 +1,73 @@
+{
+  "id": "fba054603e61427ba91184f5df0c6d04",
+  "title": "Seaborgium",
+  "description": "Seaborgium",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "308652d49c89470fbf45fe8696b9c1c1",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-12T22:21:41.149Z",
+  "lastModifiedDate": "2021-02-12T22:55:37.599Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "308652d49c89470fbf45fe8696b9c1c1"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Seaborgium"
+    }
+  },
+  "entitlementName": "fba054603e61427ba91184f5df0c6d04",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6f74b3c5558b48bd968d38dd231dfff2",
+      "appId": "caa2c69bf2dc40b2b883e4cbbf5b0ab2",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-02-12T22:39:43.968Z"
+    }
+  ],
+  "developer": "Spiderweb Software, Inc.",
+  "developerId": "o-bu7q3xmhe9gddmtm7z8ubuc9fnes7n",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

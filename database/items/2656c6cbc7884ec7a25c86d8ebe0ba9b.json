@@ -1,0 +1,34 @@
+{
+  "id": "2656c6cbc7884ec7a25c86d8ebe0ba9b",
+  "title": "DevSeaborgiumAudience",
+  "description": "DevSeaborgiumAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "308652d49c89470fbf45fe8696b9c1c1",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-12T22:21:40.729Z",
+  "lastModifiedDate": "2021-02-12T22:55:42.903Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "2656c6cbc7884ec7a25c86d8ebe0ba9b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Spiderweb Software, Inc.",
+  "developerId": "o-bu7q3xmhe9gddmtm7z8ubuc9fnes7n",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

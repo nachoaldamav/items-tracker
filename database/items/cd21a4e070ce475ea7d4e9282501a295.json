@@ -1,0 +1,53 @@
+{
+  "id": "cd21a4e070ce475ea7d4e9282501a295",
+  "title": "OlympusStaging",
+  "description": "OlympusStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c1e33e7e700f42429ea2b8a7459bb55b",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-22T20:26:21.617Z",
+  "lastModifiedDate": "2021-02-19T17:06:20.143Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OlympusStaging"
+    }
+  },
+  "entitlementName": "cd21a4e070ce475ea7d4e9282501a295",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ff1885f50ad4403f9b34a76db99bc439",
+      "appId": "92e727a515684c2da775b0875951936f",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-12-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567NM5XkE4ivFoS4guxdTmo55f2",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
