@@ -36,7 +36,7 @@
   "namespace": "a15e35cda898480d8fed214dc889f199",
   "status": "ACTIVE",
   "creationDate": "2020-08-13T18:11:49.496Z",
-  "lastModifiedDate": "2021-02-22T16:17:45.687Z",
+  "lastModifiedDate": "2021-02-22T21:23:17.373Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -70,13 +70,13 @@
       "type": "STRING",
       "value": "7174004b910444498a39390638ed878c"
     },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "TrialsEvolution"
-    },
-    "neverUpdate": {
-      "type": "STRING",
-      "value": "true"
     }
   },
   "entitlementName": "65b35c0c28cc459db1bb275594bcbf81",

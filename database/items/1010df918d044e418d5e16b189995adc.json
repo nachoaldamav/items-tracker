@@ -4,22 +4,22 @@
   "description": "Anno 1800 Trial",
   "keyImages": [
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/oregano/item/Hero-Banner-TW-3840x2160-c6f8f9a4e672c4be93144e9edff9f7fa.jpg",
-      "md5": "c6f8f9a4e672c4be93144e9edff9f7fa",
-      "width": 3840,
-      "height": 2160,
-      "size": 5257036,
-      "uploadedDate": "2020-03-09T16:54:05.756Z"
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/oregano/item/an18-store-portrait-1200x1600-1200x1600-665115795-1200x1600-a714948f3c93306d618c279edded0525.jpg",
+      "md5": "a714948f3c93306d618c279edded0525",
+      "width": 1200,
+      "height": 1600,
+      "size": 319037,
+      "uploadedDate": "2021-02-23T16:08:57.365Z"
     },
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/oregano/item/Portrait-TW-1280x1420-777a8d2b302988327b16c88c5bde1fd4.jpg",
-      "md5": "777a8d2b302988327b16c88c5bde1fd4",
-      "width": 1280,
-      "height": 1420,
-      "size": 1433098,
-      "uploadedDate": "2020-03-09T16:54:32.216Z"
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/oregano/item/en-anno-epic-fwe-herobanner-3840x2160-3840x2160-8b5f4baf28ce-3840x2160-5939e07c72e48642c3b2e042aa81c054.jpg",
+      "md5": "5939e07c72e48642c3b2e042aa81c054",
+      "width": 3840,
+      "height": 2160,
+      "size": 709815,
+      "uploadedDate": "2021-02-23T16:09:10.395Z"
     }
   ],
   "categories": [
@@ -36,16 +36,8 @@
   "namespace": "oregano",
   "status": "ACTIVE",
   "creationDate": "2019-12-06T15:26:43.636Z",
-  "lastModifiedDate": "2020-03-16T14:52:17.608Z",
+  "lastModifiedDate": "2021-02-23T16:09:14.981Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "oregano"
-    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
@@ -54,17 +46,13 @@
       "type": "STRING",
       "value": "true"
     },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "true"
-    },
     "RequirementsJson": {
       "type": "STRING",
       "value": "[]"
     },
-    "ProcessNames": {
+    "availableDate": {
       "type": "STRING",
-      "value": "Anno1800.exe,UbisoftGameLauncher.exe"
+      "value": "1614258000"
     },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
@@ -74,9 +62,33 @@
       "type": "STRING",
       "value": "Anno1800.exe"
     },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "aaba0a1992cc4b77ba882e10f1a0afa2"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "ANNO1800Trial"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "oregano"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "Anno1800.exe,UbisoftGameLauncher.exe"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
     }
   },
   "entitlementName": "1010df918d044e418d5e16b189995adc",
@@ -101,5 +113,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

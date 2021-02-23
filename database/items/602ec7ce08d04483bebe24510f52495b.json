@@ -42,8 +42,12 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2020-04-30T20:12:38.141Z",
-  "lastModifiedDate": "2020-04-30T20:13:16.934Z",
+  "lastModifiedDate": "2021-02-22T21:06:37.593Z",
   "customAttributes": {
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-ForceTest"
+    },
     "UseAccessControl": {
       "type": "STRING",
       "value": "true"
@@ -51,6 +55,10 @@
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Launch Test EXE"
     },
     "HasGateKeeper": {
       "type": "STRING",
