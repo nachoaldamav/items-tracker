@@ -1,26 +1,22 @@
 {
-  "id": "e08c8b8437fe40369b4dc0cee7e5b2bd",
-  "title": "Scorpio Editor",
-  "description": "Scorpio Editor",
-  "keyImages": [],
+  "id": "192fa3749369400caa5b4f13475897b1",
+  "title": "Ruthenium",
+  "description": "Ruthenium",
   "categories": [
     {
       "path": "public"
     },
     {
-      "path": "engines"
-    },
-    {
-      "path": "editors"
+      "path": "games"
     },
     {
       "path": "applications"
     }
   ],
-  "namespace": "02c14a01b7044db98de3f3a10813a42e",
+  "namespace": "0114ea1a5d674c6b8c99015e6c994aff",
   "status": "ACTIVE",
-  "creationDate": "2021-02-19T23:20:26.604Z",
-  "lastModifiedDate": "2021-02-24T00:06:59.004Z",
+  "creationDate": "2021-02-22T20:20:19.123Z",
+  "lastModifiedDate": "2021-02-22T21:32:25.583Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -28,7 +24,7 @@
     },
     "PresenceId": {
       "type": "STRING",
-      "value": "02c14a01b7044db98de3f3a10813a42e"
+      "value": "0114ea1a5d674c6b8c99015e6c994aff"
     },
     "MonitorPresence": {
       "type": "STRING",
@@ -37,10 +33,6 @@
     "UseAccessControl": {
       "type": "STRING",
       "value": "false"
-    },
-    "mods.installPath": {
-      "type": "STRING",
-      "value": "[]"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -52,25 +44,24 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "HUMANKINDeditor"
+      "value": "Ruthenium"
     }
   },
-  "entitlementName": "e08c8b8437fe40369b4dc0cee7e5b2bd",
+  "entitlementName": "192fa3749369400caa5b4f13475897b1",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "add8e2f8cea745febd6f0f3ca6013fbf",
-      "appId": "30831b0bb78c4c5bb3ca0c58d060c1b3",
+      "id": "555c5af1566a4c42a27e4a241d9b1262",
+      "appId": "ae57424d9e8c4948a03ce00ebd4de8fd",
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-10-13T00:00:00.000Z",
-      "versionTitle": ""
+      "dateAdded": "2021-02-22T00:00:00.000Z"
     }
   ],
-  "developer": "SEGA of Europe",
-  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "developer": "Raw Fury",
+  "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
   "eulaIds": [
     "egstore"
   ],

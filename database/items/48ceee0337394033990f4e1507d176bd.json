@@ -16,7 +16,7 @@
   "namespace": "02c14a01b7044db98de3f3a10813a42e",
   "status": "ACTIVE",
   "creationDate": "2020-09-08T17:30:29.626Z",
-  "lastModifiedDate": "2021-02-20T00:12:46.212Z",
+  "lastModifiedDate": "2021-02-23T19:32:41.958Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -24,7 +24,11 @@
     },
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{UserDir}/Humankind/Save Files"
+      "value": "{UserDir}/Humankind/Save Files/Cloud"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "500"
     },
     "FolderName": {
       "type": "STRING",

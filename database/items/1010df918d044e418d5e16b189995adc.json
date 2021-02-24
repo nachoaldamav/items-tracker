@@ -4,15 +4,6 @@
   "description": "Anno 1800 Trial",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/oregano/item/an18-store-portrait-1200x1600-1200x1600-665115795-1200x1600-a714948f3c93306d618c279edded0525.jpg",
-      "md5": "a714948f3c93306d618c279edded0525",
-      "width": 1200,
-      "height": 1600,
-      "size": 319037,
-      "uploadedDate": "2021-02-23T16:08:57.365Z"
-    },
-    {
       "type": "DieselGameBox",
       "url": "https://cdn1.epicgames.com/oregano/item/en-anno-epic-fwe-herobanner-3840x2160-3840x2160-8b5f4baf28ce-3840x2160-5939e07c72e48642c3b2e042aa81c054.jpg",
       "md5": "5939e07c72e48642c3b2e042aa81c054",
@@ -20,6 +11,15 @@
       "height": 2160,
       "size": 709815,
       "uploadedDate": "2021-02-23T16:09:10.395Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/oregano/item/ANNO_Epic_FWE_Portrait_1200x1600-1200x1600-df01914dc01425f1836605299d17d8f4.png",
+      "md5": "df01914dc01425f1836605299d17d8f4",
+      "width": 1200,
+      "height": 1600,
+      "size": 2995054,
+      "uploadedDate": "2021-02-23T17:03:48.426Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "oregano",
   "status": "ACTIVE",
   "creationDate": "2019-12-06T15:26:43.636Z",
-  "lastModifiedDate": "2021-02-23T16:09:14.981Z",
+  "lastModifiedDate": "2021-02-23T17:03:53.076Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",

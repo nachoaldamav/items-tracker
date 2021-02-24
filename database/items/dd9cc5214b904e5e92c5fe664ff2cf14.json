@@ -16,7 +16,7 @@
   "namespace": "f672c20984f04f69936e6057feefe3d1",
   "status": "ACTIVE",
   "creationDate": "2021-02-11T01:21:23.690Z",
-  "lastModifiedDate": "2021-02-17T20:13:30.152Z",
+  "lastModifiedDate": "2021-02-24T14:18:39.128Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -26,9 +26,17 @@
       "type": "STRING",
       "value": "f672c20984f04f69936e6057feefe3d1"
     },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/unity.Failbetter Games.Sunless Sea/saves/"
+    },
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Failbetter Games/Sunless Sea/saves/"
     },
     "UseAccessControl": {
       "type": "STRING",

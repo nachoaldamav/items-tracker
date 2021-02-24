@@ -16,7 +16,7 @@
   "namespace": "02c14a01b7044db98de3f3a10813a42e",
   "status": "ACTIVE",
   "creationDate": "2020-09-08T17:30:29.527Z",
-  "lastModifiedDate": "2021-02-20T00:12:46.212Z",
+  "lastModifiedDate": "2021-02-23T16:51:39.972Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -30,6 +30,10 @@
       "type": "STRING",
       "value": "false"
     },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/Humankind/Save Files"
+    },
     "UseAccessControl": {
       "type": "STRING",
       "value": "false"
@@ -41,6 +45,10 @@
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "500"
     },
     "FolderName": {
       "type": "STRING",

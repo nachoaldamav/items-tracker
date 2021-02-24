@@ -36,7 +36,7 @@
   "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
   "status": "ACTIVE",
   "creationDate": "2020-03-23T16:03:13.051Z",
-  "lastModifiedDate": "2021-02-03T22:48:24.213Z",
+  "lastModifiedDate": "2021-02-24T14:14:45.215Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -45,6 +45,10 @@
     "PresenceId": {
       "type": "STRING",
       "value": "2dbd2f64abdc4bbab077424d5c85e01b"
+    },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
     },
     "MonitorPresence": {
       "type": "STRING",
@@ -70,13 +74,17 @@
       "type": "STRING",
       "value": "Launch Ghost Recon Breakpoint – Vulkan"
     },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "366ad72c018a4c3893ecf209b2171763"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "BreakpointDemo"
-    },
-    "neverUpdate": {
-      "type": "STRING",
-      "value": "true"
     }
   },
   "entitlementName": "09342951051244918f8d8babd810dee0",
