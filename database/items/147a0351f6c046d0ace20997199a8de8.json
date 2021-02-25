@@ -40,16 +40,18 @@
   "namespace": "b57455ede0604d83892c3412ec3d610e",
   "status": "ACTIVE",
   "creationDate": "2020-09-25T17:30:48.132Z",
-  "lastModifiedDate": "2021-02-16T12:12:48.735Z",
+  "lastModifiedDate": "2021-02-25T16:06:32.387Z",
   "entitlementName": "147a0351f6c046d0ace20997199a8de8",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "096c2fc6baf4481fa9dcd455648079b9",
+      "id": "5fc750b2a806476baf1345ef9587780f",
       "appId": "ae5f6ec938d24377b3bb0cab6d5e8b58",
       "platform": [
-        "Windows"
+        "Windows",
+        "Win32",
+        "Mac"
       ]
     }
   ],

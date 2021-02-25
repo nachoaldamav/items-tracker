@@ -36,13 +36,25 @@
   "namespace": "oregano",
   "status": "ACTIVE",
   "creationDate": "2019-12-06T15:26:43.636Z",
-  "lastModifiedDate": "2021-02-23T17:03:53.076Z",
+  "lastModifiedDate": "2021-02-25T15:10:27.190Z",
   "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "oregano"
+    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
     },
-    "useAccessControl": {
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
       "type": "STRING",
       "value": "true"
     },
@@ -50,9 +62,9 @@
       "type": "STRING",
       "value": "[]"
     },
-    "availableDate": {
+    "ProcessNames": {
       "type": "STRING",
-      "value": "1614258000"
+      "value": "Anno1800.exe,UbisoftGameLauncher.exe"
     },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
@@ -66,29 +78,13 @@
       "type": "STRING",
       "value": "aaba0a1992cc4b77ba882e10f1a0afa2"
     },
-    "FolderName": {
-      "type": "STRING",
-      "value": "ANNO1800Trial"
-    },
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "oregano"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "ProcessNames": {
-      "type": "STRING",
-      "value": "Anno1800.exe,UbisoftGameLauncher.exe"
-    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ANNO1800Trial"
     }
   },
   "entitlementName": "1010df918d044e418d5e16b189995adc",

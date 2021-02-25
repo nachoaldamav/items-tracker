@@ -1,7 +1,7 @@
 {
-  "id": "36c3fab8eb264963869b8e1b1a07075d",
-  "title": "Grunter",
-  "description": "Grunter",
+  "id": "528e61f722d84a16ba1bd4ee1d929cc9",
+  "title": "Oscar",
+  "description": "Oscar",
   "categories": [
     {
       "path": "public"
@@ -13,10 +13,10 @@
       "path": "applications"
     }
   ],
-  "namespace": "e49aaa31c1324e398e0b1029a0c6d390",
+  "namespace": "c1edd23d035a4df0bbc419f2d0fbb40d",
   "status": "ACTIVE",
-  "creationDate": "2021-02-12T23:40:17.234Z",
-  "lastModifiedDate": "2021-02-25T14:52:03.660Z",
+  "creationDate": "2021-02-18T17:09:41.069Z",
+  "lastModifiedDate": "2021-02-23T21:05:37.948Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -24,7 +24,7 @@
     },
     "PresenceId": {
       "type": "STRING",
-      "value": "e49aaa31c1324e398e0b1029a0c6d390"
+      "value": "c1edd23d035a4df0bbc419f2d0fbb40d"
     },
     "MonitorPresence": {
       "type": "STRING",
@@ -44,24 +44,24 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Grunter"
+      "value": "Oscar"
     }
   },
-  "entitlementName": "36c3fab8eb264963869b8e1b1a07075d",
+  "entitlementName": "528e61f722d84a16ba1bd4ee1d929cc9",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "42956a22e56f4a2b9e96d19e283b36ad",
-      "appId": "1d703aedb468494681ed9e5b657dca00",
+      "id": "4549c16077d24373ab2c352a86ecd500",
+      "appId": "ab292d6c40d44e15a49cb45e83f19454",
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2021-02-12T23:41:35.735Z"
+      "dateAdded": "2021-02-18T17:17:56.232Z"
     }
   ],
-  "developer": "Nightdive Studios",
-  "developerId": "o-v6zls34ttu4wjwlb379qfte9jaz37b",
+  "developer": "RockGame S.A.",
+  "developerId": "o-e6zbx28e9zzbxg5jvzh37a3p5j8kam",
   "eulaIds": [
     "egstore"
   ],

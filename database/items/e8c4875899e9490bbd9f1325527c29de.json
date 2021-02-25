@@ -1,7 +1,8 @@
 {
-  "id": "2ab4eced13a74015a59e81b6712d62fb",
-  "title": "GrunterStaging",
-  "description": "GrunterStaging",
+  "id": "e8c4875899e9490bbd9f1325527c29de",
+  "title": "OscarStaging",
+  "description": "OscarStaging",
+  "keyImages": [],
   "categories": [
     {
       "path": "public"
@@ -13,10 +14,10 @@
       "path": "applications"
     }
   ],
-  "namespace": "e49aaa31c1324e398e0b1029a0c6d390",
+  "namespace": "c1edd23d035a4df0bbc419f2d0fbb40d",
   "status": "ACTIVE",
-  "creationDate": "2021-02-12T23:40:17.494Z",
-  "lastModifiedDate": "2021-02-25T14:52:03.658Z",
+  "creationDate": "2021-02-18T17:09:41.329Z",
+  "lastModifiedDate": "2021-02-18T17:20:18.244Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -24,24 +25,24 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "GrunterStaging"
+      "value": "OscarStaging"
     }
   },
-  "entitlementName": "2ab4eced13a74015a59e81b6712d62fb",
+  "entitlementName": "e8c4875899e9490bbd9f1325527c29de",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "c86e40c3f55442d98b03a1a9020e42b4",
-      "appId": "4f6b0619759144868455326e408b856a",
+      "id": "aaf424c57fbd47e1bd2ed28c0c3d0690",
+      "appId": "b4f9fd532e564c3fb52d4cf7537ca3fa",
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2021-02-12T23:42:09.053Z"
+      "dateAdded": "2021-02-18T17:16:29.683Z"
     }
   ],
-  "developer": "Nightdive Studios",
-  "developerId": "o-v6zls34ttu4wjwlb379qfte9jaz37b",
+  "developer": "RockGame S.A.",
+  "developerId": "o-e6zbx28e9zzbxg5jvzh37a3p5j8kam",
   "eulaIds": [
     "egstore"
   ],
