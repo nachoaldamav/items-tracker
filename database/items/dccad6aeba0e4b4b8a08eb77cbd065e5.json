@@ -1,0 +1,72 @@
+{
+  "id": "dccad6aeba0e4b4b8a08eb77cbd065e5",
+  "title": "Xray",
+  "description": "Xray",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1f436e99203a49479f4a4d5951374fe8",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-24T21:16:44.980Z",
+  "lastModifiedDate": "2021-02-24T21:38:19.766Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "1f436e99203a49479f4a4d5951374fe8"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Xray"
+    }
+  },
+  "entitlementName": "dccad6aeba0e4b4b8a08eb77cbd065e5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6a12eaceb4bb41cf90d6c195a8c7453e",
+      "appId": "bc50f2588dcd4344ab9e33fff5282551",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-02-24T21:22:04.489Z"
+    }
+  ],
+  "developer": "MWM Interactive",
+  "developerId": "o-f4rsv826ngcpw4wvunwntql3n23m46",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

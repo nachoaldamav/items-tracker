@@ -1,0 +1,35 @@
+{
+  "id": "7c91310756e2410e9637513e56d2df36",
+  "title": "GreeneyeGeneralAudience",
+  "description": "GreeneyeGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "b7b42e2078524ab386a8b2a9856ef557",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-08T22:35:54.914Z",
+  "lastModifiedDate": "2021-02-26T03:09:24.252Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7c91310756e2410e9637513e56d2df36",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Sloclap",
+  "developerId": "o-ytvuatnvl62xcjs2hq2jp6dektwnu3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

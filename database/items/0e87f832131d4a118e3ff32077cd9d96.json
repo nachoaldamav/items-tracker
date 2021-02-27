@@ -1,0 +1,52 @@
+{
+  "id": "0e87f832131d4a118e3ff32077cd9d96",
+  "title": "GreeneyeStaging",
+  "description": "GreeneyeStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b7b42e2078524ab386a8b2a9856ef557",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-08T22:35:55.813Z",
+  "lastModifiedDate": "2021-02-25T22:36:52.564Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GreeneyeStaging"
+    }
+  },
+  "entitlementName": "0e87f832131d4a118e3ff32077cd9d96",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "38a54c4a7a66409480e56984a77eeb9c",
+      "appId": "b47f017206de4893bc1cf3d15891c605",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-01-08T22:48:12.194Z"
+    }
+  ],
+  "developer": "Sloclap",
+  "developerId": "o-ytvuatnvl62xcjs2hq2jp6dektwnu3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
