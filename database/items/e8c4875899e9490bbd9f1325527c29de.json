@@ -17,11 +17,15 @@
   "namespace": "c1edd23d035a4df0bbc419f2d0fbb40d",
   "status": "ACTIVE",
   "creationDate": "2021-02-18T17:09:41.329Z",
-  "lastModifiedDate": "2021-02-18T17:20:18.244Z",
+  "lastModifiedDate": "2021-03-01T21:04:00.829Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/SpiffyBit/Scrapnaut/Saves/"
     },
     "FolderName": {
       "type": "STRING",
@@ -38,7 +42,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2021-02-18T17:16:29.683Z"
+      "dateAdded": "2021-02-18T00:00:00.000Z"
     }
   ],
   "developer": "RockGame S.A.",

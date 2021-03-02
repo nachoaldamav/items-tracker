@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/oregano/item/en-anno-epic-fwe-herobanner-3840x2160-3840x2160-8b5f4baf28ce-3840x2160-5939e07c72e48642c3b2e042aa81c054.jpg",
-      "md5": "5939e07c72e48642c3b2e042aa81c054",
+      "url": "https://cdn1.epicgames.com/oregano/item/Hero-Banner-TW-3840x2160-c6f8f9a4e672c4be93144e9edff9f7fa.jpg",
+      "md5": "c6f8f9a4e672c4be93144e9edff9f7fa",
       "width": 3840,
       "height": 2160,
-      "size": 709815,
-      "uploadedDate": "2021-02-23T16:09:10.395Z"
+      "size": 5257036,
+      "uploadedDate": "2020-03-09T16:54:05.756Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/oregano/item/ANNO_Epic_FWE_Portrait_1200x1600-1200x1600-df01914dc01425f1836605299d17d8f4.png",
-      "md5": "df01914dc01425f1836605299d17d8f4",
-      "width": 1200,
-      "height": 1600,
-      "size": 2995054,
-      "uploadedDate": "2021-02-23T17:03:48.426Z"
+      "url": "https://cdn1.epicgames.com/oregano/item/Portrait-TW-1280x1420-777a8d2b302988327b16c88c5bde1fd4.jpg",
+      "md5": "777a8d2b302988327b16c88c5bde1fd4",
+      "width": 1280,
+      "height": 1420,
+      "size": 1433098,
+      "uploadedDate": "2020-03-09T16:54:32.216Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "oregano",
   "status": "ACTIVE",
   "creationDate": "2019-12-06T15:26:43.636Z",
-  "lastModifiedDate": "2021-02-25T15:10:27.190Z",
+  "lastModifiedDate": "2021-03-01T19:58:44.703Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -50,11 +50,11 @@
       "type": "STRING",
       "value": "true"
     },
-    "MonitorPresence": {
+    "useAccessControl": {
       "type": "STRING",
       "value": "true"
     },
-    "UseAccessControl": {
+    "MonitorPresence": {
       "type": "STRING",
       "value": "true"
     },
@@ -73,14 +73,6 @@
     "MainWindowProcessName": {
       "type": "STRING",
       "value": "Anno1800.exe"
-    },
-    "partnerLinkId": {
-      "type": "STRING",
-      "value": "aaba0a1992cc4b77ba882e10f1a0afa2"
-    },
-    "partnerLinkType": {
-      "type": "STRING",
-      "value": "ubisoft"
     },
     "FolderName": {
       "type": "STRING",
