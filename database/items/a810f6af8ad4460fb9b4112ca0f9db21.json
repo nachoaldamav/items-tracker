@@ -4,22 +4,22 @@
   "description": "Industries of Titan",
   "keyImages": [
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/protea/item/IoT_TT8_EGS_Library Tile Landscape_29433f-2560x1440-16fa33e9729ac60ef591934691f19f13.jpg",
-      "md5": "16fa33e9729ac60ef591934691f19f13",
-      "width": 2560,
-      "height": 1440,
-      "size": 961616,
-      "uploadedDate": "2021-02-02T20:20:57.787Z"
-    },
-    {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/protea/item/IoT_TT8_EGS_Library Tile Portrait_29433f-1200x1600-f160f481f01395e6c8c558051a1d8e9a.jpg",
-      "md5": "f160f481f01395e6c8c558051a1d8e9a",
+      "url": "https://cdn1.epicgames.com/protea/item/IoT_TT4_EGS_Library Tile Portrait_00000-1200x1600-36ae8d56a496436b142e84a14c0c5038.jpg",
+      "md5": "36ae8d56a496436b142e84a14c0c5038",
       "width": 1200,
       "height": 1600,
-      "size": 498397,
-      "uploadedDate": "2021-02-02T20:21:18.336Z"
+      "size": 1046589,
+      "uploadedDate": "2021-03-02T22:57:58.490Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/protea/item/IoT_TT4_EGS_Library Tile Landscape_00000-2560x1440-7bb543bc22a0d175f23afb94cf5500bc.jpg",
+      "md5": "7bb543bc22a0d175f23afb94cf5500bc",
+      "width": 2560,
+      "height": 1440,
+      "size": 1897851,
+      "uploadedDate": "2021-03-02T22:58:16.780Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "protea",
   "status": "ACTIVE",
   "creationDate": "2019-03-18T05:15:08.763Z",
-  "lastModifiedDate": "2021-02-02T20:21:23.921Z",
+  "lastModifiedDate": "2021-03-02T23:04:28.249Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

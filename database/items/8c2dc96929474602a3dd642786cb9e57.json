@@ -1,8 +1,7 @@
 {
-  "id": "53218dfe062d43d0b2e6601408676aba",
-  "title": "3 out of 10: Season Two External",
-  "description": "3 out of 10: Season Two External",
-  "keyImages": [],
+  "id": "8c2dc96929474602a3dd642786cb9e57",
+  "title": "Lasagne",
+  "description": "Lasagne",
   "categories": [
     {
       "path": "public"
@@ -14,10 +13,10 @@
       "path": "applications"
     }
   ],
-  "namespace": "b829cfd910554ad3ad2eb3b314e2b1ef",
+  "namespace": "757a437095f549baa72b2a1100ead743",
   "status": "ACTIVE",
-  "creationDate": "2020-09-10T17:15:07.367Z",
-  "lastModifiedDate": "2021-03-02T17:39:50.607Z",
+  "creationDate": "2021-03-02T13:42:14.469Z",
+  "lastModifiedDate": "2021-03-02T13:44:32.487Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -25,7 +24,7 @@
     },
     "PresenceId": {
       "type": "STRING",
-      "value": "b829cfd910554ad3ad2eb3b314e2b1ef"
+      "value": "757a437095f549baa72b2a1100ead743"
     },
     "MonitorPresence": {
       "type": "STRING",
@@ -45,24 +44,24 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "MooncakeExternal"
+      "value": "Lasagne"
     }
   },
-  "entitlementName": "53218dfe062d43d0b2e6601408676aba",
+  "entitlementName": "8c2dc96929474602a3dd642786cb9e57",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "bf1029cf29c547279fb751dff1c7258a",
-      "appId": "347f0b4a283844dcb4f1fd2e75a595c7",
+      "id": "a477ecd8af7745fa950f33973262064d",
+      "appId": "39dddbde89f5439e8fb46f4fb1ef21c5",
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-09-10T00:00:00.000Z"
+      "dateAdded": "2021-03-02T13:43:33.964Z"
     }
   ],
-  "developer": "Terrible Posture Games, Inc.",
-  "developerId": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+  "developer": "Epic Games Publishing",
+  "developerId": "o-e2xslu4mlqqaavphzl6927vtjqamhj",
   "eulaIds": [
     "egstore"
   ],

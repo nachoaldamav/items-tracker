@@ -1,7 +1,7 @@
 {
-  "id": "7707b5f637764b64a866e916aea517ab",
-  "title": "ThalliumStaging",
-  "description": "ThalliumStaging",
+  "id": "13426de333884466bbf216fef082b487",
+  "title": "LasagneStaging",
+  "description": "LasagneStaging",
   "categories": [
     {
       "path": "public"
@@ -13,10 +13,10 @@
       "path": "applications"
     }
   ],
-  "namespace": "45bd0f6fc2704e22a3c1933f7bb972bf",
+  "namespace": "757a437095f549baa72b2a1100ead743",
   "status": "ACTIVE",
-  "creationDate": "2021-02-08T00:33:11.654Z",
-  "lastModifiedDate": "2021-03-02T17:07:44.987Z",
+  "creationDate": "2021-03-02T13:42:14.730Z",
+  "lastModifiedDate": "2021-03-02T13:44:32.472Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -24,24 +24,24 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "ThalliumStaging"
+      "value": "LasagneStaging"
     }
   },
-  "entitlementName": "7707b5f637764b64a866e916aea517ab",
+  "entitlementName": "13426de333884466bbf216fef082b487",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "909879f62a9d4e299a6b585115928164",
-      "appId": "fea014e59e5c494f88d69f432e70b617",
+      "id": "6c1e1057b5c54d2ea7c5b840b3cc7672",
+      "appId": "1ddc6a4936154373802b3853f2d0321c",
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2021-02-08T00:40:28.223Z"
+      "dateAdded": "2021-03-02T13:43:56.405Z"
     }
   ],
-  "developer": "101XP Limited",
-  "developerId": "o-8kptgx6fhwgfv38jl63mrfstuvljre",
+  "developer": "Epic Games Publishing",
+  "developerId": "o-e2xslu4mlqqaavphzl6927vtjqamhj",
   "eulaIds": [
     "egstore"
   ],
