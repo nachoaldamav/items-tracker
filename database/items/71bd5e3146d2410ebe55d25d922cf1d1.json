@@ -1,0 +1,36 @@
+{
+  "id": "71bd5e3146d2410ebe55d25d922cf1d1",
+  "title": "Twinmotion Trial Audience 2020.2",
+  "description": "Twinmotion Trial Audience 2020.2",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "poodle",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T18:00:25.184Z",
+  "lastModifiedDate": "2020-07-22T17:00:58.526Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows, Mac"
+    }
+  },
+  "entitlementName": "TwinmotionTrialAudience2020.2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [
+    "twin"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

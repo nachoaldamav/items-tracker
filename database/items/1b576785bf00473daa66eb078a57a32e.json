@@ -1,0 +1,70 @@
+{
+  "id": "1b576785bf00473daa66eb078a57a32e",
+  "title": "Twinmotion EDU 2020.2",
+  "description": "Twinmotion 2020.2 for Education",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "poodle",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T18:01:41.823Z",
+  "lastModifiedDate": "2020-07-22T17:00:58.526Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "Twinmotion"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Epic Games"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Twinmotion2020.2EDU"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows, Mac"
+    }
+  },
+  "entitlementName": "TwinmotionEDU2020.2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5d68b528f2ad4db9a3f16f4595ca573d",
+      "appId": "b159aae5bc25466da1a61a23f34d02af",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-07-14T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [
+    "twin"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
