@@ -1,0 +1,72 @@
+{
+  "id": "cd3839fef2e4421c96d7d29f91e733d3",
+  "title": "Lanthanum",
+  "description": "Lanthanum",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5493b8894a4b4f49984240f298a8ef06",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-27T19:47:33.159Z",
+  "lastModifiedDate": "2021-03-05T23:21:33.975Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "5493b8894a4b4f49984240f298a8ef06"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Lanthanum"
+    }
+  },
+  "entitlementName": "cd3839fef2e4421c96d7d29f91e733d3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ab7fbc0131744ac4862898da76773f57",
+      "appId": "abdc39b4e7d54b74bda4ca31d27d1dde",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-05T23:18:42.422Z"
+    }
+  ],
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
