@@ -46,6 +46,10 @@
       "type": "STRING",
       "value": "8767c1c91fc847cbafbfa232c695276f"
     },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
@@ -73,10 +77,6 @@
     "FolderName": {
       "type": "STRING",
       "value": "ValiantHearts"
-    },
-    "neverUpdate": {
-      "type": "STRING",
-      "value": "true"
     }
   },
   "entitlementName": "fda8398cb0574ee580b30efc7ecd22e2",

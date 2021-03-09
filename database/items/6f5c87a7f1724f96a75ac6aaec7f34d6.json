@@ -46,6 +46,10 @@
       "type": "STRING",
       "value": "8bd4f3286d414820bc7cbcbb849b1f72"
     },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
@@ -73,10 +77,6 @@
     "FolderName": {
       "type": "STRING",
       "value": "TrackmaniaTurbo"
-    },
-    "neverUpdate": {
-      "type": "STRING",
-      "value": "true"
     }
   },
   "entitlementName": "6f5c87a7f1724f96a75ac6aaec7f34d6",
@@ -98,6 +98,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
   "unsearchable": false
 }

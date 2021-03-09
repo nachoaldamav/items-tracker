@@ -46,6 +46,10 @@
       "type": "STRING",
       "value": "34f7e1e275924bb6a90074920f9c1696"
     },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
@@ -73,10 +77,6 @@
     "FolderName": {
       "type": "STRING",
       "value": "AssassinsCreedRogue"
-    },
-    "neverUpdate": {
-      "type": "STRING",
-      "value": "true"
     }
   },
   "entitlementName": "33f1aac924ea4da5a952d2414552417f",
@@ -97,6 +97,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
   "unsearchable": false
 }

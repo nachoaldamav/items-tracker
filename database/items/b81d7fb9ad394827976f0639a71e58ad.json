@@ -46,6 +46,10 @@
       "type": "STRING",
       "value": "a443faa3d6304a7dacd7456e0f6b0fa6"
     },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
@@ -73,10 +77,6 @@
     "FolderName": {
       "type": "STRING",
       "value": "ScottPilgrimVsTheWorld"
-    },
-    "neverUpdate": {
-      "type": "STRING",
-      "value": "true"
     }
   },
   "entitlementName": "b81d7fb9ad394827976f0639a71e58ad",

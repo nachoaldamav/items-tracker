@@ -55,6 +55,10 @@
       "type": "STRING",
       "value": "1093790870b043cdbae03d91d76d9ae6"
     },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
@@ -95,5 +99,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

@@ -46,6 +46,10 @@
       "type": "STRING",
       "value": "590c37a9443d46ce84be415b96b1a3e6"
     },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
@@ -73,10 +77,6 @@
     "FolderName": {
       "type": "STRING",
       "value": "Anno1404"
-    },
-    "neverUpdate": {
-      "type": "STRING",
-      "value": "true"
     }
   },
   "entitlementName": "34842d2b88a54576acf162ad25812b44",

@@ -46,6 +46,10 @@
       "type": "STRING",
       "value": "7ab8af3a04424eeaa509d37d7b5222b7"
     },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
@@ -73,10 +77,6 @@
     "FolderName": {
       "type": "STRING",
       "value": "BeyondGoodAndEvil"
-    },
-    "neverUpdate": {
-      "type": "STRING",
-      "value": "true"
     }
   },
   "entitlementName": "f08811dcfb9f4de9bc253d1f455ecf2e",

@@ -46,6 +46,10 @@
       "type": "STRING",
       "value": "83d6990f16444655866b04be562bf589"
     },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
@@ -77,10 +81,6 @@
     "FolderName": {
       "type": "STRING",
       "value": "RidersRepublic"
-    },
-    "neverUpdate": {
-      "type": "STRING",
-      "value": "true"
     }
   },
   "entitlementName": "9125207fd9d5490f94091afd8077d498",
@@ -93,7 +93,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-09-10T19:33:59.031Z"
+      "dateAdded": "2020-09-10T00:00:00.000Z"
     }
   ],
   "developer": "Ubisoft Entertainment",
