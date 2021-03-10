@@ -1,0 +1,52 @@
+{
+  "id": "60e58164ca7442d78c39f5ba54ff2e63",
+  "title": "XenonStaging",
+  "description": "XenonStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "266c5badcfd144cbbeedd44499d85a62",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-27T19:40:41.274Z",
+  "lastModifiedDate": "2021-03-09T14:41:20.886Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "XenonStaging"
+    }
+  },
+  "entitlementName": "60e58164ca7442d78c39f5ba54ff2e63",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e112c7cad25a459191d5956348ce7040",
+      "appId": "c06fb5574e9a4f9cb67e7eedaa4fd8a9",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-09T14:37:41.457Z"
+    }
+  ],
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

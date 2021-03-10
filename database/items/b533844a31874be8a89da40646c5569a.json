@@ -1,7 +1,8 @@
 {
-  "id": "95ca04c0b0da4ebc8b1b40412e880e34",
-  "title": "PikesPeakPtr",
-  "description": "PikesPeakPtr",
+  "id": "b533844a31874be8a89da40646c5569a",
+  "title": "Neodymium",
+  "description": "Neodymium",
+  "keyImages": [],
   "categories": [
     {
       "path": "public"
@@ -13,10 +14,10 @@
       "path": "applications"
     }
   ],
-  "namespace": "bb9f87bb3d0042258bb1c97397bc60f2",
+  "namespace": "f7c4775ed8a3431981d1b4173666fe16",
   "status": "ACTIVE",
-  "creationDate": "2020-10-29T16:23:06.642Z",
-  "lastModifiedDate": "2021-03-10T11:55:57.794Z",
+  "creationDate": "2021-01-27T19:48:20.073Z",
+  "lastModifiedDate": "2021-03-09T15:54:00.697Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -24,7 +25,7 @@
     },
     "PresenceId": {
       "type": "STRING",
-      "value": "bb9f87bb3d0042258bb1c97397bc60f2"
+      "value": "f7c4775ed8a3431981d1b4173666fe16"
     },
     "MonitorPresence": {
       "type": "STRING",
@@ -44,24 +45,24 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "PikesPeakPtr"
+      "value": "Neodymium"
     }
   },
-  "entitlementName": "95ca04c0b0da4ebc8b1b40412e880e34",
+  "entitlementName": "b533844a31874be8a89da40646c5569a",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "5c2d42a12e5347209446cf2c784e95fc",
-      "appId": "754899c6467b442db8cc6356406e120a",
+      "id": "b83a217124294473b36b1e3ee1edd6e0",
+      "appId": "a8422108ac05494aa8e5fff1cde24654",
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-10-29T16:42:34.553Z"
+      "dateAdded": "2021-03-09T00:00:00.000Z"
     }
   ],
-  "developer": "Unit 2 Games",
-  "developerId": "o-3wg8cebzdas9bt56adlsslgzr8mcue",
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
   "eulaIds": [
     "egstore"
   ],

@@ -1,0 +1,34 @@
+{
+  "id": "3f6ac14d14714d66bb3973a34a6a9a1c",
+  "title": "ManicottiGeneralAudience",
+  "description": "ManicottiGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2362b692c2574b4ea2184540ac8c5c10",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-08T23:57:30.783Z",
+  "lastModifiedDate": "2021-03-09T00:20:30.293Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "3f6ac14d14714d66bb3973a34a6a9a1c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Maximum Games",
+  "developerId": "o-a6k23slslegbhbwtel4qx423kuzc3y",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

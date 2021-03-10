@@ -1,7 +1,7 @@
 {
-  "id": "95ca04c0b0da4ebc8b1b40412e880e34",
-  "title": "PikesPeakPtr",
-  "description": "PikesPeakPtr",
+  "id": "b7e73c4037384ff9a077410788438f5b",
+  "title": "Xenon",
+  "description": "Xenon",
   "categories": [
     {
       "path": "public"
@@ -13,10 +13,10 @@
       "path": "applications"
     }
   ],
-  "namespace": "bb9f87bb3d0042258bb1c97397bc60f2",
+  "namespace": "266c5badcfd144cbbeedd44499d85a62",
   "status": "ACTIVE",
-  "creationDate": "2020-10-29T16:23:06.642Z",
-  "lastModifiedDate": "2021-03-10T11:55:57.794Z",
+  "creationDate": "2021-01-27T19:40:40.702Z",
+  "lastModifiedDate": "2021-03-09T14:41:20.886Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -24,7 +24,7 @@
     },
     "PresenceId": {
       "type": "STRING",
-      "value": "bb9f87bb3d0042258bb1c97397bc60f2"
+      "value": "266c5badcfd144cbbeedd44499d85a62"
     },
     "MonitorPresence": {
       "type": "STRING",
@@ -44,24 +44,24 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "PikesPeakPtr"
+      "value": "Xenon"
     }
   },
-  "entitlementName": "95ca04c0b0da4ebc8b1b40412e880e34",
+  "entitlementName": "b7e73c4037384ff9a077410788438f5b",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "5c2d42a12e5347209446cf2c784e95fc",
-      "appId": "754899c6467b442db8cc6356406e120a",
+      "id": "9fbf6123110249959fc23c96344d9ac1",
+      "appId": "ca2f22ac793c483693d4968e48786da7",
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-10-29T16:42:34.553Z"
+      "dateAdded": "2021-03-09T14:37:52.659Z"
     }
   ],
-  "developer": "Unit 2 Games",
-  "developerId": "o-3wg8cebzdas9bt56adlsslgzr8mcue",
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
   "eulaIds": [
     "egstore"
   ],

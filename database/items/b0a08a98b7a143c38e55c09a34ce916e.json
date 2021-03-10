@@ -1,0 +1,34 @@
+{
+  "id": "b0a08a98b7a143c38e55c09a34ce916e",
+  "title": "BariumGeneralAudience",
+  "description": "BariumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "308e79224dba4e078e44d603bc54c4db",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-27T19:41:32.754Z",
+  "lastModifiedDate": "2021-03-09T14:53:10.005Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b0a08a98b7a143c38e55c09a34ce916e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

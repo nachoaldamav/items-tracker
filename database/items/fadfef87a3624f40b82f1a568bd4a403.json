@@ -1,0 +1,52 @@
+{
+  "id": "fadfef87a3624f40b82f1a568bd4a403",
+  "title": "NeodymiumStaging",
+  "description": "NeodymiumStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f7c4775ed8a3431981d1b4173666fe16",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-27T19:48:20.633Z",
+  "lastModifiedDate": "2021-03-09T15:54:00.697Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NeodymiumStaging"
+    }
+  },
+  "entitlementName": "fadfef87a3624f40b82f1a568bd4a403",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d846ac2fa5074ded9c2af6a14272638a",
+      "appId": "a5d7e9388eaf4d8d8bc8e37b9ee5dc6d",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-09T15:43:46.043Z"
+    }
+  ],
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
