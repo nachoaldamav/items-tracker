@@ -42,7 +42,7 @@
   "namespace": "carnation",
   "status": "ACTIVE",
   "creationDate": "2019-02-11T18:08:53.061Z",
-  "lastModifiedDate": "2020-02-18T21:26:48.900Z",
+  "lastModifiedDate": "2021-03-10T20:13:44.078Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
@@ -123,6 +123,6 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "selfRefundable": true,
+  "ageGatings": {},
   "unsearchable": false
 }
