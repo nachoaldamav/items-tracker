@@ -1,0 +1,60 @@
+{
+  "id": "8e497691c26e44a584de32573ff28dc5",
+  "title": "SpinachStaging",
+  "description": "SpinachStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9afcf28baab84109ad3bc8038d07e7c1",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-13T17:27:29.473Z",
+  "lastModifiedDate": "2021-03-11T15:21:24.087Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "546af468f1554cb4b4d9db0047ab5b24"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SpinachStaging"
+    }
+  },
+  "entitlementName": "8e497691c26e44a584de32573ff28dc5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "aa1225ca8dca4c7f9e9c9556e818c123",
+      "appId": "17680a9f6a0d4c28b830f682ebec4526",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-13T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

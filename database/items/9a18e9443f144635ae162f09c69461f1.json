@@ -1,0 +1,34 @@
+{
+  "id": "9a18e9443f144635ae162f09c69461f1",
+  "title": "DevCadmiumAudience",
+  "description": "DevCadmiumAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "d16f231f238646e881bb0cd83e1d30c8",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-21T20:27:29.366Z",
+  "lastModifiedDate": "2021-03-11T15:09:27.556Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9a18e9443f144635ae162f09c69461f1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Over the Moon Games",
+  "developerId": "o-ft7qxhfh9byrlh33kw6k54vy8989jd",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
