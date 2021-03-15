@@ -70,6 +70,10 @@
       "type": "STRING",
       "value": "true"
     },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "2000"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "SunlessSea"
