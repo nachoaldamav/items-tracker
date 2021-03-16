@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/carnation/item/Capsule_1920x1080-1920x1080-b52f43816ccc320ada852f433dc629ce.jpg",
-      "md5": "b52f43816ccc320ada852f433dc629ce",
-      "width": 1920,
-      "height": 1080,
-      "size": 457474,
-      "uploadedDate": "2020-08-24T23:20:10.714Z"
+      "url": "https://cdn1.epicgames.com/carnation/item/RBS_Epic_FWE_HeroBanner_3840x2160_UK-3840x2160-fa0a5cdff94bce61730e6ab245a301d5.jpg",
+      "md5": "fa0a5cdff94bce61730e6ab245a301d5",
+      "width": 3840,
+      "height": 2160,
+      "size": 989673,
+      "uploadedDate": "2021-03-16T00:55:45.297Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/carnation/item/Store_Portrait_1200x1600-1200x1600-f59231ef52ab47568702849b4d99900e.jpg",
-      "md5": "f59231ef52ab47568702849b4d99900e",
+      "url": "https://cdn1.epicgames.com/carnation/item/RBS_Epic__EPIC_Store_Portrait_1200x1600_UK-1200x1600-3b4d51fa168ee9ce4ab6654b153764e1.jpg",
+      "md5": "3b4d51fa168ee9ce4ab6654b153764e1",
       "width": 1200,
       "height": 1600,
-      "size": 649495,
-      "uploadedDate": "2020-08-24T23:20:13.992Z"
+      "size": 1006130,
+      "uploadedDate": "2021-03-16T00:55:58.826Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "carnation",
   "status": "ACTIVE",
   "creationDate": "2019-08-22T19:24:49.545Z",
-  "lastModifiedDate": "2020-09-07T23:51:44.520Z",
+  "lastModifiedDate": "2021-03-16T13:18:55.400Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -66,6 +66,14 @@
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "757eae17e047467d82392d072489231e"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
     },
     "FolderName": {
       "type": "STRING",

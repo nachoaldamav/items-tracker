@@ -44,6 +44,10 @@
   "creationDate": "2020-04-30T20:03:10.699Z",
   "lastModifiedDate": "2020-04-30T20:03:10.699Z",
   "customAttributes": {
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-ForceTest"
+    },
     "UseAccessControl": {
       "type": "STRING",
       "value": "true"
@@ -51,6 +55,10 @@
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Launch Test EXE"
     },
     "HasGateKeeper": {
       "type": "STRING",

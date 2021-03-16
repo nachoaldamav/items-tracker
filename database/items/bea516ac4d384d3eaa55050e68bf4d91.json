@@ -26,6 +26,10 @@
   "creationDate": "2019-05-03T14:10:06.288Z",
   "lastModifiedDate": "2019-05-08T14:13:30.415Z",
   "customAttributes": {
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-ForceTest"
+    },
     "UseAccessControl": {
       "type": "STRING",
       "value": "true"
@@ -33,6 +37,10 @@
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Launch Test EXE"
     },
     "HasGateKeeper": {
       "type": "STRING",
@@ -60,5 +68,6 @@
   "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
   "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

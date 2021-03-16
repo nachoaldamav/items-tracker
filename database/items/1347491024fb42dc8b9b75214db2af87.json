@@ -16,9 +16,17 @@
   "creationDate": "2016-04-25T19:09:57.838Z",
   "lastModifiedDate": "2019-05-06T16:57:34.719Z",
   "customAttributes": {
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-ForceTest"
+    },
     "UseAccessControl": {
       "type": "STRING",
       "value": "true"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Launch Test EXE"
     },
     "HasGateKeeper": {
       "type": "STRING",
@@ -44,5 +52,6 @@
   "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
   "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }
