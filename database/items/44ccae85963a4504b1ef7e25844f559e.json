@@ -1,0 +1,36 @@
+{
+  "id": "44ccae85963a4504b1ef7e25844f559e",
+  "title": "Beef QA Audience",
+  "description": "Beef QA Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "0bef9383794a4d779ba0628084b14cba",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-24T20:22:22.984Z",
+  "lastModifiedDate": "2021-02-24T20:26:40.055Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "44ccae85963a4504b1ef7e25844f559e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games Publishing",
+  "developerId": "o-e2xslu4mlqqaavphzl6927vtjqamhj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

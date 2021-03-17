@@ -1,0 +1,36 @@
+{
+  "id": "da93138c35a94a448fdf9216c66e3fc3",
+  "title": "BeefGeneralAudience",
+  "description": "BeefGeneralAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "0bef9383794a4d779ba0628084b14cba",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-05T17:42:49.273Z",
+  "lastModifiedDate": "2020-10-12T15:42:14.471Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "da93138c35a94a448fdf9216c66e3fc3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games Publishing",
+  "developerId": "o-e2xslu4mlqqaavphzl6927vtjqamhj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

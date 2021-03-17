@@ -1,0 +1,52 @@
+{
+  "id": "578e855ab5be4c82aac26e357566a070",
+  "title": "MelpomeneStaging",
+  "description": "MelpomeneStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e9ab5f3a0f524fdf800f324800acda60",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-15T07:12:33.128Z",
+  "lastModifiedDate": "2021-03-16T15:01:06.074Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MelpomeneStaging"
+    }
+  },
+  "entitlementName": "578e855ab5be4c82aac26e357566a070",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7a70a8aa3fa849068143bc7e7959496c",
+      "appId": "ff31b210864445608d2dddd827fb5ee3",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-01-15T09:04:57.572Z"
+    }
+  ],
+  "developer": "Postmeta Games",
+  "developerId": "o-ptrc3tlq66gg7gsku56pwafjwzs23b",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
