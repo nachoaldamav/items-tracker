@@ -1,0 +1,72 @@
+{
+  "id": "58d79b3146d14ad38e8b0a045d7e1afe",
+  "title": "Demeter",
+  "description": "Demeter",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8c8bd44c4f8a4948800b27d9c1248c0c",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-24T20:58:58.448Z",
+  "lastModifiedDate": "2021-03-02T16:57:04.413Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "8c8bd44c4f8a4948800b27d9c1248c0c"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Demeter"
+    }
+  },
+  "entitlementName": "58d79b3146d14ad38e8b0a045d7e1afe",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e9d32436ff374fdbb71da6b7cb6b777b",
+      "appId": "04b548b98c934229842ffc00fb93aaba",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-02T16:43:41.713Z"
+    }
+  ],
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

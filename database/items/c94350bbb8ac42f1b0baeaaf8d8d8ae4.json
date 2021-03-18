@@ -1,0 +1,52 @@
+{
+  "id": "c94350bbb8ac42f1b0baeaaf8d8d8ae4",
+  "title": "DemeterStaging",
+  "description": "DemeterStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8c8bd44c4f8a4948800b27d9c1248c0c",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-24T20:58:58.709Z",
+  "lastModifiedDate": "2021-03-02T16:57:04.413Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DemeterStaging"
+    }
+  },
+  "entitlementName": "c94350bbb8ac42f1b0baeaaf8d8d8ae4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "854ff69d3fdc490082a341653e5581bf",
+      "appId": "9a54732260b5428795b4571ca02d64ce",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-02T16:44:26.967Z"
+    }
+  ],
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

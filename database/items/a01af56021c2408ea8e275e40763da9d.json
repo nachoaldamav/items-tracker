@@ -22,6 +22,10 @@
       "type": "STRING",
       "value": "true"
     },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/palmpioneer/TalesoftheNeonSea/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "AntimonyStaging"
@@ -37,7 +41,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2021-01-20T23:15:39.884Z"
+      "dateAdded": "2021-01-20T00:00:00.000Z"
     }
   ],
   "developer": "Thermite Games",
