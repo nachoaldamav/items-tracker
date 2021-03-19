@@ -1,0 +1,34 @@
+{
+  "id": "c057a9fa0fb843388a5ba288c76a1428",
+  "title": "DevMakedaAudience",
+  "description": "DevMakedaAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "e78994967098439dbbab95869b129178",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-18T20:36:06.668Z",
+  "lastModifiedDate": "2021-03-18T14:36:18.030Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c057a9fa0fb843388a5ba288c76a1428",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Modern Wolf Limited",
+  "developerId": "o-7m97jbu7n746xhp5m28523c42d5nd6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

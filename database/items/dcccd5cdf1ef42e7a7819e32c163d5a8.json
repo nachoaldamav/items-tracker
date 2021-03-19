@@ -22,6 +22,18 @@
       "type": "STRING",
       "value": "true"
     },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/FINAL FANTASY VII REMAKE/EOS/{EpicID}/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "ff7remakedevice.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1600"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "PineappleStaging"

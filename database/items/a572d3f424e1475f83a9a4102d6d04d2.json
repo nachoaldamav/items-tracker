@@ -1,0 +1,52 @@
+{
+  "id": "a572d3f424e1475f83a9a4102d6d04d2",
+  "title": "MakedaStaging",
+  "description": "MakedaStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e78994967098439dbbab95869b129178",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-18T20:36:07.361Z",
+  "lastModifiedDate": "2021-02-18T21:24:34.770Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MakedaStaging"
+    }
+  },
+  "entitlementName": "a572d3f424e1475f83a9a4102d6d04d2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c573cb56c564418684a90a1c8fc243ec",
+      "appId": "e95e73ffd2334d7b8c709ac8d0b9b186",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-02-18T20:41:46.140Z"
+    }
+  ],
+  "developer": "Modern Wolf Limited",
+  "developerId": "o-7m97jbu7n746xhp5m28523c42d5nd6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
