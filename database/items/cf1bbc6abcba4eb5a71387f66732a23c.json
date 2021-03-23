@@ -66,6 +66,10 @@
       "type": "STRING",
       "value": "true"
     },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "4000"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "RailwayEmpire"

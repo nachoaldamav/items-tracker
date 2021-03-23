@@ -23,12 +23,12 @@
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/crab/item/Satisfactory_tall-1200x1600-ffd66e9b7c1c1c4b006a9eb425d6a936.png",
-      "md5": "ffd66e9b7c1c1c4b006a9eb425d6a936",
-      "width": 1200,
-      "height": 1600,
-      "size": 2280116,
-      "uploadedDate": "2021-01-23T02:01:01.818Z"
+      "url": "https://cdn1.epicgames.com/crab/item/Sat_TALL-860x1148-2efdc29df66376ec40c7b5020bf3e3ce.jpg",
+      "md5": "2efdc29df66376ec40c7b5020bf3e3ce",
+      "width": 860,
+      "height": 1148,
+      "size": 390962,
+      "uploadedDate": "2021-03-23T15:20:20.554Z"
     }
   ],
   "categories": [
@@ -42,7 +42,7 @@
   "namespace": "crab",
   "status": "ACTIVE",
   "creationDate": "2019-02-26T15:59:56.670Z",
-  "lastModifiedDate": "2021-02-19T15:04:20.439Z",
+  "lastModifiedDate": "2021-03-23T15:20:30.509Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -78,7 +78,7 @@
     },
     "MaxSizeMB": {
       "type": "STRING",
-      "value": "5000"
+      "value": "10000"
     },
     "FolderName": {
       "type": "STRING",

@@ -22,15 +22,6 @@
       "uploadedDate": "2019-04-29T16:33:06.445Z"
     },
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/crab/item/Potrait_860x1148_Pipes_logo-860x1148-d9849241c986d80c66acfcf48e311192.png",
-      "md5": "d9849241c986d80c66acfcf48e311192",
-      "width": 860,
-      "height": 1148,
-      "size": 1969372,
-      "uploadedDate": "2020-02-11T16:37:28.294Z"
-    },
-    {
       "type": "DieselGameBox",
       "url": "https://cdn1.epicgames.com/crab/item/Landscape_2560x1440_pipes_logo-2560x1440-d3c3d99d3622e947daad667fd45b9afb.png",
       "md5": "d3c3d99d3622e947daad667fd45b9afb",
@@ -38,6 +29,15 @@
       "height": 1440,
       "size": 5185205,
       "uploadedDate": "2020-02-11T16:37:45.212Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/crab/item/Satisfactory_Update4_1200x1600-1200x1600-c8facb477c050ca5253ea0fc35552297.png",
+      "md5": "c8facb477c050ca5253ea0fc35552297",
+      "width": 1200,
+      "height": 1600,
+      "size": 2207446,
+      "uploadedDate": "2021-03-23T15:20:50.727Z"
     }
   ],
   "categories": [
@@ -51,7 +51,7 @@
   "namespace": "crab",
   "status": "ACTIVE",
   "creationDate": "2019-04-03T20:31:28.361Z",
-  "lastModifiedDate": "2021-02-19T15:05:17.077Z",
+  "lastModifiedDate": "2021-03-23T15:21:38.402Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -87,7 +87,7 @@
     },
     "MaxSizeMB": {
       "type": "STRING",
-      "value": "5000"
+      "value": "10000"
     },
     "FolderName": {
       "type": "STRING",
