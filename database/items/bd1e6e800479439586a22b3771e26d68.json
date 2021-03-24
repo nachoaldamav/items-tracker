@@ -16,7 +16,7 @@
   "namespace": "e4ac2f8cd49b42f18821f3fc3b6fc1b6",
   "status": "ACTIVE",
   "creationDate": "2021-01-22T19:28:09.950Z",
-  "lastModifiedDate": "2021-03-18T14:05:21.300Z",
+  "lastModifiedDate": "2021-03-24T02:12:34.049Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -24,11 +24,11 @@
     },
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{InstallDir}/Neurodeck_Data/StreamingAssets/"
+      "value": "{AppData}/CITW/Saved/SaveGames/"
     },
     "CloudExcludeList": {
       "type": "STRING",
-      "value": "*.bank"
+      "value": "steam_autocloud.vdf"
     },
     "FolderName": {
       "type": "STRING",
