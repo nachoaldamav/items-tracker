@@ -1,0 +1,34 @@
+{
+  "id": "7e5beda69a06485f958383b63b83ff10",
+  "title": "RisottoGeneralAudience",
+  "description": "RisottoGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "a0c5d9d8a9a940e8a8f63118c7323210",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-12T15:13:29.045Z",
+  "lastModifiedDate": "2021-03-23T15:55:18.382Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7e5beda69a06485f958383b63b83ff10",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "The Irregular Corporation",
+  "developerId": "o-h3rhw2ntexmcgx44cv2pdje5bz3nqh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

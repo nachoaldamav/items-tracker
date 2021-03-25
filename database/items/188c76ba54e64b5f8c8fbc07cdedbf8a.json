@@ -4,22 +4,22 @@
   "description": "Old World (pre-flight)",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/item/EGS_OldWorld_MohawkGames_S2-860x1148-0e077ae9572c911683633fa9b19bd5c5.jpg",
-      "md5": "0e077ae9572c911683633fa9b19bd5c5",
-      "width": 860,
-      "height": 1148,
-      "size": 696045,
-      "uploadedDate": "2020-04-24T02:52:32.138Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/item/EGS_OldWorld_MohawkGames_S1-2560x1440-9f8de361a5835c8c32754f1e2d7c0084.jpg",
-      "md5": "9f8de361a5835c8c32754f1e2d7c0084",
+      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/item/LandscapeProductPREFLIGHT-2560x1440-70d2dfd6cf3090ffde5de493e48794fb.jpg",
+      "md5": "70d2dfd6cf3090ffde5de493e48794fb",
       "width": 2560,
       "height": 1440,
-      "size": 2070193,
-      "uploadedDate": "2020-04-24T02:54:05.703Z"
+      "size": 2061203,
+      "uploadedDate": "2021-03-24T19:21:45.381Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/item/PortraitProductPREFLIGHT-1200x1600-dd5e987642457f3ade329a186ddf0ee6.jpg",
+      "md5": "dd5e987642457f3ade329a186ddf0ee6",
+      "width": 1200,
+      "height": 1600,
+      "size": 1070644,
+      "uploadedDate": "2021-03-24T19:21:58.448Z"
     }
   ],
   "categories": [
@@ -36,23 +36,11 @@
   "namespace": "07f4a7dd3c884e5d87e9a209716962ca",
   "status": "ACTIVE",
   "creationDate": "2020-03-27T03:00:53.942Z",
-  "lastModifiedDate": "2020-07-15T03:22:01.015Z",
+  "lastModifiedDate": "2021-03-24T20:34:43.428Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
-    },
-    "CloudSaveFolder": {
-      "type": "STRING",
-      "value": "{UserDir}/My Games/OldWorld/"
-    },
-    "CloudIncludeList": {
-      "type": "STRING",
-      "value": "Saves/,Test/Saves/"
-    },
-    "MaxSizeMB": {
-      "type": "STRING",
-      "value": "2000"
     },
     "FolderName": {
       "type": "STRING",
@@ -80,6 +68,5 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
-  "applicationId": "fghi45671BGmZYEEWY5S8odb5iPvIhoR",
   "unsearchable": false
 }

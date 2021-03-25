@@ -1,0 +1,92 @@
+{
+  "id": "3e2a109df0264be9987e42c7b341f59b",
+  "title": "Knight Squad 2",
+  "description": "Knight Squad 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/8149b9c6be654c71aad46431d3d349a6/item/EGS_KnightSquad2_ChainsawesomeGames_S1-2560x1440-c52afc0fcad11b623866f33caa1e267e.jpg",
+      "md5": "c52afc0fcad11b623866f33caa1e267e",
+      "width": 2560,
+      "height": 1440,
+      "size": 899330,
+      "uploadedDate": "2021-03-15T15:00:22.337Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/8149b9c6be654c71aad46431d3d349a6/item/EGS_KnightSquad2_ChainsawesomeGames_S2-1200x1600-c959c726703f3959f32ba8cfdfa19a33.jpg",
+      "md5": "c959c726703f3959f32ba8cfdfa19a33",
+      "width": 1200,
+      "height": 1600,
+      "size": 800038,
+      "uploadedDate": "2021-03-15T15:00:30.488Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8149b9c6be654c71aad46431d3d349a6",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-11T18:39:01.934Z",
+  "lastModifiedDate": "2021-03-24T14:59:29.940Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "8149b9c6be654c71aad46431d3d349a6"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KnightSquad2"
+    }
+  },
+  "entitlementName": "3e2a109df0264be9987e42c7b341f59b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "683b23f5d34e46d783493c28253065aa",
+      "appId": "a99e5b890bb143eaa149e0f827adc2b4",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-01-19T00:00:00.000Z"
+    }
+  ],
+  "developer": "Chainsawesome Games",
+  "developerId": "o-7zc6sl4585ajhuz4m9hbxd32s7hmz8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi45674e9AWKeBuZf3Ff29s89yuG9R",
+  "unsearchable": false
+}

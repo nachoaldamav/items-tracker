@@ -4,22 +4,22 @@
   "description": "Old World (staging)",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/item/EGS_OldWorld_MohawkGames_S2-860x1148-0e077ae9572c911683633fa9b19bd5c5.jpg",
-      "md5": "0e077ae9572c911683633fa9b19bd5c5",
-      "width": 860,
-      "height": 1148,
-      "size": 696045,
-      "uploadedDate": "2020-04-24T02:52:21.518Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/item/EGS_OldWorld_MohawkGames_S1-2560x1440-9f8de361a5835c8c32754f1e2d7c0084.jpg",
-      "md5": "9f8de361a5835c8c32754f1e2d7c0084",
+      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/item/LandscapeProductSTAGING-2560x1440-597d0a55af710a209b71e5d22df9d03a.jpg",
+      "md5": "597d0a55af710a209b71e5d22df9d03a",
       "width": 2560,
       "height": 1440,
-      "size": 2070193,
-      "uploadedDate": "2020-04-24T02:53:46.360Z"
+      "size": 2068876,
+      "uploadedDate": "2021-03-24T19:20:40.025Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/item/PortraitProductSTAGING-1200x1600-f73bc61539af845720b775b9b52eb115.jpg",
+      "md5": "f73bc61539af845720b775b9b52eb115",
+      "width": 1200,
+      "height": 1600,
+      "size": 1080429,
+      "uploadedDate": "2021-03-24T19:21:09.328Z"
     }
   ],
   "categories": [
@@ -36,31 +36,11 @@
   "namespace": "07f4a7dd3c884e5d87e9a209716962ca",
   "status": "ACTIVE",
   "creationDate": "2020-03-04T02:18:13.616Z",
-  "lastModifiedDate": "2021-02-08T20:17:02.157Z",
+  "lastModifiedDate": "2021-03-24T20:28:36.884Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
-    },
-    "CloudSaveFolder": {
-      "type": "STRING",
-      "value": "{UserDir}/My Games/OldWorld/Dev/Saves/"
-    },
-    "extraLaunchOption_001_Args": {
-      "type": "STRING",
-      "value": "-batchmode -nographics -server"
-    },
-    "AllowMultipleInstances": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "MaxSizeMB": {
-      "type": "STRING",
-      "value": "2000"
-    },
-    "extraLaunchOption_001_Name": {
-      "type": "STRING",
-      "value": "Launch Dedicated Server"
     },
     "FolderName": {
       "type": "STRING",
@@ -78,7 +58,7 @@
         "Windows",
         "Mac"
       ],
-      "dateAdded": "2021-02-03T00:00:00.000Z"
+      "dateAdded": "2021-03-24T20:28:35.338Z"
     }
   ],
   "developer": "Mohawk Games",
@@ -88,6 +68,5 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
-  "applicationId": "fghi45671BGmZYEEWY5S8odb5iPvIhoR",
   "unsearchable": false
 }

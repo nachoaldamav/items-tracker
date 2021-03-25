@@ -36,7 +36,7 @@
   "namespace": "e4ac2f8cd49b42f18821f3fc3b6fc1b6",
   "status": "ACTIVE",
   "creationDate": "2021-01-22T19:28:09.445Z",
-  "lastModifiedDate": "2021-03-18T14:05:21.300Z",
+  "lastModifiedDate": "2021-03-24T21:32:18.508Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -49,6 +49,14 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/CITW/Saved/SaveGames/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "steam_autocloud.vdf"
     },
     "UseAccessControl": {
       "type": "STRING",

@@ -1,0 +1,33 @@
+{
+  "id": "b6a53260096f42beaecc8b464cbcc435",
+  "title": "DevPragueAudience",
+  "description": "DevPragueAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "8149b9c6be654c71aad46431d3d349a6",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-11T18:39:01.819Z",
+  "lastModifiedDate": "2021-03-24T14:59:39.478Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b6a53260096f42beaecc8b464cbcc435",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Les Jeux Chainawesome, Inc",
+  "developerId": "o-7zc6sl4585ajhuz4m9hbxd32s7hmz8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

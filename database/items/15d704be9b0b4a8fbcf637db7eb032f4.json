@@ -1,0 +1,53 @@
+{
+  "id": "15d704be9b0b4a8fbcf637db7eb032f4",
+  "title": "RisottoStaging",
+  "description": "RisottoStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a0c5d9d8a9a940e8a8f63118c7323210",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-12T15:13:29.592Z",
+  "lastModifiedDate": "2021-03-23T15:55:18.373Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RisottoStaging"
+    }
+  },
+  "entitlementName": "15d704be9b0b4a8fbcf637db7eb032f4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "23b1ad2fa45c429dae605eef14bd77b2",
+      "appId": "5fd1a00a7e1f4ac1aadf855d593b66d3",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-12T15:15:29.813Z"
+    }
+  ],
+  "developer": "The Irregular Corporation",
+  "developerId": "o-h3rhw2ntexmcgx44cv2pdje5bz3nqh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

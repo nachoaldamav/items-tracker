@@ -1,0 +1,51 @@
+{
+  "id": "afae00ea46244f94831bb2123857bb85",
+  "title": "PragueStaging",
+  "description": "PragueStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8149b9c6be654c71aad46431d3d349a6",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-11T18:39:02.037Z",
+  "lastModifiedDate": "2021-03-24T14:59:29.941Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PragueStaging"
+    }
+  },
+  "entitlementName": "afae00ea46244f94831bb2123857bb85",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "658c818f714343f2b8a332c5257d0809",
+      "appId": "cfd1a52573064149968c3cf9135ac36b",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-01-19T18:27:24.372Z"
+    }
+  ],
+  "developer": "Les Jeux Chainawesome, Inc",
+  "developerId": "o-7zc6sl4585ajhuz4m9hbxd32s7hmz8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -17,7 +17,7 @@
   "namespace": "0712176b5e3e49bfa8866c0ee1359f2d",
   "status": "ACTIVE",
   "creationDate": "2020-09-18T12:13:37.690Z",
-  "lastModifiedDate": "2021-02-11T19:07:06.900Z",
+  "lastModifiedDate": "2021-03-24T22:59:11.712Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -41,10 +41,10 @@
       "dateAdded": "2020-07-02T00:00:00.000Z"
     }
   ],
-  "developer": "Square Enix Japan",
+  "developer": "Square Enix (Japan)",
   "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
   "eulaIds": [
-    "egstore"
+    "(egstore && mastermind)"
   ],
   "endOfSupport": false,
   "ageGatings": {},
