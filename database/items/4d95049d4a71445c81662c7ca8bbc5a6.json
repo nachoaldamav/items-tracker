@@ -1,0 +1,60 @@
+{
+  "id": "4d95049d4a71445c81662c7ca8bbc5a6",
+  "title": "AlphaStaging",
+  "description": "AlphaStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bd6437617fc841df8c43800901211059",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-18T19:06:55.942Z",
+  "lastModifiedDate": "2021-03-24T21:18:15.057Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Airship Syndicate/BattleChasersNightwar/saves/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": ".sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AlphaStaging"
+    }
+  },
+  "entitlementName": "4d95049d4a71445c81662c7ca8bbc5a6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9d04397cdf7d4d6dbc36e8fde172ec3e",
+      "appId": "c83e31285e30439098c4692e3e5741e7",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-02-18T00:00:00.000Z"
+    }
+  ],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

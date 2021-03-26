@@ -1,0 +1,47 @@
+{
+  "id": "f5573c0b02a84b29b45822fe4f4f5113",
+  "title": "BravoGeneralAudience",
+  "description": "BravoGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/f93166410da745b58b1613db66141c02/item/ELEX ESRB-398x190-67ed39fdacc6b0941c34b6c0736492df.png",
+      "md5": "67ed39fdacc6b0941c34b6c0736492df",
+      "width": 398,
+      "height": 190,
+      "size": 13508,
+      "uploadedDate": "2021-02-23T05:34:47.451Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "f93166410da745b58b1613db66141c02",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-18T17:52:04.450Z",
+  "lastModifiedDate": "2021-03-24T21:12:57.343Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f5573c0b02a84b29b45822fe4f4f5113",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

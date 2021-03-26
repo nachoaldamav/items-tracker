@@ -16,7 +16,7 @@
   "namespace": "fe5a2e3e842a4394938a81f3308df2ed",
   "status": "ACTIVE",
   "creationDate": "2019-06-06T19:35:47.398Z",
-  "lastModifiedDate": "2019-06-10T18:55:20.382Z",
+  "lastModifiedDate": "2021-03-26T00:53:34.693Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -33,7 +33,11 @@
   "releaseInfo": [
     {
       "id": "ba110675fab84fafbe91f5057cbf67e1",
-      "appId": "OwlStaging"
+      "appId": "OwlStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-26T00:53:25.865Z"
     }
   ],
   "developer": "Annapurna Interactive",
@@ -42,5 +46,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

@@ -27,7 +27,7 @@
   "namespace": "fe5a2e3e842a4394938a81f3308df2ed",
   "status": "ACTIVE",
   "creationDate": "2019-06-06T19:35:47.322Z",
-  "lastModifiedDate": "2019-11-20T17:01:33.382Z",
+  "lastModifiedDate": "2021-03-26T00:59:11.632Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -64,7 +64,11 @@
   "releaseInfo": [
     {
       "id": "9f73e134c86544358447ca35d4d72082",
-      "appId": "Owl"
+      "appId": "Owl",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-26T00:00:00.000Z"
     }
   ],
   "developer": "Annapurna Interactive",
@@ -73,5 +77,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

@@ -1,0 +1,52 @@
+{
+  "id": "47a5d63785fa48d6b158c6966caff55d",
+  "title": "DeltaStaging",
+  "description": "DeltaStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f7dc2f3c915444f1a6ba4105bc00d592",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-18T18:27:32.956Z",
+  "lastModifiedDate": "2021-03-24T21:22:46.630Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DeltaStaging"
+    }
+  },
+  "entitlementName": "47a5d63785fa48d6b158c6966caff55d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2b6a0b39595841948a49da0aa32abde7",
+      "appId": "f0e3e515b22a4d588adf1c2a17179ffa",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-02-18T18:59:54.566Z"
+    }
+  ],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
