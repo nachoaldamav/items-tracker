@@ -1,0 +1,52 @@
+{
+  "id": "7e7c2bcc174e425cbea14e057b1a9202",
+  "title": "BrahmsStaging",
+  "description": "BrahmsStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "41cd36dc3662428193f02f0f947bbe5e",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-04T21:20:25.256Z",
+  "lastModifiedDate": "2021-03-26T15:49:42.864Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BrahmsStaging"
+    }
+  },
+  "entitlementName": "7e7c2bcc174e425cbea14e057b1a9202",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "832e44248f5947d09073557e1bb70fd0",
+      "appId": "d6e1c5cda2cc4e67928815eab7a3ea0a",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-04T21:24:58.995Z"
+    }
+  ],
+  "developer": "No More Robots",
+  "developerId": "o-236t9erksuklvbpwrddx5953wndtps",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
