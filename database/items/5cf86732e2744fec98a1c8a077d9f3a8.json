@@ -33,7 +33,7 @@
   "namespace": "catnip",
   "status": "ACTIVE",
   "creationDate": "2019-02-13T20:15:03.704Z",
-  "lastModifiedDate": "2021-02-25T15:51:11.812Z",
+  "lastModifiedDate": "2021-03-30T14:38:06.092Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -73,7 +73,7 @@
     },
     "MaxSizeMB": {
       "type": "STRING",
-      "value": "9000"
+      "value": "15000"
     },
     "FolderName": {
       "type": "STRING",

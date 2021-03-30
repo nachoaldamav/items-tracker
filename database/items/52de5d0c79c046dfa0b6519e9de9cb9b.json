@@ -36,7 +36,7 @@
   "namespace": "b671fbc7be424e888c9346a9a6d3d9db",
   "status": "ACTIVE",
   "creationDate": "2019-08-05T14:11:02.516Z",
-  "lastModifiedDate": "2019-10-09T16:19:48.157Z",
+  "lastModifiedDate": "2021-03-29T23:15:15.483Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -68,7 +68,8 @@
       "appId": "SaltStaging",
       "platform": [
         "Windows",
-        "Mac"
+        "Mac",
+        "Win32"
       ],
       "dateAdded": "2019-08-05T00:00:00.000Z"
     }
@@ -79,5 +80,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

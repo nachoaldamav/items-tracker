@@ -45,7 +45,7 @@
   "namespace": "b671fbc7be424e888c9346a9a6d3d9db",
   "status": "ACTIVE",
   "creationDate": "2019-08-05T14:11:02.459Z",
-  "lastModifiedDate": "2019-11-21T16:07:26.482Z",
+  "lastModifiedDate": "2021-03-29T23:14:37.339Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -97,7 +97,8 @@
       "appId": "Salt",
       "platform": [
         "Windows",
-        "Mac"
+        "Mac",
+        "Win32"
       ],
       "dateAdded": "2019-08-05T00:00:00.000Z"
     }
@@ -108,6 +109,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
   "unsearchable": false
 }
