@@ -1,0 +1,60 @@
+{
+  "id": "572157a23b2b410fb612dc2d3db541e0",
+  "title": "CoconutStaging",
+  "description": "CoconutStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "36b8fb441b2542f89250fc92ca761077",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-11T20:16:51.579Z",
+  "lastModifiedDate": "2020-08-28T20:03:44.832Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "280b77eb43ef40d3a627c9b40f49d0b8"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CoconutStaging"
+    }
+  },
+  "entitlementName": "572157a23b2b410fb612dc2d3db541e0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f1058dc6e26443939d4618f1cc0604b7",
+      "appId": "48c20db5f3d7458cafe8cb683a91dfd1",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

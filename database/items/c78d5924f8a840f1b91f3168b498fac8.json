@@ -1,0 +1,74 @@
+{
+  "id": "c78d5924f8a840f1b91f3168b498fac8",
+  "title": "Technetium",
+  "description": "Technetium",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3d4b3dcf7ec449c7a042c163d08fa0f3",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-12T22:47:47.997Z",
+  "lastModifiedDate": "2021-03-30T12:36:05.150Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "3d4b3dcf7ec449c7a042c163d08fa0f3"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Technetium"
+    }
+  },
+  "entitlementName": "c78d5924f8a840f1b91f3168b498fac8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "71374284409b4c4ba17c9e37f4caf502",
+      "appId": "4d1884fe90f441129722197ba0bb9f8e",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-01-12T00:00:00.000Z"
+    }
+  ],
+  "developer": "Goblinz Studio",
+  "developerId": "o-7jby5x5ez3xmyf5qhgur72hlye379e",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
