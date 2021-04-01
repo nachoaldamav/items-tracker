@@ -45,7 +45,7 @@
   "namespace": "ffe512fa1e594ee6a75d4643d1e21b43",
   "status": "ACTIVE",
   "creationDate": "2019-12-16T16:58:30.243Z",
-  "lastModifiedDate": "2020-02-04T15:18:57.937Z",
+  "lastModifiedDate": "2021-04-01T14:18:04.067Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -84,7 +84,8 @@
       "id": "fee6d6de56474e73a35a63c56cbe3f88",
       "appId": "Driftfish",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "dateAdded": "2019-12-18T00:00:00.000Z"
     }
@@ -95,6 +96,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
   "unsearchable": false
 }
