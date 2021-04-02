@@ -1,0 +1,62 @@
+{
+  "id": "7899960822f84ea7a7ea11346c66ea53",
+  "title": "IndiumStaging",
+  "description": "IndiumStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "eb348461cdaf4bec9d69a1c4bb39ecc4",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-14T22:13:52.639Z",
+  "lastModifiedDate": "2021-02-24T22:08:33.606Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Defiant Development/Hand of Fate 2/player_data.profile/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Defiant Development/Hand of Fate 2/player_data.profile/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "IndiumStaging"
+    }
+  },
+  "entitlementName": "7899960822f84ea7a7ea11346c66ea53",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9470b6a6f87246889d3505be729eac79",
+      "appId": "12ff383aa3fc463db678921382e5dfd3",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-01-14T00:00:00.000Z"
+    }
+  ],
+  "developer": "Defiant Development PTY LTD",
+  "developerId": "o-263x4kmewy3sltg46p3ccce2aqmypf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

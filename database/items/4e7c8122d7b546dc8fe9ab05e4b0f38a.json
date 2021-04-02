@@ -5,30 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/item/EGS_LandfallGames_TotallyAccurateBattleSimulator_S1-2560x1440-6041f9e5f1e30fc01dafd9dd11999732.jpg",
-      "md5": "6041f9e5f1e30fc01dafd9dd11999732",
+      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/item/EGS_TotallyAccurateBattleSimulator_LandfallGames_S3-2560x1440-5a7fa2ad3029ef94c70ca19f088ee9c3.jpg",
+      "md5": "5a7fa2ad3029ef94c70ca19f088ee9c3",
       "width": 2560,
       "height": 1440,
-      "size": 469269,
-      "uploadedDate": "2019-12-18T13:53:33.288Z"
+      "size": 835452,
+      "uploadedDate": "2021-03-31T22:31:45.302Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/item/EGS_LandfallGames_TotallyAccurateBattleSimulator_S2-860x1148-c8fc9233bb0adbca2d4faf6b802f3529.jpg",
-      "md5": "c8fc9233bb0adbca2d4faf6b802f3529",
-      "width": 860,
-      "height": 1148,
-      "size": 364049,
-      "uploadedDate": "2019-12-18T13:53:43.743Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/item/EGS_LandfallGames_TotallyAccurateBattleSimulator_IC1-200x91-6ccdb8fc1ece9c7bf55129561cb65d14.png",
-      "md5": "6ccdb8fc1ece9c7bf55129561cb65d14",
-      "width": 200,
-      "height": 91,
-      "size": 28567,
-      "uploadedDate": "2019-12-18T13:53:56.613Z"
+      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/item/EGS_TotallyAccurateBattleSimulator_LandfallGames_S4-1200x1600-6c3faa0bfc6514db0630522fa628ed84.jpg",
+      "md5": "6c3faa0bfc6514db0630522fa628ed84",
+      "width": 1200,
+      "height": 1600,
+      "size": 937274,
+      "uploadedDate": "2021-03-31T22:31:52.455Z"
     }
   ],
   "categories": [
@@ -45,7 +36,7 @@
   "namespace": "ffe512fa1e594ee6a75d4643d1e21b43",
   "status": "ACTIVE",
   "creationDate": "2019-12-16T16:58:30.243Z",
-  "lastModifiedDate": "2021-04-01T14:18:04.067Z",
+  "lastModifiedDate": "2021-04-01T18:58:39.989Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -97,6 +88,5 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
-  "selfRefundable": true,
   "unsearchable": false
 }

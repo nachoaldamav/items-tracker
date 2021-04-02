@@ -1,0 +1,73 @@
+{
+  "id": "d0053dc6d39649b1b40a0e1e9f6bde31",
+  "title": "Indium",
+  "description": "Indium",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "eb348461cdaf4bec9d69a1c4bb39ecc4",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-14T22:13:52.174Z",
+  "lastModifiedDate": "2021-01-14T22:34:51.088Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "eb348461cdaf4bec9d69a1c4bb39ecc4"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Indium"
+    }
+  },
+  "entitlementName": "d0053dc6d39649b1b40a0e1e9f6bde31",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "79a80f9cf8b94a5597e8c64fc5262652",
+      "appId": "808f0dfbf3b84c2680793724d7f207bf",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-01-14T22:30:52.488Z"
+    }
+  ],
+  "developer": "Defiant Development PTY LTD",
+  "developerId": "o-263x4kmewy3sltg46p3ccce2aqmypf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
