@@ -1,0 +1,72 @@
+{
+  "id": "39062e268eaa4f29b56e8a709f37673e",
+  "title": "Farfalle",
+  "description": "Farfalle",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3428aac705b44d88beb8334780fa33bd",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-31T23:06:18.637Z",
+  "lastModifiedDate": "2021-04-01T17:41:08.044Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "3428aac705b44d88beb8334780fa33bd"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Farfalle"
+    }
+  },
+  "entitlementName": "39062e268eaa4f29b56e8a709f37673e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2cb4e57390a842b695e43bf8484acba7",
+      "appId": "1bcad2951c114c7c867a5ad2c7b51026",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-04-01T17:39:38.090Z"
+    }
+  ],
+  "developer": "Covalent Media dba Scavengers Studio",
+  "developerId": "o-8ykq8y3hshjj6nkjujjfwj9cfa5g6f",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
