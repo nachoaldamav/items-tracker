@@ -2,17 +2,6 @@
   "id": "fba0f5903fff436da6e188fd20797100",
   "title": "CharlieGeneralAudience",
   "description": "CharlieGeneralAudience",
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/e65e11fc4aee4bb28c3bddf0b6d490bd/item/Diesel_product_ratings_E_Rating-267x404-8e29ef58cf92f3a2cb09cced2bad6d18f6c54c9e-267x404-9c110a8ba46ed8aec89fe3258b1f0ada.png",
-      "md5": "9c110a8ba46ed8aec89fe3258b1f0ada",
-      "width": 267,
-      "height": 404,
-      "size": 26159,
-      "uploadedDate": "2021-03-02T18:18:42.247Z"
-    }
-  ],
   "categories": [
     {
       "path": "audience"
@@ -24,7 +13,7 @@
   "namespace": "e65e11fc4aee4bb28c3bddf0b6d490bd",
   "status": "ACTIVE",
   "creationDate": "2021-02-18T19:21:35.390Z",
-  "lastModifiedDate": "2021-03-02T18:21:12.657Z",
+  "lastModifiedDate": "2021-04-06T14:25:33.982Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -40,8 +29,6 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "esrbGameRatingValue": "EVERYONE",
-  "ageGatings": {},
   "requiresSecureAccount": false,
   "unsearchable": false
 }
