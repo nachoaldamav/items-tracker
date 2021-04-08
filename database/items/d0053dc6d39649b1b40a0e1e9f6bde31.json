@@ -16,7 +16,7 @@
   "namespace": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "status": "ACTIVE",
   "creationDate": "2021-01-14T22:13:52.174Z",
-  "lastModifiedDate": "2021-01-14T22:34:51.088Z",
+  "lastModifiedDate": "2021-04-07T19:21:10.609Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -26,9 +26,17 @@
       "type": "STRING",
       "value": "eb348461cdaf4bec9d69a1c4bb39ecc4"
     },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Defiant Development/Hand of Fate 2/player_data.profile/"
+    },
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Defiant Development/Hand of Fate 2/player_data.profile/"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -58,7 +66,7 @@
         "Windows",
         "Mac"
       ],
-      "dateAdded": "2021-01-14T22:30:52.488Z"
+      "dateAdded": "2021-01-14T00:00:00.000Z"
     }
   ],
   "developer": "Defiant Development PTY LTD",
@@ -68,6 +76,7 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "fghi45672UyNmhzCugc3hVVohIy3OWqs",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
