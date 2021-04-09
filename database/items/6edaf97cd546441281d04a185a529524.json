@@ -1,0 +1,72 @@
+{
+  "id": "6edaf97cd546441281d04a185a529524",
+  "title": "Ghoul",
+  "description": "Ghoul",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e5decf71f325458b92653616ee98682a",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-10T03:59:54.030Z",
+  "lastModifiedDate": "2021-04-08T14:12:35.349Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "e5decf71f325458b92653616ee98682a"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Ghoul"
+    }
+  },
+  "entitlementName": "6edaf97cd546441281d04a185a529524",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5d0414e5d84d4d32a6318248f70f63f9",
+      "appId": "03b7b25a77024cc0adf44777f791ffc4",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-10T04:03:17.239Z"
+    }
+  ],
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
