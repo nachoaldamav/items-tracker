@@ -33,7 +33,7 @@
   "namespace": "phlox",
   "status": "ACTIVE",
   "creationDate": "2019-03-04T13:07:11.577Z",
-  "lastModifiedDate": "2020-07-17T23:42:06.998Z",
+  "lastModifiedDate": "2021-04-12T18:23:13.373Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -45,7 +45,7 @@
     },
     "CloudSaveFolder_MAC": {
       "type": "STRING",
-      "value": "{UserLibrary}/Documents/Klei/Griftlands/{EpicID}/"
+      "value": "{UserLibrary}/Application Support/Klei/Griftlands/{EpicID}/"
     },
     "MonitorPresence": {
       "type": "STRING",

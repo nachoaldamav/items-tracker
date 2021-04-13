@@ -16,11 +16,19 @@
   "namespace": "e5decf71f325458b92653616ee98682a",
   "status": "ACTIVE",
   "creationDate": "2021-03-10T03:59:54.304Z",
-  "lastModifiedDate": "2021-04-08T14:12:35.350Z",
+  "lastModifiedDate": "2021-04-12T19:43:24.034Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Daedalic Entertainment GmbH/Deponia The Complete Journey/Savegames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.dat"
     },
     "FolderName": {
       "type": "STRING",
@@ -37,7 +45,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2021-03-10T04:02:25.116Z"
+      "dateAdded": "2021-03-10T00:00:00.000Z"
     }
   ],
   "developer": "Daedalic Entertainment",
