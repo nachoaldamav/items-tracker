@@ -46,7 +46,7 @@
   "namespace": "snapdragon",
   "status": "ACTIVE",
   "creationDate": "2019-01-22T20:24:55.920Z",
-  "lastModifiedDate": "2020-02-12T13:48:14.015Z",
+  "lastModifiedDate": "2021-04-14T14:59:14.300Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -58,11 +58,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "bbbde616f4e645b992c111ddb601a0e8",
+      "id": "0c57af95748a46ac9a1c2cafba7038ce",
       "appId": "SnapdragonDLC2",
       "compatibleApps": [],
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "dateAdded": "2019-05-14T00:00:00.000Z",
       "releaseNote": "",
@@ -74,7 +75,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

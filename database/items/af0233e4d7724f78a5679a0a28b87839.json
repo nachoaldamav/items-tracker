@@ -2,6 +2,17 @@
   "id": "af0233e4d7724f78a5679a0a28b87839",
   "title": "GhoulGeneralAudience",
   "description": "GhoulGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/e5decf71f325458b92653616ee98682a/item/Deponia_ESRB-398x190-b92aa816de8b705f1bb955ddc3f9a0b0.png",
+      "md5": "b92aa816de8b705f1bb955ddc3f9a0b0",
+      "width": 398,
+      "height": 190,
+      "size": 16649,
+      "uploadedDate": "2021-04-14T02:17:12.375Z"
+    }
+  ],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +24,7 @@
   "namespace": "e5decf71f325458b92653616ee98682a",
   "status": "ACTIVE",
   "creationDate": "2021-03-10T03:59:53.704Z",
-  "lastModifiedDate": "2021-04-08T14:12:35.358Z",
+  "lastModifiedDate": "2021-04-14T02:17:16.645Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -29,6 +40,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
   "requiresSecureAccount": false,
   "unsearchable": false
 }

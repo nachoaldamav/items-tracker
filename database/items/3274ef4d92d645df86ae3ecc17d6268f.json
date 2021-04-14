@@ -33,11 +33,11 @@
   "namespace": "snapdragon",
   "status": "ACTIVE",
   "creationDate": "2019-01-30T17:55:04.158Z",
-  "lastModifiedDate": "2021-01-22T18:01:50.766Z",
+  "lastModifiedDate": "2021-04-14T14:59:14.300Z",
   "customAttributes": {
     "SupportedPlatform": {
       "type": "STRING",
-      "value": "Windows, Mac"
+      "value": "Windows,Mac"
     }
   },
   "entitlementName": "3274ef4d92d645df86ae3ecc17d6268f",
@@ -47,7 +47,9 @@
   "developer": "Koch Media",
   "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
   "eulaIds": [],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

@@ -33,7 +33,7 @@
   "namespace": "snapdragon",
   "status": "ACTIVE",
   "creationDate": "2019-01-30T15:56:27.125Z",
-  "lastModifiedDate": "2019-08-23T20:22:31.212Z",
+  "lastModifiedDate": "2021-04-14T14:59:14.300Z",
   "customAttributes": {
     "OwnershipToken": {
       "type": "STRING",
@@ -42,6 +42,10 @@
     "FolderName": {
       "type": "STRING",
       "value": "SnapdragonInternal"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
     }
   },
   "entitlementName": "ea40854ad56f47ba8ae01fb1a90ac667",
@@ -63,6 +67,9 @@
   "developer": "Koch Media",
   "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
   "eulaIds": [],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

@@ -24,7 +24,13 @@
   "namespace": "snapdragon",
   "status": "ACTIVE",
   "creationDate": "2019-01-21T18:50:01.007Z",
-  "lastModifiedDate": "2019-08-20T17:38:30.846Z",
+  "lastModifiedDate": "2021-04-14T14:59:14.300Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
   "entitlementName": "72d82ab50a92464ab626da48ce47a530",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
@@ -34,8 +40,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "esrbGameRatingValue": "MATURE",
-  "selfRefundable": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

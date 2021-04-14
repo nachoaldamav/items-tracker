@@ -24,11 +24,11 @@
   "namespace": "snapdragon",
   "status": "ACTIVE",
   "creationDate": "2019-01-11T22:00:58.178Z",
-  "lastModifiedDate": "2019-05-13T14:43:39.964Z",
+  "lastModifiedDate": "2021-04-14T14:59:14.300Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
-      "value": "Windows"
+      "value": "Windows,Mac"
     }
   },
   "entitlementName": "bf488a6ab8524b3db1dcab2e7dc9f3c9",
@@ -40,7 +40,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
