@@ -1,7 +1,27 @@
 {
   "id": "d0053dc6d39649b1b40a0e1e9f6bde31",
-  "title": "Indium",
-  "description": "Indium",
+  "title": "Hand of Fate 2",
+  "description": "Hand of Fate 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HandofFate2_DefiantDevelopment_S1_2560x1440-aa240451a12ea5498a054e4eab21eef4",
+      "md5": "aa240451a12ea5498a054e4eab21eef4",
+      "width": 2560,
+      "height": 1440,
+      "size": 1004479,
+      "uploadedDate": "2021-04-14T20:09:03.231Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HandofFate2_DefiantDevelopment_S2_1200x1600-30c02fa77e675a39bbdfa5c0fab19894",
+      "md5": "30c02fa77e675a39bbdfa5c0fab19894",
+      "width": 1200,
+      "height": 1600,
+      "size": 945650,
+      "uploadedDate": "2021-04-14T20:09:07.343Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,7 +36,7 @@
   "namespace": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "status": "ACTIVE",
   "creationDate": "2021-01-14T22:13:52.174Z",
-  "lastModifiedDate": "2021-04-07T19:21:10.609Z",
+  "lastModifiedDate": "2021-04-15T13:59:38.442Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -52,7 +72,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Indium"
+      "value": "HandOfFate2"
     }
   },
   "entitlementName": "d0053dc6d39649b1b40a0e1e9f6bde31",
@@ -74,6 +94,7 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
   "applicationId": "fghi45672UyNmhzCugc3hVVohIy3OWqs",

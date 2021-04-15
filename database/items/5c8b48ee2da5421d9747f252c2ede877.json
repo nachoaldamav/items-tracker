@@ -14,11 +14,11 @@
   "namespace": "phlox",
   "status": "ACTIVE",
   "creationDate": "2019-06-08T18:39:36.086Z",
-  "lastModifiedDate": "2019-09-26T17:46:04.959Z",
+  "lastModifiedDate": "2021-04-15T16:20:09.854Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
-      "value": "Windows"
+      "value": "Windows, Mac"
     }
   },
   "entitlementName": "5c8b48ee2da5421d9747f252c2ede877",
@@ -31,5 +31,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

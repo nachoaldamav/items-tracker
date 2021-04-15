@@ -36,7 +36,7 @@
   "namespace": "e5decf71f325458b92653616ee98682a",
   "status": "ACTIVE",
   "creationDate": "2021-03-10T03:59:54.030Z",
-  "lastModifiedDate": "2021-04-14T02:20:39.568Z",
+  "lastModifiedDate": "2021-04-15T15:22:17.274Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -72,7 +72,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "DeponiaTheCompleteJourney"
+      "value": "DeponiaTCJ"
     }
   },
   "entitlementName": "6edaf97cd546441281d04a185a529524",
@@ -83,7 +83,8 @@
       "id": "5d0414e5d84d4d32a6318248f70f63f9",
       "appId": "03b7b25a77024cc0adf44777f791ffc4",
       "platform": [
-        "Windows"
+        "Windows",
+        "Win32"
       ],
       "dateAdded": "2021-03-10T00:00:00.000Z"
     }

@@ -33,7 +33,7 @@
   "namespace": "phlox",
   "status": "ACTIVE",
   "creationDate": "2019-03-04T13:07:11.577Z",
-  "lastModifiedDate": "2021-04-12T18:23:13.373Z",
+  "lastModifiedDate": "2021-04-15T16:19:25.197Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -85,7 +85,8 @@
       "appId": "Phlox",
       "compatibleApps": [],
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "dateAdded": "2019-03-04T00:00:00.000Z",
       "releaseNote": "",
