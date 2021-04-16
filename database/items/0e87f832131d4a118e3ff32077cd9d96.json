@@ -1,7 +1,8 @@
 {
   "id": "0e87f832131d4a118e3ff32077cd9d96",
-  "title": "GreeneyeStaging",
-  "description": "GreeneyeStaging",
+  "title": "SifuStaging",
+  "description": "SifuStaging",
+  "keyImages": [],
   "categories": [
     {
       "path": "public"
@@ -16,7 +17,7 @@
   "namespace": "b7b42e2078524ab386a8b2a9856ef557",
   "status": "ACTIVE",
   "creationDate": "2021-01-08T22:35:55.813Z",
-  "lastModifiedDate": "2021-02-25T22:36:52.564Z",
+  "lastModifiedDate": "2021-04-16T16:52:03.842Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -24,7 +25,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "GreeneyeStaging"
+      "value": "SifuStaging"
     }
   },
   "entitlementName": "0e87f832131d4a118e3ff32077cd9d96",
@@ -37,7 +38,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2021-01-08T22:48:12.194Z"
+      "dateAdded": "2021-01-08T00:00:00.000Z"
     }
   ],
   "developer": "Sloclap",
@@ -47,6 +48,7 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "fghi4567NiEUxiipUldDWmUl0dhcBn0g",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
