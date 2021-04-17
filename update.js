@@ -85,6 +85,7 @@ class Main {
       if (fileName.substr(-5) !== '.json') return;
       try {
         const item = JSON.parse(Fs.readFileSync(`${itemsPath}/${fileName}`));
+        var itemList = {"id": item.id, "title": item.title};
         if (item.namespace) {
           if (!namespaces[item.namespace]) {
             namespaces[item.namespace] = [item.id];
@@ -92,10 +93,10 @@ class Main {
             namespaces[item.namespace].push(item.id);
           }
         }
-        titles.push(
-          item.id,
-          item.title,
-        );
+        titles.push([
+          id = item.id,
+          title = item.title,
+        ]);
         list.push([
           item.id,
           item.namespace,
