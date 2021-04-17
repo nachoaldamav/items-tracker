@@ -92,7 +92,10 @@ class Main {
             namespaces[item.namespace].push(item.id);
           }
         }
-        titles[item.id] = item.title;
+        titles.push([
+          item.id,
+          item.title,
+        ]);
         list.push([
           item.id,
           item.namespace,
