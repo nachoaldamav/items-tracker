@@ -1,0 +1,72 @@
+{
+  "id": "929a84bff8a34d80b490f71550ec782f",
+  "title": "Fregula",
+  "description": "Fregula",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fa9812acd30f46f8a69a75bf27addb5c",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-08T23:55:30.706Z",
+  "lastModifiedDate": "2021-04-16T14:51:05.184Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "fa9812acd30f46f8a69a75bf27addb5c"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Fregula"
+    }
+  },
+  "entitlementName": "929a84bff8a34d80b490f71550ec782f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1d6a118885c449c68c864bdfb603779e",
+      "appId": "29ee5d32f328471590b3bd3ac03ed7d0",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-10T17:17:32.961Z"
+    }
+  ],
+  "developer": "Maximum Games",
+  "developerId": "o-a6k23slslegbhbwtel4qx423kuzc3y",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
