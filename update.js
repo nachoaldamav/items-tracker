@@ -77,7 +77,7 @@ class Main {
   index () {
     console.log('Indexing...');
     const namespaces = {};
-    const titles = {};
+    const titles = [];
     const list = [];
     
     const itemsPath = `${this.databasePath}/items`;
