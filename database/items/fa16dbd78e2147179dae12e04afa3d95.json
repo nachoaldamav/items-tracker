@@ -42,7 +42,7 @@
   "namespace": "rosemallow",
   "status": "ACTIVE",
   "creationDate": "2019-03-16T06:20:32.358Z",
-  "lastModifiedDate": "2021-04-16T19:03:54.984Z",
+  "lastModifiedDate": "2021-04-20T15:24:45.394Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -74,7 +74,7 @@
     },
     "MaxSizeMB": {
       "type": "STRING",
-      "value": "20000"
+      "value": "40000"
     },
     "FolderName": {
       "type": "STRING",

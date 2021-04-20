@@ -16,7 +16,7 @@
   "namespace": "7e1b3a8e19c949c0bfaed0424a8c4bb5",
   "status": "ACTIVE",
   "creationDate": "2021-01-13T23:20:29.275Z",
-  "lastModifiedDate": "2021-01-13T23:54:38.161Z",
+  "lastModifiedDate": "2021-04-19T17:52:04.881Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -29,6 +29,10 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Twirlbound/Pine/saves/"
     },
     "UseAccessControl": {
       "type": "STRING",
