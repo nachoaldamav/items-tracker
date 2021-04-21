@@ -9,9 +9,9 @@
     }
   ],
   "namespace": "fn",
-  "status": "ACTIVE",
+  "status": "SUNSET",
   "creationDate": "2020-02-11T20:29:51.251Z",
-  "lastModifiedDate": "2020-02-11T20:33:51.764Z",
+  "lastModifiedDate": "2021-04-20T19:48:19.503Z",
   "entitlementName": "2e7360b4239c41b993bbeab9add4395a",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
@@ -20,6 +20,7 @@
   "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
   "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": false,
   "unsearchable": false
 }

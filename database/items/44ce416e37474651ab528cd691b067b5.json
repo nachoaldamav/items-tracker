@@ -16,7 +16,7 @@
   "namespace": "4a9527d6d2984bb39d527631b94ec7f2",
   "status": "ACTIVE",
   "creationDate": "2020-12-21T21:00:31.195Z",
-  "lastModifiedDate": "2021-02-19T15:13:47.668Z",
+  "lastModifiedDate": "2021-04-21T14:24:18.799Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -29,6 +29,10 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/motogp21/Saved_EpicGamesStore/SaveGames/"
     },
     "UseAccessControl": {
       "type": "STRING",
