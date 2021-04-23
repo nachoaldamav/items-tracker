@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/2b352b4aea3849bd9519842dda263ac7/item/EGS_CRSEDFOAD_DarkflowSoftware_G1C_00-1920x1080-adb51bc9d905fabf70fc540ec04c9ddf.jpg",
-      "md5": "adb51bc9d905fabf70fc540ec04c9ddf",
-      "width": 1920,
-      "height": 1080,
-      "size": 448461,
-      "uploadedDate": "2020-12-01T13:28:17.181Z"
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/2b2d16d3-7eff-4f97-806c-94bcdc62903a_2560x1440-aa6ca2f1bd338e69404aa0b23d026d32",
+      "md5": "aa6ca2f1bd338e69404aa0b23d026d32",
+      "width": 2560,
+      "height": 1440,
+      "size": 288368,
+      "uploadedDate": "2021-04-22T17:12:58.322Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/2b352b4aea3849bd9519842dda263ac7/item/EGS_CRSEDFOAD_DarkflowSoftware_S2-1200x1600-8fbde140981a068d2037bbbb2fc4388b.jpg",
-      "md5": "8fbde140981a068d2037bbbb2fc4388b",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1a266b85-9b69-4c67-9791-b84bdc00e5c8_1200x1600-1dc0f6739cc4a4450e95f0afb2830ab3",
+      "md5": "1dc0f6739cc4a4450e95f0afb2830ab3",
       "width": 1200,
       "height": 1600,
-      "size": 175738,
-      "uploadedDate": "2020-12-01T13:28:24.791Z"
+      "size": 226256,
+      "uploadedDate": "2021-04-22T17:13:06.527Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "2b352b4aea3849bd9519842dda263ac7",
   "status": "ACTIVE",
   "creationDate": "2020-06-12T17:14:43.427Z",
-  "lastModifiedDate": "2020-12-03T15:20:50.261Z",
+  "lastModifiedDate": "2021-04-23T14:59:25.788Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -85,6 +85,7 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
   "applicationId": "fghi4567VGYioeFRbECjDBGaTNlFy8Tb",
