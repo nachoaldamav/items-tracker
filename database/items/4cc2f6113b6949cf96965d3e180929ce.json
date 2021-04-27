@@ -16,7 +16,7 @@
   "namespace": "5a2108f4db804040aaf44d139bd21bd1",
   "status": "ACTIVE",
   "creationDate": "2020-10-22T20:30:57.573Z",
-  "lastModifiedDate": "2020-12-11T00:09:49.174Z",
+  "lastModifiedDate": "2021-04-26T18:27:47.996Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -37,10 +37,6 @@
     "RequirementsJson": {
       "type": "STRING",
       "value": "[]"
-    },
-    "availableDate": {
-      "type": "STRING",
-      "value": "1620667022"
     },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
