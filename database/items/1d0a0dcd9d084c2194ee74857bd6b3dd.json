@@ -1,0 +1,53 @@
+{
+  "id": "1d0a0dcd9d084c2194ee74857bd6b3dd",
+  "title": "ThoriumStaging",
+  "description": "ThoriumStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2b4079af75f0487798a504ca35952942",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-06T00:22:47.303Z",
+  "lastModifiedDate": "2021-04-27T02:01:00.341Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ThoriumStaging"
+    }
+  },
+  "entitlementName": "1d0a0dcd9d084c2194ee74857bd6b3dd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fb43c7c2fe2e46f1a3be9f5f9e607927",
+      "appId": "a1fd5936c5414fcd83993722a238562a",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-02-06T00:46:16.171Z"
+    }
+  ],
+  "developer": "Draknek",
+  "developerId": "o-8n38qrvfawma8qsmu3d37bw7gasm2a",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

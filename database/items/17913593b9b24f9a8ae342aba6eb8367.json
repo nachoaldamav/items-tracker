@@ -1,0 +1,36 @@
+{
+  "id": "17913593b9b24f9a8ae342aba6eb8367",
+  "title": "RadiumGeneralAudience",
+  "description": "RadiumGeneralAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "9dfbab09058d403892a27b96dcb349aa",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-05T22:36:05.073Z",
+  "lastModifiedDate": "2021-04-27T02:01:00.445Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "17913593b9b24f9a8ae342aba6eb8367",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Draknek",
+  "developerId": "o-8n38qrvfawma8qsmu3d37bw7gasm2a",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

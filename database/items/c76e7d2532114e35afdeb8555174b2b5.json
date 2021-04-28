@@ -1,0 +1,53 @@
+{
+  "id": "c76e7d2532114e35afdeb8555174b2b5",
+  "title": "ActiniumStaging",
+  "description": "ActiniumStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3b03927495db4362bb88a812e8db5e59",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-05T23:32:41.728Z",
+  "lastModifiedDate": "2021-04-27T02:01:00.443Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ActiniumStaging"
+    }
+  },
+  "entitlementName": "c76e7d2532114e35afdeb8555174b2b5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "465ea2c86bf34ca8a3d9a2931c31479e",
+      "appId": "e5562d7eeb6b43989aa1f52739b4a76b",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-02-05T00:00:00.000Z"
+    }
+  ],
+  "developer": "Draknek",
+  "developerId": "o-8n38qrvfawma8qsmu3d37bw7gasm2a",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

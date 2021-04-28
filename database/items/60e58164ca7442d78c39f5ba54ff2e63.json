@@ -16,11 +16,15 @@
   "namespace": "266c5badcfd144cbbeedd44499d85a62",
   "status": "ACTIVE",
   "creationDate": "2021-01-27T19:40:41.274Z",
-  "lastModifiedDate": "2021-03-09T14:41:20.886Z",
+  "lastModifiedDate": "2021-04-27T23:25:36.371Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Blade Strangers"
     },
     "FolderName": {
       "type": "STRING",
@@ -37,7 +41,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2021-03-09T14:37:41.457Z"
+      "dateAdded": "2021-03-09T00:00:00.000Z"
     }
   ],
   "developer": "Nicalis",
@@ -47,6 +51,7 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "fghi4567HdVaPQAQn4LgEeyHv5TkULr7",
   "requiresSecureAccount": false,
   "unsearchable": false
 }

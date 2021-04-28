@@ -25,7 +25,7 @@
   "namespace": "dfd2530e80e4425d801913b0879be444",
   "status": "ACTIVE",
   "creationDate": "2020-09-04T13:43:08.305Z",
-  "lastModifiedDate": "2021-03-02T22:43:54.220Z",
+  "lastModifiedDate": "2021-04-28T13:57:43.299Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -35,13 +35,16 @@
   "entitlementName": "515ec2f4e11546e29321d903c482240b",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Rebellion",
   "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "esrbGameRatingValue": "MATURE",
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

@@ -16,7 +16,7 @@
   "namespace": "d118f9a27e514d98aa25534afd2f35c7",
   "status": "ACTIVE",
   "creationDate": "2020-06-30T02:31:24.322Z",
-  "lastModifiedDate": "2021-04-20T18:17:32.039Z",
+  "lastModifiedDate": "2021-04-28T15:49:35.612Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -39,6 +39,10 @@
       "value": "[]"
     },
     "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
       "type": "STRING",
       "value": "true"
     },
@@ -65,7 +69,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
