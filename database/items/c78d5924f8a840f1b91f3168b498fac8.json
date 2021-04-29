@@ -36,7 +36,7 @@
   "namespace": "3d4b3dcf7ec449c7a042c163d08fa0f3",
   "status": "ACTIVE",
   "creationDate": "2021-01-12T22:47:47.997Z",
-  "lastModifiedDate": "2021-04-22T16:39:16.497Z",
+  "lastModifiedDate": "2021-04-29T16:49:20.665Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -46,9 +46,17 @@
       "type": "STRING",
       "value": "3d4b3dcf7ec449c7a042c163d08fa0f3"
     },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/GoblinzStudio/LegendOfKeepers/legendofkeepers/"
+    },
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/GoblinzStudio/LegendOfKeepers/legendofkeepers/"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -72,11 +80,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "71374284409b4c4ba17c9e37f4caf502",
+      "id": "abdf2e383ef34ffd8b3d9b569015d5e8",
       "appId": "4d1884fe90f441129722197ba0bb9f8e",
       "platform": [
         "Windows",
-        "Mac"
+        "Mac",
+        "Win32"
       ],
       "dateAdded": "2021-01-12T00:00:00.000Z"
     }

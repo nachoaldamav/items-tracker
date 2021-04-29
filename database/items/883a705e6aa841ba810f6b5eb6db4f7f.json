@@ -16,11 +16,19 @@
   "namespace": "3d4b3dcf7ec449c7a042c163d08fa0f3",
   "status": "ACTIVE",
   "creationDate": "2021-01-12T22:47:48.447Z",
-  "lastModifiedDate": "2021-04-22T15:57:12.803Z",
+  "lastModifiedDate": "2021-04-29T16:49:20.665Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/GoblinzStudio/LegendOfKeepers/legendofkeepers/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/GoblinzStudio/LegendOfKeepers/legendofkeepers/"
     },
     "FolderName": {
       "type": "STRING",
@@ -46,8 +54,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
