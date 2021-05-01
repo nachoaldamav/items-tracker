@@ -1,7 +1,7 @@
 {
   "id": "1d650716e516481aaafda0838d6cf594",
-  "title": "OwlStaging",
-  "description": "OwlStaging",
+  "title": "OwlQA",
+  "description": "OwlQA",
   "categories": [
     {
       "path": "public"
@@ -16,7 +16,7 @@
   "namespace": "fe5a2e3e842a4394938a81f3308df2ed",
   "status": "ACTIVE",
   "creationDate": "2019-06-06T19:35:47.398Z",
-  "lastModifiedDate": "2021-03-26T00:53:34.693Z",
+  "lastModifiedDate": "2021-04-30T20:14:17.819Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -32,12 +32,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "ba110675fab84fafbe91f5057cbf67e1",
-      "appId": "OwlStaging",
+      "id": "f5d7c27b18b04fd3ac8d7b9fc4b6257c",
+      "appId": "f7921b0567b0465a8e83d6259fb6993d",
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2021-03-26T00:53:25.865Z"
+      "dateAdded": "2021-03-26T00:53:25.000Z"
     }
   ],
   "developer": "Annapurna Interactive",
@@ -45,7 +45,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
