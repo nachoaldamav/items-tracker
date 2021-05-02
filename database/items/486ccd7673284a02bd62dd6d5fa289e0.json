@@ -1,0 +1,70 @@
+{
+  "id": "486ccd7673284a02bd62dd6d5fa289e0",
+  "title": "AliceBlue",
+  "description": "AliceBlue",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6b753bd045604be89d9779e741c604b1",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-30T17:48:41.313Z",
+  "lastModifiedDate": "2021-04-30T17:52:07.053Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "6b753bd045604be89d9779e741c604b1"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AliceBlue"
+    }
+  },
+  "entitlementName": "486ccd7673284a02bd62dd6d5fa289e0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "61e289d8c0114308bd0110a0dd93b9a8",
+      "appId": "AliceBlue",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Humble Bundle",
+  "developerId": "o-pldxyabsslnt6jth2z634mmr2pw8lu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
