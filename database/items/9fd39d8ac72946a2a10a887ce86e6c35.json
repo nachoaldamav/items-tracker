@@ -4,31 +4,22 @@
   "description": "MechWarrior 5 Mercenaries",
   "keyImages": [
     {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-7e62db6ae48fcb403f9182068631df34",
+      "md5": "7e62db6ae48fcb403f9182068631df34",
+      "width": 1200,
+      "height": 1600,
+      "size": 575502,
+      "uploadedDate": "2021-05-03T21:27:47.828Z"
+    },
+    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/Game-Library-Photo-2560x1440-a30495a8c43ce841ac75c77c29f108d1.jpg",
-      "md5": "a30495a8c43ce841ac75c77c29f108d1",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s1-2560x1440_2560x1440-8e632e897c65539f1a7b1e45c147726d",
+      "md5": "8e632e897c65539f1a7b1e45c147726d",
       "width": 2560,
       "height": 1440,
-      "size": 504268,
-      "uploadedDate": "2019-12-07T01:52:10.211Z"
-    },
-    {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/Game-Library-Photo-half-1280x1440-454844d621f2298ec227291bd487fe43.jpg",
-      "md5": "454844d621f2298ec227291bd487fe43",
-      "width": 1280,
-      "height": 1440,
-      "size": 494285,
-      "uploadedDate": "2019-12-07T01:52:33.183Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/Game-Library-logo-200x200-90e2a0ddfefb35e1b64f016ec8f6ec31.png",
-      "md5": "90e2a0ddfefb35e1b64f016ec8f6ec31",
-      "width": 200,
-      "height": 200,
-      "size": 6143,
-      "uploadedDate": "2019-12-07T01:55:10.172Z"
+      "size": 444811,
+      "uploadedDate": "2021-05-03T21:27:52.122Z"
     }
   ],
   "categories": [
@@ -45,7 +36,7 @@
   "namespace": "b9def67e597b4be7a16146146a044d02",
   "status": "ACTIVE",
   "creationDate": "2019-07-23T16:38:43.266Z",
-  "lastModifiedDate": "2020-11-06T13:39:01.284Z",
+  "lastModifiedDate": "2021-05-03T21:28:03.832Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -98,7 +89,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

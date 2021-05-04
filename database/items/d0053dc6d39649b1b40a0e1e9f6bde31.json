@@ -36,7 +36,7 @@
   "namespace": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "status": "ACTIVE",
   "creationDate": "2021-01-14T22:13:52.174Z",
-  "lastModifiedDate": "2021-04-16T18:10:40.592Z",
+  "lastModifiedDate": "2021-05-04T15:17:45.625Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -69,6 +69,10 @@
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "5000"
     },
     "FolderName": {
       "type": "STRING",
