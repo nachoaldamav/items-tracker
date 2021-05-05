@@ -1,7 +1,7 @@
 {
   "id": "78a0d387c97045a48d2756d06b321ada",
-  "title": "Solar Ash Kingdom",
-  "description": "Solar Ash Kingdom",
+  "title": "Solar Ash",
+  "description": "Solar Ash",
   "keyImages": [
     {
       "type": "DieselStoreFrontTall",
@@ -27,7 +27,7 @@
   "namespace": "fe5a2e3e842a4394938a81f3308df2ed",
   "status": "ACTIVE",
   "creationDate": "2019-06-06T19:35:47.322Z",
-  "lastModifiedDate": "2021-03-26T00:59:11.632Z",
+  "lastModifiedDate": "2021-05-04T20:04:31.195Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -76,7 +76,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
