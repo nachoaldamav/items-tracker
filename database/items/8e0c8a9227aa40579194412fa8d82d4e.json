@@ -1,0 +1,52 @@
+{
+  "id": "8e0c8a9227aa40579194412fa8d82d4e",
+  "title": "LimaStaging",
+  "description": "LimaStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5df020ed021548be8647ee6bfe7857c9",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-18T17:31:47.095Z",
+  "lastModifiedDate": "2021-05-05T14:22:18.578Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LimaStaging"
+    }
+  },
+  "entitlementName": "8e0c8a9227aa40579194412fa8d82d4e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0e62e198116249e79c8bf1b6324ecdfe",
+      "appId": "2deb03e014ff4a0791f45ccca98c67e7",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-02-18T17:40:34.080Z"
+    }
+  ],
+  "developer": "RockGame S.A.",
+  "developerId": "o-e6zbx28e9zzbxg5jvzh37a3p5j8kam",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

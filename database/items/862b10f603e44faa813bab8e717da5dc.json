@@ -16,11 +16,15 @@
   "namespace": "7e1b3a8e19c949c0bfaed0424a8c4bb5",
   "status": "ACTIVE",
   "creationDate": "2021-01-13T23:20:29.727Z",
-  "lastModifiedDate": "2021-04-29T14:24:55.892Z",
+  "lastModifiedDate": "2021-05-06T15:29:56.965Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Twirlbound/Pine/saves/  "
     },
     "FolderName": {
       "type": "STRING",
@@ -46,8 +50,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
