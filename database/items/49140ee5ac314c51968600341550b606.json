@@ -1,0 +1,73 @@
+{
+  "id": "49140ee5ac314c51968600341550b606",
+  "title": "Camel",
+  "description": "Camel",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ae51a606e31f409bac9e0216f3e757a2",
+  "status": "ACTIVE",
+  "creationDate": "2021-05-05T18:27:47.825Z",
+  "lastModifiedDate": "2021-05-05T18:38:52.153Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ae51a606e31f409bac9e0216f3e757a2"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Camel"
+    }
+  },
+  "entitlementName": "49140ee5ac314c51968600341550b606",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3fc1587c366448c68a0211bd7f68c9b1",
+      "appId": "a75e2922da6c403385eda7e3677ab7e3",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Another Indie Studio Limited",
+  "developerId": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

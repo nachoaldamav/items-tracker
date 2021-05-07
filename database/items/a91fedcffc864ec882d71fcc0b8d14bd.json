@@ -1,0 +1,57 @@
+{
+  "id": "a91fedcffc864ec882d71fcc0b8d14bd",
+  "title": "DolcelatteStaging",
+  "description": "DolcelatteStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e35a5826457c4c98aada2ffad7b5ea5d",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-16T22:13:15.562Z",
+  "lastModifiedDate": "2021-05-06T14:08:17.581Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Mipumi/TLS/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DolcelatteStaging"
+    }
+  },
+  "entitlementName": "a91fedcffc864ec882d71fcc0b8d14bd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b89a10580226433990a0224c43e20792",
+      "appId": "fa7080ccebc444a9939050857fd9def3",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Mi'pu'mi Games GmbH",
+  "developerId": "o-3e6wy7snyw5hqy5mdmkjcq7zbx65yf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

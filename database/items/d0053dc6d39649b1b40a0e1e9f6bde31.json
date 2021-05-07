@@ -36,7 +36,7 @@
   "namespace": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "status": "ACTIVE",
   "creationDate": "2021-01-14T22:13:52.174Z",
-  "lastModifiedDate": "2021-05-04T15:17:45.625Z",
+  "lastModifiedDate": "2021-05-06T19:31:52.753Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -48,7 +48,7 @@
     },
     "CloudSaveFolder_MAC": {
       "type": "STRING",
-      "value": "{UserLibrary}/Application Support/Defiant Development/Hand of Fate 2/player_data.profile/"
+      "value": "{UserLibrary}/Application Support/Defiant Development/Hand of Fate 2/"
     },
     "MonitorPresence": {
       "type": "STRING",
@@ -56,7 +56,7 @@
     },
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{AppData}/../LocalLow/Defiant Development/Hand of Fate 2/player_data.profile/"
+      "value": "{AppData}/../LocalLow/Defiant Development/Hand of Fate 2/"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -65,6 +65,10 @@
     "RequirementsJson": {
       "type": "STRING",
       "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "player_data.profile"
     },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
