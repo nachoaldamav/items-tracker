@@ -33,7 +33,7 @@
   "namespace": "pansy",
   "status": "ACTIVE",
   "creationDate": "2019-03-04T18:06:39.924Z",
-  "lastModifiedDate": "2020-03-04T15:54:27.523Z",
+  "lastModifiedDate": "2021-05-11T15:21:58.263Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -69,6 +69,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
