@@ -1,7 +1,27 @@
 {
   "id": "c4e7b40a8b064a7a8e88e68b3c1e5da5",
-  "title": "Castle",
-  "description": "Castle",
+  "title": "Aerial_Knight's Never Yield",
+  "description": "Aerial_Knight's Never Yield",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Aerial_KnightsNeverYield_Aerial_Knight_S1_2560x1440-2f1282d52f5796002cb29f80e9575bc9",
+      "md5": "2f1282d52f5796002cb29f80e9575bc9",
+      "width": 2560,
+      "height": 1440,
+      "size": 812526,
+      "uploadedDate": "2021-05-03T23:36:29.393Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Aerial_KnightsNeverYield_Aerial_Knight_S2_1200x1600-b9e36fe298b245b3b67cb71b5a6f0367",
+      "md5": "b9e36fe298b245b3b67cb71b5a6f0367",
+      "width": 1200,
+      "height": 1600,
+      "size": 861801,
+      "uploadedDate": "2021-05-03T23:36:46.097Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,7 +36,7 @@
   "namespace": "2ed7ed64d8604265924b85bbd5670220",
   "status": "ACTIVE",
   "creationDate": "2020-12-10T17:28:04.307Z",
-  "lastModifiedDate": "2020-12-10T17:39:38.350Z",
+  "lastModifiedDate": "2021-05-12T14:52:01.322Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,7 +64,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Castle"
+      "value": "AerialKnightsNeverYield"
     }
   },
   "entitlementName": "c4e7b40a8b064a7a8e88e68b3c1e5da5",
@@ -65,8 +85,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }

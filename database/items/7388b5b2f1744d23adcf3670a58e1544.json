@@ -16,7 +16,7 @@
   "namespace": "4d8b727a49144090b103f6b6ba471e71",
   "status": "ACTIVE",
   "creationDate": "2021-02-23T02:00:08.165Z",
-  "lastModifiedDate": "2021-05-11T15:28:33.392Z",
+  "lastModifiedDate": "2021-05-11T17:24:37.793Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -24,7 +24,7 @@
     },
     "CloudSaveFolder_MAC": {
       "type": "STRING",
-      "value": "{UserLibrary}/Application Support/com.brokenarmsgames.hundreddaysmac/"
+      "value": "{UserLibrary}/Application Support/con.brokenarmsgames.hundreddaysmac/"
     },
     "CloudSaveFolder": {
       "type": "STRING",
@@ -40,12 +40,13 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "b66322bf832e41dcb73aaece7b51bd3c",
+      "id": "2ed2e9bbed0f450b8cbf3bd6a837c2af",
       "appId": "fb2692f0613d49e98756b270a146bc35",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
-      "dateAdded": "2021-02-23T02:12:40.011Z"
+      "dateAdded": "2021-02-23T02:12:40.000Z"
     }
   ],
   "developer": "Broken Arms Games",
