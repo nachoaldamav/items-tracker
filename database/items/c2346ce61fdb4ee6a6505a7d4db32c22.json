@@ -21,7 +21,7 @@
   "namespace": "foxglove",
   "status": "ACTIVE",
   "creationDate": "2019-01-29T20:16:43.283Z",
-  "lastModifiedDate": "2019-05-13T14:36:41.635Z",
+  "lastModifiedDate": "2021-05-14T03:45:33.678Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -37,8 +37,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "esrbGameRatingValue": "RATING_PENDING",
-  "selfRefundable": true,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
