@@ -24,7 +24,7 @@
   "namespace": "3e7e7c2bc1644a25a99b3a4c4ef1ff33",
   "status": "ACTIVE",
   "creationDate": "2020-06-02T15:12:40.843Z",
-  "lastModifiedDate": "2020-07-03T12:40:18.303Z",
+  "lastModifiedDate": "2021-05-15T00:00:43.705Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -34,13 +34,16 @@
   "entitlementName": "a2da9caf845d40fb9f14ed59b57ef09b",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "developer": "Fabraz LLC",
-  "developerId": "o-458ql9emykk38kpq6fh5qhfb52efyx",
+  "releaseInfo": [],
+  "developer": "Playtonic Ltd",
+  "developerId": "o-qg5pfv55aq3xfvsvgyqhkdasezmsyn",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "esrbGameRatingValue": "RATING_PENDING",
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

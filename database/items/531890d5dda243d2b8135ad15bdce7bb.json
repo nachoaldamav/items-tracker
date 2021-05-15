@@ -16,7 +16,7 @@
   "namespace": "5f3c898b2a3244af99e9900e015717f8",
   "status": "ACTIVE",
   "creationDate": "2021-02-16T00:27:23.405Z",
-  "lastModifiedDate": "2021-05-06T17:25:20.976Z",
+  "lastModifiedDate": "2021-05-14T18:21:30.966Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -32,12 +32,13 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "3381e6bbf279425c98d08de6feaaeb22",
+      "id": "e3d6395f51b247539f0d90ebf21e75da",
       "appId": "89f00f9a2ca24e89bcb504d1d80084da",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
-      "dateAdded": "2021-02-16T00:48:28.747Z"
+      "dateAdded": "2021-02-16T00:48:28.000Z"
     }
   ],
   "developer": "Discord Inc",
@@ -45,8 +46,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
