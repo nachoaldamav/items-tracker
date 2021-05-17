@@ -30,7 +30,8 @@
   "namespace": "bec57b5341ad4294b005a7dd18691419",
   "status": "ACTIVE",
   "creationDate": "2019-09-23T21:59:40.398Z",
-  "lastModifiedDate": "2019-11-12T14:00:07.106Z",
+  "lastModifiedDate": "2021-05-17T14:50:00.116Z",
+  "customAttributes": {},
   "entitlementName": "eeb68bebe2ea49c8845639a8d2d9e981",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
@@ -40,6 +41,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
