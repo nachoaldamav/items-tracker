@@ -33,7 +33,7 @@
   "namespace": "viola",
   "status": "ACTIVE",
   "creationDate": "2019-02-21T17:21:00.769Z",
-  "lastModifiedDate": "2020-02-20T15:07:59.396Z",
+  "lastModifiedDate": "2021-05-18T16:02:41.083Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -81,7 +81,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
-  "selfRefundable": true,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
