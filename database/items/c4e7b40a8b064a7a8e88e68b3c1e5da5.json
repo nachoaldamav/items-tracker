@@ -36,7 +36,7 @@
   "namespace": "2ed7ed64d8604265924b85bbd5670220",
   "status": "ACTIVE",
   "creationDate": "2020-12-10T17:28:04.307Z",
-  "lastModifiedDate": "2021-05-12T14:52:01.322Z",
+  "lastModifiedDate": "2021-05-19T00:32:53.213Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -49,6 +49,10 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Aerial_Knight/AKNY/"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -72,12 +76,13 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "7a8090bdb70145168683bdaaa0238d3d",
+      "id": "12bbdf1f9aa547e08eae7703e8e90fc9",
       "appId": "9b2c200d7dec4825a83664d8888adad8",
       "platform": [
-        "Windows"
+        "Windows",
+        "Win32"
       ],
-      "dateAdded": "2020-12-10T17:37:12.090Z"
+      "dateAdded": "2020-12-10T17:37:12.000Z"
     }
   ],
   "developer": "Headup Gmbh",
