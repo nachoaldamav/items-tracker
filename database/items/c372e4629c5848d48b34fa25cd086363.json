@@ -16,11 +16,19 @@
   "namespace": "1f436e99203a49479f4a4d5951374fe8",
   "status": "ACTIVE",
   "creationDate": "2021-02-24T21:16:45.243Z",
-  "lastModifiedDate": "2021-02-24T21:38:19.766Z",
+  "lastModifiedDate": "2021-05-19T22:25:41.594Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Acorn/Saved/SaveGames/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "steam_autocloud.vdf"
     },
     "FolderName": {
       "type": "STRING",
@@ -45,8 +53,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
