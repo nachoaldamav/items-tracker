@@ -4,22 +4,22 @@
   "description": "Dauntless",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/jackal/item/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-225f94f54cac194d2238509f981d8ecd.jpg",
-      "md5": "225f94f54cac194d2238509f981d8ecd",
-      "width": 1200,
-      "height": 1600,
-      "size": 360840,
-      "uploadedDate": "2021-04-08T16:03:05.807Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/jackal/item/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1-2560x1440-8f35f9e5cdfa3daad87f1ec4431792c8.jpg",
-      "md5": "8f35f9e5cdfa3daad87f1ec4431792c8",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1_2560x1440-515f54e8312322f81d3d16698453060b",
+      "md5": "515f54e8312322f81d3d16698453060b",
       "width": 2560,
       "height": 1440,
-      "size": 548842,
-      "uploadedDate": "2021-04-08T16:03:14.573Z"
+      "size": 643714,
+      "uploadedDate": "2021-05-20T16:58:16.637Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2_1200x1600-9aac4e7ff2e633023200dd1f83206442",
+      "md5": "9aac4e7ff2e633023200dd1f83206442",
+      "width": 1200,
+      "height": 1600,
+      "size": 345711,
+      "uploadedDate": "2021-05-20T16:58:18.861Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "jackal",
   "status": "ACTIVE",
   "creationDate": "2019-01-28T20:38:56.842Z",
-  "lastModifiedDate": "2021-04-08T16:03:27.164Z",
+  "lastModifiedDate": "2021-05-20T16:58:23.096Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -81,7 +81,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
