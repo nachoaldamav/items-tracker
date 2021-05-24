@@ -15,7 +15,7 @@
   "namespace": "cd14dcaa4f3443f19f7169a980559c62",
   "status": "ACTIVE",
   "creationDate": "2020-03-24T20:37:21.897Z",
-  "lastModifiedDate": "2020-06-04T19:03:27.931Z",
+  "lastModifiedDate": "2021-05-24T21:30:07.547Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -25,12 +25,15 @@
   "entitlementName": "d071707490764c32972609373cd6ad92",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "2K Games, Inc.",
   "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
