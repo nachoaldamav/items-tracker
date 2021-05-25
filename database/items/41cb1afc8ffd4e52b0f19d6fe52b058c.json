@@ -4,22 +4,22 @@
   "description": "Ghost Recon Breakpoint Free Trial",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/BREAKPOINT_STANDARD_BREAKPOINT STANDARD_EPIC_TRIAL_WE_Portrait_Image_1200x1600-1200x1600-8b620c24084fce7c06f86361ad9e912f.png",
-      "md5": "8b620c24084fce7c06f86361ad9e912f",
-      "width": 1200,
-      "height": 1600,
-      "size": 3873448,
-      "uploadedDate": "2021-01-19T17:18:32.278Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/breakpoint-standard-breakpoint-standard-epic-key-art-wide-3840x2160-uk-3840x2160-0ca419868f6e-3840x2160-66346bf6887a4a82d4b477e23d625b59.jpg",
-      "md5": "66346bf6887a4a82d4b477e23d625b59",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_GRB_Epic_FWE_HeroBanner_3840x2160_3840x2160-9558c26f7297b26833529c64836c1a26",
+      "md5": "9558c26f7297b26833529c64836c1a26",
       "width": 3840,
       "height": 2160,
-      "size": 790349,
-      "uploadedDate": "2021-01-19T17:20:39.479Z"
+      "size": 900605,
+      "uploadedDate": "2021-05-24T23:42:58.535Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_GRB_Epic_FWE_Portrait_1200x1600_1200x1600-e887d1c32a57d093a615af811f829446",
+      "md5": "e887d1c32a57d093a615af811f829446",
+      "width": 1200,
+      "height": 1600,
+      "size": 773232,
+      "uploadedDate": "2021-05-24T23:43:05.740Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
   "status": "ACTIVE",
   "creationDate": "2020-02-04T22:47:39.940Z",
-  "lastModifiedDate": "2021-01-28T16:25:15.151Z",
+  "lastModifiedDate": "2021-05-25T17:51:05.947Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -45,6 +45,10 @@
     "PresenceId": {
       "type": "STRING",
       "value": "2dbd2f64abdc4bbab077424d5c85e01b"
+    },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
     },
     "MonitorPresence": {
       "type": "STRING",
@@ -62,13 +66,17 @@
       "type": "STRING",
       "value": "true"
     },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "1e4c276c0518459c84c11ab9db95599c"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "BreakpointFreeTrial"
-    },
-    "neverUpdate": {
-      "type": "STRING",
-      "value": "true"
     }
   },
   "entitlementName": "41cb1afc8ffd4e52b0f19d6fe52b058c",
@@ -89,7 +97,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
