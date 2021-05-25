@@ -1,16 +1,25 @@
 {
   "id": "545e28fa8b1241409ca8c2cc4c2bfd3c",
-  "title": "Phoenix Point Festering Skies Pre-Purchase",
-  "description": "Phoenix Point Festering Skies Pre-Purchase",
+  "title": "Phoenix Point Festering Skies",
+  "description": "Phoenix Point Festering Skies",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/iris/item/phoenix-point_festering-skies-2560x1440-19375a710dda85676eadb4e9b226f9e7.png",
-      "md5": "19375a710dda85676eadb4e9b226f9e7",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FesteringSkies_SnapshotGames_DLC_S1_2560x1440-8f0aa62f9bca176436a42f72556005c7",
+      "md5": "8f0aa62f9bca176436a42f72556005c7",
       "width": 2560,
       "height": 1440,
-      "size": 1053408,
-      "uploadedDate": "2019-12-03T19:00:29.834Z"
+      "size": 516947,
+      "uploadedDate": "2021-05-14T16:17:29.184Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FesteringSkies_SnapshotGames_DLC_S2_1200x1600-b81d03d5fa7d42baeac171c726c4ed72",
+      "md5": "b81d03d5fa7d42baeac171c726c4ed72",
+      "width": 1200,
+      "height": 1600,
+      "size": 313516,
+      "uploadedDate": "2021-05-14T16:17:36.898Z"
     }
   ],
   "categories": [
@@ -24,7 +33,7 @@
   "namespace": "iris",
   "status": "ACTIVE",
   "creationDate": "2019-11-12T19:53:24.725Z",
-  "lastModifiedDate": "2020-12-11T01:07:10.474Z",
+  "lastModifiedDate": "2021-05-25T16:48:22.147Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -57,7 +66,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

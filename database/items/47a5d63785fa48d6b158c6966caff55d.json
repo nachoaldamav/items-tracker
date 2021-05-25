@@ -16,11 +16,15 @@
   "namespace": "f7dc2f3c915444f1a6ba4105bc00d592",
   "status": "ACTIVE",
   "creationDate": "2021-02-18T18:27:32.956Z",
-  "lastModifiedDate": "2021-03-24T21:22:46.630Z",
+  "lastModifiedDate": "2021-05-25T16:50:28.733Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Biomutant/Saved/SaveGames/"
     },
     "FolderName": {
       "type": "STRING",
@@ -45,8 +49,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
