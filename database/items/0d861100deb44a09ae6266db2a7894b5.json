@@ -16,11 +16,15 @@
   "namespace": "d118f9a27e514d98aa25534afd2f35c7",
   "status": "ACTIVE",
   "creationDate": "2020-06-30T02:31:24.387Z",
-  "lastModifiedDate": "2021-05-27T16:21:11.839Z",
+  "lastModifiedDate": "2021-05-27T20:31:51.815Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Acorn/app_userdata/Sonic Colors- Ultimate/"
     },
     "OwnershipToken": {
       "type": "STRING",
