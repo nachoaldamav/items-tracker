@@ -16,7 +16,7 @@
   "namespace": "6b753bd045604be89d9779e741c604b1",
   "status": "ACTIVE",
   "creationDate": "2021-04-30T17:48:41.640Z",
-  "lastModifiedDate": "2021-04-30T17:52:07.065Z",
+  "lastModifiedDate": "2021-05-26T23:57:39.626Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -32,8 +32,8 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "cd5fc4d8db184c9091a3f41224a40bb6",
-      "appId": "AliceBlueStaging",
+      "id": "90c58d2bb66a440abc6dae4f097dd7a8",
+      "appId": "46c96a05a7354ba4b19c679c10227899",
       "platform": [
         "Windows"
       ]
@@ -44,7 +44,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }

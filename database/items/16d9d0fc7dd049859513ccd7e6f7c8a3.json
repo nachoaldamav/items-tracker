@@ -33,7 +33,7 @@
   "namespace": "b9def67e597b4be7a16146146a044d02",
   "status": "ACTIVE",
   "creationDate": "2019-07-23T16:38:43.190Z",
-  "lastModifiedDate": "2020-11-06T13:39:01.271Z",
+  "lastModifiedDate": "2021-05-27T00:00:11.680Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -43,12 +43,15 @@
   "entitlementName": "16d9d0fc7dd049859513ccd7e6f7c8a3",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Piranha Games",
   "developerId": "o-muad9pj32k67stc4ycpgpplwq84sgq",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
