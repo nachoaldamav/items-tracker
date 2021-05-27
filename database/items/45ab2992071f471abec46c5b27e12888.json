@@ -24,7 +24,7 @@
   "namespace": "carnation",
   "status": "ACTIVE",
   "creationDate": "2020-02-14T02:32:06.371Z",
-  "lastModifiedDate": "2021-03-17T14:40:29.002Z",
+  "lastModifiedDate": "2021-05-27T21:49:41.320Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -40,7 +40,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
