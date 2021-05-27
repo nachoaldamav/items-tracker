@@ -2,6 +2,17 @@
   "id": "92941990aa394e888b5ca17b46f5fdd7",
   "title": "AlexandriteGeneralAudience",
   "description": "AlexandriteGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SonicColorsUltimate_BlindSquirrelEntertainment_RA1_345x200-fb5ed93434eb73652501772ac1db607c",
+      "md5": "fb5ed93434eb73652501772ac1db607c",
+      "width": 345,
+      "height": 200,
+      "size": 10368,
+      "uploadedDate": "2021-05-26T18:44:51.289Z"
+    }
+  ],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +24,7 @@
   "namespace": "d118f9a27e514d98aa25534afd2f35c7",
   "status": "ACTIVE",
   "creationDate": "2020-06-30T02:31:24.203Z",
-  "lastModifiedDate": "2021-04-20T18:17:32.039Z",
+  "lastModifiedDate": "2021-05-27T16:21:11.839Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -31,6 +42,7 @@
   ],
   "installModes": [],
   "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE",
   "ageGatings": {},
   "applicationId": "",
   "unsearchable": false
