@@ -16,11 +16,15 @@
   "namespace": "8c8bd44c4f8a4948800b27d9c1248c0c",
   "status": "ACTIVE",
   "creationDate": "2021-02-24T20:58:58.709Z",
-  "lastModifiedDate": "2021-03-02T16:57:04.413Z",
+  "lastModifiedDate": "2021-05-28T17:08:38.918Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Streumon/Necromunda/Saved/SaveGames/"
     },
     "FolderName": {
       "type": "STRING",
@@ -45,8 +49,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "fghi4567D3GPqOPcbVeZLBD6piUuFgWQ",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
