@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/item/EGS_KillingFloor2_TripwireInteractive_S1-2560x1440-cd331ce513a587ab5d9dc5278c531b3f.jpg",
-      "md5": "cd331ce513a587ab5d9dc5278c531b3f",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KillingFloor2_TripwireInteractive_S1_2560x1440-3a74531ec3a1822a61e294d3f29edcf0",
+      "md5": "3a74531ec3a1822a61e294d3f29edcf0",
       "width": 2560,
       "height": 1440,
-      "size": 976149,
-      "uploadedDate": "2021-03-19T19:38:11.515Z"
+      "size": 593092,
+      "uploadedDate": "2021-06-01T02:19:48.479Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/item/EGS_KillingFloor2_TripwireInteractive_S2-1200x1600-4b263db7c584bdfd3994f850e8089313.jpg",
-      "md5": "4b263db7c584bdfd3994f850e8089313",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KillingFloor2_TripwireInteractive_S2_1200x1600-753c8cf3f2b17a34a867c97b578264f9",
+      "md5": "753c8cf3f2b17a34a867c97b578264f9",
       "width": 1200,
       "height": 1600,
-      "size": 913516,
-      "uploadedDate": "2021-03-19T19:38:17.972Z"
+      "size": 639079,
+      "uploadedDate": "2021-06-01T02:19:50.652Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "affc33b82405457595a032f00284abd2",
   "status": "ACTIVE",
   "creationDate": "2019-08-17T00:08:56.681Z",
-  "lastModifiedDate": "2021-03-23T14:51:40.564Z",
+  "lastModifiedDate": "2021-06-01T02:19:56.313Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -89,6 +89,7 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
   "applicationId": "fghi4567Ubb7JGylGDZY5rNxhNLYFBxx",
