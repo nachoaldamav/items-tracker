@@ -1,0 +1,53 @@
+{
+  "id": "d0bdf83900384ce0be1565cd5bfb4c98",
+  "title": "blackchocolate Staging",
+  "description": "blackchocolate Staging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "65d31d60510a49629a0b52e93da8416a",
+  "status": "ACTIVE",
+  "creationDate": "2021-05-19T16:53:00.324Z",
+  "lastModifiedDate": "2021-06-01T15:05:40.367Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "blackchocolateStaging"
+    }
+  },
+  "entitlementName": "d0bdf83900384ce0be1565cd5bfb4c98",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ed5ae6700d9145eaa6297e909d0a1209",
+      "appId": "ea3b0971ceb7453f956ba9577872e36a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "No More Robots",
+  "developerId": "o-236t9erksuklvbpwrddx5953wndtps",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
