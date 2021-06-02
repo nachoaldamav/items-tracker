@@ -1,6 +1,6 @@
 {
   "id": "9f36fa5c0acd4392b903e622a8339de0",
-  "title": "Twinmotion EDU 2021.1",
+  "title": "Twinmotion EDU 2021.1.2",
   "description": "Twinmotion 2021.1 for Education",
   "keyImages": [],
   "categories": [
@@ -11,7 +11,7 @@
   "namespace": "poodle",
   "status": "ACTIVE",
   "creationDate": "2021-03-08T15:03:33.960Z",
-  "lastModifiedDate": "2021-03-08T15:06:42.508Z",
+  "lastModifiedDate": "2021-06-02T11:47:14.278Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -64,8 +64,10 @@
   "eulaIds": [
     "twin"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
