@@ -1,0 +1,73 @@
+{
+  "id": "758fb8c2460b49a5a0d50ee0eba1a1dd",
+  "title": "charlestongreen Public",
+  "description": "charlestongreen Public",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "29e93200bb53431a961afc53e39fb9c8",
+  "status": "ACTIVE",
+  "creationDate": "2021-06-03T20:04:55.058Z",
+  "lastModifiedDate": "2021-06-03T20:17:53.360Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "29e93200bb53431a961afc53e39fb9c8"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "charlestongreenPublic"
+    }
+  },
+  "entitlementName": "758fb8c2460b49a5a0d50ee0eba1a1dd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "73bcd3006b1c4089a81b9049763afcd8",
+      "appId": "32dbb6444ce14e9198129b746c0d056f",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Wired Productions",
+  "developerId": "o-r83qbqhwd8y5y5r6e9x62vtrsd9mqm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
