@@ -24,7 +24,7 @@
   "namespace": "newt",
   "status": "ACTIVE",
   "creationDate": "2020-04-29T18:22:51.775Z",
-  "lastModifiedDate": "2021-04-06T05:16:23.483Z",
+  "lastModifiedDate": "2021-06-03T23:22:41.578Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -76,7 +76,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
