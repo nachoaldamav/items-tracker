@@ -14,12 +14,12 @@
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/azalea/item/final_egsstore_tile_S03_source_final_s-2149x2756-e1961840a3caddad186623059ed2a54c.jpg",
-      "md5": "e1961840a3caddad186623059ed2a54c",
-      "width": 2149,
-      "height": 2756,
-      "size": 2458240,
-      "uploadedDate": "2020-07-08T12:38:08.652Z"
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGSalpha cap 2a_860x1148-8f6f480ace2d04e3374a1bb584fbdfd4",
+      "md5": "8f6f480ace2d04e3374a1bb584fbdfd4",
+      "width": 860,
+      "height": 1148,
+      "size": 239502,
+      "uploadedDate": "2021-06-04T00:14:55.452Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "azalea",
   "status": "ACTIVE",
   "creationDate": "2020-01-09T15:38:05.250Z",
-  "lastModifiedDate": "2021-04-08T16:05:26.487Z",
+  "lastModifiedDate": "2021-06-04T00:14:58.795Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -93,7 +93,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
