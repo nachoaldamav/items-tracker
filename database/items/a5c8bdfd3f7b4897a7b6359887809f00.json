@@ -1,0 +1,73 @@
+{
+  "id": "a5c8bdfd3f7b4897a7b6359887809f00",
+  "title": "burgundy Public",
+  "description": "burgundy Public",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ec49d0a2e38148458a3a2f4df3128ec5",
+  "status": "ACTIVE",
+  "creationDate": "2021-06-03T23:32:49.718Z",
+  "lastModifiedDate": "2021-06-09T19:20:28.144Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ec49d0a2e38148458a3a2f4df3128ec5"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "burgundyPublic"
+    }
+  },
+  "entitlementName": "a5c8bdfd3f7b4897a7b6359887809f00",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ac57184763cf454383c6e5ce4a441522",
+      "appId": "0c9f6eb721474cf7b5c0eb141a0f0d18",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Wired Productions",
+  "developerId": "o-r83qbqhwd8y5y5r6e9x62vtrsd9mqm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

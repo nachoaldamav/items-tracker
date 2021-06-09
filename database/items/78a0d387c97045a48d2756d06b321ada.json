@@ -4,13 +4,22 @@
   "description": "Solar Ash",
   "keyImages": [
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/fe5a2e3e842a4394938a81f3308df2ed/item/SolarAshKingdomPortraitTemp-260x360-aa2bafd84794601939e96b3eec7fdd05-260x360-aa2bafd84794601939e96b3eec7fdd05.jpeg",
-      "md5": "aa2bafd84794601939e96b3eec7fdd05",
-      "width": 260,
-      "height": 360,
-      "size": 9917,
-      "uploadedDate": "2019-11-20T17:01:25.759Z"
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/SolarAsh_KeyArt_Portrait_EGS_1200x1600-5fc4ebd4374add4bd9c613607a1d284c",
+      "md5": "5fc4ebd4374add4bd9c613607a1d284c",
+      "width": 1200,
+      "height": 1600,
+      "size": 336062,
+      "uploadedDate": "2021-06-09T19:36:20.354Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/SolarAsh_KeyArt_Landscape_EGS_1920x1080-8a5ac6034931a88a6b3db2aa98c76bff",
+      "md5": "8a5ac6034931a88a6b3db2aa98c76bff",
+      "width": 1920,
+      "height": 1080,
+      "size": 355173,
+      "uploadedDate": "2021-06-09T19:36:27.787Z"
     }
   ],
   "categories": [
@@ -27,7 +36,7 @@
   "namespace": "fe5a2e3e842a4394938a81f3308df2ed",
   "status": "ACTIVE",
   "creationDate": "2019-06-06T19:35:47.322Z",
-  "lastModifiedDate": "2021-05-04T20:04:31.195Z",
+  "lastModifiedDate": "2021-06-09T19:36:51.907Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
