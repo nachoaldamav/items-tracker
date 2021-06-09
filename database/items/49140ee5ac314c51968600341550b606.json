@@ -1,7 +1,27 @@
 {
   "id": "49140ee5ac314c51968600341550b606",
-  "title": "Camel",
-  "description": "Camel",
+  "title": "Yuppie Psycho: Executive Edition",
+  "description": "Yuppie Psycho: Executive Edition",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_YuppiePsychoExecutiveEdition_BaroqueDecay_S1_2560x1440-b8d626c875f5a67325ce6b7a4470e732",
+      "md5": "b8d626c875f5a67325ce6b7a4470e732",
+      "width": 2560,
+      "height": 1440,
+      "size": 422654,
+      "uploadedDate": "2021-06-09T19:07:05.837Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_YuppiePsychoExecutiveEdition_BaroqueDecay_S2_1200x1600-5035141e7fc1551ea45a9bea7b50bd2c",
+      "md5": "5035141e7fc1551ea45a9bea7b50bd2c",
+      "width": 1200,
+      "height": 1600,
+      "size": 430617,
+      "uploadedDate": "2021-06-09T19:07:09.438Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,7 +36,7 @@
   "namespace": "ae51a606e31f409bac9e0216f3e757a2",
   "status": "ACTIVE",
   "creationDate": "2021-05-05T18:27:47.825Z",
-  "lastModifiedDate": "2021-05-05T18:38:52.153Z",
+  "lastModifiedDate": "2021-06-09T19:14:15.738Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,7 +64,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Camel"
+      "value": "YuppiePsycho"
     }
   },
   "entitlementName": "49140ee5ac314c51968600341550b606",
