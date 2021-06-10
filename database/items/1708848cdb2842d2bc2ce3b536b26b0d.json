@@ -36,7 +36,7 @@
   "namespace": "02c14a01b7044db98de3f3a10813a42e",
   "status": "ACTIVE",
   "creationDate": "2020-09-08T17:30:29.527Z",
-  "lastModifiedDate": "2021-05-20T17:56:29.940Z",
+  "lastModifiedDate": "2021-06-10T14:49:26.483Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -69,6 +69,10 @@
     "MaxSizeMB": {
       "type": "STRING",
       "value": "500"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
     },
     "FolderName": {
       "type": "STRING",
