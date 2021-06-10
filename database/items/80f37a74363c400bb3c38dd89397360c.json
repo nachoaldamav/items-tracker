@@ -1,7 +1,7 @@
 {
   "id": "80f37a74363c400bb3c38dd89397360c",
-  "title": "Rainbow Six Quarantine",
-  "description": "Rainbow Six Quarantine",
+  "title": "Rainbow Six Extraction",
+  "description": "Rainbow Six Extraction",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -20,15 +20,6 @@
       "height": 375,
       "size": 51207,
       "uploadedDate": "2019-10-16T15:21:32.813Z"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/1093790870b043cdbae03d91d76d9ae6/item/R6_Portrait-Promo-1280x1420-1280x1420-fce0fc8cf0aaf9d523553c1c3719d26c-1280x1420-fce0fc8cf0aaf9d523553c1c3719d26c.jpg",
-      "md5": "fce0fc8cf0aaf9d523553c1c3719d26c",
-      "width": 1280,
-      "height": 1420,
-      "size": 900845,
-      "uploadedDate": "2019-11-20T17:13:36.967Z"
     }
   ],
   "categories": [
@@ -45,7 +36,7 @@
   "namespace": "1093790870b043cdbae03d91d76d9ae6",
   "status": "ACTIVE",
   "creationDate": "2019-09-19T18:20:55.354Z",
-  "lastModifiedDate": "2019-11-20T17:13:40.273Z",
+  "lastModifiedDate": "2021-06-10T17:09:18.860Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -54,10 +45,6 @@
     "PresenceId": {
       "type": "STRING",
       "value": "1093790870b043cdbae03d91d76d9ae6"
-    },
-    "NeverUpdate": {
-      "type": "STRING",
-      "value": "true"
     },
     "MonitorPresence": {
       "type": "STRING",
@@ -85,7 +72,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "1ffa90b025fa43ddac829647a2c7463d",
+      "id": "1df35156210a4ec1949b4efe888ce61d",
       "appId": "Trogon",
       "platform": [
         "Windows"
@@ -93,12 +80,14 @@
       "dateAdded": "2019-09-19T00:00:00.000Z"
     }
   ],
-  "developer": "Epic Dev Test Account",
-  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

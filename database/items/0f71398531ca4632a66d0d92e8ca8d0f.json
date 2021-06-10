@@ -16,7 +16,7 @@
   "namespace": "1093790870b043cdbae03d91d76d9ae6",
   "status": "ACTIVE",
   "creationDate": "2019-09-19T18:20:55.380Z",
-  "lastModifiedDate": "2019-10-16T15:26:13.329Z",
+  "lastModifiedDate": "2021-06-10T17:09:18.860Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -32,7 +32,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "7afdcd9f5caf4696b0bd71442e37c156",
+      "id": "aac57d90195d45b48e9081c5729ca0ba",
       "appId": "TrogonStaging",
       "platform": [
         "Windows"
@@ -40,11 +40,14 @@
       "dateAdded": "2019-09-19T18:24:30.157Z"
     }
   ],
-  "developer": "Epic Dev Test Account",
-  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
