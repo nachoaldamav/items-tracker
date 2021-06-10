@@ -36,7 +36,7 @@
   "namespace": "5f3c898b2a3244af99e9900e015717f8",
   "status": "ACTIVE",
   "creationDate": "2021-02-16T00:27:23.190Z",
-  "lastModifiedDate": "2021-05-19T01:26:49.094Z",
+  "lastModifiedDate": "2021-06-10T14:05:54.665Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -72,12 +72,14 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "83f01a94b5d740d59f717476017b2f07",
+      "id": "6d520a3dbe154d1d903167070e0e58ef",
       "appId": "6fbbc765b38c4f2ea3d9a9caa620bae7",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac",
+        "Win32"
       ],
-      "dateAdded": "2021-02-16T00:47:30.449Z"
+      "dateAdded": "2021-02-16T00:47:30.000Z"
     }
   ],
   "developer": "Discord Inc",
