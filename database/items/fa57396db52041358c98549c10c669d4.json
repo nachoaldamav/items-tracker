@@ -14,7 +14,7 @@
   "namespace": "oregano",
   "status": "ACTIVE",
   "creationDate": "2019-03-29T14:36:54.847Z",
-  "lastModifiedDate": "2021-02-09T15:00:50.859Z",
+  "lastModifiedDate": "2021-06-11T00:00:27.607Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -30,6 +30,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
