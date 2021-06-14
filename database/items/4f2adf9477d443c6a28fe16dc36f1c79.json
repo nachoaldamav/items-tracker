@@ -36,7 +36,7 @@
   "namespace": "07f4a7dd3c884e5d87e9a209716962ca",
   "status": "ACTIVE",
   "creationDate": "2020-03-04T02:18:13.548Z",
-  "lastModifiedDate": "2021-03-24T19:55:50.868Z",
+  "lastModifiedDate": "2021-06-14T16:16:56.175Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -50,6 +50,10 @@
       "type": "STRING",
       "value": "true"
     },
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-batchmode -nographics -server"
+    },
     "UseAccessControl": {
       "type": "STRING",
       "value": "false"
@@ -61,6 +65,14 @@
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Launch Dedicated Server"
     },
     "FolderName": {
       "type": "STRING",
@@ -86,7 +98,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

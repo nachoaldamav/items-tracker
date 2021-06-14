@@ -36,11 +36,23 @@
   "namespace": "07f4a7dd3c884e5d87e9a209716962ca",
   "status": "ACTIVE",
   "creationDate": "2020-03-04T02:18:13.616Z",
-  "lastModifiedDate": "2021-03-24T20:28:36.884Z",
+  "lastModifiedDate": "2021-06-14T16:18:04.813Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-batchmode -nographics -server"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Launch Dedicated Server"
     },
     "FolderName": {
       "type": "STRING",
@@ -66,7 +78,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
