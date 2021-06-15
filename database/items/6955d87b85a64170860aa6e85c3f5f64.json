@@ -4,15 +4,6 @@
   "description": "Rainbow Six Siege Free Trial",
   "keyImages": [
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/carnation/item/RBS_Epic_FWE_HeroBanner_3840x2160_UK-3840x2160-fa0a5cdff94bce61730e6ab245a301d5.jpg",
-      "md5": "fa0a5cdff94bce61730e6ab245a301d5",
-      "width": 3840,
-      "height": 2160,
-      "size": 989673,
-      "uploadedDate": "2021-03-16T00:55:45.297Z"
-    },
-    {
       "type": "DieselGameBoxTall",
       "url": "https://cdn1.epicgames.com/carnation/item/RBS_Epic__EPIC_Store_Portrait_1200x1600_UK-1200x1600-3b4d51fa168ee9ce4ab6654b153764e1.jpg",
       "md5": "3b4d51fa168ee9ce4ab6654b153764e1",
@@ -20,6 +11,15 @@
       "height": 1600,
       "size": 1006130,
       "uploadedDate": "2021-03-16T00:55:58.826Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RBS_Epic_FWE_HeroBanner_3840x2160_EN_3840x2160-c47249767a7a4d41b25b93d729a5e3d3",
+      "md5": "c47249767a7a4d41b25b93d729a5e3d3",
+      "width": 3840,
+      "height": 2160,
+      "size": 987034,
+      "uploadedDate": "2021-06-15T01:40:14.653Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "carnation",
   "status": "ACTIVE",
   "creationDate": "2019-08-22T19:24:49.545Z",
-  "lastModifiedDate": "2021-03-25T14:56:49.918Z",
+  "lastModifiedDate": "2021-06-15T18:00:31.521Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -51,10 +51,6 @@
       "type": "STRING",
       "value": "true"
     },
-    "com.epicgames.app.developerName": {
-      "type": "STRING",
-      "value": "Ubisoft"
-    },
     "UseAccessControl": {
       "type": "STRING",
       "value": "true"
@@ -66,6 +62,14 @@
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "51f6ccbe64f84a338f91bd6a9345c8ee"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
     },
     "FolderName": {
       "type": "STRING",
@@ -97,7 +101,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

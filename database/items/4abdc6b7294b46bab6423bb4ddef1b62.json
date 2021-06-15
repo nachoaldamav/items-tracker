@@ -1,7 +1,7 @@
 {
   "id": "4abdc6b7294b46bab6423bb4ddef1b62",
-  "title": "CarnationWeekAudience",
-  "description": "CarnationWeekAudience",
+  "title": "R6 Siege FTW Audience",
+  "description": "R6 Siege FTW Audience",
   "keyImages": [
     {
       "type": "ESRB",
@@ -24,7 +24,7 @@
   "namespace": "carnation",
   "status": "ACTIVE",
   "creationDate": "2019-08-22T19:29:58.301Z",
-  "lastModifiedDate": "2021-03-17T14:40:29.002Z",
+  "lastModifiedDate": "2021-06-15T18:00:31.521Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -40,7 +40,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
