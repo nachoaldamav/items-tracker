@@ -16,7 +16,7 @@
   "namespace": "d118f9a27e514d98aa25534afd2f35c7",
   "status": "ACTIVE",
   "creationDate": "2020-06-30T02:31:24.322Z",
-  "lastModifiedDate": "2021-06-14T20:57:24.642Z",
+  "lastModifiedDate": "2021-06-16T18:50:02.313Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -71,7 +71,7 @@
   "developer": "Sega of America",
   "developerId": "o-5gbgsfvsrt9wlx9gu868mrxmhq6dlv",
   "eulaIds": [
-    "egstore"
+    "(egstore && soa)"
   ],
   "installModes": [],
   "endOfSupport": false,
