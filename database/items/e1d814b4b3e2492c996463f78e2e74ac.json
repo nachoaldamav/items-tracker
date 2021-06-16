@@ -1,7 +1,7 @@
 {
   "id": "e1d814b4b3e2492c996463f78e2e74ac",
-  "title": "ErosGeneralAudience",
-  "description": "ErosGeneralAudience",
+  "title": "ErosGeneralPreOrderAudience",
+  "description": "ErosGeneralPreOrderAudience",
   "keyImages": [
     {
       "type": "ESRB",
@@ -24,7 +24,7 @@
   "namespace": "699c2dc3694c4156befa26cad5c65505",
   "status": "ACTIVE",
   "creationDate": "2020-05-08T16:42:28.754Z",
-  "lastModifiedDate": "2020-05-25T14:48:38.511Z",
+  "lastModifiedDate": "2021-06-16T04:07:53.872Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -34,13 +34,16 @@
   "entitlementName": "e1d814b4b3e2492c996463f78e2e74ac",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Frogwares",
   "developerId": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "esrbGameRatingValue": "RATING_PENDING",
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
