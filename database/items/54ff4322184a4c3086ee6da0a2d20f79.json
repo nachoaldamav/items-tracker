@@ -1,0 +1,74 @@
+{
+  "id": "54ff4322184a4c3086ee6da0a2d20f79",
+  "title": "Lutetium",
+  "description": "Lutetium",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "253d451b16364a22907dd01b7e928fb6",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-26T22:56:10.468Z",
+  "lastModifiedDate": "2021-01-26T23:21:17.365Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "253d451b16364a22907dd01b7e928fb6"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Lutetium"
+    }
+  },
+  "entitlementName": "54ff4322184a4c3086ee6da0a2d20f79",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "941473900b734f4883b6bc2718446890",
+      "appId": "bb406082b69a47208489d3616b22b5c2",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-01-26T00:00:00.000Z"
+    }
+  ],
+  "developer": "AQUIRIS",
+  "developerId": "o-9vdp6e5ydhtqt23utprf59f8hg45se",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
