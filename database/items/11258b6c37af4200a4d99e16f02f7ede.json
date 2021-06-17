@@ -1,0 +1,34 @@
+{
+  "id": "11258b6c37af4200a4d99e16f02f7ede",
+  "title": "DevBittersweetAudience",
+  "description": "DevBittersweetAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "3a1067df83654812b976101174e1904f",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-27T23:08:48.028Z",
+  "lastModifiedDate": "2021-06-17T14:42:11.416Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "11258b6c37af4200a4d99e16f02f7ede",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Mechanistry",
+  "developerId": "o-vcy3rzdtqnpfgccjv53jv8zj2c5xb5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
