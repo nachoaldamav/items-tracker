@@ -16,7 +16,7 @@
   "namespace": "6f43ab8025ad42d18510aa91e9eb688b",
   "status": "ACTIVE",
   "creationDate": "2020-11-30T20:17:17.746Z",
-  "lastModifiedDate": "2021-02-17T14:55:41.688Z",
+  "lastModifiedDate": "2021-06-18T12:59:10.655Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -32,11 +32,11 @@
     },
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{UserDir}/My Games/FINAL FANTASY VII REMAKE/EOS/{EpicID}/"
+      "value": "{UserDir}/My Games/pineapple/EOS/{EpicID}/"
     },
     "CloudExcludeList": {
       "type": "STRING",
-      "value": "ff7remakedevice.sav"
+      "value": "pineappledevice.sav"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -77,6 +77,7 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
   "applicationId": "fghi4567QM0GxHIVNdLylGHWiMwmo6UO",
