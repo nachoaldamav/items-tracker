@@ -1,7 +1,7 @@
 {
   "id": "7542b4e84583402e910c4ab5830507c7",
-  "title": "Pineapple QA",
-  "description": "Pineapple QA",
+  "title": "Pineapple QA_OLD",
+  "description": "Pineapple QA_OLD",
   "keyImages": [],
   "categories": [
     {
@@ -17,7 +17,7 @@
   "namespace": "6f43ab8025ad42d18510aa91e9eb688b",
   "status": "ACTIVE",
   "creationDate": "2020-11-30T20:17:42.662Z",
-  "lastModifiedDate": "2021-02-17T14:56:58.672Z",
+  "lastModifiedDate": "2021-06-18T23:54:20.473Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -33,11 +33,11 @@
     },
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{UserDir}/My Games/FINAL FANTASY VII REMAKE/EOS/{EpicID}/"
+      "value": "{UserDir}/My Games/Pineapple/EOS/{EpicID}/"
     },
     "CloudExcludeList": {
       "type": "STRING",
-      "value": "ff7remakedevice.sav"
+      "value": "pineappledevice.sav"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -78,6 +78,7 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
   "applicationId": "fghi4567QM0GxHIVNdLylGHWiMwmo6UO",
