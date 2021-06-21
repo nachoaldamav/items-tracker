@@ -16,7 +16,7 @@
   "namespace": "1886704a76f94324ab964a4698db3e09",
   "status": "ACTIVE",
   "creationDate": "2020-03-05T14:05:09.926Z",
-  "lastModifiedDate": "2020-06-06T02:35:46.160Z",
+  "lastModifiedDate": "2021-06-21T20:04:29.711Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -25,6 +25,10 @@
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{AppData}/../LocalLow/FJRD Interactive/Among Trees/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "*unity, *output_log.txt"
     },
     "CloudIncludeList": {
       "type": "STRING",
@@ -52,7 +56,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
