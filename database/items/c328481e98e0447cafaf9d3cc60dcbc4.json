@@ -39,7 +39,7 @@
   "namespace": "643a8667d7a940b8b36094020fcd0dcf",
   "status": "ACTIVE",
   "creationDate": "2021-01-14T00:06:21.507Z",
-  "lastModifiedDate": "2021-06-17T04:40:15.245Z",
+  "lastModifiedDate": "2021-06-21T15:57:27.451Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -59,7 +59,7 @@
     },
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{InstallDir}/Saves"
+      "value": "{InstallDir}/Saves/"
     },
     "UseAccessControl": {
       "type": "STRING",
