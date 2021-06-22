@@ -16,7 +16,7 @@
   "namespace": "253d451b16364a22907dd01b7e928fb6",
   "status": "ACTIVE",
   "creationDate": "2021-01-26T22:56:10.987Z",
-  "lastModifiedDate": "2021-06-17T16:06:00.084Z",
+  "lastModifiedDate": "2021-06-22T02:47:03.909Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -40,13 +40,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "782fa8580f2341a1ad331da5c3dac739",
+      "id": "7c467e550b5140659157ea11d23135e2",
       "appId": "d25bbf6a6d60464a8bafc1f1bf4ef0fd",
       "platform": [
-        "Windows",
-        "Mac"
+        "Windows"
       ],
-      "dateAdded": "2021-01-26T23:17:49.851Z"
+      "dateAdded": "2021-01-26T23:17:49.000Z"
     }
   ],
   "developer": "AQUIRIS",

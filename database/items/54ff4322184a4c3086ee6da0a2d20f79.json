@@ -17,7 +17,7 @@
   "namespace": "253d451b16364a22907dd01b7e928fb6",
   "status": "ACTIVE",
   "creationDate": "2021-01-26T22:56:10.468Z",
-  "lastModifiedDate": "2021-01-26T23:21:17.365Z",
+  "lastModifiedDate": "2021-06-22T02:47:12.146Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -53,11 +53,10 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "941473900b734f4883b6bc2718446890",
+      "id": "f997c44ade634903a9f238f8f9a1cebc",
       "appId": "bb406082b69a47208489d3616b22b5c2",
       "platform": [
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "dateAdded": "2021-01-26T00:00:00.000Z"
     }
@@ -67,8 +66,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
