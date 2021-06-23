@@ -1,0 +1,73 @@
+{
+  "id": "7333ebed726f408e8f3bfa650488d32e",
+  "title": "Paris",
+  "description": "Paris",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-12T16:57:54.341Z",
+  "lastModifiedDate": "2021-06-03T21:37:30.170Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "c7f9346e3db148fca6dd63e9dd8451bd"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Paris"
+    }
+  },
+  "entitlementName": "7333ebed726f408e8f3bfa650488d32e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "546ead346b3a425bac3c7061c7174081",
+      "appId": "4f0c34d469bb47b2bcf5b377f47ccfe3",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-03T15:43:21.510Z"
+    }
+  ],
+  "developer": "Expansive Worlds AB",
+  "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567ViXXa2ZNYtHlbch78Tr8MxL1",
+  "unsearchable": false
+}
