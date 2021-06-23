@@ -42,7 +42,7 @@
   "namespace": "cinnamon",
   "status": "ACTIVE",
   "creationDate": "2019-03-20T03:10:05.660Z",
-  "lastModifiedDate": "2019-11-19T17:03:42.268Z",
+  "lastModifiedDate": "2021-06-23T00:50:47.575Z",
   "customAttributes": {
     "PresenceID": {
       "type": "STRING",
@@ -97,12 +97,14 @@
       "versionTitle": ""
     }
   ],
-  "developer": "Bigben Interactive",
-  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "developer": "Frogwares",
+  "developerId": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
-  "selfRefundable": true,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

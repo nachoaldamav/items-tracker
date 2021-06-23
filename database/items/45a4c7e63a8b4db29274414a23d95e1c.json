@@ -24,7 +24,7 @@
   "namespace": "cinnamon",
   "status": "ACTIVE",
   "creationDate": "2019-03-20T03:11:54.479Z",
-  "lastModifiedDate": "2020-01-07T18:48:58.162Z",
+  "lastModifiedDate": "2021-06-23T00:50:47.575Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -35,13 +35,15 @@
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
-  "developer": "Bigben Interactive",
-  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "developer": "Frogwares",
+  "developerId": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "esrbGameRatingValue": "TEEN",
-  "selfRefundable": true,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
