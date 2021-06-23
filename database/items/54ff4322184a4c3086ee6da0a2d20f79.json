@@ -1,8 +1,27 @@
 {
   "id": "54ff4322184a4c3086ee6da0a2d20f79",
-  "title": "Lutetium",
-  "description": "Lutetium",
-  "keyImages": [],
+  "title": "Horizon Chase Turbo",
+  "description": "Horizon Chase Turbo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurbo_AQUIRIS_S1_2560x1440-1e6041993df289505da364dfe77dd561",
+      "md5": "1e6041993df289505da364dfe77dd561",
+      "width": 2560,
+      "height": 1440,
+      "size": 1015493,
+      "uploadedDate": "2021-06-22T03:08:52.872Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurbo_AQUIRIS_S2_1200x1600-7b51e6b8f8cf6ebd50f5fb77be96ad9d",
+      "md5": "7b51e6b8f8cf6ebd50f5fb77be96ad9d",
+      "width": 1200,
+      "height": 1600,
+      "size": 831526,
+      "uploadedDate": "2021-06-22T03:08:55.796Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -17,7 +36,7 @@
   "namespace": "253d451b16364a22907dd01b7e928fb6",
   "status": "ACTIVE",
   "creationDate": "2021-01-26T22:56:10.468Z",
-  "lastModifiedDate": "2021-06-22T03:16:19.883Z",
+  "lastModifiedDate": "2021-06-23T14:48:18.562Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -30,6 +49,10 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Aquiris/HorizonChaseTurbo/HorizonChaseTurbo_EpicGameStore/"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -45,7 +68,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Lutetium"
+      "value": "HorizonChaseTurbo"
     }
   },
   "entitlementName": "54ff4322184a4c3086ee6da0a2d20f79",
@@ -53,7 +76,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "f997c44ade634903a9f238f8f9a1cebc",
+      "id": "c34fec3ce7f34be398f8f2660e2c4cb7",
       "appId": "bb406082b69a47208489d3616b22b5c2",
       "platform": [
         "Windows"
