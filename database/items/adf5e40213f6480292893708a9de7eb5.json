@@ -24,7 +24,7 @@
   "namespace": "76339caf9e8e4d24b62761c736e82b42",
   "status": "ACTIVE",
   "creationDate": "2019-07-30T14:12:55.094Z",
-  "lastModifiedDate": "2019-07-30T14:13:43.371Z",
+  "lastModifiedDate": "2021-06-24T01:59:27.560Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -34,12 +34,16 @@
   "entitlementName": "adf5e40213f6480292893708a9de7eb5",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Enhance, Inc.",
   "developerId": "o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "esrbGameRatingValue": "EVERYONE",
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
