@@ -1,0 +1,52 @@
+{
+  "id": "ae5363c3c96a4b22b579feeb526f8842",
+  "title": "AmericiumStaging",
+  "description": "AmericiumStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "94556f7a788243108635913cf8216a10",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-14T21:18:11.378Z",
+  "lastModifiedDate": "2021-06-24T02:29:28.873Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AmericiumStaging"
+    }
+  },
+  "entitlementName": "ae5363c3c96a4b22b579feeb526f8842",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f34716a7d43048a796ac82c979205e8f",
+      "appId": "3d521d45e9e8413b9ba02a10e718195e",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-14T21:21:39.947Z"
+    }
+  ],
+  "developer": "Suncrash LTD",
+  "developerId": "o-r33h965zxp3mrmyzedrf65hn6cjevk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
