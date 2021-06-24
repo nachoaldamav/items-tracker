@@ -16,15 +16,11 @@
   "namespace": "76355dbd22b249d9a6f77790aba9547b",
   "status": "ACTIVE",
   "creationDate": "2020-07-01T18:43:00.047Z",
-  "lastModifiedDate": "2021-05-20T14:33:12.128Z",
+  "lastModifiedDate": "2021-06-24T20:40:55.245Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
-    },
-    "CloudSaveFolder": {
-      "type": "STRING",
-      "value": "{AppData}/../LocalLow/Capybara Games/Grindstone/EpicSaves/{EpicID}/"
     },
     "FolderName": {
       "type": "STRING",
