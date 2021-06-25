@@ -1,0 +1,73 @@
+{
+  "id": "ab59d012a5694e8893a7441b1254637f",
+  "title": "Zeus",
+  "description": "Zeus",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0208da63c74542c99e8a0837e4e688c3",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-22T20:36:56.811Z",
+  "lastModifiedDate": "2021-06-25T05:57:21.586Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "0208da63c74542c99e8a0837e4e688c3"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Zeus"
+    }
+  },
+  "entitlementName": "ab59d012a5694e8893a7441b1254637f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6e04ecc47ce547b4bec60d4e0a43e839",
+      "appId": "52c0559bfc1a481aae81a179d8466848",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
