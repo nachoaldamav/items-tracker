@@ -1,0 +1,72 @@
+{
+  "id": "e8a78e3ae51a402eb28445a12638bc86",
+  "title": "Feta",
+  "description": "Feta",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e901b6ea77454b0e9d944976a975165c",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-01T18:52:23.333Z",
+  "lastModifiedDate": "2021-04-01T20:50:03.826Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "e901b6ea77454b0e9d944976a975165c"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Feta"
+    }
+  },
+  "entitlementName": "e8a78e3ae51a402eb28445a12638bc86",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6e37bca4ba80418ab65a2811d4590bb7",
+      "appId": "60b9cab1f25a46f09aa15aa87d8185af",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-04-01T00:00:00.000Z"
+    }
+  ],
+  "developer": "Nacon",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
