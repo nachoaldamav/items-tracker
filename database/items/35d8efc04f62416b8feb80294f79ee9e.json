@@ -1,0 +1,35 @@
+{
+  "id": "35d8efc04f62416b8feb80294f79ee9e",
+  "title": "CuriumGeneralAudience",
+  "description": "CuriumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ae373893881044d2bf26d6f8363a120e",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-18T22:32:13.018Z",
+  "lastModifiedDate": "2021-06-28T16:32:34.158Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "35d8efc04f62416b8feb80294f79ee9e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Supra Games",
+  "developerId": "o-gfmarfnj9jh4jucwvuubpjv4nwb66x",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
