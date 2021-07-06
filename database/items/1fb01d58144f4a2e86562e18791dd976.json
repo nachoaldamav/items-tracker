@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/item/Main_capsule_image-616x353-65154d5d5fff44dd1f60939aa5823472.png",
-      "md5": "65154d5d5fff44dd1f60939aa5823472",
-      "width": 616,
-      "height": 353,
-      "size": 356263,
-      "uploadedDate": "2019-12-04T15:22:03.762Z"
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_TC2_Epic_FWE_HeroBanner_3840x2160_3840x2160-536e15b1580ca60dc38bad4d97171c04",
+      "md5": "536e15b1580ca60dc38bad4d97171c04",
+      "width": 3840,
+      "height": 2160,
+      "size": 930053,
+      "uploadedDate": "2021-06-28T18:38:56.275Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/item/Spotlight_Banner-306x312-b5acbdcdb71d1fb1a867dbe8fa6b8bb4.png",
-      "md5": "b5acbdcdb71d1fb1a867dbe8fa6b8bb4",
-      "width": 306,
-      "height": 312,
-      "size": 169042,
-      "uploadedDate": "2019-12-04T15:22:12.909Z"
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_TC2_Epic_Store_Portrait_1200x1600_1200x1600-c4d8f701e1fe209a3eb9ffc04bff67ee",
+      "md5": "c4d8f701e1fe209a3eb9ffc04bff67ee",
+      "width": 1200,
+      "height": 1600,
+      "size": 925822,
+      "uploadedDate": "2021-06-28T18:39:03.360Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "599d248ca46b45a8b40a3b4e484712cb",
   "status": "ACTIVE",
   "creationDate": "2019-11-27T21:20:34.854Z",
-  "lastModifiedDate": "2020-12-16T15:03:27.961Z",
+  "lastModifiedDate": "2021-07-06T16:10:33.030Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -66,6 +66,14 @@
       "type": "STRING",
       "value": "true"
     },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "0ac21d1017cb4f00b374421ba15cdc8c"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "TheCrew2Trial"
@@ -76,7 +84,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "84952b5350a443439fd84da8524f6ad2",
+      "id": "d411fe933f3640e88470a171af7460c1",
       "appId": "HermitTrial",
       "platform": [
         "Windows"
@@ -84,12 +92,14 @@
       "dateAdded": "2019-10-01T00:00:00.000Z"
     }
   ],
-  "developer": "Ubisoft Entertainment",
-  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

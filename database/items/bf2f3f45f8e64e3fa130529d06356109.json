@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/item/CREW2_UCS12476_EGST_BannerBundle_STD_US_Edition_Capsule_1920X1080-1920x1080-3ddf7e01cdabcb15cb44393a486c22b3.jpg",
-      "md5": "3ddf7e01cdabcb15cb44393a486c22b3",
-      "width": 1920,
-      "height": 1080,
-      "size": 219213,
-      "uploadedDate": "2019-12-04T15:20:38.146Z"
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_TC2_STD_EPIC_Store_Landscape_2560x1440_UK_2560x1440-6e2b5c0cbe6d1e0fefab2da7530c5abe",
+      "md5": "6e2b5c0cbe6d1e0fefab2da7530c5abe",
+      "width": 2560,
+      "height": 1440,
+      "size": 453374,
+      "uploadedDate": "2021-07-01T22:38:44.361Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/item/S2-TC2-1280x1440-93c82474c04d9f96218202d425973483.jpg",
-      "md5": "93c82474c04d9f96218202d425973483",
-      "width": 1280,
-      "height": 1440,
-      "size": 388879,
-      "uploadedDate": "2019-12-04T15:20:48.497Z"
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_TC2_STD_EPIC_Store_Portrait_1200x1600_UK_1200x1600-53de0001cbf86324b0c7d2be18666011",
+      "md5": "53de0001cbf86324b0c7d2be18666011",
+      "width": 1200,
+      "height": 1600,
+      "size": 904121,
+      "uploadedDate": "2021-07-01T22:38:51.435Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "599d248ca46b45a8b40a3b4e484712cb",
   "status": "ACTIVE",
   "creationDate": "2019-10-01T23:40:40.565Z",
-  "lastModifiedDate": "2019-12-05T13:46:21.043Z",
+  "lastModifiedDate": "2021-07-06T16:05:28.990Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -56,7 +56,7 @@
     },
     "UseAccessControl": {
       "type": "STRING",
-      "value": "true"
+      "value": "false"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -66,7 +66,7 @@
       "type": "STRING",
       "value": "true"
     },
-    "partnerLinkId": {
+    "partnerLinkID": {
       "type": "STRING",
       "value": "da62a74ae14140408dd9ce46b2c55d5e"
     },
@@ -84,7 +84,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "909a6857ff214cb386a74028115237a1",
+      "id": "e47c3c591e9b4d7995c19082157f0866",
       "appId": "Hermit",
       "platform": [
         "Windows"
@@ -92,12 +92,14 @@
       "dateAdded": "2019-10-01T00:00:00.000Z"
     }
   ],
-  "developer": "Ubisoft Entertainment",
-  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
-  "selfRefundable": true,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
