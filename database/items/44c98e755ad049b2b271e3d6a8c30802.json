@@ -1,0 +1,52 @@
+{
+  "id": "44c98e755ad049b2b271e3d6a8c30802",
+  "title": "SalamiStaging",
+  "description": "SalamiStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "15cb739316ba44ed87878349d10b3ffc",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-19T02:27:06.626Z",
+  "lastModifiedDate": "2021-07-08T07:57:34.718Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SalamiStaging"
+    }
+  },
+  "entitlementName": "44c98e755ad049b2b271e3d6a8c30802",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8ed10f9095cd409e899223ac8a1b1a91",
+      "appId": "84e6578b3d074e68b247ebc6c723b476",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-19T02:30:18.696Z"
+    }
+  ],
+  "developer": "M2H",
+  "developerId": "o-24qwdf7zppb3geqq3b952f26lkp7rs",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
