@@ -1,7 +1,27 @@
 {
   "id": "cd3839fef2e4421c96d7d29f91e733d3",
-  "title": "Lanthanum",
-  "description": "Lanthanum",
+  "title": "Crystal Crisis",
+  "description": "Crystal Crisis",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CrystalCrisis_NicalisInc_S1_2560x1440-9664b4aead711c660e8db2e58d44d333",
+      "md5": "9664b4aead711c660e8db2e58d44d333",
+      "width": 2560,
+      "height": 1440,
+      "size": 969123,
+      "uploadedDate": "2021-06-25T19:33:29.024Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CrystalCrisis_NicalisInc_S2_1200x1600-5151871a0a4f248d070a0b18acf4e8af",
+      "md5": "5151871a0a4f248d070a0b18acf4e8af",
+      "width": 1200,
+      "height": 1600,
+      "size": 962359,
+      "uploadedDate": "2021-06-25T19:33:31.762Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,7 +36,7 @@
   "namespace": "5493b8894a4b4f49984240f298a8ef06",
   "status": "ACTIVE",
   "creationDate": "2021-01-27T19:47:33.159Z",
-  "lastModifiedDate": "2021-05-12T18:38:20.376Z",
+  "lastModifiedDate": "2021-07-08T08:20:49.679Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,7 +64,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Lanthanum"
+      "value": "CrystalCrisis"
     }
   },
   "entitlementName": "cd3839fef2e4421c96d7d29f91e733d3",
