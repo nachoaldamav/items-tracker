@@ -1,0 +1,53 @@
+{
+  "id": "d35658a5be604e68b2c1b4aafca2a3aa",
+  "title": "CaesiumStaging",
+  "description": "CaesiumStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8a84f291e373466d9b7cc9f7cea4b2e6",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-06T21:21:14.716Z",
+  "lastModifiedDate": "2021-07-14T14:45:59.786Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CaesiumStaging"
+    }
+  },
+  "entitlementName": "d35658a5be604e68b2c1b4aafca2a3aa",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ae39abf0ad4943ab87144700bf708614",
+      "appId": "bb008e0e43ce444bbdced55658e63123",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-01-06T22:07:22.642Z"
+    }
+  ],
+  "developer": "Future Friends Games Limited",
+  "developerId": "o-z4ym8gzjceg8v4zjmx8t3wlb797rxn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
