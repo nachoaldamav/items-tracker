@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DreamEnginesNomadCities_Suncrash_S1_2560x1440-0677a73847c7d5a7971de23051653b72",
-      "md5": "0677a73847c7d5a7971de23051653b72",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DreamEnginesNomadCities_Suncrash_S1_2560x1440-035cb1af5ebb996dd77e4cdb4c49b918",
+      "md5": "035cb1af5ebb996dd77e4cdb4c49b918",
       "width": 2560,
       "height": 1440,
-      "size": 439599,
-      "uploadedDate": "2021-04-06T01:54:57.299Z"
+      "size": 816307,
+      "uploadedDate": "2021-07-13T21:32:17.745Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DreamEnginesNomadCities_Suncrash_S2_1200x1600-184f938bc2fa3f3be1579a4ca19f457f",
-      "md5": "184f938bc2fa3f3be1579a4ca19f457f",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DreamEnginesNomadCities_Suncrash_S2_1200x1600-905b076841dbb8f6878061f54b16cea5",
+      "md5": "905b076841dbb8f6878061f54b16cea5",
       "width": 1200,
       "height": 1600,
-      "size": 952484,
-      "uploadedDate": "2021-04-06T01:55:14.631Z"
+      "size": 483941,
+      "uploadedDate": "2021-07-13T21:32:20.174Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "94556f7a788243108635913cf8216a10",
   "status": "ACTIVE",
   "creationDate": "2021-03-14T21:18:11.117Z",
-  "lastModifiedDate": "2021-06-24T02:29:28.873Z",
+  "lastModifiedDate": "2021-07-14T13:19:18.825Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -50,6 +50,10 @@
       "type": "STRING",
       "value": "false"
     },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Suncrash/Dream Engines/"
+    },
     "UseAccessControl": {
       "type": "STRING",
       "value": "false"
@@ -58,13 +62,17 @@
       "type": "STRING",
       "value": "[]"
     },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.game"
+    },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Americium"
+      "value": "DreamEngines"
     }
   },
   "entitlementName": "bc1151a31fd04771acc508e0db149138",
