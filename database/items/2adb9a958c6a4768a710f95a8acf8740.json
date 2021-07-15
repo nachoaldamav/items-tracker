@@ -1,0 +1,93 @@
+{
+  "id": "2adb9a958c6a4768a710f95a8acf8740",
+  "title": "Against the Storm",
+  "description": "Against the Storm",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AgainsttheStorm_EremiteGames_S1_2560x1440-75c02d58ec12cdd52c99b799c19c84d8",
+      "md5": "75c02d58ec12cdd52c99b799c19c84d8",
+      "width": 2560,
+      "height": 1440,
+      "size": 954049,
+      "uploadedDate": "2021-06-22T00:14:09.426Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AgainsttheStorm_EremiteGames_S2_1200x1600-da57640aeba607fa58e79456408f1192",
+      "md5": "da57640aeba607fa58e79456408f1192",
+      "width": 1200,
+      "height": 1600,
+      "size": 986102,
+      "uploadedDate": "2021-06-22T00:14:12.364Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "93eeeab14a3d45b8bf5586a900137733",
+  "status": "ACTIVE",
+  "creationDate": "2021-05-12T23:22:22.560Z",
+  "lastModifiedDate": "2021-07-15T04:29:39.877Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "93eeeab14a3d45b8bf5586a900137733"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AgainstTheStorm"
+    }
+  },
+  "entitlementName": "2adb9a958c6a4768a710f95a8acf8740",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d77af71103904d0a809e53ee72602dfb",
+      "appId": "aa5ddf3b1b2b47bf8caea25bcd1d6587",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Eremite Games sp. z o.o.",
+  "developerId": "o-3un7kuq4qv93xx6l82gmaf5npsvpl9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
