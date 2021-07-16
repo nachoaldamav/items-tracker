@@ -51,7 +51,7 @@
   "namespace": "lotus",
   "status": "ACTIVE",
   "creationDate": "2019-02-01T00:38:07.001Z",
-  "lastModifiedDate": "2020-12-07T23:00:19.739Z",
+  "lastModifiedDate": "2021-07-16T17:08:43.472Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -108,8 +108,10 @@
   "eulaIds": [
     "(egstore && lotus)"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }

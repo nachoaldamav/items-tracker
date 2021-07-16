@@ -24,7 +24,7 @@
   "namespace": "lotus",
   "status": "ACTIVE",
   "creationDate": "2019-02-13T14:49:42.552Z",
-  "lastModifiedDate": "2020-10-06T14:45:58.772Z",
+  "lastModifiedDate": "2021-07-16T17:08:57.275Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -40,6 +40,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

@@ -21,7 +21,8 @@
   "namespace": "lotus",
   "status": "ACTIVE",
   "creationDate": "2019-02-04T20:21:03.799Z",
-  "lastModifiedDate": "2019-07-30T16:01:26.108Z",
+  "lastModifiedDate": "2021-07-16T17:07:38.740Z",
+  "customAttributes": {},
   "entitlementName": "33c5abdd7eb04b6d8b89facfe926c978",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
@@ -31,7 +32,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "esrbGameRatingValue": "RATING_PENDING",
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
