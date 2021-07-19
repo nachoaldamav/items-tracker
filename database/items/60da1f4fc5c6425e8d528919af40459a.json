@@ -11,7 +11,7 @@
   "namespace": "poodle",
   "status": "ACTIVE",
   "creationDate": "2020-06-30T17:57:52.697Z",
-  "lastModifiedDate": "2020-07-22T17:00:58.526Z",
+  "lastModifiedDate": "2021-07-19T19:35:03.851Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -24,6 +24,10 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "egs.library.display_version": {
+      "type": "STRING",
+      "value": "2020.2 (Trial)"
     },
     "com.epicgames.app.developerName": {
       "type": "STRING",
@@ -64,7 +68,9 @@
   "eulaIds": [
     "twin"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
