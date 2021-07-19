@@ -42,7 +42,7 @@
   "namespace": "marmoset",
   "status": "ACTIVE",
   "creationDate": "2018-11-30T01:31:47.191Z",
-  "lastModifiedDate": "2019-11-19T17:03:34.731Z",
+  "lastModifiedDate": "2021-07-19T17:59:54.270Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -62,7 +62,7 @@
     },
     "CloudExcludeList": {
       "type": "STRING",
-      "value": "*.txt,*.dat,*.bin,*.log,*.zbg_bkup,guts/,editorobj/,.editorObj,.layout,.mp4,.png"
+      "value": "*.txt,*.dat,*.bin,*.log,*.zbg_bkup,guts/,editorobj/,*.editorObj,*.layout,*.mp4,*.png"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -98,7 +98,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
