@@ -1,9 +1,12 @@
 {
   "id": "db2ac028dc1844f0a6ef62f9c5daee42",
-  "title": "Twinmotion 2020.1",
+  "title": "Twinmotion 2020.1.2",
   "description": "Twinmotion 2020.1 License",
   "keyImages": [],
   "categories": [
+    {
+      "path": "software"
+    },
     {
       "path": "applications"
     }
@@ -11,7 +14,7 @@
   "namespace": "poodle",
   "status": "ACTIVE",
   "creationDate": "2020-01-14T10:00:59.352Z",
-  "lastModifiedDate": "2021-07-19T19:33:12.299Z",
+  "lastModifiedDate": "2021-07-21T13:11:48.680Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -27,7 +30,7 @@
     },
     "egs.library.display_version": {
       "type": "STRING",
-      "value": "2020.1"
+      "value": "2020.1.2"
     },
     "com.epicgames.app.developerName": {
       "type": "STRING",
