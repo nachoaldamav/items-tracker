@@ -1,0 +1,49 @@
+{
+  "id": "df9b464d48cc4cf1acfa9ea126f8d1fd",
+  "title": "Worlds in Crisis DLC",
+  "description": "WorldsinCrisisDLC_E",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3c52fbac843d4375803187739db84801",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-05T22:15:04.370Z",
+  "lastModifiedDate": "2021-02-10T22:23:08.851Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "df9b464d48cc4cf1acfa9ea126f8d1fd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a2ee9ed1e28542a6bcabfddde03ab910",
+      "appId": "3ee36ea130c249cb9338be313baad1aa",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-06T00:00:00.000Z"
+    }
+  ],
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

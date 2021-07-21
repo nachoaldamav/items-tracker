@@ -1,0 +1,36 @@
+{
+  "id": "35764a888e4748a48ad390ebf69a751a",
+  "title": "PrecursorWorldsDLCAudience",
+  "description": "PrecursorWorldsDLCAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "3c52fbac843d4375803187739db84801",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-20T05:06:25.555Z",
+  "lastModifiedDate": "2021-01-21T15:16:02.559Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "35764a888e4748a48ad390ebf69a751a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

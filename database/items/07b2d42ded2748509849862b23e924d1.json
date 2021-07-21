@@ -1,0 +1,49 @@
+{
+  "id": "07b2d42ded2748509849862b23e924d1",
+  "title": "Revenge of the Snathi DLC",
+  "description": "RevengeoftheSnathiDLC_E",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3c52fbac843d4375803187739db84801",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-05T22:13:04.638Z",
+  "lastModifiedDate": "2021-02-10T22:21:43.686Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "07b2d42ded2748509849862b23e924d1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a2ee9ed1e28542a6bcabfddde03ab910",
+      "appId": "6dab2c1336864d519e8e6ac9cf6e190b",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-06T00:00:00.000Z"
+    }
+  ],
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

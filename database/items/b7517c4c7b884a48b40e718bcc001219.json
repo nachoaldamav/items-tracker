@@ -1,0 +1,49 @@
+{
+  "id": "b7517c4c7b884a48b40e718bcc001219",
+  "title": "RiseoftheTerransDLCStaging",
+  "description": "RiseoftheTerransDLCStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3c52fbac843d4375803187739db84801",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-20T05:10:58.759Z",
+  "lastModifiedDate": "2021-01-21T15:11:42.158Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "b7517c4c7b884a48b40e718bcc001219",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a2ee9ed1e28542a6bcabfddde03ab910",
+      "appId": "b06830f98ee449d6ab0be70965c49c0d",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-06T00:00:00.000Z"
+    }
+  ],
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

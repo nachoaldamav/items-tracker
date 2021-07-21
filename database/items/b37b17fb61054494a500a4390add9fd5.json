@@ -1,0 +1,68 @@
+{
+  "id": "b37b17fb61054494a500a4390add9fd5",
+  "title": "Galactic Civilizations III - Precursor Worlds",
+  "description": "Galactic Civilizations III - Precursor Worlds",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/item/precursor long-2560x1440-76659120bfe55c94babbd80a31f508de-2560x1440-76659120bfe55c94babbd80a31f508de.jpeg",
+      "md5": "76659120bfe55c94babbd80a31f508de",
+      "width": 2560,
+      "height": 1440,
+      "size": 961616,
+      "uploadedDate": "2021-01-20T22:23:09.339Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/item/precursor tall-1200x1600-cf4ae4785ee0cda704b768a641ff0786-1200x1600-cf4ae4785ee0cda704b768a641ff0786.jpeg",
+      "md5": "cf4ae4785ee0cda704b768a641ff0786",
+      "width": 1200,
+      "height": 1600,
+      "size": 565326,
+      "uploadedDate": "2021-01-20T22:23:22.545Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3c52fbac843d4375803187739db84801",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-20T05:08:58.045Z",
+  "lastModifiedDate": "2021-01-21T15:11:42.157Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "b37b17fb61054494a500a4390add9fd5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a2ee9ed1e28542a6bcabfddde03ab910",
+      "appId": "0a485e1e52f449079e6fb8f4a5b8521d",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-06T00:00:00.000Z"
+    }
+  ],
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
