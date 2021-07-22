@@ -14,21 +14,21 @@
     },
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/newt/item/landscape-1920x1080-92d41dbbb4442dffb6fbd72e4204faf8.jpg",
-      "md5": "92d41dbbb4442dffb6fbd72e4204faf8",
-      "width": 1920,
-      "height": 1080,
-      "size": 859627,
-      "uploadedDate": "2021-04-07T16:57:15.770Z"
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/c74b31cd-8f4e-4a54-85b0-6603e0782429_2560x1440-d13a8f18f9eca744e911eb9891a62feb",
+      "md5": "d13a8f18f9eca744e911eb9891a62feb",
+      "width": 2560,
+      "height": 1440,
+      "size": 1020648,
+      "uploadedDate": "2021-07-22T18:49:09.010Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/newt/item/portrait-1200x1600-f77dfec5abd305765cf8afdfdcfec3c7.jpg",
-      "md5": "f77dfec5abd305765cf8afdfdcfec3c7",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/14cfd60d-7423-4326-82f3-5dc699e88776_1200x1600-eb640310bbedc2e3d7ddfb90b40020ee",
+      "md5": "eb640310bbedc2e3d7ddfb90b40020ee",
       "width": 1200,
       "height": 1600,
-      "size": 989776,
-      "uploadedDate": "2021-04-07T16:57:27.679Z"
+      "size": 971251,
+      "uploadedDate": "2021-07-22T18:49:20.246Z"
     }
   ],
   "categories": [
@@ -42,7 +42,7 @@
   "namespace": "newt",
   "status": "ACTIVE",
   "creationDate": "2018-12-13T21:44:29.162Z",
-  "lastModifiedDate": "2021-04-08T13:57:26.192Z",
+  "lastModifiedDate": "2021-07-22T18:50:09.732Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -94,7 +94,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
