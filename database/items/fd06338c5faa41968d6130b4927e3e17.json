@@ -34,8 +34,8 @@
   ],
   "namespace": "0f58cd1c026441f49371d663a710fe83",
   "status": "ACTIVE",
-  "creationDate": "2021-06-23T06:42:47.146Z",
-  "lastModifiedDate": "2021-06-23T06:42:47.146Z",
+  "creationDate": "2021-06-10T06:30:12.489Z",
+  "lastModifiedDate": "2021-07-21T14:39:08.121Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,10 +44,6 @@
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{AppData}/../LocalLow/Nerd Monkeys/Out of Line/"
-    },
-    "CanSkipKoreanIdVerification": {
-      "type": "STRING",
-      "value": "true"
     },
     "FolderName": {
       "type": "STRING",
@@ -59,7 +55,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "cb05fbd7a22d4743bb942f1f2af47dde",
+      "id": "5120c793cdd6421492a1921dd39e189c",
       "appId": "6b994d7f4f2a4e85a54d5c2ede6d2fed",
       "platform": [
         "Windows"
