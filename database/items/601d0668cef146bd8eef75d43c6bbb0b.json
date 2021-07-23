@@ -42,7 +42,7 @@
   "namespace": "starfish",
   "status": "ACTIVE",
   "creationDate": "2018-11-29T17:59:13.042Z",
-  "lastModifiedDate": "2020-06-18T16:05:15.227Z",
+  "lastModifiedDate": "2021-07-23T15:22:12.673Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -90,8 +90,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }

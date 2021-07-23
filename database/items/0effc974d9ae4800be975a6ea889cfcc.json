@@ -24,7 +24,7 @@
   "namespace": "starfish",
   "status": "ACTIVE",
   "creationDate": "2018-12-06T02:12:35.589Z",
-  "lastModifiedDate": "2020-01-08T17:52:10.213Z",
+  "lastModifiedDate": "2021-07-23T15:21:59.961Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -40,8 +40,11 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
