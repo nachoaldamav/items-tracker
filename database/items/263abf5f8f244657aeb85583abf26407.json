@@ -35,8 +35,12 @@
   "namespace": "2d1dc4443d4a4687b28460668eeea1c3",
   "status": "ACTIVE",
   "creationDate": "2021-06-08T07:36:41.848Z",
-  "lastModifiedDate": "2021-07-23T18:12:50.809Z",
+  "lastModifiedDate": "2021-07-26T20:28:24.610Z",
   "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{AppData}/Koral/Saved/SaveGames/"
@@ -44,6 +48,10 @@
     "CloudIncludeList": {
       "type": "STRING",
       "value": "*.sav"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
     },
     "FolderName": {
       "type": "STRING",

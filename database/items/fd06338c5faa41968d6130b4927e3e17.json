@@ -35,7 +35,7 @@
   "namespace": "0f58cd1c026441f49371d663a710fe83",
   "status": "ACTIVE",
   "creationDate": "2021-06-10T06:30:12.489Z",
-  "lastModifiedDate": "2021-07-21T14:39:08.121Z",
+  "lastModifiedDate": "2021-07-26T20:47:07.877Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,6 +44,10 @@
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{AppData}/../LocalLow/Nerd Monkeys/Out of Line/"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
     },
     "FolderName": {
       "type": "STRING",
