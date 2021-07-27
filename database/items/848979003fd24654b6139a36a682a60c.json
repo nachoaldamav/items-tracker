@@ -1,7 +1,7 @@
 {
   "id": "848979003fd24654b6139a36a682a60c",
-  "title": "SalmonAlphaAudience",
-  "description": "SalmonAlphaAudience",
+  "title": "SalmonBetaAudience",
+  "description": "SalmonBetaAudience",
   "keyImages": [],
   "categories": [
     {
@@ -14,7 +14,7 @@
   "namespace": "61449320f87347a8bf02159cbf8adb7f",
   "status": "ACTIVE",
   "creationDate": "2020-06-01T23:25:13.483Z",
-  "lastModifiedDate": "2020-06-01T23:25:13.483Z",
+  "lastModifiedDate": "2021-07-27T22:31:27.976Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -24,11 +24,15 @@
   "entitlementName": "848979003fd24654b6139a36a682a60c",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Balancing Monkey Games",
   "developerId": "o-4tx8h9e6ugw2546feb637euqzbmkpa",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
