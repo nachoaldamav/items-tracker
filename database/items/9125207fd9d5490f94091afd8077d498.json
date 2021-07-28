@@ -14,12 +14,12 @@
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/83d6990f16444655866b04be562bf589/item/MAD_STD_Store_Portrait_1200x1600-1200x1600-e3c7aa72fbb1c9c5eb32805aadbb29b0.jpg",
-      "md5": "e3c7aa72fbb1c9c5eb32805aadbb29b0",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_MAD_STD_GAME_EPIC_Store_Portrait_1200x1600_EN_1200x1600-ddd4f456e3035ce50ddfa0d358efa208",
+      "md5": "ddd4f456e3035ce50ddfa0d358efa208",
       "width": 1200,
       "height": 1600,
-      "size": 271143,
-      "uploadedDate": "2020-09-09T15:26:20.962Z"
+      "size": 969242,
+      "uploadedDate": "2021-07-26T22:21:42.109Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "83d6990f16444655866b04be562bf589",
   "status": "ACTIVE",
   "creationDate": "2020-08-31T18:21:21.281Z",
-  "lastModifiedDate": "2021-06-12T20:06:31.020Z",
+  "lastModifiedDate": "2021-07-28T16:25:49.441Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -101,8 +101,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
