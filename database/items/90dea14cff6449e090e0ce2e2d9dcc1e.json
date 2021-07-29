@@ -36,7 +36,7 @@
   "namespace": "fa0c74ef7780498fb222dcd099bf82a2",
   "status": "ACTIVE",
   "creationDate": "2019-08-27T19:15:43.864Z",
-  "lastModifiedDate": "2019-09-30T14:59:55.748Z",
+  "lastModifiedDate": "2021-07-29T21:52:46.863Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -65,6 +65,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
