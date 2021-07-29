@@ -1,0 +1,35 @@
+{
+  "id": "d0d733c571ed42fa8c06799f84dcfa0e",
+  "title": "DevFranciumAudience",
+  "description": "DevFranciumAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "d3f34b351df646e0ab932fd8d8e5dfc2",
+  "status": "ACTIVE",
+  "creationDate": "2020-12-18T19:30:51.276Z",
+  "lastModifiedDate": "2021-07-28T19:57:32.786Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d0d733c571ed42fa8c06799f84dcfa0e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Double Stallion Games",
+  "developerId": "o-xg2qys7ndgf4m9xk9ce9tytwr3778u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
