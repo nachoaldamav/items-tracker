@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/7ea93ab093004226baa70ca2c0ca1d25/item/EGS_Recompile_Phigames_S5-1920x1080-86439e9b76ad4a6d06079f253feb0e06.jpg",
-      "md5": "86439e9b76ad4a6d06079f253feb0e06",
-      "width": 1920,
-      "height": 1080,
-      "size": 585648,
-      "uploadedDate": "2020-08-28T14:51:52.901Z"
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Recompile_Phigames_S3_2560x1440-a043c020a1e88dffc6e66315e48c8052",
+      "md5": "a043c020a1e88dffc6e66315e48c8052",
+      "width": 2560,
+      "height": 1440,
+      "size": 958479,
+      "uploadedDate": "2021-07-29T16:29:06.313Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/7ea93ab093004226baa70ca2c0ca1d25/item/EGS_Recompile_Phigames_S6-1200x1600-a4cbd205628c6caa57e9222fe5543ba5.jpg",
-      "md5": "a4cbd205628c6caa57e9222fe5543ba5",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Recompile_Phigames_S2_1200x1600-541c0c6fc47870b04df73547e68d28c7",
+      "md5": "541c0c6fc47870b04df73547e68d28c7",
       "width": 1200,
       "height": 1600,
-      "size": 365711,
-      "uploadedDate": "2020-08-28T14:52:03.523Z"
+      "size": 1015920,
+      "uploadedDate": "2021-07-29T16:29:02.580Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "7ea93ab093004226baa70ca2c0ca1d25",
   "status": "ACTIVE",
   "creationDate": "2020-08-13T14:40:22.762Z",
-  "lastModifiedDate": "2020-09-03T12:51:12.646Z",
+  "lastModifiedDate": "2021-07-29T16:29:09.726Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -85,8 +85,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
