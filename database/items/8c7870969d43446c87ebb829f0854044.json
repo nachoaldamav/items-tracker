@@ -16,11 +16,15 @@
   "namespace": "6b753bd045604be89d9779e741c604b1",
   "status": "ACTIVE",
   "creationDate": "2021-04-30T17:48:41.640Z",
-  "lastModifiedDate": "2021-07-21T17:24:29.053Z",
+  "lastModifiedDate": "2021-08-02T15:20:09.493Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/BlueManchu/VoidBastards/Standalone/"
     },
     "FolderName": {
       "type": "STRING",
