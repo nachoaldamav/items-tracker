@@ -42,7 +42,7 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2020-04-30T19:48:07.759Z",
-  "lastModifiedDate": "2021-07-30T02:27:31.438Z",
+  "lastModifiedDate": "2021-08-03T21:09:50.259Z",
   "customAttributes": {
     "extraLaunchOption_001_Args": {
       "type": "STRING",
@@ -51,6 +51,10 @@
     "UseAccessControl": {
       "type": "STRING",
       "value": "true"
+    },
+    "extraLaunchOption_002_Args": {
+      "type": "STRING",
+      "value": "-Creative"
     },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
@@ -63,6 +67,10 @@
     "HasGateKeeper": {
       "type": "STRING",
       "value": "true"
+    },
+    "extraLaunchOption_002_Name": {
+      "type": "STRING",
+      "value": "Launch Creative"
     }
   },
   "entitlementName": "FortniteDailyMain",
