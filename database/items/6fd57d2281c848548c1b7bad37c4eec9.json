@@ -14,11 +14,19 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2017-06-22T20:14:35.954Z",
-  "lastModifiedDate": "2018-11-15T22:42:24.337Z",
+  "lastModifiedDate": "2021-08-03T22:42:27.731Z",
   "customAttributes": {
+    "extraLaunchOption_002_Args": {
+      "type": "STRING",
+      "value": "-Creative"
+    },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
+    },
+    "extraLaunchOption_002_Name": {
+      "type": "STRING",
+      "value": "Launch Creative"
     }
   },
   "entitlementName": "FortniteLoadTest",
@@ -39,6 +47,9 @@
   "developer": "Epic Games",
   "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
   "eulaIds": [],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

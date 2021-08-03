@@ -14,7 +14,7 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2016-04-25T19:09:57.838Z",
-  "lastModifiedDate": "2019-05-06T16:57:34.719Z",
+  "lastModifiedDate": "2021-08-03T22:43:11.871Z",
   "customAttributes": {
     "extraLaunchOption_001_Args": {
       "type": "STRING",
@@ -24,6 +24,10 @@
       "type": "STRING",
       "value": "true"
     },
+    "extraLaunchOption_002_Args": {
+      "type": "STRING",
+      "value": "-Creative"
+    },
     "extraLaunchOption_001_Name": {
       "type": "STRING",
       "value": "Launch Test EXE"
@@ -31,6 +35,10 @@
     "HasGateKeeper": {
       "type": "STRING",
       "value": "true"
+    },
+    "extraLaunchOption_002_Name": {
+      "type": "STRING",
+      "value": "Launch Creative"
     }
   },
   "entitlementName": "FortniteLocTesting",
@@ -51,7 +59,9 @@
   "developer": "Epic Games",
   "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
   "eulaIds": [],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
