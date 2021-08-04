@@ -2,7 +2,28 @@
   "id": "1b576785bf00473daa66eb078a57a32e",
   "title": "Twinmotion EDU 2020.2.3",
   "description": "Twinmotion 2020.2 for Education",
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LauncherThumbnailLandscapeLogoEDU_1920x1080_1920x1080-cc96d83fb3119e34abb35d366c5a5f12",
+      "md5": "cc96d83fb3119e34abb35d366c5a5f12",
+      "width": 1920,
+      "height": 1080,
+      "size": 3705280,
+      "uploadedDate": "2021-08-04T14:19:54.128Z",
+      "alt": "TwinMotion"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LauncherThumbnailProfileLogoEDU_1200x1600_1200x1600-06d7108384e1d5364995b3a4ad1919c2",
+      "md5": "06d7108384e1d5364995b3a4ad1919c2",
+      "width": 1200,
+      "height": 1600,
+      "size": 3095688,
+      "uploadedDate": "2021-08-04T14:20:07.001Z",
+      "alt": "TwinMotion"
+    }
+  ],
   "categories": [
     {
       "path": "applications"
@@ -11,7 +32,7 @@
   "namespace": "poodle",
   "status": "ACTIVE",
   "creationDate": "2020-06-30T18:01:41.823Z",
-  "lastModifiedDate": "2021-07-21T14:04:59.246Z",
+  "lastModifiedDate": "2021-08-04T14:20:11.966Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
