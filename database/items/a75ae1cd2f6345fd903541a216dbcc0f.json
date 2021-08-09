@@ -35,7 +35,7 @@
   "namespace": "e8da3dcb48b44bfaa1f37a321e833374",
   "status": "ACTIVE",
   "creationDate": "2021-06-16T05:11:40.842Z",
-  "lastModifiedDate": "2021-07-30T02:43:32.108Z",
+  "lastModifiedDate": "2021-08-09T17:48:16.827Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,6 +44,10 @@
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
+    },
+    "productGeneration": {
+      "type": "STRING",
+      "value": "SPT"
     },
     "FolderName": {
       "type": "STRING",
