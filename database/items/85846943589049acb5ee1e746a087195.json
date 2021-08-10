@@ -16,7 +16,7 @@
   "namespace": "131e306949034972959ca401ca27837e",
   "status": "ACTIVE",
   "creationDate": "2020-10-06T21:22:48.687Z",
-  "lastModifiedDate": "2020-12-04T00:14:07.116Z",
+  "lastModifiedDate": "2021-08-10T15:42:27.873Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -29,6 +29,10 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Playtonic Ltd/Yooka-Laylee/Saves/"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -65,8 +69,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
