@@ -16,11 +16,15 @@
   "namespace": "301ec0fdbcaf46b3af9322e436ac87bd",
   "status": "ACTIVE",
   "creationDate": "2021-01-27T23:21:12.742Z",
-  "lastModifiedDate": "2021-07-19T16:42:05.716Z",
+  "lastModifiedDate": "2021-08-12T16:58:50.042Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/VoidTrain/Saved/SaveGames/Cloud/  "
     },
     "FolderName": {
       "type": "STRING",
