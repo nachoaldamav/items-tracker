@@ -1,25 +1,25 @@
 {
   "id": "1708848cdb2842d2bc2ce3b536b26b0d",
-  "title": "Scorpio",
-  "description": "Scorpio",
+  "title": "HUMANKIND™",
+  "description": "HUMANKIND™",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/02c14a01b7044db98de3f3a10813a42e/item/portrait-product-image-1200-x-1600---logo-1200x1600-321214392-1200x1600-3009dcd4129230e830b67f3bb5e0c9b8.jpeg",
-      "md5": "3009dcd4129230e830b67f3bb5e0c9b8",
-      "width": 1200,
-      "height": 1600,
-      "size": 236308,
-      "uploadedDate": "2021-04-05T21:07:30.058Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/02c14a01b7044db98de3f3a10813a42e/item/landscape-product-image-2560-x-1440---logo-2560x1440-321214573-2560x1440-5177b6a616f93010a45d8866d5a8d547.jpeg",
-      "md5": "5177b6a616f93010a45d8866d5a8d547",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Product Landscape Image_2560x1440-0a2639683ac92785a1420c6787bf5067",
+      "md5": "0a2639683ac92785a1420c6787bf5067",
       "width": 2560,
       "height": 1440,
-      "size": 353379,
-      "uploadedDate": "2021-04-05T21:07:41.199Z"
+      "size": 857841,
+      "uploadedDate": "2021-08-13T14:17:17.892Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/HMKD_EPIC_Product - Portrait Image_1200x1600_1200x1600-03daa2ab2e6f899b0e141ebc2dc77007",
+      "md5": "03daa2ab2e6f899b0e141ebc2dc77007",
+      "width": 1200,
+      "height": 1600,
+      "size": 1186759,
+      "uploadedDate": "2021-08-13T14:17:28.142Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "02c14a01b7044db98de3f3a10813a42e",
   "status": "ACTIVE",
   "creationDate": "2020-09-08T17:30:29.527Z",
-  "lastModifiedDate": "2021-06-10T14:49:26.483Z",
+  "lastModifiedDate": "2021-08-13T14:19:13.983Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -76,7 +76,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Scorpio"
+      "value": "HUMANKIND"
     }
   },
   "entitlementName": "1708848cdb2842d2bc2ce3b536b26b0d",
