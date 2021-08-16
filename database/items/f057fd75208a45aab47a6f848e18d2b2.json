@@ -16,19 +16,11 @@
   "namespace": "1abab99ab9d54d16abba65857355f017",
   "status": "ACTIVE",
   "creationDate": "2020-11-09T18:03:05.771Z",
-  "lastModifiedDate": "2020-11-09T18:06:52.949Z",
+  "lastModifiedDate": "2021-08-16T14:51:20.550Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "1abab99ab9d54d16abba65857355f017"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -65,8 +57,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
