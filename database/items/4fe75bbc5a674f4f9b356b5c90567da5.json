@@ -89,7 +89,7 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2014-09-12T15:20:06.103Z",
-  "lastModifiedDate": "2021-08-16T14:19:50.373Z",
+  "lastModifiedDate": "2021-08-17T11:42:56.276Z",
   "customAttributes": {
     "com.epicgames.portal.product.privacyPolicyUrl": {
       "type": "STRING",
@@ -103,6 +103,10 @@
       "type": "STRING",
       "value": "Public"
     },
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-Creative"
+    },
     "UseAccessControl": {
       "type": "STRING",
       "value": "true"
@@ -114,6 +118,10 @@
     "RequirementsJson": {
       "type": "STRING",
       "value": "{\"Requirements\": {\"MacOS\": {\"MinMajorVersion\": 10, \"MinMinorVersion\" : 13, \"MinRevision\" : 6 }}}"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Launch Creative"
     },
     "HasGateKeeper": {
       "type": "STRING",
