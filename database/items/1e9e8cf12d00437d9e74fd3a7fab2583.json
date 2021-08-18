@@ -36,21 +36,13 @@
   "namespace": "db9ef498b3fa4b26afb501ea352e3c46",
   "status": "ACTIVE",
   "creationDate": "2020-06-11T01:35:55.562Z",
-  "lastModifiedDate": "2020-06-25T14:58:47.393Z",
+  "lastModifiedDate": "2021-08-18T16:48:22.647Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
     },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "db9ef498b3fa4b26afb501ea352e3c46"
-    },
     "NeverUpdate": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "MonitorPresence": {
       "type": "STRING",
       "value": "true"
     },
@@ -62,9 +54,17 @@
       "type": "STRING",
       "value": "[]"
     },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "Anno1701.exe"
+    },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "Anno1701.exe"
     },
     "partnerLinkId": {
       "type": "STRING",
@@ -97,7 +97,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
