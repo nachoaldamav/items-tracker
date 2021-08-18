@@ -37,17 +37,9 @@
   "namespace": "ed55aa5edc5941de92fd7f64de415793",
   "status": "ACTIVE",
   "creationDate": "2019-09-10T19:03:58.970Z",
-  "lastModifiedDate": "2021-05-05T22:03:13.654Z",
+  "lastModifiedDate": "2021-08-18T17:10:58.336Z",
   "customAttributes": {
     "CanRunOffline": {
-      "type": "STRING",
-      "value": "false"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "ed55aa5edc5941de92fd7f64de415793"
-    },
-    "MonitorPresence": {
       "type": "STRING",
       "value": "false"
     },
@@ -94,6 +86,7 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
   "applicationId": "fghi4567xQOCheZIin0pazB47qGUvZw4",
