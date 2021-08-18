@@ -42,7 +42,7 @@
   "namespace": "impala",
   "status": "ACTIVE",
   "creationDate": "2019-01-24T19:46:36.182Z",
-  "lastModifiedDate": "2020-09-28T14:54:22.704Z",
+  "lastModifiedDate": "2021-08-18T15:33:17.377Z",
   "customAttributes": {
     "PresenceID": {
       "type": "STRING",
@@ -55,10 +55,6 @@
     "CanRunOffline": {
       "type": "STRING",
       "value": "false"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "true"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -110,6 +106,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

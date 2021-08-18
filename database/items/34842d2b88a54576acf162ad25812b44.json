@@ -36,23 +36,15 @@
   "namespace": "590c37a9443d46ce84be415b96b1a3e6",
   "status": "ACTIVE",
   "creationDate": "2020-06-11T01:35:32.674Z",
-  "lastModifiedDate": "2020-06-25T14:58:26.835Z",
+  "lastModifiedDate": "2021-08-18T15:53:23.991Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
     },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "590c37a9443d46ce84be415b96b1a3e6"
-    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -62,9 +54,17 @@
       "type": "STRING",
       "value": "[]"
     },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "Anno1404.exe,Anno1404Addon.exe"
+    },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "Anno1404Addon.exe"
     },
     "partnerLinkId": {
       "type": "STRING",
@@ -97,7 +97,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
