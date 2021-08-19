@@ -69,7 +69,7 @@
   "namespace": "vpr",
   "status": "ACTIVE",
   "creationDate": "2015-07-30T18:05:49.489Z",
-  "lastModifiedDate": "2021-02-19T19:31:30.320Z",
+  "lastModifiedDate": "2021-08-19T15:01:09.432Z",
   "customAttributes": {
     "PresenceId": {
       "type": "STRING",
@@ -90,10 +90,6 @@
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{UserDir}/My Games/Shadow Complex/{EpicID}/"
-    },
-    "AppAccessType": {
-      "type": "STRING",
-      "value": "public"
     },
     "NotarizedAndSigned": {
       "type": "STRING",
@@ -129,7 +125,9 @@
   "eulaIds": [
     "vpr"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
