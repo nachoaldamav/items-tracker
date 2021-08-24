@@ -36,23 +36,15 @@
   "namespace": "1cdfbaaccaab490c9305e86496c7f3fa",
   "status": "ACTIVE",
   "creationDate": "2020-08-12T18:22:46.810Z",
-  "lastModifiedDate": "2021-03-11T16:17:15.936Z",
+  "lastModifiedDate": "2021-08-24T16:27:31.173Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
     },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "1cdfbaaccaab490c9305e86496c7f3fa"
-    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -65,6 +57,10 @@
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "SplinterCell4.exe"
     },
     "partnerLinkType": {
       "type": "STRING",
@@ -97,8 +93,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
