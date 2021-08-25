@@ -42,21 +42,13 @@
   "namespace": "clary",
   "status": "ACTIVE",
   "creationDate": "2019-02-08T20:37:47.765Z",
-  "lastModifiedDate": "2019-11-19T17:02:17.473Z",
+  "lastModifiedDate": "2021-08-25T18:23:42.314Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
     },
-    "PresenceID": {
-      "type": "STRING",
-      "value": "clary"
-    },
     "NeverUpdate": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "MonitorPresence": {
       "type": "STRING",
       "value": "true"
     },
@@ -114,7 +106,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
