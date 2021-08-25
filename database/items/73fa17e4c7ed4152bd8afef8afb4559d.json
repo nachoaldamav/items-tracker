@@ -42,17 +42,9 @@
   "namespace": "d0d1b5541a6540d5a81daacb3324639b",
   "status": "ACTIVE",
   "creationDate": "2019-04-23T17:42:09.094Z",
-  "lastModifiedDate": "2019-11-19T17:03:36.254Z",
+  "lastModifiedDate": "2021-08-25T13:57:50.502Z",
   "customAttributes": {
     "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "hydrangea"
-    },
-    "MonitorPresence": {
       "type": "STRING",
       "value": "true"
     },
@@ -94,7 +86,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }

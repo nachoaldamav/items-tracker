@@ -69,12 +69,8 @@
   "namespace": "vpr",
   "status": "ACTIVE",
   "creationDate": "2015-07-30T18:05:49.489Z",
-  "lastModifiedDate": "2021-08-24T18:57:08.407Z",
+  "lastModifiedDate": "2021-08-25T13:55:17.449Z",
   "customAttributes": {
-    "PresenceId": {
-      "type": "STRING",
-      "value": "viper"
-    },
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
@@ -82,10 +78,6 @@
     "CloudSaveFolder_MAC": {
       "type": "STRING",
       "value": "{UserLibrary}/Application Support/My Games/Shadow Complex/{EpicID}/"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "true"
     },
     "CloudSaveFolder": {
       "type": "STRING",

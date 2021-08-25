@@ -33,17 +33,9 @@
   "namespace": "viola",
   "status": "ACTIVE",
   "creationDate": "2019-02-21T17:21:00.769Z",
-  "lastModifiedDate": "2021-05-18T16:02:41.083Z",
+  "lastModifiedDate": "2021-08-25T13:59:09.942Z",
   "customAttributes": {
     "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceID": {
-      "type": "STRING",
-      "value": "outward/home"
-    },
-    "MonitorPresence": {
       "type": "STRING",
       "value": "true"
     },
