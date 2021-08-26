@@ -1,0 +1,58 @@
+{
+  "id": "0fa961a149d34e648a7d33559f919065",
+  "title": "StrudelStaging",
+  "description": "StrudelStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "54399b3ef40d4c568e5904607470ffe9",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-06T21:38:19.028Z",
+  "lastModifiedDate": "2021-08-26T14:17:26.617Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Villa Gorilla/Yoku's Island Express/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "StrudelStaging"
+    }
+  },
+  "entitlementName": "0fa961a149d34e648a7d33559f919065",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ea34f7bb99094401b81a25706417b8d7",
+      "appId": "f9fff3c78e5d423ea2e7f52cae8a875d",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-06T22:49:03.201Z"
+    }
+  ],
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
