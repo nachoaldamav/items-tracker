@@ -36,11 +36,19 @@
   "namespace": "fa0c74ef7780498fb222dcd099bf82a2",
   "status": "ACTIVE",
   "creationDate": "2019-08-27T19:15:43.864Z",
-  "lastModifiedDate": "2021-07-29T21:52:46.863Z",
+  "lastModifiedDate": "2021-08-27T20:18:50.300Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "SavedData.sav"
     },
     "FolderName": {
       "type": "STRING",
