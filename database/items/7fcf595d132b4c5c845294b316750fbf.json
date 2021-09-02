@@ -1,0 +1,83 @@
+{
+  "id": "7fcf595d132b4c5c845294b316750fbf",
+  "title": "Pato Box",
+  "description": "Pato Box",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/79197fcd89804c0f8b4c7b0a80000f53/pato-box-offer-fayu8.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 2560,
+      "height": 1440,
+      "size": 258626,
+      "uploadedDate": "2021-08-05T19:46:06.742Z",
+      "alt": "Pato Box Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/79197fcd89804c0f8b4c7b0a80000f53/download-pato-box-offer-u6e5.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 88127,
+      "uploadedDate": "2021-08-05T19:45:58.792Z",
+      "alt": "Download Pato Box Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "59fc9ba3eab144a9a272c9c8101681bd",
+  "status": "ACTIVE",
+  "creationDate": "2021-06-08T20:02:06.286Z",
+  "lastModifiedDate": "2021-09-02T14:54:06.312Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Bromio/PatoBoxTheGameSave/"
+    },
+    "productGeneration": {
+      "type": "STRING",
+      "value": "SPT"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PatoBox"
+    }
+  },
+  "entitlementName": "7fcf595d132b4c5c845294b316750fbf",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f1e5b7f0ed1c40308c03a09fafef005a",
+      "appId": "6b59e2952dcf46b780bc030f0d9ee99c",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Bromio",
+  "developerId": "o-zszpkbjr6sf63w6thpu9c6eae63wl2",
+  "eulaIds": [],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
