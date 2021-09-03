@@ -1,0 +1,57 @@
+{
+  "id": "ce522efa3a6743b782421423d3f837ed",
+  "title": "CambridgeBlueStaging",
+  "description": "CambridgeBlueStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cee9bc2ddce74023a7327f7e71d144c6",
+  "status": "ACTIVE",
+  "creationDate": "2021-05-12T21:03:36.762Z",
+  "lastModifiedDate": "2021-08-09T15:00:08.175Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Asemblance2/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CambridgeBlueStaging"
+    }
+  },
+  "entitlementName": "ce522efa3a6743b782421423d3f837ed",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b71c8e77fb394c2cba8b0d8a414e82ac",
+      "appId": "c568f0e9bc694481a21aa907417ae79c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Nilo Studios",
+  "developerId": "o-rfjl93umbemmtt5juyrx7v63r4h8mf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
