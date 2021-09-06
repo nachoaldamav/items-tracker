@@ -1,0 +1,78 @@
+{
+  "id": "424d9c4cc908464cbfabec6f10430f85",
+  "title": "Sky Racket",
+  "description": "Sky Racket",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt/510899e3-0f97-4b72-9e10-6841fb343464/sky-racket-offer-30e7f1bd.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 2560,
+      "height": 1440,
+      "size": 1865184,
+      "uploadedDate": "2021-06-30T22:16:23.903Z",
+      "alt": "Sky Racket Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt/99344b86-9ed3-45ee-a712-645dfdc69a04/download-sky-racket-offer-fa9be0e.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 1110071,
+      "uploadedDate": "2021-06-30T18:41:51.711Z",
+      "alt": "Download Sky Racket Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "43c0da4f8c774c23a76a213fb8dfe59b",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-03T17:17:16.933Z",
+  "lastModifiedDate": "2021-09-03T17:17:16.933Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "productGeneration": {
+      "type": "STRING",
+      "value": "SPT"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SkyRacket"
+    }
+  },
+  "entitlementName": "424d9c4cc908464cbfabec6f10430f85",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6cbca06c56c940de8e25b36b1970bd0e",
+      "appId": "dbc90aa36f124c63b3a804ea0ced6af9",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Double Dash Studios",
+  "developerId": "o-84xx6qzw5df9a6vbtdrw3e2stctzzu",
+  "eulaIds": [],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
