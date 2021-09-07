@@ -13,7 +13,7 @@
   "namespace": "ab2f9078bcb04065a5c6c2fede9cb3b0",
   "status": "ACTIVE",
   "creationDate": "2020-11-11T23:19:05.245Z",
-  "lastModifiedDate": "2021-01-29T21:18:43.138Z",
+  "lastModifiedDate": "2021-09-07T14:55:46.408Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,13 +23,16 @@
   "entitlementName": "12bfc258dc1743cc9f19164266f5a3ae",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Beamdog",
   "developerId": "o-wc3gy6s683brl6424p7kqlrldhy7vd",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }

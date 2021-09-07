@@ -16,19 +16,11 @@
   "namespace": "c22a84689e1a4ad083b2b4ba0ee396f4",
   "status": "ACTIVE",
   "creationDate": "2020-11-12T21:13:42.910Z",
-  "lastModifiedDate": "2021-08-18T22:07:22.156Z",
+  "lastModifiedDate": "2021-09-07T14:57:41.971Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
-    },
-    "CloudSaveFolder_MAC": {
-      "type": "STRING",
-      "value": "{UserLibrary}/Icewind Dale - Enhanced Edition/save/"
-    },
-    "CloudSaveFolder": {
-      "type": "STRING",
-      "value": "{UserDir}/Icewind Dale - Enhanced Edition/save/"
     },
     "FolderName": {
       "type": "STRING",
@@ -54,10 +46,8 @@
   "eulaIds": [
     "egstore"
   ],
-  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
-  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
