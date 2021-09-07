@@ -1,0 +1,53 @@
+{
+  "id": "095cb37742aa400aa7b40dfa518fd1c5",
+  "title": "HandiesPeakStaging",
+  "description": "HandiesPeakStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9fce8233852f4940acde233a87bb41ce",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-12T00:08:59.035Z",
+  "lastModifiedDate": "2021-09-07T14:56:44.322Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HandiesPeakStaging"
+    }
+  },
+  "entitlementName": "095cb37742aa400aa7b40dfa518fd1c5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d9c03112bbfa4294bac4e1389f98144c",
+      "appId": "2b5b2fd58b114acd81f8e84d5f82b8c3",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-11-12T00:00:00.000Z"
+    }
+  ],
+  "developer": "Beamdog",
+  "developerId": "o-wc3gy6s683brl6424p7kqlrldhy7vd",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

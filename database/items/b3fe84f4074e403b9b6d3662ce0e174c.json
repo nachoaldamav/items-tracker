@@ -1,0 +1,95 @@
+{
+  "id": "b3fe84f4074e403b9b6d3662ce0e174c",
+  "title": "Baldur's Gate II: Enhanced Edition",
+  "description": "Baldur's Gate II: Enhanced Edition",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BaldursGateIIEnhancedEdition_Beamdog_S1_2560x1440-bf32912d77d4fb115e158eebe3fa0b81",
+      "md5": "bf32912d77d4fb115e158eebe3fa0b81",
+      "width": 2560,
+      "height": 1440,
+      "size": 800113,
+      "uploadedDate": "2021-09-02T04:24:15.129Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BaldursGateIIEnhancedEdition_Beamdog_S2_1200x1600-58e707a92074345a5c1ae8ad9aabdec1",
+      "md5": "58e707a92074345a5c1ae8ad9aabdec1",
+      "width": 1200,
+      "height": 1600,
+      "size": 812243,
+      "uploadedDate": "2021-09-02T04:24:19.762Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9fce8233852f4940acde233a87bb41ce",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-12T00:08:58.741Z",
+  "lastModifiedDate": "2021-09-07T14:56:44.322Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "9fce8233852f4940acde233a87bb41ce"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BaldursGate2EE"
+    }
+  },
+  "entitlementName": "b3fe84f4074e403b9b6d3662ce0e174c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c85ad07ccdcc4e278886372512f59cc9",
+      "appId": "d8c9dea950f44a81adad69ae645e47b3",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-11-12T00:00:00.000Z"
+    }
+  ],
+  "developer": "Beamdog",
+  "developerId": "o-wc3gy6s683brl6424p7kqlrldhy7vd",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
