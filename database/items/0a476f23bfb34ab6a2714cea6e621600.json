@@ -1,0 +1,37 @@
+{
+  "id": "0a476f23bfb34ab6a2714cea6e621600",
+  "title": "DevBrusselsAudience",
+  "description": "DevBrusselsAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "b4bb52a95d0b43d9af543c6ec3c54e04",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-12T16:43:57.439Z",
+  "lastModifiedDate": "2021-09-02T04:41:07.176Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0a476f23bfb34ab6a2714cea6e621600",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Embark Studios AB",
+  "developerId": "o-wct448k64rpcjqfxbrhd3zleztl663",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}
