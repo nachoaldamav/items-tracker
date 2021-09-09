@@ -89,7 +89,7 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2014-09-12T15:20:06.103Z",
-  "lastModifiedDate": "2021-08-17T11:42:56.276Z",
+  "lastModifiedDate": "2021-09-09T17:43:10.586Z",
   "customAttributes": {
     "com.epicgames.portal.product.privacyPolicyUrl": {
       "type": "STRING",
@@ -118,6 +118,10 @@
     "RequirementsJson": {
       "type": "STRING",
       "value": "{\"Requirements\": {\"MacOS\": {\"MinMajorVersion\": 10, \"MinMinorVersion\" : 13, \"MinRevision\" : 6 }}}"
+    },
+    "SysTrayRestore": {
+      "type": "STRING",
+      "value": "{\"SysTrayRestoreDisable\": \"2021-09-12T14:00:00.000Z\", \"SysTrayRestoreEnable\": \"2021-09-15T14:00:00.000Z\"}"
     },
     "extraLaunchOption_001_Name": {
       "type": "STRING",
