@@ -1,0 +1,34 @@
+{
+  "id": "67d79afd17ea423585c8372e4061a9d4",
+  "title": "DevPaperbagAudience",
+  "description": "DevPaperbagAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "72eb87039aa74e82a4b873c276de61e3",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-07T11:47:38.818Z",
+  "lastModifiedDate": "2021-09-09T19:28:10.602Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "67d79afd17ea423585c8372e4061a9d4",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games Publishing",
+  "developerId": "o-e2xslu4mlqqaavphzl6927vtjqamhj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
