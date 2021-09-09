@@ -1,0 +1,53 @@
+{
+  "id": "e5d457adedc84606978adab9ef3ffb2a",
+  "title": "CheshireStaging",
+  "description": "CheshireStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "11ef23cb08494085a28c342bf7c6034f",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-16T18:48:03.589Z",
+  "lastModifiedDate": "2021-09-09T03:22:09.442Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CheshireStaging"
+    }
+  },
+  "entitlementName": "e5d457adedc84606978adab9ef3ffb2a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0a7975a634a24cacb434e9cc82fcc1ee",
+      "appId": "a54a0fd79e3f470c82e682128402c517",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Muse Games Corp.",
+  "developerId": "o-jr6vw2vpas9pjgysw3zwc3g68lb8gk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

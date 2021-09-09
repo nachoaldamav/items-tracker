@@ -1,0 +1,34 @@
+{
+  "id": "6e139da4eaee4370a49e71039960b24f",
+  "title": "DevCheshireAudience",
+  "description": "DevCheshireAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "11ef23cb08494085a28c342bf7c6034f",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-16T18:48:02.762Z",
+  "lastModifiedDate": "2021-09-09T03:22:20.824Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "6e139da4eaee4370a49e71039960b24f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Muse Games Corp.",
+  "developerId": "o-jr6vw2vpas9pjgysw3zwc3g68lb8gk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

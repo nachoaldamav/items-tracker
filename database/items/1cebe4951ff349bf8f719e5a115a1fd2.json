@@ -1,0 +1,61 @@
+{
+  "id": "1cebe4951ff349bf8f719e5a115a1fd2",
+  "title": "AnchoviesStaging",
+  "description": "AnchoviesStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6acf92329bc449068201ee9a3f399a13",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-26T22:21:57.774Z",
+  "lastModifiedDate": "2021-09-09T14:23:27.257Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/KoeiTecmo/NIOH2/Savedata/{EpicID}/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "SAVEDATA.BIN"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AnchoviesStaging"
+    }
+  },
+  "entitlementName": "1cebe4951ff349bf8f719e5a115a1fd2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d92f6029fbf3462f87315b6cc39752e2",
+      "appId": "4dc42efde55740eb970702e9582e9500",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Koei Tecmo",
+  "developerId": "o-rgggesxx3asqs8jp24x29zl24c789w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567pF5it9TwrEBixOokw6lVVNEI",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

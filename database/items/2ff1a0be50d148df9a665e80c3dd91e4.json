@@ -1,0 +1,34 @@
+{
+  "id": "2ff1a0be50d148df9a665e80c3dd91e4",
+  "title": "DevAnchoviesAudience",
+  "description": "DevAnchoviesAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "6acf92329bc449068201ee9a3f399a13",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-26T22:21:56.931Z",
+  "lastModifiedDate": "2021-09-09T14:23:27.257Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "2ff1a0be50d148df9a665e80c3dd91e4",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Koei Tecmo",
+  "developerId": "o-rgggesxx3asqs8jp24x29zl24c789w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
