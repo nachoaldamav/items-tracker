@@ -2,6 +2,17 @@
   "id": "a2084af544bc494f851c9ace984f15fb",
   "title": "GorgonzolaGeneralAudience",
   "description": "GorgonzolaGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NiohTheCompleteEdition_KOEITECMOGAMESCOLTD_RA1_200x117-21a7787d3d7b0ae803bd010b14374281",
+      "md5": "21a7787d3d7b0ae803bd010b14374281",
+      "width": 200,
+      "height": 117,
+      "size": 5968,
+      "uploadedDate": "2021-09-04T02:02:28.243Z"
+    }
+  ],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +24,7 @@
   "namespace": "3622b6ddc5c849b1826085d5fe492eae",
   "status": "ACTIVE",
   "creationDate": "2021-04-26T22:17:58.764Z",
-  "lastModifiedDate": "2021-09-01T00:40:39.239Z",
+  "lastModifiedDate": "2021-09-09T14:24:29.348Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +34,16 @@
   "entitlementName": "a2084af544bc494f851c9ace984f15fb",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Koei Tecmo",
   "developerId": "o-rgggesxx3asqs8jp24x29zl24c789w",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
