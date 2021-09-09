@@ -1,0 +1,73 @@
+{
+  "id": "23cbff0f9ae247af9c2b7ab54690bed8",
+  "title": "Victor",
+  "description": "Victor",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "be67e141378446cf9399b3db1a22ceb3",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-09T23:36:26.716Z",
+  "lastModifiedDate": "2021-03-10T00:08:11.835Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "be67e141378446cf9399b3db1a22ceb3"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Victor"
+    }
+  },
+  "entitlementName": "23cbff0f9ae247af9c2b7ab54690bed8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2e45e4fc16b048199f56591ff7804208",
+      "appId": "72a75d5e43e44a1699f85dc9cb342e01​",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-03-09T23:57:09.353Z"
+    }
+  ],
+  "developer": "Choice Provisions, Inc",
+  "developerId": "o-ec6d787ft4ctrcyve22qqtgmkdpsr4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

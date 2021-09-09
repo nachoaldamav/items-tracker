@@ -1,0 +1,34 @@
+{
+  "id": "61520e7fe4444be68d535bf0d5749bb0",
+  "title": "DevVictorAudience",
+  "description": "DevVictorAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "be67e141378446cf9399b3db1a22ceb3",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-09T23:36:26.262Z",
+  "lastModifiedDate": "2021-03-10T00:08:11.836Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "61520e7fe4444be68d535bf0d5749bb0",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Choice Provisions, Inc",
+  "developerId": "o-ec6d787ft4ctrcyve22qqtgmkdpsr4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

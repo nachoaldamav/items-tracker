@@ -1,0 +1,53 @@
+{
+  "id": "486ec10ab5724642a1d6f5525f2b5df6",
+  "title": "VictorStaging",
+  "description": "VictorStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "be67e141378446cf9399b3db1a22ceb3",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-09T23:36:26.984Z",
+  "lastModifiedDate": "2021-03-10T00:08:11.836Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "VictorStaging"
+    }
+  },
+  "entitlementName": "486ec10ab5724642a1d6f5525f2b5df6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2c633fd27e204355bd0485db357b31e5",
+      "appId": "266d978cc221471787b597695cbb9a75",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-03-09T23:58:20.048Z"
+    }
+  ],
+  "developer": "Choice Provisions, Inc",
+  "developerId": "o-ec6d787ft4ctrcyve22qqtgmkdpsr4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
