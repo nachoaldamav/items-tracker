@@ -23,21 +23,21 @@
     },
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/oregano/item/Store_Primary_Promo_2580x1450_GAME-2580x1450-26f480069385d630b1df5c967e026d29.jpg",
-      "md5": "26f480069385d630b1df5c967e026d29",
-      "width": 2580,
-      "height": 1450,
-      "size": 597051,
-      "uploadedDate": "2019-03-29T14:42:28.672Z"
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/ANNO_Store_Landscape_1920x1080_1920x1080-cea85f12443da424bef2a30a20be060b",
+      "md5": "cea85f12443da424bef2a30a20be060b",
+      "width": 1920,
+      "height": 1080,
+      "size": 4501409,
+      "uploadedDate": "2021-09-13T17:04:46.108Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/oregano/item/home_Store_Portrait_Promo-1280x1420-a2fd971adc25a26dce287b0f1a184f5f.jpg",
-      "md5": "a2fd971adc25a26dce287b0f1a184f5f",
-      "width": 1280,
-      "height": 1420,
-      "size": 187104,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/AN18_Store_Portrait_1200x1600 (1)_1200x1600-fe7774bb1563f584b97142f0b202d209",
+      "md5": "fe7774bb1563f584b97142f0b202d209",
+      "width": 1200,
+      "height": 1600,
+      "size": 865324,
+      "uploadedDate": "2021-09-13T17:05:45.143Z"
     }
   ],
   "categories": [
@@ -51,7 +51,7 @@
   "namespace": "oregano",
   "status": "ACTIVE",
   "creationDate": "2019-03-29T14:46:24.783Z",
-  "lastModifiedDate": "2021-02-09T14:58:22.899Z",
+  "lastModifiedDate": "2021-09-13T17:19:02.799Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
@@ -127,7 +127,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
