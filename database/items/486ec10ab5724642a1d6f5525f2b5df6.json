@@ -16,11 +16,19 @@
   "namespace": "be67e141378446cf9399b3db1a22ceb3",
   "status": "ACTIVE",
   "creationDate": "2021-03-09T23:36:26.984Z",
-  "lastModifiedDate": "2021-03-10T00:08:11.836Z",
+  "lastModifiedDate": "2021-09-14T22:20:36.497Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Tharsis_Data/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "savedata.sav"
     },
     "FolderName": {
       "type": "STRING",
@@ -46,8 +54,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
