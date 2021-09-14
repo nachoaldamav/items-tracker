@@ -1,0 +1,78 @@
+{
+  "id": "83e41a4f93634ff387150d7eab2379b0",
+  "title": "They Always Run",
+  "description": "They Always Run",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a90ff071ed744b0fb97a3689d9bcac56/they-always-run-offer-1v3o5.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 2560,
+      "height": 1440,
+      "size": 2709813,
+      "uploadedDate": "2021-08-17T12:27:24.667Z",
+      "alt": "They Always Run Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a90ff071ed744b0fb97a3689d9bcac56/download-they-always-run-offer-1c59x.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 1689151,
+      "uploadedDate": "2021-08-17T12:27:27.464Z",
+      "alt": "Download They Always Run Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9de5b8c358314db2ab3ed7b41d6f41a0",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-14T15:42:04.248Z",
+  "lastModifiedDate": "2021-09-14T15:42:04.248Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "productGeneration": {
+      "type": "STRING",
+      "value": "SPT"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheyAlwaysRun"
+    }
+  },
+  "entitlementName": "83e41a4f93634ff387150d7eab2379b0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "dd6d253532ae45c7854fe73e7b923fb0",
+      "appId": "b2af0ac2969f4718bd562caa4a82d5a5",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Alawar Entertainment, Inc",
+  "developerId": "o-cy5ukscnzvb2vbehcxv5rrrnky995c",
+  "eulaIds": [],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567HiNqdlkBIrSnJYJ8pgOiRSKf",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
