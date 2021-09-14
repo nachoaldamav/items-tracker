@@ -1,0 +1,34 @@
+{
+  "id": "aa2c662dff454397b5ee467152259eca",
+  "title": "UraniumGeneralAudience",
+  "description": "UraniumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c9c5dc2e8d9842558c142ba9ba614bc9",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-09T17:29:44.907Z",
+  "lastModifiedDate": "2021-09-14T15:56:26.710Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "aa2c662dff454397b5ee467152259eca",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Draknek",
+  "developerId": "o-8n38qrvfawma8qsmu3d37bw7gasm2a",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

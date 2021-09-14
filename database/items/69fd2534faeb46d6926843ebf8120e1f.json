@@ -1,0 +1,64 @@
+{
+  "id": "69fd2534faeb46d6926843ebf8120e1f",
+  "title": "UraniumStaging",
+  "description": "UraniumStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c9c5dc2e8d9842558c142ba9ba614bc9",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-09T17:29:45.354Z",
+  "lastModifiedDate": "2021-09-14T15:34:59.585Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Corey Martin/Bonfire Peaks/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Corey Martin/Bonfire Peaks/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "UraniumStaging"
+    }
+  },
+  "entitlementName": "69fd2534faeb46d6926843ebf8120e1f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "23c90604c9f14d8c8626fbdb3c95c77e",
+      "appId": "10eae43e75344513a5804237158a3ede",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-02-09T18:13:12.853Z"
+    }
+  ],
+  "developer": "Draknek",
+  "developerId": "o-8n38qrvfawma8qsmu3d37bw7gasm2a",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
