@@ -1,7 +1,27 @@
 {
   "id": "23cbff0f9ae247af9c2b7ab54690bed8",
-  "title": "Victor",
-  "description": "Victor",
+  "title": "Tharsis",
+  "description": "Tharsis",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tharsis_ChoiceProvisions_S1_2560x1440-f2bafbbf1629a48af6e394261b2dc3e7",
+      "md5": "f2bafbbf1629a48af6e394261b2dc3e7",
+      "width": 2560,
+      "height": 1440,
+      "size": 558719,
+      "uploadedDate": "2021-09-09T14:45:12.209Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tharsis_ChoiceProvisions_S2_1200x1600-964435f30c36b3f9d4bdcd0d90fcfca2",
+      "md5": "964435f30c36b3f9d4bdcd0d90fcfca2",
+      "width": 1200,
+      "height": 1600,
+      "size": 276352,
+      "uploadedDate": "2021-09-09T14:45:15.118Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,7 +36,7 @@
   "namespace": "be67e141378446cf9399b3db1a22ceb3",
   "status": "ACTIVE",
   "creationDate": "2021-03-09T23:36:26.716Z",
-  "lastModifiedDate": "2021-03-10T00:08:11.835Z",
+  "lastModifiedDate": "2021-09-14T22:04:34.740Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -30,6 +50,10 @@
       "type": "STRING",
       "value": "false"
     },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Tharsis_Data/"
+    },
     "UseAccessControl": {
       "type": "STRING",
       "value": "false"
@@ -38,13 +62,17 @@
       "type": "STRING",
       "value": "[]"
     },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "savedata.sav"
+    },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Victor"
+      "value": "Tharsis"
     }
   },
   "entitlementName": "23cbff0f9ae247af9c2b7ab54690bed8",
@@ -52,11 +80,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "2e45e4fc16b048199f56591ff7804208",
+      "id": "149911ba893d4af0a12fcbd282475367",
       "appId": "72a75d5e43e44a1699f85dc9cb342e01​",
+      "compatibleApps": [],
       "platform": [
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "dateAdded": "2021-03-09T23:57:09.353Z"
     }
@@ -66,8 +94,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "fghi4567H6CBRZBsk27fyisSz5Hw0JTO",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
