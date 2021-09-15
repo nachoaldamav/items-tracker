@@ -1,7 +1,27 @@
 {
   "id": "486ec10ab5724642a1d6f5525f2b5df6",
-  "title": "VictorStaging",
-  "description": "VictorStaging",
+  "title": "Tharsis",
+  "description": "Tharsis",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tharsis_ChoiceProvisions_S1_2560x1440-f2bafbbf1629a48af6e394261b2dc3e7",
+      "md5": "f2bafbbf1629a48af6e394261b2dc3e7",
+      "width": 2560,
+      "height": 1440,
+      "size": 558719,
+      "uploadedDate": "2021-09-15T21:24:19.364Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tharsis_ChoiceProvisions_S2_1200x1600-964435f30c36b3f9d4bdcd0d90fcfca2",
+      "md5": "964435f30c36b3f9d4bdcd0d90fcfca2",
+      "width": 1200,
+      "height": 1600,
+      "size": 276352,
+      "uploadedDate": "2021-09-15T21:24:21.532Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,23 +36,39 @@
   "namespace": "be67e141378446cf9399b3db1a22ceb3",
   "status": "ACTIVE",
   "creationDate": "2021-03-09T23:36:26.984Z",
-  "lastModifiedDate": "2021-09-14T22:20:36.497Z",
+  "lastModifiedDate": "2021-09-15T21:25:40.784Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
     },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "be67e141378446cf9399b3db1a22ceb3"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{InstallDir}/Tharsis_Data/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
     },
     "CloudIncludeList": {
       "type": "STRING",
       "value": "savedata.sav"
     },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
     "FolderName": {
       "type": "STRING",
-      "value": "VictorStaging"
+      "value": "Tharsis"
     }
   },
   "entitlementName": "486ec10ab5724642a1d6f5525f2b5df6",
@@ -40,11 +76,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "2c633fd27e204355bd0485db357b31e5",
+      "id": "283b650b5f0a4b038ba2133914b2388b",
       "appId": "266d978cc221471787b597695cbb9a75",
+      "compatibleApps": [],
       "platform": [
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "dateAdded": "2021-03-09T23:58:20.048Z"
     }
