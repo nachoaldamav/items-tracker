@@ -13,7 +13,7 @@
   "namespace": "be67e141378446cf9399b3db1a22ceb3",
   "status": "ACTIVE",
   "creationDate": "2021-03-09T23:36:26.438Z",
-  "lastModifiedDate": "2021-09-09T14:30:25.937Z",
+  "lastModifiedDate": "2021-09-15T17:07:35.635Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +23,16 @@
   "entitlementName": "f15c727c6af54876b3c474977949e0e9",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Choice Provisions, Inc",
   "developerId": "o-ec6d787ft4ctrcyve22qqtgmkdpsr4",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
