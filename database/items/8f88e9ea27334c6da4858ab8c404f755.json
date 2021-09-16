@@ -36,7 +36,7 @@
   "namespace": "3e7e7c2bc1644a25a99b3a4c4ef1ff33",
   "status": "ACTIVE",
   "creationDate": "2020-06-02T15:12:40.991Z",
-  "lastModifiedDate": "2021-05-15T00:00:52.310Z",
+  "lastModifiedDate": "2021-09-16T15:08:46.932Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -49,6 +49,10 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Fabraz/Demon Turf/"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -88,6 +92,6 @@
   "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
-  "applicationId": "",
+  "applicationId": "fghi4567EX8UWObYsSn5IXv4c4cMcaLc",
   "unsearchable": false
 }
