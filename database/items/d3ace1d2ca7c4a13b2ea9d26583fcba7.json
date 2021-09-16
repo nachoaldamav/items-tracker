@@ -1,0 +1,72 @@
+{
+  "id": "d3ace1d2ca7c4a13b2ea9d26583fcba7",
+  "title": "Nobelium",
+  "description": "Nobelium",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bdaad63b5de5424bbd720d9055906ab1",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-07T00:16:11.585Z",
+  "lastModifiedDate": "2021-09-15T22:30:40.396Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "bdaad63b5de5424bbd720d9055906ab1"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Nobelium"
+    }
+  },
+  "entitlementName": "d3ace1d2ca7c4a13b2ea9d26583fcba7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c611b27936f34c73832c10fd3c5f1c58",
+      "appId": "d4d36c0c882648e58f5f456748e4328d",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-04-07T00:18:57.469Z"
+    }
+  ],
+  "developer": "Rogue Games, Inc.",
+  "developerId": "o-uf2lr9jar96m9qssppdgmal3j6alyq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
