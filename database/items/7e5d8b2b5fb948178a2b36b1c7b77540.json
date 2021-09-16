@@ -16,11 +16,15 @@
   "namespace": "57dfd95548214a138218e56cd9e5b9d8",
   "status": "ACTIVE",
   "creationDate": "2020-11-20T19:27:03.337Z",
-  "lastModifiedDate": "2021-07-20T02:07:24.736Z",
+  "lastModifiedDate": "2021-09-16T00:52:26.882Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Back4Blood/Epic/Saved/SaveGames/"
     },
     "OwnershipToken": {
       "type": "STRING",
