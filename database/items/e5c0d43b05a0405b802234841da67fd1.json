@@ -26,12 +26,6 @@
   ],
   "categories": [
     {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
       "path": "games"
     },
     {
@@ -41,11 +35,23 @@
   "namespace": "d1a3ff292b2f4ee289a83d7a91ae3458",
   "status": "ACTIVE",
   "creationDate": "2021-06-28T14:47:56.315Z",
-  "lastModifiedDate": "2021-07-13T23:17:55.834Z",
+  "lastModifiedDate": "2021-08-09T17:48:43.405Z",
   "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "productGeneration": {
+      "type": "STRING",
+      "value": "SPT"
+    },
     "FolderName": {
       "type": "STRING",
-      "value": "TandemATaleofShadows1dP3S"
+      "value": "TandemATaleofShadows"
     }
   },
   "entitlementName": "e5c0d43b05a0405b802234841da67fd1",
@@ -62,7 +68,11 @@
   ],
   "developer": "Hatinh Interactive",
   "developerId": "o-722pvnj3qsvbzvskhx4r8x7gcxhhbn",
+  "eulaIds": [],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
