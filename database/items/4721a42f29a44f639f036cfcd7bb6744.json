@@ -13,7 +13,7 @@
   "namespace": "7c53d7dc86494d5abcdc974b0ef0a843",
   "status": "ACTIVE",
   "creationDate": "2020-06-03T00:13:48.875Z",
-  "lastModifiedDate": "2021-07-28T21:45:24.446Z",
+  "lastModifiedDate": "2021-09-21T04:00:08.088Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +23,15 @@
   "entitlementName": "4721a42f29a44f639f036cfcd7bb6744",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Ember Lab",
   "developerId": "o-4xa8vpghs27nav2w3z3h6z4f6f4fyd",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
