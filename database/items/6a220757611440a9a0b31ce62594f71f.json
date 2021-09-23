@@ -1,0 +1,76 @@
+{
+  "id": "6a220757611440a9a0b31ce62594f71f",
+  "title": "FinfootThirdRomeStaging",
+  "description": "FinfootThirdRomeStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "80d3aeb1d7c3434981e0bcbc47700a83",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-22T18:08:46.926Z",
+  "lastModifiedDate": "2021-09-23T03:59:49.195Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "80d3aeb1d7c3434981e0bcbc47700a83"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ThirdRomeStaging"
+    }
+  },
+  "entitlementName": "6a220757611440a9a0b31ce62594f71f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c9e1c0a465404e58b7dd3f07c810ba4b",
+      "appId": "c196246e233b468293d16965a69cb534",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-12-09T00:00:00.000Z"
+    }
+  ],
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

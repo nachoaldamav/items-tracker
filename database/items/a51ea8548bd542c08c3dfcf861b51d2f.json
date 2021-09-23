@@ -1,0 +1,54 @@
+{
+  "id": "a51ea8548bd542c08c3dfcf861b51d2f",
+  "title": "FinfootStaging",
+  "description": "FinfootStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "80d3aeb1d7c3434981e0bcbc47700a83",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T21:52:26.965Z",
+  "lastModifiedDate": "2021-09-23T03:59:49.195Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FinfootStaging"
+    }
+  },
+  "entitlementName": "a51ea8548bd542c08c3dfcf861b51d2f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "49ce4a97823043e79418d171d0a4bef1",
+      "appId": "6466f4966e1f4a40b79e79d66713639b",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-12-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

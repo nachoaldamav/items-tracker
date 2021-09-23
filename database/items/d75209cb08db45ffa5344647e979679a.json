@@ -1,0 +1,76 @@
+{
+  "id": "d75209cb08db45ffa5344647e979679a",
+  "title": "Finfoot Ultimate Music Pack",
+  "description": "Finfoot Ultimate Music Pack",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "80d3aeb1d7c3434981e0bcbc47700a83",
+  "status": "ACTIVE",
+  "creationDate": "2020-12-09T23:12:39.779Z",
+  "lastModifiedDate": "2021-09-23T03:59:49.202Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "80d3aeb1d7c3434981e0bcbc47700a83"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "UltimateMusicPack"
+    }
+  },
+  "entitlementName": "d75209cb08db45ffa5344647e979679a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1fe6c30faad840c5881c8a4f6c07df7e",
+      "appId": "d3caec7c4e7d4256a458a4411720978b",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-12-09T00:00:00.000Z"
+    }
+  ],
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

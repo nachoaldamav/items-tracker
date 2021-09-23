@@ -1,0 +1,76 @@
+{
+  "id": "c5f9f71ab5af49bca0c64429823a4373",
+  "title": "Finfoot Ultimate Unit Pack Staging",
+  "description": "Finfoot Ultimate Unit Pack Staging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "80d3aeb1d7c3434981e0bcbc47700a83",
+  "status": "ACTIVE",
+  "creationDate": "2020-12-09T23:19:34.518Z",
+  "lastModifiedDate": "2021-09-23T03:59:49.202Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "80d3aeb1d7c3434981e0bcbc47700a83"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "UltimateUnitPackStag"
+    }
+  },
+  "entitlementName": "c5f9f71ab5af49bca0c64429823a4373",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b332588a7e88468cb562aa449ea4e728",
+      "appId": "1936f4d295f74889b2188ff85aff4616",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-12-09T00:00:00.000Z"
+    }
+  ],
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

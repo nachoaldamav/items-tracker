@@ -1,0 +1,74 @@
+{
+  "id": "c387907c87474943a6d1b429d617a6f6",
+  "title": "FinfootThirdRome",
+  "description": "FinfootThirdRome",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "80d3aeb1d7c3434981e0bcbc47700a83",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-22T18:06:40.047Z",
+  "lastModifiedDate": "2021-09-23T03:59:49.202Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "80d3aeb1d7c3434981e0bcbc47700a83"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FinfootThirdRome"
+    }
+  },
+  "entitlementName": "c387907c87474943a6d1b429d617a6f6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3f1ddce8ccf647799ad6441d1c7f9901",
+      "appId": "8fd3eca0957e42769ae495eb36c8cc44",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-12-09T00:00:00.000Z"
+    }
+  ],
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}
