@@ -13,7 +13,7 @@
   "namespace": "bdaad63b5de5424bbd720d9055906ab1",
   "status": "ACTIVE",
   "creationDate": "2021-04-07T00:16:11.280Z",
-  "lastModifiedDate": "2021-09-15T22:30:40.395Z",
+  "lastModifiedDate": "2021-09-23T12:50:26.532Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +23,16 @@
   "entitlementName": "be2b3d01b45d4ec5ac7896dd019ca490",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Rogue Games, Inc.",
   "developerId": "o-uf2lr9jar96m9qssppdgmal3j6alyq",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
