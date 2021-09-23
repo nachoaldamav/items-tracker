@@ -13,7 +13,7 @@
   "namespace": "6ae065d071d74979ad62236b71dc11c7",
   "status": "ACTIVE",
   "creationDate": "2020-06-30T22:22:21.187Z",
-  "lastModifiedDate": "2021-09-23T03:59:48.673Z",
+  "lastModifiedDate": "2021-09-23T13:51:05.289Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,11 +23,15 @@
   "entitlementName": "e8ca4c696f994e2e8aad05b0c2f256c8",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Vodeo Games",
   "developerId": "o-pae4gppnw39cqfe9mc5xrehtwjbv3s",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
