@@ -13,7 +13,7 @@
   "namespace": "fa9812acd30f46f8a69a75bf27addb5c",
   "status": "ACTIVE",
   "creationDate": "2021-03-08T23:55:30.420Z",
-  "lastModifiedDate": "2021-04-16T14:51:05.184Z",
+  "lastModifiedDate": "2021-09-24T00:06:41.179Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +23,16 @@
   "entitlementName": "7c1a3915ac2d4a13a2736d661093dd5b",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Maximum Games",
   "developerId": "o-a6k23slslegbhbwtel4qx423kuzc3y",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
