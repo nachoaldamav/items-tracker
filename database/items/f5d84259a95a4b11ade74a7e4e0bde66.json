@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RL2_PIZZAepicstore_product_landscape_2560x1440-e0ece2e413e63d54bc9c5be357ab220a",
-      "md5": "e0ece2e413e63d54bc9c5be357ab220a",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RogueLegacy2_wide_2560x1440-3958d2624a7222d185ea39180f7f9f93",
+      "md5": "3958d2624a7222d185ea39180f7f9f93",
       "width": 2560,
       "height": 1440,
-      "size": 994869,
-      "uploadedDate": "2021-06-22T00:53:00.042Z"
+      "size": 971015,
+      "uploadedDate": "2021-09-23T20:39:33.598Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RL2_Pizza_epicstore_product_portrait_1200x1600-d15d956a4d9bb0224cbd7fe975bdd422",
-      "md5": "d15d956a4d9bb0224cbd7fe975bdd422",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RogueLegacy2_CellarDoorGames_S6_1200x1600-b9af79d3c20a02a24077b09dc85d3ca3",
+      "md5": "b9af79d3c20a02a24077b09dc85d3ca3",
       "width": 1200,
       "height": 1600,
-      "size": 815695,
-      "uploadedDate": "2021-06-22T00:53:03.888Z"
+      "size": 996448,
+      "uploadedDate": "2021-09-23T20:39:27.735Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "4966d5da285c4f2c876937844b0e23ee",
   "status": "ACTIVE",
   "creationDate": "2020-06-23T12:42:05.810Z",
-  "lastModifiedDate": "2021-06-22T17:01:08.787Z",
+  "lastModifiedDate": "2021-09-28T16:56:47.768Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -48,7 +48,7 @@
     },
     "MonitorPresence": {
       "type": "STRING",
-      "value": "true"
+      "value": "false"
     },
     "CloudSaveFolder": {
       "type": "STRING",
