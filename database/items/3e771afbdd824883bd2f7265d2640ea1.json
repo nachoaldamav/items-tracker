@@ -1,0 +1,95 @@
+{
+  "id": "3e771afbdd824883bd2f7265d2640ea1",
+  "title": "Sousa Staging",
+  "description": "Sousa Staging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/5b08e4db33c54e518c2a1360cc2c7f18/item/EGS_2064ReadOnlyMemories_MidBossLLC_S1-2560x1440-3cff6c1aaae821f540e6137ed48da775.jpg",
+      "md5": "3cff6c1aaae821f540e6137ed48da775",
+      "width": 2560,
+      "height": 1440,
+      "size": 807086,
+      "uploadedDate": "2021-03-22T23:30:57.408Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/5b08e4db33c54e518c2a1360cc2c7f18/item/EGS_2064ReadOnlyMemories_MidBossLLC_S2-1200x1600-f248ed9996266adcaf8f829254d44f4e.jpg",
+      "md5": "f248ed9996266adcaf8f829254d44f4e",
+      "width": 1200,
+      "height": 1600,
+      "size": 310088,
+      "uploadedDate": "2021-03-22T23:31:10.081Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5b08e4db33c54e518c2a1360cc2c7f18",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-04T02:49:07.794Z",
+  "lastModifiedDate": "2021-09-27T23:52:22.153Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "5b08e4db33c54e518c2a1360cc2c7f18"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SousaStaging"
+    }
+  },
+  "entitlementName": "3e771afbdd824883bd2f7265d2640ea1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3919b87bdb784bf780d92f4d54a38b4b",
+      "appId": "fc2eabfdb2ab49efb6afde9883560388",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-03-04T00:00:00.000Z"
+    }
+  ],
+  "developer": "MidBoss, LLC",
+  "developerId": "o-uk5s5frpth22ldn5cqr5z3vmf9g52r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
