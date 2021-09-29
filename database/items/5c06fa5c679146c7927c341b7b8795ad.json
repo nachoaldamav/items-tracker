@@ -36,7 +36,7 @@
   "namespace": "5b08e4db33c54e518c2a1360cc2c7f18",
   "status": "ACTIVE",
   "creationDate": "2021-03-04T02:49:08.058Z",
-  "lastModifiedDate": "2021-09-28T04:11:06.719Z",
+  "lastModifiedDate": "2021-09-29T02:43:23.199Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -46,9 +46,17 @@
       "type": "STRING",
       "value": "5b08e4db33c54e518c2a1360cc2c7f18"
     },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/MidBoss/2064_ Read Only Memories/"
+    },
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/MidBoss/2064_ Read Only Memories/"
     },
     "UseAccessControl": {
       "type": "STRING",
