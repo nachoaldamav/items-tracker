@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/BREAKPOINT_STANDARD_BREAKPOINT_STANDARD_EPIC_Store_Landscape_2560x1440-2560x1440-1c1a73e5e63d08b2256d66b947467f23.jpg",
-      "md5": "1c1a73e5e63d08b2256d66b947467f23",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/GRT_STD_Edition_Store_Landscape_2560x1440_2560x1440-eb4ed54b646a5c0d98823bcb91807011",
+      "md5": "eb4ed54b646a5c0d98823bcb91807011",
       "width": 2560,
       "height": 1440,
-      "size": 493351,
-      "uploadedDate": "2020-09-03T17:10:23.744Z"
+      "size": 1003818,
+      "uploadedDate": "2021-09-29T15:13:09.801Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/BREAKPOINT_STANDARD_BREAKPOINT_STANDARD_EPIC_Store_Portrait_1200x1600_L-1200x1600-bd6073c4c9d1749d1fd6ec15e6090b72.jpg",
-      "md5": "bd6073c4c9d1749d1fd6ec15e6090b72",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/GRT_STD_Edition_Store_Portrait_1200x1600_1200x1600-b08ee70d85ee2649b6e9c575d9192e66",
+      "md5": "b08ee70d85ee2649b6e9c575d9192e66",
       "width": 1200,
       "height": 1600,
-      "size": 992262,
-      "uploadedDate": "2020-09-03T17:10:26.746Z"
+      "size": 1002728,
+      "uploadedDate": "2021-09-29T15:13:14.604Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
   "status": "ACTIVE",
   "creationDate": "2019-05-02T01:23:21.110Z",
-  "lastModifiedDate": "2021-01-19T17:21:56.339Z",
+  "lastModifiedDate": "2021-09-29T15:13:29.348Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
@@ -109,7 +109,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
