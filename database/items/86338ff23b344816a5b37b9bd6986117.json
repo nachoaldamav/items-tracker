@@ -1,0 +1,75 @@
+{
+  "id": "86338ff23b344816a5b37b9bd6986117",
+  "title": "Guardians of Hyelore",
+  "description": "Guardians of Hyelore",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/df662534e7894571bc8fe5d20454c6ce/download-guardians-of-hyelore-offer-1wuje.jpg",
+      "md5": "7d52719be61c8585c80e7f4e8739335e",
+      "width": 1200,
+      "height": 1600,
+      "size": 880956,
+      "uploadedDate": "2021-09-08T22:17:07.287Z",
+      "alt": "Download Guardians of Hyelore Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/df662534e7894571bc8fe5d20454c6ce/guardians-of-hyelore-offer-1p7de.jpg",
+      "md5": "a2f4e10228674dc8ea51790cd6b35a9c",
+      "width": 2560,
+      "height": 1440,
+      "size": 649588,
+      "uploadedDate": "2021-09-08T22:17:07.714Z",
+      "alt": "Guardians of Hyelore Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "333f455592a24f7db42ac87a1d7227c4",
+  "status": "ACTIVE",
+  "creationDate": "2021-08-24T20:22:50.227Z",
+  "lastModifiedDate": "2021-09-28T21:55:36.946Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Megaglope Studios/GoH/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.es3"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GuardiansofHyelore"
+    }
+  },
+  "entitlementName": "86338ff23b344816a5b37b9bd6986117",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "647424ba885c43039607375b5dca8482",
+      "appId": "862b5b569aaa447688d2d25bcb30e35e",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Freedom Games",
+  "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+  "eulaIds": [],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
