@@ -1,0 +1,38 @@
+{
+  "id": "03698aa20d7240aaa6aa4f4dbee277ec",
+  "title": "TallinnGeneralAudience",
+  "description": "TallinnGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "fcd3387b58864614b66952d0430d2b9a",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-21T16:36:24.040Z",
+  "lastModifiedDate": "2021-09-30T13:12:39.994Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "03698aa20d7240aaa6aa4f4dbee277ec",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Systemic Reaction",
+  "developerId": "o-4gvyc6bwfz49sqpgk6ylt9g5ddexuy",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
