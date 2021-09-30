@@ -14,12 +14,12 @@
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/sundrop/item/ForHonor_Store_Portrait_1200x1600-1200x1600-5f5feacf17c6a325c2fce2515afbcd1b.jpg",
-      "md5": "5f5feacf17c6a325c2fce2515afbcd1b",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/ForHonor_Store_Portrait_1200x1600_1200x1600-7b36fcca23eb97bdbdd96a781771ceeb",
+      "md5": "7b36fcca23eb97bdbdd96a781771ceeb",
       "width": 1200,
       "height": 1600,
-      "size": 932851,
-      "uploadedDate": "2021-02-18T20:53:08.063Z"
+      "size": 289675,
+      "uploadedDate": "2021-09-30T18:54:23.300Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "sundrop",
   "status": "ACTIVE",
   "creationDate": "2019-02-11T17:23:29.967Z",
-  "lastModifiedDate": "2021-02-18T20:53:16.130Z",
+  "lastModifiedDate": "2021-09-30T18:54:30.175Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -105,7 +105,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
