@@ -1,0 +1,76 @@
+{
+  "id": "4726572f80104ddea17b8ee7e533da35",
+  "title": "Cruel Bands Career",
+  "description": "Cruel Bands Career",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/af7371147f1743439b98cf674651c920/cruel-bands-career-offer-n232c.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 2560,
+      "height": 1440,
+      "size": 362012,
+      "uploadedDate": "2021-08-09T12:08:54.528Z",
+      "alt": "Cruel Bands Career Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/af7371147f1743439b98cf674651c920/download-cruel-bands-career-offer-1jt6r.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 333850,
+      "uploadedDate": "2021-08-09T12:08:56.696Z",
+      "alt": "Download Cruel Bands Career Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ff9546ebca6746389c2d7a45c54ac23d",
+  "status": "ACTIVE",
+  "creationDate": "2021-07-13T07:00:57.745Z",
+  "lastModifiedDate": "2021-09-22T05:32:05.337Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CruelBandsCareer"
+    }
+  },
+  "entitlementName": "4726572f80104ddea17b8ee7e533da35",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0a04adab364c4356862a8082cbbfa6c3",
+      "appId": "f91ee818860c4646912b69d90fc117ef",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Indienova",
+  "developerId": "o-vuh5t9zwwz8negnkv2w2j8dm92xs4l",
+  "eulaIds": [],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
