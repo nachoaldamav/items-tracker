@@ -1,0 +1,34 @@
+{
+  "id": "1ca7e2df7f33494795f7f05d5dad1aa5",
+  "title": "ScialatelliGeneralAudience",
+  "description": "ScialatelliGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "8f5f5eff22f3468fa5551771406fc868",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-12T15:28:23.682Z",
+  "lastModifiedDate": "2021-09-30T14:14:58.781Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "1ca7e2df7f33494795f7f05d5dad1aa5",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "The Irregular Corporation",
+  "developerId": "o-h3rhw2ntexmcgx44cv2pdje5bz3nqh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

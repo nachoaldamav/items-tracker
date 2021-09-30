@@ -1,0 +1,34 @@
+{
+  "id": "903c732d124041dfa9612b167f1b056d",
+  "title": "DevScialatelliAudience",
+  "description": "DevScialatelliAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "8f5f5eff22f3468fa5551771406fc868",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-12T15:28:23.495Z",
+  "lastModifiedDate": "2021-09-30T14:14:58.837Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "903c732d124041dfa9612b167f1b056d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "The Irregular Corporation",
+  "developerId": "o-h3rhw2ntexmcgx44cv2pdje5bz3nqh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
