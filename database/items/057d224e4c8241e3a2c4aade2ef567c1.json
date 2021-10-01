@@ -14,7 +14,7 @@
   "namespace": "iris",
   "status": "ACTIVE",
   "creationDate": "2019-11-01T20:25:17.213Z",
-  "lastModifiedDate": "2021-10-01T14:07:11.720Z",
+  "lastModifiedDate": "2021-10-01T15:49:52.612Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -30,6 +30,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
