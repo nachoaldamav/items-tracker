@@ -1,0 +1,88 @@
+{
+  "id": "b0d851f9651b4a5888922123563bfbd1",
+  "title": "Twinmotion EDU 2021.2",
+  "description": "Twinmotion 2021.2 for Education",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LauncherThumbnailLandscapeLogoEDU_1920x1080_1920x1080-cc96d83fb3119e34abb35d366c5a5f12",
+      "md5": "cc96d83fb3119e34abb35d366c5a5f12",
+      "width": 1920,
+      "height": 1080,
+      "size": 3705280,
+      "uploadedDate": "2021-08-04T13:29:07.221Z",
+      "alt": "TwinMotion"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LauncherThumbnailProfileLogoEDU_1200x1600_1200x1600-06d7108384e1d5364995b3a4ad1919c2",
+      "md5": "06d7108384e1d5364995b3a4ad1919c2",
+      "width": 1200,
+      "height": 1600,
+      "size": 3095688,
+      "uploadedDate": "2021-08-04T13:29:18.235Z",
+      "alt": "TwinMotion"
+    }
+  ],
+  "categories": [
+    {
+      "path": "software"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "poodle",
+  "status": "ACTIVE",
+  "creationDate": "2021-10-04T17:16:34.939Z",
+  "lastModifiedDate": "2021-10-04T17:20:46.461Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "Twinmotion"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "egs.library.display_version": {
+      "type": "STRING",
+      "value": "2021.1.3 (EDU)"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Epic Games"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Twinmotion2021.1EDU"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows, Mac"
+    }
+  },
+  "entitlementName": "TwinmotionEDU2021.2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [
+    "twin"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
