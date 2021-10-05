@@ -1,0 +1,79 @@
+{
+  "id": "6e6aad3902da4a0ebf9ee6bc411e3d68",
+  "title": "Blazing Beaks",
+  "description": "Blazing Beaks",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c3c51fbc858f498caba7adf760f81792/blazing-beaks-offer-1amnm.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 2560,
+      "height": 1440,
+      "size": 3054316,
+      "uploadedDate": "2021-08-11T14:29:52.000Z",
+      "alt": "Blazing Beaks Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c3c51fbc858f498caba7adf760f81792/download-blazing-beaks-offer-1uyvc.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 2210213,
+      "uploadedDate": "2021-08-11T14:33:16.650Z",
+      "alt": "Download Blazing Beaks Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a63ab7da00fe46ecb7714998234c14a0",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-14T13:12:57.258Z",
+  "lastModifiedDate": "2021-09-14T13:12:57.258Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "productGeneration": {
+      "type": "STRING",
+      "value": "SPT"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BlazingBeaks"
+    }
+  },
+  "entitlementName": "6e6aad3902da4a0ebf9ee6bc411e3d68",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7d647e20511943d6aee4e7a836a857b6",
+      "appId": "228544dc1abd44389b34ca002da1b2a5",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "UAB Applava",
+  "developerId": "o-2v23nda68abw5g3hqjk9d2w7qt6ytq",
+  "eulaIds": [],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
