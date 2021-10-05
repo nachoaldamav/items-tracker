@@ -1,7 +1,7 @@
 {
   "id": "fbd7b395d7d64b9882f447e751dfe598",
-  "title": "Fluorine",
-  "description": "Fluorine",
+  "title": "Back 4 Blood",
+  "description": "Back 4 Blood",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -36,7 +36,7 @@
   "namespace": "57dfd95548214a138218e56cd9e5b9d8",
   "status": "ACTIVE",
   "creationDate": "2020-11-20T19:27:03.020Z",
-  "lastModifiedDate": "2021-04-13T15:22:04.776Z",
+  "lastModifiedDate": "2021-10-05T18:13:47.368Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -49,6 +49,10 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Back4Blood/Epic/Saved/SaveGames/"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -68,7 +72,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Fluorine"
+      "value": "Back4Blood"
     }
   },
   "entitlementName": "fbd7b395d7d64b9882f447e751dfe598",
@@ -89,6 +93,7 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
   "applicationId": "fghi4567h8WSc3J5M7M2nfWFiZhZCspV",
