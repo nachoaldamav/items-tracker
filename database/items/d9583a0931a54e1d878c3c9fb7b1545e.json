@@ -1,0 +1,34 @@
+{
+  "id": "d9583a0931a54e1d878c3c9fb7b1545e",
+  "title": "InchwormGeneralAudience",
+  "description": "InchwormGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "d12ae11a83c746c290e006a73438840f",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-23T20:07:31.011Z",
+  "lastModifiedDate": "2021-10-07T05:20:14.944Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d9583a0931a54e1d878c3c9fb7b1545e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "SURT",
+  "developerId": "o-2dpr2h7e785hjnrxtm5w7wymqhwfga",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "cca83b7dc31a45e2986504fb73bbfcad",
+  "title": "DevInchwormAudience",
+  "description": "DevInchwormAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "d12ae11a83c746c290e006a73438840f",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-23T20:07:30.552Z",
+  "lastModifiedDate": "2021-10-07T05:20:14.942Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "cca83b7dc31a45e2986504fb73bbfcad",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "SURT",
+  "developerId": "o-2dpr2h7e785hjnrxtm5w7wymqhwfga",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

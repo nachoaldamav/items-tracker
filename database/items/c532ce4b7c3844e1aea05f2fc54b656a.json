@@ -1,0 +1,55 @@
+{
+  "id": "c532ce4b7c3844e1aea05f2fc54b656a",
+  "title": "InchwormStaging",
+  "description": "InchwormStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d12ae11a83c746c290e006a73438840f",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-23T20:07:32.370Z",
+  "lastModifiedDate": "2021-09-23T20:11:30.975Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "InchwormStaging"
+    }
+  },
+  "entitlementName": "c532ce4b7c3844e1aea05f2fc54b656a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d28025a2ef064051a0ad8901bddd0b89",
+      "appId": "54a434c59c3341d482427472ad1d7ba8",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-09-23T20:10:37.389Z"
+    }
+  ],
+  "developer": "SURT",
+  "developerId": "o-2dpr2h7e785hjnrxtm5w7wymqhwfga",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
