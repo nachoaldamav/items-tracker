@@ -1,0 +1,70 @@
+{
+  "id": "395ba22c2358408080564f5ba5ce3146",
+  "title": "Godstrike",
+  "description": "Godstrike",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/21532dafb6b742dc865677763683b748/godstrike-offer-yw2xs.jpg",
+      "md5": "befe7dd6e4a61248fea142a68c5f8769",
+      "width": 2560,
+      "height": 1440,
+      "size": 908172,
+      "uploadedDate": "2021-08-31T19:50:17.444Z",
+      "alt": "Godstrike Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/21532dafb6b742dc865677763683b748/download-godstrike-offer-1fgtk.jpg",
+      "md5": "5df2f7e87d9bdf7b18d838a9594d9e8b",
+      "width": 1200,
+      "height": 1600,
+      "size": 454082,
+      "uploadedDate": "2021-08-31T19:50:17.636Z",
+      "alt": "Download Godstrike Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5b93ba7d580342d3ab19d28da40bc852",
+  "status": "ACTIVE",
+  "creationDate": "2021-10-05T20:33:26.217Z",
+  "lastModifiedDate": "2021-10-05T20:33:26.217Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Cloud/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Godstrike"
+    }
+  },
+  "entitlementName": "395ba22c2358408080564f5ba5ce3146",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "17e2aee8d5ed4dfb86d3541e86a3db2a",
+      "appId": "4d69b7a049c64472af57fcd7d5c46309",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Freedom Games",
+  "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+  "eulaIds": [],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
