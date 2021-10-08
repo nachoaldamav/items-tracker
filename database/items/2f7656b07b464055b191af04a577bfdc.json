@@ -33,7 +33,7 @@
   "namespace": "iris",
   "status": "ACTIVE",
   "creationDate": "2019-11-12T20:04:51.498Z",
-  "lastModifiedDate": "2021-10-01T16:57:49.878Z",
+  "lastModifiedDate": "2021-10-07T23:56:11.130Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -49,11 +49,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "708caa2f0cb84291ad32fa2432d76dc4",
+      "id": "ba46204c415843a7b9601d93caee8f23",
       "appId": "IrisDLC4",
       "compatibleApps": [],
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "dateAdded": "2019-11-12T00:00:00.000Z",
       "releaseNote": "",
