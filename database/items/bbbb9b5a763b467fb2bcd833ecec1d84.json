@@ -1,0 +1,56 @@
+{
+  "id": "bbbb9b5a763b467fb2bcd833ecec1d84",
+  "title": "KlawockStaging",
+  "description": "KlawockStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "44f0df6169284f7fa6d0cddadb3e0ff9",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-23T21:33:57.489Z",
+  "lastModifiedDate": "2021-10-13T22:49:04.238Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KlawockStaging"
+    }
+  },
+  "entitlementName": "bbbb9b5a763b467fb2bcd833ecec1d84",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8022549d26ea4bb59611ae514631c6bf",
+      "appId": "681bfa33dace41e08c3675e814a23d1b",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-09-23T21:43:09.825Z"
+    }
+  ],
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
