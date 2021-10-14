@@ -1,0 +1,69 @@
+{
+  "id": "54f38a31a0ce4a7ebecedbb157876f7d",
+  "title": "The Alien Cube",
+  "description": "The Alien Cube",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/99df7fc975d14b08a38bab63f5e497e1/the-alien-cube-offer-194fv.jpg",
+      "md5": "f7e5390c7d3069612cd2c5d32bc28042",
+      "width": 2560,
+      "height": 1440,
+      "size": 1060777,
+      "uploadedDate": "2021-10-12T08:06:59.059Z",
+      "alt": "The Alien Cube Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/99df7fc975d14b08a38bab63f5e497e1/download-the-alien-cube-offer-1jlqq.jpg",
+      "md5": "522e74edfcdca4dfef5bc44903195c82",
+      "width": 1200,
+      "height": 1600,
+      "size": 503572,
+      "uploadedDate": "2021-10-12T11:45:04.766Z",
+      "alt": "Download The Alien Cube Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ea4755484f8641a4a540c227bb62f02d",
+  "status": "ACTIVE",
+  "creationDate": "2021-10-14T07:58:33.788Z",
+  "lastModifiedDate": "2021-10-14T07:58:33.788Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheAlienCube"
+    }
+  },
+  "entitlementName": "54f38a31a0ce4a7ebecedbb157876f7d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0f4c923ee6e546349db4564141248887",
+      "appId": "1eb58b3ac88c40519cde2527e85ad2ea",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Alessandro Guzzo Organization",
+  "developerId": "o-9rjv952axbevlpcy8xuyunjyhtpkva",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
