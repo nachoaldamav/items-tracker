@@ -1,0 +1,87 @@
+{
+  "id": "11a9b813a8114dd6bec486e5c9efac22",
+  "title": "JARS",
+  "description": "JARS",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa4e814e8db94167a3ca35871c75c846/download-jars-offer-qz1z6.jpg",
+      "md5": "aea5019a712e934e9602c6e17d327c71",
+      "width": 1200,
+      "height": 1600,
+      "size": 536245,
+      "uploadedDate": "2021-10-13T13:56:48.033Z",
+      "alt": "Download JARS Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa4e814e8db94167a3ca35871c75c846/jars-offer-12b28.jpg",
+      "md5": "5e26f9a960a85e76965f178352f7f8a8",
+      "width": 2560,
+      "height": 1440,
+      "size": 762363,
+      "uploadedDate": "2021-10-13T13:59:21.384Z",
+      "alt": "JARS Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9b89b68d8751414db0991007bdc4766c",
+  "status": "ACTIVE",
+  "creationDate": "2021-10-18T09:27:54.556Z",
+  "lastModifiedDate": "2021-10-18T09:27:54.556Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Daedalic Entertainment GmbH/Jars/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Daedalic Entertainment GmbH/Jars/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "GAMESAVE.json"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "JARS"
+    }
+  },
+  "entitlementName": "11a9b813a8114dd6bec486e5c9efac22",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7f735ce1e6064b6b966d472088dcccac",
+      "appId": "539d93f50a874754b7f1e50344cabea3",
+      "platform": [
+        "Windows",
+        "Win32",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
