@@ -1,7 +1,27 @@
 {
   "id": "902d82c222c84fcbb596bad00e2619dd",
-  "title": "CocoaBrown",
-  "description": "CocoaBrown",
+  "title": "War Mongrels",
+  "description": "War Mongrels",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WarMongrels_DestructiveCreations_S2_1200x1600-ffb2a21fcca3df119bf52e91b885ca86",
+      "md5": "ffb2a21fcca3df119bf52e91b885ca86",
+      "width": 1200,
+      "height": 1600,
+      "size": 480893,
+      "uploadedDate": "2021-10-19T15:10:16.230Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WarMongrels_DestructiveCreations_S1_2560x1440-25e9aa5566f2f4a809a354f144ea2a46",
+      "md5": "25e9aa5566f2f4a809a354f144ea2a46",
+      "width": 2560,
+      "height": 1440,
+      "size": 1004815,
+      "uploadedDate": "2021-10-19T15:10:28.258Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,7 +36,7 @@
   "namespace": "7b57136ac766477eb1e687dcd0310da5",
   "status": "ACTIVE",
   "creationDate": "2021-05-13T22:47:59.760Z",
-  "lastModifiedDate": "2021-08-13T09:06:02.543Z",
+  "lastModifiedDate": "2021-10-19T15:10:42.512Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,7 +64,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "CocoaBrown"
+      "value": "WarMongrels"
     }
   },
   "entitlementName": "902d82c222c84fcbb596bad00e2619dd",
