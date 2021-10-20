@@ -35,7 +35,7 @@
   "namespace": "poodle",
   "status": "ACTIVE",
   "creationDate": "2021-10-04T17:16:53.027Z",
-  "lastModifiedDate": "2021-10-13T19:16:05.587Z",
+  "lastModifiedDate": "2021-10-20T13:27:04.465Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -73,7 +73,18 @@
   "entitlementName": "TwinmotionTrial2022.1",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
-  "releaseInfo": [],
+  "releaseInfo": [
+    {
+      "id": "7d2102f7c9f84a2f9db3e795bd2c2d8a",
+      "appId": "059cfc0cdb0f412397c7faddfc7e4e9c",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-10-20T13:26:52.710Z"
+    }
+  ],
   "developer": "Epic Games",
   "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
   "eulaIds": [

@@ -35,7 +35,7 @@
   "namespace": "poodle",
   "status": "ACTIVE",
   "creationDate": "2021-10-04T17:16:34.939Z",
-  "lastModifiedDate": "2021-10-13T19:15:17.986Z",
+  "lastModifiedDate": "2021-10-20T13:27:55.670Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -73,7 +73,18 @@
   "entitlementName": "TwinmotionEDU2022.1",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
-  "releaseInfo": [],
+  "releaseInfo": [
+    {
+      "id": "c4f40a24ae2c404681f716f56f3b34bb",
+      "appId": "e4a50430e07c4cafb4efc4e9ac0964c5",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-10-20T13:27:29.599Z"
+    }
+  ],
   "developer": "Epic Games",
   "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
   "eulaIds": [
