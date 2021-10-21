@@ -13,7 +13,7 @@
   "namespace": "1886704a76f94324ab964a4698db3e09",
   "status": "ACTIVE",
   "creationDate": "2020-03-05T14:05:09.754Z",
-  "lastModifiedDate": "2020-06-13T19:09:15.739Z",
+  "lastModifiedDate": "2021-10-21T13:12:36.361Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,11 +23,15 @@
   "entitlementName": "eff6359b471b4c55b3ea885324ec69c7",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "FJRD Interactive",
   "developerId": "o-6yyj9c6thav5wux5twnueant84zs3p",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
