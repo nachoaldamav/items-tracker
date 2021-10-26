@@ -33,7 +33,7 @@
   "namespace": "crab",
   "status": "ACTIVE",
   "creationDate": "2019-04-03T20:31:28.361Z",
-  "lastModifiedDate": "2021-04-07T18:32:42.677Z",
+  "lastModifiedDate": "2021-10-26T00:29:08.424Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -92,13 +92,15 @@
       "versionTitle": ""
     }
   ],
-  "developer": "Coffee Stain Studios",
+  "developer": "Coffee Stain Publishing",
   "developerId": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
