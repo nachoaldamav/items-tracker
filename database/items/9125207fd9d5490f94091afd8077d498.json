@@ -36,7 +36,7 @@
   "namespace": "83d6990f16444655866b04be562bf589",
   "status": "ACTIVE",
   "creationDate": "2020-08-31T18:21:21.281Z",
-  "lastModifiedDate": "2021-10-15T04:19:01.284Z",
+  "lastModifiedDate": "2021-10-27T19:54:33.697Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -46,9 +46,13 @@
       "type": "STRING",
       "value": "83d6990f16444655866b04be562bf589"
     },
-    "MonitorPresence": {
+    "NeverUpdate": {
       "type": "STRING",
       "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -56,7 +60,7 @@
     },
     "releaseDate": {
       "type": "STRING",
-      "value": "1635393600"
+      "value": "1614265200"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -77,10 +81,6 @@
     "FolderName": {
       "type": "STRING",
       "value": "RidersRepublic"
-    },
-    "neverUpdate": {
-      "type": "STRING",
-      "value": "true"
     }
   },
   "entitlementName": "9125207fd9d5490f94091afd8077d498",
