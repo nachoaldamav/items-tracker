@@ -14,7 +14,7 @@
   "namespace": "bec57b5341ad4294b005a7dd18691419",
   "status": "ACTIVE",
   "creationDate": "2019-06-14T18:13:11.165Z",
-  "lastModifiedDate": "2020-01-06T21:14:12.734Z",
+  "lastModifiedDate": "2021-10-28T17:42:32.544Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -24,12 +24,16 @@
   "entitlementName": "1fe4071bc2ae4a2fa957af651d77720d",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Versus Evil",
   "developerId": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }

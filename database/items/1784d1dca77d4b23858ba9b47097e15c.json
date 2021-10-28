@@ -1,0 +1,69 @@
+{
+  "id": "1784d1dca77d4b23858ba9b47097e15c",
+  "title": "Through the Woods",
+  "description": "Through the Woods",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c93463df2c994f1385005c3ce5e60a26/through-the-woods-offer-yn6hb.jpg",
+      "md5": "976380b8227d2b6b7baa9a746729302c",
+      "width": 2560,
+      "height": 1440,
+      "size": 756761,
+      "uploadedDate": "2021-10-13T14:35:41.835Z",
+      "alt": "Through the Woods Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c93463df2c994f1385005c3ce5e60a26/download-through-the-woods-offer-wppx7.jpg",
+      "md5": "2fbcc1d8a72202280713c04ea4b11bae",
+      "width": 1200,
+      "height": 1600,
+      "size": 760804,
+      "uploadedDate": "2021-10-13T14:35:42.120Z",
+      "alt": "Download Through the Woods Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6583533b1cb942238a213a29a2b80624",
+  "status": "ACTIVE",
+  "creationDate": "2021-10-21T15:11:07.928Z",
+  "lastModifiedDate": "2021-10-21T15:11:07.928Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ThroughtheWoodsPezZn"
+    }
+  },
+  "entitlementName": "1784d1dca77d4b23858ba9b47097e15c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "03fe10e74c764bff85f2a9648bf6bc81",
+      "appId": "a47c0a14c3254748b3ea02008cebecf5",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "1C Online Games Ltd",
+  "developerId": "o-n4d8bf5e8fnr4kujuut9j6v4d29muc",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
