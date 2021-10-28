@@ -1,0 +1,73 @@
+{
+  "id": "0de42c949e2942278c5536f23f6e67c8",
+  "title": "Saint Kotar",
+  "description": "Saint Kotar",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d2b29f4dece64c7497fb9229f7207cb2/download-saint-kotar-offer-177ut.jpg",
+      "md5": "97c6965f8f8c158dae5bfbffa00ba9b7",
+      "width": 1200,
+      "height": 1600,
+      "size": 139800,
+      "uploadedDate": "2021-10-20T09:54:55.632Z",
+      "alt": "Download Saint Kotar Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d2b29f4dece64c7497fb9229f7207cb2/saint-kotar-offer-ct1lw.jpg",
+      "md5": "365a7fd130ecc8651d19dd1c92bfc95d",
+      "width": 2560,
+      "height": 1440,
+      "size": 214643,
+      "uploadedDate": "2021-10-20T09:54:55.828Z",
+      "alt": "Saint Kotar Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "08900611756a442ab81750df9deacd77",
+  "status": "ACTIVE",
+  "creationDate": "2021-10-28T07:10:11.152Z",
+  "lastModifiedDate": "2021-10-28T07:10:11.152Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Red Martyr/Saint Kotar/Saves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SaintKotaryGQAM"
+    }
+  },
+  "entitlementName": "0de42c949e2942278c5536f23f6e67c8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "597d16efc2044b2e870f434b46dcc933",
+      "appId": "37719d82d629486996df634dd02844d0",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SOEDESCO",
+  "developerId": "o-9uf2bsrkptwqbkpy867grcbj5jxrta",
+  "endOfSupport": false,
+  "applicationId": "fghi4567oJ5JLjjlVVUWoiSpAGxtlh3j",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
