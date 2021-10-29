@@ -1,0 +1,72 @@
+{
+  "id": "2ef160f1fc5b4055a7b744cab70da76a",
+  "title": "Basingstoke",
+  "description": "Basingstoke",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3f65f6bde9da417f88208c90bb97a6a6/download-basingstoke-offer-1gnao.jpg",
+      "md5": "3c49401d4dcdc9d73a371cb5777ae721",
+      "width": 1200,
+      "height": 1600,
+      "size": 214973,
+      "uploadedDate": "2021-10-27T11:01:12.202Z",
+      "alt": "Download Basingstoke Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3f65f6bde9da417f88208c90bb97a6a6/basingstoke-offer-13vn0.jpg",
+      "md5": "582e745c7c1aef68ecdd987b9d25c389",
+      "width": 2560,
+      "height": 1440,
+      "size": 359183,
+      "uploadedDate": "2021-10-27T11:01:25.265Z",
+      "alt": "Basingstoke Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5bbeacb9481f4200965e10ac9eaf267d",
+  "status": "ACTIVE",
+  "creationDate": "2021-10-29T19:41:39.445Z",
+  "lastModifiedDate": "2021-10-29T19:41:39.445Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Basingstokex4iXY"
+    }
+  },
+  "entitlementName": "2ef160f1fc5b4055a7b744cab70da76a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7fc9269fcb344ba5a9042715bdcbcda1",
+      "appId": "499e95e369bb4ba3a0d32256f0675f9a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Shaven Puppy Ltd",
+  "developerId": "o-k3grcp82k8tsv92ssellel58dvrda4",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
