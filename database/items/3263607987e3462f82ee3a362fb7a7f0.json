@@ -1,7 +1,7 @@
 {
   "id": "3263607987e3462f82ee3a362fb7a7f0",
-  "title": "Chivalry 2 - Koch",
-  "description": "Chivalry 2 - Koch",
+  "title": "Chivalry 2 - Trunk",
+  "description": "Chivalry 2 - Trunk",
   "keyImages": [
     {
       "type": "DieselGameBoxTall",
@@ -36,7 +36,7 @@
   "namespace": "bd46d4ce259349e5bd8b3ded20274737",
   "status": "ACTIVE",
   "creationDate": "2020-07-30T19:32:28.274Z",
-  "lastModifiedDate": "2021-04-19T03:25:49.674Z",
+  "lastModifiedDate": "2021-10-29T15:26:03.983Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,7 +44,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Chivalry2Koch"
+      "value": "Chivalry2Trunk"
     }
   },
   "entitlementName": "3263607987e3462f82ee3a362fb7a7f0",
@@ -65,7 +65,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

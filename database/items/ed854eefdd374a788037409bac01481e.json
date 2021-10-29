@@ -1,7 +1,7 @@
 {
   "id": "ed854eefdd374a788037409bac01481e",
-  "title": "Chivalry 2 - Testing",
-  "description": "Chivalry 2 - Testing",
+  "title": "Chivalry 2 - Unstable",
+  "description": "Chivalry 2 - Unstable",
   "keyImages": [
     {
       "type": "DieselGameBoxTall",
@@ -36,7 +36,7 @@
   "namespace": "bd46d4ce259349e5bd8b3ded20274737",
   "status": "ACTIVE",
   "creationDate": "2020-03-20T20:22:01.637Z",
-  "lastModifiedDate": "2021-02-11T19:19:39.032Z",
+  "lastModifiedDate": "2021-10-29T15:31:08.542Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,7 +44,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Chivalry2Testing"
+      "value": "Chivalry2Unstable"
     }
   },
   "entitlementName": "ed854eefdd374a788037409bac01481e",
@@ -65,6 +65,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

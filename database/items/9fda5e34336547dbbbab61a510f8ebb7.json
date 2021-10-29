@@ -1,7 +1,7 @@
 {
   "id": "9fda5e34336547dbbbab61a510f8ebb7",
-  "title": "Chivalry 2 - BetaStaging",
-  "description": "Chivalry 2 - BetaStaging",
+  "title": "Chivalry 2 - FilmingDev",
+  "description": "Chivalry 2 - FilmingDev",
   "keyImages": [
     {
       "type": "DieselGameBoxTall",
@@ -36,7 +36,7 @@
   "namespace": "bd46d4ce259349e5bd8b3ded20274737",
   "status": "ACTIVE",
   "creationDate": "2020-07-30T19:13:48.339Z",
-  "lastModifiedDate": "2021-02-11T19:19:39.018Z",
+  "lastModifiedDate": "2021-10-29T15:20:16.250Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,7 +44,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Chivalry2BetaStaging"
+      "value": "Chivalry2FilmingDev"
     }
   },
   "entitlementName": "9fda5e34336547dbbbab61a510f8ebb7",
@@ -65,7 +65,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

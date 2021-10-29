@@ -1,7 +1,7 @@
 {
   "id": "cccd6bb3839b45e68ecf5c81eeec686b",
-  "title": "Chivalry 2 - LiveStaging",
-  "description": "Chivalry 2 - LiveStaging",
+  "title": "Chivalry 2 - LiveDev",
+  "description": "Chivalry 2 - LiveDev",
   "keyImages": [
     {
       "type": "DieselGameBoxTall",
@@ -36,7 +36,7 @@
   "namespace": "bd46d4ce259349e5bd8b3ded20274737",
   "status": "ACTIVE",
   "creationDate": "2020-07-30T19:07:59.662Z",
-  "lastModifiedDate": "2021-02-11T19:19:39.032Z",
+  "lastModifiedDate": "2021-10-29T15:18:47.939Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,7 +44,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Chivalry2LiveStaging"
+      "value": "Chivalry2LiveDev"
     }
   },
   "entitlementName": "cccd6bb3839b45e68ecf5c81eeec686b",
@@ -65,7 +65,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

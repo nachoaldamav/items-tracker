@@ -1,7 +1,7 @@
 {
   "id": "28b94f4e705741de9b0aa5b266c4c0fc",
-  "title": "Chivalry 2 - DemoStaging",
-  "description": "Chivalry 2 - DemoStaging",
+  "title": "Chivalry 2 - CreatorDev",
+  "description": "Chivalry 2 - CreatorDev",
   "keyImages": [
     {
       "type": "DieselGameBoxTall",
@@ -36,7 +36,7 @@
   "namespace": "bd46d4ce259349e5bd8b3ded20274737",
   "status": "ACTIVE",
   "creationDate": "2020-07-30T19:22:20.342Z",
-  "lastModifiedDate": "2021-02-11T19:19:39.018Z",
+  "lastModifiedDate": "2021-10-29T15:25:20.437Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,7 +44,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Chivalry2DemoStaging"
+      "value": "Chivalry2CreatorDev"
     }
   },
   "entitlementName": "28b94f4e705741de9b0aa5b266c4c0fc",
@@ -65,7 +65,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

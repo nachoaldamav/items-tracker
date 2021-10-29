@@ -1,7 +1,7 @@
 {
   "id": "fea75e8012414775bc4634524ec1172d",
-  "title": "PeppermintStaging",
-  "description": "PeppermintStaging",
+  "title": "Chivalry 2 - UnstableDev",
+  "description": "Chivalry 2 - UnstableDev",
   "keyImages": [
     {
       "type": "DieselGameBoxTall",
@@ -36,7 +36,7 @@
   "namespace": "bd46d4ce259349e5bd8b3ded20274737",
   "status": "ACTIVE",
   "creationDate": "2019-06-04T08:53:38.626Z",
-  "lastModifiedDate": "2021-02-11T19:19:39.032Z",
+  "lastModifiedDate": "2021-10-29T15:32:03.286Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,7 +44,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "PeppermintStaging"
+      "value": "Chivalry2UnstableDev"
     }
   },
   "entitlementName": "fea75e8012414775bc4634524ec1172d",
@@ -65,6 +65,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

@@ -1,7 +1,7 @@
 {
   "id": "c751712d3f8c457fa7c414799c2699ec",
-  "title": "Chivalry 2 - Demo Event",
-  "description": "Chivalry 2 - Demo Event",
+  "title": "Chivalry 2 - Playtest",
+  "description": "Chivalry 2 - Playtest",
   "keyImages": [
     {
       "type": "DieselGameBoxTall",
@@ -36,7 +36,7 @@
   "namespace": "bd46d4ce259349e5bd8b3ded20274737",
   "status": "ACTIVE",
   "creationDate": "2020-07-30T19:18:56.493Z",
-  "lastModifiedDate": "2021-03-24T00:58:52.357Z",
+  "lastModifiedDate": "2021-10-29T15:22:40.253Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,7 +44,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Chivalry2DemoEvent"
+      "value": "Chivalry2Playtest"
     }
   },
   "entitlementName": "c751712d3f8c457fa7c414799c2699ec",
@@ -65,7 +65,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

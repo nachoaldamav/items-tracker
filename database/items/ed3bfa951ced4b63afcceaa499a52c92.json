@@ -1,7 +1,7 @@
 {
   "id": "ed3bfa951ced4b63afcceaa499a52c92",
-  "title": "Chivalry 2 - CertStaging",
-  "description": "Chivalry 2 - CertStaging",
+  "title": "Chivalry 2 - CertDev",
+  "description": "Chivalry 2 - CertDev",
   "keyImages": [
     {
       "type": "DieselGameBoxTall",
@@ -36,7 +36,7 @@
   "namespace": "bd46d4ce259349e5bd8b3ded20274737",
   "status": "ACTIVE",
   "creationDate": "2020-07-30T19:29:30.342Z",
-  "lastModifiedDate": "2021-02-11T19:19:39.032Z",
+  "lastModifiedDate": "2021-10-29T15:21:03.703Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,7 +44,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Chivalry2CertStaging"
+      "value": "Chivalry2CertDev"
     }
   },
   "entitlementName": "ed3bfa951ced4b63afcceaa499a52c92",
@@ -65,7 +65,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
