@@ -13,7 +13,7 @@
   "namespace": "2a5eb81d6f384099a5259413ee22baa4",
   "status": "ACTIVE",
   "creationDate": "2020-06-12T15:06:13.296Z",
-  "lastModifiedDate": "2021-02-24T00:43:49.156Z",
+  "lastModifiedDate": "2021-11-01T16:37:27.936Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +23,15 @@
   "entitlementName": "ced48fe3aa3743b5b1826c9b43faa04d",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Distant Signal Limited",
   "developerId": "o-xqs37sebjm7zdvdm9je2c4lj3ctnsr",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
