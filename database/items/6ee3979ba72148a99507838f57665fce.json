@@ -16,11 +16,15 @@
   "namespace": "d74efb08c7f449928fcdfdba1dcbda48",
   "status": "ACTIVE",
   "creationDate": "2021-04-21T21:40:26.697Z",
-  "lastModifiedDate": "2021-04-27T14:42:29.284Z",
+  "lastModifiedDate": "2021-11-01T18:16:30.249Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Save"
     },
     "FolderName": {
       "type": "STRING",
