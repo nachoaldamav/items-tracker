@@ -36,7 +36,7 @@
   "namespace": "78683b0edafd4a978a5ab61a7f6b0594",
   "status": "ACTIVE",
   "creationDate": "2021-02-02T23:01:48.181Z",
-  "lastModifiedDate": "2021-10-29T17:53:34.630Z",
+  "lastModifiedDate": "2021-11-02T16:24:34.898Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -49,6 +49,10 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Leap Game Studios/Tunche_EGS/Tunche_SaveSlot_1/"
     },
     "UseAccessControl": {
       "type": "STRING",
