@@ -1,0 +1,77 @@
+{
+  "id": "04d8c50d5f8c42e0bd4bd84c653bd538",
+  "title": "Conway Disappearance",
+  "description": "Conway Disappearance",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/05f399f751f94b669f6249762db8b460/conway--disappearance-at-dahlia-view-offer-1twbk.png",
+      "md5": "54632418e4577fac4bd66b1ef20cf1dc",
+      "width": 2560,
+      "height": 1440,
+      "size": 312940,
+      "uploadedDate": "2021-10-21T08:42:10.400Z",
+      "alt": "Conway - Disappearance at Dahlia View Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/05f399f751f94b669f6249762db8b460/download-conway--disappearance-at-dahlia-view-offer-owcnc.png",
+      "md5": "114c126c340481cf06b1997d02255748",
+      "width": 1200,
+      "height": 1600,
+      "size": 542725,
+      "uploadedDate": "2021-10-21T08:42:10.651Z",
+      "alt": "Download Conway - Disappearance at Dahlia View Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "329ecb6186a14fdab79d72d8e4aaebd3",
+  "status": "ACTIVE",
+  "creationDate": "2021-10-07T21:35:46.328Z",
+  "lastModifiedDate": "2021-11-01T17:52:47.101Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/DahliaView/Saved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "27"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DahliaView"
+    }
+  },
+  "entitlementName": "04d8c50d5f8c42e0bd4bd84c653bd538",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ee52f49e43fa4e7a97c2447f97b5b58a",
+      "appId": "d8f26435a14e4c1ba7b36f139b79470a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Sold Out",
+  "developerId": "o-gcm88kddcs2t3gtypyq9tvlx64bzyw",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
