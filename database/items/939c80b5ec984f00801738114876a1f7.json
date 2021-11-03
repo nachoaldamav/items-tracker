@@ -1,0 +1,84 @@
+{
+  "id": "939c80b5ec984f00801738114876a1f7",
+  "title": "Tchia",
+  "description": "Tchia",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/2e09c1d223094f3798f63873548c9454/EGS_Tchia_Awaceb_S2_1200x1600-0b6219d195341483aa1842847cea8b6e",
+      "md5": "0b6219d195341483aa1842847cea8b6e",
+      "width": 1200,
+      "height": 1600,
+      "size": 778287,
+      "uploadedDate": "2021-11-01T22:38:14.643Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2e09c1d223094f3798f63873548c9454",
+  "status": "ACTIVE",
+  "creationDate": "2021-05-14T00:34:34.235Z",
+  "lastModifiedDate": "2021-11-03T15:05:03.602Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "2e09c1d223094f3798f63873548c9454"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Tchia"
+    }
+  },
+  "entitlementName": "939c80b5ec984f00801738114876a1f7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9987fb3597e54dfdbbf8498e7db06176",
+      "appId": "61e7ce0b48884dcda34c944f965a1bae",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Awaceb",
+  "developerId": "o-b9a47j63amncr26matvdcdbp9uhpve",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
