@@ -16,11 +16,15 @@
   "namespace": "699c2dc3694c4156befa26cad5c65505",
   "status": "ACTIVE",
   "creationDate": "2020-05-08T16:42:28.966Z",
-  "lastModifiedDate": "2021-10-20T03:58:02.311Z",
+  "lastModifiedDate": "2021-11-04T20:23:07.641Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/SH9/Saved/SaveGames"
     },
     "FolderName": {
       "type": "STRING",
