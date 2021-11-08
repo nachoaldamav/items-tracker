@@ -36,7 +36,7 @@
   "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
   "status": "ACTIVE",
   "creationDate": "2020-02-04T22:47:39.940Z",
-  "lastModifiedDate": "2021-11-04T16:37:12.940Z",
+  "lastModifiedDate": "2021-11-08T16:58:36.359Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -45,10 +45,6 @@
     "PresenceId": {
       "type": "STRING",
       "value": "2dbd2f64abdc4bbab077424d5c85e01b"
-    },
-    "NeverUpdate": {
-      "type": "STRING",
-      "value": "true"
     },
     "MonitorPresence": {
       "type": "STRING",
@@ -66,14 +62,6 @@
       "type": "STRING",
       "value": "true"
     },
-    "partnerLinkId": {
-      "type": "STRING",
-      "value": "8ae2b33774a24799b2a3e3ba725a97c8"
-    },
-    "partnerLinkType": {
-      "type": "STRING",
-      "value": "ubisoft"
-    },
     "FolderName": {
       "type": "STRING",
       "value": "BreakpointFreeTrial"
@@ -82,16 +70,7 @@
   "entitlementName": "41cb1afc8ffd4e52b0f19d6fe52b058c",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
-  "releaseInfo": [
-    {
-      "id": "711f95fddf994cd398792c552af76b52",
-      "appId": "c8c02f76c8674552930181b17f18ca89",
-      "platform": [
-        "Windows"
-      ],
-      "dateAdded": "2019-08-29T00:00:00.000Z"
-    }
-  ],
+  "releaseInfo": [],
   "developer": "Ubisoft Entertainment",
   "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
   "eulaIds": [
