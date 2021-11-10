@@ -24,7 +24,7 @@
   "namespace": "calluna",
   "status": "ACTIVE",
   "creationDate": "2020-03-11T23:58:06.221Z",
-  "lastModifiedDate": "2020-03-12T00:47:39.853Z",
+  "lastModifiedDate": "2020-09-09T23:58:42.026Z",
   "entitlementName": "2c7975f9973c447492ada59fc971f0c8",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
@@ -35,5 +35,6 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "unsearchable": false
+  "ageGatings": {},
+  "unsearchable": true
 }

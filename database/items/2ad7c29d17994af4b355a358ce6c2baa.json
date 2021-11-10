@@ -24,16 +24,23 @@
   "namespace": "calluna",
   "status": "ACTIVE",
   "creationDate": "2019-12-11T18:42:24.298Z",
-  "lastModifiedDate": "2019-12-11T18:42:42.348Z",
+  "lastModifiedDate": "2020-08-27T14:49:37.702Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
   "entitlementName": "2ad7c29d17994af4b355a358ce6c2baa",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
-  "developer": "505 Games S.r.l.",
+  "developer": "505 Games",
   "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
-  "unsearchable": false
+  "ageGatings": {},
+  "unsearchable": true
 }
