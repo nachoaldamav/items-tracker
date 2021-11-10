@@ -16,7 +16,7 @@
   "namespace": "93eeeab14a3d45b8bf5586a900137733",
   "status": "ACTIVE",
   "creationDate": "2021-05-12T23:22:22.906Z",
-  "lastModifiedDate": "2021-11-09T04:56:48.747Z",
+  "lastModifiedDate": "2021-11-10T18:09:27.546Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -28,7 +28,7 @@
     },
     "CloudExcludeList": {
       "type": "STRING",
-      "value": "Player.log,Player-prev.log"
+      "value": "Player.log,Player-prev.log,DevSaves/*"
     },
     "FolderName": {
       "type": "STRING",
