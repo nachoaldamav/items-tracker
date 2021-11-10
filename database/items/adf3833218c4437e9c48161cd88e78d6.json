@@ -13,7 +13,7 @@
   "namespace": "0610384879594dd0b42c73e2d8af88ae",
   "status": "ACTIVE",
   "creationDate": "2020-11-11T16:26:21.058Z",
-  "lastModifiedDate": "2021-06-10T21:31:20.943Z",
+  "lastModifiedDate": "2021-11-10T22:40:26.901Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +23,16 @@
   "entitlementName": "adf3833218c4437e9c48161cd88e78d6",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Coatsink",
   "developerId": "o-bhd3mh54edbkdtbzehl9wz6jnfeyea",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
