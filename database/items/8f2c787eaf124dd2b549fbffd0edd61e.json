@@ -16,7 +16,7 @@
   "namespace": "a69c5a82682c43148e4e2542fe2fcd0f",
   "status": "ACTIVE",
   "creationDate": "2020-06-29T15:18:57.387Z",
-  "lastModifiedDate": "2020-06-29T15:24:21.072Z",
+  "lastModifiedDate": "2021-11-10T19:28:28.791Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -60,12 +60,14 @@
       "dateAdded": "2020-06-29T15:19:45.488Z"
     }
   ],
-  "developer": "Riot Games",
+  "developer": "Riot Forge",
   "developerId": "o-ch65axjcvgpsutlhlcyvqkx3fkmk44",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

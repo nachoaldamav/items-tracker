@@ -24,7 +24,7 @@
   "namespace": "a69c5a82682c43148e4e2542fe2fcd0f",
   "status": "ACTIVE",
   "creationDate": "2020-11-20T13:14:13.395Z",
-  "lastModifiedDate": "2020-11-20T13:17:06.792Z",
+  "lastModifiedDate": "2021-11-10T19:27:02.216Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -34,13 +34,16 @@
   "entitlementName": "59e365d8af13487f8b8562ccd050d442",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Riot Forge",
   "developerId": "o-ch65axjcvgpsutlhlcyvqkx3fkmk44",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "esrbGameRatingValue": "TEEN",
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
