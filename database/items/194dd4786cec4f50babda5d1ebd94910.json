@@ -16,11 +16,15 @@
   "namespace": "0610384879594dd0b42c73e2d8af88ae",
   "status": "ACTIVE",
   "creationDate": "2020-11-11T16:26:21.752Z",
-  "lastModifiedDate": "2021-11-10T22:40:26.888Z",
+  "lastModifiedDate": "2021-11-11T16:24:43.869Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Bunnyhug/MoonglowBay{EpicID}/ "
     },
     "FolderName": {
       "type": "STRING",
@@ -45,8 +49,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }

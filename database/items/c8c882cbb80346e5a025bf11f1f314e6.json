@@ -36,7 +36,7 @@
   "namespace": "0610384879594dd0b42c73e2d8af88ae",
   "status": "ACTIVE",
   "creationDate": "2020-11-11T16:26:21.431Z",
-  "lastModifiedDate": "2021-11-10T22:40:26.904Z",
+  "lastModifiedDate": "2021-11-11T16:23:39.562Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -49,10 +49,6 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
-    },
-    "CloudSaveFolder": {
-      "type": "STRING",
-      "value": "{AppData}/../LocalLow/Bunnyhug/MoonglowBay{EpicID}/"
     },
     "UseAccessControl": {
       "type": "STRING",
