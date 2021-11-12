@@ -1,0 +1,77 @@
+{
+  "id": "0f5e89e7c3e2428d9b8861cc942c9209",
+  "title": "ReDrawn - The Painted Tower Collectors Edition",
+  "description": "ReDrawn - The Painted Tower Collectors Edition",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7f9eb6da51f64f49b14850f053252774/download-redrawn--the-painted-tower-collectors-edition-offer-1t27v.jpg",
+      "md5": "ec18beca2b5dabe9698327a93674bed4",
+      "width": 1200,
+      "height": 1600,
+      "size": 578071,
+      "uploadedDate": "2021-10-27T01:34:53.369Z",
+      "alt": "Download ReDrawn - The Painted Tower Collectors Edition Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7f9eb6da51f64f49b14850f053252774/redrawn--the-painted-tower-collectors-edition-offer-1vtfl.jpg",
+      "md5": "9b3e44cde71dfcd56356a58e4f49d1b2",
+      "width": 2560,
+      "height": 1440,
+      "size": 992517,
+      "uploadedDate": "2021-10-27T01:34:53.656Z",
+      "alt": "ReDrawn - The Painted Tower Collectors Edition Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ead2161033144670b1bbc2520700f101",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-12T17:43:21.821Z",
+  "lastModifiedDate": "2021-11-12T17:43:21.821Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/FriendlyFox.Studio/ReDrawn_ThePaintedTower_CE/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ReDrawnThePaintedTower"
+    }
+  },
+  "entitlementName": "0f5e89e7c3e2428d9b8861cc942c9209",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "452be24991c04360a0cff68d2eff4efc",
+      "appId": "803bc9dc07f34461b5789203692c0f5f",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Big Fish Games",
+  "developerId": "o-x7jn89tzwlvyt4mzvxvfg5xhcpyglq",
+  "eulaIds": [],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
