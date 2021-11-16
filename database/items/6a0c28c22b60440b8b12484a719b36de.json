@@ -1,0 +1,69 @@
+{
+  "id": "6a0c28c22b60440b8b12484a719b36de",
+  "title": "Inscryption",
+  "description": "Inscryption",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/709ac59000cd4eb99c3397e7c35b68f1/inscryption-offer-1yp7y.jpg",
+      "md5": "6b3d66673f32a1f1ec9bf505455e6e0b",
+      "width": 2560,
+      "height": 1440,
+      "size": 1271504,
+      "uploadedDate": "2021-10-25T22:19:26.710Z",
+      "alt": "Inscryption Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/709ac59000cd4eb99c3397e7c35b68f1/download-inscryption-offer-sshd0.jpg",
+      "md5": "a05c76b6ca45d385c6d7b58e68a53919",
+      "width": 1200,
+      "height": 1600,
+      "size": 762551,
+      "uploadedDate": "2021-10-25T22:19:44.542Z",
+      "alt": "Download Inscryption Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "78546100323d461dbda0306d6af277e3",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-16T17:57:09.898Z",
+  "lastModifiedDate": "2021-11-16T17:57:09.898Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "InscryptionWkwPQ"
+    }
+  },
+  "entitlementName": "6a0c28c22b60440b8b12484a719b36de",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3a3dbca3cf114d4497964713e016a705",
+      "appId": "bbf6a9443b7a4259bfed44387631ec92",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
