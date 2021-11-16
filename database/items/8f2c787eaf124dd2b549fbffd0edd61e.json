@@ -1,7 +1,27 @@
 {
   "id": "8f2c787eaf124dd2b549fbffd0edd61e",
-  "title": "Emerald",
-  "description": "Emerald",
+  "title": "Ruined King: A League of Legends Story",
+  "description": "Ruined King: A League of Legends Story",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/a69c5a82682c43148e4e2542fe2fcd0f/en_US_Ruined_King_StandardEdition_3840x2160_A_20_0924_3840x2160-55a26c29a038a3f34f6a3d7dfa724b50",
+      "md5": "55a26c29a038a3f34f6a3d7dfa724b50",
+      "width": 3840,
+      "height": 2160,
+      "size": 3340124,
+      "uploadedDate": "2021-11-16T05:19:40.640Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/a69c5a82682c43148e4e2542fe2fcd0f/en_US_Ruined_King_StandardEdition_1440x2160_A_20_0924_1440x2160-30c1f5bc7a3698416d0d20370e3e3dd0",
+      "md5": "30c1f5bc7a3698416d0d20370e3e3dd0",
+      "width": 1440,
+      "height": 2160,
+      "size": 3754368,
+      "uploadedDate": "2021-11-16T05:19:47.521Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,7 +36,7 @@
   "namespace": "a69c5a82682c43148e4e2542fe2fcd0f",
   "status": "ACTIVE",
   "creationDate": "2020-06-29T15:18:57.387Z",
-  "lastModifiedDate": "2021-11-10T19:28:28.791Z",
+  "lastModifiedDate": "2021-11-16T16:09:34.291Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,7 +64,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Emerald"
+      "value": "RuinedKing"
     }
   },
   "entitlementName": "8f2c787eaf124dd2b549fbffd0edd61e",
