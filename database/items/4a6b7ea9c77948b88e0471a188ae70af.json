@@ -1,0 +1,33 @@
+{
+  "id": "4a6b7ea9c77948b88e0471a188ae70af",
+  "title": "DevBluegillAudience",
+  "description": "DevBluegillAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "c7ab6cc723fe4bc6b24237d61b58687b",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-29T16:06:51.330Z",
+  "lastModifiedDate": "2021-11-16T15:56:01.312Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4a6b7ea9c77948b88e0471a188ae70af",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Riot Games",
+  "developerId": "o-ch65axjcvgpsutlhlcyvqkx3fkmk44",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}
