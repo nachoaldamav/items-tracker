@@ -1,7 +1,27 @@
 {
   "id": "87cc65381e6740be807366eb770470d4",
-  "title": "ParisGeneralAudience",
-  "description": "ParisGeneralAudience",
+  "title": "theHunter: Call of the Wild™ Audience",
+  "description": "theHunter: Call of the Wild™ Audience",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_theHunterCalloftheWild_ExpansiveWorlds_S2_1200x1600-1e9b46aaabc33fe0a08cf5b418e76ba2",
+      "md5": "1e9b46aaabc33fe0a08cf5b418e76ba2",
+      "width": 1200,
+      "height": 1600,
+      "size": 321518,
+      "uploadedDate": "2021-10-21T13:11:17.166Z"
+    },
+    {
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_theHunterCalloftheWild_ExpansiveWorlds_S1_2560x1440-69120885e0b3acfb87f34ac0bad68ec6",
+      "md5": "69120885e0b3acfb87f34ac0bad68ec6",
+      "width": 2560,
+      "height": 1440,
+      "size": 578266,
+      "uploadedDate": "2021-10-21T13:11:26.754Z"
+    }
+  ],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +33,7 @@
   "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
   "status": "ACTIVE",
   "creationDate": "2020-06-12T16:57:54.224Z",
-  "lastModifiedDate": "2021-06-03T23:05:28.572Z",
+  "lastModifiedDate": "2021-11-17T18:16:13.848Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
