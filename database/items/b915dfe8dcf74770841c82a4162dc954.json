@@ -14,21 +14,21 @@
     },
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/crab/item/2560x1440_Epic-2560x1440-0137527dd3111a283d843b4a7222d7e2.jpg",
-      "md5": "0137527dd3111a283d843b4a7222d7e2",
+      "url": "https://cdn1.epicgames.com/item/crab/Update5_2560x1440_Epic_2560x1440-46e983ec4097259cb4fd584690ddf54e",
+      "md5": "46e983ec4097259cb4fd584690ddf54e",
       "width": 2560,
       "height": 1440,
-      "size": 523258,
-      "uploadedDate": "2021-04-13T15:54:46.866Z"
+      "size": 4687659,
+      "uploadedDate": "2021-11-23T16:21:29.415Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/crab/item/Satisfactory_Update4_1200x1600-1200x1600-c8facb477c050ca5253ea0fc35552297.png",
-      "md5": "c8facb477c050ca5253ea0fc35552297",
+      "url": "https://cdn1.epicgames.com/item/crab/Update5_1200x1600_Epic_1200x1600-4018f833ca461546350648908c6e4d02",
+      "md5": "4018f833ca461546350648908c6e4d02",
       "width": 1200,
       "height": 1600,
-      "size": 2207446,
-      "uploadedDate": "2021-04-13T15:54:59.294Z"
+      "size": 2038062,
+      "uploadedDate": "2021-11-23T16:21:33.833Z"
     }
   ],
   "categories": [
@@ -42,7 +42,7 @@
   "namespace": "crab",
   "status": "ACTIVE",
   "creationDate": "2019-02-26T15:59:56.670Z",
-  "lastModifiedDate": "2021-04-13T15:59:46.399Z",
+  "lastModifiedDate": "2021-11-23T16:21:51.004Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -101,13 +101,15 @@
       "versionTitle": ""
     }
   ],
-  "developer": "Coffee Stain Studios",
+  "developer": "Coffee Stain Publishing",
   "developerId": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
