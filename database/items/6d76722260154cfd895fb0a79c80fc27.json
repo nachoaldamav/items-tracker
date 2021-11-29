@@ -1,0 +1,74 @@
+{
+  "id": "6d76722260154cfd895fb0a79c80fc27",
+  "title": "Love 3",
+  "description": "Love 3",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2e92a3dc94534920bf9faf6425929be4/download-love-3-offer-qsycz.jpg",
+      "md5": "2f115f766e11104525ca48142bed8c30",
+      "width": 1200,
+      "height": 1600,
+      "size": 108947,
+      "uploadedDate": "2021-11-12T18:11:13.353Z",
+      "alt": "Download LOVE 3 Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2e92a3dc94534920bf9faf6425929be4/love-3-offer-dppw3.jpg",
+      "md5": "14b68eeba282ab6326423c92263ca8a4",
+      "width": 2560,
+      "height": 1440,
+      "size": 174709,
+      "uploadedDate": "2021-11-12T18:11:13.468Z",
+      "alt": "LOVE 3 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9dd57a83fbae44f5b0fee00cf941be7d",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-09T23:28:58.436Z",
+  "lastModifiedDate": "2021-11-29T16:12:30.315Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LOVE3"
+    }
+  },
+  "entitlementName": "6d76722260154cfd895fb0a79c80fc27",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "445342aedbf340099a7ee927b642ff26",
+      "appId": "830b6867e4a0443a9c54741b523e46f1",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Screenwave Media",
+  "developerId": "o-kr5v4snx9u79jr9q5jm54gaua6az4x",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
