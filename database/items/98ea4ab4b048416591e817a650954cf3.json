@@ -24,7 +24,7 @@
   "namespace": "d759128018124dcabb1fbee9bb28e178",
   "status": "ACTIVE",
   "creationDate": "2019-09-12T20:04:40.318Z",
-  "lastModifiedDate": "2021-03-15T10:54:22.838Z",
+  "lastModifiedDate": "2021-11-30T17:58:06.567Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -34,12 +34,16 @@
   "entitlementName": "98ea4ab4b048416591e817a650954cf3",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Paradox Interactive",
   "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
