@@ -14,7 +14,7 @@
   "namespace": "affc33b82405457595a032f00284abd2",
   "status": "ACTIVE",
   "creationDate": "2019-09-13T21:48:20.054Z",
-  "lastModifiedDate": "2021-10-29T19:08:35.079Z",
+  "lastModifiedDate": "2021-11-30T14:27:53.393Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -24,12 +24,16 @@
   "entitlementName": "3857703aa2a54ba8a2baa475a15f2f38",
   "entitlementType": "AUDIENCE",
   "itemType": "CONSUMABLE",
+  "releaseInfo": [],
   "developer": "Tripwire Interactive",
   "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
   "useCount": 1,
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
