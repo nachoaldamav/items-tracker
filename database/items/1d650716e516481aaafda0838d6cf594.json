@@ -16,7 +16,7 @@
   "namespace": "fe5a2e3e842a4394938a81f3308df2ed",
   "status": "ACTIVE",
   "creationDate": "2019-06-06T19:35:47.398Z",
-  "lastModifiedDate": "2021-11-15T18:15:19.851Z",
+  "lastModifiedDate": "2021-11-30T21:50:32.021Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -24,15 +24,15 @@
     },
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{AppData}/Solar/EGS/SaveGames/"
+      "value": "{AppData}/Solar/EGS/{EpicID}/SaveGames/"
     },
     "CloudExcludeList": {
       "type": "STRING",
-      "value": "AudioSettings.sav,VideoSettings.sav"
+      "value": "AudioSettingsData.sav,VideoSettingsPC.sav"
     },
     "CloudIncludeList": {
       "type": "STRING",
-      "value": "ControlSettings.sav,GamePlaySettings.sav,GlobalSettings.sav,InputDefaults.sav,Save_0.sav,Save_1.sav,Save_2.sav"
+      "value": "ControlSettingsData.sav,GameplaySettingsData.sav,KeyBindingSettingsData.sav,GlobalSettings.sav,Save_0.sav,Save_1.sav,Save_2.sav"
     },
     "FolderName": {
       "type": "STRING",
