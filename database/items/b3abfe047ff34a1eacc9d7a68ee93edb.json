@@ -1,0 +1,95 @@
+{
+  "id": "b3abfe047ff34a1eacc9d7a68ee93edb",
+  "title": "My Time at Sandrock",
+  "description": "My Time at Sandrock",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/e65d8864e0e84d6eb7fe228b2041c15f/EGS_MyTimeatSandrock_PatheaGames_S1_2560x1440-e1ea1087d23f6bf759e6f0234c35343b_2560x1440-e1ea1087d23f6bf759e6f0234c35343b",
+      "md5": "e1ea1087d23f6bf759e6f0234c35343b",
+      "width": 2560,
+      "height": 1440,
+      "size": 438019,
+      "uploadedDate": "2021-12-01T01:35:00.113Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/e65d8864e0e84d6eb7fe228b2041c15f/EGS_MyTimeatSandrock_PatheaGames_S2_1200x1600-8bf5c20aed41b0c7fe41e87fd045905c_1200x1600-8bf5c20aed41b0c7fe41e87fd045905c",
+      "md5": "8bf5c20aed41b0c7fe41e87fd045905c",
+      "width": 1200,
+      "height": 1600,
+      "size": 1008689,
+      "uploadedDate": "2021-12-01T01:35:03.844Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e65d8864e0e84d6eb7fe228b2041c15f",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-23T19:04:43.887Z",
+  "lastModifiedDate": "2021-12-01T03:50:08.921Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "e65d8864e0e84d6eb7fe228b2041c15f"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MyTimeAtSandrock"
+    }
+  },
+  "entitlementName": "b3abfe047ff34a1eacc9d7a68ee93edb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "effafe29659c4fe39752cde7cac098e8",
+      "appId": "674b8fb570594e5db2f986a4fddc4de9",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-09-23T19:14:00.857Z"
+    }
+  ],
+  "developer": "PatheaGames",
+  "developerId": "o-7ukp2mejsacwbpdud8qmv2npsqwbt4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

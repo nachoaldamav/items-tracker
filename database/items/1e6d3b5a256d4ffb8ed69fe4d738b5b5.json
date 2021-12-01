@@ -1,0 +1,55 @@
+{
+  "id": "1e6d3b5a256d4ffb8ed69fe4d738b5b5",
+  "title": "keylimeStaging",
+  "description": "keylimeStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e65d8864e0e84d6eb7fe228b2041c15f",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-23T19:04:44.595Z",
+  "lastModifiedDate": "2021-09-23T19:12:38.004Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "keylimeStaging"
+    }
+  },
+  "entitlementName": "1e6d3b5a256d4ffb8ed69fe4d738b5b5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0b58f18dba174d2bb1feee9b9066d2dd",
+      "appId": "d1d82c7ea294494c8057c297a0460ed4",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-09-23T19:12:29.408Z"
+    }
+  ],
+  "developer": "PatheaGames",
+  "developerId": "o-7ukp2mejsacwbpdud8qmv2npsqwbt4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
