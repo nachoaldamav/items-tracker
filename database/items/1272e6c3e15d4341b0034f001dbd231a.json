@@ -1,0 +1,73 @@
+{
+  "id": "1272e6c3e15d4341b0034f001dbd231a",
+  "title": "Sky Fleet",
+  "description": "Sky Fleet",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0eaa8ee0f64f485bbd6fcefafb221339/sky-fleet-offer-1qx00.jpg",
+      "md5": "1ca8c3adf8e5aac97c7fa42324b567c0",
+      "width": 2560,
+      "height": 1440,
+      "size": 612073,
+      "uploadedDate": "2021-11-19T16:27:12.663Z",
+      "alt": "Sky Fleet Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0eaa8ee0f64f485bbd6fcefafb221339/download-sky-fleet-offer-1wjdq.jpg",
+      "md5": "9dcdb4d19fc729a8ac362866ab347c40",
+      "width": 1200,
+      "height": 1600,
+      "size": 515615,
+      "uploadedDate": "2021-11-19T16:27:13.249Z",
+      "alt": "Download Sky Fleet Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f3522c43250443d7b5a6150fb0beee71",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-29T22:21:13.549Z",
+  "lastModifiedDate": "2021-11-29T22:21:13.549Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SkyFleetl59Hd"
+    }
+  },
+  "entitlementName": "1272e6c3e15d4341b0034f001dbd231a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "aa998890f5854e0f876d167810c2f71d",
+      "appId": "48e9af93ba8f48ea80b43db390fbad1d",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Freedom Games",
+  "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
