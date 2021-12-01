@@ -16,7 +16,7 @@
   "namespace": "fe5a2e3e842a4394938a81f3308df2ed",
   "status": "ACTIVE",
   "creationDate": "2019-06-06T19:35:47.398Z",
-  "lastModifiedDate": "2021-11-30T21:50:32.021Z",
+  "lastModifiedDate": "2021-12-01T16:01:37.826Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -29,10 +29,6 @@
     "CloudExcludeList": {
       "type": "STRING",
       "value": "AudioSettingsData.sav,VideoSettingsPC.sav"
-    },
-    "CloudIncludeList": {
-      "type": "STRING",
-      "value": "ControlSettingsData.sav,GameplaySettingsData.sav,KeyBindingSettingsData.sav,GlobalSettings.sav,Save_0.sav,Save_1.sav,Save_2.sav"
     },
     "FolderName": {
       "type": "STRING",
