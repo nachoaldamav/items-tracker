@@ -36,7 +36,7 @@
   "namespace": "fe5a2e3e842a4394938a81f3308df2ed",
   "status": "ACTIVE",
   "creationDate": "2019-06-06T19:35:47.322Z",
-  "lastModifiedDate": "2021-12-01T17:47:56.817Z",
+  "lastModifiedDate": "2021-12-02T14:17:09.383Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -49,6 +49,14 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Solar/EGS/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "AudioSettingsData.sav,VideoSettingsPC.sav"
     },
     "UseAccessControl": {
       "type": "STRING",
