@@ -1,0 +1,77 @@
+{
+  "id": "1abcc093bf834cdab98d84f5fde4c29c",
+  "title": "Happys Humble Burger Farm",
+  "description": "Happys Humble Burger Farm",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9c608dd2854347d1ba4822c93f9029f0/download-happys-humble-burger-farm-offer-1g7o5.jpg",
+      "md5": "a29e711014f78573656480014049d4d2",
+      "width": 1200,
+      "height": 1600,
+      "size": 785555,
+      "uploadedDate": "2021-11-23T17:16:35.994Z",
+      "alt": "Download Happy's Humble Burger Farm Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9c608dd2854347d1ba4822c93f9029f0/happys-humble-burger-farm-offer-f77id.jpg",
+      "md5": "250f87a1053bb0dc043e74bf4cefa876",
+      "width": 2560,
+      "height": 1440,
+      "size": 1600656,
+      "uploadedDate": "2021-11-23T17:16:37.569Z",
+      "alt": "Happy's Humble Burger Farm Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e062aeeff06745aca0375adc1dc8bdd3",
+  "status": "ACTIVE",
+  "creationDate": "2021-12-03T08:21:18.604Z",
+  "lastModifiedDate": "2021-12-03T08:21:18.604Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Scythe Dev Team/Happy's Humble Burger Farm/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HappysHumbleBurgerFarm"
+    }
+  },
+  "entitlementName": "1abcc093bf834cdab98d84f5fde4c29c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6b1d1d3c4ab4424c97e79b6f85d81652",
+      "appId": "9b23db5024b1476f88feefb327132d9d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
