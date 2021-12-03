@@ -1,0 +1,72 @@
+{
+  "id": "67c7611aebb54c2ab1efa23fc6f47afd",
+  "title": "Street Striker",
+  "description": "Street Striker",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ec4f866d28344e018a4d6b01ae7efdc6/download-street-striker-offer-yhgeu.png",
+      "md5": "57b37d6f808bce03eb4f541894c08ffd",
+      "width": 1200,
+      "height": 1600,
+      "size": 706463,
+      "uploadedDate": "2021-11-15T21:55:13.422Z",
+      "alt": "Download Street Striker Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ec4f866d28344e018a4d6b01ae7efdc6/street-striker-offer-ejg8w.png",
+      "md5": "071b7003bc4d0cf480db1449d94c2d4e",
+      "width": 2560,
+      "height": 1440,
+      "size": 1395653,
+      "uploadedDate": "2021-11-15T21:55:30.414Z",
+      "alt": "Street Striker Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1f4159ea12ab4f54847f7a3b664301fb",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-24T01:54:50.074Z",
+  "lastModifiedDate": "2021-11-24T01:54:50.074Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "StreetStrikervsfbF"
+    }
+  },
+  "entitlementName": "67c7611aebb54c2ab1efa23fc6f47afd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5a405b099a3147dca76f14418b8e4930",
+      "appId": "593169839a614079b79d8cca44bec46a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Boom Games",
+  "developerId": "o-4znrhnwegcs2lhcsaqvbej9xspq63f",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
