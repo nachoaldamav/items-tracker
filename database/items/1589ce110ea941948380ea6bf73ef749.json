@@ -1,0 +1,82 @@
+{
+  "id": "1589ce110ea941948380ea6bf73ef749",
+  "title": "Shadow Tactics Blades of the Shogun",
+  "description": "Shadow Tactics Blades of the Shogun",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/24f4bf69387246819ea43509effb6ba4/download-shadow-tactics--aikos-choice-offer-10db5.jpg",
+      "md5": "1386a85bd4ea6291bbd550e3cbc73f7c",
+      "width": 1200,
+      "height": 1600,
+      "size": 424770,
+      "uploadedDate": "2021-11-03T15:32:42.377Z",
+      "alt": "Download Shadow Tactics - Aiko's Choice Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/24f4bf69387246819ea43509effb6ba4/shadow-tactics--aikos-choice-offer-4j81a.jpg",
+      "md5": "0cf01d4163194c924a84689bd4e5de52",
+      "width": 2560,
+      "height": 1440,
+      "size": 633631,
+      "uploadedDate": "2021-11-03T15:32:43.597Z",
+      "alt": "Shadow Tactics - Aiko's Choice Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "39c6dd5409944922a04cac3f59fbbcd4",
+  "status": "ACTIVE",
+  "creationDate": "2021-12-03T08:41:14.764Z",
+  "lastModifiedDate": "2021-12-03T08:41:14.764Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Daedalic Entertainment GmbH/Shadow Tactics Blades of the Shogun Aikos Choice/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.png,*.save,*.bak"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ShadowTacticsAikosChoice"
+    }
+  },
+  "entitlementName": "1589ce110ea941948380ea6bf73ef749",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b623a233b195438785c025791a01555d",
+      "appId": "a334978574a840d594c31521592925f3",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "endOfSupport": false,
+  "applicationId": "fghi4567vInWgFHMtdbhAaEqSrzS8VnS",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
