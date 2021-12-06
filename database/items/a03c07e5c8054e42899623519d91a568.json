@@ -1,0 +1,75 @@
+{
+  "id": "a03c07e5c8054e42899623519d91a568",
+  "title": "Angry Video Game Nerd 1 and 2 Deluxe",
+  "description": "Angry Video Game Nerd 1 and 2 Deluxe",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/247a5998ced042fa98a5638566a6df51/download-angry-video-game-nerd-i-and-ii-deluxe-offer-hlre6.jpg",
+      "md5": "3f8b60146ea1811893997b5d92614621",
+      "width": 1200,
+      "height": 1600,
+      "size": 674037,
+      "uploadedDate": "2021-12-01T16:15:58.851Z",
+      "alt": "Download Angry Video Game Nerd I and II Deluxe Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/247a5998ced042fa98a5638566a6df51/angry-video-game-nerd-i-and-ii-deluxe-offer-jix1v.jpg",
+      "md5": "99d1b30d15fef93b4808193607c9c91f",
+      "width": 2560,
+      "height": 1440,
+      "size": 751883,
+      "uploadedDate": "2021-12-01T16:15:59.001Z",
+      "alt": "Angry Video Game Nerd I and II Deluxe Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0b58915428ea49a7a8d9c1cf098e1e72",
+  "status": "ACTIVE",
+  "creationDate": "2021-12-06T15:57:26.218Z",
+  "lastModifiedDate": "2021-12-06T15:57:26.218Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AVGN1and2"
+    }
+  },
+  "entitlementName": "a03c07e5c8054e42899623519d91a568",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7b23d6d93be34c7291acdc91af3a2b08",
+      "appId": "9c97d5eedef74c2ab6b2eb82326c53b4",
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Screenwave Media",
+  "developerId": "o-kr5v4snx9u79jr9q5jm54gaua6az4x",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
