@@ -1,0 +1,78 @@
+{
+  "id": "c892b9e7db4041d6a49a4c2b1c18b225",
+  "title": "Helheim Hassle",
+  "description": "Helheim Hassle",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4bf7c08137624ff1a4cb2aeca6dbf74e/download-helheim-hassle-offer-err6g.jpg",
+      "md5": "cdaf07265f36ba2db03000f8e554ce97",
+      "width": 1200,
+      "height": 1600,
+      "size": 669858,
+      "uploadedDate": "2021-11-09T12:53:29.002Z",
+      "alt": "Download Helheim Hassle Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4bf7c08137624ff1a4cb2aeca6dbf74e/helheim-hassle-offer-jzt9n.jpg",
+      "md5": "3625edcae9b881826a2d9b1fc46f209b",
+      "width": 2560,
+      "height": 1440,
+      "size": 1068993,
+      "uploadedDate": "2021-11-09T12:53:29.191Z",
+      "alt": "Helheim Hassle Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9fa8b87898c64196aa89daa9d55fc102",
+  "status": "ACTIVE",
+  "creationDate": "2021-12-06T14:44:36.888Z",
+  "lastModifiedDate": "2021-12-06T14:44:36.888Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Helheim Hassle/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HelheimHassle56YKn"
+    }
+  },
+  "entitlementName": "c892b9e7db4041d6a49a4c2b1c18b225",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ddcade7378d3432c85de2aa9da3a443b",
+      "appId": "85ea924cc6024f8798dac723346d0582",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Yogscast Ltd",
+  "developerId": "o-gj7j4uu4j6dde8vjb3haa58fjthhfv",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
