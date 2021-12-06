@@ -1,0 +1,55 @@
+{
+  "id": "056e254812864ee691608ff4821abe8a",
+  "title": "HotPinkStaging",
+  "description": "HotPinkStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8410292c5be74572bbcc811a3a7ec0c5",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-23T19:27:04.816Z",
+  "lastModifiedDate": "2021-09-23T19:30:54.511Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HotPinkStaging"
+    }
+  },
+  "entitlementName": "056e254812864ee691608ff4821abe8a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b2ac286bac224ca29c83ef95aa1bf195",
+      "appId": "22d65a2d1c3a406ab922dcbf4e70c687",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-09-23T19:30:50.795Z"
+    }
+  ],
+  "developer": "PatheaGames",
+  "developerId": "o-7ukp2mejsacwbpdud8qmv2npsqwbt4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
