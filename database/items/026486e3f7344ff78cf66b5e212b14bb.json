@@ -1,0 +1,74 @@
+{
+  "id": "026486e3f7344ff78cf66b5e212b14bb",
+  "title": "Dumpy and Bumpy",
+  "description": "Dumpy and Bumpy",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/67b62c78bde74cc49b71940a72770921/dumpy-and-bumpy-offer-zbx94.jpg",
+      "md5": "4313289122ccb5762fc65edef2acfbfd",
+      "width": 2560,
+      "height": 1440,
+      "size": 304106,
+      "uploadedDate": "2021-11-12T21:38:45.443Z",
+      "alt": "Dumpy and Bumpy Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/67b62c78bde74cc49b71940a72770921/download-dumpy-and-bumpy-offer-1ca6r.jpg",
+      "md5": "b0a512131f48ca2d90873ab318ca42d4",
+      "width": 1200,
+      "height": 1600,
+      "size": 212019,
+      "uploadedDate": "2021-11-12T21:38:45.564Z",
+      "alt": "Download Dumpy and Bumpy Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d6fc17cb019f4174b7856fedafdb6e12",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-29T18:00:32.111Z",
+  "lastModifiedDate": "2021-11-29T18:00:32.111Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DumpyAndBumpy"
+    }
+  },
+  "entitlementName": "026486e3f7344ff78cf66b5e212b14bb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "59b087c6f8654b99aef22ca2ae18de75",
+      "appId": "b369972d84174f7c98baa3d17066dcb9",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Screenwave Media",
+  "developerId": "o-kr5v4snx9u79jr9q5jm54gaua6az4x",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
