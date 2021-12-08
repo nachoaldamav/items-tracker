@@ -13,13 +13,13 @@
       "uploadedDate": "2020-05-27T14:37:07.832Z"
     },
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/item/atomicrops.new-629x839-6f592aaf3a1cd59272d1e505dc224150.jpg",
-      "md5": "6f592aaf3a1cd59272d1e505dc224150",
-      "width": 629,
-      "height": 839,
-      "size": 115519,
-      "uploadedDate": "2021-04-15T20:04:27.690Z"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/item/Atomicrops_EpicGames_Offer_Portrait_Image_1OutNow-1200x1600-eb467da6bfe2f4921a829fb846dc1b4e.png",
+      "md5": "eb467da6bfe2f4921a829fb846dc1b4e",
+      "width": 1200,
+      "height": 1600,
+      "size": 3660253,
+      "uploadedDate": "2020-05-27T14:37:19.746Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "ff1cd8b38bda4f6281879c9bdb228ff1",
   "status": "ACTIVE",
   "creationDate": "2019-06-06T19:39:05.354Z",
-  "lastModifiedDate": "2021-04-15T20:04:39.848Z",
+  "lastModifiedDate": "2021-12-08T20:06:11.845Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -86,7 +86,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
