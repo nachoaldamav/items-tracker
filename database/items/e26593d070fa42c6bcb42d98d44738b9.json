@@ -1,0 +1,73 @@
+{
+  "id": "e26593d070fa42c6bcb42d98d44738b9",
+  "title": "Tiny Lands",
+  "description": "Tiny Lands",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b284537d73d24482b4c58d6c1b2cafac/tiny-lands-offer-bzt9h.png",
+      "md5": "ef5881570c5e26a6a0a5e90d6bfe321d",
+      "width": 2560,
+      "height": 1440,
+      "size": 2569460,
+      "uploadedDate": "2021-11-04T12:17:51.733Z",
+      "alt": "Tiny Lands Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b284537d73d24482b4c58d6c1b2cafac/download-tiny-lands-offer-10isn.png",
+      "md5": "110c1c3d743a96d584c4dd913ed7a734",
+      "width": 1200,
+      "height": 1600,
+      "size": 1819838,
+      "uploadedDate": "2021-11-04T12:17:53.771Z",
+      "alt": "Download Tiny Lands Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "69bd64c3214e49899754554175bb17f1",
+  "status": "ACTIVE",
+  "creationDate": "2021-12-10T11:21:05.183Z",
+  "lastModifiedDate": "2021-12-10T11:21:05.183Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TinyLandsO5KMn"
+    }
+  },
+  "entitlementName": "e26593d070fa42c6bcb42d98d44738b9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f797b79c0a7a464c96ec1fb5bd4448be",
+      "appId": "88b9deea452f4aaabe910e08976d9263",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Hyper Three Studio",
+  "developerId": "o-e98j5qdzmrqupynzxw5zwzg852t9zg",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
