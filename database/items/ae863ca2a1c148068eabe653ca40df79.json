@@ -1,0 +1,74 @@
+{
+  "id": "ae863ca2a1c148068eabe653ca40df79",
+  "title": "Firework",
+  "description": "Firework",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/90cbeaa9e8c842c59ec2358f165ce237/download-firework-offer-1lrby.jpg",
+      "md5": "ffa640f84eb8ccae26b72900e7f2a9c7",
+      "width": 1200,
+      "height": 1600,
+      "size": 507644,
+      "uploadedDate": "2021-10-11T11:37:53.915Z",
+      "alt": "Download Firework Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/90cbeaa9e8c842c59ec2358f165ce237/firework-offer-1dh5b.jpg",
+      "md5": "30fe63c2481cec506370b0443a9a3fb0",
+      "width": 2560,
+      "height": 1440,
+      "size": 856475,
+      "uploadedDate": "2021-10-11T11:37:55.329Z",
+      "alt": "Firework Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a8b6c2950faf4656afaf8840bab559db",
+  "status": "ACTIVE",
+  "creationDate": "2021-12-13T03:13:04.626Z",
+  "lastModifiedDate": "2021-12-13T03:13:04.626Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/www/save/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Firework"
+    }
+  },
+  "entitlementName": "ae863ca2a1c148068eabe653ca40df79",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "232e9a2bca94478090062940e93b6582",
+      "appId": "a5e5afccce4443e5bdbd40dd59a2eecf",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Shanghai Game Mirror Intelligent Technology Co.,Ltd",
+  "developerId": "o-vhyx56shb3y77mwln9t34mfjjamftb",
+  "eulaIds": [],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
