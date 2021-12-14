@@ -36,7 +36,7 @@
   "namespace": "599d248ca46b45a8b40a3b4e484712cb",
   "status": "ACTIVE",
   "creationDate": "2019-10-01T23:40:40.565Z",
-  "lastModifiedDate": "2021-08-09T18:29:27.497Z",
+  "lastModifiedDate": "2021-12-14T17:12:18.717Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -65,10 +65,6 @@
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
-    },
-    "partnerLinkID": {
-      "type": "STRING",
-      "value": "da62a74ae14140408dd9ce46b2c55d5e"
     },
     "partnerLinkType": {
       "type": "STRING",
