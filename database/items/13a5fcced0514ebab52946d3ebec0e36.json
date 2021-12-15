@@ -1,0 +1,73 @@
+{
+  "id": "13a5fcced0514ebab52946d3ebec0e36",
+  "title": "Trash Sailors",
+  "description": "Trash Sailors",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2b5a1ebca698496d89d6e343eded6eb8/download-trash-sailors-offer-1gfi8.jpg",
+      "md5": "7e5ff81325169f02034bb52802792862",
+      "width": 1200,
+      "height": 1600,
+      "size": 1716916,
+      "uploadedDate": "2021-12-09T13:53:34.324Z",
+      "alt": "Download Trash Sailors Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2b5a1ebca698496d89d6e343eded6eb8/trash-sailors-offer-1eq0o.jpg",
+      "md5": "67009043b5a6f301414950c46dcd88f2",
+      "width": 2560,
+      "height": 1440,
+      "size": 1827602,
+      "uploadedDate": "2021-12-09T13:53:38.241Z",
+      "alt": "Trash Sailors Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ccef3880cb344fcaa224832a0c8a63a0",
+  "status": "ACTIVE",
+  "creationDate": "2021-12-15T10:33:18.360Z",
+  "lastModifiedDate": "2021-12-15T10:33:18.360Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/fluckyMachine/Trash Sailors/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TrashSailors"
+    }
+  },
+  "entitlementName": "13a5fcced0514ebab52946d3ebec0e36",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6e2a85f6875b4357b6eb59b131804512",
+      "appId": "9c639e72a0a24c33a5d7f990b3056c70",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
