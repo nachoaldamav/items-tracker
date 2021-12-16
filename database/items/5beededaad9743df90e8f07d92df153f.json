@@ -5,30 +5,30 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/77f2b98e2cef40c8a7437518bf420e47/item/Diesel_product_ginger_home_EGS_CDPROJEKTRED_CYBERPUNK2077_S2_DESCRIPTION-2560x1440-8411578303f60188c29f79cdbabcbca938bea5a6-2560x1440-91b7c4749a6d55e56e24bc22166092cb-2560x1440-91b7c4749a6d55e56e24bc22166092cb.jpg",
-      "md5": "91b7c4749a6d55e56e24bc22166092cb",
-      "width": 2560,
-      "height": 1440,
-      "size": 214982,
-      "uploadedDate": "2020-12-07T15:56:49.198Z"
+      "url": "https://cdn1.epicgames.com/item/77f2b98e2cef40c8a7437518bf420e47/EN_CDProjektRED_Cyberpunk2077_S2_1200x1600_1200x1600-b26d34f747ae0f6721b5f75232c462fe",
+      "md5": "b26d34f747ae0f6721b5f75232c462fe",
+      "width": 1200,
+      "height": 1600,
+      "size": 733104,
+      "uploadedDate": "2021-12-16T18:25:40.156Z"
     },
     {
       "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/77f2b98e2cef40c8a7437518bf420e47/item/Diesel_product_ginger_home_EGS_CDPROJEKTRED_CYBERPUNK2077_IC1_MAINLOGO-EN-1920x473-86738e995fb8493ddfc36a83d95d3db3-1920x473-86738e995fb8493ddfc36a83d95d3db3.png",
-      "md5": "86738e995fb8493ddfc36a83d95d3db3",
-      "width": 1920,
-      "height": 473,
-      "size": 248751,
-      "uploadedDate": "2020-12-07T15:57:03.367Z"
+      "url": "https://cdn1.epicgames.com/item/77f2b98e2cef40c8a7437518bf420e47/EN_CDProjektRED_Cyberpunk2077_IC1_400x400-24e58442295930689c280c37da538218",
+      "md5": "24e58442295930689c280c37da538218",
+      "width": 400,
+      "height": 400,
+      "size": 24635,
+      "uploadedDate": "2021-12-16T18:25:58.696Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/77f2b98e2cef40c8a7437518bf420e47/item/EGS_CDPROJEKTRED_CYBERPUNK2077_S3_DESCRIPTION-1280x1440-58949bccc0886694cf24d8c0f153d250-1280x1440-58949bccc0886694cf24d8c0f153d250.jpg",
-      "md5": "58949bccc0886694cf24d8c0f153d250",
-      "width": 1280,
+      "url": "https://cdn1.epicgames.com/item/77f2b98e2cef40c8a7437518bf420e47/EN_CDProjektRED_Cyberpunk2077_S1_2560x1440_2560x1440-5294ae9f2b864121a81e56518ccd3a42",
+      "md5": "5294ae9f2b864121a81e56518ccd3a42",
+      "width": 2560,
       "height": 1440,
-      "size": 161300,
-      "uploadedDate": "2020-12-07T15:57:24.274Z"
+      "size": 286290,
+      "uploadedDate": "2021-12-16T18:26:27.991Z"
     }
   ],
   "categories": [
@@ -45,7 +45,7 @@
   "namespace": "77f2b98e2cef40c8a7437518bf420e47",
   "status": "ACTIVE",
   "creationDate": "2019-06-07T19:03:29.226Z",
-  "lastModifiedDate": "2021-02-02T16:56:05.489Z",
+  "lastModifiedDate": "2021-12-16T18:26:38.286Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -102,6 +102,7 @@
   "eulaIds": [
     "(egstore && cp2077)"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
   "applicationId": "fghi4567ay5jIOq6Vy3yzQe8RNUYiURd",
