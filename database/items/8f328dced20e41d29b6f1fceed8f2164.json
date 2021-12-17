@@ -37,7 +37,7 @@
   "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "status": "ACTIVE",
   "creationDate": "2019-11-27T20:00:38.061Z",
-  "lastModifiedDate": "2020-03-31T16:18:59.284Z",
+  "lastModifiedDate": "2021-12-17T16:00:53.750Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -50,6 +50,10 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/KingdomCome/"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -85,7 +89,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
