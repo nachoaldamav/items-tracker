@@ -1,0 +1,72 @@
+{
+  "id": "dfd53a8c498b45c9bf480289fd387790",
+  "title": "Deadly Flight",
+  "description": "Deadly Flight",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/06ce357dbd7842cbb56d293750a2bb3a/download-deadly-flight-offer-c96yv.png",
+      "md5": "d68b4ca7f8605a16ce228e3220e00761",
+      "width": 1200,
+      "height": 1600,
+      "size": 1196429,
+      "uploadedDate": "2021-11-16T09:23:52.724Z",
+      "alt": "Download Deadly Flight Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/06ce357dbd7842cbb56d293750a2bb3a/deadly-flight-offer-1x075.png",
+      "md5": "3b8e3991b1329be519649a6e24b53d0e",
+      "width": 2560,
+      "height": 1440,
+      "size": 1676396,
+      "uploadedDate": "2021-11-16T09:23:55.935Z",
+      "alt": "Deadly Flight Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "03a32daea7d042709ed53d21cd70aad7",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-16T08:45:12.434Z",
+  "lastModifiedDate": "2021-11-16T10:21:26.224Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DeadlyFlight1EWGH"
+    }
+  },
+  "entitlementName": "dfd53a8c498b45c9bf480289fd387790",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e18f610728394bd9a94e8c9b519f2bd8",
+      "appId": "7fc2bcbc585e446a8e4f5f430e40788a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Boom Games",
+  "developerId": "o-4znrhnwegcs2lhcsaqvbej9xspq63f",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
