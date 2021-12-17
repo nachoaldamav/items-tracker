@@ -1,0 +1,77 @@
+{
+  "id": "1622df18f21f4465b1ce1efaaef88880",
+  "title": "Scarf",
+  "description": "Scarf",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c33a42729a684055919243f22c5cbe7d/scarf-offer-1ecve.jpg",
+      "md5": "61a9fc1556ec407b563e655e24ce7d8f",
+      "width": 2560,
+      "height": 1440,
+      "size": 484692,
+      "uploadedDate": "2021-11-24T10:02:37.646Z",
+      "alt": "Scarf Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c33a42729a684055919243f22c5cbe7d/download-scarf-offer-14ema.jpg",
+      "md5": "3b88ffcc404175c22137da50d6f6d139",
+      "width": 1200,
+      "height": 1600,
+      "size": 284132,
+      "uploadedDate": "2021-11-24T10:07:41.689Z",
+      "alt": "Download Scarf Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1c13238391244f828eb1441f1e110eb0",
+  "status": "ACTIVE",
+  "creationDate": "2021-10-26T13:47:36.256Z",
+  "lastModifiedDate": "2021-12-13T10:57:30.118Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Scarf/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Scarf40IDx"
+    }
+  },
+  "entitlementName": "1622df18f21f4465b1ce1efaaef88880",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "301ea9220fe04dd4ba6a9e2bb8f2b131",
+      "appId": "56348ac4c88f4d6aa8881b1da06e1f49",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Handy Games",
+  "developerId": "o-ekk92wx8mesnmsvbseequvnt38mzu6",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
