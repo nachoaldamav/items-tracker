@@ -1,0 +1,76 @@
+{
+  "id": "c7d6363ec4544f73ae660c0464d52990",
+  "title": "Baldurs_Gate_Dark_Alliance",
+  "description": "Baldurs_Gate_Dark_Alliance",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6c01371e776d4efbad4176efb96fab0f/baldurs_gate_dark_alliance-offer-1qnpl.png",
+      "md5": "e8f7126d80609cda6b391a0961b2f0a2",
+      "width": 2560,
+      "height": 1440,
+      "size": 2503480,
+      "uploadedDate": "2021-12-15T19:32:12.289Z",
+      "alt": "Baldurs_Gate_Dark_Alliance Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6c01371e776d4efbad4176efb96fab0f/download-baldurs_gate_dark_alliance-offer-5f659.png",
+      "md5": "ac45cb116e50d6018c396fdf37038b26",
+      "width": 1200,
+      "height": 1600,
+      "size": 1347597,
+      "uploadedDate": "2021-12-13T19:53:11.802Z",
+      "alt": "Download Baldurs_Gate_Dark_Alliance Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "23fa6640c6eb41f7af62a1da4ee212d2",
+  "status": "ACTIVE",
+  "creationDate": "2021-12-17T19:18:52.169Z",
+  "lastModifiedDate": "2021-12-17T19:18:52.169Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Baldur's Gate - Dark Alliance/savedata/"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Baldur's Gate - Dark Alliance/savedata/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BaldursGateDarkAllia3AeLf"
+    }
+  },
+  "entitlementName": "c7d6363ec4544f73ae660c0464d52990",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0eccdaabd9db444182e5ffe93f23e79a",
+      "appId": "8afc4c84742e4925b051e402fee9d423",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Interplay Entertainment Corp.",
+  "developerId": "o-ebvwv4fmqxbw48yz3rx65fmxxqfk35",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
