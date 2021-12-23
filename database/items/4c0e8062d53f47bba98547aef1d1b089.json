@@ -14,7 +14,7 @@
   "namespace": "1368a7f14c3344bbaededbae528fafed",
   "status": "ACTIVE",
   "creationDate": "2020-08-28T15:43:33.675Z",
-  "lastModifiedDate": "2021-01-26T16:58:32.835Z",
+  "lastModifiedDate": "2021-12-23T04:30:19.353Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -24,13 +24,16 @@
   "entitlementName": "4c0e8062d53f47bba98547aef1d1b089",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Motion Twin",
   "developerId": "o-7saqb478dnbhsw9awuk67h7lu2ynua",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
