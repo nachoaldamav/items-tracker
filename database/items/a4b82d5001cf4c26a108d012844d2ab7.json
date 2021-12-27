@@ -1,0 +1,49 @@
+{
+  "id": "a4b82d5001cf4c26a108d012844d2ab7",
+  "title": "linen Staging",
+  "description": "linen Staging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "90487cf458a143ff921d3ca365ad4fd6",
+  "status": "ACTIVE",
+  "creationDate": "2021-07-13T23:27:26.217Z",
+  "lastModifiedDate": "2021-07-13T23:27:26.217Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "linenStaging"
+    }
+  },
+  "entitlementName": "a4b82d5001cf4c26a108d012844d2ab7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a0b3c638d63c4bb49d30fccdca983b64",
+      "appId": "21fd2cca090e499fbbbb9d9223b23aa9",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Hellbent Games Inc.",
+  "developerId": "o-csgjmkwjqkeukdzpsx4z25kyqal22j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
