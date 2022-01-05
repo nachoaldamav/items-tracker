@@ -13,7 +13,7 @@
   "namespace": "b7b42e2078524ab386a8b2a9856ef557",
   "status": "ACTIVE",
   "creationDate": "2021-01-08T22:35:54.914Z",
-  "lastModifiedDate": "2021-08-25T19:41:49.713Z",
+  "lastModifiedDate": "2022-01-05T02:47:00.741Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,13 +23,16 @@
   "entitlementName": "7c91310756e2410e9637513e56d2df36",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Sloclap",
   "developerId": "o-ytvuatnvl62xcjs2hq2jp6dektwnu3",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
