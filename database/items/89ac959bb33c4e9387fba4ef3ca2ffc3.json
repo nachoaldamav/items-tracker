@@ -1,0 +1,90 @@
+{
+  "id": "89ac959bb33c4e9387fba4ef3ca2ffc3",
+  "title": "God of War",
+  "description": "God of War",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GodofWar_SantaMonicaStudio_S1_2560x1440-5d74d9b240bba8f2c40920dcde7c5c67",
+      "md5": "5d74d9b240bba8f2c40920dcde7c5c67",
+      "width": 2560,
+      "height": 1440,
+      "size": 966490,
+      "uploadedDate": "2021-10-19T22:37:17.454Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GodofWar_SantaMonicaStudio_S2_1200x1600-fbdf3cbc2980749091d52751ffabb7b7",
+      "md5": "fbdf3cbc2980749091d52751ffabb7b7",
+      "width": 1200,
+      "height": 1600,
+      "size": 559202,
+      "uploadedDate": "2021-10-19T22:37:20.264Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3ddd6a590da64e3686042d108968a6b2",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-19T22:47:07.085Z",
+  "lastModifiedDate": "2021-10-20T02:38:22.771Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "3ddd6a590da64e3686042d108968a6b2"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GodofWar"
+    }
+  },
+  "entitlementName": "89ac959bb33c4e9387fba4ef3ca2ffc3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a158df7459564ac9a081b2f3d492a123",
+      "appId": "91bfb663fe7a4b9698ba08bd80549b34",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
