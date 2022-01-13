@@ -1,0 +1,72 @@
+{
+  "id": "0029683ed71348deb912503d97a778aa",
+  "title": "Coromon",
+  "description": "Coromon",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/da5f8b7158ea4e70ab493459857b91f9/coromon-offer-19ztp.jpg",
+      "md5": "e85df7fd850549d550884cd459a62158",
+      "width": 2560,
+      "height": 1440,
+      "size": 784959,
+      "uploadedDate": "2021-12-09T17:56:03.946Z",
+      "alt": "Coromon Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/da5f8b7158ea4e70ab493459857b91f9/download-coromon-offer-w12xd.jpg",
+      "md5": "e26156456c8076e4ccde05679c2f2c1f",
+      "width": 1200,
+      "height": 1600,
+      "size": 926598,
+      "uploadedDate": "2021-12-09T17:56:05.265Z",
+      "alt": "Download Coromon Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9aa3fab4ed5447d5b27e34d6aea7f259",
+  "status": "ACTIVE",
+  "creationDate": "2022-01-12T21:24:29.199Z",
+  "lastModifiedDate": "2022-01-12T21:24:29.199Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CoromonswHPf"
+    }
+  },
+  "entitlementName": "0029683ed71348deb912503d97a778aa",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9657065a36d54dfaabed1743a168e833",
+      "appId": "8767018647c0434b9e3763f81b20ee56",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Freedom Games",
+  "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
