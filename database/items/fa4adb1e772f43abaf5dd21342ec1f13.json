@@ -14,7 +14,7 @@
   "namespace": "fa11862b1cfd42e3b3c6395af46efe3e",
   "status": "ACTIVE",
   "creationDate": "2019-12-03T03:54:12.920Z",
-  "lastModifiedDate": "2020-01-07T18:08:39.937Z",
+  "lastModifiedDate": "2022-01-13T21:15:01.260Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -24,11 +24,15 @@
   "entitlementName": "fa4adb1e772f43abaf5dd21342ec1f13",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Team17 Digital Ltd",
   "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

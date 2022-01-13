@@ -36,7 +36,7 @@
   "namespace": "fa11862b1cfd42e3b3c6395af46efe3e",
   "status": "ACTIVE",
   "creationDate": "2019-11-27T18:37:35.138Z",
-  "lastModifiedDate": "2020-11-30T22:43:02.891Z",
+  "lastModifiedDate": "2022-01-13T21:15:01.260Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -76,7 +76,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "15ba965d78204e7cbb224f7cae62fe56",
+      "id": "15ae3adec8a842c38bb98cef6189cff2",
       "appId": "Duckbill",
       "platform": [
         "Windows"
@@ -88,9 +88,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
-  "selfRefundable": true,
-  "applicationId": "fghi4567WVlhMZR0XXcSLMKSQS3BHojL",
+  "applicationId": "",
   "unsearchable": false
 }

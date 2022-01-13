@@ -36,7 +36,7 @@
   "namespace": "fa11862b1cfd42e3b3c6395af46efe3e",
   "status": "ACTIVE",
   "creationDate": "2019-12-03T03:31:57.486Z",
-  "lastModifiedDate": "2019-12-31T15:44:43.768Z",
+  "lastModifiedDate": "2022-01-13T21:15:01.230Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -52,7 +52,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "c50ebb2285804b1d8c5935396383e997",
+      "id": "2bd6f629a4d048bcad378a8f9ed8dbf4",
       "appId": "DuckbillDLC1",
       "platform": [
         "Windows"
@@ -65,6 +65,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
