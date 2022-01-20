@@ -1,0 +1,39 @@
+{
+  "id": "aadcbedca2724463afacdf63b21ef70e",
+  "title": "Eros DevOnlyEarlyAccessAudience",
+  "description": "Eros DevOnlyEarlyAccessAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "699c2dc3694c4156befa26cad5c65505",
+  "status": "ACTIVE",
+  "creationDate": "2021-10-01T06:29:11.145Z",
+  "lastModifiedDate": "2021-10-01T06:29:22.981Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "aadcbedca2724463afacdf63b21ef70e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Frogwares",
+  "developerId": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

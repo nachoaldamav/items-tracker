@@ -1,0 +1,73 @@
+{
+  "id": "08c35d6330ca474ca84d751c68265afa",
+  "title": "BrownieMainDaily",
+  "description": "BrownieMainDaily",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "435aaec1220447efbcfeb4f2abeb1027",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-17T17:24:29.294Z",
+  "lastModifiedDate": "2020-08-17T19:28:36.641Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "435aaec1220447efbcfeb4f2abeb1027"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BrownieMainDaily"
+    }
+  },
+  "entitlementName": "08c35d6330ca474ca84d751c68265afa",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "50fed81e4b1a4e9dbd7decb54f3d41c5",
+      "appId": "72be6ea1fc644b29a2a0018a68b834eb",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-07-16T00:00:00.000Z"
+    }
+  ],
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
