@@ -16,11 +16,15 @@
   "namespace": "7b57136ac766477eb1e687dcd0310da5",
   "status": "ACTIVE",
   "creationDate": "2021-05-13T22:48:00.209Z",
-  "lastModifiedDate": "2021-08-13T09:06:02.528Z",
+  "lastModifiedDate": "2022-01-24T20:20:29.013Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/WM/Savegames/"
     },
     "FolderName": {
       "type": "STRING",
