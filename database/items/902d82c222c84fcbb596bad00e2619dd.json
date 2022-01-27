@@ -36,7 +36,7 @@
   "namespace": "7b57136ac766477eb1e687dcd0310da5",
   "status": "ACTIVE",
   "creationDate": "2021-05-13T22:47:59.760Z",
-  "lastModifiedDate": "2021-10-19T15:10:42.512Z",
+  "lastModifiedDate": "2022-01-27T15:51:18.109Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -49,6 +49,10 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/WM/Savegames/"
     },
     "UseAccessControl": {
       "type": "STRING",
