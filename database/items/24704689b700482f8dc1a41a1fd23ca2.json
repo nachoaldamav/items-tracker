@@ -34,16 +34,32 @@
   ],
   "namespace": "f4febd34825d447c8b1da4adce49e779",
   "status": "ACTIVE",
-  "creationDate": "2022-01-13T09:43:39.838Z",
-  "lastModifiedDate": "2022-01-13T09:43:39.838Z",
+  "creationDate": "2022-01-03T22:02:55.168Z",
+  "lastModifiedDate": "2022-01-31T15:05:22.360Z",
   "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/unity.40Giants.ReverieKnights/"
+    },
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
     },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/40 Giants Entertainment/Reverie Knights Tactics/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.data"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "50"
+    },
     "FolderName": {
       "type": "STRING",
-      "value": "ReverieKnightsTactickULX2"
+      "value": "ReverieKnightsTactics"
     }
   },
   "entitlementName": "24704689b700482f8dc1a41a1fd23ca2",
@@ -51,7 +67,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "e89db0f41aaf4a50968e85e654af9850",
+      "id": "5fcf1ac879ac42e0a3d1c7f0148d8873",
       "appId": "a46fcb8162194f0f9614faf56d8fa385",
       "platform": [
         "Windows",
@@ -62,6 +78,7 @@
   "developer": "1C Online Games Ltd",
   "developerId": "o-n4d8bf5e8fnr4kujuut9j6v4d29muc",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
