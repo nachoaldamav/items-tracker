@@ -13,15 +13,6 @@
       "uploadedDate": "2019-01-23T21:16:08.119Z"
     },
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/feverfew/item/TJBPP1_Portrait Promo-1280x1420-534a67fd74249b0b9c2b66422c9e6c5c.jpg",
-      "md5": "534a67fd74249b0b9c2b66422c9e6c5c",
-      "width": 1280,
-      "height": 1420,
-      "size": 338212,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
-    },
-    {
       "type": "DieselGameBoxLogo",
       "url": "https://cdn1.epicgames.com/feverfew/item/PP1_GameLogo_Colored-2366x1285-53a6638a74ef936167a508218ca47283.png",
       "md5": "53a6638a74ef936167a508218ca47283",
@@ -29,6 +20,15 @@
       "height": 1285,
       "size": 371115,
       "uploadedDate": "2019-12-03T16:12:19.780Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/feverfew/TJBPP1_PortraitPromo-1280x1420-534a67fd74249b0b9c2b66422c9e6c5c_1280x1420-534a67fd74249b0b9c2b66422c9e6c5c",
+      "md5": "534a67fd74249b0b9c2b66422c9e6c5c",
+      "width": 1280,
+      "height": 1420,
+      "size": 338212,
+      "uploadedDate": "2022-02-08T17:31:32.217Z"
     }
   ],
   "categories": [
@@ -42,7 +42,7 @@
   "namespace": "feverfew",
   "status": "ACTIVE",
   "creationDate": "2019-01-15T15:42:03.384Z",
-  "lastModifiedDate": "2019-12-03T16:12:25.485Z",
+  "lastModifiedDate": "2022-02-08T17:31:38.001Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -100,7 +100,10 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
