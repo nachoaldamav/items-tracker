@@ -4,13 +4,13 @@
   "description": "Cyberpunk 2077 General Audience",
   "keyImages": [
     {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/77f2b98e2cef40c8a7437518bf420e47/item/esrb-cyberpunk2077-842x404-95e74b819297916c531a83a7376d9d7e.png",
-      "md5": "95e74b819297916c531a83a7376d9d7e",
-      "width": 842,
-      "height": 404,
-      "size": 23914,
-      "uploadedDate": "2021-03-23T23:54:36.174Z"
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/77f2b98e2cef40c8a7437518bf420e47/item/EGS_CDPROJEKTRED_CYBERPUNK2077_S3_DESCRIPTION-1280x1440-58949bccc0886694cf24d8c0f153d250.jpg",
+      "md5": "58949bccc0886694cf24d8c0f153d250",
+      "width": 1280,
+      "height": 1440,
+      "size": 161300,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
     }
   ],
   "categories": [
@@ -24,7 +24,7 @@
   "namespace": "77f2b98e2cef40c8a7437518bf420e47",
   "status": "ACTIVE",
   "creationDate": "2019-06-07T19:03:29.123Z",
-  "lastModifiedDate": "2021-03-23T23:54:41.287Z",
+  "lastModifiedDate": "2022-02-15T15:57:25.566Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -40,9 +40,7 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "esrbGameRatingValue": "MATURE",
   "ageGatings": {},
-  "applicationId": "",
-  "requiresSecureAccount": false,
+  "applicationId": "fghi4567IPhGxMKkLZjwrBzdjtpJgMbv",
   "unsearchable": false
 }
