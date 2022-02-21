@@ -1,0 +1,62 @@
+{
+  "id": "747a4a4cdeb644968acf2ff544e8b242",
+  "title": "Monster Tribe",
+  "description": "Monster Tribe",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4244540bd2cb4534840a7468d149aa85/monster-tribe-offer-cjh8r.jpg",
+      "md5": "0fc16a5ba2460d9186878837e4f66fea",
+      "width": 2560,
+      "height": 1440,
+      "size": 995357,
+      "uploadedDate": "2022-02-01T17:22:57.405Z",
+      "alt": "Monster Tribe Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4244540bd2cb4534840a7468d149aa85/download-monster-tribe-offer-2gaea.jpg",
+      "md5": "c0d8f248848396485b8010cdc7e88c8d",
+      "width": 1200,
+      "height": 1600,
+      "size": 854155,
+      "uploadedDate": "2022-02-01T17:22:58.335Z",
+      "alt": "Download Monster Tribe Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "64407f7371fd485b94152ca5c7e587a5",
+  "status": "ACTIVE",
+  "creationDate": "2022-02-14T22:47:56.513Z",
+  "lastModifiedDate": "2022-02-18T09:18:58.513Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "MonsterTribeVPi5F"
+    }
+  },
+  "entitlementName": "747a4a4cdeb644968acf2ff544e8b242",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b8ae56fd4d104b5f872a2d1db4a83b1f",
+      "appId": "64e7f0e0e7fc4c09b90f55cb5617a4a1",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Freedom Games",
+  "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
