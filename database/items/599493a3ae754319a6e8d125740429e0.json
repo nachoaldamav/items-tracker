@@ -42,23 +42,11 @@
   "namespace": "lotus",
   "status": "ACTIVE",
   "creationDate": "2019-02-01T00:40:28.872Z",
-  "lastModifiedDate": "2020-12-01T23:48:38.999Z",
+  "lastModifiedDate": "2022-02-24T22:57:35.209Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
-    },
-    "CloudSaveFolder_MAC": {
-      "type": "STRING",
-      "value": "{UserLibrary}/Application Support/unity.Klei.Oxygen Not Included/cloud_save_files/{EpicID}/"
-    },
-    "CloudSaveFolder": {
-      "type": "STRING",
-      "value": "{UserDir}/Klei/OxygenNotIncluded/cloud_save_files/{EpicID}/"
-    },
-    "MaxSizeMB": {
-      "type": "STRING",
-      "value": "1000"
     },
     "FolderName": {
       "type": "STRING",
@@ -70,7 +58,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "a64edff310104ba1819a225d6489ea34",
+      "id": "7081cfd45e3e479f8e7e65a3696f8eea",
       "appId": "LotusStaging",
       "compatibleApps": [],
       "platform": [
@@ -87,7 +75,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

@@ -42,7 +42,7 @@
   "namespace": "lotus",
   "status": "ACTIVE",
   "creationDate": "2019-02-01T19:17:25.457Z",
-  "lastModifiedDate": "2021-07-16T17:12:24.826Z",
+  "lastModifiedDate": "2022-02-24T22:57:35.209Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -70,7 +70,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "1ec4036adfdd4913b88384527b7d7e9a",
+      "id": "6fb84ffcc0ad48eb83b941e69f8b6bd6",
       "appId": "LotusNightly",
       "compatibleApps": [],
       "platform": [
@@ -87,9 +87,6 @@
   "eulaIds": [
     "egstore"
   ],
-  "installModes": [],
   "endOfSupport": false,
-  "ageGatings": {},
-  "applicationId": "",
   "unsearchable": false
 }

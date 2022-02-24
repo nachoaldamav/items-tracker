@@ -42,7 +42,7 @@
   "namespace": "lotus",
   "status": "ACTIVE",
   "creationDate": "2019-02-01T19:16:28.147Z",
-  "lastModifiedDate": "2021-07-16T17:07:58.392Z",
+  "lastModifiedDate": "2022-02-24T22:57:35.209Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -70,7 +70,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "213deae7b3d0487d8fd942e75110eb37",
+      "id": "3950be81d9794fad86437da1086c954f",
       "appId": "LotusDevelopment",
       "compatibleApps": [],
       "platform": [
@@ -87,9 +87,6 @@
   "eulaIds": [
     "egstore"
   ],
-  "installModes": [],
   "endOfSupport": false,
-  "ageGatings": {},
-  "applicationId": "",
   "unsearchable": false
 }
