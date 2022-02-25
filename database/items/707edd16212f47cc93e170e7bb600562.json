@@ -1,0 +1,67 @@
+{
+  "id": "707edd16212f47cc93e170e7bb600562",
+  "title": "Patron",
+  "description": "Patron",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b4378b72b9214bd6900cdf0c8ae23d0f/patron-offer-fewtn.jpg",
+      "md5": "a5dc4201c5180b19fdb8e13ccd20f93d",
+      "width": 2560,
+      "height": 1440,
+      "size": 939173,
+      "uploadedDate": "2022-02-22T08:16:24.493Z",
+      "alt": "Patron Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b4378b72b9214bd6900cdf0c8ae23d0f/download-patron-offer-1tixo.jpg",
+      "md5": "1b81bd37fa7844ec16be3c9748263212",
+      "width": 1200,
+      "height": 1600,
+      "size": 494301,
+      "uploadedDate": "2022-02-22T08:16:31.608Z",
+      "alt": "Download Patron Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "27d0a607d01545038e7c3ba1b9ad8c80",
+  "status": "ACTIVE",
+  "creationDate": "2022-02-24T11:52:41.425Z",
+  "lastModifiedDate": "2022-02-24T11:52:41.425Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Saves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Patron"
+    }
+  },
+  "entitlementName": "707edd16212f47cc93e170e7bb600562",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6fa9638bc75b49d8916a3e4b295b4dd5",
+      "appId": "67ad670efd5a401db9759eaccfb44368",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Overseer Games",
+  "developerId": "o-bklwlwlf92ljgs3ukpjhdf9jwmlf7u",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
