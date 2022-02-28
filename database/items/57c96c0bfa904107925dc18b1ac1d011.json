@@ -1,0 +1,77 @@
+{
+  "id": "57c96c0bfa904107925dc18b1ac1d011",
+  "title": "A Musical Story",
+  "description": "A Musical Story",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e6fac44e52844cb19b96d63c465ab1c9/download-a-musical-story-offer-89wj7.png",
+      "md5": "fa750abe5e2d54bde44611efe9d17a65",
+      "width": 1200,
+      "height": 1600,
+      "size": 537092,
+      "uploadedDate": "2022-02-04T19:49:03.226Z",
+      "alt": "Download A Musical Story Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e6fac44e52844cb19b96d63c465ab1c9/a-musical-story-offer-5y52m.png",
+      "md5": "d9c412dd7deed5dfb56da6bb7bda256d",
+      "width": 2560,
+      "height": 1440,
+      "size": 879960,
+      "uploadedDate": "2022-02-04T19:49:03.378Z",
+      "alt": "A Musical Story Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "aac5ef68f6ce4c20aea4c3e722873070",
+  "status": "ACTIVE",
+  "creationDate": "2022-02-28T21:22:03.908Z",
+  "lastModifiedDate": "2022-02-28T21:22:03.908Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/com.Glee-CheeseStudio.MusicalStory/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/./"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Save"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AMusicalStory"
+    }
+  },
+  "entitlementName": "57c96c0bfa904107925dc18b1ac1d011",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "11fc6d87d33b4d97be4a46bf8465cc64",
+      "appId": "59b9b938f955411d95003729337870da",
+      "platform": [
+        "Win32",
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Digerati",
+  "developerId": "o-w3y4zvzsv727kbguuzyz2zg46xdafs",
+  "endOfSupport": false,
+  "applicationId": "fghi4567QJ5ZUd4tBSBEidtMUltjbVyX",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
