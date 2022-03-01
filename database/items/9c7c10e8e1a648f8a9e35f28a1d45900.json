@@ -36,7 +36,7 @@
   "namespace": "ff50f85ed609454e80ac46d9496da34d",
   "status": "ACTIVE",
   "creationDate": "2021-01-27T17:17:09.831Z",
-  "lastModifiedDate": "2022-02-28T21:43:30.426Z",
+  "lastModifiedDate": "2022-03-01T20:16:05.338Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -45,6 +45,10 @@
     "PresenceId": {
       "type": "STRING",
       "value": "ff50f85ed609454e80ac46d9496da34d"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/com.devolverdigital.loophero/"
     },
     "MonitorPresence": {
       "type": "STRING",
