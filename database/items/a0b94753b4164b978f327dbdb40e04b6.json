@@ -1,16 +1,25 @@
 {
   "id": "a0b94753b4164b978f327dbdb40e04b6",
-  "title": "Phoenix Point DLC 5",
-  "description": "Phoenix Point DLC 5",
+  "title": "Phoenix Point - Kaos Engines",
+  "description": "Phoenix Point - Kaos Engines",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/iris/item/phoenix-point_home-2560x1440-bbed143db545be028ce62fc6bab0e50c.png",
-      "md5": "bbed143db545be028ce62fc6bab0e50c",
+      "url": "https://cdn1.epicgames.com/item/iris/EGS_DLC5KaosEngines_SnapshotGamesIncSaberMinsk_DLC_S1_2560x1440-e550901e67541462212cb8e68dcad01b_2560x1440-e550901e67541462212cb8e68dcad01b",
+      "md5": "e550901e67541462212cb8e68dcad01b",
       "width": 2560,
       "height": 1440,
-      "size": 1516096,
-      "uploadedDate": "2019-12-03T19:07:05.297Z"
+      "size": 623133,
+      "uploadedDate": "2022-03-01T18:43:15.094Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/iris/EGS_DLC5KaosEngines_SnapshotGamesIncSaberMinsk_DLC_S2_1200x1600-420e3fe7696192df9869b8c746834862_1200x1600-420e3fe7696192df9869b8c746834862",
+      "md5": "420e3fe7696192df9869b8c746834862",
+      "width": 1200,
+      "height": 1600,
+      "size": 434613,
+      "uploadedDate": "2022-03-01T18:43:20.236Z"
     }
   ],
   "categories": [
@@ -24,7 +33,7 @@
   "namespace": "iris",
   "status": "ACTIVE",
   "creationDate": "2019-11-12T20:06:58.989Z",
-  "lastModifiedDate": "2021-05-25T16:48:22.147Z",
+  "lastModifiedDate": "2022-03-01T18:44:57.479Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -32,7 +41,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "DLC5"
+      "value": "KaosEngines"
     }
   },
   "entitlementName": "a0b94753b4164b978f327dbdb40e04b6",
