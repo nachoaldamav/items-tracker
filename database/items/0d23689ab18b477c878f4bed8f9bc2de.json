@@ -4,24 +4,6 @@
   "description": "Anno 1800",
   "keyImages": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/oregano/item/Icon_400x400_Anno-400x400-bda1437aa4ea0f532b819ec99f238723.jpg",
-      "md5": "bda1437aa4ea0f532b819ec99f238723",
-      "width": 400,
-      "height": 400,
-      "size": 40119,
-      "uploadedDate": "2019-03-29T14:41:55.386Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/oregano/item/ANNO1800_LOGO_white_Shaded.png-1600x1000-c95b19ebd47264a32612dfa66232597b.png",
-      "md5": "c95b19ebd47264a32612dfa66232597b",
-      "width": 1600,
-      "height": 1000,
-      "size": 137281,
-      "uploadedDate": "2019-04-23T15:16:13.842Z"
-    },
-    {
       "type": "DieselGameBox",
       "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/ANNO_Store_Landscape_1920x1080_1920x1080-cea85f12443da424bef2a30a20be060b",
       "md5": "cea85f12443da424bef2a30a20be060b",
@@ -51,7 +33,7 @@
   "namespace": "oregano",
   "status": "ACTIVE",
   "creationDate": "2019-03-29T14:46:24.783Z",
-  "lastModifiedDate": "2021-09-13T17:19:02.799Z",
+  "lastModifiedDate": "2022-03-03T23:58:48.976Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
