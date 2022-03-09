@@ -1,0 +1,50 @@
+{
+  "id": "e646cb92f844486083820329e8b77656",
+  "title": "NewtCommunitySkin007 Audience",
+  "description": "NewtCommunitySkin007 Audience",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/newt/item/EGS_ProletariatInc_Spellbreak_S1-2560x1440-75987e837f994b0638bf99cd359e723f.jpg",
+      "md5": "75987e837f994b0638bf99cd359e723f",
+      "width": 2560,
+      "height": 1440,
+      "size": 439488,
+      "uploadedDate": "2019-10-21T14:43:25.293Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "newt",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-29T15:39:10.902Z",
+  "lastModifiedDate": "2020-09-29T15:43:38.825Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NewtTest"
+    }
+  },
+  "entitlementName": "e646cb92f844486083820329e8b77656",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

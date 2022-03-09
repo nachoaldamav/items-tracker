@@ -1,0 +1,48 @@
+{
+  "id": "82bc49fddfb244c899377f0b431e6495",
+  "title": "Launch Mage Audience",
+  "description": "Launch Mage Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/newt/item/esrb-t-160x216-7db0693ecf5f1d8991f3b6117197c119.png",
+      "md5": "7db0693ecf5f1d8991f3b6117197c119",
+      "width": 160,
+      "height": 216,
+      "size": 3976,
+      "uploadedDate": "2020-09-03T14:21:10.796Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "newt",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-05T15:30:12.780Z",
+  "lastModifiedDate": "2021-07-22T04:25:39.467Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "82bc49fddfb244c899377f0b431e6495",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
