@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/item/tetriseffect_L1-1850x1041-39433010ede56695f20157632cbc9baf.jpg",
-      "md5": "39433010ede56695f20157632cbc9baf",
-      "width": 1850,
-      "height": 1041,
-      "size": 362071,
-      "uploadedDate": "2019-07-16T02:16:06.878Z"
+      "url": "https://cdn1.epicgames.com/item/76339caf9e8e4d24b62761c736e82b42/EGS_TetrisEffectConnected_MonstarsincandResonair_S3_2560x1440-f2b7de145181b857418618f0ea6c4ad5_2560x1440-f2b7de145181b857418618f0ea6c4ad5",
+      "md5": "f2b7de145181b857418618f0ea6c4ad5",
+      "width": 2560,
+      "height": 1440,
+      "size": 871670,
+      "uploadedDate": "2022-03-10T16:45:55.473Z"
     },
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/item/TetrisEffect_IC1_logo-3712x2854-bca2a325c1f009577c61e213d9ca28eb.png",
-      "md5": "bca2a325c1f009577c61e213d9ca28eb",
-      "width": 3712,
-      "height": 2854,
-      "size": 6214265,
-      "uploadedDate": "2019-07-16T02:17:02.822Z"
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/76339caf9e8e4d24b62761c736e82b42/EGS_TetrisEffectConnected_MonstarsincandResonair_S4_1200x1600-acde763fdaa91f4bb412c78aa028569f_1200x1600-acde763fdaa91f4bb412c78aa028569f",
+      "md5": "acde763fdaa91f4bb412c78aa028569f",
+      "width": 1200,
+      "height": 1600,
+      "size": 785300,
+      "uploadedDate": "2022-03-10T16:46:00.734Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "76339caf9e8e4d24b62761c736e82b42",
   "status": "ACTIVE",
   "creationDate": "2019-07-12T18:55:39.496Z",
-  "lastModifiedDate": "2021-08-18T04:00:33.373Z",
+  "lastModifiedDate": "2022-03-10T16:46:08.480Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -68,6 +68,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
