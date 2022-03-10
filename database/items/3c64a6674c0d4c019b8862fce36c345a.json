@@ -34,12 +34,12 @@
   ],
   "namespace": "25b6108a1b4e4f23bdd29a37e68567fa",
   "status": "ACTIVE",
-  "creationDate": "2022-02-22T17:17:31.293Z",
-  "lastModifiedDate": "2022-02-22T17:17:31.293Z",
+  "creationDate": "2022-01-27T14:26:09.898Z",
+  "lastModifiedDate": "2022-03-09T14:42:08.074Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{AppData}/../LocalLow/Gone Mad Studios/Hirilun/"
+      "value": "{AppData}/../LocalLow/Gone Mad Studios/Hirilun/EpicGames/"
     },
     "CloudIncludeList": {
       "type": "STRING",
@@ -59,11 +59,10 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "de8f9e4a9ac3429e93c4eb2aa115f719",
+      "id": "6241eaf8d6ac40ca9716b198496c736a",
       "appId": "24a2a561bfc54e01870d23a662de28c2",
       "platform": [
-        "Windows",
-        "Win32"
+        "Windows"
       ]
     }
   ],
