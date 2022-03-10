@@ -13,7 +13,7 @@
   "namespace": "e1809e1742cb498080d8849b11a99c5a",
   "status": "ACTIVE",
   "creationDate": "2019-07-12T21:27:32.390Z",
-  "lastModifiedDate": "2020-12-17T15:56:08.173Z",
+  "lastModifiedDate": "2022-03-10T19:49:05.281Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +23,15 @@
   "entitlementName": "82326d570bfa4de2a2d6c59853329fac",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "developer": "The Wandering Band LLC",
-  "developerId": "o-64h79p2hud28hmlx8emazj2ccfe6ml",
+  "releaseInfo": [],
+  "developer": "Freedom Games",
+  "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
