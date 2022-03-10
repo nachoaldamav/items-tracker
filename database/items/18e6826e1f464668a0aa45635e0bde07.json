@@ -33,7 +33,7 @@
   "namespace": "carnation",
   "status": "ACTIVE",
   "creationDate": "2019-02-11T18:08:53.061Z",
-  "lastModifiedDate": "2021-03-17T14:40:29.002Z",
+  "lastModifiedDate": "2022-03-10T20:31:20.070Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
@@ -113,7 +113,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
