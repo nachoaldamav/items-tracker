@@ -1,0 +1,67 @@
+{
+  "id": "9f9481474542412ea510937bf721d9ca",
+  "title": "Song of Horror",
+  "description": "Song of Horror",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0e5c4e408e274e0ca5f1c1b2df73dd48/song-of-horror-offer-tccjw.jpg",
+      "md5": "1583bbf5642478fbaf27e0bb6fe91bd4",
+      "width": 2560,
+      "height": 1440,
+      "size": 790552,
+      "uploadedDate": "2022-02-10T16:39:05.723Z",
+      "alt": "Song of Horror Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0e5c4e408e274e0ca5f1c1b2df73dd48/download-song-of-horror-offer-p5k7p.jpg",
+      "md5": "27d134a0901c550fbf6afa1b68847e26",
+      "width": 1200,
+      "height": 1600,
+      "size": 415536,
+      "uploadedDate": "2022-02-10T16:39:05.437Z",
+      "alt": "Download Song of Horror Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "658fe15a39fc47a88381b7a359e55913",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-09T17:25:29.222Z",
+  "lastModifiedDate": "2022-03-09T17:25:29.222Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/SongOfHorror/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SongofHorror"
+    }
+  },
+  "entitlementName": "9f9481474542412ea510937bf721d9ca",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cbbde564d69249048ccbde65134f6e04",
+      "appId": "f280b8f51e3c4202af327f6ca6c6b15b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Raiser Games S.L.",
+  "developerId": "o-ftj5pwe7pmhjqvnufd2l85hj7an3xd",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
