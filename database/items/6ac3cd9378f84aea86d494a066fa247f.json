@@ -41,8 +41,12 @@
   "namespace": "bf93c3451ebd472b8015d20057fc2116",
   "status": "ACTIVE",
   "creationDate": "2021-11-11T01:56:17.725Z",
-  "lastModifiedDate": "2022-02-18T09:19:44.281Z",
+  "lastModifiedDate": "2022-03-15T09:06:51.701Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserProfile}/IgnoranceIsStrength/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "OrwellIgnoranceisStrCZYs6"
@@ -64,6 +68,7 @@
   "developer": "Fellow Traveller",
   "developerId": "o-22uq4lnmzc6kmlbbaf5gp8yvysnn3t",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
