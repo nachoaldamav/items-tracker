@@ -34,9 +34,17 @@
   ],
   "namespace": "e25eba2210804006a61763a4108322de",
   "status": "ACTIVE",
-  "creationDate": "2022-03-09T16:30:26.924Z",
-  "lastModifiedDate": "2022-03-09T16:30:26.924Z",
+  "creationDate": "2022-02-08T14:09:02.449Z",
+  "lastModifiedDate": "2022-03-17T17:56:17.495Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/ByteRockers' Games/Insurmountable/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav\n*.old"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "Insurmountable"
@@ -47,9 +55,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "cd00113d7ee14268a12149d2e5854e75",
+      "id": "4739fda5ddcf4a65bb00dba6f1c1f5c1",
       "appId": "8b556e7471ac46eda46445d93fa2e73f",
-      "platform": []
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
     }
   ],
   "developer": "Daedalic Entertainment",
