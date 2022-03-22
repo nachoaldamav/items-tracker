@@ -1,0 +1,66 @@
+{
+  "id": "099c77967c3c4751b34525b8f63fb5df",
+  "title": "Nibiru",
+  "description": "Nibiru",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d91b61ea7ee144c2b17a7b20bc2d6776/nibiru-offer-kzn1s.jpg",
+      "md5": "fcd6d1840977050c89ecec64ddf36998",
+      "width": 2560,
+      "height": 1440,
+      "size": 1999679,
+      "uploadedDate": "2022-02-24T16:03:54.692Z",
+      "alt": "Nibiru Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d91b61ea7ee144c2b17a7b20bc2d6776/download-nibiru-offer-nhsnd.jpg",
+      "md5": "f3720c7eb481bfb9558757bf3b8faf48",
+      "width": 1200,
+      "height": 1600,
+      "size": 857978,
+      "uploadedDate": "2022-02-24T16:03:55.718Z",
+      "alt": "Download Nibiru Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "79ace9e2498c41c29e83395728cccc96",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-16T20:33:30.138Z",
+  "lastModifiedDate": "2022-03-16T20:33:30.138Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NibiruhMvEg"
+    }
+  },
+  "entitlementName": "099c77967c3c4751b34525b8f63fb5df",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "75902ccf2f7d43b9bb459a8c60f28569",
+      "appId": "e784eb48aa2d43e8a4fafef9445c13a0",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Freedom Games",
+  "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
