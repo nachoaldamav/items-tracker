@@ -1,0 +1,68 @@
+{
+  "id": "7bd479e935204ed58fdda3be30ba59be",
+  "title": "Airline Tycoon Deluxe",
+  "description": "Airline Tycoon Deluxe",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5e4fd112149840f1a951d4b96934acf9/download-airline-tycoon-deluxe-offer-4c1bz.jpg",
+      "md5": "6b9a64a56f379adcbde998f099524d5a",
+      "width": 1200,
+      "height": 1600,
+      "size": 451459,
+      "uploadedDate": "2022-02-18T13:09:05.725Z",
+      "alt": "Download Airline Tycoon Deluxe Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5e4fd112149840f1a951d4b96934acf9/airline-tycoon-deluxe-offer-g339e.jpg",
+      "md5": "1a04a089d12f7be883ccc9ab46fccb00",
+      "width": 2560,
+      "height": 1440,
+      "size": 694540,
+      "uploadedDate": "2022-02-18T13:09:05.861Z",
+      "alt": "Airline Tycoon Deluxe Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "47a2601d1f1349d7b20bae18da4b8318",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-23T08:09:11.748Z",
+  "lastModifiedDate": "2022-03-23T08:09:11.748Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Savegame/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AirlineTycoonDeluxe"
+    }
+  },
+  "entitlementName": "7bd479e935204ed58fdda3be30ba59be",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "198da99f84b74f55b23eb1b10c9bc1c5",
+      "appId": "a94f9c35a3dc461bbda9dbeacd6ca166",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Handy Games",
+  "developerId": "o-ekk92wx8mesnmsvbseequvnt38mzu6",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
