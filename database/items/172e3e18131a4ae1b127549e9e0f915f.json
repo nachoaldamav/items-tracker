@@ -31,11 +31,22 @@
   ],
   "namespace": "d250bdf072934b70ab080c6fcee77734",
   "status": "ACTIVE",
-  "creationDate": "2022-03-18T18:21:54.228Z",
-  "lastModifiedDate": "2022-03-18T18:21:54.228Z",
+  "creationDate": "2022-03-02T15:53:21.895Z",
+  "lastModifiedDate": "2022-03-22T11:23:36.096Z",
+  "customAttributes": {},
   "entitlementName": "172e3e18131a4ae1b127549e9e0f915f",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3b7fbeda6bd4466e98f48b32d9038f8e",
+      "appId": "d3e7219bda5a43f8920eedf2e81c5d05",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
   "developer": "Daedalic Entertainment",
   "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
   "endOfSupport": false,
