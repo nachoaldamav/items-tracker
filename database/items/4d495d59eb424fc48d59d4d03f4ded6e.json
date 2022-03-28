@@ -24,7 +24,7 @@
   "namespace": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
   "status": "ACTIVE",
   "creationDate": "2020-01-13T21:35:13.984Z",
-  "lastModifiedDate": "2020-11-19T20:47:25.636Z",
+  "lastModifiedDate": "2022-03-28T17:28:57.910Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -34,13 +34,16 @@
   "entitlementName": "4d495d59eb424fc48d59d4d03f4ded6e",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Gearbox Publishing",
   "developerId": "o-dcmk65hvycy3kndmqvfg3yn3up87jn",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "esrbGameRatingValue": "TEEN",
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
