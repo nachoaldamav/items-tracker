@@ -1,7 +1,7 @@
 {
   "id": "f7581267ccd246c9ae7dd53cde903c86",
-  "title": "The Alien Cube",
-  "description": "The Alien Cube",
+  "title": "The Alien Cube - Demo",
+  "description": "The Alien Cube - Demo",
   "keyImages": [
     {
       "type": "DieselGameBoxTall",
@@ -35,7 +35,7 @@
   "namespace": "ea4755484f8641a4a540c227bb62f02d",
   "status": "ACTIVE",
   "creationDate": "2022-02-25T12:55:41.501Z",
-  "lastModifiedDate": "2022-03-21T18:20:45.286Z",
+  "lastModifiedDate": "2022-03-29T15:28:28.714Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -56,7 +56,10 @@
   ],
   "developer": "Alessandro Guzzo Organization",
   "developerId": "o-9rjv952axbevlpcy8xuyunjyhtpkva",
+  "eulaIds": [],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
