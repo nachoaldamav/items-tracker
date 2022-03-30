@@ -36,7 +36,7 @@
   "namespace": "df37f065c3f14eadbf011177396e2966",
   "status": "ACTIVE",
   "creationDate": "2020-10-26T16:28:13.460Z",
-  "lastModifiedDate": "2020-12-18T16:36:46.496Z",
+  "lastModifiedDate": "2022-03-30T21:43:40.071Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -87,8 +87,9 @@
   "developer": "SEGA of Europe",
   "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
   "eulaIds": [
-    "egstore"
+    "(egstore && sega_of_europe)"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
   "applicationId": "fghi4567WncMSw97kolM0Ff1UBPqwsE7",
