@@ -1,0 +1,63 @@
+{
+  "id": "b3b3a6d63cb04d44a0e5d8df5697938a",
+  "title": "MythForce",
+  "description": "MythForce",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c4099459877a4e47a6b927032f32ed41/mythforce-axe-daily-offer-1c2ls.jpg",
+      "md5": "b1970d7cc96822c5d71b0c56546f7cc2",
+      "width": 2560,
+      "height": 1440,
+      "size": 98772,
+      "uploadedDate": "2022-01-12T18:49:37.857Z",
+      "alt": "MythForce AXE Daily Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c4099459877a4e47a6b927032f32ed41/download-mythforce-axe-daily-offer-cavtk.jpg",
+      "md5": "b465d4c3299e281dbe45cb1126acc0f8",
+      "width": 1200,
+      "height": 1600,
+      "size": 59482,
+      "uploadedDate": "2022-01-12T18:49:37.946Z",
+      "alt": "Download MythForce AXE Daily Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "720cc28ab09b455f8388decfa0ba4796",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-31T19:11:16.825Z",
+  "lastModifiedDate": "2022-03-31T19:11:16.825Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "AXEDaily"
+    }
+  },
+  "entitlementName": "b3b3a6d63cb04d44a0e5d8df5697938a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5c79d6ef0cf841a9b8fee157c8e4afd7",
+      "appId": "e7131feb726b43259e9bb43849bc0bc9",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Beamdog",
+  "developerId": "o-wc3gy6s683brl6424p7kqlrldhy7vd",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
