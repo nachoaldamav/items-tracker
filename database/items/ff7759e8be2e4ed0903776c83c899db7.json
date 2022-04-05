@@ -1,0 +1,59 @@
+{
+  "id": "ff7759e8be2e4ed0903776c83c899db7",
+  "title": "Dreamsettler",
+  "description": "Dreamsettler",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ed96456bf6714effaafe350a5c8e6489/dreamsettler-offer-d76gz.png",
+      "md5": "dedb76bd28593021cef7930d4e424598",
+      "width": 2560,
+      "height": 1440,
+      "size": 2491837,
+      "uploadedDate": "2022-03-31T09:16:49.011Z",
+      "alt": "Dreamsettler Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ed96456bf6714effaafe350a5c8e6489/download-dreamsettler-offer-l4aei.png",
+      "md5": "245d47ad86b6eed9425ccade2c840a2c",
+      "width": 1200,
+      "height": 1600,
+      "size": 1451287,
+      "uploadedDate": "2022-03-31T09:20:20.770Z",
+      "alt": "Download Dreamsettler Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7bd00a5e672148999cec558679b9e192",
+  "status": "ACTIVE",
+  "creationDate": "2022-04-05T09:02:47.812Z",
+  "lastModifiedDate": "2022-04-05T09:02:47.812Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DreamsettlerCNdsB"
+    }
+  },
+  "entitlementName": "ff7759e8be2e4ed0903776c83c899db7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fc6ca858a94147e7859d165bfd088660",
+      "appId": "a80936e331ee4dedbf702bd40e60e08a"
+    }
+  ],
+  "developer": "No More Robots",
+  "developerId": "o-236t9erksuklvbpwrddx5953wndtps",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
