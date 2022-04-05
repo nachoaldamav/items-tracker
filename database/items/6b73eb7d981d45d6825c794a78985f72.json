@@ -51,7 +51,7 @@
   "namespace": "mars2030",
   "status": "ACTIVE",
   "creationDate": "2018-02-08T16:18:33.929Z",
-  "lastModifiedDate": "2020-01-07T15:06:26.091Z",
+  "lastModifiedDate": "2022-04-05T14:13:00.181Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -85,8 +85,11 @@
   "developer": "Fusion Media Group",
   "developerId": "o-v8ctg8jgjafjpj27mwqxqzcmgmkzrf",
   "eulaIds": [
-    "(mars2030 && ue_games)"
+    "(mars2030 && unreal_engine)"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

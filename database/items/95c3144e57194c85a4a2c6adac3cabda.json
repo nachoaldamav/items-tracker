@@ -43,7 +43,7 @@
   "namespace": "battalion",
   "status": "ACTIVE",
   "creationDate": "2018-07-06T15:29:46.063Z",
-  "lastModifiedDate": "2020-01-07T15:03:01.499Z",
+  "lastModifiedDate": "2022-04-05T14:07:37.106Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -77,8 +77,11 @@
   "developer": "Epic Games",
   "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
   "eulaIds": [
-    "(battalion && ue_games)"
+    "(battalion && unreal_engine)"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

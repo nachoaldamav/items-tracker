@@ -42,7 +42,7 @@
   "namespace": "pixark",
   "status": "ACTIVE",
   "creationDate": "2018-06-25T17:20:46.711Z",
-  "lastModifiedDate": "2020-01-07T15:08:05.535Z",
+  "lastModifiedDate": "2022-04-05T14:15:03.580Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -76,8 +76,11 @@
   "developer": "Snail Games USA",
   "developerId": "o-33w3pktcfkzsmhns2qwp7mmr3z4nht",
   "eulaIds": [
-    "(pixark && ue_games)"
+    "(pixark && unreal_engine)"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

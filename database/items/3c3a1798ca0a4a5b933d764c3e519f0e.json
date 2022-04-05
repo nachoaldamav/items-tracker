@@ -42,7 +42,7 @@
   "namespace": "bussim18",
   "status": "ACTIVE",
   "creationDate": "2018-05-17T19:05:27.776Z",
-  "lastModifiedDate": "2020-01-07T15:03:29.498Z",
+  "lastModifiedDate": "2022-04-05T14:08:12.391Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -76,9 +76,11 @@
   "developer": "Epic Games",
   "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
   "eulaIds": [
-    "(bussim18 && ue_games)"
+    "(bussim18 && unreal_engine)"
   ],
   "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

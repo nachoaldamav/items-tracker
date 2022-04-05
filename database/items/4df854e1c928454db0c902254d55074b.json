@@ -51,7 +51,7 @@
   "namespace": "showmaker",
   "status": "ACTIVE",
   "creationDate": "2018-08-27T14:03:30.822Z",
-  "lastModifiedDate": "2020-01-07T15:08:53.889Z",
+  "lastModifiedDate": "2022-04-05T14:16:55.448Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -85,8 +85,11 @@
   "developer": "Preapp Partners",
   "developerId": "o-6scaa9jsj4mnlnn4dgcvdekny3xcag",
   "eulaIds": [
-    "(showmaker && ue_games)"
+    "(showmaker && unreal_engine)"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

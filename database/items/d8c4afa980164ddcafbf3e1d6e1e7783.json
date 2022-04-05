@@ -14,7 +14,7 @@
   "namespace": "helloneighbor",
   "status": "ACTIVE",
   "creationDate": "2019-12-19T00:13:53.915Z",
-  "lastModifiedDate": "2020-01-30T14:26:28.506Z",
+  "lastModifiedDate": "2022-04-05T14:12:33.976Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -48,8 +48,11 @@
   "developer": "tinyBuild Games",
   "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
   "eulaIds": [
-    "(helloneighbor && ue_games)"
+    "(helloneighbor && unreal_engine)"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

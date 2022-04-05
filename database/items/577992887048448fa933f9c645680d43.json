@@ -51,7 +51,7 @@
   "namespace": "odin",
   "status": "ACTIVE",
   "creationDate": "2017-01-16T19:52:36.107Z",
-  "lastModifiedDate": "2020-01-07T15:07:45.886Z",
+  "lastModifiedDate": "2022-04-05T14:14:33.700Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -83,8 +83,11 @@
   "developer": "Epic Games",
   "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
   "eulaIds": [
-    "(odin && ue_games)"
+    "(odin && unreal_engine)"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

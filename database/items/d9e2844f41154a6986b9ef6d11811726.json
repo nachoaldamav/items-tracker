@@ -51,7 +51,7 @@
   "namespace": "darkandlight",
   "status": "ACTIVE",
   "creationDate": "2018-03-06T19:57:06.585Z",
-  "lastModifiedDate": "2020-01-07T15:05:17.003Z",
+  "lastModifiedDate": "2022-04-05T14:11:28.634Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -85,8 +85,11 @@
   "developer": "Snail Games USA",
   "developerId": "o-33w3pktcfkzsmhns2qwp7mmr3z4nht",
   "eulaIds": [
-    "(darkandlight && ue_games)"
+    "(darkandlight && unreal_engine)"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
