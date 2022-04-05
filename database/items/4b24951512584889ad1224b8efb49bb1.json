@@ -51,7 +51,7 @@
   "namespace": "conanexiles",
   "status": "ACTIVE",
   "creationDate": "2017-01-16T19:41:54.055Z",
-  "lastModifiedDate": "2020-06-25T14:29:23.165Z",
+  "lastModifiedDate": "2022-04-05T14:55:39.196Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -80,11 +80,14 @@
       "dateAdded": "2017-01-16T00:00:00.000Z"
     }
   ],
-  "developer": "Funcom",
+  "developer": "Funcom Oslo AS",
   "developerId": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
   "eulaIds": [
-    "(conanexiles && ue_games)"
+    "(conanexiles && unreal_engine)"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
