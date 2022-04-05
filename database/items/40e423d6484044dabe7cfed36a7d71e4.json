@@ -14,7 +14,7 @@
   "namespace": "affc33b82405457595a032f00284abd2",
   "status": "ACTIVE",
   "creationDate": "2020-03-12T20:25:02.123Z",
-  "lastModifiedDate": "2020-07-09T14:57:59.421Z",
+  "lastModifiedDate": "2022-04-05T21:09:25.575Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -24,13 +24,16 @@
   "entitlementName": "40e423d6484044dabe7cfed36a7d71e4",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Tripwire Interactive",
   "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
   "useCount": 1,
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
