@@ -1,7 +1,7 @@
 {
   "id": "6120008de1154fa0938246fc6bd268a6",
-  "title": "Kombinara",
-  "description": "Kombinara",
+  "title": "Kombinera",
+  "description": "Kombinera",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,8 +34,8 @@
   ],
   "namespace": "1abfe306ce6d46999d2e76eadccf658e",
   "status": "ACTIVE",
-  "creationDate": "2022-03-31T14:28:50.407Z",
-  "lastModifiedDate": "2022-03-31T14:28:50.407Z",
+  "creationDate": "2022-01-14T21:04:59.573Z",
+  "lastModifiedDate": "2022-04-07T12:19:54.986Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,7 +47,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "54043b21503f47368ce08d13f373a85e",
+      "id": "d1049aa4835047338fa1833b801410f4",
       "appId": "14b24b932f3f484f8c707157c29f9c43",
       "platform": [
         "Windows",
@@ -58,6 +58,7 @@
   "developer": "Atari",
   "developerId": "o-bhpk86rgthezed539g3hb5avacecqt",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
