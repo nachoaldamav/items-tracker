@@ -4,6 +4,16 @@
   "description": "MythForce",
   "keyImages": [
     {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c4099459877a4e47a6b927032f32ed41/mythforce-offer-10glq.jpg",
+      "md5": "e24407892ff70b83f30eb890bd27486e",
+      "width": 2560,
+      "height": 1440,
+      "size": 2242830,
+      "uploadedDate": "2022-03-10T20:30:24.208Z",
+      "alt": "MythForce Offer"
+    },
+    {
       "type": "DieselGameBoxTall",
       "url": "https://cdn1.epicgames.com/spt-assets/c4099459877a4e47a6b927032f32ed41/download-mythforce-offer-14lgi.png",
       "md5": "d425bb1449bd90e82d5926e84f647357",
@@ -12,16 +22,6 @@
       "size": 2799804,
       "uploadedDate": "2022-01-25T18:24:08.590Z",
       "alt": "Download MythForce Offer"
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/c4099459877a4e47a6b927032f32ed41/mythforce-offer-1wyut.png",
-      "md5": "07de7526e916c50e3cb479db506ee90c",
-      "width": 2560,
-      "height": 1440,
-      "size": 1155006,
-      "uploadedDate": "2022-01-25T17:24:00.385Z",
-      "alt": "MythForce Offer"
     }
   ],
   "categories": [
@@ -41,7 +41,7 @@
   "namespace": "720cc28ab09b455f8388decfa0ba4796",
   "status": "ACTIVE",
   "creationDate": "2021-11-08T18:50:04.404Z",
-  "lastModifiedDate": "2022-02-18T09:20:01.824Z",
+  "lastModifiedDate": "2022-04-04T17:28:12.347Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -53,7 +53,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "2c65de55f12d43a09f34187200aac86d",
+      "id": "d3be9a4ce57a420bb65746be7fe1e384",
       "appId": "331b6a9944d9475dadac1469dc4390de",
       "platform": [
         "Windows"
