@@ -34,8 +34,8 @@
   ],
   "namespace": "e29b385c72634f359aa900b174011e1a",
   "status": "ACTIVE",
-  "creationDate": "2022-03-24T12:27:16.163Z",
-  "lastModifiedDate": "2022-03-24T12:27:16.163Z",
+  "creationDate": "2022-03-23T10:37:41.061Z",
+  "lastModifiedDate": "2022-04-08T14:32:20.927Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "f64f2076-7707-4b07-8fdc-1067ddd69529",
+      "id": "677ddd3f941d4649b5163f59360dfdb1",
       "appId": "604919518dda4f1491894d271041de38",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Hound Picked Games",
