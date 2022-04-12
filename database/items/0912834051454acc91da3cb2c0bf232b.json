@@ -1,26 +1,26 @@
 {
-  "id": "1c95a571bdbe4d5790989ed9d81aecba",
-  "title": "Twinmotion EDU 2022.2 Preview 1",
-  "description": "Twinmotion 2022.2 Preview 1",
+  "id": "0912834051454acc91da3cb2c0bf232b",
+  "title": "Twinmotion 2022.2 Preview 1",
+  "description": "Twinmotion 2022.2 Preview 1 License",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LauncherThumbnailLandscapeLogoEDU_1920x1080_1920x1080-cc96d83fb3119e34abb35d366c5a5f12",
-      "md5": "cc96d83fb3119e34abb35d366c5a5f12",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LauncherThumbnailLandscapeLogoFull_1920x1080_1920x1080-bebbabc284351b777a50cb9d8caceaa7",
+      "md5": "bebbabc284351b777a50cb9d8caceaa7",
       "width": 1920,
       "height": 1080,
-      "size": 3705280,
-      "uploadedDate": "2021-08-04T13:29:07.221Z",
+      "size": 2271408,
+      "uploadedDate": "2021-08-04T13:34:28.973Z",
       "alt": "TwinMotion"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LauncherThumbnailProfileLogoEDU_1200x1600_1200x1600-06d7108384e1d5364995b3a4ad1919c2",
-      "md5": "06d7108384e1d5364995b3a4ad1919c2",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LauncherThumbnailProfileLogoFull_1200x1600_1200x1600-7860c85d5b27b24179f2faf30b4f9efe",
+      "md5": "7860c85d5b27b24179f2faf30b4f9efe",
       "width": 1200,
       "height": 1600,
-      "size": 3095688,
-      "uploadedDate": "2021-08-04T13:29:18.235Z",
+      "size": 2250578,
+      "uploadedDate": "2021-08-04T13:34:39.373Z",
       "alt": "TwinMotion"
     }
   ],
@@ -34,8 +34,8 @@
   ],
   "namespace": "poodle",
   "status": "ACTIVE",
-  "creationDate": "2022-04-12T12:15:35.839Z",
-  "lastModifiedDate": "2022-04-12T12:20:43.333Z",
+  "creationDate": "2022-04-12T12:22:33.144Z",
+  "lastModifiedDate": "2022-04-12T12:22:33.144Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -51,7 +51,7 @@
     },
     "egs.library.display_version": {
       "type": "STRING",
-      "value": "Twinmotion2022.2(EDU)"
+      "value": "2022.2"
     },
     "com.epicgames.app.developerName": {
       "type": "STRING",
@@ -63,26 +63,27 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Twinmotion2022.2EDU"
+      "value": "Twinmotion2022.2"
     },
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows, Mac"
     }
   },
-  "entitlementName": "1c95a571bdbe4d5790989ed9d81aecba",
+  "entitlementName": "0912834051454acc91da3cb2c0bf232b",
   "entitlementType": "EXECUTABLE",
+  "entitlementStartDate": "2021-10-04T17:04:58.306Z",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "dde8bfeef3164099821426ee08cf6085",
-      "appId": "8b666300f5034092a80b9aa4d2dd890d",
+      "id": "fd7c3f091b2a453fa38a16444e033cd0",
+      "appId": "d3f3060fffa84a5dac91955bb65a8ae5",
       "compatibleApps": [],
       "platform": [
         "Windows",
         "Mac"
       ],
-      "dateAdded": "2021-10-20T13:27:00.000Z"
+      "dateAdded": "2021-10-20T13:26:00.000Z"
     }
   ],
   "developer": "Epic Games",
