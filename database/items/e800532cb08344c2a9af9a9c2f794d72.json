@@ -1,0 +1,52 @@
+{
+  "id": "e800532cb08344c2a9af9a9c2f794d72",
+  "title": "OatmealStaging",
+  "description": "OatmealStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "598bbf91c75b4ac9a676d82719acdbb1",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-11T20:58:07.033Z",
+  "lastModifiedDate": "2020-11-10T01:54:18.358Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OatmealStaging"
+    }
+  },
+  "entitlementName": "e800532cb08344c2a9af9a9c2f794d72",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bc9fa022cfd74a669918b5273b21a86f",
+      "appId": "a5fbe7abec0646a08c1df49905e50aee",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "Illfonic",
+  "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
