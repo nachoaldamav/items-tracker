@@ -40,16 +40,24 @@
   ],
   "namespace": "beb7e64d3da74ae780405da48cccb581",
   "status": "ACTIVE",
-  "creationDate": "2022-03-23T15:16:31.196Z",
-  "lastModifiedDate": "2022-03-23T15:16:31.196Z",
+  "creationDate": "2021-09-22T23:58:50.822Z",
+  "lastModifiedDate": "2022-04-14T11:28:30.334Z",
   "customAttributes": {
     "CloudSaveFolder_MAC": {
       "type": "STRING",
-      "value": "{AppData}/Liquid Pug LLC/Godlike Burger/"
+      "value": "{AppData}/Liquid Pug LLC/Godlike Burger/EGS/"
     },
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{AppData}/../LocalLow/Liquid Pug LLC/GodlikeBurger/"
+      "value": "{AppData}/../LocalLow/Liquid Pug LLC/Godlike Burger/EGS/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.es3"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
     },
     "FolderName": {
       "type": "STRING",
@@ -61,7 +69,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "d211d476b285452688ecd21251c5650a",
+      "id": "721ccdd363f34e24bb68ccb9da613532",
       "appId": "f7c6294c948b47378659c9a963f449be",
       "platform": [
         "Windows",
@@ -72,7 +80,7 @@
   "developer": "Daedalic Entertainment",
   "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567hnBfTjL8YPQ0vC3hxg6nKYba",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
