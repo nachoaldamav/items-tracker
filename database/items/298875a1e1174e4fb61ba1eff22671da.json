@@ -36,7 +36,7 @@
   "namespace": "7051eadbb8c2435caf32a9bc0dc17936",
   "status": "ACTIVE",
   "creationDate": "2020-04-02T21:46:13.857Z",
-  "lastModifiedDate": "2021-02-22T15:15:55.811Z",
+  "lastModifiedDate": "2022-04-20T20:36:55.260Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -96,9 +96,11 @@
   "developer": "Ludeon Studios",
   "developerId": "o-hsdwarj24e4ntqdnvu83854narhusv",
   "eulaIds": [
-    "egstore"
+    "[egstore && rimworld]"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
