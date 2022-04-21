@@ -35,15 +35,15 @@
   "namespace": "7691acba99d04b8b994ce3c642ec7655",
   "status": "ACTIVE",
   "creationDate": "2022-02-08T14:08:05.353Z",
-  "lastModifiedDate": "2022-04-19T21:37:11.995Z",
+  "lastModifiedDate": "2022-04-21T07:11:53.973Z",
   "customAttributes": {
     "CloudSaveFolder_MAC": {
       "type": "STRING",
-      "value": "{AppData}/Zar21/VELONE/"
+      "value": "{AppData}/Daedalic Entertainment GmbH/VELONE/"
     },
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{AppData}/../LocalLow/Zar21/VELONE/"
+      "value": "{AppData}/../LocalLow/Daedalic Entertainment GmbH/VELONE/"
     },
     "CloudIncludeList": {
       "type": "STRING",
@@ -63,7 +63,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "1cdcd67987b34ce7a45e3da167780d15",
+      "id": "f06cfccff6194c7caab7e0a4ea97176c",
       "appId": "cc3213e82b994c6da47440d145d32852",
       "platform": [
         "Mac",
