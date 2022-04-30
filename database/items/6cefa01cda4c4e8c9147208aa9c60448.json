@@ -1,0 +1,62 @@
+{
+  "id": "6cefa01cda4c4e8c9147208aa9c60448",
+  "title": "Desert Child",
+  "description": "Desert Child",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a8a75f4113fd4dcbbec952038b4eb071/desert-child-offer-1gaco.jpg",
+      "md5": "dddb2bd323b87a62cac6bc453775cbf3",
+      "width": 2560,
+      "height": 1440,
+      "size": 343276,
+      "uploadedDate": "2022-01-28T06:35:40.800Z",
+      "alt": "Desert Child Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a8a75f4113fd4dcbbec952038b4eb071/download-desert-child-offer-1r8zd.jpg",
+      "md5": "5d35408641c48296961a5810d4520547",
+      "width": 1200,
+      "height": 1600,
+      "size": 232273,
+      "uploadedDate": "2022-01-28T06:35:41.121Z",
+      "alt": "Download Desert Child Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c38e2ec7b154418a8249614077b3ad5e",
+  "status": "ACTIVE",
+  "creationDate": "2022-04-26T22:22:36.891Z",
+  "lastModifiedDate": "2022-04-26T22:22:36.891Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DesertChildcnUTL"
+    }
+  },
+  "entitlementName": "6cefa01cda4c4e8c9147208aa9c60448",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "03f0ae01cd7b4b57a30e06b9dd2c422e",
+      "appId": "d75d7f1db89a40acb7a35c0f178a4969",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Akupara Games",
+  "developerId": "o-vzv8n7jse99sluj4vaa8522rh45cvg",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
