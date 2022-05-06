@@ -35,11 +35,11 @@
   "namespace": "1293d5a9bfc84e7e8574d02b6ee5a3af",
   "status": "ACTIVE",
   "creationDate": "2022-01-14T16:58:00.994Z",
-  "lastModifiedDate": "2022-04-27T12:40:12.175Z",
+  "lastModifiedDate": "2022-05-05T07:58:44.241Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "AreYouSmarterthana5tTFJV0"
+      "value": "AreYouSmarterThanA5Grader"
     }
   },
   "entitlementName": "86010cee3aa04c6c8951bd19ddd85e28",
@@ -47,16 +47,18 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "85c10cf819074104b02a87443f48cfdf",
+      "id": "9f74503dd4bf4866875b5757e2ab03ef",
       "appId": "8052968859fb46aea7cbc381c19188d2",
       "platform": [
-        "Windows"
+        "Windows",
+        "Win32"
       ]
     }
   ],
   "developer": "Handy Games",
   "developerId": "o-ekk92wx8mesnmsvbseequvnt38mzu6",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
