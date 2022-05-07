@@ -35,7 +35,7 @@
   "namespace": "cae59d6d2a1341c8b92c89ddf970e1e6",
   "status": "ACTIVE",
   "creationDate": "2022-04-05T14:09:06.463Z",
-  "lastModifiedDate": "2022-04-05T14:09:06.463Z",
+  "lastModifiedDate": "2022-05-06T23:28:17.913Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -65,7 +65,12 @@
   ],
   "developer": "Yogscast Ltd",
   "developerId": "o-gj7j4uu4j6dde8vjb3haa58fjthhfv",
+  "eulaIds": [
+    "(egstore && trolleyproblemeula)"
+  ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
