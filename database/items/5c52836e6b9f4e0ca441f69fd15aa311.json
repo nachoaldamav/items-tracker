@@ -4,22 +4,22 @@
   "description": "Tom Clancy's The Division 2 - Trial",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/impala/item/TCTD2_Trial_Weekend_1200x1600-1200x1600-fce93abc3ae467399de852c3560572aa.png",
-      "md5": "fce93abc3ae467399de852c3560572aa",
-      "width": 1200,
-      "height": 1600,
-      "size": 3426320,
-      "uploadedDate": "2020-09-22T18:25:18.442Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/impala/item/TD2_FREEWEEK_Capsule_1920x1080_UK-1920x1080-b640aa1d45cde4478638cdfbd26e7c06.jpg",
-      "md5": "b640aa1d45cde4478638cdfbd26e7c06",
+      "url": "https://cdn1.epicgames.com/item/impala/US_TCTD2_EPIC_1920x1080_1920x1080-4d8fa4ac4dc7a947c260d8c6175b42b5",
+      "md5": "4d8fa4ac4dc7a947c260d8c6175b42b5",
       "width": 1920,
       "height": 1080,
-      "size": 1126873,
-      "uploadedDate": "2020-09-22T18:25:21.575Z"
+      "size": 367481,
+      "uploadedDate": "2022-05-05T20:14:14.567Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/impala/US_TCTD2_EPIC_1200x1600_1200x1600-a5657d791f8a30e83a23c5d894f8d341",
+      "md5": "a5657d791f8a30e83a23c5d894f8d341",
+      "width": 1200,
+      "height": 1600,
+      "size": 386035,
+      "uploadedDate": "2022-05-05T20:14:17.616Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "impala",
   "status": "ACTIVE",
   "creationDate": "2019-10-14T22:52:03.772Z",
-  "lastModifiedDate": "2022-05-05T20:11:01.169Z",
+  "lastModifiedDate": "2022-05-09T15:48:44.465Z",
   "customAttributes": {
     "PresenceID": {
       "type": "STRING",
@@ -57,7 +57,11 @@
     },
     "availableDate": {
       "type": "STRING",
-      "value": "1600959600"
+      "value": "1652112000"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "67b3aca00d5044418adbfa070f63cd2a"
     },
     "FolderName": {
       "type": "STRING",
