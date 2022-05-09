@@ -34,12 +34,12 @@
   ],
   "namespace": "83982788ab8e425b9c0bbe2031db3420",
   "status": "ACTIVE",
-  "creationDate": "2022-05-04T01:42:15.676Z",
-  "lastModifiedDate": "2022-05-04T01:42:15.676Z",
+  "creationDate": "2022-02-01T22:23:09.654Z",
+  "lastModifiedDate": "2022-05-07T17:24:49.604Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "M1TankPlatoonjdVdb"
+      "value": "M1TankPlatoon"
     }
   },
   "entitlementName": "3ffeaa13f735415e8ecea43e9c714a93",
@@ -47,7 +47,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "a2e1d03a288443cf85664a8f4f0be918",
+      "id": "2cec8504cfe74baa813d80fd0f35b150",
       "appId": "1e09b8a5cb8c4798a75bc275c311eb55",
       "platform": [
         "Win32",
@@ -59,6 +59,7 @@
   "developer": "Interplay Entertainment Corp.",
   "developerId": "o-ebvwv4fmqxbw48yz3rx65fmxxqfk35",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
