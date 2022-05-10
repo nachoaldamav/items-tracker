@@ -24,7 +24,7 @@
   "namespace": "d0230ef21b1f4ef29aec0d49946912fc",
   "status": "ACTIVE",
   "creationDate": "2019-05-08T15:55:29.379Z",
-  "lastModifiedDate": "2019-07-11T15:01:45.781Z",
+  "lastModifiedDate": "2022-05-10T14:36:22.142Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -34,12 +34,16 @@
   "entitlementName": "6522f4d98a6f4cc4a2c2d9cea69708ba",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "developer": "Perfect World",
+  "releaseInfo": [],
+  "developer": "Gearbox Publishing San Francisco",
   "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

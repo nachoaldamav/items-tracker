@@ -36,7 +36,7 @@
   "namespace": "d0230ef21b1f4ef29aec0d49946912fc",
   "status": "ACTIVE",
   "creationDate": "2019-05-08T15:55:29.524Z",
-  "lastModifiedDate": "2020-02-21T14:26:03.155Z",
+  "lastModifiedDate": "2022-05-10T14:36:09.459Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -64,11 +64,14 @@
       "dateAdded": "2019-06-24T00:00:00.000Z"
     }
   ],
-  "developer": "Perfect World",
+  "developer": "Gearbox Publishing San Francisco",
   "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

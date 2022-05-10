@@ -24,7 +24,7 @@
   "namespace": "d0230ef21b1f4ef29aec0d49946912fc",
   "status": "ACTIVE",
   "creationDate": "2019-05-08T15:55:29.357Z",
-  "lastModifiedDate": "2020-07-23T15:00:04.733Z",
+  "lastModifiedDate": "2022-05-10T14:35:37.427Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -34,11 +34,15 @@
   "entitlementName": "b444b61d6d2a4b879da958f318362fc8",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "developer": "Perfect World",
+  "releaseInfo": [],
+  "developer": "Gearbox Publishing San Francisco",
   "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
