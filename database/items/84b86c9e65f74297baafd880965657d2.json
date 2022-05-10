@@ -13,7 +13,7 @@
   "namespace": "e1067ce994e24a4abbe36247eaa26bfd",
   "status": "ACTIVE",
   "creationDate": "2019-10-17T18:38:20.100Z",
-  "lastModifiedDate": "2020-03-26T14:18:07.419Z",
+  "lastModifiedDate": "2022-05-10T14:59:07.931Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +23,16 @@
   "entitlementName": "84b86c9e65f74297baafd880965657d2",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "developer": "Epic Dev Test Account",
-  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "releaseInfo": [],
+  "developer": "Gearbox Publishing San Francisco",
+  "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
