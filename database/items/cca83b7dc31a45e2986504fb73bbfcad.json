@@ -13,7 +13,7 @@
   "namespace": "d12ae11a83c746c290e006a73438840f",
   "status": "ACTIVE",
   "creationDate": "2021-09-23T20:07:30.552Z",
-  "lastModifiedDate": "2021-10-07T05:20:14.942Z",
+  "lastModifiedDate": "2022-05-10T16:54:54.772Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +23,16 @@
   "entitlementName": "cca83b7dc31a45e2986504fb73bbfcad",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "developer": "SURT",
-  "developerId": "o-2dpr2h7e785hjnrxtm5w7wymqhwfga",
+  "releaseInfo": [],
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
