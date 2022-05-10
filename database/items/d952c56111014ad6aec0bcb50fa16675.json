@@ -1,0 +1,38 @@
+{
+  "id": "d952c56111014ad6aec0bcb50fa16675",
+  "title": "FaureGeneralAudience",
+  "description": "FaureGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "05057ec2d5ea43c3b0701cc1518e0577",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-02T21:25:32.771Z",
+  "lastModifiedDate": "2022-05-10T04:26:39.267Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d952c56111014ad6aec0bcb50fa16675",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
