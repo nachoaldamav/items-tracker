@@ -34,8 +34,8 @@
   ],
   "namespace": "1fceb9dc7f3d4482a9431cfa6e0d2ac0",
   "status": "ACTIVE",
-  "creationDate": "2022-05-02T21:15:44.220Z",
-  "lastModifiedDate": "2022-05-02T21:15:44.220Z",
+  "creationDate": "2022-01-05T19:54:33.529Z",
+  "lastModifiedDate": "2022-05-11T05:16:10.294Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,8 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "a949e6938156470c8e7b4d7a457c627d",
-      "appId": "31e6754751f6443d82ae2d4b23abd08d"
+      "id": "84f13809418b46b0b9cd5762f1dbac8f",
+      "appId": "31e6754751f6443d82ae2d4b23abd08d",
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "DreadXP",
