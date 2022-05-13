@@ -1,0 +1,66 @@
+{
+  "id": "d5a692505c41419e94ee0c29cf9dcdc2",
+  "title": "Steel Rats",
+  "description": "Steel Rats",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ce15b6522cb644eaa1cb2704499b0c99/steel-rats-offer-t63vm.jpg",
+      "md5": "e8be13a66d404c9d000822e4b5389eee",
+      "width": 2560,
+      "height": 1440,
+      "size": 2044520,
+      "uploadedDate": "2022-03-25T09:31:17.934Z",
+      "alt": "Steel Rats Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ce15b6522cb644eaa1cb2704499b0c99/download-steel-rats-offer-1n7oz.jpg",
+      "md5": "d8cd1a5e1f68bff5a5f3119541148624",
+      "width": 1200,
+      "height": 1600,
+      "size": 1375379,
+      "uploadedDate": "2022-03-25T09:31:20.216Z",
+      "alt": "Download Steel Rats Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d1349ac0db0b48ee879304383782ae19",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-01T12:46:48.041Z",
+  "lastModifiedDate": "2022-04-13T14:13:34.736Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SteelRatshPmMr"
+    }
+  },
+  "entitlementName": "d5a692505c41419e94ee0c29cf9dcdc2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "44066761504d4c6cb1bf04b82e16d75b",
+      "appId": "44f49915c5bd4aecb1a8d73b4238af9e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Tate Multimedia",
+  "developerId": "o-jryv47hwccq9qf7cya65lg9wz4sk33",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
