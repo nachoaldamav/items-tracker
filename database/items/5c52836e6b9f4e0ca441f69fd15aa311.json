@@ -33,7 +33,7 @@
   "namespace": "impala",
   "status": "ACTIVE",
   "creationDate": "2019-10-14T22:52:03.772Z",
-  "lastModifiedDate": "2022-05-09T15:48:44.465Z",
+  "lastModifiedDate": "2022-05-14T16:17:27.376Z",
   "customAttributes": {
     "PresenceID": {
       "type": "STRING",
@@ -62,6 +62,10 @@
     "partnerLinkId": {
       "type": "STRING",
       "value": "67b3aca00d5044418adbfa070f63cd2a"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
     },
     "FolderName": {
       "type": "STRING",
