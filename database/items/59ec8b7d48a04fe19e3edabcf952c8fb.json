@@ -1,0 +1,63 @@
+{
+  "id": "59ec8b7d48a04fe19e3edabcf952c8fb",
+  "title": "Space Hack",
+  "description": "Space Hack",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/96afa516075245cb8b535eee6cd7ff8d/space-hack-offer-1twgl.png",
+      "md5": "cbcd579c22693eb7efeb681e5136cef9",
+      "width": 2560,
+      "height": 1440,
+      "size": 3562132,
+      "uploadedDate": "2022-05-12T16:23:06.629Z",
+      "alt": "Space Hack Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/96afa516075245cb8b535eee6cd7ff8d/download-space-hack-offer-k110q.png",
+      "md5": "aab7ffc0e2aadcb5fb1207db02d081e5",
+      "width": 1200,
+      "height": 1600,
+      "size": 2245796,
+      "uploadedDate": "2022-05-12T16:23:07.245Z",
+      "alt": "Download Space Hack Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7714e1bf11674737b664ff88cafd5261",
+  "status": "ACTIVE",
+  "creationDate": "2022-05-16T22:24:17.415Z",
+  "lastModifiedDate": "2022-05-16T22:24:17.415Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SpaceHack"
+    }
+  },
+  "entitlementName": "59ec8b7d48a04fe19e3edabcf952c8fb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b098e5b281984faea968afc06ab9fa07",
+      "appId": "015cf9879c7e40a4b304e44615e4a2f4",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Meridian4",
+  "developerId": "o-lk3h3v3ddypmx7zferz37x5l86w54p",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
