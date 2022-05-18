@@ -1,26 +1,26 @@
 {
   "id": "fa2430c0d75d4cf7aaf6af1b41afc86e",
-  "title": "Dauntless PTR",
-  "description": "Dauntless PTR",
+  "title": "Dauntless Preview",
+  "description": "Dauntless Preview",
   "longDescription": "JackalPlaytestStaging",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/jackal/item/EGS_PTR-1200x1600-f788e867a23e50ccfd3c13e3608d0846.jpg",
-      "md5": "f788e867a23e50ccfd3c13e3608d0846",
-      "width": 1200,
-      "height": 1600,
-      "size": 978549,
-      "uploadedDate": "2020-10-05T14:19:11.379Z"
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/jackal/NewLandscape_2580x1450-62e4ea9a9806272a42700be09915b87e",
+      "md5": "62e4ea9a9806272a42700be09915b87e",
+      "width": 2580,
+      "height": 1450,
+      "size": 457941,
+      "uploadedDate": "2022-05-17T23:21:31.054Z"
     },
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/jackal/item/EGS_PTR-2560x1440-247af331cb5fbe16c542bce463eff095.jpg",
-      "md5": "247af331cb5fbe16c542bce463eff095",
-      "width": 2560,
-      "height": 1440,
-      "size": 2072641,
-      "uploadedDate": "2020-10-07T19:25:27.143Z"
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/jackal/NewVertical_1410x1786-1e1515f7e1adff6574a6207ae6581e0f",
+      "md5": "1e1515f7e1adff6574a6207ae6581e0f",
+      "width": 1410,
+      "height": 1786,
+      "size": 353397,
+      "uploadedDate": "2022-05-17T23:21:35.639Z"
     }
   ],
   "categories": [
@@ -34,7 +34,7 @@
   "namespace": "jackal",
   "status": "ACTIVE",
   "creationDate": "2019-10-03T17:07:36.825Z",
-  "lastModifiedDate": "2020-10-07T19:25:31.440Z",
+  "lastModifiedDate": "2022-05-17T23:29:47.941Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -50,7 +50,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "DauntlessPTR"
+      "value": "DauntlessPreview"
     }
   },
   "entitlementName": "fa2430c0d75d4cf7aaf6af1b41afc86e",
@@ -76,5 +76,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
