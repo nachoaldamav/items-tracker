@@ -41,7 +41,7 @@
   "namespace": "d250bdf072934b70ab080c6fcee77734",
   "status": "ACTIVE",
   "creationDate": "2021-09-22T23:57:27.773Z",
-  "lastModifiedDate": "2022-03-29T10:03:16.784Z",
+  "lastModifiedDate": "2022-05-18T12:57:35.260Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -53,18 +53,19 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "be4d73d0781241fa90416680bc2aa8f4",
+      "id": "58a3919b357049c3907950fd8a76c843",
       "appId": "82ab0adb6e0b41bea531fcbb0c43cfc7",
       "platform": [
         "Mac",
-        "Windows"
+        "Windows",
+        "Win32"
       ]
     }
   ],
   "developer": "Daedalic Entertainment",
   "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567xRIfNvdb8Fv8JNdmKXmTL4b3",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
