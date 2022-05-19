@@ -1,0 +1,63 @@
+{
+  "id": "b12a341703434bbe8104ede2d405e143",
+  "title": "Company of Crime",
+  "description": "Company of Crime",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7c093f69b98a45a48548eb985a8350a6/company-of-crime-offer-16bel.jpg",
+      "md5": "7f71e05f834445790dac6f92b63d3341",
+      "width": 2560,
+      "height": 1440,
+      "size": 835654,
+      "uploadedDate": "2022-05-03T08:30:50.572Z",
+      "alt": "Company of Crime Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7c093f69b98a45a48548eb985a8350a6/download-company-of-crime-offer-1tezg.jpg",
+      "md5": "ce635670ea64571649993e6cdbb320f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 664609,
+      "uploadedDate": "2022-05-03T08:30:50.747Z",
+      "alt": "Download Company of Crime Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1345aaffc4cf4f4daa78d93c8c9e3117",
+  "status": "ACTIVE",
+  "creationDate": "2022-05-17T08:05:27.404Z",
+  "lastModifiedDate": "2022-05-17T08:05:27.404Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "CompanyofCrime7q4ud"
+    }
+  },
+  "entitlementName": "b12a341703434bbe8104ede2d405e143",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1cefdc315f914072a24369773a176c10",
+      "appId": "e95778c1f56c45658f87b58fad775445",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "1C Online Games Ltd",
+  "developerId": "o-n4d8bf5e8fnr4kujuut9j6v4d29muc",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
