@@ -40,9 +40,17 @@
   ],
   "namespace": "67eb392889234b4d99a6562c5e60c825",
   "status": "ACTIVE",
-  "creationDate": "2022-05-18T09:49:54.663Z",
-  "lastModifiedDate": "2022-05-18T09:49:54.663Z",
+  "creationDate": "2021-09-22T23:57:55.121Z",
+  "lastModifiedDate": "2022-05-19T14:38:52.941Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Daedalic Entertainment GmbH/The Suicide of Rachel Foster/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "OverlookSave.sav"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "TSoRF"
@@ -53,15 +61,17 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "5e1e9c17f8854df585ca11a33146bbe4",
+      "id": "a4f07d605d6d45b9b1f620305e827dbb",
       "appId": "b5db48416a9a48eda89e2296f5fef9d3",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Daedalic Entertainment",
   "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567w0pxEqtUt0l80aldmF1F502A",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
