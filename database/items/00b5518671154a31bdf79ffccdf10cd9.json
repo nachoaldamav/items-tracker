@@ -1,0 +1,67 @@
+{
+  "id": "00b5518671154a31bdf79ffccdf10cd9",
+  "title": "Hazel Sky",
+  "description": "Hazel Sky",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/576b927905694714b508b28b5d410243/hazel-sky-offer-4s5si.png",
+      "md5": "01f5b1fb57e2eca51fea3254ecece324",
+      "width": 2560,
+      "height": 1440,
+      "size": 2566686,
+      "uploadedDate": "2022-05-04T03:58:28.892Z",
+      "alt": "Hazel Sky Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/576b927905694714b508b28b5d410243/download-hazel-sky-offer-1h4k6.png",
+      "md5": "5ba770dbee262a2661b6b8f609c0c80f",
+      "width": 1200,
+      "height": 1600,
+      "size": 1183686,
+      "uploadedDate": "2022-05-04T03:58:29.079Z",
+      "alt": "Download Hazel Sky Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f3ad35f2d71a4369ad0f42741dbab5e8",
+  "status": "ACTIVE",
+  "creationDate": "2022-05-21T03:43:10.019Z",
+  "lastModifiedDate": "2022-05-21T03:43:10.019Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Icarus/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HazelSkyrPgqa"
+    }
+  },
+  "entitlementName": "00b5518671154a31bdf79ffccdf10cd9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1829f050b8ee4819a2cc749f5e162097",
+      "appId": "9318165475e5405183dd62e8fca4f269",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Another Indie Studio Limited",
+  "developerId": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
