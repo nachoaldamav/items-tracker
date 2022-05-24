@@ -34,8 +34,8 @@
   ],
   "namespace": "9a85a766e38c4013b9e33b225f83ae98",
   "status": "ACTIVE",
-  "creationDate": "2022-05-17T13:23:12.032Z",
-  "lastModifiedDate": "2022-05-17T13:23:12.032Z",
+  "creationDate": "2022-02-01T20:48:23.555Z",
+  "lastModifiedDate": "2022-05-18T19:33:27.396Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,10 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "0fbad1c794cd45188d6d26d709c5ee02",
+      "id": "6b4263ea3c8f49488802f974349a9bdb",
       "appId": "f140a7ed4f8141298cb024b12f70feb3",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ]
     }
   ],
