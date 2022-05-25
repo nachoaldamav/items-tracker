@@ -35,8 +35,12 @@
   "namespace": "48d616a0c0464128b353eb7835f4739f",
   "status": "ACTIVE",
   "creationDate": "2022-04-06T23:12:01.993Z",
-  "lastModifiedDate": "2022-05-17T09:44:24.326Z",
+  "lastModifiedDate": "2022-05-25T18:46:45.123Z",
   "customAttributes": {
+    "NotarizedAndSigned": {
+      "type": "STRING",
+      "value": "true"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "TennisManager2022r9chd"
@@ -56,7 +60,10 @@
   ],
   "developer": "Rebound Capital Games",
   "developerId": "o-4exhmmf2572ypjkxmy6aabgfavjx9t",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
