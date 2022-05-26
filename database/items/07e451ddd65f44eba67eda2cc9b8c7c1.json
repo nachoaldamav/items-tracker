@@ -42,7 +42,7 @@
   "namespace": "camellia",
   "status": "ACTIVE",
   "creationDate": "2019-02-08T21:51:12.594Z",
-  "lastModifiedDate": "2019-11-27T15:28:33.806Z",
+  "lastModifiedDate": "2022-05-26T19:28:11.460Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -107,6 +107,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
