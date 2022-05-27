@@ -1,0 +1,59 @@
+{
+  "id": "a06b96a2209943049ff1d5b984fed471",
+  "title": "GRIT",
+  "description": "GRIT",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a0620d8e909b440796461f803b0b0154/grit-offer-1uzp8.jpg",
+      "md5": "5d8a3825096ef8811b15f6becb2b4346",
+      "width": 2560,
+      "height": 1440,
+      "size": 278394,
+      "uploadedDate": "2022-05-27T02:51:06.043Z",
+      "alt": "GRIT Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a0620d8e909b440796461f803b0b0154/download-grit-offer-nview.jpg",
+      "md5": "65433dc19745ae02f0de83c139880fc4",
+      "width": 1200,
+      "height": 1600,
+      "size": 163058,
+      "uploadedDate": "2022-05-27T02:51:05.699Z",
+      "alt": "Download GRIT Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "39c86431125a44299431d959ae53f370",
+  "status": "ACTIVE",
+  "creationDate": "2022-05-27T19:37:12.283Z",
+  "lastModifiedDate": "2022-05-27T19:37:12.283Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "GRITiLXBL"
+    }
+  },
+  "entitlementName": "a06b96a2209943049ff1d5b984fed471",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "23d4331d99d247828f3689e3f8085644",
+      "appId": "7201cd62099f4426aa9953e278a164a2"
+    }
+  ],
+  "developer": "Blockchain Game Partners, Inc dba Gala Games",
+  "developerId": "o-bxzaj7xz69eumbj8lkv6upr9puj5c3",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
