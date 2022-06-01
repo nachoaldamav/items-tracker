@@ -33,7 +33,7 @@
   "namespace": "8157b8921bc94f42aafecf98868124b2",
   "status": "ACTIVE",
   "creationDate": "2021-04-29T22:19:05.140Z",
-  "lastModifiedDate": "2022-05-06T22:55:21.229Z",
+  "lastModifiedDate": "2022-06-01T17:08:27.200Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -41,7 +41,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "EmmentalKit"
+      "value": "LEAPModEditor"
     }
   },
   "entitlementName": "703a1c752f674dcb8d7ef98daff4dce7",
@@ -59,7 +59,7 @@
   "developer": "Blue Isle Studios Inc.",
   "developerId": "o-565qwd7twcgtvffpnqtws5umca4p2u",
   "eulaIds": [
-    "egstore"
+    "(egstore && leapmodkit)"
   ],
   "installModes": [],
   "endOfSupport": false,
