@@ -40,8 +40,8 @@
   ],
   "namespace": "d2ed683d5c3d4f42a4aac8aed9a410a6",
   "status": "ACTIVE",
-  "creationDate": "2022-05-11T16:20:31.919Z",
-  "lastModifiedDate": "2022-05-11T16:20:31.919Z",
+  "creationDate": "2021-09-16T22:37:24.018Z",
+  "lastModifiedDate": "2022-05-27T16:23:45.403Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -53,8 +53,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "4b329566a834429bbb6494311da5cf65",
-      "appId": "326b7b3b422145e98e500f726e8e27b2"
+      "id": "582f027e6b6c4a2dac6525840f1e4a60",
+      "appId": "326b7b3b422145e98e500f726e8e27b2",
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Merge Games",
