@@ -1,0 +1,63 @@
+{
+  "id": "bda3ebc110eb48cd851aeefb3f735c6e",
+  "title": "Derelicts",
+  "description": "Derelicts",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/eee6facdac6f4adfaac6621183fca587/derelicts-offer-1bljr.jpg",
+      "md5": "009bb8a0b28a0b5cc8f3b07c71aab883",
+      "width": 2560,
+      "height": 1440,
+      "size": 439289,
+      "uploadedDate": "2022-05-27T16:53:07.838Z",
+      "alt": "Derelicts Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/eee6facdac6f4adfaac6621183fca587/download-derelicts-offer-1wi7b.jpg",
+      "md5": "83919742390f7763ebed5035c578e80b",
+      "width": 1200,
+      "height": 1600,
+      "size": 232443,
+      "uploadedDate": "2022-05-27T16:53:07.707Z",
+      "alt": "Download Derelicts Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c0e5cbb5b4e7431fa414a2e19638b2f0",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-01T15:33:06.112Z",
+  "lastModifiedDate": "2022-06-01T15:33:06.112Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DerelictswOnP9"
+    }
+  },
+  "entitlementName": "bda3ebc110eb48cd851aeefb3f735c6e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b4752958b7f1444180bd37ca1eca0ce1",
+      "appId": "e33d3376125848f2b49ef150abdfd7f5"
+    }
+  ],
+  "developer": "Romain Piquot",
+  "developerId": "o-lvanwkfk972vwrmeye93h87kpgc4d4",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

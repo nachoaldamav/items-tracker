@@ -1,0 +1,71 @@
+{
+  "id": "d282f1d11f1443ffbbaddf72c8ced32c",
+  "title": "Warhammer 40,000: Mechanicus - Standard Edition",
+  "description": "Take control of the most technologically advanced army in the Imperium - The Adeptus Mechanicus. Your every decision will weigh heavily on the outcome of the mission, in this turn-based tactical game. Will you be blessed by the Omnissiah?",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d26f2f9ea65c462dbd39040ae8389d36/warhammer-mechanicus-offer-g5juh.jpg",
+      "md5": "85ffcc65bb2e13fd933d05594594bd1e",
+      "width": 2560,
+      "height": 1440,
+      "size": 2943529,
+      "uploadedDate": "2022-04-25T15:14:07.935Z",
+      "alt": "Warhammer Mechanicus Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d26f2f9ea65c462dbd39040ae8389d36/download-warhammer-mechanicus-offer-17qd7.jpg",
+      "md5": "5c4a723034e2d0ebbd9c2af1da56c15e",
+      "width": 1200,
+      "height": 1600,
+      "size": 1989877,
+      "uploadedDate": "2022-04-25T15:14:06.600Z",
+      "alt": "Download Warhammer Mechanicus Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "144f9e231e2846d1a4381d9bb678f69d",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-01T14:32:44.548Z",
+  "lastModifiedDate": "2022-06-01T14:32:44.548Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/BulwarkStudios/Mechanicus/Saves/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "500"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Mechanicus"
+    }
+  },
+  "entitlementName": "d282f1d11f1443ffbbaddf72c8ced32c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "95c44253ddd24fd59ce6f92abe1fd0ab",
+      "appId": "dd95e8c01b4b456f8ecbf18376a49c94",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Kasedo Games Ltd",
+  "developerId": "o-fnqgc5v2xczx9fgawvcejwj88z2mnx",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
