@@ -40,8 +40,8 @@
   ],
   "namespace": "2cc23de0d8ca4785a0bc37cc95979462",
   "status": "ACTIVE",
-  "creationDate": "2022-05-24T16:37:44.331Z",
-  "lastModifiedDate": "2022-05-24T16:37:44.331Z",
+  "creationDate": "2021-11-22T02:58:14.680Z",
+  "lastModifiedDate": "2022-05-31T15:51:52.776Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -53,9 +53,13 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "6c6aa61d321a44969a2e50bf003970ff",
+      "id": "c597b44a699848c4aba79f569c213432",
       "appId": "9d4ccd48ba554809b402bf85c5806e0a",
-      "platform": []
+      "platform": [
+        "Windows",
+        "Win32",
+        "Mac"
+      ]
     }
   ],
   "developer": "Devolver Digital, Inc.",
