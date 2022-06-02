@@ -1,7 +1,7 @@
 {
   "id": "e5bb9ddc3e59490da9bac31afcb8fe72",
   "title": "Souldiers",
-  "description": "Souldiers",
+  "description": "Fight for your freedom in a sprawling fantasy world caught between the living and the fallen. Hone your skills in a retro epic featuring puzzle platforming, metroidvania exploration and crunchy soulslike combat.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,9 +34,17 @@
   ],
   "namespace": "7c7b5037b98e45289ebb3583cd8809a2",
   "status": "ACTIVE",
-  "creationDate": "2022-03-10T13:25:25.369Z",
-  "lastModifiedDate": "2022-06-02T12:24:34.999Z",
+  "creationDate": "2021-11-17T12:59:44.162Z",
+  "lastModifiedDate": "2022-06-02T12:24:35.506Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/RetroForgeGames/Souldiers/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "200"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "SouldierswnCdc"
@@ -47,7 +55,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "b5de06da24b5429fa5abaa961acdf3be",
+      "id": "9b60b3f5a7724668b947362d44f32a36",
       "appId": "7a769d6d804743ab9d7d1e254e514ae7",
       "platform": [
         "Windows"
@@ -57,6 +65,7 @@
   "developer": "Plug In Digital SAS",
   "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
