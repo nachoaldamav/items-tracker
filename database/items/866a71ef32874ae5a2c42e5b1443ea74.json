@@ -16,9 +16,13 @@
   "namespace": "05057ec2d5ea43c3b0701cc1518e0577",
   "status": "ACTIVE",
   "creationDate": "2021-03-02T21:25:33.303Z",
-  "lastModifiedDate": "2022-05-10T04:26:39.277Z",
+  "lastModifiedDate": "2022-06-02T14:17:48.963Z",
   "customAttributes": {
     "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
       "type": "STRING",
       "value": "true"
     },
@@ -47,6 +51,7 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }

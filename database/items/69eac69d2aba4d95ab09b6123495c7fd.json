@@ -36,7 +36,7 @@
   "namespace": "05057ec2d5ea43c3b0701cc1518e0577",
   "status": "ACTIVE",
   "creationDate": "2021-03-02T21:25:33.047Z",
-  "lastModifiedDate": "2022-05-10T04:26:39.276Z",
+  "lastModifiedDate": "2022-06-02T14:18:02.567Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -67,6 +67,10 @@
       "value": "[]"
     },
     "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
       "type": "STRING",
       "value": "true"
     },
