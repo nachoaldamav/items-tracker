@@ -1,0 +1,62 @@
+{
+  "id": "a58376cd6b824ed98c5c9c2884efc765",
+  "title": "Schein",
+  "description": "Schein",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ffe3d53711294cbc9ae3e84564f3077a/schein-offer-1z0aj.png",
+      "md5": "dd7a565884fbaf45a6cff7b59df82b28",
+      "width": 2560,
+      "height": 1440,
+      "size": 1778580,
+      "uploadedDate": "2022-06-06T18:29:17.723Z",
+      "alt": "Schein Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ffe3d53711294cbc9ae3e84564f3077a/download-schein-offer-80lnw.png",
+      "md5": "8985d6eb9d0b782f5fcafac7c2bbfb31",
+      "width": 1200,
+      "height": 1600,
+      "size": 1889879,
+      "uploadedDate": "2022-06-06T18:29:18.241Z",
+      "alt": "Download Schein Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "af153251033d4cc79d2fc375d882fb88",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-07T17:44:18.105Z",
+  "lastModifiedDate": "2022-06-07T17:44:18.105Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ScheinQmkNg"
+    }
+  },
+  "entitlementName": "a58376cd6b824ed98c5c9c2884efc765",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cfd9200c656e429fb1d57cf44d53e12a",
+      "appId": "285a13ea6482490f900016433939d42e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Meridian4",
+  "developerId": "o-lk3h3v3ddypmx7zferz37x5l86w54p",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
