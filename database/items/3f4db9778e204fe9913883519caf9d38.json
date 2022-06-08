@@ -1,0 +1,69 @@
+{
+  "id": "3f4db9778e204fe9913883519caf9d38",
+  "title": "Adventures of Chris",
+  "description": "Embark on a global adventure in this ‘90s-inspired adventure platformer. Help a chubby underdog kid with wacky superpowers battle bizarre villains, unlock and customize special moves and spells, and save the world!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e932a564a84e47998f69c1a624179483/adventures-of-chris-offer-1pilc.jpg",
+      "md5": "0bf703e05079251a86af1c41659b4b94",
+      "width": 2560,
+      "height": 1440,
+      "size": 1848121,
+      "uploadedDate": "2022-05-23T17:49:08.491Z",
+      "alt": "Adventures of Chris Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e932a564a84e47998f69c1a624179483/download-adventures-of-chris-offer-cw8qc.jpg",
+      "md5": "a253327ecceef3ff111a7f723ff53ed0",
+      "width": 1200,
+      "height": 1600,
+      "size": 1133744,
+      "uploadedDate": "2022-05-23T17:49:07.882Z",
+      "alt": "Download Adventures of Chris Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8c689d262be143168e69fdd60d0615cb",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-02T19:23:09.726Z",
+  "lastModifiedDate": "2022-06-02T19:23:09.726Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/GuinEntertainment/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AdventuresofChris4SuJw"
+    }
+  },
+  "entitlementName": "3f4db9778e204fe9913883519caf9d38",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8bbc28c3e9a04adeb7248e989f960755",
+      "appId": "0fdc42683fcf4db89da19db7ac916a06",
+      "platform": [
+        "Windows",
+        "Win32",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Graffiti Games",
+  "developerId": "o-87c748zl24r2zsfe7t98b49ghm86kr",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

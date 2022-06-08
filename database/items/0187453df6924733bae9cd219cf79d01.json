@@ -1,0 +1,68 @@
+{
+  "id": "0187453df6924733bae9cd219cf79d01",
+  "title": "The King's Bird",
+  "description": "The King's Bird",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9969b842fdb149c894e56d51e388e987/the-kings-bird-offer-zjrkn.jpg",
+      "md5": "ddd0804ee6deb568b839d2fbd25709a0",
+      "width": 2560,
+      "height": 1440,
+      "size": 3234641,
+      "uploadedDate": "2022-04-07T18:59:13.213Z",
+      "alt": "The Kings Bird Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9969b842fdb149c894e56d51e388e987/download-the-kings-bird-offer-9zujd.png",
+      "md5": "3532df12ae9488cecec00767bb854f0c",
+      "width": 1200,
+      "height": 1600,
+      "size": 2291749,
+      "uploadedDate": "2022-04-07T18:59:09.826Z",
+      "alt": "Download The Kings Bird Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "dac7703b33934c838e8e7c0423fe0322",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-02T19:14:26.896Z",
+  "lastModifiedDate": "2022-06-02T19:14:26.896Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Serenity Forge/The King's Bird/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheKingsBirdLAaiv"
+    }
+  },
+  "entitlementName": "0187453df6924733bae9cd219cf79d01",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "640a1dc65fc24ff7befa99a017e8e853",
+      "appId": "45cbb96932d84bd7bce3b065a4ec7ff5",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Graffiti Games",
+  "developerId": "o-87c748zl24r2zsfe7t98b49ghm86kr",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
