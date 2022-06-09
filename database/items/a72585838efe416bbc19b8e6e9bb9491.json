@@ -13,7 +13,7 @@
   "namespace": "02c14a01b7044db98de3f3a10813a42e",
   "status": "ACTIVE",
   "creationDate": "2020-09-08T17:30:29.343Z",
-  "lastModifiedDate": "2022-06-08T15:44:35.813Z",
+  "lastModifiedDate": "2022-06-09T14:17:41.494Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,6 +23,7 @@
   "entitlementName": "a72585838efe416bbc19b8e6e9bb9491",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "SEGA of Europe",
   "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
   "eulaIds": [
@@ -30,6 +31,7 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
