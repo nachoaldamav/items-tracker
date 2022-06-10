@@ -1,0 +1,71 @@
+{
+  "id": "eaca53c223cc417da87e19b9e7b3f92d",
+  "title": "Project Warlock II",
+  "description": "Adrenaline-pumping gore retro funhouse that’s full of guns, magic, demons, vertical arenas, 3D visuals, 2D sprites, and heavy metal music. Inspired by FPS classics like Quake and Doom 64, Project Warlock II is the explosive boomer shooter sequel you were too shy to ask for.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/99980c9e2c8e4ba6812642b418e25b3c/project-warlock-ii-offer-17x9s.jpg",
+      "md5": "a21cfd267411f7c46e26d4a78cc4d062",
+      "width": 2560,
+      "height": 1440,
+      "size": 429425,
+      "uploadedDate": "2022-05-27T09:03:34.579Z",
+      "alt": "Project Warlock II Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/99980c9e2c8e4ba6812642b418e25b3c/download-project-warlock-ii-offer-3ak32.png",
+      "md5": "4b059078d5582cd788e768906d75121d",
+      "width": 1200,
+      "height": 1600,
+      "size": 2700337,
+      "uploadedDate": "2022-05-27T09:03:41.776Z",
+      "alt": "Download Project Warlock II Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7c78d5735cc847aba154093ca9a5e112",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-10T15:45:21.818Z",
+  "lastModifiedDate": "2022-06-10T15:45:21.818Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/Project Warlock 2/EGS Saves/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ProjectWarlockII"
+    }
+  },
+  "entitlementName": "eaca53c223cc417da87e19b9e7b3f92d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "83edff3927714535b404339711394bbd",
+      "appId": "19b11a8bc36a49fbabde1ae9a2efe8d0",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Retrovibe",
+  "developerId": "o-mky7quqaeabndudvp2zlw9n52t8pln",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
