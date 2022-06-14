@@ -1,0 +1,62 @@
+{
+  "id": "d66b2e595efb462a948e2780f4d5df76",
+  "title": "FROGUE",
+  "description": "FROGUE",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d4af4ed712124504b987e9c9d1c5fedc/frogue-offer-1oltw.png",
+      "md5": "908251bcf86d96604359005c44472564",
+      "width": 2560,
+      "height": 1440,
+      "size": 1949940,
+      "uploadedDate": "2022-06-13T13:39:07.497Z",
+      "alt": "FROGUE Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d4af4ed712124504b987e9c9d1c5fedc/download-frogue-offer-46slh.png",
+      "md5": "b4f5bb594852dc5ba354e29787aae230",
+      "width": 1200,
+      "height": 1600,
+      "size": 609012,
+      "uploadedDate": "2022-06-13T13:39:02.806Z",
+      "alt": "Download FROGUE Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fbb8cd7f211345bab8e723a90b0fd8cf",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-14T21:20:47.235Z",
+  "lastModifiedDate": "2022-06-14T21:20:47.235Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "FROGUEMhwtD"
+    }
+  },
+  "entitlementName": "d66b2e595efb462a948e2780f4d5df76",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a3946d4df2984f8a81993108ccec8590",
+      "appId": "c98adbb69420433fb18011b3051250ad",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Wired Dreams Studio",
+  "developerId": "o-rhnljt3krnld838gmskvpru4aqumca",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
