@@ -14,7 +14,7 @@
   "namespace": "camellia",
   "status": "ACTIVE",
   "creationDate": "2019-02-08T21:55:51.850Z",
-  "lastModifiedDate": "2019-11-27T15:28:33.806Z",
+  "lastModifiedDate": "2022-06-15T16:36:05.148Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -22,7 +22,7 @@
     },
     "partnerLinkId": {
       "type": "STRING",
-      "value": "[]"
+      "value": "6367bda60c9d41c4a5493126fe81bd2c"
     },
     "partnerLinkType": {
       "type": "STRING",
@@ -55,5 +55,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
