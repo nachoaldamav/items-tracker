@@ -1,7 +1,7 @@
 {
-  "id": "90cb49f5e9a04eeeaf6eabf4415db449",
-  "title": "DevCadmiumRedAudience",
-  "description": "DevCadmiumRedAudience",
+  "id": "fc19278b870541c892ff1bcd735aaf71",
+  "title": "CadmiumRedStagingAudience",
+  "description": "CadmiumRedStagingAudience",
   "categories": [
     {
       "path": "audience"
@@ -12,23 +12,26 @@
   ],
   "namespace": "d74efb08c7f449928fcdfdba1dcbda48",
   "status": "ACTIVE",
-  "creationDate": "2021-04-21T21:40:25.807Z",
-  "lastModifiedDate": "2022-06-16T19:56:11.703Z",
+  "creationDate": "2022-06-16T17:58:43.630Z",
+  "lastModifiedDate": "2022-06-16T19:56:11.716Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
     }
   },
-  "entitlementName": "90cb49f5e9a04eeeaf6eabf4415db449",
+  "entitlementName": "fc19278b870541c892ff1bcd735aaf71",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "No More Robots",
   "developerId": "o-236t9erksuklvbpwrddx5953wndtps",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
