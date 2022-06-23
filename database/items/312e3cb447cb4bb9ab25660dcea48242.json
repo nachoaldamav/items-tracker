@@ -1,0 +1,62 @@
+{
+  "id": "312e3cb447cb4bb9ab25660dcea48242",
+  "title": "Dogfight - Demo",
+  "description": "Dogfight - Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3aaea08fd9554b1c94b15dc2f8eef453/dogfight-dogfight--demo-offer-l2t76.png",
+      "md5": "faf1aca244aa7a804d8824551c327c47",
+      "width": 2560,
+      "height": 1440,
+      "size": 1252792,
+      "uploadedDate": "2022-06-16T08:34:33.310Z",
+      "alt": "Dogfight Dogfight - Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3aaea08fd9554b1c94b15dc2f8eef453/download-dogfight-dogfight--demo-offer-z3lyp.jpg",
+      "md5": "1365df173ace449efaf12bd858a3e9f4",
+      "width": 1200,
+      "height": 1600,
+      "size": 776449,
+      "uploadedDate": "2022-06-16T08:34:32.584Z",
+      "alt": "Download Dogfight Dogfight - Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d64cf8f7bcc2420f9379b016888cfc96",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-23T12:08:12.153Z",
+  "lastModifiedDate": "2022-06-23T12:08:12.153Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DemoDogfight24873"
+    }
+  },
+  "entitlementName": "312e3cb447cb4bb9ab25660dcea48242",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "45791a5b55264f36b535d4c23442d98e",
+      "appId": "392b2c8baf7d4916b680a7bf80493dc0",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Hound Picked Games",
+  "developerId": "o-rc3494dn7cgxtr3x2h2v3h3d2asxpw",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
