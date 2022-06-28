@@ -1,0 +1,72 @@
+{
+  "id": "1c4c57b5e4d648a2be51c91f60f4a4eb",
+  "title": "Project Highrise",
+  "description": "Project Highrise is a skyscraper construction and management sim",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/762ff94a66cd4a7c8613e53d83576433/project-highrise-offer-1744y.jpg",
+      "md5": "aed483027effff715e7b027e6dfca51c",
+      "width": 2560,
+      "height": 1440,
+      "size": 958740,
+      "uploadedDate": "2022-05-13T13:05:19.154Z",
+      "alt": "Project Highrise Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/762ff94a66cd4a7c8613e53d83576433/download-project-highrise-offer-d4em1.jpg",
+      "md5": "1da1ada10fc303cc0f39f64c9c08bbda",
+      "width": 1200,
+      "height": 1600,
+      "size": 567748,
+      "uploadedDate": "2022-05-13T13:05:19.578Z",
+      "alt": "Download Project Highrise Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d354bf1a92ac4546aa20c74c8e7f70e1",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-28T09:02:33.694Z",
+  "lastModifiedDate": "2022-06-28T09:02:33.694Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/SomaSim/Project Highrise/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "saves-epic/*,prefs-epic/gameplay.txt"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ProjectHighrise"
+    }
+  },
+  "entitlementName": "1c4c57b5e4d648a2be51c91f60f4a4eb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "96e6c60ab2cb433598ae65bbfacaa83e",
+      "appId": "6b11500da118460f9825dbf6446ee20e",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Kasedo Games Ltd",
+  "developerId": "o-fnqgc5v2xczx9fgawvcejwj88z2mnx",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

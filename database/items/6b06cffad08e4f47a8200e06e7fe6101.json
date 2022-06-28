@@ -1,0 +1,71 @@
+{
+  "id": "6b06cffad08e4f47a8200e06e7fe6101",
+  "title": "City of Gangsters",
+  "description": "In this management tycoon game, you’ll start a criminal operation from nothing and grow it into a well-oiled money machine! Build speakeasies and illegal distilleries. Manage production chains and resource distribution. Leverage favors, chase down debtors, and bribe the police to",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/city-of-gangsters-offer-1b4a7.jpg",
+      "md5": "438b36bbae6de61e6b4014cbd42dd93e",
+      "width": 2560,
+      "height": 1440,
+      "size": 500958,
+      "uploadedDate": "2022-05-11T08:48:33.785Z",
+      "alt": "City of Gangsters Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/download-city-of-gangsters-offer-19f2l.jpg",
+      "md5": "d1d78d54eab3454827e39210c6afe5b9",
+      "width": 1200,
+      "height": 1600,
+      "size": 321860,
+      "uploadedDate": "2022-05-11T08:48:30.756Z",
+      "alt": "Download City of Gangsters Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e33138cc2b964d38a42a812b83b6507e",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-28T09:01:12.302Z",
+  "lastModifiedDate": "2022-06-28T09:01:12.302Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/SomaSim/City of Gangsters/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "saves-epic/*, prefs-epic/gameplay.txt"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CityofGangsters"
+    }
+  },
+  "entitlementName": "6b06cffad08e4f47a8200e06e7fe6101",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bb681a20c7f943fd9c53829e0b9e9605",
+      "appId": "002b00085aeb49b1a3f3c42e3f918f2f",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Kasedo Games Ltd",
+  "developerId": "o-fnqgc5v2xczx9fgawvcejwj88z2mnx",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
