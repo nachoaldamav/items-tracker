@@ -1,7 +1,7 @@
 {
   "id": "74ae0ad3b63d411ba5ae3908e97bb245",
   "title": "NORCO",
-  "description": "NORCO",
+  "description": "NORCO is a Southern Gothic point & click narrative adventure that immerses the player in the sinking suburbs and verdant industrial swamps of a distorted South Louisiana.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,8 +34,8 @@
   ],
   "namespace": "71bcf2f38b9443418ba609433e48c113",
   "status": "ACTIVE",
-  "creationDate": "2022-03-23T15:53:59.075Z",
-  "lastModifiedDate": "2022-06-02T12:25:36.384Z",
+  "creationDate": "2021-11-02T23:21:59.049Z",
+  "lastModifiedDate": "2022-06-30T11:57:28.140Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,11 +47,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "f9f8844154a24068945bdf6407320f3d",
+      "id": "e4f10cf74e064e52bc52663ed200cd3d",
       "appId": "38d80bda4ef945ae9a73dd43e583f8d9",
       "platform": [
         "Mac",
-        "Windows"
+        "Windows",
+        "Win32"
       ]
     }
   ],
