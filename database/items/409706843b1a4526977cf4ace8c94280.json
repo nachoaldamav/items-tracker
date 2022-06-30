@@ -13,8 +13,12 @@
   "namespace": "0208da63c74542c99e8a0837e4e688c3",
   "status": "ACTIVE",
   "creationDate": "2020-10-22T20:36:56.753Z",
-  "lastModifiedDate": "2021-06-25T05:57:21.586Z",
+  "lastModifiedDate": "2022-06-30T15:57:48.176Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Blackbird Interactive/Hardspace_ Shipbreaker/Saves"
+    },
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
@@ -23,12 +27,15 @@
   "entitlementName": "409706843b1a4526977cf4ace8c94280",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "developer": "Focus Home Interactive",
+  "releaseInfo": [],
+  "developer": "Focus Home",
   "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
