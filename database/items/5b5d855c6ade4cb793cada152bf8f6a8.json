@@ -35,8 +35,16 @@
   "namespace": "cd2a3289e4e9479fa5ebee6898f1d12f",
   "status": "ACTIVE",
   "creationDate": "2021-11-04T22:38:48.025Z",
-  "lastModifiedDate": "2022-06-02T12:25:22.631Z",
+  "lastModifiedDate": "2022-06-28T14:44:22.068Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Local/neon_blight/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "gamesave.nbsav, options.nbsav, input.nbsav"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "NeonBlightDUhFH"
@@ -47,16 +55,18 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "e88ba44c39a245d4875c261aff0543b0",
+      "id": "4a967b34358d4485869b5a2e487580ca",
       "appId": "638ef489c3e441b1a48d65c5ca007ab7",
       "platform": [
-        "Windows"
+        "Windows",
+        "Win32"
       ]
     }
   ],
   "developer": "Freedom Games",
   "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
