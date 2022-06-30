@@ -1,7 +1,7 @@
 {
   "id": "86010cee3aa04c6c8951bd19ddd85e28",
-  "title": "Are You Smarter than a 5th grader",
-  "description": "Are You Smarter than a 5th grader",
+  "title": "Are You Smarter Than A 5th Grader",
+  "description": "Based on the popular TV franchise, this charming couch co-op quiz game for 1-8 players will have you face more than 6800 fully English-voiced questions. Prove how much you still know from school and that you are, in fact, smarter than a 5th grader.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,8 +35,12 @@
   "namespace": "1293d5a9bfc84e7e8574d02b6ee5a3af",
   "status": "ACTIVE",
   "creationDate": "2022-01-14T16:58:00.994Z",
-  "lastModifiedDate": "2022-05-05T07:58:44.241Z",
+  "lastModifiedDate": "2022-06-24T13:46:10.323Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/FifthGrader/Saved/SaveGames/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "AreYouSmarterThanA5Grader"
@@ -47,7 +51,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "9f74503dd4bf4866875b5757e2ab03ef",
+      "id": "71b5de90defd4f7b9e4a4b838011410d",
       "appId": "8052968859fb46aea7cbc381c19188d2",
       "platform": [
         "Windows",
@@ -58,7 +62,7 @@
   "developer": "Handy Games",
   "developerId": "o-ekk92wx8mesnmsvbseequvnt38mzu6",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567wsoEZvBG3nsRise6aP9jcVAV",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
