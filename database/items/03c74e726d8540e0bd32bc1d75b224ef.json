@@ -1,0 +1,72 @@
+{
+  "id": "03c74e726d8540e0bd32bc1d75b224ef",
+  "title": "Giana Sisters – Twisted Dreams",
+  "description": "Giana Sisters – Twisted Dreams",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b93b26322cc54b33b28356b4e03afedc/giana-sisters--twisted-dreams-offer-1moi4.jpg",
+      "md5": "2b240be720e8fd5caa0fd67bbf725826",
+      "width": 2560,
+      "height": 1440,
+      "size": 1949004,
+      "uploadedDate": "2022-05-09T12:48:55.750Z",
+      "alt": "Giana Sisters - Twisted Dreams Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b93b26322cc54b33b28356b4e03afedc/download-giana-sisters--twisted-dreams-offer-1bxjd.jpg",
+      "md5": "24dfe99fddeeb281bc64e37a95ec2f99",
+      "width": 1200,
+      "height": 1600,
+      "size": 567224,
+      "uploadedDate": "2022-05-09T12:48:54.156Z",
+      "alt": "Download Giana Sisters - Twisted Dreams Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a6ec2216a9ec4a5097854a37ef003662",
+  "status": "ACTIVE",
+  "creationDate": "2022-05-02T08:58:47.681Z",
+  "lastModifiedDate": "2022-05-10T12:50:17.625Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/Giana Sisters - Twisted Dreams/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GianaSistersTwistedDreams"
+    }
+  },
+  "entitlementName": "03c74e726d8540e0bd32bc1d75b224ef",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8a81810ee3044de28746f93bd4ef0f97",
+      "appId": "5548d599d4e54564b40cf4720d9dab20",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Handy Games",
+  "developerId": "o-ekk92wx8mesnmsvbseequvnt38mzu6",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
