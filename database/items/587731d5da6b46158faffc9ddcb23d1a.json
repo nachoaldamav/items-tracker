@@ -42,8 +42,12 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2020-04-30T20:03:10.699Z",
-  "lastModifiedDate": "2022-04-04T19:50:05.518Z",
+  "lastModifiedDate": "2022-06-30T23:15:37.577Z",
   "customAttributes": {
+    "extraLaunchOption_003_Args": {
+      "type": "STRING",
+      "value": "-UEFNDev"
+    },
     "extraLaunchOption_001_Args": {
       "type": "STRING",
       "value": "-ForceTest"
@@ -52,13 +56,25 @@
       "type": "STRING",
       "value": "true"
     },
+    "extraLaunchOption_004_Name": {
+      "type": "STRING",
+      "value": "Launch Creative"
+    },
     "extraLaunchOption_002_Args": {
+      "type": "STRING",
+      "value": "-UEFN"
+    },
+    "extraLaunchOption_004_Args": {
       "type": "STRING",
       "value": "-Creative"
     },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
+    },
+    "extraLaunchOption_003_Name": {
+      "type": "STRING",
+      "value": "Unreal Editor for Fortnite (Dev)"
     },
     "extraLaunchOption_001_Name": {
       "type": "STRING",
@@ -70,7 +86,7 @@
     },
     "extraLaunchOption_002_Name": {
       "type": "STRING",
-      "value": "Launch Creative"
+      "value": "Unreal Editor For Fortnite"
     }
   },
   "entitlementName": "FortniteDailyReleaseB",
