@@ -16,11 +16,15 @@
   "namespace": "05057ec2d5ea43c3b0701cc1518e0577",
   "status": "ACTIVE",
   "creationDate": "2021-03-02T21:25:33.303Z",
-  "lastModifiedDate": "2022-06-02T14:17:48.963Z",
+  "lastModifiedDate": "2022-07-01T20:56:11.280Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/WB Games/GothamKnights/EGS/Saved/SaveGames"
     },
     "OwnershipToken": {
       "type": "STRING",
