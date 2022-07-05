@@ -1,0 +1,63 @@
+{
+  "id": "6129ba825cfe4806b368a3b37694d0af",
+  "title": "Dangerous Waters",
+  "description": "Dangerous Waters",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7eef5e2edf814daeb5ef95277acc4861/dangerous-waters-offer-608d0.png",
+      "md5": "3e8419c9b02e9f28fcfc7fe5e7394c4e",
+      "width": 2560,
+      "height": 1440,
+      "size": 2652661,
+      "uploadedDate": "2022-07-01T03:35:02.819Z",
+      "alt": "Dangerous Waters Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7eef5e2edf814daeb5ef95277acc4861/download-dangerous-waters-offer-qzjkw.png",
+      "md5": "b33884c1e5a83a69cc20f30455b598ed",
+      "width": 1200,
+      "height": 1600,
+      "size": 2209950,
+      "uploadedDate": "2022-07-01T03:34:55.956Z",
+      "alt": "Download Dangerous Waters Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "14d24f86d71143d69056df730f9867d5",
+  "status": "ACTIVE",
+  "creationDate": "2022-07-05T15:14:59.500Z",
+  "lastModifiedDate": "2022-07-05T15:14:59.500Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DangerousWatersORE0t"
+    }
+  },
+  "entitlementName": "6129ba825cfe4806b368a3b37694d0af",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "16df59e7c6e2440fbb999a7bb35cb1e9",
+      "appId": "03805eb163b548e1892a74c216f4b50d",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Strategy First",
+  "developerId": "o-a3vefcg43bn6j4lwc7qs8n5y38jm7k",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
