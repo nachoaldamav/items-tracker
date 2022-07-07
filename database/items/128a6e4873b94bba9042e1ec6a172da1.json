@@ -1,0 +1,71 @@
+{
+  "id": "128a6e4873b94bba9042e1ec6a172da1",
+  "title": "Matchpoint Tennis Championships",
+  "description": "Matchpoint Tennis Championships",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4de80dedf83c4a45993954be6a82eb37/matchpoint-tennis-championships-offer-zpztg.jpg",
+      "md5": "fc0c7713c8deaa5c10d70cff9836fd7c",
+      "width": 2560,
+      "height": 1440,
+      "size": 979815,
+      "uploadedDate": "2022-01-19T09:36:35.517Z",
+      "alt": "Matchpoint Tennis Championships Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4de80dedf83c4a45993954be6a82eb37/download-matchpoint-tennis-championships-offer-1r4jy.jpg",
+      "md5": "a2d32957f39de1fb3170b620c160d966",
+      "width": 1200,
+      "height": 1600,
+      "size": 977786,
+      "uploadedDate": "2022-01-19T09:36:35.314Z",
+      "alt": "Download Matchpoint Tennis Championships Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ccf1eda0e53c4e01ba1a114fdb561cf7",
+  "status": "ACTIVE",
+  "creationDate": "2022-07-06T23:06:15.866Z",
+  "lastModifiedDate": "2022-07-06T23:06:15.866Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Torus Games/Matchpoint/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MatchpointTennisChamydDdA"
+    }
+  },
+  "entitlementName": "128a6e4873b94bba9042e1ec6a172da1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ed93ecb297f446e1b1e9220f9e7826cc",
+      "appId": "7636dcf495904df3a6913b1c84a866a2",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
