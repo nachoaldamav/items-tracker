@@ -34,8 +34,8 @@
   ],
   "namespace": "9f101e25b1a9427a9e6971d2b21c5f82",
   "status": "ACTIVE",
-  "creationDate": "2022-06-28T15:01:35.632Z",
-  "lastModifiedDate": "2022-06-28T15:01:35.632Z",
+  "creationDate": "2022-05-26T09:44:07.588Z",
+  "lastModifiedDate": "2022-07-03T12:52:49.978Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "42863fa3-964f-4c8e-a5d0-248801fa1ff8",
+      "id": "84e555ac84e44d30b447cb81ece766c1",
       "appId": "4bd3eb1e279f4672b8efbf50a08da449",
-      "platform": []
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
     }
   ],
   "developer": "Kasedo Games Ltd",
