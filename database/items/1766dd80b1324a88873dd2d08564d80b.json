@@ -1,0 +1,45 @@
+{
+  "id": "1766dd80b1324a88873dd2d08564d80b",
+  "title": "Coffea Premium Edition audience",
+  "description": "Coffea Premium Edition audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "0c05e0889c3e42a4be1d81077d6e653a",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-24T11:52:42.447Z",
+  "lastModifiedDate": "2022-07-07T17:20:38.437Z",
+  "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "1766dd80b1324a88873dd2d08564d80b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
