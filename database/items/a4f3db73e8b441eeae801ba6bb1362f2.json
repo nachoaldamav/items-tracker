@@ -1,0 +1,76 @@
+{
+  "id": "a4f3db73e8b441eeae801ba6bb1362f2",
+  "title": "Sine Mora Ex",
+  "description": "Sine Mora Ex",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/685491aa3e89479fbe8a3c29913462b8/sine-mora-ex-offer-pdsyd.jpg",
+      "md5": "94fa0d495808ff9f18fac9d13babb91b",
+      "width": 2560,
+      "height": 1440,
+      "size": 1370594,
+      "uploadedDate": "2022-05-06T12:45:39.054Z",
+      "alt": "Sine Mora Ex Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/685491aa3e89479fbe8a3c29913462b8/download-sine-mora-ex-offer-1dnka.jpg",
+      "md5": "88b92e0559c88d9b31eaf49e1c060e85",
+      "width": 1200,
+      "height": 1600,
+      "size": 703187,
+      "uploadedDate": "2022-05-06T12:45:38.116Z",
+      "alt": "Download Sine Mora Ex Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e2dcdad747ae435182c80f954cb00528",
+  "status": "ACTIVE",
+  "creationDate": "2022-07-08T14:13:51.260Z",
+  "lastModifiedDate": "2022-07-08T14:13:51.260Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/./"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "SineMoraEX.dat"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SineMoraEx"
+    }
+  },
+  "entitlementName": "a4f3db73e8b441eeae801ba6bb1362f2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2670f086c7544a77b5b2a74acd13ad4c",
+      "appId": "e1b6cc682dd34a5f8fb467ea0344b8e1",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Handy Games",
+  "developerId": "o-ekk92wx8mesnmsvbseequvnt38mzu6",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -10,7 +10,7 @@
       "width": 2560,
       "height": 1440,
       "size": 829873,
-      "uploadedDate": "2021-04-26T22:02:50.994Z"
+      "uploadedDate": "2022-02-09T22:13:50.447Z"
     },
     {
       "type": "DieselGameBoxTall",
@@ -19,7 +19,7 @@
       "width": 1200,
       "height": 1600,
       "size": 880725,
-      "uploadedDate": "2021-04-26T22:03:15.372Z"
+      "uploadedDate": "2022-02-09T22:14:01.777Z"
     }
   ],
   "categories": [
@@ -36,12 +36,8 @@
   "namespace": "d74efb08c7f449928fcdfdba1dcbda48",
   "status": "ACTIVE",
   "creationDate": "2021-04-21T21:40:26.354Z",
-  "lastModifiedDate": "2021-11-05T15:45:41.400Z",
+  "lastModifiedDate": "2022-07-07T12:37:31.077Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
     "PresenceId": {
       "type": "STRING",
       "value": "d74efb08c7f449928fcdfdba1dcbda48"
@@ -89,5 +85,5 @@
   "ageGatings": {},
   "applicationId": "",
   "requiresSecureAccount": false,
-  "unsearchable": true
+  "unsearchable": false
 }
