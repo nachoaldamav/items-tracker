@@ -1,0 +1,65 @@
+{
+  "id": "9128da2f4e2147ddab3b919651fd28f6",
+  "title": "Prehistorik",
+  "description": "Prehistorik",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/fbda53a1306b4e5da17f707a6bc9b54c/prehistorik-offer-1b5fl.jpg",
+      "md5": "9548dcf479a1a28f50c0d5391cc6ea0e",
+      "width": 2560,
+      "height": 1440,
+      "size": 585756,
+      "uploadedDate": "2022-03-15T20:48:07.614Z",
+      "alt": "Prehistorik Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/fbda53a1306b4e5da17f707a6bc9b54c/download-prehistorik-offer-1lsrk.jpg",
+      "md5": "bdcae7f14074882d436bd71dfc262922",
+      "width": 1200,
+      "height": 1600,
+      "size": 427547,
+      "uploadedDate": "2022-03-15T20:48:07.769Z",
+      "alt": "Download Prehistorik Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1888df7a26a1456f9c4f1231c5dd9c43",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-16T14:37:52.271Z",
+  "lastModifiedDate": "2022-06-16T14:37:52.271Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Prehistorik"
+    }
+  },
+  "entitlementName": "9128da2f4e2147ddab3b919651fd28f6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "726b0a5bae7f4d629de1a7612487ebd9",
+      "appId": "4e848883eda84663a0e4a89938937a2b",
+      "platform": [
+        "Win32",
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Interplay Entertainment Corp.",
+  "developerId": "o-ebvwv4fmqxbw48yz3rx65fmxxqfk35",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,65 @@
+{
+  "id": "a091477b514648828696926b14b47738",
+  "title": "Prehistorik 2",
+  "description": "Prehistorik 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/64d2da578c7244a991049f0ba0eb9c96/prehistorik-2-offer-1eyoq.jpg",
+      "md5": "2c9177257c6a9f2d225c7a830ece1221",
+      "width": 2560,
+      "height": 1440,
+      "size": 897432,
+      "uploadedDate": "2022-03-15T22:59:06.712Z",
+      "alt": "Prehistorik 2 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/64d2da578c7244a991049f0ba0eb9c96/download-prehistorik-2-offer-yvlbt.jpg",
+      "md5": "c64a0438b70859e99f4f8b287f1a0150",
+      "width": 1200,
+      "height": 1600,
+      "size": 646999,
+      "uploadedDate": "2022-03-15T22:59:07.128Z",
+      "alt": "Download Prehistorik 2 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c0cc45f56a4f4cb0aeeee11e630def55",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-16T14:37:50.268Z",
+  "lastModifiedDate": "2022-06-16T14:37:50.268Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Prehistorik2"
+    }
+  },
+  "entitlementName": "a091477b514648828696926b14b47738",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f48993af939a468f9a3be980fbcc7189",
+      "appId": "bc68f1af17e04a48b04abaa93ba2196e",
+      "platform": [
+        "Windows",
+        "Win32",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Interplay Entertainment Corp.",
+  "developerId": "o-ebvwv4fmqxbw48yz3rx65fmxxqfk35",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
