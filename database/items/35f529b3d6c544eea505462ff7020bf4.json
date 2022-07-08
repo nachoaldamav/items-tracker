@@ -33,15 +33,11 @@
   "namespace": "0c05e0889c3e42a4be1d81077d6e653a",
   "status": "ACTIVE",
   "creationDate": "2022-06-24T10:23:10.273Z",
-  "lastModifiedDate": "2022-07-07T17:20:38.427Z",
+  "lastModifiedDate": "2022-07-08T00:12:39.623Z",
   "customAttributes": {
     "PresenceId": {
       "type": "STRING",
       "value": "0c05e0889c3e42a4be1d81077d6e653a"
-    },
-    "NeverUpdate": {
-      "type": "STRING",
-      "value": "true"
     },
     "MonitorPresence": {
       "type": "STRING",
@@ -58,14 +54,6 @@
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
-    },
-    "partnerLinkType": {
-      "type": "STRING",
-      "value": "ubisoft"
-    },
-    "partnerLinkId": {
-      "type": "STRING",
-      "value": "49fd8eb0cf7141b6b90810510131ee15"
     },
     "FolderName": {
       "type": "STRING",
