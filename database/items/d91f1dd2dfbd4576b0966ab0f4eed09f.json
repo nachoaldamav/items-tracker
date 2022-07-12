@@ -4,6 +4,26 @@
   "description": "Citizen Sleeper",
   "keyImages": [
     {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/919d5976f3804d4cabb8ca90ea43a956/citizen-sleeper-offer-v1rme.png",
+      "md5": "a68cac57fc87f31e475b6514b3c71166",
+      "width": 2560,
+      "height": 1440,
+      "size": 2396759,
+      "uploadedDate": "2022-07-12T10:03:09.866Z",
+      "alt": "Citizen Sleeper Offer"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/919d5976f3804d4cabb8ca90ea43a956/download-citizen-sleeper-offer-1no1b.png",
+      "md5": "76719cf17bc1e34e7ccbecd7aec04ec4",
+      "width": 1200,
+      "height": 1600,
+      "size": 1399439,
+      "uploadedDate": "2022-07-12T10:00:32.362Z",
+      "alt": "Download Citizen Sleeper Offer"
+    },
+    {
       "type": "DieselGameBox",
       "url": "https://cdn1.epicgames.com/spt-assets/919d5976f3804d4cabb8ca90ea43a956/citizen-sleeper-offer-193mr.jpg",
       "md5": "1c7afab36ebd6fc366b6c33291aa9780",
@@ -35,7 +55,7 @@
   "namespace": "e4ef0c8c500a41eaa57c53d32410595d",
   "status": "ACTIVE",
   "creationDate": "2021-09-21T21:43:57.009Z",
-  "lastModifiedDate": "2022-06-02T12:25:14.166Z",
+  "lastModifiedDate": "2022-07-12T10:03:15.894Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,11 +67,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "5427040e6fc148ecb6c5b29d538ed8e9",
+      "id": "1b5a3e2c7d6a4188971a5814ab88d1b4",
       "appId": "308461dd5d8248058a65a2667f92e330",
       "platform": [
-        "Win32",
-        "Windows"
+        "Windows",
+        "Win32"
       ]
     }
   ],
