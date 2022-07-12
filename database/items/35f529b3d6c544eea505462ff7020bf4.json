@@ -13,13 +13,13 @@
       "uploadedDate": "2022-06-27T18:42:40.998Z"
     },
     {
-      "type": "DieselGameBoxWide",
+      "type": "DieselGameBox",
       "url": "https://cdn1.epicgames.com/item/0c05e0889c3e42a4be1d81077d6e653a/SAB_Store_Landscape_2560x1440_2560x1440-00b4029199a7a6778fd27dec96f08a28",
       "md5": "00b4029199a7a6778fd27dec96f08a28",
       "width": 2560,
       "height": 1440,
       "size": 2449878,
-      "uploadedDate": "2022-06-27T18:42:46.977Z"
+      "uploadedDate": "2022-07-12T20:27:46.712Z"
     }
   ],
   "categories": [
@@ -33,11 +33,15 @@
   "namespace": "0c05e0889c3e42a4be1d81077d6e653a",
   "status": "ACTIVE",
   "creationDate": "2022-06-24T10:23:10.273Z",
-  "lastModifiedDate": "2022-07-08T00:12:39.623Z",
+  "lastModifiedDate": "2022-07-12T20:27:53.909Z",
   "customAttributes": {
     "PresenceId": {
       "type": "STRING",
       "value": "0c05e0889c3e42a4be1d81077d6e653a"
+    },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
     },
     "MonitorPresence": {
       "type": "STRING",
@@ -54,6 +58,14 @@
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "49fd8eb0cf7141b6b90810510131ee15"
     },
     "FolderName": {
       "type": "STRING",
