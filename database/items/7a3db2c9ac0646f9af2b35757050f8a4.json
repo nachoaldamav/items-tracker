@@ -34,9 +34,17 @@
   ],
   "namespace": "89fb09a222a54e53b692e9c36e68d0a1",
   "status": "ACTIVE",
-  "creationDate": "2022-06-28T14:59:41.938Z",
-  "lastModifiedDate": "2022-06-28T14:59:41.938Z",
+  "creationDate": "2022-03-28T14:32:55.090Z",
+  "lastModifiedDate": "2022-07-12T17:16:12.101Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Filament/Saved/SavedGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "FilamentKfF5w"
@@ -47,13 +55,17 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "e9bf2d80ab8548ccae24a4012532e14b",
-      "appId": "14a38161ad3c45adab18425415b5df3d"
+      "id": "645874b3887940be8546fc82c53e42d6",
+      "appId": "14a38161ad3c45adab18425415b5df3d",
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Kasedo Games Ltd",
   "developerId": "o-fnqgc5v2xczx9fgawvcejwj88z2mnx",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
