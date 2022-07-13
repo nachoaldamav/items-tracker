@@ -35,7 +35,7 @@
   "namespace": "ed091f38267842ae8ccffa3fa244bee0",
   "status": "ACTIVE",
   "creationDate": "2022-03-14T21:38:29.309Z",
-  "lastModifiedDate": "2022-06-21T22:15:30.421Z",
+  "lastModifiedDate": "2022-07-11T21:33:10.677Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,8 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "8ff7068319084f098686fd73d1c6b214",
-      "appId": "5ad60de654a24a51af3ca21e64430fbc"
+      "id": "9302e6c4868b4ac9a0cedaf1fbf89eba",
+      "appId": "5ad60de654a24a51af3ca21e64430fbc",
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "NIS America, Inc.",
