@@ -1,7 +1,7 @@
 {
   "id": "cf160f3befde484eac3c1b26be61572f",
   "title": "Mago",
-  "description": "Mago",
+  "description": "Mago is a retro 2D platformer that puts us in the boots of a sorcerer, who was unfortunate enough to eat evil overlord's food. Now he has to rescue his beloved princess from the dinner menu of the evil Gourmet! Nostalgia awaits!",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,8 +34,8 @@
   ],
   "namespace": "f61b77d79ac34dc08ac9649b225168dd",
   "status": "ACTIVE",
-  "creationDate": "2022-06-14T18:24:56.770Z",
-  "lastModifiedDate": "2022-06-14T18:24:56.770Z",
+  "creationDate": "2022-06-09T10:18:56.283Z",
+  "lastModifiedDate": "2022-07-05T11:31:03.050Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,8 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "bfcedede396546078ee9a683d19a84d4",
-      "appId": "d7e63ca647514060b7f89e999f295975"
+      "id": "69a39ef10c0b4f49a4691a521fd92eac",
+      "appId": "d7e63ca647514060b7f89e999f295975",
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Hypetrain Digital",
