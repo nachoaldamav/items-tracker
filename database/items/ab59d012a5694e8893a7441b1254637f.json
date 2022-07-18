@@ -1,7 +1,27 @@
 {
   "id": "ab59d012a5694e8893a7441b1254637f",
-  "title": "Zeus",
-  "description": "Zeus",
+  "title": "Hardspace: Shipbreaker",
+  "description": "Hardspace: Shipbreaker",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/0208da63c74542c99e8a0837e4e688c3/EGS_HardspaceShipbreaker_BlackbirdInteractive_S1_2560x1440-6a54039aaadc8169c632b76cfe1e329f",
+      "md5": "6a54039aaadc8169c632b76cfe1e329f",
+      "width": 2560,
+      "height": 1440,
+      "size": 719821,
+      "uploadedDate": "2022-07-06T14:46:55.682Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/0208da63c74542c99e8a0837e4e688c3/EGS_HardspaceShipbreaker_BlackbirdInteractive_S2_1200x1600-45cc0031084d430831801efb8a9395ce",
+      "md5": "45cc0031084d430831801efb8a9395ce",
+      "width": 1200,
+      "height": 1600,
+      "size": 470500,
+      "uploadedDate": "2022-07-06T14:46:58.984Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,7 +36,7 @@
   "namespace": "0208da63c74542c99e8a0837e4e688c3",
   "status": "ACTIVE",
   "creationDate": "2020-10-22T20:36:56.811Z",
-  "lastModifiedDate": "2021-06-25T05:57:21.586Z",
+  "lastModifiedDate": "2022-07-18T19:34:08.662Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -29,6 +49,10 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Blackbird Interactive/Hardspace_ Shipbreaker/Saves/"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -44,7 +68,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Zeus"
+      "value": "HardspaceShipbreaker"
     }
   },
   "entitlementName": "ab59d012a5694e8893a7441b1254637f",
