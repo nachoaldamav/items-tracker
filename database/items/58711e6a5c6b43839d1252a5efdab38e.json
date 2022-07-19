@@ -1,0 +1,72 @@
+{
+  "id": "58711e6a5c6b43839d1252a5efdab38e",
+  "title": "Baldur's Gate Dark Alliance II",
+  "description": "Unspeakable evil has returned to the legendary city of Baldur's Gate. A call for adventurers echoes through the embattled land. Cunning warriors and bold magic users are desperately needed to reclaim Baldur's Gate from a dark sorcery that threatens all in its path.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4369d258dcf64caba9a722610602bb19/baldurs-gate--dark-alliance-ii-offer-10fte.jpg",
+      "md5": "71b77f6cbfde88386cbff5fc4ab36a2e",
+      "width": 2560,
+      "height": 1440,
+      "size": 377394,
+      "uploadedDate": "2022-05-12T06:56:19.128Z",
+      "alt": "Baldur's Gate - Dark Alliance II Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4369d258dcf64caba9a722610602bb19/download-baldurs-gate--dark-alliance-ii-offer-33vyx.jpg",
+      "md5": "75b6037fb3be488195c25422cbb4797b",
+      "width": 1200,
+      "height": 1600,
+      "size": 228905,
+      "uploadedDate": "2022-05-12T06:56:33.805Z",
+      "alt": "Download Baldur's Gate - Dark Alliance II Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1d1f92fdf89a4827a98aa4c38c31e626",
+  "status": "ACTIVE",
+  "creationDate": "2022-05-03T16:49:17.922Z",
+  "lastModifiedDate": "2022-07-01T16:48:48.356Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Baldur's Gate - Dark Alliance II/savedata/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Baldur's Gate - Dark Alliance II/savedata/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BaldursGateDarkAlliatyXnX"
+    }
+  },
+  "entitlementName": "58711e6a5c6b43839d1252a5efdab38e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4fcdf760baee4b419ceffebed09e90ac",
+      "appId": "5459473775e04872b0584c32b00f2476",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Interplay Entertainment Corp.",
+  "developerId": "o-ebvwv4fmqxbw48yz3rx65fmxxqfk35",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
