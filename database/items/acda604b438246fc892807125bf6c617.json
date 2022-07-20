@@ -34,8 +34,8 @@
   ],
   "namespace": "a358e6bb56b04091bd63bcce56d043e9",
   "status": "ACTIVE",
-  "creationDate": "2022-06-21T20:12:49.402Z",
-  "lastModifiedDate": "2022-06-21T20:12:49.402Z",
+  "creationDate": "2022-06-21T00:20:02.971Z",
+  "lastModifiedDate": "2022-07-19T00:34:10.943Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "7fcbb1c953624ab1a6fc59cd0979e61d",
+      "id": "c57bd15a76384a4cacec2c77504d7e17",
       "appId": "de561dba59a648b7b3f341a5828c9d67",
-      "platform": []
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
     }
   ],
   "developer": "Spiderweb Software, Inc.",
