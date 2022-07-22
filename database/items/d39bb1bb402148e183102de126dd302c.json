@@ -1,0 +1,77 @@
+{
+  "id": "d39bb1bb402148e183102de126dd302c",
+  "title": "Dragon Wars",
+  "description": "Dragon Wars",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e7bfe0910bba443fa6fbc0cc512ec7a4/dragon-wars-offer-kaxac.jpg",
+      "md5": "796ac7ca89ffef3e1bd657964a349c9a",
+      "width": 2560,
+      "height": 1440,
+      "size": 764889,
+      "uploadedDate": "2022-02-19T00:08:04.791Z",
+      "alt": "Dragon Wars Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e7bfe0910bba443fa6fbc0cc512ec7a4/download-dragon-wars-offer-1kfng.jpg",
+      "md5": "e95b9f3086e4e14fe6f9d45d7681a083",
+      "width": 1200,
+      "height": 1600,
+      "size": 533935,
+      "uploadedDate": "2022-02-19T00:08:04.929Z",
+      "alt": "Download Dragon Wars Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8325104b63e84deba82e0e348ead5e60",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-16T15:10:18.752Z",
+  "lastModifiedDate": "2022-06-16T15:10:18.752Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/DRAGON/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "DATA1"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DragonWars"
+    }
+  },
+  "entitlementName": "d39bb1bb402148e183102de126dd302c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "55f961cc99344ecd85ac36d76166f717",
+      "appId": "1172e29a2c7e4a49a9ce2864c7f68aa4",
+      "platform": [
+        "Win32",
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Interplay Entertainment Corp.",
+  "developerId": "o-ebvwv4fmqxbw48yz3rx65fmxxqfk35",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
