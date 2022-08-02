@@ -13,7 +13,7 @@
   "namespace": "24285307a56445f1bc5d546df7af3025",
   "status": "ACTIVE",
   "creationDate": "2020-05-08T16:48:48.131Z",
-  "lastModifiedDate": "2020-08-10T14:06:48.155Z",
+  "lastModifiedDate": "2022-08-02T08:48:26.859Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,11 +23,14 @@
   "entitlementName": "7020434bc9ca47dd91d08d3ffc3f8b00",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Stardock Entertainment, Inc",
   "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
