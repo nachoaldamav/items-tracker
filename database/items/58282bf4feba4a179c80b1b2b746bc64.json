@@ -4,23 +4,43 @@
   "description": "Tyrants Blessing",
   "keyImages": [
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/bc2578cb20ed40e58235956447e04dfa/tyrants-blessing-offer-7wuy7.png",
-      "md5": "b1b82a867c4129b54b562ff94c5e64c8",
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/bc2578cb20ed40e58235956447e04dfa/tyrants-blessing-offer-19i66.jpg",
+      "md5": "461f46a029d2d9e5bcbfac7721119369",
       "width": 2560,
       "height": 1440,
-      "size": 2390974,
-      "uploadedDate": "2021-12-14T18:56:54.357Z",
+      "size": 1939660,
+      "uploadedDate": "2022-07-21T15:05:11.269Z",
+      "alt": "Tyrants Blessing Offer"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/bc2578cb20ed40e58235956447e04dfa/download-tyrants-blessing-offer-148mo.jpg",
+      "md5": "b1c0f47939650f17debc66a3e946722a",
+      "width": 1200,
+      "height": 1600,
+      "size": 1198473,
+      "uploadedDate": "2022-07-21T15:05:17.943Z",
+      "alt": "Download Tyrants Blessing Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/bc2578cb20ed40e58235956447e04dfa/tyrants-blessing-offer-1wzu6.jpg",
+      "md5": "461f46a029d2d9e5bcbfac7721119369",
+      "width": 2560,
+      "height": 1440,
+      "size": 1939660,
+      "uploadedDate": "2022-07-21T15:05:27.842Z",
       "alt": "Tyrants Blessing Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/bc2578cb20ed40e58235956447e04dfa/download-tyrants-blessing-offer-1tmq9.png",
-      "md5": "92c536b23043dcdac8d26f24c13c6dad",
+      "url": "https://cdn1.epicgames.com/spt-assets/bc2578cb20ed40e58235956447e04dfa/download-tyrants-blessing-offer-uumbs.jpg",
+      "md5": "b1c0f47939650f17debc66a3e946722a",
       "width": 1200,
       "height": 1600,
-      "size": 1399830,
-      "uploadedDate": "2021-12-14T18:56:56.427Z",
+      "size": 1198473,
+      "uploadedDate": "2022-07-21T15:05:26.463Z",
       "alt": "Download Tyrants Blessing Offer"
     }
   ],
@@ -35,7 +55,7 @@
   "namespace": "221c4f10ac5d4e818008b97bcfee6cab",
   "status": "ACTIVE",
   "creationDate": "2021-11-04T22:40:06.869Z",
-  "lastModifiedDate": "2022-06-02T12:25:35.016Z",
+  "lastModifiedDate": "2022-08-01T20:08:03.161Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,7 +67,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "d727731ab6c345f892ae8577459d1786",
+      "id": "a30fcb178e7d45d685df081f09cb67aa",
       "appId": "fa4b8467252d4a4f8102bd31a4fd7f44",
       "platform": [
         "Windows"
