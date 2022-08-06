@@ -1,0 +1,72 @@
+{
+  "id": "54b32daef62a431691107ff525f68520",
+  "title": "Doors That Go Like This",
+  "description": "Doors That Go Like This",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/03f7951c81af45e48a1caf6f8e24dba9/item/EGS_Doorsthatgolikethis_PositechGames_DLC_S1-2560x1440-d66792b4058d0ec1212cbed9441fd9ec.jpg",
+      "md5": "d66792b4058d0ec1212cbed9441fd9ec",
+      "width": 2560,
+      "height": 1440,
+      "size": 1041871,
+      "uploadedDate": "2021-01-27T04:47:58.161Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/03f7951c81af45e48a1caf6f8e24dba9/item/EGS_Doorsthatgolikethis_PositechGames_DLC_S2-1200x1600-bca02c689f35f191e020eb4eec581a52.jpg",
+      "md5": "bca02c689f35f191e020eb4eec581a52",
+      "width": 1200,
+      "height": 1600,
+      "size": 559685,
+      "uploadedDate": "2021-01-27T04:47:45.644Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "03f7951c81af45e48a1caf6f8e24dba9",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-07T20:59:02.398Z",
+  "lastModifiedDate": "2021-01-28T16:06:45.957Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DoorsThatGoLikeThis"
+    }
+  },
+  "entitlementName": "54b32daef62a431691107ff525f68520",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "25e4cfb8b1254a6b94ba6b01c6a4be0a",
+      "appId": "9f1c5adcb38e40d6bff6ffcb23704ac5",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-12T00:00:00.000Z"
+    }
+  ],
+  "developer": "Positech Computing Ltd",
+  "developerId": "o-hrszwkzbhb269y9we9tpukac2zxb5e",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

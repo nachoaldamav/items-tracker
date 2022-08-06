@@ -1,0 +1,72 @@
+{
+  "id": "74b715ea2dca4312b78e77b09fee3af3",
+  "title": "Rise of the Third Power",
+  "description": "Rise of the Third Power",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9f5d0532b3b24e82b269b6df9956159d/download-rise-of-the-third-power-offer-h7ao7.png",
+      "md5": "c398c173058cf9d9017280ed90f56b22",
+      "width": 1200,
+      "height": 1600,
+      "size": 3263508,
+      "uploadedDate": "2021-12-15T03:05:41.193Z",
+      "alt": "Download Rise of the Third Power Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9f5d0532b3b24e82b269b6df9956159d/rise-of-the-third-power-offer-1puiz.png",
+      "md5": "e110ccf1aed0d526c888b2165d8dcb02",
+      "width": 2560,
+      "height": 1440,
+      "size": 3981094,
+      "uploadedDate": "2021-12-15T03:05:36.055Z",
+      "alt": "Rise of the Third Power Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cc0a46b0f9844d79a343e2d394ac0598",
+  "status": "ACTIVE",
+  "creationDate": "2021-12-01T05:13:55.880Z",
+  "lastModifiedDate": "2022-02-24T17:18:48.623Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/com.StegosoftGames.RiseOfTheThirdPower/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Stegosoft Games/Rise of the Third Power/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RiseoftheThirdPowerSlHbf"
+    }
+  },
+  "entitlementName": "74b715ea2dca4312b78e77b09fee3af3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e7f0f74070744a27936cd41ff3a3f40d",
+      "appId": "55577d18fe7647f2821915a788100d98",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "DANGEN Entertainment",
+  "developerId": "o-q2thmxrkzmaxl69f7ql8qm65nruu8u",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

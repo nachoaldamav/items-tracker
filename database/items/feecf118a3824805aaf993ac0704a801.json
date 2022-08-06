@@ -1,0 +1,34 @@
+{
+  "id": "feecf118a3824805aaf993ac0704a801",
+  "title": "DevAntimonyAudience",
+  "description": "DevAntimonyAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "37e6d41ce91e44988190c2f10108d4e9",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-20T23:07:54.860Z",
+  "lastModifiedDate": "2021-03-25T14:06:21.727Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "feecf118a3824805aaf993ac0704a801",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Thermite Games",
+  "developerId": "o-c4wvnkapw72ewsv6plkytlbc5f46nb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

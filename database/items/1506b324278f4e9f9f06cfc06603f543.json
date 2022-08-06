@@ -1,0 +1,54 @@
+{
+  "id": "1506b324278f4e9f9f06cfc06603f543",
+  "title": "IronBetaStaging",
+  "description": "IronBetaStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-23T02:14:36.176Z",
+  "lastModifiedDate": "2021-03-23T16:03:33.980Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "IronBetaStaging"
+    }
+  },
+  "entitlementName": "1506b324278f4e9f9f06cfc06603f543",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5a071e88717f4b49b28acf0fb18faf0b",
+      "appId": "d7472ba74f8a4ecc975f341ca2c8c493",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-01-23T00:00:00.000Z"
+    }
+  ],
+  "developer": "Perfect World",
+  "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567L6ZKp816wDVMoNZNaki1afAU",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

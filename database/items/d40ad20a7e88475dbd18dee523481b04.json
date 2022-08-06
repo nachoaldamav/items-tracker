@@ -1,0 +1,52 @@
+{
+  "id": "d40ad20a7e88475dbd18dee523481b04",
+  "title": "LobbiesSample",
+  "description": "LobbiesSample",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "developer"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b761d934acc84232bd91cd5358e030f9",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-01T16:37:53.500Z",
+  "lastModifiedDate": "2021-02-24T19:47:35.500Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "LobbiesSample"
+    }
+  },
+  "entitlementName": "d40ad20a7e88475dbd18dee523481b04",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3d673b1c90cb47559a84a577fd93f08c",
+      "appId": "398b744970f741bfaff3b73add271a5d",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2020-09-09T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic SDK Internal - Prod",
+  "developerId": "o-vvsbfecxfr4yvjzdttzgtdr2n87zdl",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

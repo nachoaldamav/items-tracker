@@ -1,0 +1,53 @@
+{
+  "id": "1aa7eeba6c394c5ca8e68edc686b55cc",
+  "title": "LyrebirdStaging",
+  "description": "LyrebirdStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e1067ce994e24a4abbe36247eaa26bfd",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-17T18:38:20.253Z",
+  "lastModifiedDate": "2022-05-10T14:59:20.472Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LyrebirdStaging"
+    }
+  },
+  "entitlementName": "1aa7eeba6c394c5ca8e68edc686b55cc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5bf7a3c023794a039552a42aa1436cb9",
+      "appId": "LyrebirdStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-17T18:51:46.709Z"
+    }
+  ],
+  "developer": "Gearbox Publishing San Francisco",
+  "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "86ce08b8f2814318bf834906c8629d02",
+  "title": "BrownieGeneralAudience",
+  "description": "BrownieGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "435aaec1220447efbcfeb4f2abeb1027",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-16T22:17:04.861Z",
+  "lastModifiedDate": "2020-08-17T19:28:36.648Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "86ce08b8f2814318bf834906c8629d02",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

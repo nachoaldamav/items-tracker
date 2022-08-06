@@ -1,0 +1,102 @@
+{
+  "id": "3d4bb311c20b4cabb9e6c851e5c4872d",
+  "title": "Splinter Cell Double Agent",
+  "description": "Splinter Cell Double Agent",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/1cdfbaaccaab490c9305e86496c7f3fa/item/SCL4_UCS17159_EGST_Store_Landscape_2560x1440-2560x1440-6af04b83653761c83351dcb18363fa9a.jpg",
+      "md5": "6af04b83653761c83351dcb18363fa9a",
+      "width": 2560,
+      "height": 1440,
+      "size": 478540,
+      "uploadedDate": "2021-03-08T22:32:04.575Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/1cdfbaaccaab490c9305e86496c7f3fa/item/SCL4_UCS17159_EGST_Store_Portrait_1200x1600-1200x1600-2cb5091f3265104c378c90378f36c83f.jpg",
+      "md5": "2cb5091f3265104c378c90378f36c83f",
+      "width": 1200,
+      "height": 1600,
+      "size": 362803,
+      "uploadedDate": "2021-03-08T22:32:07.099Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1cdfbaaccaab490c9305e86496c7f3fa",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-12T18:22:46.810Z",
+  "lastModifiedDate": "2021-08-24T16:27:31.173Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "SplinterCell4.exe"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "837310970a894213889625d856ceef49"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SplinterCellDoubleAgent"
+    }
+  },
+  "entitlementName": "3d4bb311c20b4cabb9e6c851e5c4872d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bf6b609567844ca69a3ac02b6478e35b",
+      "appId": "b678e4bde8cd4059919087cde99d966d",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-12T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

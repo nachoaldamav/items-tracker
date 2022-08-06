@@ -1,0 +1,89 @@
+{
+  "id": "7e3b3df10155434793b0cc5e97b896d0",
+  "title": "Let's Build a Zoo",
+  "description": "Let's Build a Zoo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LetsBuildAZoo_Springloaded_S1_2560x1440-0fd216bea3b2356b701c483e6635b96b",
+      "md5": "0fd216bea3b2356b701c483e6635b96b",
+      "width": 2560,
+      "height": 1440,
+      "size": 829873,
+      "uploadedDate": "2022-02-09T22:13:50.447Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LetsBuildAZoo_Springloaded_S2_1200x1600-9f546139acb9c27a75aee035db50cbb7",
+      "md5": "9f546139acb9c27a75aee035db50cbb7",
+      "width": 1200,
+      "height": 1600,
+      "size": 880725,
+      "uploadedDate": "2022-02-09T22:14:01.777Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d74efb08c7f449928fcdfdba1dcbda48",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-21T21:40:26.354Z",
+  "lastModifiedDate": "2022-07-07T12:37:31.077Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "d74efb08c7f449928fcdfdba1dcbda48"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LetsBuildaZoo"
+    }
+  },
+  "entitlementName": "7e3b3df10155434793b0cc5e97b896d0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "39ba5f1b16b24572b6dc73827da16aa5",
+      "appId": "f7a456368be244ddbb2424774917a3a8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "No More Robots",
+  "developerId": "o-236t9erksuklvbpwrddx5953wndtps",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

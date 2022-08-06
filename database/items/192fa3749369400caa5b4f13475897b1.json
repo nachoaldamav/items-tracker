@@ -1,0 +1,92 @@
+{
+  "id": "192fa3749369400caa5b4f13475897b1",
+  "title": "Star Renegades",
+  "description": "Star Renegades",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/0114ea1a5d674c6b8c99015e6c994aff/item/EGS_StarRenegades_MassiveDamageInc_S1-2560x1440-78ba910841e75e4cc0323ecfcc8ccc26.jpg",
+      "md5": "78ba910841e75e4cc0323ecfcc8ccc26",
+      "width": 2560,
+      "height": 1440,
+      "size": 1007685,
+      "uploadedDate": "2021-03-04T15:09:23.897Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/0114ea1a5d674c6b8c99015e6c994aff/item/EGS_StarRenegades_MassiveDamageInc_S2-1200x1600-74ebfd5e2e4d4a9c48ea41b9d3e14047.jpg",
+      "md5": "74ebfd5e2e4d4a9c48ea41b9d3e14047",
+      "width": 1200,
+      "height": 1600,
+      "size": 1017036,
+      "uploadedDate": "2021-03-04T15:09:35.217Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0114ea1a5d674c6b8c99015e6c994aff",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-22T20:20:19.123Z",
+  "lastModifiedDate": "2021-03-04T15:23:41.951Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "0114ea1a5d674c6b8c99015e6c994aff"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "StarRenegades"
+    }
+  },
+  "entitlementName": "192fa3749369400caa5b4f13475897b1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "555c5af1566a4c42a27e4a241d9b1262",
+      "appId": "ae57424d9e8c4948a03ce00ebd4de8fd",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-02-22T00:00:00.000Z"
+    }
+  ],
+  "developer": "Raw Fury",
+  "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,71 @@
+{
+  "id": "fbceca72d17c48058e6ee97a2b171e53",
+  "title": "Supraland Six Inches Under",
+  "description": "A mix between Portal, Zelda and Metroid. Exploration, puzzles, combat! A first-person-metroidvania taking place six inches under Supraland.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9e5c99eeceb24b26ad3648eb894bf905/supraland-six-inches-under-offer-mejlu.jpg",
+      "md5": "a0b2d1f4f4a6d31e459b9d8d3a545a67",
+      "width": 2560,
+      "height": 1440,
+      "size": 976183,
+      "uploadedDate": "2022-05-02T16:22:52.650Z",
+      "alt": "Supraland Six Inches Under Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9e5c99eeceb24b26ad3648eb894bf905/download-supraland-six-inches-under-offer-1g64h.jpg",
+      "md5": "d0148bc381f29b6ef6d7b17dfe449cf9",
+      "width": 1200,
+      "height": 1600,
+      "size": 708761,
+      "uploadedDate": "2022-05-02T16:22:53.067Z",
+      "alt": "Download Supraland Six Inches Under Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ffa7b0821b4142d5873ecb0528715003",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-31T21:38:41.812Z",
+  "lastModifiedDate": "2022-06-07T18:11:43.418Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/SupralandSIU/Saved/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "steam_autocloud.vdf,CrashReportClient.ini"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SupralandSixInchesUnOT8kl"
+    }
+  },
+  "entitlementName": "fbceca72d17c48058e6ee97a2b171e53",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e03130f29d544b49b4ecee8c32897c26",
+      "appId": "ed23e00906c144f7bf5d9ad18cb4004b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Supra Games",
+  "developerId": "o-gfmarfnj9jh4jucwvuubpjv4nwb66x",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

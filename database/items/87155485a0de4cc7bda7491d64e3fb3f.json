@@ -1,0 +1,34 @@
+{
+  "id": "87155485a0de4cc7bda7491d64e3fb3f",
+  "title": "DevThoriumAudience",
+  "description": "DevThoriumAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "2b4079af75f0487798a504ca35952942",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-06T00:22:46.662Z",
+  "lastModifiedDate": "2021-04-27T02:01:00.400Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "87155485a0de4cc7bda7491d64e3fb3f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Draknek",
+  "developerId": "o-8n38qrvfawma8qsmu3d37bw7gasm2a",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

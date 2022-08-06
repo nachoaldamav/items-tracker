@@ -1,0 +1,94 @@
+{
+  "id": "d3ace1d2ca7c4a13b2ea9d26583fcba7",
+  "title": "Fist-Fluffs",
+  "description": "Fist-Fluffs",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FistiFluffs_PlayfellowStudio_S5_1920x1080-d315a1d5d0f7e890e8951bf2ce31c455",
+      "md5": "d315a1d5d0f7e890e8951bf2ce31c455",
+      "width": 1920,
+      "height": 1080,
+      "size": 709863,
+      "uploadedDate": "2021-09-23T12:49:31.786Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FistiFluffs_PlayfellowStudio_S4_1200x1600-897cbe6be740921aec1f35f7c268dbcc",
+      "md5": "897cbe6be740921aec1f35f7c268dbcc",
+      "width": 1200,
+      "height": 1600,
+      "size": 548233,
+      "uploadedDate": "2021-09-23T12:49:37.778Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bdaad63b5de5424bbd720d9055906ab1",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-07T00:16:11.585Z",
+  "lastModifiedDate": "2021-09-23T12:49:49.673Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "bdaad63b5de5424bbd720d9055906ab1"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Fistifluffs"
+    }
+  },
+  "entitlementName": "d3ace1d2ca7c4a13b2ea9d26583fcba7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c611b27936f34c73832c10fd3c5f1c58",
+      "appId": "d4d36c0c882648e58f5f456748e4328d",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-04-07T00:18:57.469Z"
+    }
+  ],
+  "developer": "Rogue Games, Inc.",
+  "developerId": "o-uf2lr9jar96m9qssppdgmal3j6alyq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

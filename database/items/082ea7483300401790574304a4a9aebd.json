@@ -1,0 +1,34 @@
+{
+  "id": "082ea7483300401790574304a4a9aebd",
+  "title": "ChromeYellowGeneralAudience",
+  "description": "ChromeYellowGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c2091e25d1cb42ce8fc93136ad484f05",
+  "status": "ACTIVE",
+  "creationDate": "2021-05-12T21:38:23.544Z",
+  "lastModifiedDate": "2021-08-19T20:49:20.161Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "082ea7483300401790574304a4a9aebd",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Nilo Studios",
+  "developerId": "o-rfjl93umbemmtt5juyrx7v63r4h8mf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

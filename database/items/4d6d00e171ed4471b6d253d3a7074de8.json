@@ -1,0 +1,35 @@
+{
+  "id": "4d6d00e171ed4471b6d253d3a7074de8",
+  "title": "Switzerland",
+  "description": "Switzerland",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "b4d9169e1b8548f2babec33107253309",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-11T14:11:30.231Z",
+  "lastModifiedDate": "2021-05-06T20:14:38.346Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "4d6d00e171ed4471b6d253d3a7074de8",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Asmodee",
+  "developerId": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,52 @@
+{
+  "id": "e0e94fd55e0c4b83aeb5a809d18f6a5d",
+  "title": "FregulaStaging",
+  "description": "FregulaStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fa9812acd30f46f8a69a75bf27addb5c",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-08T23:55:30.973Z",
+  "lastModifiedDate": "2021-09-24T00:00:47.080Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FregulaStaging"
+    }
+  },
+  "entitlementName": "e0e94fd55e0c4b83aeb5a809d18f6a5d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1c0afa4e8d204ce48a3e34d5a1108b45",
+      "appId": "4e0a4d55837745c99b92a92e3098b427",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-10T17:18:02.567Z"
+    }
+  ],
+  "developer": "Maximum Games",
+  "developerId": "o-a6k23slslegbhbwtel4qx423kuzc3y",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

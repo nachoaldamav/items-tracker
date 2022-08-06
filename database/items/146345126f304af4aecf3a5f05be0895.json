@@ -1,0 +1,93 @@
+{
+  "id": "146345126f304af4aecf3a5f05be0895",
+  "title": "SpellForce 3: Fallen God",
+  "description": "SpellForce 3: Fallen God",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/6ad92d14cc544743831d4f70c964d39d/item/EGS_SpellForce3FallenGod_GrimloreGames_S1-2560x1440-165fecf687d3d41c629810a4ea1f91fc.jpg",
+      "md5": "165fecf687d3d41c629810a4ea1f91fc",
+      "width": 2560,
+      "height": 1440,
+      "size": 510071,
+      "uploadedDate": "2020-10-27T17:15:54.755Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/6ad92d14cc544743831d4f70c964d39d/item/EGS_SpellForce3FallenGod_GrimloreGames_S2-1200x1600-3d4bb77f9ccb857720875076707bd7a7.jpg",
+      "md5": "3d4bb77f9ccb857720875076707bd7a7",
+      "width": 1200,
+      "height": 1600,
+      "size": 316395,
+      "uploadedDate": "2020-10-27T17:16:05.497Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6ad92d14cc544743831d4f70c964d39d",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-27T11:50:49.884Z",
+  "lastModifiedDate": "2020-12-14T13:54:38.302Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "6ad92d14cc544743831d4f70c964d39d"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SpellForce3FallenGod"
+    }
+  },
+  "entitlementName": "146345126f304af4aecf3a5f05be0895",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8f81b15908324752bb1934df7d18bd13",
+      "appId": "36c9770807354d53a0d96d1b7862f746",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567z5LLoUQMeHY1iXdgg0f45qWO",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,62 @@
+{
+  "id": "d03e5c6f5bb4447bb832d32d558373fa",
+  "title": "LutetiumStaging",
+  "description": "LutetiumStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "253d451b16364a22907dd01b7e928fb6",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-26T22:56:10.987Z",
+  "lastModifiedDate": "2021-08-30T22:09:37.448Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Aquiris/HorizonChaseTurbo/HorizonChaseTurbo_EpicGameStore/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LutetiumStaging"
+    }
+  },
+  "entitlementName": "d03e5c6f5bb4447bb832d32d558373fa",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0e232f7eb3ba41b0901f45e5642c849e",
+      "appId": "d25bbf6a6d60464a8bafc1f1bf4ef0fd",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-01-26T23:17:49.000Z"
+    }
+  ],
+  "developer": "AQUIRIS",
+  "developerId": "o-9vdp6e5ydhtqt23utprf59f8hg45se",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi45675C1cu2PAvMQpN9ZV51TysurJ",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

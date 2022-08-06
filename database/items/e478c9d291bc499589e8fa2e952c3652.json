@@ -1,0 +1,65 @@
+{
+  "id": "e478c9d291bc499589e8fa2e952c3652",
+  "title": "Train Valley",
+  "description": "Train Valley",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/90d06ff8a1054e04b2f7bcc8c791b4a7/download-train-valley-offer-1it7w.jpg",
+      "md5": "788a069d54974682da43a9c4be77f7e2",
+      "width": 1200,
+      "height": 1600,
+      "size": 622791,
+      "uploadedDate": "2021-12-16T09:14:22.165Z",
+      "alt": "Download Train Valley Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/90d06ff8a1054e04b2f7bcc8c791b4a7/train-valley-offer-1ih2m.jpg",
+      "md5": "48d77139b5f320a1c75338c0196b820a",
+      "width": 2560,
+      "height": 1440,
+      "size": 1030143,
+      "uploadedDate": "2021-12-16T09:14:23.197Z",
+      "alt": "Train Valley Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "317acd36093b41cab801f4237499e5d7",
+  "status": "ACTIVE",
+  "creationDate": "2022-04-07T17:56:33.183Z",
+  "lastModifiedDate": "2022-06-02T12:25:15.142Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TrainValley"
+    }
+  },
+  "entitlementName": "e478c9d291bc499589e8fa2e952c3652",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "463922e373ce42faa69f7390be3d7d05",
+      "appId": "cfa66beb053649a993b16b821662e788",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Postmeta Games",
+  "developerId": "o-ptrc3tlq66gg7gsku56pwafjwzs23b",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

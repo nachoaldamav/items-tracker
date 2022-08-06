@@ -1,0 +1,52 @@
+{
+  "id": "794d889450f647aca0e6ba3dae008f95",
+  "title": "ViolinStaging",
+  "description": "ViolinStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5ac6ed1380e94c7384b5cb89d38bb73e",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-25T23:21:07.732Z",
+  "lastModifiedDate": "2021-02-11T19:35:53.524Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ViolinStaging"
+    }
+  },
+  "entitlementName": "794d889450f647aca0e6ba3dae008f95",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7ee32cefd0224c03a4a4e5bd5a6d74b6",
+      "appId": "9b59b57aa89e490c8f60fc02275e7a04",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-17T21:39:51.865Z"
+    }
+  ],
+  "developer": "Outside Game Studio, Inc",
+  "developerId": "o-4rgffp5c83gl5arzhq9439b3awn8l9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

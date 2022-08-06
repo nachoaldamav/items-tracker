@@ -1,0 +1,71 @@
+{
+  "id": "b23fab1e0f664923b48cb3b3970c5bab",
+  "title": "Lobbyistico",
+  "description": "Lobbyistico",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/item/EGS_Lobbyistico_LimbicEntertainment_DLC_S1-2560x1440-5c3626de735dab9939afab2aeb768cfd.jpg",
+      "md5": "5c3626de735dab9939afab2aeb768cfd",
+      "width": 2560,
+      "height": 1440,
+      "size": 852593,
+      "uploadedDate": "2020-11-16T20:34:25.014Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/item/EGS_Lobbyistico_LimbicEntertainment_DLC_S2-1200x1600-05a54dc41b1e7fba4b37f3aeb147eda8.jpg",
+      "md5": "05a54dc41b1e7fba4b37f3aeb147eda8",
+      "width": 1200,
+      "height": 1600,
+      "size": 691552,
+      "uploadedDate": "2020-11-16T20:34:32.767Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e1055bf1e5654b93a27e19e6bb86cb2a",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T16:39:06.681Z",
+  "lastModifiedDate": "2021-08-11T15:00:10.338Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Lobbyistico"
+    }
+  },
+  "entitlementName": "b23fab1e0f664923b48cb3b3970c5bab",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d754ca305143443b937807ed31ca99bd",
+      "appId": "f62e82cdf45c404784747b3f0b1abdc5",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

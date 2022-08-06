@@ -1,0 +1,81 @@
+{
+  "id": "ae35fb15430b42abaf82ac6ddd2d5218",
+  "title": "VELONE",
+  "description": "VELONE",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ad01c8795c904ff4a46b0ea16ce8509d/velone-offer-1fxaz.jpg",
+      "md5": "5d40a4d0c047f7847f178a37234b5dbf",
+      "width": 2560,
+      "height": 1440,
+      "size": 2070055,
+      "uploadedDate": "2022-03-23T10:13:00.342Z",
+      "alt": "VELONE Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ad01c8795c904ff4a46b0ea16ce8509d/download-velone-offer-hx9w1.jpg",
+      "md5": "8ae760bd02660e34b065534e27b2885f",
+      "width": 1200,
+      "height": 1600,
+      "size": 1028451,
+      "uploadedDate": "2022-03-23T10:12:03.441Z",
+      "alt": "Download VELONE Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7691acba99d04b8b994ce3c642ec7655",
+  "status": "ACTIVE",
+  "creationDate": "2022-02-08T14:08:05.353Z",
+  "lastModifiedDate": "2022-04-29T13:16:38.711Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Daedalic Entertainment GmbH/VELONE/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Daedalic Entertainment GmbH/VELONE/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.save"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "VELONE"
+    }
+  },
+  "entitlementName": "ae35fb15430b42abaf82ac6ddd2d5218",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f5332e5172f24d2c80bdbbf56d5b2134",
+      "appId": "cc3213e82b994c6da47440d145d32852",
+      "platform": [
+        "Mac",
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "endOfSupport": false,
+  "applicationId": "fghi4567S4FrvFsJnZuZl0nAjtOPQ1AW",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

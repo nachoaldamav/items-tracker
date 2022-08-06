@@ -1,0 +1,83 @@
+{
+  "id": "54f38a31a0ce4a7ebecedbb157876f7d",
+  "title": "The Alien Cube",
+  "description": "The Alien Cube",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/99df7fc975d14b08a38bab63f5e497e1/the-alien-cube-offer-1nxz4.jpg",
+      "md5": "20a95486ebd2f59185c5a27567af89ed",
+      "width": 2560,
+      "height": 1440,
+      "size": 869216,
+      "uploadedDate": "2022-07-18T14:31:32.414Z",
+      "alt": "The Alien Cube Offer"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/99df7fc975d14b08a38bab63f5e497e1/download-the-alien-cube-offer-1q41c.jpg",
+      "md5": "1de89a4c1adf05d15bc142f7cfb6f752",
+      "width": 1200,
+      "height": 1600,
+      "size": 412399,
+      "uploadedDate": "2022-07-18T14:32:02.951Z",
+      "alt": "Download The Alien Cube Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/99df7fc975d14b08a38bab63f5e497e1/the-alien-cube-offer-1jxx2.jpg",
+      "md5": "20a95486ebd2f59185c5a27567af89ed",
+      "width": 2560,
+      "height": 1440,
+      "size": 869216,
+      "uploadedDate": "2022-07-18T14:32:17.688Z",
+      "alt": "The Alien Cube Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/99df7fc975d14b08a38bab63f5e497e1/download-the-alien-cube-offer-1m1u9.jpg",
+      "md5": "1de89a4c1adf05d15bc142f7cfb6f752",
+      "width": 1200,
+      "height": 1600,
+      "size": 412399,
+      "uploadedDate": "2022-07-18T14:32:16.264Z",
+      "alt": "Download The Alien Cube Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ea4755484f8641a4a540c227bb62f02d",
+  "status": "ACTIVE",
+  "creationDate": "2021-10-11T23:22:23.177Z",
+  "lastModifiedDate": "2022-07-18T14:32:22.917Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheAlienCube"
+    }
+  },
+  "entitlementName": "54f38a31a0ce4a7ebecedbb157876f7d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d8ed8fc17e1a41a9ae37b5caf426141e",
+      "appId": "1eb58b3ac88c40519cde2527e85ad2ea",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Alessandro Guzzo Organization",
+  "developerId": "o-9rjv952axbevlpcy8xuyunjyhtpkva",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

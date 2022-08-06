@@ -1,0 +1,59 @@
+{
+  "id": "6da28f8d84384fefa67cc2ade9e6f488",
+  "title": "Lab Rat",
+  "description": "Lab Rat",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a713c044188249979b55b2617278b126/lab-rat-offer-1ah6l.jpg",
+      "md5": "e2221e3ae49c390d08ce4078c65e016e",
+      "width": 2560,
+      "height": 1440,
+      "size": 2900226,
+      "uploadedDate": "2022-03-25T18:00:23.552Z",
+      "alt": "Lab Rat Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a713c044188249979b55b2617278b126/download-lab-rat-offer-1l6if.jpg",
+      "md5": "5cb4f54a7eaff8e847453f206813f53c",
+      "width": 1200,
+      "height": 1600,
+      "size": 1560765,
+      "uploadedDate": "2022-03-25T18:00:23.203Z",
+      "alt": "Download Lab Rat Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2819341e00334d248a264da8928554e2",
+  "status": "ACTIVE",
+  "creationDate": "2022-04-11T23:00:03.702Z",
+  "lastModifiedDate": "2022-06-02T12:25:58.982Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "LabRatQFHKW"
+    }
+  },
+  "entitlementName": "6da28f8d84384fefa67cc2ade9e6f488",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "de2fdc235a524f8589238c01a9c3c3dc",
+      "appId": "d9f7271f158c439fbfcedbef4d36c6b9"
+    }
+  ],
+  "developer": "Gwen Frey",
+  "developerId": "o-na388hs5k2ak86akfejt2es246vaa2",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

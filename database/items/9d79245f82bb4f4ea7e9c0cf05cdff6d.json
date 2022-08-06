@@ -1,0 +1,101 @@
+{
+  "id": "9d79245f82bb4f4ea7e9c0cf05cdff6d",
+  "title": "Paper Beast",
+  "description": "Paper Beast",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/96d9e862cd3947c28ea4206e89c1ea48/item/wide2-2560x1440-ed002594edbbb107cf4b524835294d27.jpg",
+      "md5": "ed002594edbbb107cf4b524835294d27",
+      "width": 2560,
+      "height": 1440,
+      "size": 967668,
+      "uploadedDate": "2020-09-16T11:52:30.053Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/96d9e862cd3947c28ea4206e89c1ea48/item/Tall-1200x1600-f72389a48bb27dd90bcfa812004a48cb.jpg",
+      "md5": "f72389a48bb27dd90bcfa812004a48cb",
+      "width": 1200,
+      "height": 1600,
+      "size": 850855,
+      "uploadedDate": "2020-09-16T11:52:47.610Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "96d9e862cd3947c28ea4206e89c1ea48",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-15T17:24:30.431Z",
+  "lastModifiedDate": "2020-10-21T11:05:29.310Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "96d9e862cd3947c28ea4206e89c1ea48"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Pixel Reef/Paper Beast/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "500"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PaperBeast"
+    }
+  },
+  "entitlementName": "9d79245f82bb4f4ea7e9c0cf05cdff6d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "209536c609244160a0298217ef687d6a",
+      "appId": "06efba7b35c6459cba1919c524c0d7fa",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-03T00:00:00.000Z"
+    }
+  ],
+  "developer": "Plug In Digital SAS",
+  "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567oUSLsUcirglhDKetA2p9MMtz",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

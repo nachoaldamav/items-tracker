@@ -1,0 +1,96 @@
+{
+  "id": "5c65b37ce4104bc1af79408386f98833",
+  "title": "Airborne Kingdom",
+  "description": "Airborne Kingdom",
+  "technicalDetails": "This is the Pre-Purchase artifact",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/item/EGS_AirborneKingdom_TheWanderingBan_S1-2560x1440-bd189bc37ebcdf92527db3017d7a2f00.jpg",
+      "md5": "bd189bc37ebcdf92527db3017d7a2f00",
+      "width": 2560,
+      "height": 1440,
+      "size": 993877,
+      "uploadedDate": "2020-10-29T04:26:39.373Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/item/EGS_AirborneKingdom_TheWanderingBan_S2-1200x1600-ef7b5c8d74730358fcc7d1f4c8c87252.jpg",
+      "md5": "ef7b5c8d74730358fcc7d1f4c8c87252",
+      "width": 1200,
+      "height": 1600,
+      "size": 985178,
+      "uploadedDate": "2020-10-29T04:26:42.706Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e1809e1742cb498080d8849b11a99c5a",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-13T18:36:11.284Z",
+  "lastModifiedDate": "2022-03-10T19:48:49.787Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "e1809e1742cb498080d8849b11a99c5a"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1608220800"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "5c65b37ce4104bc1af79408386f98833",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "207062a8e24245199c0695a534f64800",
+      "appId": "MacawDummy",
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2019-07-12T00:00:00.000Z"
+    }
+  ],
+  "developer": "Freedom Games",
+  "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

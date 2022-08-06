@@ -1,0 +1,71 @@
+{
+  "id": "7a3db2c9ac0646f9af2b35757050f8a4",
+  "title": "Filament",
+  "description": "Solve challenging cable-based puzzles and uncover what really happened to the crew of The Alabaster. Now with Hint System (for those ultra tricky puzzles).",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5a72e62648d747189d2f5e7abb47444c/filament-offer-1vbz6.jpg",
+      "md5": "728f62c4f9f171d31be7b60257493c74",
+      "width": 2560,
+      "height": 1440,
+      "size": 1108353,
+      "uploadedDate": "2022-05-16T09:57:17.745Z",
+      "alt": "Filament Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5a72e62648d747189d2f5e7abb47444c/download-filament-offer-1iku0.jpg",
+      "md5": "89fdc4623be6879f8673b42580623cf4",
+      "width": 1200,
+      "height": 1600,
+      "size": 357741,
+      "uploadedDate": "2022-05-16T09:57:17.182Z",
+      "alt": "Download Filament Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "89fb09a222a54e53b692e9c36e68d0a1",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-28T14:32:55.090Z",
+  "lastModifiedDate": "2022-07-12T17:16:12.101Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Filament/Saved/SavedGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FilamentKfF5w"
+    }
+  },
+  "entitlementName": "7a3db2c9ac0646f9af2b35757050f8a4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "645874b3887940be8546fc82c53e42d6",
+      "appId": "14a38161ad3c45adab18425415b5df3d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Kasedo Games Ltd",
+  "developerId": "o-fnqgc5v2xczx9fgawvcejwj88z2mnx",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

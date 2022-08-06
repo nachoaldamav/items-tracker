@@ -1,0 +1,67 @@
+{
+  "id": "5c33c18d8db542a9b1edce33d77ec561",
+  "title": "Family Man",
+  "description": "Family Man",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/351f5171bb994d858c360940494c5665/download-family-man-offer-5abnl.png",
+      "md5": "4d457bdcdc693330bfb359df51e1a83f",
+      "width": 1200,
+      "height": 1600,
+      "size": 1111096,
+      "uploadedDate": "2022-02-21T16:55:46.721Z",
+      "alt": "Download Family Man Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/351f5171bb994d858c360940494c5665/family-man-offer-1u4hq.png",
+      "md5": "5844d445223b502e30d65fbf032e31bf",
+      "width": 2560,
+      "height": 1440,
+      "size": 2159534,
+      "uploadedDate": "2022-02-21T16:55:47.066Z",
+      "alt": "Family Man Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ade60fe8b45645508a77a6667eb8ddb8",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-02T11:01:05.124Z",
+  "lastModifiedDate": "2022-06-02T12:25:23.338Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Users/RandomUserName\\AppData\\LocalLow\\Broken Bear\\Family Man/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FamilyManq5qo4"
+    }
+  },
+  "entitlementName": "5c33c18d8db542a9b1edce33d77ec561",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a9c7ad0b9b584300817289606136bff8",
+      "appId": "dfdbd4ee89b8406cb6def2fe7efd45ff",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "No More Robots",
+  "developerId": "o-236t9erksuklvbpwrddx5953wndtps",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

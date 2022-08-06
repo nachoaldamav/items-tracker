@@ -1,0 +1,61 @@
+{
+  "id": "a379ac3d19314da4b1232bf7dc955735",
+  "title": "SarajevoStaging",
+  "description": "SarajevoStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "456d95ca54814c8d98db2f52346ff5de",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-29T16:24:16.563Z",
+  "lastModifiedDate": "2021-01-12T13:51:57.124Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Artefacts Studio/Naheulbeuk/Save/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Artefacts Studio/Naheulbeuk/Save/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SarajevoStaging"
+    }
+  },
+  "entitlementName": "a379ac3d19314da4b1232bf7dc955735",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3211a437e4d143bd9446ddbbaae7918c",
+      "appId": "3b47468c80a54a269a59760e5c3a57d7",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-06-29T00:00:00.000Z"
+    }
+  ],
+  "developer": "Plug In Digital SAS",
+  "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi456750xgC3MDwDRX4uD5QZxWj0wK",
+  "unsearchable": false
+}

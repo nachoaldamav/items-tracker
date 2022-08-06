@@ -1,0 +1,60 @@
+{
+  "id": "bd1e6e800479439586a22b3771e26d68",
+  "title": "TinStaging",
+  "description": "TinStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e4ac2f8cd49b42f18821f3fc3b6fc1b6",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-22T19:28:09.950Z",
+  "lastModifiedDate": "2021-03-24T21:32:18.509Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/CITW/Saved/SaveGames/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "steam_autocloud.vdf"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TinStaging"
+    }
+  },
+  "entitlementName": "bd1e6e800479439586a22b3771e26d68",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cf3661b360a14387ac53344ad25a97c7",
+      "appId": "f0338253e55f41d3b63fca4999eb086e",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-01-22T00:00:00.000Z"
+    }
+  ],
+  "developer": "MWM Interactive",
+  "developerId": "o-f4rsv826ngcpw4wvunwntql3n23m46",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

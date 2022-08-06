@@ -1,0 +1,100 @@
+{
+  "id": "4405df59a04549e28eae43b8e308b038",
+  "title": "Tropico 5",
+  "description": "Tropico 5",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_Tropico5_HaemimontGames_S5-1920x1080-bc07360268fcba08b9368670d7d8a40b.jpg",
+      "md5": "bc07360268fcba08b9368670d7d8a40b",
+      "width": 1920,
+      "height": 1080,
+      "size": 928326,
+      "uploadedDate": "2020-11-16T15:17:32.184Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_Tropico5_HaemimontGames_S6-1200x1600-e61be120538ecdbc6e43c24605d8eac5.jpg",
+      "md5": "e61be120538ecdbc6e43c24605d8eac5",
+      "width": 1200,
+      "height": 1600,
+      "size": 946922,
+      "uploadedDate": "2020-11-16T15:17:42.585Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T17:15:17.740Z",
+  "lastModifiedDate": "2021-04-09T16:21:06.794Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "7015c51a49be4592b5ba3ae2577723c5"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Tropico 5/Save/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "8000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Tropico5"
+    }
+  },
+  "entitlementName": "4405df59a04549e28eae43b8e308b038",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ca873087f6d442739f807a80138a63a5",
+      "appId": "e4867c438f854da5a1d1f8c8609cac22",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567KDng4Sro7eeq1vIr7Bw5wyh1",
+  "unsearchable": false
+}

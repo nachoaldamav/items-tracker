@@ -1,0 +1,99 @@
+{
+  "id": "5c52836e6b9f4e0ca441f69fd15aa311",
+  "title": "Tom Clancy's The Division 2 - Trial",
+  "description": "Tom Clancy's The Division 2 - Trial",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/impala/US_TCTD2_EPIC_1920x1080_1920x1080-4d8fa4ac4dc7a947c260d8c6175b42b5",
+      "md5": "4d8fa4ac4dc7a947c260d8c6175b42b5",
+      "width": 1920,
+      "height": 1080,
+      "size": 367481,
+      "uploadedDate": "2022-05-05T20:14:14.567Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/impala/US_TCTD2_EPIC_1200x1600_1200x1600-a5657d791f8a30e83a23c5d894f8d341",
+      "md5": "a5657d791f8a30e83a23c5d894f8d341",
+      "width": 1200,
+      "height": 1600,
+      "size": 386035,
+      "uploadedDate": "2022-05-05T20:14:17.616Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "impala",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-14T22:52:03.772Z",
+  "lastModifiedDate": "2022-05-18T18:37:28.589Z",
+  "customAttributes": {
+    "PresenceID": {
+      "type": "STRING",
+      "value": "impala"
+    },
+    "isUplay": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1652112000"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "67b3aca00d5044418adbfa070f63cd2a"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheDivision2Trial"
+    }
+  },
+  "entitlementName": "5c52836e6b9f4e0ca441f69fd15aa311",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "36f01dd6a52540568e1e305d02b8e7c5",
+      "appId": "ImpalaTrial",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-14T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

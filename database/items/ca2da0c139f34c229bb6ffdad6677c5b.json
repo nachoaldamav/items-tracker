@@ -1,0 +1,35 @@
+{
+  "id": "ca2da0c139f34c229bb6ffdad6677c5b",
+  "title": "DevMooncakeAudience",
+  "description": "DevMooncakeAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "b829cfd910554ad3ad2eb3b314e2b1ef",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-08T21:58:00.262Z",
+  "lastModifiedDate": "2021-04-01T14:19:55.502Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ca2da0c139f34c229bb6ffdad6677c5b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Terrible Posture Games, Inc.",
+  "developerId": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

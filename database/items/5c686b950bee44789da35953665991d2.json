@@ -1,0 +1,34 @@
+{
+  "id": "5c686b950bee44789da35953665991d2",
+  "title": "DevburgundyAudience",
+  "description": "DevburgundyAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "ec49d0a2e38148458a3a2f4df3128ec5",
+  "status": "ACTIVE",
+  "creationDate": "2021-06-03T23:32:48.925Z",
+  "lastModifiedDate": "2021-06-09T19:20:28.132Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5c686b950bee44789da35953665991d2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Wired Productions",
+  "developerId": "o-r83qbqhwd8y5y5r6e9x62vtrsd9mqm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

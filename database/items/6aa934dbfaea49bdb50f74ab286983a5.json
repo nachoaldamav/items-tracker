@@ -1,0 +1,72 @@
+{
+  "id": "6aa934dbfaea49bdb50f74ab286983a5",
+  "title": "RUN - The world in-between",
+  "description": "RUN - The world in-between",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d1f36b0d43614c73a3b6a7e7a0f13f09/run--the-world-inbetween-offer-1606w.png",
+      "md5": "c5983fde9c4d5ce43c8f26e94fdbe57e",
+      "width": 2560,
+      "height": 1440,
+      "size": 2573964,
+      "uploadedDate": "2022-03-22T14:16:56.981Z",
+      "alt": "RUN - The world in-between Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d1f36b0d43614c73a3b6a7e7a0f13f09/download-run--the-world-inbetween-offer-33rnv.png",
+      "md5": "06631d813e50fcb8c4211dad4f1310c5",
+      "width": 1200,
+      "height": 1600,
+      "size": 698670,
+      "uploadedDate": "2022-03-22T14:16:56.302Z",
+      "alt": "Download RUN - The world in-between Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "51f1574dc7904dc4b4fae5265a651711",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-11T14:30:53.965Z",
+  "lastModifiedDate": "2022-04-02T15:39:40.227Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Godot/app_userdata/Run/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "20"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RUNTheworldinbetweenamB0x"
+    }
+  },
+  "entitlementName": "6aa934dbfaea49bdb50f74ab286983a5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7aa9ec28e79f48eeb9968a5ccdd8131f",
+      "appId": "ce3847ad3d464210834cde06e472619c",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Plug In Digital SAS",
+  "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

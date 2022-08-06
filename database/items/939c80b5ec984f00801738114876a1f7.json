@@ -1,0 +1,102 @@
+{
+  "id": "939c80b5ec984f00801738114876a1f7",
+  "title": "Tchia",
+  "description": "Tchia",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/2e09c1d223094f3798f63873548c9454/EGS_Tchia_Awaceb_S2_1200x1600-0b6219d195341483aa1842847cea8b6e",
+      "md5": "0b6219d195341483aa1842847cea8b6e",
+      "width": 1200,
+      "height": 1600,
+      "size": 778287,
+      "uploadedDate": "2021-11-01T22:38:14.643Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/2e09c1d223094f3798f63873548c9454/EGS_Tchia_Awaceb_S1_2560x1440-fa8e4a16687d976ebc3bc2a944454426",
+      "md5": "fa8e4a16687d976ebc3bc2a944454426",
+      "width": 2560,
+      "height": 1440,
+      "size": 813215,
+      "uploadedDate": "2022-05-20T20:11:58.686Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/2e09c1d223094f3798f63873548c9454/EGS_Tchia_Awaceb_S2_1200x1600-8b799f07437f2655bafdfd41c1bd1762",
+      "md5": "8b799f07437f2655bafdfd41c1bd1762",
+      "width": 1200,
+      "height": 1600,
+      "size": 209693,
+      "uploadedDate": "2022-05-20T20:12:00.704Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2e09c1d223094f3798f63873548c9454",
+  "status": "ACTIVE",
+  "creationDate": "2021-05-14T00:34:34.235Z",
+  "lastModifiedDate": "2022-05-20T20:12:02.707Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "2e09c1d223094f3798f63873548c9454"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Tchia"
+    }
+  },
+  "entitlementName": "939c80b5ec984f00801738114876a1f7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9987fb3597e54dfdbbf8498e7db06176",
+      "appId": "61e7ce0b48884dcda34c944f965a1bae",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Awaceb",
+  "developerId": "o-b9a47j63amncr26matvdcdbp9uhpve",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

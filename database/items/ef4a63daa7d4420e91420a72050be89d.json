@@ -1,0 +1,105 @@
+{
+  "id": "ef4a63daa7d4420e91420a72050be89d",
+  "title": "Satisfactory Experimental",
+  "description": "Satisfactory Experimental",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/crab/EGS_Satisfactory_CoffeeStainStudios_S1_2560x1440-e6be9b4c41c7da68a6a8adfb9fa6a0d1",
+      "md5": "e6be9b4c41c7da68a6a8adfb9fa6a0d1",
+      "width": 2560,
+      "height": 1440,
+      "size": 1009777,
+      "uploadedDate": "2022-06-14T20:12:57.185Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/crab/EGS_Satisfactory_CoffeeStainStudios_S2_1200x1600-1a510892940ba0c7b252e42b1554f5dc",
+      "md5": "1a510892940ba0c7b252e42b1554f5dc",
+      "width": 1200,
+      "height": 1600,
+      "size": 751675,
+      "uploadedDate": "2022-06-14T20:13:00.509Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "crab",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-03T20:31:28.361Z",
+  "lastModifiedDate": "2022-07-21T22:14:45.132Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "crab"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/FactoryGame/Saved/SaveGames/{EpicID}/"
+    },
+    "DisablePresenceWhileRunning": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "30000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SatisfactoryExperimental"
+    }
+  },
+  "entitlementName": "ef4a63daa7d4420e91420a72050be89d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4fbc452cdaf8447597ccd4424a64b58a",
+      "appId": "CrabTest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-04-03T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Coffee Stain Publishing",
+  "developerId": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "51aeac3aa2ce4a4d9659ebd95666f364",
+  "title": "ThalliumGeneralAudience",
+  "description": "ThalliumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "45bd0f6fc2704e22a3c1933f7bb972bf",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-08T00:33:11.243Z",
+  "lastModifiedDate": "2021-03-04T12:54:23.799Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "51aeac3aa2ce4a4d9659ebd95666f364",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "101XP Limited",
+  "developerId": "o-8kptgx6fhwgfv38jl63mrfstuvljre",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

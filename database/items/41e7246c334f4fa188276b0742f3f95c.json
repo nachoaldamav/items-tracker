@@ -1,0 +1,68 @@
+{
+  "id": "41e7246c334f4fa188276b0742f3f95c",
+  "title": "Another World - 20th Anniversary",
+  "description": "Another World - 20th Anniversary",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1705349fd865477bb11d82c8e21fcecf/another-world--20th-anniversary-edition-offer-1qzez.jpg",
+      "md5": "b936481411eb5550cbc2a9b91fe5c9f8",
+      "width": 2560,
+      "height": 1440,
+      "size": 785860,
+      "uploadedDate": "2022-03-22T21:17:04.339Z",
+      "alt": "Another World - 20th Anniversary Edition Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1705349fd865477bb11d82c8e21fcecf/download-another-world--20th-anniversary-edition-offer-18kkj.jpg",
+      "md5": "81c249edbf9e3b637bb353b28db175d9",
+      "width": 1200,
+      "height": 1600,
+      "size": 491860,
+      "uploadedDate": "2022-03-22T21:17:03.474Z",
+      "alt": "Download Another World - 20th Anniversary Edition Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bff546f2926945d8a5524ac76e311a0f",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-13T14:22:47.540Z",
+  "lastModifiedDate": "2022-06-02T12:24:58.138Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/Another World/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AnotherWorld20thAnnibLsdI"
+    }
+  },
+  "entitlementName": "41e7246c334f4fa188276b0742f3f95c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "667a42a82f9940198b4d7615d60bdd66",
+      "appId": "1190bc860f694c959a0d4a7c3acba41e",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Digital Lounge",
+  "developerId": "o-dm45g2zsvrldqwtwu7uu6zh2wqjctm",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

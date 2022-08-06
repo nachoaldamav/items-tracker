@@ -1,0 +1,101 @@
+{
+  "id": "86d5286d1b254e10902d6e2d7fc3bb76",
+  "title": "Darkest Dungeon II",
+  "description": "Darkest Dungeon II",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/6ff9efdef6dc45ecb40ed20fcd2c4621/Shroud_FeaturedHoriz copy_2560x1440-b748b2076319b64f6ae30dd61d1beb80",
+      "md5": "b748b2076319b64f6ae30dd61d1beb80",
+      "width": 2560,
+      "height": 1440,
+      "size": 2525777,
+      "uploadedDate": "2022-05-19T18:40:51.045Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/6ff9efdef6dc45ecb40ed20fcd2c4621/Shroud_FeaturedVert copy_1200x1600-25ff80ae686c3e7854781626c7f16def",
+      "md5": "25ff80ae686c3e7854781626c7f16def",
+      "width": 1200,
+      "height": 1600,
+      "size": 1459048,
+      "uploadedDate": "2022-05-19T18:40:54.350Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6ff9efdef6dc45ecb40ed20fcd2c4621",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-23T21:23:54.176Z",
+  "lastModifiedDate": "2022-05-19T18:41:48.952Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "6ff9efdef6dc45ecb40ed20fcd2c4621"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/RedHook/Darkest Dungeon II/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "5000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DarkestDungeonII"
+    }
+  },
+  "entitlementName": "86d5286d1b254e10902d6e2d7fc3bb76",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e9117dc77d014df7afdf1dc0577f2b28",
+      "appId": "Suka",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "Red Hook Studios",
+  "developerId": "o-w5yb6awebxmp362nvut3qd3xb4jmur",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

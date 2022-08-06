@@ -1,0 +1,62 @@
+{
+  "id": "ea4d12ad6a7a4b7bb8a81123bb6a4011",
+  "title": "Wolfsbane",
+  "description": "Wolfsbane",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f26a1b05387b480ea2f0a99ec3abca81/wolfsbane-offer-1limn.png",
+      "md5": "ec296cddde8af0363d724b6b8eea656b",
+      "width": 2560,
+      "height": 1440,
+      "size": 4133923,
+      "uploadedDate": "2021-12-15T13:59:36.769Z",
+      "alt": "Wolfsbane Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f26a1b05387b480ea2f0a99ec3abca81/download-wolfsbane-offer-71xf5.png",
+      "md5": "cf4b5bbad76d06f386ac02e513fbc0de",
+      "width": 1200,
+      "height": 1600,
+      "size": 2070921,
+      "uploadedDate": "2021-12-15T13:59:38.358Z",
+      "alt": "Download Wolfsbane Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "df65448fcc8342639c170554bc8356eb",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-04T22:38:36.807Z",
+  "lastModifiedDate": "2022-06-02T12:26:59.717Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "WolfsbaneGv4pw"
+    }
+  },
+  "entitlementName": "ea4d12ad6a7a4b7bb8a81123bb6a4011",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bb63fd5b44504e36a955ec62b935c0ea",
+      "appId": "ade704333b1c49dca9892f932659b00e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Freedom Games",
+  "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

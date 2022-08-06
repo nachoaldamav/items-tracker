@@ -1,0 +1,93 @@
+{
+  "id": "22003d8a37714d2daec7f85be1357042",
+  "title": "Alien: Isolation - Lost Contact",
+  "description": "Alien: Isolation - Lost Contact",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/contactDLC-1920x1080-38d11018e1381e083faf4ccc91205fc4.jfif",
+      "md5": "38d11018e1381e083faf4ccc91205fc4",
+      "width": 1920,
+      "height": 1080,
+      "size": 670410,
+      "uploadedDate": "2020-12-16T18:05:19.137Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/contactDLCportrait-1200x1600-2af9ba12683c699002483df555956818.jfif",
+      "md5": "2af9ba12683c699002483df555956818",
+      "width": 1200,
+      "height": 1600,
+      "size": 586715,
+      "uploadedDate": "2020-12-17T17:12:43.754Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "df37f065c3f14eadbf011177396e2966",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-26T17:24:36.409Z",
+  "lastModifiedDate": "2020-12-18T16:36:46.496Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "df37f065c3f14eadbf011177396e2966"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LostContact"
+    }
+  },
+  "entitlementName": "22003d8a37714d2daec7f85be1357042",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6da9552bcf8e4497a8c0cb19e8ba5143",
+      "appId": "5dd44722a2684fd58a7e7481c25c5f4f",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567WncMSw97kolM0Ff1UBPqwsE7",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

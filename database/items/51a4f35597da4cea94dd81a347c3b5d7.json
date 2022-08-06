@@ -1,0 +1,76 @@
+{
+  "id": "51a4f35597da4cea94dd81a347c3b5d7",
+  "title": "Tangle Tower",
+  "description": "Tangle Tower",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b29652b04adc4fe9b0e77071952e9e02/tangle-tower-offer-tcdxk.png",
+      "md5": "cc6566eff9fdc1d1b364a7cf8fa14f79",
+      "width": 2560,
+      "height": 1440,
+      "size": 2438063,
+      "uploadedDate": "2022-02-01T14:47:41.894Z",
+      "alt": "Tangle Tower Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b29652b04adc4fe9b0e77071952e9e02/download-tangle-tower-offer-un839.png",
+      "md5": "2fcec9becadedbdc8729c522589a741e",
+      "width": 1200,
+      "height": 1600,
+      "size": 918831,
+      "uploadedDate": "2022-02-01T14:47:47.330Z",
+      "alt": "Download Tangle Tower Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ec8c49f387484b4bb1437a113b21503b",
+  "status": "ACTIVE",
+  "creationDate": "2022-04-26T09:53:02.020Z",
+  "lastModifiedDate": "2022-04-26T09:53:02.020Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Saves/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Saves/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TangleTower"
+    }
+  },
+  "entitlementName": "51a4f35597da4cea94dd81a347c3b5d7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ff80504b0a9a4a52b5c3befc0a4c23eb",
+      "appId": "2790bc7641224294af287902d27b732f",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "SFB Games",
+  "developerId": "o-qufzclsubcgplu3y5clwfl2ylcbw4c",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

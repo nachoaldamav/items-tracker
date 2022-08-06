@@ -1,0 +1,61 @@
+{
+  "id": "f0570508b930430d8838830f0fbb24b7",
+  "title": "RheniumStaging",
+  "description": "RheniumStaging",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "developer"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f672c20984f04f69936e6057feefe3d1",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-11T01:21:23.895Z",
+  "lastModifiedDate": "2021-02-25T14:34:56.909Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/unity.Failbetter Games.Sunless Sea/saves/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Failbetter Games/Sunless Sea/saves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RheniumStaging"
+    }
+  },
+  "entitlementName": "f0570508b930430d8838830f0fbb24b7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ec986e7f0d24409abde2be9005729c53",
+      "appId": "25230acc0ccd4a65ac29b2c6a99d3373",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-02-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "Failbetter Games",
+  "developerId": "o-rtt3u6nfx2dlvv3zuwr53utk9gjz82",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

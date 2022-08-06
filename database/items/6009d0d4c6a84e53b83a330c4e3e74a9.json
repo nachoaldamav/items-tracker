@@ -1,0 +1,34 @@
+{
+  "id": "6009d0d4c6a84e53b83a330c4e3e74a9",
+  "title": "DevNeufchatelAudience",
+  "description": "DevNeufchatelAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "52b2abce9b65471dbedf72c90cf69b54",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-16T21:39:51.704Z",
+  "lastModifiedDate": "2021-08-10T15:19:05.049Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "6009d0d4c6a84e53b83a330c4e3e74a9",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Top Hat Studios, Inc.",
+  "developerId": "o-b3dcbpjzpsrrbtlgt8f7yzmc45msvy",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

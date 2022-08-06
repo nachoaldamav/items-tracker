@@ -1,0 +1,67 @@
+{
+  "id": "751531783ba64a809a021d9d64b8a96e",
+  "title": "Defunct",
+  "description": "Defunct",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c595f2c55da545a18dde7a4c9fbc5caa/defunct-offer-1af08.png",
+      "md5": "057f035f8e772d72cee412c309bfa935",
+      "width": 2560,
+      "height": 1440,
+      "size": 320802,
+      "uploadedDate": "2022-01-07T14:52:32.342Z",
+      "alt": "Defunct Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c595f2c55da545a18dde7a4c9fbc5caa/download-defunct-offer-19rk4.png",
+      "md5": "24901b8c86dcf27c3d34ac38b9c448da",
+      "width": 1200,
+      "height": 1600,
+      "size": 196997,
+      "uploadedDate": "2022-01-07T14:52:38.453Z",
+      "alt": "Download Defunct Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "89bbde8e2a724c2c9451b3d3925b6322",
+  "status": "ACTIVE",
+  "creationDate": "2022-01-03T15:58:51.993Z",
+  "lastModifiedDate": "2022-02-18T09:15:38.450Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Soedesco Publishing B_V/Defunct/Saves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Defunct2Yq9B"
+    }
+  },
+  "entitlementName": "751531783ba64a809a021d9d64b8a96e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ec854bf88597467eb9918a50a48de2b3",
+      "appId": "ed0011dfe1e246e8bd0d8a262ec9b8d9",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SOEDESCO",
+  "developerId": "o-9uf2bsrkptwqbkpy867grcbj5jxrta",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

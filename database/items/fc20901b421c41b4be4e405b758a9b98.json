@@ -1,0 +1,98 @@
+{
+  "id": "fc20901b421c41b4be4e405b758a9b98",
+  "title": "KINGDOM HEARTS Melody of Memory",
+  "description": "KINGDOM HEARTS Melody of Memory",
+  "longDescription": "KINGDOM HEARTS Melody of Memory",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/3671db367c594e2ab5020105dc52dc65/item/EGS_KINGDOMHEARTSMelodyofMemory_SQUAREENIX_S1-2560x1440-985e2caa6040ed8a47b55a953d500b32.jpg",
+      "md5": "985e2caa6040ed8a47b55a953d500b32",
+      "width": 2560,
+      "height": 1440,
+      "size": 775899,
+      "uploadedDate": "2021-01-28T00:29:43.444Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/3671db367c594e2ab5020105dc52dc65/item/EGS_KINGDOMHEARTSMelodyofMemory_SQUAREENIX_S2-1200x1600-bc6932a1e7cbb7eeca4f66740f711f11.jpg",
+      "md5": "bc6932a1e7cbb7eeca4f66740f711f11",
+      "width": 1200,
+      "height": 1600,
+      "size": 773953,
+      "uploadedDate": "2021-01-28T00:29:56.757Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3671db367c594e2ab5020105dc52dc65",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-28T00:27:48.586Z",
+  "lastModifiedDate": "2021-03-30T13:05:39.575Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "3671db367c594e2ab5020105dc52dc65"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1617109200"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ismDPCDummy"
+    }
+  },
+  "entitlementName": "fc20901b421c41b4be4e405b758a9b98",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "276592c4924e43d59382456b32078b91",
+      "appId": "ismDPCDummy",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-26T00:00:00.000Z"
+    }
+  ],
+  "developer": "Square Enix (Japan)",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567S8DTzaCX9NZf3O5PY91ejKH4",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

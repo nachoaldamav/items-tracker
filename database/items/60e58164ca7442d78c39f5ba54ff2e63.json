@@ -1,0 +1,57 @@
+{
+  "id": "60e58164ca7442d78c39f5ba54ff2e63",
+  "title": "XenonStaging",
+  "description": "XenonStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "266c5badcfd144cbbeedd44499d85a62",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-27T19:40:41.274Z",
+  "lastModifiedDate": "2021-10-06T15:33:02.143Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Blade Strangers"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "XenonStaging"
+    }
+  },
+  "entitlementName": "60e58164ca7442d78c39f5ba54ff2e63",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e112c7cad25a459191d5956348ce7040",
+      "appId": "c06fb5574e9a4f9cb67e7eedaa4fd8a9",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-09T00:00:00.000Z"
+    }
+  ],
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567HdVaPQAQn4LgEeyHv5TkULr7",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,75 @@
+{
+  "id": "a75ae1cd2f6345fd903541a216dbcc0f",
+  "title": "Song of Farca",
+  "description": "Song of Farca",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt/354cf9d1-752e-47a5-b2d3-59b86b448ea6/song-of-farca-offer-53e586a3.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 2560,
+      "height": 1440,
+      "size": 1889752,
+      "uploadedDate": "2021-06-24T09:53:39.538Z",
+      "alt": "Song of Farca Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt/ed426274-5ee9-4814-88fe-4b3fc3ebcd99/download-song-of-farca-offer-6efc6cc9.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 1506674,
+      "uploadedDate": "2021-06-24T09:53:41.206Z",
+      "alt": "Download Song of Farca Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e8da3dcb48b44bfaa1f37a321e833374",
+  "status": "ACTIVE",
+  "creationDate": "2021-06-16T05:11:40.842Z",
+  "lastModifiedDate": "2022-02-18T09:24:39.551Z",
+  "customAttributes": {
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "productGeneration": {
+      "type": "STRING",
+      "value": "SPT"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SongofFarca"
+    }
+  },
+  "entitlementName": "a75ae1cd2f6345fd903541a216dbcc0f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ba793e19c1d048ee87786fa0f796f5c4",
+      "appId": "243d716647ce49cb866acfe758d5b08f",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Alawar Entertainment, Inc",
+  "developerId": "o-cy5ukscnzvb2vbehcxv5rrrnky995c",
+  "eulaIds": [],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567nJoAaPbUYjQkFzRDlE6fQ2vW",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

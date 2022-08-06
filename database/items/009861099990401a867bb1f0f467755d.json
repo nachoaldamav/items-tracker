@@ -1,0 +1,60 @@
+{
+  "id": "009861099990401a867bb1f0f467755d",
+  "title": "SquashStaging",
+  "description": "SquashStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a15e35cda898480d8fed214dc889f199",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-13T18:11:49.540Z",
+  "lastModifiedDate": "2021-02-22T16:18:05.821Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "8828b671817342f083dd5eb9340b0230"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SquashStaging"
+    }
+  },
+  "entitlementName": "009861099990401a867bb1f0f467755d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ba99206309dc4101ae64ada59a321029",
+      "appId": "6077da7881c041b59d3aeb1038d6923e",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-13T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

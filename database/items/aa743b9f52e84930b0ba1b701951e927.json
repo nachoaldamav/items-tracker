@@ -1,0 +1,93 @@
+{
+  "id": "aa743b9f52e84930b0ba1b701951e927",
+  "title": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
+  "description": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/c8ff067c1c984cd7ab1998e8a9afc8b6/item/EGS_KINGDOMHEARTSHD28FinalChapterPrologue_SquareEnix_S5-1920x1080-bdc8f514d3488ea8484639733b01b09e.jpg",
+      "md5": "bdc8f514d3488ea8484639733b01b09e",
+      "width": 1920,
+      "height": 1080,
+      "size": 270061,
+      "uploadedDate": "2021-02-05T20:29:22.033Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/c8ff067c1c984cd7ab1998e8a9afc8b6/item/EGS_KINGDOMHEARTSHD28FinalChapterPrologue_SquareEnix_S6-1200x1600-a3fc8fc218fe1ff3541dc2b5b9f076d7.jpg",
+      "md5": "a3fc8fc218fe1ff3541dc2b5b9f076d7",
+      "width": 1200,
+      "height": 1600,
+      "size": 986416,
+      "uploadedDate": "2021-02-05T20:29:50.067Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c8ff067c1c984cd7ab1998e8a9afc8b6",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-11T12:00:05.706Z",
+  "lastModifiedDate": "2021-02-11T19:07:41.800Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "c8ff067c1c984cd7ab1998e8a9afc8b6"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KH_2.8"
+    }
+  },
+  "entitlementName": "aa743b9f52e84930b0ba1b701951e927",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4442b8ecd2204fcbba0bf02599bc1089",
+      "appId": "d1a8f7c478d4439b8c60a5808715dc05",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "Square Enix (Japan)",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567ulq5mzz2aP19aPSqgDGj25F5",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,62 @@
+{
+  "id": "ff4d4a948cce46c79d43480bc8bb29e6",
+  "title": "Spinch",
+  "description": "Spinch",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c715d0b7d94342929302b9eb06213a59/spinch-offer-ol6ly.jpg",
+      "md5": "f623ab5ea8406561c0a081bb41185ba1",
+      "width": 2560,
+      "height": 1440,
+      "size": 713213,
+      "uploadedDate": "2021-10-29T22:43:51.260Z",
+      "alt": "Spinch Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c715d0b7d94342929302b9eb06213a59/download-spinch-offer-16rrh.jpg",
+      "md5": "953a94258539764aa16e43325ff7ffa7",
+      "width": 1200,
+      "height": 1600,
+      "size": 350593,
+      "uploadedDate": "2021-10-29T22:43:52.408Z",
+      "alt": "Download Spinch Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b4535bde10e34515ba22ca30a48d5964",
+  "status": "ACTIVE",
+  "creationDate": "2022-05-10T17:25:38.011Z",
+  "lastModifiedDate": "2022-06-02T12:24:23.446Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SpinchPU6Ux"
+    }
+  },
+  "entitlementName": "ff4d4a948cce46c79d43480bc8bb29e6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0f618c99629c453cacd3f1827d71e9cc",
+      "appId": "71cbfa2ea0ca42d598ac76535e812e24",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Akupara Games",
+  "developerId": "o-vzv8n7jse99sluj4vaa8522rh45cvg",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

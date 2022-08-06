@@ -1,0 +1,59 @@
+{
+  "id": "c6432e3e9db145e2adac0eb1ebe8c89a",
+  "title": "Blanc",
+  "description": "Blanc",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/bb234be109aa49eb992f22047116fb70/blanc-offer-cbf8y.jpg",
+      "md5": "25f78ee090c69dca8c45535f48dd129b",
+      "width": 2560,
+      "height": 1440,
+      "size": 879842,
+      "uploadedDate": "2022-05-27T17:05:05.335Z",
+      "alt": "Blanc Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/bb234be109aa49eb992f22047116fb70/download-blanc-offer-103td.jpg",
+      "md5": "300a101b25f051189d7a4556de21da6e",
+      "width": 1200,
+      "height": 1600,
+      "size": 815571,
+      "uploadedDate": "2022-05-27T17:05:05.149Z",
+      "alt": "Download Blanc Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e18be81f77f346dfbc4467f4ed715e27",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-28T12:52:53.927Z",
+  "lastModifiedDate": "2022-06-28T12:52:53.927Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Blanco1CnV"
+    }
+  },
+  "entitlementName": "c6432e3e9db145e2adac0eb1ebe8c89a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9a567a10e206441584f6ab0510edd907",
+      "appId": "761a4dca02af4716985fb70eec69e310"
+    }
+  ],
+  "developer": "Gearbox Publishing",
+  "developerId": "o-dcmk65hvycy3kndmqvfg3yn3up87jn",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

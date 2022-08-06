@@ -1,0 +1,94 @@
+{
+  "id": "afeefb78e80c4c12870cf1fc3f81bf6b",
+  "title": "Ghostbusters: Spirits Unleashed",
+  "description": "Ghostbusters: Spirits Unleashed",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/598bbf91c75b4ac9a676d82719acdbb1/EGS_GhostbustersSpiritsUnleashedStandardEdition_IllFonic_S1_2560x1440-ea67068841b312684a09eb577c987ff7",
+      "md5": "ea67068841b312684a09eb577c987ff7",
+      "width": 2560,
+      "height": 1440,
+      "size": 1021557,
+      "uploadedDate": "2022-04-14T21:25:57.227Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/598bbf91c75b4ac9a676d82719acdbb1/EGS_GhostbustersSpiritsUnleashedStandardEdition_IllFonic_S2_1200x1600-030631b4576ad63c9b54fd9a48ae41de",
+      "md5": "030631b4576ad63c9b54fd9a48ae41de",
+      "width": 1200,
+      "height": 1600,
+      "size": 936524,
+      "uploadedDate": "2022-04-14T21:25:53.711Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "598bbf91c75b4ac9a676d82719acdbb1",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-11T20:58:06.955Z",
+  "lastModifiedDate": "2022-04-18T19:20:02.684Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "598bbf91c75b4ac9a676d82719acdbb1"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GhostbustersSpirits"
+    }
+  },
+  "entitlementName": "afeefb78e80c4c12870cf1fc3f81bf6b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4fe7299b1f5b41d787762f97f61c3a63",
+      "appId": "ab374ffb0bab4b399a5d5cbdfde77a37",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-11T21:10:55.500Z"
+    }
+  ],
+  "developer": "Illfonic",
+  "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

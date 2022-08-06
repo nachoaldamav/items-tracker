@@ -1,0 +1,80 @@
+{
+  "id": "24704689b700482f8dc1a41a1fd23ca2",
+  "title": "Reverie Knights Tactics",
+  "description": "Reverie Knights Tactics",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4dd07f209ad64c40960e0eeab671c739/download-reverie-knights-tactics-offer-1nc1t.jpg",
+      "md5": "dfb5f7bb5f1991506b1040a4820f2dee",
+      "width": 1200,
+      "height": 1600,
+      "size": 2173155,
+      "uploadedDate": "2022-01-06T14:04:21.735Z",
+      "alt": "Download Reverie Knights Tactics Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4dd07f209ad64c40960e0eeab671c739/reverie-knights-tactics-offer-6rvf3.jpg",
+      "md5": "a9a0fbefee5c42a5ba16373ed967d682",
+      "width": 2560,
+      "height": 1440,
+      "size": 3658177,
+      "uploadedDate": "2022-01-06T14:04:23.178Z",
+      "alt": "Reverie Knights Tactics Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f4febd34825d447c8b1da4adce49e779",
+  "status": "ACTIVE",
+  "creationDate": "2022-01-03T22:02:55.168Z",
+  "lastModifiedDate": "2022-02-18T09:19:55.673Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/unity.40Giants.ReverieKnights/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/40 Giants Entertainment/Reverie Knights Tactics/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.data"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "50"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ReverieKnightsTactics"
+    }
+  },
+  "entitlementName": "24704689b700482f8dc1a41a1fd23ca2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bc922e6f5d364704ae87558d4c39ea32",
+      "appId": "a46fcb8162194f0f9614faf56d8fa385",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "1C Online Games Ltd",
+  "developerId": "o-n4d8bf5e8fnr4kujuut9j6v4d29muc",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,120 @@
+{
+  "id": "8e6311db197641dab2039d0721f07c9f",
+  "title": "STAR WARS™ Battlefront™ Ultimate Edition",
+  "description": "STAR WARS™ Battlefront™ Ultimate Edition",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/fefe1db11f534484987ef50ec1e25225/item/EGS_STARWARSBattlefrontUltimateEdition_DICE_S1-2560x1440-a22e42747641440131487f2850566b31.jpg",
+      "md5": "a22e42747641440131487f2850566b31",
+      "width": 2560,
+      "height": 1440,
+      "size": 997168,
+      "uploadedDate": "2021-01-14T02:48:28.954Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/fefe1db11f534484987ef50ec1e25225/item/EGS_STARWARSBattlefrontUltimateEdition_DICE_S2-1200x1600-9c646198bcacdb8d1cded3566c718bc8.jpg",
+      "md5": "9c646198bcacdb8d1cded3566c718bc8",
+      "width": 1200,
+      "height": 1600,
+      "size": 928925,
+      "uploadedDate": "2021-01-14T02:48:39.291Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fefe1db11f534484987ef50ec1e25225",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-09T13:43:02.297Z",
+  "lastModifiedDate": "2021-01-14T15:52:50.869Z",
+  "customAttributes": {
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "starwarsbattlefront.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "STARWARSBattlefront"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "fefe1db11f534484987ef50ec1e25225"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\EA Games\\STAR WARS Battlefront"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "Origin"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&theme=swbf&platform=epic&Hotfix=go"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "starwarsbattlefront.exe"
+    },
+    "RegistryLocation": {
+      "type": "STRING",
+      "value": "SOFTWARE\\EA Games\\STAR WARS Battlefront\\Install Dir"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "8e6311db197641dab2039d0721f07c9f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c32c7b161a6f4d64ae9cc68d074d32e2",
+      "appId": "MtElbert",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-09T00:00:00.000Z"
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

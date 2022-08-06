@@ -1,0 +1,74 @@
+{
+  "id": "a0b94753b4164b978f327dbdb40e04b6",
+  "title": "Phoenix Point - Kaos Engines",
+  "description": "Phoenix Point - Kaos Engines",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/iris/EGS_DLC5KaosEngines_SnapshotGamesIncSaberMinsk_DLC_S1_2560x1440-e550901e67541462212cb8e68dcad01b_2560x1440-e550901e67541462212cb8e68dcad01b",
+      "md5": "e550901e67541462212cb8e68dcad01b",
+      "width": 2560,
+      "height": 1440,
+      "size": 623133,
+      "uploadedDate": "2022-03-01T18:43:15.094Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/iris/EGS_DLC5KaosEngines_SnapshotGamesIncSaberMinsk_DLC_S2_1200x1600-420e3fe7696192df9869b8c746834862_1200x1600-420e3fe7696192df9869b8c746834862",
+      "md5": "420e3fe7696192df9869b8c746834862",
+      "width": 1200,
+      "height": 1600,
+      "size": 434613,
+      "uploadedDate": "2022-03-01T18:43:20.236Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "iris",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-12T20:06:58.989Z",
+  "lastModifiedDate": "2022-03-01T18:44:57.479Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KaosEngines"
+    }
+  },
+  "entitlementName": "a0b94753b4164b978f327dbdb40e04b6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "18df53e75e584b399bfdbddc98638999",
+      "appId": "IrisDLC5",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-11-12T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

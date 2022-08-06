@@ -1,0 +1,35 @@
+{
+  "id": "4113d5c15e1b41b9bfe00e72aa486da7",
+  "title": "SeleniumGeneralAudience",
+  "description": "SeleniumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "73b62f4875a248d8acc95966ce94c80f",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-08T17:57:34.619Z",
+  "lastModifiedDate": "2021-01-20T22:37:43.973Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows, Mac"
+    }
+  },
+  "entitlementName": "4113d5c15e1b41b9bfe00e72aa486da7",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Raw Fury",
+  "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

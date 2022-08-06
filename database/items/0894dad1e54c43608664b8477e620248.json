@@ -1,0 +1,56 @@
+{
+  "id": "0894dad1e54c43608664b8477e620248",
+  "title": "FrigateQARelease",
+  "description": "FrigateQARelease",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1c4745021d4243a783b459d928b9088f",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-16T12:35:08.493Z",
+  "lastModifiedDate": "2021-01-25T17:42:04.969Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/Octopath_Traveler/EpicGamesStore/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FrigateQARelease"
+    }
+  },
+  "entitlementName": "0894dad1e54c43608664b8477e620248",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c8d8e4e48e9b4dc1aa6c54af3fde15ff",
+      "appId": "15ee8f801cf74e2195374db9672f2de3",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-19T00:00:00.000Z"
+    }
+  ],
+  "developer": "Square Enix Japan",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

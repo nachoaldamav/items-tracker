@@ -1,0 +1,62 @@
+{
+  "id": "ae5363c3c96a4b22b579feeb526f8842",
+  "title": "AmericiumStaging",
+  "description": "AmericiumStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "94556f7a788243108635913cf8216a10",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-14T21:18:11.378Z",
+  "lastModifiedDate": "2021-07-14T13:19:18.825Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Suncrash/Dream Engines/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.game"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AmericiumStaging"
+    }
+  },
+  "entitlementName": "ae5363c3c96a4b22b579feeb526f8842",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f34716a7d43048a796ac82c979205e8f",
+      "appId": "3d521d45e9e8413b9ba02a10e718195e",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-14T21:21:39.947Z"
+    }
+  ],
+  "developer": "Suncrash LTD",
+  "developerId": "o-r33h965zxp3mrmyzedrf65hn6cjevk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

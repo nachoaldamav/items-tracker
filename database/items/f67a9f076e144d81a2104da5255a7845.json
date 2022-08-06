@@ -1,0 +1,53 @@
+{
+  "id": "f67a9f076e144d81a2104da5255a7845",
+  "title": "ismDPC DEVRelease",
+  "description": "ismDPC DEVRelease",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3671db367c594e2ab5020105dc52dc65",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-26T14:08:11.649Z",
+  "lastModifiedDate": "2021-03-30T13:00:10.449Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DEVRelease"
+    }
+  },
+  "entitlementName": "f67a9f076e144d81a2104da5255a7845",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "24c0dd847b294448b9e808b8c2e9f44d",
+      "appId": "658437c442964b85b22ac20ef2707b08",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-26T14:14:16.912Z"
+    }
+  ],
+  "developer": "Square Enix Japan",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

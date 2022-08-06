@@ -1,0 +1,61 @@
+{
+  "id": "a43c5655aa524c568d2122e3bde93bef",
+  "title": "MooseStaging",
+  "description": "MooseStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "moose",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-02T01:13:29.019Z",
+  "lastModifiedDate": "2020-12-23T04:58:29.321Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/Super Meat Boy Forever"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MooseStaging"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "a43c5655aa524c568d2122e3bde93bef",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "089fe847a9e948b98f0d7abf0b21d14f",
+      "appId": "MooseStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-12-16T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Team Meat",
+  "developerId": "o-mj7q3aaq5djq6wuddnrr5mgqjsk2da",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567TAe1TGSM9HTRN4UCWDe1Mjej",
+  "unsearchable": false
+}

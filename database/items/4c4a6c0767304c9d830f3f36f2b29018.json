@@ -1,0 +1,85 @@
+{
+  "id": "4c4a6c0767304c9d830f3f36f2b29018",
+  "title": "Chivalry 2",
+  "description": "Chivalry 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/bd46d4ce259349e5bd8b3ded20274737/Fight Knight 2560 x 1440_2560x1376-a5d7ca9b119d65e07475225b93451b62",
+      "md5": "a5d7ca9b119d65e07475225b93451b62",
+      "width": 2560,
+      "height": 1376,
+      "size": 999957,
+      "uploadedDate": "2021-10-26T14:59:09.806Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/bd46d4ce259349e5bd8b3ded20274737/Fight Knight 1200 x 1600_1200x1600-e615103eff2b0d2e6843c0539cfdcc38",
+      "md5": "e615103eff2b0d2e6843c0539cfdcc38",
+      "width": 1200,
+      "height": 1600,
+      "size": 706834,
+      "uploadedDate": "2021-10-26T14:59:16.713Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bd46d4ce259349e5bd8b3ded20274737",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-04T08:53:38.523Z",
+  "lastModifiedDate": "2021-10-26T14:59:30.911Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Chivalry2"
+    }
+  },
+  "entitlementName": "4c4a6c0767304c9d830f3f36f2b29018",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "28b49bd80cca472cae9051f8396d9ae5",
+      "appId": "Peppermint",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-16T00:00:00.000Z"
+    }
+  ],
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567VOepGmuKu6iMtOwuuzN6FYMZ",
+  "unsearchable": false
+}

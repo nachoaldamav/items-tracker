@@ -1,0 +1,102 @@
+{
+  "id": "17d118fa574c48d9b678d3e9003f129e",
+  "title": "Ooblets",
+  "description": "Ooblets",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/413361d2d5db4912ac2dfbcf27a38141/item/EGS_Ooblets_Glumberland_S1-2560x1440-f1bdf7eac0fcbd0d3712939661f9120d.jpg",
+      "md5": "f1bdf7eac0fcbd0d3712939661f9120d",
+      "width": 2560,
+      "height": 1440,
+      "size": 709444,
+      "uploadedDate": "2020-07-15T03:06:45.611Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/413361d2d5db4912ac2dfbcf27a38141/item/EGS_Ooblets_Glumberland_S2-1200x1600-9ece7b03fe272031fa5e1fffcde05616.jpg",
+      "md5": "9ece7b03fe272031fa5e1fffcde05616",
+      "width": 1200,
+      "height": 1600,
+      "size": 376642,
+      "uploadedDate": "2020-07-15T03:06:58.005Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "413361d2d5db4912ac2dfbcf27a38141",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-01T20:44:27.027Z",
+  "lastModifiedDate": "2021-10-27T21:31:58.346Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "413361d2d5db4912ac2dfbcf27a38141"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Glumberland/Ooblets/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "output_log.txt"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Ooblets"
+    }
+  },
+  "entitlementName": "17d118fa574c48d9b678d3e9003f129e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7351d30e303445388a30546a72aba667",
+      "appId": "Ostrich",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-19T00:00:00.000Z"
+    }
+  ],
+  "developer": "Glumberland",
+  "developerId": "o-q293du8hx3hhcjbqzrmfz6cz48hk6x",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "applicationId": "fghi45679lgR4nFCHHbCtGkWfOS8G0pt",
+  "unsearchable": false
+}

@@ -1,0 +1,37 @@
+{
+  "id": "78666355c7824dbc8bf79b9a76a69d11",
+  "title": "OwlPrePurchaseAudience",
+  "description": "OwlPrePurchaseAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "fe5a2e3e842a4394938a81f3308df2ed",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-06T19:35:47.247Z",
+  "lastModifiedDate": "2021-12-01T17:47:56.817Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "78666355c7824dbc8bf79b9a76a69d11",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

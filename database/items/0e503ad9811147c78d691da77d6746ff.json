@@ -1,0 +1,94 @@
+{
+  "id": "0e503ad9811147c78d691da77d6746ff",
+  "title": "Yoku's Island Express",
+  "description": "Yoku's Island Express",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_YokusIslandExpress_VillaGorilla_S3_2560x1440-8af00b59559d95cb80e7167c8fa696b7",
+      "md5": "8af00b59559d95cb80e7167c8fa696b7",
+      "width": 2560,
+      "height": 1440,
+      "size": 997399,
+      "uploadedDate": "2021-08-18T21:39:38.776Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_YokusIslandExpress_VillaGorilla_S2_1200x1600-6fe8115f1b7b7107896144c8212851c4",
+      "md5": "6fe8115f1b7b7107896144c8212851c4",
+      "width": 1200,
+      "height": 1600,
+      "size": 831275,
+      "uploadedDate": "2021-08-18T21:39:34.443Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "54399b3ef40d4c568e5904607470ffe9",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-06T21:38:18.954Z",
+  "lastModifiedDate": "2021-10-18T23:55:03.689Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "54399b3ef40d4c568e5904607470ffe9"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "YokusIslandExpress"
+    }
+  },
+  "entitlementName": "0e503ad9811147c78d691da77d6746ff",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b5b4636f77244f18b26a62793d4b22a6",
+      "appId": "3acb0920074446e8baaa4c249200d892",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-06T22:48:36.548Z"
+    }
+  ],
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567mydRUrfjuSsr80ROj1fFhIZU",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

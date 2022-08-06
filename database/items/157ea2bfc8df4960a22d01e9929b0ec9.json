@@ -1,0 +1,88 @@
+{
+  "id": "157ea2bfc8df4960a22d01e9929b0ec9",
+  "title": "Conan Exiles: Isle of Siptah",
+  "description": "Conan Exiles: Isle of Siptah",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/conanexiles/item/wide-2560x1440-31ec0cab2c657ced3c2e3e2c96e17c98.jpg",
+      "md5": "31ec0cab2c657ced3c2e3e2c96e17c98",
+      "width": 2560,
+      "height": 1440,
+      "size": 997580,
+      "uploadedDate": "2020-09-29T14:23:00.929Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/conanexiles/item/tall-1200x1600-5af56e292f1923558b00217151b4f25d.jpg",
+      "md5": "5af56e292f1923558b00217151b4f25d",
+      "width": 1200,
+      "height": 1600,
+      "size": 718054,
+      "uploadedDate": "2020-09-29T14:23:09.009Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "conanexiles",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-20T14:43:51.665Z",
+  "lastModifiedDate": "2021-11-16T06:38:52.287Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "conanexiles"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ConanIsleofSiptah"
+    }
+  },
+  "entitlementName": "157ea2bfc8df4960a22d01e9929b0ec9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "79ffde84703d4c23aaeff72c722859fc",
+      "appId": "102f73e16a544b4d88f35d73c4d1dd48",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-03-09T00:00:00.000Z"
+    }
+  ],
+  "developer": "Funcom Oslo AS",
+  "developerId": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

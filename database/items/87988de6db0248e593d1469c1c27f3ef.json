@@ -1,0 +1,52 @@
+{
+  "id": "87988de6db0248e593d1469c1c27f3ef",
+  "title": "NobeliumStaging",
+  "description": "NobeliumStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bdaad63b5de5424bbd720d9055906ab1",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-07T00:16:11.880Z",
+  "lastModifiedDate": "2021-09-15T22:30:40.394Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NobeliumStaging"
+    }
+  },
+  "entitlementName": "87988de6db0248e593d1469c1c27f3ef",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5a2772aac6ae4186ba3a608982604baf",
+      "appId": "c5dd99eb59414033bd574558d9ae5007",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-04-07T00:18:25.562Z"
+    }
+  ],
+  "developer": "Rogue Games, Inc.",
+  "developerId": "o-uf2lr9jar96m9qssppdgmal3j6alyq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

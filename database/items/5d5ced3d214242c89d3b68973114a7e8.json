@@ -1,0 +1,67 @@
+{
+  "id": "5d5ced3d214242c89d3b68973114a7e8",
+  "title": "Strange Horticulture",
+  "description": "Strange Horticulture",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/15e8e3eba65a4763a815d6eae1d763b2/strange-horticulture-offer-fgpbn.png",
+      "md5": "bc7c4809b4013ddc4b69587bfcfdf912",
+      "width": 2560,
+      "height": 1440,
+      "size": 2920511,
+      "uploadedDate": "2022-01-06T15:56:23.473Z",
+      "alt": "Strange Horticulture Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/15e8e3eba65a4763a815d6eae1d763b2/download-strange-horticulture-offer-zn48l.png",
+      "md5": "09e7f693ba15a4a501859b88ceb3659f",
+      "width": 1200,
+      "height": 1600,
+      "size": 2491459,
+      "uploadedDate": "2022-01-06T15:56:23.846Z",
+      "alt": "Download Strange Horticulture Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c9d0a59bf89c45ceadc5960d6bc1ae4c",
+  "status": "ACTIVE",
+  "creationDate": "2021-12-10T12:18:28.998Z",
+  "lastModifiedDate": "2022-02-18T09:15:30.606Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/BadVikingLtd/Strange Horticulture/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "StrangeHorticulture8ijtv"
+    }
+  },
+  "entitlementName": "5d5ced3d214242c89d3b68973114a7e8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7c42929d4d7541c48cb45aea63b9e946",
+      "appId": "fe5d52fb67b949ec9ea8b5ea70824059",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Iceberg Interactive",
+  "developerId": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

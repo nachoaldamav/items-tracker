@@ -1,0 +1,67 @@
+{
+  "id": "a84ea73f6e78431b91917fef55f6c1ab",
+  "title": "Card Shark",
+  "description": "Card Shark",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9a24df057b0746148f25ea8bb1a655a2/card-shark-offer-10u4h.jpg",
+      "md5": "16c4de3d7f7da11cb596650dc6ddaf0b",
+      "width": 2560,
+      "height": 1440,
+      "size": 2051831,
+      "uploadedDate": "2022-05-19T13:27:24.605Z",
+      "alt": "Card Shark Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9a24df057b0746148f25ea8bb1a655a2/download-card-shark-offer-10jgn.jpg",
+      "md5": "ae1ebc711786d10c7ff755c1cff06ac4",
+      "width": 1200,
+      "height": 1600,
+      "size": 1040656,
+      "uploadedDate": "2022-05-19T13:27:20.615Z",
+      "alt": "Download Card Shark Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2cc23de0d8ca4785a0bc37cc95979462",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-22T02:58:14.680Z",
+  "lastModifiedDate": "2022-06-02T12:25:43.533Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "CardShark"
+    }
+  },
+  "entitlementName": "a84ea73f6e78431b91917fef55f6c1ab",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c597b44a699848c4aba79f569c213432",
+      "appId": "9d4ccd48ba554809b402bf85c5806e0a",
+      "platform": [
+        "Windows",
+        "Win32",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

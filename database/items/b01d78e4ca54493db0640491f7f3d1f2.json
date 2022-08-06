@@ -1,0 +1,38 @@
+{
+  "id": "b01d78e4ca54493db0640491f7f3d1f2",
+  "title": "SalmonGeneralAudience",
+  "description": "SalmonGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "61449320f87347a8bf02159cbf8adb7f",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-17T05:19:15.252Z",
+  "lastModifiedDate": "2022-01-19T17:18:31.981Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b01d78e4ca54493db0640491f7f3d1f2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "applicationId": "",
+  "unsearchable": false
+}

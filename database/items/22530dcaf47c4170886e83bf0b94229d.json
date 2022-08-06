@@ -1,0 +1,90 @@
+{
+  "id": "22530dcaf47c4170886e83bf0b94229d",
+  "title": "Voidtrain",
+  "description": "Voidtrain",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Voidtrain_NEARGA_S1_2560x1440-9b29f7a47cd9de426e58c3a733935cb8",
+      "md5": "9b29f7a47cd9de426e58c3a733935cb8",
+      "width": 2560,
+      "height": 1440,
+      "size": 572044,
+      "uploadedDate": "2021-08-11T22:51:21.059Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Voidtrain_NEARGA_S2_1200x1600-497cd22d4e46bc6c5ba56c3215fc5b4f",
+      "md5": "497cd22d4e46bc6c5ba56c3215fc5b4f",
+      "width": 1200,
+      "height": 1600,
+      "size": 985603,
+      "uploadedDate": "2021-08-11T22:51:23.414Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "301ec0fdbcaf46b3af9322e436ac87bd",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-27T23:21:12.171Z",
+  "lastModifiedDate": "2021-08-24T14:26:59.951Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/VoidTrain/Saved/SaveGames/Cloud/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Voidtrain"
+    }
+  },
+  "entitlementName": "22530dcaf47c4170886e83bf0b94229d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7f7803979d6442ce8c124e6e00d84bda",
+      "appId": "a0c3344c008d4475a9a29a7a0b6189b8",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-01-28T20:13:46.910Z"
+    }
+  ],
+  "developer": "Hypetrain Digital",
+  "developerId": "o-p9883lvrpllhyd7sad6tgxv53mdyh5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567E6ZA6pRR4rkttTZbuRtdQ63F",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

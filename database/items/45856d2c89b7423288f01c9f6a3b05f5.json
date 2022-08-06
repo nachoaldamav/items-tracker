@@ -1,0 +1,53 @@
+{
+  "id": "45856d2c89b7423288f01c9f6a3b05f5",
+  "title": "PikesPeakStaging",
+  "description": "PikesPeakStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bb9f87bb3d0042258bb1c97397bc60f2",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-25T19:53:46.207Z",
+  "lastModifiedDate": "2021-03-10T11:55:57.781Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PikesPeakStaging"
+    }
+  },
+  "entitlementName": "45856d2c89b7423288f01c9f6a3b05f5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3198c522ab44450ea15aeea040274f99",
+      "appId": "f9c6f998028e4e7193f30c4633d3e6aa",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-19T00:00:00.000Z"
+    }
+  ],
+  "developer": "Unit 2 Games",
+  "developerId": "o-3wg8cebzdas9bt56adlsslgzr8mcue",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567SETDh9wBbVK3riBygctDAHkL",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

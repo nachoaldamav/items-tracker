@@ -1,0 +1,64 @@
+{
+  "id": "01a9b027763c49719152c46d71c61619",
+  "title": "Othercide",
+  "description": "Othercide",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2d7be5a67ae94c66b3a720d616641a52/othercide-offer-119st.jpg",
+      "md5": "e4ba341b74f72660289ee7563ac60f84",
+      "width": 2560,
+      "height": 1440,
+      "size": 263196,
+      "uploadedDate": "2022-01-20T13:57:38.451Z",
+      "alt": "Othercide Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2d7be5a67ae94c66b3a720d616641a52/download-othercide-offer-e8xtm.jpg",
+      "md5": "32993f88a1e59f575132cd93b5e75753",
+      "width": 1200,
+      "height": 1600,
+      "size": 394364,
+      "uploadedDate": "2022-01-20T13:57:43.682Z",
+      "alt": "Download Othercide Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "325bbb62ea0d490793fd3d274ea74818",
+  "status": "ACTIVE",
+  "creationDate": "2022-01-03T19:29:51.140Z",
+  "lastModifiedDate": "2022-04-08T15:36:15.791Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Othercide"
+    }
+  },
+  "entitlementName": "01a9b027763c49719152c46d71c61619",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "734a43a48c1a40c28c4764497e4b9e6d",
+      "appId": "b3ae3979d71746a7b67e6e3c7dcbec7e",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

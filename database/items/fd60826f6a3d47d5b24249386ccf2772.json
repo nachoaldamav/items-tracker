@@ -1,0 +1,97 @@
+{
+  "id": "fd60826f6a3d47d5b24249386ccf2772",
+  "title": "KINGDOM HEARTS HD 1.5+2.5 ReMIX",
+  "description": "KINGDOM HEARTS HD 1.5+2.5 ReMIX",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/4158b699dd70447a981fee752d970a3e/item/EGS_KINGDOMHEARTSHD1525ReMIX_SquareEnix_S5-1920x1080-d4bd9d38aaee5d23b23ef0b04567541f.jpg",
+      "md5": "d4bd9d38aaee5d23b23ef0b04567541f",
+      "width": 1920,
+      "height": 1080,
+      "size": 368454,
+      "uploadedDate": "2021-02-03T01:22:36.148Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/4158b699dd70447a981fee752d970a3e/item/EGS_KINGDOMHEARTSHD1525ReMIX_SquareEnix_S6-1200x1600-132fc1f63bf40a41cddbff3bab7acc52.jpg",
+      "md5": "132fc1f63bf40a41cddbff3bab7acc52",
+      "width": 1200,
+      "height": 1600,
+      "size": 986618,
+      "uploadedDate": "2021-02-03T01:22:45.684Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4158b699dd70447a981fee752d970a3e",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-03T01:21:25.395Z",
+  "lastModifiedDate": "2021-03-30T12:59:42.152Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "4158b699dd70447a981fee752d970a3e"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1617109200"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KH1525RemixDummy"
+    }
+  },
+  "entitlementName": "fd60826f6a3d47d5b24249386ccf2772",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b6a7d007887349cf9fb8a3324971ccc3",
+      "appId": "GrapefruitDummy",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "Square Enix (Japan)",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567dBq42yqRKAXaIhoRtQYQvK9i",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

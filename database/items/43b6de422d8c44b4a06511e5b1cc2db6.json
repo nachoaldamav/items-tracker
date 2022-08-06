@@ -1,0 +1,96 @@
+{
+  "id": "43b6de422d8c44b4a06511e5b1cc2db6",
+  "title": "Echoes of Erebonia Digital Soundtrack Sampler",
+  "description": "Echoes of Erebonia Digital Soundtrack Sampler",
+  "longDescription": "# Contents\n\nThe Echoes of Erebonia Digital Soundtrack Sampler contains the following tracks: \n\nAshita Eno Kiseki\nBurning Throb\nHidden Village Elin\nAlthough its Warmth Small\nChanging World -From the Abyss-",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/08142466e4104a018e149441d35dbabc/item/EGS_EchoesofEreboniaDigitalSoundtrackSampler_NihonFalcom_DigitalExtras_S1-2560x1440-7fd479659d065a7eb194812ab02ac8e2.jpg",
+      "md5": "7fd479659d065a7eb194812ab02ac8e2",
+      "width": 2560,
+      "height": 1440,
+      "size": 995242,
+      "uploadedDate": "2021-04-09T14:49:15.698Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/08142466e4104a018e149441d35dbabc/item/EGS_EchoesofEreboniaDigitalSoundtrackSampler_NihonFalcom_DigitalExtras_S2-1200x1600-b620f2d985bcc1db0a60979d42e55caf.jpg",
+      "md5": "b620f2d985bcc1db0a60979d42e55caf",
+      "width": 1200,
+      "height": 1600,
+      "size": 891879,
+      "uploadedDate": "2021-04-09T14:49:29.663Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "digitalextras"
+    },
+    {
+      "path": "digitalextras/soundtrack"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "08142466e4104a018e149441d35dbabc",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-03T05:00:57.946Z",
+  "lastModifiedDate": "2021-04-16T16:34:19.179Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "08142466e4104a018e149441d35dbabc"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EOESOUNDSAMPLER"
+    }
+  },
+  "entitlementName": "43b6de422d8c44b4a06511e5b1cc2db6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1b29d8d1cb8848b1acf2686c3c80f6a0",
+      "appId": "11905943db4f4952924f44afb5bf9fe6",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-04-06T00:00:00.000Z"
+    }
+  ],
+  "developer": "NIS America, Inc.",
+  "developerId": "o-24ec9efll733ggh8wybar3x8zetflu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

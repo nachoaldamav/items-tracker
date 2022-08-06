@@ -1,0 +1,94 @@
+{
+  "id": "c8c882cbb80346e5a025bf11f1f314e6",
+  "title": "Moonglow Bay",
+  "description": "Moonglow Bay",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/0610384879594dd0b42c73e2d8af88ae/EGS_MoonglowBay_Bunnyhug_S3_2560x1440-16ea663bb04251ca791e2236a3257af0",
+      "md5": "16ea663bb04251ca791e2236a3257af0",
+      "width": 2560,
+      "height": 1440,
+      "size": 1014788,
+      "uploadedDate": "2021-11-10T19:56:54.604Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/0610384879594dd0b42c73e2d8af88ae/EGS_MoonglowBay_Bunnyhug_S2_1200x1600-5dee944c8789c29cc85084438ad895db",
+      "md5": "5dee944c8789c29cc85084438ad895db",
+      "width": 1200,
+      "height": 1600,
+      "size": 613783,
+      "uploadedDate": "2021-11-10T19:57:08.190Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0610384879594dd0b42c73e2d8af88ae",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-11T16:26:21.431Z",
+  "lastModifiedDate": "2021-11-11T16:23:39.562Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "0610384879594dd0b42c73e2d8af88ae"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MoonglowBay"
+    }
+  },
+  "entitlementName": "c8c882cbb80346e5a025bf11f1f314e6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0dde208a3feb457582463dafa4e36d70",
+      "appId": "e53bb4521c2943c199ba37b4f6a777bf",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-11T16:29:15.639Z"
+    }
+  ],
+  "developer": "Coatsink",
+  "developerId": "o-bhd3mh54edbkdtbzehl9wz6jnfeyea",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,62 @@
+{
+  "id": "8b3ef52491054da2986fa6e1c9180576",
+  "title": "Anuchard",
+  "description": "Anuchard",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/df1642e3139c41a29696e2eaa39c0ea2/anuchard-offer-1qy0j.png",
+      "md5": "5147514eebeafe2b648fac48dce882a6",
+      "width": 2560,
+      "height": 1440,
+      "size": 2669991,
+      "uploadedDate": "2022-04-18T18:33:18.698Z",
+      "alt": "Anuchard Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/df1642e3139c41a29696e2eaa39c0ea2/download-anuchard-offer-1kjzl.png",
+      "md5": "c6a5cad05734793be2a5b1218ab0e7c7",
+      "width": 1200,
+      "height": 1600,
+      "size": 2181253,
+      "uploadedDate": "2022-04-18T18:33:18.993Z",
+      "alt": "Download Anuchard Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9b10a3f3802e4ed4b2522857b858347f",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-12T15:41:25.377Z",
+  "lastModifiedDate": "2022-06-02T12:25:46.923Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "AnuchardYsaJZ"
+    }
+  },
+  "entitlementName": "8b3ef52491054da2986fa6e1c9180576",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7d864549c90848d3b7ee67c40fa3da60",
+      "appId": "e813c9fd50864bbf9fa3212978372389",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Freedom Games",
+  "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

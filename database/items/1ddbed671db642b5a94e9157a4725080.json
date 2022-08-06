@@ -1,0 +1,113 @@
+{
+  "id": "1ddbed671db642b5a94e9157a4725080",
+  "title": "The Settlers",
+  "description": "The Settlers",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/84f45b7676af47d9adecd3b636466f89/EN_THE SETTLERS_STANDARD EDITION_EPIC_Store Landscape_2560x1440_UK_2560x1440-0e211d84d5fbd54a258c249f509f887b",
+      "md5": "0e211d84d5fbd54a258c249f509f887b",
+      "width": 2560,
+      "height": 1440,
+      "size": 495205,
+      "uploadedDate": "2022-01-10T20:16:51.768Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/84f45b7676af47d9adecd3b636466f89/EN_THE SETTLERS_STANDARD EDITION_EPIC_Store Portrait_1200x1600_UK_1200x1600-82d2ffea57020cc53da354b073cadc32",
+      "md5": "82d2ffea57020cc53da354b073cadc32",
+      "width": 1200,
+      "height": 1600,
+      "size": 379146,
+      "uploadedDate": "2022-01-10T20:17:01.683Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "84f45b7676af47d9adecd3b636466f89",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-10T20:01:17.537Z",
+  "lastModifiedDate": "2022-03-03T19:18:08.947Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "84f45b7676af47d9adecd3b636466f89"
+    },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "isPrepurchase": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1671624000"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "e5868bc7114249a79d9c9e86cc3ef921"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheSettlers"
+    }
+  },
+  "entitlementName": "1ddbed671db642b5a94e9157a4725080",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9ef5126d1f4b48908ee32e05d7326be5",
+      "appId": "Magpie",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-19T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

@@ -1,0 +1,94 @@
+{
+  "id": "8c2dc96929474602a3dd642786cb9e57",
+  "title": "Lasagne",
+  "description": "Lasagne",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BottomPortrait_1200x1600-e8b1cf443e20f95090f4763ef365827c",
+      "md5": "e8b1cf443e20f95090f4763ef365827c",
+      "width": 1200,
+      "height": 1600,
+      "size": 1035634,
+      "uploadedDate": "2021-06-09T17:13:21.289Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TopLandscape_2560x1440-09a0d962c7da10388da8a968cd68e07a",
+      "md5": "09a0d962c7da10388da8a968cd68e07a",
+      "width": 2560,
+      "height": 1440,
+      "size": 1540017,
+      "uploadedDate": "2021-06-09T17:13:34.674Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "757a437095f549baa72b2a1100ead743",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-02T13:42:14.469Z",
+  "lastModifiedDate": "2021-06-09T17:13:42.314Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "757a437095f549baa72b2a1100ead743"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Lasagne"
+    }
+  },
+  "entitlementName": "8c2dc96929474602a3dd642786cb9e57",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a477ecd8af7745fa950f33973262064d",
+      "appId": "39dddbde89f5439e8fb46f4fb1ef21c5",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-02T13:43:33.964Z"
+    }
+  ],
+  "developer": "Epic Games Publishing",
+  "developerId": "o-e2xslu4mlqqaavphzl6927vtjqamhj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,52 @@
+{
+  "id": "22e2bec15cc7408395051b923466dfb7",
+  "title": "SeleniumStaging",
+  "description": "SeleniumStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "73b62f4875a248d8acc95966ce94c80f",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-08T17:57:35.469Z",
+  "lastModifiedDate": "2021-01-20T22:37:43.973Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SeleniumStaging"
+    }
+  },
+  "entitlementName": "22e2bec15cc7408395051b923466dfb7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "770acc8bad664bce855626aef017a4e1",
+      "appId": "9cb5804c6f9c43c995379961d5383308",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-01-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "Raw Fury",
+  "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

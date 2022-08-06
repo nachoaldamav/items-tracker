@@ -1,0 +1,37 @@
+{
+  "id": "808a85e283884d4cb4c4dd56f99e05a5",
+  "title": "VIP DLC Audience",
+  "description": "VIP DLC Audience",
+  "longDescription": "VIP DLC Audience - Pre-Purchase",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "6af58339c2424644988e0fb83dfd9bd5",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-25T23:25:32.119Z",
+  "lastModifiedDate": "2021-01-21T15:27:56.470Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "808a85e283884d4cb4c4dd56f99e05a5",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "NCSoft",
+  "developerId": "o-k8ltvz7rz3r7b29xdtafqvdkhnj2ux",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

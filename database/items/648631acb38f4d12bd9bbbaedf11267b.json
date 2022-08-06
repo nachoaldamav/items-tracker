@@ -1,0 +1,35 @@
+{
+  "id": "648631acb38f4d12bd9bbbaedf11267b",
+  "title": "HandiesPeakGeneralAudience",
+  "description": "HandiesPeakGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "9fce8233852f4940acde233a87bb41ce",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-12T00:08:58.408Z",
+  "lastModifiedDate": "2021-09-07T14:57:16.002Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "648631acb38f4d12bd9bbbaedf11267b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Beamdog",
+  "developerId": "o-wc3gy6s683brl6424p7kqlrldhy7vd",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

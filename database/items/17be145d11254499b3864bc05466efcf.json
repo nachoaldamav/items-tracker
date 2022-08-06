@@ -1,0 +1,62 @@
+{
+  "id": "17be145d11254499b3864bc05466efcf",
+  "title": "Penko Park",
+  "description": "Penko Park",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7a0c794f2cb741f68e156138660fc675/penko-park-offer-1z0n5.jpg",
+      "md5": "2442289b75f2a23d442f5a44ebb26253",
+      "width": 2560,
+      "height": 1440,
+      "size": 339661,
+      "uploadedDate": "2021-10-21T15:03:41.847Z",
+      "alt": "Penko Park Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7a0c794f2cb741f68e156138660fc675/download-penko-park-offer-10sqk.jpg",
+      "md5": "454c6e1c561a2e968741608bae05433b",
+      "width": 1200,
+      "height": 1600,
+      "size": 314085,
+      "uploadedDate": "2021-10-21T15:03:42.342Z",
+      "alt": "Download Penko Park Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "06cc983ef896457fa4e36e2039576b47",
+  "status": "ACTIVE",
+  "creationDate": "2022-01-07T09:24:18.164Z",
+  "lastModifiedDate": "2022-06-02T12:26:19.824Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "PenkoParktGta0"
+    }
+  },
+  "entitlementName": "17be145d11254499b3864bc05466efcf",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a442c464e03b448089286a22b342dfcd",
+      "appId": "a56d91aa7cb242c99353f03b1f1bc010",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Secret Mode",
+  "developerId": "o-rdrzv6e26usvcn4dsevv2mpfr4bytu",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

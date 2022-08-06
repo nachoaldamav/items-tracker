@@ -1,0 +1,36 @@
+{
+  "id": "dd27793d4dc942ffbeec88497376a761",
+  "title": "CitrineSoundtrackAudience",
+  "description": "CitrineSoundtrackAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "0a4fc789eb0143c29296de79df5387ab",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-03T21:38:07.028Z",
+  "lastModifiedDate": "2021-01-07T15:12:36.855Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "dd27793d4dc942ffbeec88497376a761",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Humble Bundle",
+  "developerId": "o-pldxyabsslnt6jth2z634mmr2pw8lu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

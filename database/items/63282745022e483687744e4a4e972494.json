@@ -1,0 +1,64 @@
+{
+  "id": "63282745022e483687744e4a4e972494",
+  "title": "HydraStaging",
+  "description": "HydraStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3c52fbac843d4375803187739db84801",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-06T07:29:50.118Z",
+  "lastModifiedDate": "2021-01-21T15:11:42.148Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/GC3Crusade/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Saves/, MPSaves/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "500"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HydraStaging"
+    }
+  },
+  "entitlementName": "63282745022e483687744e4a4e972494",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a2ee9ed1e28542a6bcabfddde03ab910",
+      "appId": "69c595699fdb4fad93742061a6aa44ab",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-06T00:00:00.000Z"
+    }
+  ],
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

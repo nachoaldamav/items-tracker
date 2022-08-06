@@ -1,0 +1,34 @@
+{
+  "id": "7f6656fb9b08488db98ba5b94343a902",
+  "title": "DevNyxAudience",
+  "description": "DevNyxAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "5a2108f4db804040aaf44d139bd21bd1",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-22T20:30:57.497Z",
+  "lastModifiedDate": "2022-04-04T14:28:27.751Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7f6656fb9b08488db98ba5b94343a902",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Focus Home Interactive",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

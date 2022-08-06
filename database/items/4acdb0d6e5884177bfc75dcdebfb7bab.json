@@ -1,0 +1,63 @@
+{
+  "id": "4acdb0d6e5884177bfc75dcdebfb7bab",
+  "title": "Unrailed",
+  "description": "Unrailed",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/dc57439aac3c481aaa52ccb443a4d01a/download-unrailed-offer-ghq3r.jpg",
+      "md5": "cb49230c38a44b0d2705c261d369e82f",
+      "width": 1200,
+      "height": 1600,
+      "size": 648277,
+      "uploadedDate": "2022-01-25T15:04:05.356Z",
+      "alt": "Download Unrailed Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/dc57439aac3c481aaa52ccb443a4d01a/unrailed-offer-1hr8q.jpg",
+      "md5": "2c63cf4c8ae79cfede916deaf22b5c95",
+      "width": 2560,
+      "height": 1440,
+      "size": 964144,
+      "uploadedDate": "2022-01-25T15:04:30.561Z",
+      "alt": "Unrailed Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5a6d34ba28bc45d081d9311c3885feef",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-22T23:58:06.906Z",
+  "lastModifiedDate": "2022-06-02T12:25:16.694Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Unrailed"
+    }
+  },
+  "entitlementName": "4acdb0d6e5884177bfc75dcdebfb7bab",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0a3ccb06f5f14e64858e9416f0513c50",
+      "appId": "76233c0af0a441c7bd541e7d7ab3cde1",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "endOfSupport": false,
+  "applicationId": "fghi45676LCJvggph2UiDTNsmVkjuULk",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,66 @@
+{
+  "id": "3b12b7d31a12455bb50d32fa7d27b1a7",
+  "title": "Super Mega Zero",
+  "description": "Super Mega Zero",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/db5c2d6d46424b6e81e89ff33249db06/super-mega-zero-offer-1sl37.jpg",
+      "md5": "ca44e88da59cea97bf6742dbe8b851b0",
+      "width": 2560,
+      "height": 1440,
+      "size": 1017930,
+      "uploadedDate": "2022-03-31T22:53:39.482Z",
+      "alt": "Super Mega Zero Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/db5c2d6d46424b6e81e89ff33249db06/download-super-mega-zero-offer-z4ns9.jpg",
+      "md5": "7d6d9654602e6df740d35de93754754f",
+      "width": 1200,
+      "height": 1600,
+      "size": 1121196,
+      "uploadedDate": "2022-03-31T22:53:42.691Z",
+      "alt": "Download Super Mega Zero Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a81935facd474f49a4547a1d9b560626",
+  "status": "ACTIVE",
+  "creationDate": "2022-04-06T22:30:03.313Z",
+  "lastModifiedDate": "2022-04-06T22:30:03.313Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SuperMegaZeroVNVME"
+    }
+  },
+  "entitlementName": "3b12b7d31a12455bb50d32fa7d27b1a7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "af145271ed2048acad3a5ad70284176b",
+      "appId": "1aaa654ce01041f898cb8efe1a954a86",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Rogue Games, Inc.",
+  "developerId": "o-uf2lr9jar96m9qssppdgmal3j6alyq",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

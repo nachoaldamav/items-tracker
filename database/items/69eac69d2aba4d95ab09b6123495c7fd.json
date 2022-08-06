@@ -1,0 +1,106 @@
+{
+  "id": "69eac69d2aba4d95ab09b6123495c7fd",
+  "title": "Gotham Knights",
+  "description": "Gotham Knights",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/05057ec2d5ea43c3b0701cc1518e0577/EGS_GothamKnights_WarnerBrosGamesMontreal_S1_2560x1440-0c43d39faa7d02a599489d98b7678527",
+      "md5": "0c43d39faa7d02a599489d98b7678527",
+      "width": 2560,
+      "height": 1440,
+      "size": 1046234,
+      "uploadedDate": "2022-04-25T19:59:00.426Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/05057ec2d5ea43c3b0701cc1518e0577/EGS_GothamKnights_WarnerBrosGamesMontreal_S2_1200x1600-5a46b442e57afa637f013bbc09fe5487",
+      "md5": "5a46b442e57afa637f013bbc09fe5487",
+      "width": 1200,
+      "height": 1600,
+      "size": 1038410,
+      "uploadedDate": "2022-04-25T19:59:04.210Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "05057ec2d5ea43c3b0701cc1518e0577",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-02T21:25:33.047Z",
+  "lastModifiedDate": "2022-07-07T18:30:03.020Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "05057ec2d5ea43c3b0701cc1518e0577"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/WB Games/Gotham Knights/EGS/Saved/SaveGames"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "CheatManagerSave.sav,GhostSettings.sav,HiveMindJiraSave.sav,PhotoModeSettings.sav"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GothamKnights"
+    }
+  },
+  "entitlementName": "69eac69d2aba4d95ab09b6123495c7fd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "73cfcc8fdab743419a74e65294a34c35",
+      "appId": "0b4f1830263b42f7be1ae3b01c6e0d00",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-02T21:43:23.599Z"
+    }
+  ],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

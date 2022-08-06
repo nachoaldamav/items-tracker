@@ -1,0 +1,53 @@
+{
+  "id": "ea454ac6cb5644e6b7d6f035fe66b148",
+  "title": "TallinnDev",
+  "description": "TallinnDev",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fcd3387b58864614b66952d0430d2b9a",
+  "status": "ACTIVE",
+  "creationDate": "2021-06-15T19:49:58.283Z",
+  "lastModifiedDate": "2021-09-30T13:12:39.994Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TallinnDev"
+    }
+  },
+  "entitlementName": "ea454ac6cb5644e6b7d6f035fe66b148",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "57a1a48eea4d4859bcde5a67f2480bcf",
+      "appId": "7f9af60060684df493d2723c02206749",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Systemic Reaction",
+  "developerId": "o-4gvyc6bwfz49sqpgk6ylt9g5ddexuy",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

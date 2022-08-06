@@ -1,0 +1,44 @@
+{
+  "id": "3f6a236b41a649a99b4f35cbe44b556c",
+  "title": "HadesGeneralAudience",
+  "description": "HadesGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/min/item/HadesESRB-200x103-5f4d6b58b155dbed4ac0f1d97f2d7a57.png",
+      "md5": "5f4d6b58b155dbed4ac0f1d97f2d7a57",
+      "width": 200,
+      "height": 103,
+      "size": 6165,
+      "uploadedDate": "2021-03-17T23:23:15.489Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "min",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-04T00:53:24.490Z",
+  "lastModifiedDate": "2020-09-17T15:57:50.900Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Win32,Mac"
+    }
+  },
+  "entitlementName": "3f6a236b41a649a99b4f35cbe44b556c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Supergiant Games LLC",
+  "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
+  "unsearchable": false
+}

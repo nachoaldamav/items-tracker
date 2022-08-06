@@ -1,0 +1,38 @@
+{
+  "id": "59f5060126264cd8a3a43e742d39cf68",
+  "title": "AmsterdamGeneralAudience",
+  "description": "AmsterdamGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "76355dbd22b249d9a6f77790aba9547b",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-01T18:42:59.866Z",
+  "lastModifiedDate": "2021-05-20T14:33:12.128Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "59f5060126264cd8a3a43e742d39cf68",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Capybara Games",
+  "developerId": "o-lbpf7js3rx6rhk4l4mkx2zph8a23zm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

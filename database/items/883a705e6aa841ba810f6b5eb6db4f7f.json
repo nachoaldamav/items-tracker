@@ -1,0 +1,63 @@
+{
+  "id": "883a705e6aa841ba810f6b5eb6db4f7f",
+  "title": "TechnetiumStaging",
+  "description": "TechnetiumStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3d4b3dcf7ec449c7a042c163d08fa0f3",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-12T22:47:48.447Z",
+  "lastModifiedDate": "2021-04-29T16:49:20.665Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/GoblinzStudio/LegendOfKeepers/legendofkeepers/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/GoblinzStudio/LegendOfKeepers/legendofkeepers/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TechnetiumStaging"
+    }
+  },
+  "entitlementName": "883a705e6aa841ba810f6b5eb6db4f7f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2cfe603c835346bfaa2fd2ce06ef6798",
+      "appId": "347fa4a8731040f4b59679e0fe5fcf8e",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-01-12T00:00:00.000Z"
+    }
+  ],
+  "developer": "Goblinz Studio",
+  "developerId": "o-7jby5x5ez3xmyf5qhgur72hlye379e",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

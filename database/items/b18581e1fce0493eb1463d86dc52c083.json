@@ -1,0 +1,60 @@
+{
+  "id": "b18581e1fce0493eb1463d86dc52c083",
+  "title": "HyacinthStaging",
+  "description": "HyacinthStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "hyacinth",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-10T16:34:38.402Z",
+  "lastModifiedDate": "2020-12-10T04:38:37.087Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "be38ac6522c348198f6b2d76586d629a"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HyacinthStaging"
+    }
+  },
+  "entitlementName": "b18581e1fce0493eb1463d86dc52c083",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bdb1c857eea242b4bd9b49388b99f107",
+      "appId": "HyacinthStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-10T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": "HyacinthStaging"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

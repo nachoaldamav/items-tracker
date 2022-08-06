@@ -1,0 +1,52 @@
+{
+  "id": "1d7f48b0d11b49ec83c6f1d96ae6e330",
+  "title": "MinskinStaging",
+  "description": "MinskinStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1abab99ab9d54d16abba65857355f017",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-09T18:03:06.081Z",
+  "lastModifiedDate": "2020-11-09T18:06:52.934Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MinskinStaging"
+    }
+  },
+  "entitlementName": "1d7f48b0d11b49ec83c6f1d96ae6e330",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "42499818913b453f9eff9ca938b0f1f9",
+      "appId": "246345d3205346bd8e5fa4b38047af38",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-09T18:04:21.599Z"
+    }
+  ],
+  "developer": "Bossa Studios",
+  "developerId": "o-2xhhr8jdtcqt7uprgbpvf7g9k2vppu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,37 @@
+{
+  "id": "82326d570bfa4de2a2d6c59853329fac",
+  "title": "MacawGeneralAudience",
+  "description": "MacawGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "e1809e1742cb498080d8849b11a99c5a",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-12T21:27:32.390Z",
+  "lastModifiedDate": "2022-03-10T19:49:05.281Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Win32,Mac"
+    }
+  },
+  "entitlementName": "82326d570bfa4de2a2d6c59853329fac",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Freedom Games",
+  "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

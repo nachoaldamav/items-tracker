@@ -1,0 +1,67 @@
+{
+  "id": "44fbaba3ac0e459482d401da8d5b22d7",
+  "title": "Fires At Midnight",
+  "description": "Fires At Midnight",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7ed501a1a5294e7dac7e6dde3e8811f0/fires-at-midnight-offer-1sfgf.png",
+      "md5": "7ed42677a24ea0b2da4d7594f816145a",
+      "width": 2560,
+      "height": 1440,
+      "size": 2373520,
+      "uploadedDate": "2022-03-30T16:07:28.186Z",
+      "alt": "Fires At Midnight Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7ed501a1a5294e7dac7e6dde3e8811f0/download-fires-at-midnight-offer-17xxd.png",
+      "md5": "d0838e5efcdfddb69c74191e47d68004",
+      "width": 1200,
+      "height": 1600,
+      "size": 1797667,
+      "uploadedDate": "2022-03-30T16:07:19.051Z",
+      "alt": "Download Fires At Midnight Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "918c4bcfa8034afc9795a965ae63969a",
+  "status": "ACTIVE",
+  "creationDate": "2022-04-06T16:24:00.723Z",
+  "lastModifiedDate": "2022-04-06T16:24:00.723Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FiresAtMidnightNg4zo"
+    }
+  },
+  "entitlementName": "44fbaba3ac0e459482d401da8d5b22d7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0aa0ccd96b7941c0a9e8d3139c109fc3",
+      "appId": "1cc0e963c71a445db859cefb74dc9516",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Top Hat Studios, Inc.",
+  "developerId": "o-b3dcbpjzpsrrbtlgt8f7yzmc45msvy",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

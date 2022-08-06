@@ -1,0 +1,35 @@
+{
+  "id": "ff8740e4dfca4406b6c6c16e15bfc1a4",
+  "title": "SeaborgiumGeneralAudience",
+  "description": "SeaborgiumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "308652d49c89470fbf45fe8696b9c1c1",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-12T22:21:40.906Z",
+  "lastModifiedDate": "2021-02-24T13:59:32.330Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ff8740e4dfca4406b6c6c16e15bfc1a4",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Spiderweb Software, Inc.",
+  "developerId": "o-bu7q3xmhe9gddmtm7z8ubuc9fnes7n",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

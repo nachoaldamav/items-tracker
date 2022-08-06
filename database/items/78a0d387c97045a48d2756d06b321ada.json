@@ -1,0 +1,101 @@
+{
+  "id": "78a0d387c97045a48d2756d06b321ada",
+  "title": "Solar Ash",
+  "description": "Solar Ash",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/SolarAsh_KeyArt_Portrait_EGS_1200x1600-5fc4ebd4374add4bd9c613607a1d284c",
+      "md5": "5fc4ebd4374add4bd9c613607a1d284c",
+      "width": 1200,
+      "height": 1600,
+      "size": 336062,
+      "uploadedDate": "2021-06-09T19:36:20.354Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/SolarAsh_KeyArt_Landscape_EGS_1920x1080-8a5ac6034931a88a6b3db2aa98c76bff",
+      "md5": "8a5ac6034931a88a6b3db2aa98c76bff",
+      "width": 1920,
+      "height": 1080,
+      "size": 355173,
+      "uploadedDate": "2021-06-09T19:36:27.787Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fe5a2e3e842a4394938a81f3308df2ed",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-06T19:35:47.322Z",
+  "lastModifiedDate": "2021-12-02T14:17:09.383Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "fe5a2e3e842a4394938a81f3308df2ed"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Solar/EGS/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "AudioSettingsData.sav,VideoSettingsPC.sav"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SolarAsh"
+    }
+  },
+  "entitlementName": "78a0d387c97045a48d2756d06b321ada",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9f73e134c86544358447ca35d4d72082",
+      "appId": "Owl",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-26T00:00:00.000Z"
+    }
+  ],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567Tsou5V0GD59mZMQB2mM61WHc",
+  "unsearchable": false
+}

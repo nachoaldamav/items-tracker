@@ -1,0 +1,106 @@
+{
+  "id": "86491df7c7e048e487ff856497271da3",
+  "title": "Trials Fusion",
+  "description": "Trials Fusion",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/9afcf28baab84109ad3bc8038d07e7c1/item/TRFU_UCS17402_EGST_Store_Landscape_2560x1440-2560x1440-ff69d136d6418472545ccc198208ead5.jpg",
+      "md5": "ff69d136d6418472545ccc198208ead5",
+      "width": 2560,
+      "height": 1440,
+      "size": 656960,
+      "uploadedDate": "2021-03-09T23:22:47.395Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/9afcf28baab84109ad3bc8038d07e7c1/item/TRFU_UCS17402_EGST_Store_Portrait_1200x1600-1200x1600-1fff237359c345bdb2e1802e70d7b483.jpg",
+      "md5": "1fff237359c345bdb2e1802e70d7b483",
+      "width": 1200,
+      "height": 1600,
+      "size": 386228,
+      "uploadedDate": "2021-03-09T23:22:50.312Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9afcf28baab84109ad3bc8038d07e7c1",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-13T17:27:29.430Z",
+  "lastModifiedDate": "2021-08-24T19:25:01.062Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "trials_fusion.exe"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "cac4b97ea0df4177beecc0b1ec8ee257"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TrialsFusion"
+    },
+    "neverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "86491df7c7e048e487ff856497271da3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "57bc51bb22104946863fc8d8eac41c3f",
+      "appId": "7a61f09916cf4d81a78cf796b182a002",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-13T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

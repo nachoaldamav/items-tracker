@@ -1,0 +1,63 @@
+{
+  "id": "36528facf91943ce977306501a8a2e64",
+  "title": "Beacon Pines",
+  "description": "Beacon Pines",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c89a3b955d704c3c97ddd2aba5265a38/download-beacon-pines-offer-1ahs8.jpg",
+      "md5": "70567bc3ebe983b5e75c8f5273323ab9",
+      "width": 1200,
+      "height": 1600,
+      "size": 1287870,
+      "uploadedDate": "2022-02-13T10:20:34.022Z",
+      "alt": "Download Beacon Pines Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c89a3b955d704c3c97ddd2aba5265a38/beacon-pines-offer-55vz9.jpg",
+      "md5": "b4b5ccadff67a61b65ae8d7eee5453e5",
+      "width": 2560,
+      "height": 1440,
+      "size": 1870820,
+      "uploadedDate": "2022-02-13T10:20:36.014Z",
+      "alt": "Beacon Pines Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1c83ea77e736438f9852b31aeb4f7a20",
+  "status": "ACTIVE",
+  "creationDate": "2022-04-28T22:36:35.750Z",
+  "lastModifiedDate": "2022-04-28T22:36:35.750Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BeaconPinesFlvcp"
+    }
+  },
+  "entitlementName": "36528facf91943ce977306501a8a2e64",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f543e4119ea441c3bb7b35bb25010b1f",
+      "appId": "5e40f77f7e934af181110e88fdb9fca8",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Fellow Traveller",
+  "developerId": "o-22uq4lnmzc6kmlbbaf5gp8yvysnn3t",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

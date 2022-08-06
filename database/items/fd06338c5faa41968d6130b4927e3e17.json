@@ -1,0 +1,78 @@
+{
+  "id": "fd06338c5faa41968d6130b4927e3e17",
+  "title": "Out of Line",
+  "description": "Out of Line",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt/a3e7bc84-0d67-4f60-a62e-a183cafae823/out-of-line-offer-4a5df3c7.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 2560,
+      "height": 1440,
+      "size": 1442561,
+      "uploadedDate": "2021-06-11T10:37:33.786Z",
+      "alt": "Out of Line Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt/8b5b459c-7133-4e58-a6f7-40bbdd78d450/download-out-of-line-offer-4c03e1b4.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 1630114,
+      "uploadedDate": "2021-06-11T10:39:40.149Z",
+      "alt": "Download Out of Line Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0f58cd1c026441f49371d663a710fe83",
+  "status": "ACTIVE",
+  "creationDate": "2021-06-10T06:30:12.489Z",
+  "lastModifiedDate": "2022-02-18T09:20:06.663Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Nerd Monkeys/Out of Line/"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "productGeneration": {
+      "type": "STRING",
+      "value": "SPT"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OutofLine"
+    }
+  },
+  "entitlementName": "fd06338c5faa41968d6130b4927e3e17",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3a8785d373ac4216943fe192ece8fd78",
+      "appId": "6b994d7f4f2a4e85a54d5c2ede6d2fed",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Hatinh Interactive",
+  "developerId": "o-722pvnj3qsvbzvskhx4r8x7gcxhhbn",
+  "eulaIds": [],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

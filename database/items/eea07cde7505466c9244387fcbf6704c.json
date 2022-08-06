@@ -1,0 +1,34 @@
+{
+  "id": "eea07cde7505466c9244387fcbf6704c",
+  "title": "DevMtMassiveAudience",
+  "description": "DevMtMassiveAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "b156c3365a5b4cb9a01a5e1108b4e3f4",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-09T13:43:26.014Z",
+  "lastModifiedDate": "2021-01-07T15:18:57.035Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "eea07cde7505466c9244387fcbf6704c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

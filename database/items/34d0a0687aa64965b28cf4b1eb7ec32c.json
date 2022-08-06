@@ -1,0 +1,35 @@
+{
+  "id": "34d0a0687aa64965b28cf4b1eb7ec32c",
+  "title": "United Kingdom",
+  "description": "United Kingdom",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "b4d9169e1b8548f2babec33107253309",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-11T13:26:44.353Z",
+  "lastModifiedDate": "2021-05-06T20:13:28.747Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "34d0a0687aa64965b28cf4b1eb7ec32c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Asmodee",
+  "developerId": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

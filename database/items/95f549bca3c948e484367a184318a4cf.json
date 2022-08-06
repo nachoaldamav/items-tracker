@@ -1,0 +1,63 @@
+{
+  "id": "95f549bca3c948e484367a184318a4cf",
+  "title": "Rainswept",
+  "description": "Rainswept",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/fc9bd880ed2b479c98f5992c9599efc8/rainswept-offer-dlb7y.jpg",
+      "md5": "32a119953f4054172e563b2866eb6cf0",
+      "width": 2560,
+      "height": 1440,
+      "size": 838172,
+      "uploadedDate": "2022-02-10T01:58:27.146Z",
+      "alt": "Rainswept Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/fc9bd880ed2b479c98f5992c9599efc8/download-rainswept-offer-tt4dl.jpg",
+      "md5": "4a89e613e6d369cb7517f9789ffc4393",
+      "width": 1200,
+      "height": 1600,
+      "size": 4010806,
+      "uploadedDate": "2022-02-10T01:58:50.174Z",
+      "alt": "Download Rainswept Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bfc967156772408a9d1251a671e2cca3",
+  "status": "ACTIVE",
+  "creationDate": "2022-02-15T17:14:29.125Z",
+  "lastModifiedDate": "2022-02-18T09:19:46.640Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "RainsweptHwAvO"
+    }
+  },
+  "entitlementName": "95f549bca3c948e484367a184318a4cf",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "28799895ca05424da0825a2ff0de0964",
+      "appId": "0414d2e27997404aba9a9ac1d6f45aa2",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Top Hat Studios, Inc.",
+  "developerId": "o-b3dcbpjzpsrrbtlgt8f7yzmc45msvy",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

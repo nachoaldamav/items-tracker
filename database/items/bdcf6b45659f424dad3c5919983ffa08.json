@@ -1,0 +1,62 @@
+{
+  "id": "bdcf6b45659f424dad3c5919983ffa08",
+  "title": "Mars Base",
+  "description": "Mars Base",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/380b2d8808904e3ebc4381fede541193/download-mars-base-offer-1rgpz.png",
+      "md5": "b08e9fbb4a625b4ad617979ddb228cd6",
+      "width": 1200,
+      "height": 1600,
+      "size": 1676806,
+      "uploadedDate": "2021-12-13T19:55:14.078Z",
+      "alt": "Download Mars Base Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/380b2d8808904e3ebc4381fede541193/mars-base-offer-1afmn.png",
+      "md5": "72758ed492be2451a26c9c5a4ed90eb0",
+      "width": 2560,
+      "height": 1440,
+      "size": 3151122,
+      "uploadedDate": "2021-12-13T19:55:15.001Z",
+      "alt": "Mars Base Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f89c6ace5ad646039f92408601334491",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-23T19:37:11.912Z",
+  "lastModifiedDate": "2022-06-02T12:25:32.461Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "MarsBase6HCSq"
+    }
+  },
+  "entitlementName": "bdcf6b45659f424dad3c5919983ffa08",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0690dbd7bb1440b6aa6da917571ea47f",
+      "appId": "7faf5fb622e94cd0a9b48b71b2480428",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Freedom Games",
+  "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

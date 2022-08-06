@@ -1,0 +1,66 @@
+{
+  "id": "b1e15233a05b46f5bef44a76a8b14c76",
+  "title": "MythForce PB",
+  "description": "MythForce PB",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c4099459877a4e47a6b927032f32ed41/download-mythforce-press-build-offer-1pzkk.png",
+      "md5": "e291955c2130c1ec90a70aafff8acce3",
+      "width": 1200,
+      "height": 1600,
+      "size": 2649693,
+      "uploadedDate": "2022-02-17T17:52:23.729Z",
+      "alt": "Download MythForce Press Build Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c4099459877a4e47a6b927032f32ed41/mythforce-press-build-offer-9w5ju.png",
+      "md5": "a2d9c79fca0f8b04f61cfb47dfc063da",
+      "width": 2560,
+      "height": 1440,
+      "size": 2997940,
+      "uploadedDate": "2022-02-17T17:52:25.568Z",
+      "alt": "MythForce Press Build Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "720cc28ab09b455f8388decfa0ba4796",
+  "status": "ACTIVE",
+  "creationDate": "2022-02-08T23:59:27.992Z",
+  "lastModifiedDate": "2022-02-18T09:17:19.567Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "MythForcePressDemo"
+    }
+  },
+  "entitlementName": "b1e15233a05b46f5bef44a76a8b14c76",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fee4ee28-2040-4f34-b5b8-88871b5ae9c7",
+      "appId": "be75d0b2d71a4d379f55aaf87a2daa79",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Beamdog",
+  "developerId": "o-wc3gy6s683brl6424p7kqlrldhy7vd",
+  "eulaIds": [],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

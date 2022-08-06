@@ -1,0 +1,96 @@
+{
+  "id": "590ff62274ab46db99071672ebd78e05",
+  "title": "Zombie Army 4: Mission 4 - Damnation Valley",
+  "description": "Zombie Army 4: Mission 4 - Damnation Valley",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_DamnationValley-900x450-ab8dc9e8d539b179869e0169286f1a4a.png",
+      "md5": "ab8dc9e8d539b179869e0169286f1a4a",
+      "width": 900,
+      "height": 450,
+      "size": 731184,
+      "uploadedDate": "2020-10-05T18:29:29.250Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/EGS_REBELLION_ZOMBIEARMY4_DamnationValley_REDEMPTIONIMAGE-860x1180-591456d46e1dee9676dcb97fd4cb0dcf.png",
+      "md5": "591456d46e1dee9676dcb97fd4cb0dcf",
+      "width": 860,
+      "height": 1180,
+      "size": 1516175,
+      "uploadedDate": "2020-10-05T18:29:42.486Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "dfd2530e80e4425d801913b0879be444",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-22T18:16:04.026Z",
+  "lastModifiedDate": "2021-07-27T02:14:07.774Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "dfd2530e80e4425d801913b0879be444"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DamnationValley"
+    }
+  },
+  "entitlementName": "590ff62274ab46db99071672ebd78e05",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fa5947622d9045a9a5162f733ceaf971",
+      "appId": "81d8bd1216124e6192d40e1faa31f1d5",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-06-25T00:00:00.000Z"
+    }
+  ],
+  "developer": "Rebellion",
+  "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

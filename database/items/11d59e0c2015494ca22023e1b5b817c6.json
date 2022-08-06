@@ -1,0 +1,61 @@
+{
+  "id": "11d59e0c2015494ca22023e1b5b817c6",
+  "title": "CalciumStaging",
+  "description": "CalciumStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6e7faac262f04035aeb848e660b2d18c",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-20T15:43:44.538Z",
+  "lastModifiedDate": "2020-12-10T17:21:24.439Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Paintbucket Games/TtDoT/SaveGames/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/TtDoT_Data/StreamingAssets/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CalciumStaging"
+    }
+  },
+  "entitlementName": "11d59e0c2015494ca22023e1b5b817c6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1b9eb79f88c24d2c9a42910f5d6d2460",
+      "appId": "7db618f6c689481aa77d126c9c787db1",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-11-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Handy Games",
+  "developerId": "o-ekk92wx8mesnmsvbseequvnt38mzu6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,112 @@
+{
+  "id": "d0053dc6d39649b1b40a0e1e9f6bde31",
+  "title": "Hand of Fate 2",
+  "description": "Hand of Fate 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HandofFate2_DefiantDevelopment_S1_2560x1440-aa240451a12ea5498a054e4eab21eef4",
+      "md5": "aa240451a12ea5498a054e4eab21eef4",
+      "width": 2560,
+      "height": 1440,
+      "size": 1004479,
+      "uploadedDate": "2021-04-14T20:09:03.231Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HandofFate2_DefiantDevelopment_S2_1200x1600-30c02fa77e675a39bbdfa5c0fab19894",
+      "md5": "30c02fa77e675a39bbdfa5c0fab19894",
+      "width": 1200,
+      "height": 1600,
+      "size": 945650,
+      "uploadedDate": "2021-04-14T20:09:07.343Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "eb348461cdaf4bec9d69a1c4bb39ecc4",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-14T22:13:52.174Z",
+  "lastModifiedDate": "2021-05-06T19:31:52.753Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "eb348461cdaf4bec9d69a1c4bb39ecc4"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Defiant Development/Hand of Fate 2/"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Defiant Development/Hand of Fate 2/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "player_data.profile"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "5000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HandOfFate2"
+    }
+  },
+  "entitlementName": "d0053dc6d39649b1b40a0e1e9f6bde31",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "79a80f9cf8b94a5597e8c64fc5262652",
+      "appId": "808f0dfbf3b84c2680793724d7f207bf",
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2021-01-14T00:00:00.000Z"
+    }
+  ],
+  "developer": "Defiant Development PTY LTD",
+  "developerId": "o-263x4kmewy3sltg46p3ccce2aqmypf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi45672UyNmhzCugc3hVVohIy3OWqs",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

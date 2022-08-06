@@ -1,0 +1,38 @@
+{
+  "id": "1b65a3d2ea544d699dcbcee550191e14",
+  "title": "FlanGeneralAudience",
+  "description": "FlanGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "1368a7f14c3344bbaededbae528fafed",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-27T13:09:17.314Z",
+  "lastModifiedDate": "2022-01-06T16:41:34.659Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "1b65a3d2ea544d699dcbcee550191e14",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Motion Twin",
+  "developerId": "o-7saqb478dnbhsw9awuk67h7lu2ynua",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

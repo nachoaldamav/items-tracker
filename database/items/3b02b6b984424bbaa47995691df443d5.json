@@ -1,0 +1,57 @@
+{
+  "id": "3b02b6b984424bbaa47995691df443d5",
+  "title": "RigaStaging",
+  "description": "RigaStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2a5eb81d6f384099a5259413ee22baa4",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-12T15:06:13.478Z",
+  "lastModifiedDate": "2021-12-02T17:55:17.665Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Mode7/Fights in Tight Spaces/Saves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RigaStaging"
+    }
+  },
+  "entitlementName": "3b02b6b984424bbaa47995691df443d5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cd593d4e55594b08b277c25d3f670f07",
+      "appId": "d4db7cf0eb8c49188dcba6dd0b2d4131",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-20T15:01:58.158Z"
+    }
+  ],
+  "developer": "Distant Signal Limited",
+  "developerId": "o-xqs37sebjm7zdvdm9je2c4lj3ctnsr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

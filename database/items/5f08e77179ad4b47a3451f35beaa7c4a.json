@@ -1,0 +1,34 @@
+{
+  "id": "5f08e77179ad4b47a3451f35beaa7c4a",
+  "title": "DevGadoliniumAudience",
+  "description": "DevGadoliniumAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "7be6958b730944d9925ddbee7aa207a6",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-22T20:35:35.221Z",
+  "lastModifiedDate": "2021-04-22T13:26:02.587Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5f08e77179ad4b47a3451f35beaa7c4a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "iHeartMedia",
+  "developerId": "o-vwezlgnfmwftja29b6uxk9b7y3k7bk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

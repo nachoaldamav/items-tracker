@@ -1,0 +1,72 @@
+{
+  "id": "5b5d855c6ade4cb793cada152bf8f6a8",
+  "title": "Neon Blight",
+  "description": "Neon Blight",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/74c67e5bccf74d9496a99365101e957f/download-neon-blight-offer-1uzvs.png",
+      "md5": "628c22af0170cf53c2bfca23d963e035",
+      "width": 1200,
+      "height": 1600,
+      "size": 1862654,
+      "uploadedDate": "2021-12-14T17:38:20.008Z",
+      "alt": "Download Neon Blight Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/74c67e5bccf74d9496a99365101e957f/neon-blight-offer-n61kj.png",
+      "md5": "ead8030df43b5c62d56226d699868216",
+      "width": 2560,
+      "height": 1440,
+      "size": 3820943,
+      "uploadedDate": "2022-01-12T02:26:44.205Z",
+      "alt": "Neon Blight Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cd2a3289e4e9479fa5ebee6898f1d12f",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-04T22:38:48.025Z",
+  "lastModifiedDate": "2022-06-28T14:44:22.068Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Local/neon_blight/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "gamesave.nbsav, options.nbsav, input.nbsav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NeonBlightDUhFH"
+    }
+  },
+  "entitlementName": "5b5d855c6ade4cb793cada152bf8f6a8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4a967b34358d4485869b5a2e487580ca",
+      "appId": "638ef489c3e441b1a48d65c5ca007ab7",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Freedom Games",
+  "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,94 @@
+{
+  "id": "fb39bac8278a4126989f0fe12e7353af",
+  "title": "Hades",
+  "description": "Hades",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/min/item/1200x1600-1200x1600-e92fa6b99bb20c9edee19c361b8853b9.jpg",
+      "md5": "e92fa6b99bb20c9edee19c361b8853b9",
+      "width": 1200,
+      "height": 1600,
+      "size": 1012660,
+      "uploadedDate": "2020-09-29T17:48:39.013Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/min/item/2560x1440-2560x1440-5e710b93049cbd2125cf0261dcfbf943.jpg",
+      "md5": "5e710b93049cbd2125cf0261dcfbf943",
+      "width": 2560,
+      "height": 1440,
+      "size": 1001590,
+      "uploadedDate": "2020-09-29T17:48:49.473Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "min",
+  "status": "ACTIVE",
+  "creationDate": "2018-09-26T20:24:34.338Z",
+  "lastModifiedDate": "2020-09-29T17:48:54.414Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "min"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "com.epicgames.app.whitelist": {
+      "type": "STRING",
+      "value": "US"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{\"Requirements\": {\"DirectX\": {\"FeatureLevels\": \"D3D_FEATURE_LEVEL_11_0\"}}}"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Hades"
+    }
+  },
+  "entitlementName": "Min",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e4bcca5128c348a1bc5f79fe87e5828d",
+      "appId": "Min",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2018-11-28T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Supergiant Games LLC",
+  "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567FnAE6GHjc6FEIL6YL4cnG1wp",
+  "unsearchable": false
+}

@@ -1,0 +1,65 @@
+{
+  "id": "6388668c772a4b27ac0ef757655c60c7",
+  "title": "SeaborgiumStaging",
+  "description": "SeaborgiumStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "308652d49c89470fbf45fe8696b9c1c1",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-12T22:21:41.395Z",
+  "lastModifiedDate": "2021-02-16T22:55:29.502Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Spiderweb Software/Geneforge Mutagen Saved Games/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/Spiderweb Software/Geneforge Mutagen Saved Games/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "400"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SeaborgiumStaging"
+    }
+  },
+  "entitlementName": "6388668c772a4b27ac0ef757655c60c7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "614d747ddf854654a62a9be674e1ac82",
+      "appId": "292ce498793a45819959224a7e5896c6",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-02-12T00:00:00.000Z"
+    }
+  ],
+  "developer": "Spiderweb Software, Inc.",
+  "developerId": "o-bu7q3xmhe9gddmtm7z8ubuc9fnes7n",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

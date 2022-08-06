@@ -1,0 +1,34 @@
+{
+  "id": "ba228efcd79f4f9f814683db8326c7be",
+  "title": "CasarecceGeneralAudience",
+  "description": "CasarecceGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "892ec3a651c748df88dac102472a5cf9",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-15T23:42:45.974Z",
+  "lastModifiedDate": "2021-04-19T16:33:14.887Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ba228efcd79f4f9f814683db8326c7be",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

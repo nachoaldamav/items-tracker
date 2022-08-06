@@ -1,0 +1,34 @@
+{
+  "id": "e82fc4fb77cf4141a83f8f13d2a79b57",
+  "title": "DevCamelAudience",
+  "description": "DevCamelAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "ae51a606e31f409bac9e0216f3e757a2",
+  "status": "ACTIVE",
+  "creationDate": "2021-05-05T18:27:47.196Z",
+  "lastModifiedDate": "2021-06-25T15:22:50.980Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e82fc4fb77cf4141a83f8f13d2a79b57",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Another Indie Studio Limited",
+  "developerId": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

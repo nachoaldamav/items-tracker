@@ -1,0 +1,102 @@
+{
+  "id": "e059859c0aef407e81320c78ed08f57a",
+  "title": "Down In Bermuda",
+  "description": "Down In Bermuda",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/0558e58003aa447a8ace48c3a0d53b54/item/EGS_DowninBermuda_YakCo_S1-2560x1440-d97c45eccd46e98d4178d0d9881948eb.jpg",
+      "md5": "d97c45eccd46e98d4178d0d9881948eb",
+      "width": 2560,
+      "height": 1440,
+      "size": 871293,
+      "uploadedDate": "2021-01-13T12:05:11.099Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/0558e58003aa447a8ace48c3a0d53b54/item/EGS_DowninBermuda_YakCo_S2-1200x1600-dba8b5c164bae127a679160dc88ae3fd.jpg",
+      "md5": "dba8b5c164bae127a679160dc88ae3fd",
+      "width": 1200,
+      "height": 1600,
+      "size": 607263,
+      "uploadedDate": "2021-01-13T12:05:13.901Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0558e58003aa447a8ace48c3a0d53b54",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-19T03:15:11.481Z",
+  "lastModifiedDate": "2021-01-15T19:18:42.092Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "0558e58003aa447a8ace48c3a0d53b54"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}\\..\\LocalLow\\Yak and Co\\Down in Bermuda\\"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "Player.log,Player-prev.log"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DownInBermuda"
+    }
+  },
+  "entitlementName": "e059859c0aef407e81320c78ed08f57a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "de0c6b908d0045b686b529a360470092",
+      "appId": "1b3d52e6278749868913aa1cdd12e974",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-10-19T00:00:00.000Z"
+    }
+  ],
+  "developer": "Yak & Co",
+  "developerId": "o-pc4ubv4cz3zqmbu63wfgl4akadwkde",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567CO1tERoDRpt37YjB2f0PqV4n",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

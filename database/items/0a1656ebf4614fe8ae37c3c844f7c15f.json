@@ -1,0 +1,34 @@
+{
+  "id": "0a1656ebf4614fe8ae37c3c844f7c15f",
+  "title": "DevBrilliantRoseAudience",
+  "description": "DevBrilliantRoseAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "c4c7d3cd0a2f4ea2bf7d4a57e46e8d68",
+  "status": "ACTIVE",
+  "creationDate": "2021-05-04T16:45:12.714Z",
+  "lastModifiedDate": "2022-01-10T16:31:58.463Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0a1656ebf4614fe8ae37c3c844f7c15f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Burgos Games",
+  "developerId": "o-94sy2ptcstesqlae8luap66hgs8dbb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

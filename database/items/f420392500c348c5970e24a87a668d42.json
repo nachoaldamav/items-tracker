@@ -1,0 +1,53 @@
+{
+  "id": "f420392500c348c5970e24a87a668d42",
+  "title": "ZeusStaging",
+  "description": "ZeusStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0208da63c74542c99e8a0837e4e688c3",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-22T20:36:56.891Z",
+  "lastModifiedDate": "2022-07-18T19:34:08.664Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ZeusStaging"
+    }
+  },
+  "entitlementName": "f420392500c348c5970e24a87a668d42",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e3f48b08f99b4d4eb695a0dba204610f",
+      "appId": "42bccefc2a9e49c79f260a94f2f0790d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

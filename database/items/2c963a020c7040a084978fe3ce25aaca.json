@@ -1,0 +1,62 @@
+{
+  "id": "2c963a020c7040a084978fe3ce25aaca",
+  "title": "Blood and Zombies",
+  "description": "Blood and Zombies",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/70f20714dc6242aa89fcdebf9611fdd8/blood-and-zombies-offer-cnsr0.jpg",
+      "md5": "8474968a26884dd3133157c24d7a0725",
+      "width": 2560,
+      "height": 1440,
+      "size": 330002,
+      "uploadedDate": "2022-02-09T18:26:44.780Z",
+      "alt": "Blood and Zombies Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/70f20714dc6242aa89fcdebf9611fdd8/download-blood-and-zombies-offer-qem68.jpg",
+      "md5": "17e2f5b6d3ef14f4ec0b998c6c08b173",
+      "width": 1200,
+      "height": 1600,
+      "size": 221150,
+      "uploadedDate": "2022-02-09T18:26:44.968Z",
+      "alt": "Download Blood and Zombies Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5798ab7fa43c4b42bf1ab29f73592c69",
+  "status": "ACTIVE",
+  "creationDate": "2022-01-04T17:28:52.433Z",
+  "lastModifiedDate": "2022-07-26T13:21:39.883Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BloodandZombiesHp6hS"
+    }
+  },
+  "entitlementName": "2c963a020c7040a084978fe3ce25aaca",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1a04909d0eaf43cba3e66187fc7eb367",
+      "appId": "3688fb57ce73486881a5381b204faf35",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Freedom Games",
+  "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

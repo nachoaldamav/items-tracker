@@ -1,0 +1,63 @@
+{
+  "id": "5c7575a4aeb14f5f9659391380720f68",
+  "title": "ORB",
+  "description": "ORB",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8bee909f890f49cc87701e47cc1f0bb8/orb-offer-ylckk.png",
+      "md5": "c495c6f73836263c6d9e3af12db4298f",
+      "width": 2560,
+      "height": 1440,
+      "size": 1300096,
+      "uploadedDate": "2022-07-02T03:17:08.260Z",
+      "alt": "ORB Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8bee909f890f49cc87701e47cc1f0bb8/download-orb-offer-n7vve.png",
+      "md5": "5b5c4fab9df15fb0e674331a73275210",
+      "width": 1200,
+      "height": 1600,
+      "size": 1230803,
+      "uploadedDate": "2022-07-02T03:17:15.719Z",
+      "alt": "Download ORB Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "425b2b5e772c4d48a7c77cd9093d879a",
+  "status": "ACTIVE",
+  "creationDate": "2022-07-11T23:13:13.259Z",
+  "lastModifiedDate": "2022-07-11T23:13:13.259Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ORBsYGv9"
+    }
+  },
+  "entitlementName": "5c7575a4aeb14f5f9659391380720f68",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "37e8a315d8e540c1ab55471d0d718de8",
+      "appId": "09ddd9a101564558a75741a87d8eb2d1",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Strategy First",
+  "developerId": "o-a3vefcg43bn6j4lwc7qs8n5y38jm7k",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "67d0e5ddc3bb4e4984bb5b965f6ac146",
+  "title": "blackchocolateGeneralAudience",
+  "description": "blackchocolateGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "65d31d60510a49629a0b52e93da8416a",
+  "status": "ACTIVE",
+  "creationDate": "2021-05-19T16:52:59.416Z",
+  "lastModifiedDate": "2021-06-01T15:05:40.357Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "67d0e5ddc3bb4e4984bb5b965f6ac146",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "No More Robots",
+  "developerId": "o-236t9erksuklvbpwrddx5953wndtps",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

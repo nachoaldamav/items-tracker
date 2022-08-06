@@ -1,0 +1,38 @@
+{
+  "id": "0059dc563fb048348e54d17cd565b2d1",
+  "title": "SalamiPrePurchaseAudience",
+  "description": "SalamiPrePurchaseAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "15cb739316ba44ed87878349d10b3ffc",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-19T02:27:06.057Z",
+  "lastModifiedDate": "2021-07-08T07:57:34.699Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0059dc563fb048348e54d17cd565b2d1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "M2H",
+  "developerId": "o-24qwdf7zppb3geqq3b952f26lkp7rs",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

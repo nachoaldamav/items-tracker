@@ -1,0 +1,50 @@
+{
+  "id": "4bafecedef684499b194126262eddedb",
+  "title": "BatfishStaging",
+  "description": "BatfishStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f2bfff793b224f6190a394f461c9a4b8",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-16T03:43:47.688Z",
+  "lastModifiedDate": "2021-01-06T02:14:14.590Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BatfishStaging"
+    }
+  },
+  "entitlementName": "4bafecedef684499b194126262eddedb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "77a466defada4aa4966d11ae06dfe405",
+      "appId": "BatfishStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "LCG Entertainment, Inc.",
+  "developerId": "o-w6l7l9e6c93j85x29twne9ae6su4jt",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

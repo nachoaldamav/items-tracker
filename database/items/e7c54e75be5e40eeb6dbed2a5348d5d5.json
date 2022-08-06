@@ -1,0 +1,36 @@
+{
+  "id": "e7c54e75be5e40eeb6dbed2a5348d5d5",
+  "title": "RheniumDLCAudience",
+  "description": "RheniumDLCAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "f672c20984f04f69936e6057feefe3d1",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-15T17:15:02.077Z",
+  "lastModifiedDate": "2021-02-18T19:55:19.041Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e7c54e75be5e40eeb6dbed2a5348d5d5",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Failbetter Games",
+  "developerId": "o-rtt3u6nfx2dlvv3zuwr53utk9gjz82",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,53 @@
+{
+  "id": "ab108ca5a6294a409f1f1ab9f68f49af",
+  "title": "GingersnapsStaging",
+  "description": "GingersnapsStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6ad92d14cc544743831d4f70c964d39d",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-27T11:50:50.126Z",
+  "lastModifiedDate": "2020-10-27T12:05:12.280Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GingersnapsStaging"
+    }
+  },
+  "entitlementName": "ab108ca5a6294a409f1f1ab9f68f49af",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3347832aada94ee1906cf892a91d2a29",
+      "appId": "dc901710e59540f39afdc62395db8489",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-27T11:59:31.969Z"
+    }
+  ],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

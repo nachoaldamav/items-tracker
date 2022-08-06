@@ -1,0 +1,53 @@
+{
+  "id": "65b36f1a9baa4b9cbb4c5cce1453088a",
+  "title": "BittersweetStaging",
+  "description": "BittersweetStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3a1067df83654812b976101174e1904f",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-27T23:08:48.948Z",
+  "lastModifiedDate": "2021-06-17T14:41:52.523Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BittersweetStaging"
+    }
+  },
+  "entitlementName": "65b36f1a9baa4b9cbb4c5cce1453088a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "770490330b274d48ab910763ec165834",
+      "appId": "cb5a6814b3a34b85b3cab820591ed3ee",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Mechanistry",
+  "developerId": "o-vcy3rzdtqnpfgccjv53jv8zj2c5xb5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

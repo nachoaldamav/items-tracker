@@ -1,0 +1,33 @@
+{
+  "id": "d575615ab1264ae98f622b703650ef06",
+  "title": "DevPyriteAudience",
+  "description": "DevPyriteAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "bf333e6236914222a95a536389c05813",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-27T16:51:57.759Z",
+  "lastModifiedDate": "2022-06-07T20:41:28.169Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d575615ab1264ae98f622b703650ef06",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "SEGA",
+  "developerId": "o-yqy54tnq77et5vf5dtpvz8czyahm2y",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

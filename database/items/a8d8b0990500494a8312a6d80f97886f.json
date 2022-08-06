@@ -1,0 +1,63 @@
+{
+  "id": "a8d8b0990500494a8312a6d80f97886f",
+  "title": "Flatout 2",
+  "description": "Flatout 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c723c10fb4a34df5b505bd97c85be76b/flatout-2-offer-1lbbt.png",
+      "md5": "d9fa458035d6267dda97f280514b6c03",
+      "width": 2560,
+      "height": 1440,
+      "size": 965139,
+      "uploadedDate": "2022-07-02T01:35:51.474Z",
+      "alt": "Flatout 2 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c723c10fb4a34df5b505bd97c85be76b/download-flatout-2-offer-14etp.png",
+      "md5": "32af23eb7a005a830c335ebc7606ecad",
+      "width": 1200,
+      "height": 1600,
+      "size": 1271434,
+      "uploadedDate": "2022-07-02T01:35:53.599Z",
+      "alt": "Download Flatout 2 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "04aa210636b34e4181d617e015cb82b4",
+  "status": "ACTIVE",
+  "creationDate": "2022-08-05T22:18:56.102Z",
+  "lastModifiedDate": "2022-08-05T22:18:56.102Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Flatout2zRpM8"
+    }
+  },
+  "entitlementName": "a8d8b0990500494a8312a6d80f97886f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "50dfdb89f0de4c60b7a1dae657a0f417",
+      "appId": "9470e4a449ca484cbe40838211a8244c",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Strategy First",
+  "developerId": "o-a3vefcg43bn6j4lwc7qs8n5y38jm7k",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

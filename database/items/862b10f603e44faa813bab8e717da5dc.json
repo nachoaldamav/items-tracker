@@ -1,0 +1,59 @@
+{
+  "id": "862b10f603e44faa813bab8e717da5dc",
+  "title": "StrontiumStaging",
+  "description": "StrontiumStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7e1b3a8e19c949c0bfaed0424a8c4bb5",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-13T23:20:29.727Z",
+  "lastModifiedDate": "2021-05-06T15:29:56.965Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Twirlbound/Pine/saves/  "
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "StrontiumStaging"
+    }
+  },
+  "entitlementName": "862b10f603e44faa813bab8e717da5dc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2b0a802269634ba3ba6d823ce7c57176",
+      "appId": "740db4f870db4b59adc6049671fd8df1",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-01-13T23:53:58.397Z"
+    }
+  ],
+  "developer": "Kongregate",
+  "developerId": "o-ztdpxjrm7lyemkjl4967l76k4vzxfr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,99 @@
+{
+  "id": "1708848cdb2842d2bc2ce3b536b26b0d",
+  "title": "HUMANKIND™",
+  "description": "HUMANKIND™",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/02c14a01b7044db98de3f3a10813a42e/EPIC_Portrait (1)_1200x1600-09a5926c5a90d8a147f44a0bd4f4c4bb",
+      "md5": "09a5926c5a90d8a147f44a0bd4f4c4bb",
+      "width": 1200,
+      "height": 1600,
+      "size": 2834224,
+      "uploadedDate": "2022-07-28T13:59:14.399Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/undefined",
+      "md5": "a3f6ff597003d431c9296d6e74017890",
+      "width": 2560,
+      "height": 1440,
+      "size": 5605072,
+      "uploadedDate": "2022-07-28T13:59:20.027Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "02c14a01b7044db98de3f3a10813a42e",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-08T17:30:29.527Z",
+  "lastModifiedDate": "2022-07-28T14:00:10.535Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/Humankind/Save Files/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "500"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HUMANKIND"
+    }
+  },
+  "entitlementName": "1708848cdb2842d2bc2ce3b536b26b0d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "894e305416544d2fb80f327ef244c1f7",
+      "appId": "5fc579fbef6a4bf99171861b68b8fcb2",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-10-13T00:00:00.000Z"
+    }
+  ],
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "(egstore && sega_of_europe)"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi456749QdWl8Kb50KKN4N4r7XW7qc",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

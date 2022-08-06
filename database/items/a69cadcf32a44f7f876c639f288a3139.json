@@ -1,0 +1,67 @@
+{
+  "id": "a69cadcf32a44f7f876c639f288a3139",
+  "title": "Clouzy",
+  "description": "Clouzy",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/fd18179f78f24419b4368fd1cd9706bf/clouzy-offer-czpgr.jpg",
+      "md5": "278f31a5000cfe0b1c6a40ac58d368b1",
+      "width": 2560,
+      "height": 1440,
+      "size": 987641,
+      "uploadedDate": "2021-12-09T20:24:49.080Z",
+      "alt": "Clouzy Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/fd18179f78f24419b4368fd1cd9706bf/download-clouzy-offer-fdebg.jpg",
+      "md5": "b79f0a46ce49a11469326cea16055d44",
+      "width": 1200,
+      "height": 1600,
+      "size": 982276,
+      "uploadedDate": "2021-12-09T20:24:49.195Z",
+      "alt": "Download Clouzy Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3ea5e15881be44bda09a0706e51d94ba",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-23T19:35:38.058Z",
+  "lastModifiedDate": "2022-06-02T12:26:30.215Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Clouzy/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Clouzyllljk"
+    }
+  },
+  "entitlementName": "a69cadcf32a44f7f876c639f288a3139",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "902c48e1d34245d193460a729a08b1d7",
+      "appId": "24fdc91eb57c451693a5e83843681383",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Freedom Games",
+  "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

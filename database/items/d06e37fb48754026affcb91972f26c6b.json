@@ -1,0 +1,67 @@
+{
+  "id": "d06e37fb48754026affcb91972f26c6b",
+  "title": "Imagine Earth",
+  "description": "Imagine Earth",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a76d1beb25164caaa15b39c1ff595dc9/download-imagine-earth-offer-n0ohs.jpg",
+      "md5": "2e559bf3596599256e382556dd5761d9",
+      "width": 1200,
+      "height": 1600,
+      "size": 1454864,
+      "uploadedDate": "2022-02-18T20:25:56.578Z",
+      "alt": "Download Imagine Earth Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a76d1beb25164caaa15b39c1ff595dc9/imagine-earth-offer-ri7dk.jpg",
+      "md5": "2c53ccbf12f4ddb473cbfd4bf72d5609",
+      "width": 2560,
+      "height": 1440,
+      "size": 2147655,
+      "uploadedDate": "2022-02-18T20:48:29.981Z",
+      "alt": "Imagine Earth Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "95cda0d0b9124cc790f3893ac41cc29a",
+  "status": "ACTIVE",
+  "creationDate": "2022-04-26T15:28:05.747Z",
+  "lastModifiedDate": "2022-06-02T12:25:18.120Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/ImagineEarth/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ImagineEarth"
+    }
+  },
+  "entitlementName": "d06e37fb48754026affcb91972f26c6b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7736b9ec9baf48abb4a29635b2663c8a",
+      "appId": "7de3937178574ef9b045a1491fa7eff3",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Serious Brothers",
+  "developerId": "o-qpk5h4g59syqscfccpds75svt39f55",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

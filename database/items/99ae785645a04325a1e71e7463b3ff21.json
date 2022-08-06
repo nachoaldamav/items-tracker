@@ -1,0 +1,60 @@
+{
+  "id": "99ae785645a04325a1e71e7463b3ff21",
+  "title": "FettuccineStaging",
+  "description": "FettuccineStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6da57ad658b146ca8caf15b3434c836e",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-03T22:38:17.382Z",
+  "lastModifiedDate": "2021-03-15T16:06:13.738Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Over The Moon/TheFallPart2Unbound/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "TheFallPart2SavedData.txt"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FettuccineStaging"
+    }
+  },
+  "entitlementName": "99ae785645a04325a1e71e7463b3ff21",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e9c0b670b5c74f17991cb52d1f00465a",
+      "appId": "d0da1c5d11fe4998b1191628ab3cb16f",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-03T00:00:00.000Z"
+    }
+  ],
+  "developer": "Over the Moon Games",
+  "developerId": "o-ft7qxhfh9byrlh33kw6k54vy8989jd",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

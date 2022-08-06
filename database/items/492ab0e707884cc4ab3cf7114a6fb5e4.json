@@ -1,0 +1,63 @@
+{
+  "id": "492ab0e707884cc4ab3cf7114a6fb5e4",
+  "title": "SYMMETRY",
+  "description": "SYMMETRY",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/12979c6c16ec4c6a8d7735b4a821c443/symmetry-offer-1tgcn.png",
+      "md5": "739fcf2877c2277f420079e3541e435e",
+      "width": 2560,
+      "height": 1440,
+      "size": 280953,
+      "uploadedDate": "2022-05-06T12:09:17.665Z",
+      "alt": "SYMMETRY Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/12979c6c16ec4c6a8d7735b4a821c443/download-symmetry-offer-sdp46.png",
+      "md5": "c45519353587783fe931692643dbc1e0",
+      "width": 1200,
+      "height": 1600,
+      "size": 562679,
+      "uploadedDate": "2022-05-06T12:09:21.202Z",
+      "alt": "Download SYMMETRY Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9a85a766e38c4013b9e33b225f83ae98",
+  "status": "ACTIVE",
+  "creationDate": "2022-02-01T20:48:23.555Z",
+  "lastModifiedDate": "2022-05-18T19:33:27.396Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SYMMETRYKL5Bm"
+    }
+  },
+  "entitlementName": "492ab0e707884cc4ab3cf7114a6fb5e4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6b4263ea3c8f49488802f974349a9bdb",
+      "appId": "f140a7ed4f8141298cb024b12f70feb3",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "IMGN.PRO",
+  "developerId": "o-7t84vr8cmln7m4yhuw2p2kb4zw5wd3",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

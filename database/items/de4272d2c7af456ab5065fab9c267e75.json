@@ -1,0 +1,58 @@
+{
+  "id": "de4272d2c7af456ab5065fab9c267e75",
+  "title": "CuriumStaging",
+  "description": "CuriumStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ae373893881044d2bf26d6f8363a120e",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-18T22:32:13.481Z",
+  "lastModifiedDate": "2022-03-30T18:37:57.449Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Supraland/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CuriumStaging"
+    }
+  },
+  "entitlementName": "de4272d2c7af456ab5065fab9c267e75",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b282195279714493afb35ed52a539ea1",
+      "appId": "37e95e48b51843519bc5601ffcd1c1e7",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-02-18T00:00:00.000Z"
+    }
+  ],
+  "developer": "Supra Games",
+  "developerId": "o-gfmarfnj9jh4jucwvuubpjv4nwb66x",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567ynLXRpiOq356xo0zfaGHOXnk",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

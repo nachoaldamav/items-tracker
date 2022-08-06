@@ -1,0 +1,34 @@
+{
+  "id": "b4488fb1f6e5475f9c961b4abadf0ad8",
+  "title": "DevDolcelatteAudience",
+  "description": "DevDolcelatteAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "e35a5826457c4c98aada2ffad7b5ea5d",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-16T22:13:14.692Z",
+  "lastModifiedDate": "2021-05-06T14:08:29.537Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b4488fb1f6e5475f9c961b4abadf0ad8",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Mi'pu'mi Games GmbH",
+  "developerId": "o-3e6wy7snyw5hqy5mdmkjcq7zbx65yf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

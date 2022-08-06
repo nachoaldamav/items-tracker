@@ -1,0 +1,48 @@
+{
+  "id": "f502d66f7e304ea1a247a23f3ff93226",
+  "title": "Spellbreak Playtest Audience",
+  "description": "Spellbreak Playtest Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/newt/item/esrb-t-160x216-7db0693ecf5f1d8991f3b6117197c119.png",
+      "md5": "7db0693ecf5f1d8991f3b6117197c119",
+      "width": 160,
+      "height": 216,
+      "size": 3976,
+      "uploadedDate": "2020-09-03T14:24:37.284Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "newt",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-15T14:14:33.017Z",
+  "lastModifiedDate": "2020-09-15T14:15:15.124Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f502d66f7e304ea1a247a23f3ff93226",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

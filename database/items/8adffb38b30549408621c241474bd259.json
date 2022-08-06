@@ -1,0 +1,79 @@
+{
+  "id": "8adffb38b30549408621c241474bd259",
+  "title": "Dauntless Experimental",
+  "description": "Dauntless Experimental",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/jackal/item/Epic_DauntlessExperimental_FullGame_PortraitOffer-860x1148-ebc228d3328ed383e4b6b62fd676b49c.jpg",
+      "md5": "ebc228d3328ed383e4b6b62fd676b49c",
+      "width": 860,
+      "height": 1148,
+      "size": 219366,
+      "uploadedDate": "2020-08-12T15:16:46.273Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/jackal/item/Epic_DauntlessExperimental_FullGame_LandscapeOffer-2560x1440-621fa28976e0717322ec11de83e8f2c3.jpg",
+      "md5": "621fa28976e0717322ec11de83e8f2c3",
+      "width": 2560,
+      "height": 1440,
+      "size": 726924,
+      "uploadedDate": "2020-08-12T17:46:17.192Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "jackal",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-23T12:55:06.168Z",
+  "lastModifiedDate": "2021-12-02T17:58:03.686Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "jackal"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "JackalExperimental"
+    }
+  },
+  "entitlementName": "8adffb38b30549408621c241474bd259",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b94f323e8e054707b77087854be7e21d",
+      "appId": "65397974e2b8402faa4ca17573f98137",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-06T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

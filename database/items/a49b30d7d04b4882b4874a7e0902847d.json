@@ -1,0 +1,99 @@
+{
+  "id": "a49b30d7d04b4882b4874a7e0902847d",
+  "title": "For Honor Trial",
+  "description": "For Honor Trial",
+  "longDescription": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/sundrop/FH_EPIC_3840x2160_UK_3840x2160-615145eebe9586b0e958da8722202f7a",
+      "md5": "615145eebe9586b0e958da8722202f7a",
+      "width": 3840,
+      "height": 2160,
+      "size": 2448497,
+      "uploadedDate": "2022-07-27T09:46:03.171Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/sundrop/FH_EPIC_1200x1600_UK_1200x1600-ffeb2ae4a8a4bc4fd7329bc51e0afdf0",
+      "md5": "ffeb2ae4a8a4bc4fd7329bc51e0afdf0",
+      "width": 1200,
+      "height": 1600,
+      "size": 672569,
+      "uploadedDate": "2022-07-27T09:46:11.918Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "sundrop",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-20T20:15:05.717Z",
+  "lastModifiedDate": "2022-07-27T09:46:17.866Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "sundrop"
+    },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "b3599191f9aa46b49f95ca315071bec1"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ForHonorTrial"
+    }
+  },
+  "entitlementName": "a49b30d7d04b4882b4874a7e0902847d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "da6627c20e0242b1b62932b1b6154ffb",
+      "appId": "94ecb38f12fa4f01a8e10e16be5734c2",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-07-20T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

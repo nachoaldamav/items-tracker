@@ -1,0 +1,34 @@
+{
+  "id": "22a1c1283f0d4fa4a7340969b17d7338",
+  "title": "DevRheniumAudience",
+  "description": "DevRheniumAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "f672c20984f04f69936e6057feefe3d1",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-11T01:21:23.303Z",
+  "lastModifiedDate": "2021-02-25T14:34:56.909Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "22a1c1283f0d4fa4a7340969b17d7338",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Failbetter Games",
+  "developerId": "o-rtt3u6nfx2dlvv3zuwr53utk9gjz82",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

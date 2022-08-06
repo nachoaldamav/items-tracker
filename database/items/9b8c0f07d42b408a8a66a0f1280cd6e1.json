@@ -1,0 +1,49 @@
+{
+  "id": "9b8c0f07d42b408a8a66a0f1280cd6e1",
+  "title": "Emerald Pre-Purchase Audience",
+  "description": "Emerald Pre-Purchase Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/a69c5a82682c43148e4e2542fe2fcd0f/item/ESRB_T_RuinedKing-398x190-175df968ffd337a954724151b231e6a3.jpg",
+      "md5": "175df968ffd337a954724151b231e6a3",
+      "width": 398,
+      "height": 190,
+      "size": 13794,
+      "uploadedDate": "2020-10-26T19:59:08.675Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "a69c5a82682c43148e4e2542fe2fcd0f",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-20T13:14:09.123Z",
+  "lastModifiedDate": "2021-12-15T21:20:44.144Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9b8c0f07d42b408a8a66a0f1280cd6e1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Riot Forge",
+  "developerId": "o-ch65axjcvgpsutlhlcyvqkx3fkmk44",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

@@ -1,0 +1,64 @@
+{
+  "id": "1737b72081d443c2916134b8f5ecd678",
+  "title": "Terraforming Mars",
+  "description": "Terraforming Mars",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5199b206e46947ebad5e5c282e95776f/terraforming-mars-offer-1nel7.jpg",
+      "md5": "711f731c9cddce8e663652633a02fe3b",
+      "width": 2560,
+      "height": 1440,
+      "size": 331524,
+      "uploadedDate": "2022-03-27T21:23:09.808Z",
+      "alt": "Terraforming Mars Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5199b206e46947ebad5e5c282e95776f/download-terraforming-mars-offer-1m92c.jpg",
+      "md5": "04ddccadc2b84d3a5a0d6aebd1019598",
+      "width": 1200,
+      "height": 1600,
+      "size": 251025,
+      "uploadedDate": "2022-03-27T21:23:09.565Z",
+      "alt": "Download Terraforming Mars Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "25d726130e6c4fe68f88e71933bda955",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-21T17:52:02.101Z",
+  "lastModifiedDate": "2022-05-02T15:42:16.272Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TerraformingMars"
+    }
+  },
+  "entitlementName": "1737b72081d443c2916134b8f5ecd678",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8900d2f9825448aab86cdc16df75e0cb",
+      "appId": "582c8940f499450d9033840efe5937a6",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Asmodee",
+  "developerId": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+  "endOfSupport": false,
+  "applicationId": "fghi4567IzEcSfmM6sTkjd11UruvCklB",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

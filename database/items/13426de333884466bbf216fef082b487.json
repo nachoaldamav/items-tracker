@@ -1,0 +1,74 @@
+{
+  "id": "13426de333884466bbf216fef082b487",
+  "title": "LasagneStaging",
+  "description": "LasagneStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BottomPortrait_1200x1600-e8b1cf443e20f95090f4763ef365827c",
+      "md5": "e8b1cf443e20f95090f4763ef365827c",
+      "width": 1200,
+      "height": 1600,
+      "size": 1035634,
+      "uploadedDate": "2021-06-09T17:13:56.776Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TopLandscape_2560x1440-09a0d962c7da10388da8a968cd68e07a",
+      "md5": "09a0d962c7da10388da8a968cd68e07a",
+      "width": 2560,
+      "height": 1440,
+      "size": 1540017,
+      "uploadedDate": "2021-06-09T17:14:11.523Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "757a437095f549baa72b2a1100ead743",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-02T13:42:14.730Z",
+  "lastModifiedDate": "2021-06-09T17:14:15.783Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LasagneStaging"
+    }
+  },
+  "entitlementName": "13426de333884466bbf216fef082b487",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6c1e1057b5c54d2ea7c5b840b3cc7672",
+      "appId": "1ddc6a4936154373802b3853f2d0321c",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-02T13:43:56.405Z"
+    }
+  ],
+  "developer": "Epic Games Publishing",
+  "developerId": "o-e2xslu4mlqqaavphzl6927vtjqamhj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

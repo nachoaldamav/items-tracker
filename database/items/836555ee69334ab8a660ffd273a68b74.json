@@ -1,0 +1,75 @@
+{
+  "id": "836555ee69334ab8a660ffd273a68b74",
+  "title": "A Tale of Paper - Refolded Edition",
+  "description": "A Tale of Paper - Refolded Edition",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/10e25633ab924acc9cf048bc1cf64d05/a-tale-of-paper--refolded-offer-18ut5.jpg",
+      "md5": "d01aed5d214bec2e3fb86ccb9666e306",
+      "width": 2560,
+      "height": 1440,
+      "size": 676653,
+      "uploadedDate": "2022-04-27T22:17:14.248Z",
+      "alt": "A Tale of Paper - Refolded Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/10e25633ab924acc9cf048bc1cf64d05/download-a-tale-of-paper--refolded-offer-tdbsy.jpg",
+      "md5": "c639d521f2a88508670327ee3c147d5d",
+      "width": 1200,
+      "height": 1600,
+      "size": 457260,
+      "uploadedDate": "2022-04-27T22:17:13.303Z",
+      "alt": "Download A Tale of Paper - Refolded Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4374bc821f524407b18a891da624ef3f",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-07T18:39:11.296Z",
+  "lastModifiedDate": "2022-05-03T19:00:15.361Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/prototipo/Saved/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/prototipo/Saved/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.ini,*.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ATaleofPaperRefolded"
+    }
+  },
+  "entitlementName": "836555ee69334ab8a660ffd273a68b74",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "279a813619ae4e34a51b3aabfcdc6678",
+      "appId": "ef06d72e1cb84417b7393abd02fbae0b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Digerati",
+  "developerId": "o-w3y4zvzsv727kbguuzyz2zg46xdafs",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

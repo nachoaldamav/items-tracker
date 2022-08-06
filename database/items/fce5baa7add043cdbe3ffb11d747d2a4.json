@@ -1,0 +1,73 @@
+{
+  "id": "fce5baa7add043cdbe3ffb11d747d2a4",
+  "title": "BrowniePreReleaseQA",
+  "description": "BrowniePreReleaseQA",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "435aaec1220447efbcfeb4f2abeb1027",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-17T17:25:33.202Z",
+  "lastModifiedDate": "2020-08-17T19:28:36.656Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "435aaec1220447efbcfeb4f2abeb1027"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BrowniePreReleaseQA"
+    }
+  },
+  "entitlementName": "fce5baa7add043cdbe3ffb11d747d2a4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "50fed81e4b1a4e9dbd7decb54f3d41c5",
+      "appId": "9d0ef763933b4d00b6929595cf1584cc",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-07-16T00:00:00.000Z"
+    }
+  ],
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

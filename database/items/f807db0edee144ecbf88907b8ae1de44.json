@@ -1,0 +1,61 @@
+{
+  "id": "f807db0edee144ecbf88907b8ae1de44",
+  "title": "OvenbirdDev",
+  "description": "OvenbirdDev",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d759128018124dcabb1fbee9bb28e178",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-17T16:18:04.459Z",
+  "lastModifiedDate": "2021-03-15T10:54:22.838Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Surviving Mars/Save/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../roaming/Surviving Mars/Save/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OvenbirdDev"
+    }
+  },
+  "entitlementName": "f807db0edee144ecbf88907b8ae1de44",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e5cec725a96f45a0b21360dc5ac3e87a",
+      "appId": "7fb9e51277c4417c89a290e9c20c4a6c",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-10-01T00:00:00.000Z"
+    }
+  ],
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

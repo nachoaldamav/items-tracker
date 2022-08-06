@@ -1,0 +1,93 @@
+{
+  "id": "967453132f91424d8619a8d473dad436",
+  "title": "Alien: Isolation - Trauma",
+  "description": "Alien: Isolation - Trauma",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/traumaDLC-1920x1080-405c9a8109b691c711244d497f66e9e5.jfif",
+      "md5": "405c9a8109b691c711244d497f66e9e5",
+      "width": 1920,
+      "height": 1080,
+      "size": 340902,
+      "uploadedDate": "2020-12-16T17:57:28.737Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/traumaDLCportrait-1200x1600-de0a6c5aa99ba7c549ba7f8fdec58421.jfif",
+      "md5": "de0a6c5aa99ba7c549ba7f8fdec58421",
+      "width": 1200,
+      "height": 1600,
+      "size": 346584,
+      "uploadedDate": "2020-12-17T17:05:00.056Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "df37f065c3f14eadbf011177396e2966",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-26T17:25:41.977Z",
+  "lastModifiedDate": "2020-12-18T16:36:46.496Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "df37f065c3f14eadbf011177396e2966"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Trauma"
+    }
+  },
+  "entitlementName": "967453132f91424d8619a8d473dad436",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "67ef59d435ed4b0a9a305b31f0c7f36b",
+      "appId": "7194bb170c7741bb9f5bad721593f1a5",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567WncMSw97kolM0Ff1UBPqwsE7",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

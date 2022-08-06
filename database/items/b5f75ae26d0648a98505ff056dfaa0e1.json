@@ -1,0 +1,34 @@
+{
+  "id": "b5f75ae26d0648a98505ff056dfaa0e1",
+  "title": "DevHotPinkAudience",
+  "description": "DevHotPinkAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "8410292c5be74572bbcc811a3a7ec0c5",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-23T19:27:02.905Z",
+  "lastModifiedDate": "2021-12-06T07:25:28.640Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b5f75ae26d0648a98505ff056dfaa0e1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "PatheaGames",
+  "developerId": "o-7ukp2mejsacwbpdud8qmv2npsqwbt4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

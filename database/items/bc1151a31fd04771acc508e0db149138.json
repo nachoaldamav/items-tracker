@@ -1,0 +1,102 @@
+{
+  "id": "bc1151a31fd04771acc508e0db149138",
+  "title": "Dream Engines: Nomad Cities",
+  "description": "Dream Engines: Nomad Cities",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DreamEnginesNomadCities_Suncrash_S1_2560x1440-035cb1af5ebb996dd77e4cdb4c49b918",
+      "md5": "035cb1af5ebb996dd77e4cdb4c49b918",
+      "width": 2560,
+      "height": 1440,
+      "size": 816307,
+      "uploadedDate": "2021-07-13T21:32:17.745Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DreamEnginesNomadCities_Suncrash_S2_1200x1600-905b076841dbb8f6878061f54b16cea5",
+      "md5": "905b076841dbb8f6878061f54b16cea5",
+      "width": 1200,
+      "height": 1600,
+      "size": 483941,
+      "uploadedDate": "2021-07-13T21:32:20.174Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "94556f7a788243108635913cf8216a10",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-14T21:18:11.117Z",
+  "lastModifiedDate": "2021-07-14T13:19:18.825Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "94556f7a788243108635913cf8216a10"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Suncrash/Dream Engines/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.game"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DreamEngines"
+    }
+  },
+  "entitlementName": "bc1151a31fd04771acc508e0db149138",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4c20db5f0c11400d9158172d0b476f84",
+      "appId": "eb3bb7636777443cbf9403eaea97c58a",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-14T00:00:00.000Z"
+    }
+  ],
+  "developer": "Suncrash LTD",
+  "developerId": "o-r33h965zxp3mrmyzedrf65hn6cjevk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

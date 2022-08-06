@@ -1,0 +1,53 @@
+{
+  "id": "c7a3c72a2de247f883561323c7b17533",
+  "title": "ManicottiStaging",
+  "description": "ManicottiStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2362b692c2574b4ea2184540ac8c5c10",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-08T23:57:31.349Z",
+  "lastModifiedDate": "2021-03-26T14:46:34.104Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ManicottiStaging"
+    }
+  },
+  "entitlementName": "c7a3c72a2de247f883561323c7b17533",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ab8b18df19ee4c0ba8085faa2442ba4b",
+      "appId": "0e643fca5f214cecbdfd7e6550e19785",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-22T00:00:00.000Z"
+    }
+  ],
+  "developer": "Maximum Games",
+  "developerId": "o-a6k23slslegbhbwtel4qx423kuzc3y",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567sNeCIxoFSRsHbRmeAjpi5J53",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

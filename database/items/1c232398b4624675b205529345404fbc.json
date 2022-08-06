@@ -1,0 +1,53 @@
+{
+  "id": "1c232398b4624675b205529345404fbc",
+  "title": "BitterLimeStaging",
+  "description": "BitterLimeStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2e09c1d223094f3798f63873548c9454",
+  "status": "ACTIVE",
+  "creationDate": "2021-05-14T00:34:34.690Z",
+  "lastModifiedDate": "2021-05-14T00:49:02.612Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BitterLimeStaging"
+    }
+  },
+  "entitlementName": "1c232398b4624675b205529345404fbc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "108801324d474098bbafabfbc69596bf",
+      "appId": "744cd3f7f8bd4a3aa9f2ac73416e49be",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Awaceb",
+  "developerId": "o-b9a47j63amncr26matvdcdbp9uhpve",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

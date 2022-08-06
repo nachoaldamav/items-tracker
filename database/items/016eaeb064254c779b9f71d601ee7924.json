@@ -1,0 +1,52 @@
+{
+  "id": "016eaeb064254c779b9f71d601ee7924",
+  "title": "RutheniumStaging",
+  "description": "RutheniumStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0114ea1a5d674c6b8c99015e6c994aff",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-22T20:20:19.372Z",
+  "lastModifiedDate": "2021-03-04T15:23:41.950Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RutheniumStaging"
+    }
+  },
+  "entitlementName": "016eaeb064254c779b9f71d601ee7924",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2aa88b9c97ea4f409fc6c4d683eaf96b",
+      "appId": "a39a640056464a28bcc264596b8d0848",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-02-22T20:28:45.645Z"
+    }
+  ],
+  "developer": "Raw Fury",
+  "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

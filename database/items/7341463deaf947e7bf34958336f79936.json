@@ -1,0 +1,93 @@
+{
+  "id": "7341463deaf947e7bf34958336f79936",
+  "title": "Lost Words: Beyond the Page",
+  "description": "Lost Words: Beyond the Page",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/2362b692c2574b4ea2184540ac8c5c10/item/EGS_LostWordsBeyondthePage_SketchbookGamesFourthState_S1-2560x1440-b9c759ad95b1b97338890d871cfff9dd.jpg",
+      "md5": "b9c759ad95b1b97338890d871cfff9dd",
+      "width": 2560,
+      "height": 1440,
+      "size": 465650,
+      "uploadedDate": "2021-03-25T18:58:02.263Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/2362b692c2574b4ea2184540ac8c5c10/item/EGS_LostWordsBeyondthePage_SketchbookGamesFourthState_S2-1200x1600-0bce0b76f06e6c6b8df74b942f7e8de1.jpg",
+      "md5": "0bce0b76f06e6c6b8df74b942f7e8de1",
+      "width": 1200,
+      "height": 1600,
+      "size": 317176,
+      "uploadedDate": "2021-03-25T18:58:06.323Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2362b692c2574b4ea2184540ac8c5c10",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-08T23:57:31.075Z",
+  "lastModifiedDate": "2021-04-07T19:42:04.445Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "2362b692c2574b4ea2184540ac8c5c10"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LostWordsBeyondthePage"
+    }
+  },
+  "entitlementName": "7341463deaf947e7bf34958336f79936",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "326538aeeecf4561a86d942be38b646b",
+      "appId": "1d114dfdf40c4b5695c5d2cf6d4b590b",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-22T00:00:00.000Z"
+    }
+  ],
+  "developer": "Maximum Games",
+  "developerId": "o-a6k23slslegbhbwtel4qx423kuzc3y",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567sNeCIxoFSRsHbRmeAjpi5J53",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

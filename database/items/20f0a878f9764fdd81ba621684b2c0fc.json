@@ -1,0 +1,72 @@
+{
+  "id": "20f0a878f9764fdd81ba621684b2c0fc",
+  "title": "MinDebug",
+  "description": "MinDebug",
+  "longDescription": "MinDebug",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/min/item/Hades_Post_BigBad-2580x1450-2e83205956fb71112a6cdeaa937fded2.jpg",
+      "md5": "2e83205956fb71112a6cdeaa937fded2",
+      "width": 2580,
+      "height": 1450,
+      "size": 240642,
+      "uploadedDate": "2019-08-02T20:40:01.265Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/min/item/Hades_Logo_EA_Update_BigBad-2650x1166-a48ab94b04d9fff1480a9f2bede3f21d.png",
+      "md5": "a48ab94b04d9fff1480a9f2bede3f21d",
+      "width": 2650,
+      "height": 1166,
+      "size": 115405,
+      "uploadedDate": "2019-08-02T20:40:10.409Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "min",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-02T14:55:47.781Z",
+  "lastModifiedDate": "2020-09-17T16:52:24.839Z",
+  "customAttributes": {
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MinDebug"
+    }
+  },
+  "entitlementName": "20f0a878f9764fdd81ba621684b2c0fc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ebe0866219fb405b943ee27083e8a080",
+      "appId": "MinDebug",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2019-01-02T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Supergiant Games LLC",
+  "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

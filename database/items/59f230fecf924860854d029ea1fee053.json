@@ -1,0 +1,67 @@
+{
+  "id": "59f230fecf924860854d029ea1fee053",
+  "title": "Trek to Yomi",
+  "description": "Trek to Yomi",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/fe8ac5534afd4a68b86dc4f3edb98fe3/trek-to-yomi-offer-1qkv4.png",
+      "md5": "678ab1ba46754a0b50c164749137b3d2",
+      "width": 2560,
+      "height": 1440,
+      "size": 2369881,
+      "uploadedDate": "2022-04-30T14:28:33.168Z",
+      "alt": "Trek to Yomi Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/fe8ac5534afd4a68b86dc4f3edb98fe3/download-trek-to-yomi-offer-1qmzd.png",
+      "md5": "36a0500b4237d413614b22799b5629e9",
+      "width": 1200,
+      "height": 1600,
+      "size": 1219121,
+      "uploadedDate": "2022-04-30T14:28:37.271Z",
+      "alt": "Download Trek to Yomi Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2d2a077b8b7f450299ecd7068256aec4",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-04T23:19:48.214Z",
+  "lastModifiedDate": "2022-06-02T12:24:11.946Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Trek to Yomi/Ronin/Saved/SaveGames/EGS/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TrektoYomi"
+    }
+  },
+  "entitlementName": "59f230fecf924860854d029ea1fee053",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f725b683e8474239abe081581255bc6f",
+      "appId": "4dfe86c3ca4541edb53d47f6e2e47d30",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

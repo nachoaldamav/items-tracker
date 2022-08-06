@@ -1,0 +1,71 @@
+{
+  "id": "8d3a441d38084b7ba76bc05ba2f138d2",
+  "title": "Smelter",
+  "description": "Smelter",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/41ca712a1d7e48d092cde3d4d0e97759/smelter-offer-1oama.jpg",
+      "md5": "1a00f885319e94856f6284b9af463a37",
+      "width": 2560,
+      "height": 1440,
+      "size": 2683442,
+      "uploadedDate": "2022-03-22T06:23:16.588Z",
+      "alt": "Smelter Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/41ca712a1d7e48d092cde3d4d0e97759/download-smelter-offer-qni9t.png",
+      "md5": "36bb4f6fe268d962f1e46dc9d8820b54",
+      "width": 1200,
+      "height": 1600,
+      "size": 2564485,
+      "uploadedDate": "2022-03-22T06:23:18.559Z",
+      "alt": "Download Smelter Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "acc5980b138144229ceaacdebb4cb054",
+  "status": "ACTIVE",
+  "creationDate": "2022-02-16T09:34:48.945Z",
+  "lastModifiedDate": "2022-04-26T22:21:38.867Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/XPlus Games/Smelter/{EpicID}/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "40"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Smelter"
+    }
+  },
+  "entitlementName": "8d3a441d38084b7ba76bc05ba2f138d2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ade74d817147406aa0f669c09d68a911",
+      "appId": "b1998f5e1d5949c08c46638dc326d2fe",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "DANGEN Entertainment",
+  "developerId": "o-q2thmxrkzmaxl69f7ql8qm65nruu8u",
+  "endOfSupport": false,
+  "applicationId": "fghi4567Qg6BV3BwcqYku4SPibhS2go2",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "760eb90396f94687a92178222cc27b66",
+  "title": "The Pale Beyond",
+  "description": "The Pale Beyond",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/180c0330a0df427aba7a538771dd40bd/the-pale-beyond-offer-9iy8p.jpg",
+      "md5": "9c3aec4ec1822b8c5213f2f9a8b56d18",
+      "width": 2560,
+      "height": 1440,
+      "size": 1562322,
+      "uploadedDate": "2022-04-26T04:44:20.052Z",
+      "alt": "The Pale Beyond Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/180c0330a0df427aba7a538771dd40bd/download-the-pale-beyond-offer-fbmxa.jpg",
+      "md5": "af3ec91ec651e48bb16670addbeb2212",
+      "width": 1200,
+      "height": 1600,
+      "size": 924415,
+      "uploadedDate": "2022-04-26T04:44:07.719Z",
+      "alt": "Download The Pale Beyond Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "50c67b0f3a8b44a5adcaabcfe2c499a9",
+  "status": "ACTIVE",
+  "creationDate": "2022-04-27T23:40:12.600Z",
+  "lastModifiedDate": "2022-06-02T12:24:34.238Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ThePaleBeyondtlADu"
+    }
+  },
+  "entitlementName": "760eb90396f94687a92178222cc27b66",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8e8f0a1352c343ffb3a1013948b32c64",
+      "appId": "d88910e8b06a4f0797119b5d2012fe2c",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Fellow Traveller",
+  "developerId": "o-22uq4lnmzc6kmlbbaf5gp8yvysnn3t",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

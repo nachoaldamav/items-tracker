@@ -1,0 +1,34 @@
+{
+  "id": "ed8ac55d60cc44c89377b8c59ba3b004",
+  "title": "AvocadoGeneralAudience",
+  "description": "AvocadoGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "315f40c8c7ae4f95ad7426f364a39194",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-12T14:02:11.917Z",
+  "lastModifiedDate": "2020-08-12T14:20:58.946Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ed8ac55d60cc44c89377b8c59ba3b004",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Hidden Leaf Studios",
+  "developerId": "o-a3s6znyqjjwdzbyzumkvna5lgghqfq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

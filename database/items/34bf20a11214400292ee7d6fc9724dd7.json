@@ -1,0 +1,34 @@
+{
+  "id": "34bf20a11214400292ee7d6fc9724dd7",
+  "title": "StrontiumGeneralAudience",
+  "description": "StrontiumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "7e1b3a8e19c949c0bfaed0424a8c4bb5",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-13T23:20:28.806Z",
+  "lastModifiedDate": "2021-04-29T14:24:55.892Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "34bf20a11214400292ee7d6fc9724dd7",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Kongregate",
+  "developerId": "o-ztdpxjrm7lyemkjl4967l76k4vzxfr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

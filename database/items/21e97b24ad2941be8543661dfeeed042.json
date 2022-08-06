@@ -1,0 +1,60 @@
+{
+  "id": "21e97b24ad2941be8543661dfeeed042",
+  "title": "vignotte Staging",
+  "description": "vignotte Staging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3ddd6a590da64e3686042d108968a6b2",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-19T22:47:07.186Z",
+  "lastModifiedDate": "2021-11-02T02:53:21.111Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/God of War/{EpicID}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "vignotteStaging"
+    }
+  },
+  "entitlementName": "21e97b24ad2941be8543661dfeeed042",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2fc0f9f8edff415896c76daef2f5b67e",
+      "appId": "d68f8f2c09fd46259b261818cdea50bc",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

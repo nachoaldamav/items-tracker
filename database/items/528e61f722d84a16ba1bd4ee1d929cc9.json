@@ -1,0 +1,94 @@
+{
+  "id": "528e61f722d84a16ba1bd4ee1d929cc9",
+  "title": "Scrapnaut",
+  "description": "Scrapnaut",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/c1edd23d035a4df0bbc419f2d0fbb40d/item/EGS_Scrapnaut_SpiffyBit_S1-2560x1440-941b8007bff1b9b8c7f8ab200f959027.jpg",
+      "md5": "941b8007bff1b9b8c7f8ab200f959027",
+      "width": 2560,
+      "height": 1440,
+      "size": 858395,
+      "uploadedDate": "2021-03-01T18:39:45.300Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/c1edd23d035a4df0bbc419f2d0fbb40d/item/EGS_Scrapnaut_SpiffyBit_S2-1200x1600-e8f87ff44ca47312cb017c455e3b51c0.jpg",
+      "md5": "e8f87ff44ca47312cb017c455e3b51c0",
+      "width": 1200,
+      "height": 1600,
+      "size": 490583,
+      "uploadedDate": "2021-03-01T18:39:59.098Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c1edd23d035a4df0bbc419f2d0fbb40d",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-18T17:09:41.069Z",
+  "lastModifiedDate": "2021-05-20T05:14:39.317Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "c1edd23d035a4df0bbc419f2d0fbb40d"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Scrapnaut"
+    }
+  },
+  "entitlementName": "528e61f722d84a16ba1bd4ee1d929cc9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4549c16077d24373ab2c352a86ecd500",
+      "appId": "ab292d6c40d44e15a49cb45e83f19454",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-02-18T00:00:00.000Z"
+    }
+  ],
+  "developer": "RockGame S.A.",
+  "developerId": "o-e6zbx28e9zzbxg5jvzh37a3p5j8kam",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567akjJInLmNkgi4JaeNxcbjmd6",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,73 @@
+{
+  "id": "a02bc669b7b94bac919dd60cb80c25a8",
+  "title": "Cloud Cutter",
+  "description": "Cloud Cutter",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0d31a5cd7e7b4e42baa616094faeb003/cloud-cutter-offer-fh0ny.png",
+      "md5": "c574a70a5808b5dab991493903bb1d4b",
+      "width": 2560,
+      "height": 1440,
+      "size": 3314370,
+      "uploadedDate": "2022-04-23T07:43:06.391Z",
+      "alt": "Cloud Cutter Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0d31a5cd7e7b4e42baa616094faeb003/download-cloud-cutter-offer-5kzd9.png",
+      "md5": "189349611246ef81a8ea452beb6025c9",
+      "width": 1200,
+      "height": 1600,
+      "size": 1741705,
+      "uploadedDate": "2022-04-23T07:43:05.811Z",
+      "alt": "Download Cloud Cutter Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3d7bb6d94a3141c6bff3c63290d979e2",
+  "status": "ACTIVE",
+  "creationDate": "2022-05-03T06:45:50.144Z",
+  "lastModifiedDate": "2022-06-02T12:24:43.667Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/CloudCutter/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CloudCutterGyMdZ"
+    }
+  },
+  "entitlementName": "a02bc669b7b94bac919dd60cb80c25a8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "67f9c468da4a4dd294d6135f155c0ea2",
+      "appId": "72f8637e34e047878f7a09a03eb28da2",
+      "platform": []
+    }
+  ],
+  "developer": "Just Two Ltd.",
+  "developerId": "o-rbctypdvdlvqsh4rbr9makmj8zbm6v",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

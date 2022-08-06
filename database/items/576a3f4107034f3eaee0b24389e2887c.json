@@ -1,0 +1,49 @@
+{
+  "id": "576a3f4107034f3eaee0b24389e2887c",
+  "title": "SundropTrialAudience",
+  "description": "SundropTrialAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/sundrop/item/For-Honor-Rating-842x485-0403999c9eaf5de174c21f42638305df.png",
+      "md5": "0403999c9eaf5de174c21f42638305df",
+      "width": 842,
+      "height": 485,
+      "size": 19647,
+      "uploadedDate": "2020-01-14T19:00:58.799Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "sundrop",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-20T20:16:55.163Z",
+  "lastModifiedDate": "2022-07-26T14:53:30.562Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "576a3f4107034f3eaee0b24389e2887c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

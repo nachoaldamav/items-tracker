@@ -1,0 +1,71 @@
+{
+  "id": "2bb8cd8fd959480c89aefab9d37cccd0",
+  "title": "Alchemist Adventure",
+  "description": "Alchemist Adventure",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8d73ed68db7042d48cfacaf3c9f057ea/alchemist-adventure-offer-1b7vi.jpg",
+      "md5": "c6ea510912c368ba0240a700c107d21d",
+      "width": 2560,
+      "height": 1440,
+      "size": 900959,
+      "uploadedDate": "2022-01-27T10:32:45.054Z",
+      "alt": "Alchemist Adventure Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8d73ed68db7042d48cfacaf3c9f057ea/download-alchemist-adventure-offer-hbcjo.jpg",
+      "md5": "f65cf112d231ed3ca3c91bb797e09efa",
+      "width": 1200,
+      "height": 1600,
+      "size": 464675,
+      "uploadedDate": "2022-01-27T10:32:47.894Z",
+      "alt": "Download Alchemist Adventure Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c473457eec2f4d31bd98bfc76551443b",
+  "status": "ACTIVE",
+  "creationDate": "2022-05-19T06:16:56.308Z",
+  "lastModifiedDate": "2022-06-02T12:26:06.322Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Bad Minions/Alchemist Adventure/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AlchemistAdventure9OGzF"
+    }
+  },
+  "entitlementName": "2bb8cd8fd959480c89aefab9d37cccd0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "95d20f455ae14460a908d484ed7aa775",
+      "appId": "5812b7a9cb074a16affbc6b31291811d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SUPER DOT COM LTD",
+  "developerId": "o-gpue2pju6udkz4r6b2z52lrswm9nb7",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

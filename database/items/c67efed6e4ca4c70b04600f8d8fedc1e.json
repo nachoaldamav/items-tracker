@@ -1,0 +1,53 @@
+{
+  "id": "c67efed6e4ca4c70b04600f8d8fedc1e",
+  "title": "MtMassiveStaging",
+  "description": "MtMassiveStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b156c3365a5b4cb9a01a5e1108b4e3f4",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-09T13:43:26.506Z",
+  "lastModifiedDate": "2021-01-07T15:18:57.027Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MtMassiveStaging"
+    }
+  },
+  "entitlementName": "c67efed6e4ca4c70b04600f8d8fedc1e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7dc9a63b278346db97cab85719fc63ec",
+      "appId": "6e8510812707467ba1142f3c2edc3385",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-09T13:53:51.344Z"
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

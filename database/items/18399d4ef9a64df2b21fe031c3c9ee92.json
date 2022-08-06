@@ -1,0 +1,47 @@
+{
+  "id": "18399d4ef9a64df2b21fe031c3c9ee92",
+  "title": "ToybobGeneralAudience",
+  "description": "ToybobGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/0712176b5e3e49bfa8866c0ee1359f2d/item/ESRB_KingdomHearts3-842x404-661660fbb15b36bd864631d0d7464dd6.png",
+      "md5": "661660fbb15b36bd864631d0d7464dd6",
+      "width": 842,
+      "height": 404,
+      "size": 62375,
+      "uploadedDate": "2021-03-19T15:12:28.987Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "0712176b5e3e49bfa8866c0ee1359f2d",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-02T12:15:27.238Z",
+  "lastModifiedDate": "2021-02-11T19:11:18.796Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "18399d4ef9a64df2b21fe031c3c9ee92",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Square Enix (Japan)",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

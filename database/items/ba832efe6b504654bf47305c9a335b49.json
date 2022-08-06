@@ -1,0 +1,63 @@
+{
+  "id": "ba832efe6b504654bf47305c9a335b49",
+  "title": "MythForce",
+  "description": "MythForce",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c4099459877a4e47a6b927032f32ed41/mythforce-axe-exp-1-offer-12fc0.jpg",
+      "md5": "adc2b762cffa3566846dde6f634f1271",
+      "width": 2560,
+      "height": 1440,
+      "size": 96234,
+      "uploadedDate": "2022-02-17T23:43:41.991Z",
+      "alt": "MythForce AXE Exp 1 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c4099459877a4e47a6b927032f32ed41/download-mythforce-axe-exp-1-offer-8tmtd.jpg",
+      "md5": "25c691617da9bf4ac6156d85fcd35848",
+      "width": 1200,
+      "height": 1600,
+      "size": 57835,
+      "uploadedDate": "2022-02-17T23:43:48.025Z",
+      "alt": "Download MythForce AXE Exp 1 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "720cc28ab09b455f8388decfa0ba4796",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-28T18:07:36.480Z",
+  "lastModifiedDate": "2022-03-28T18:07:36.480Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "AXEExp1"
+    }
+  },
+  "entitlementName": "ba832efe6b504654bf47305c9a335b49",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f889a91201f14a9cb5e498bfb11e126b",
+      "appId": "9307c01731de43d780205c86d7d4c177",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Beamdog",
+  "developerId": "o-wc3gy6s683brl6424p7kqlrldhy7vd",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

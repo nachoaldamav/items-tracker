@@ -1,0 +1,93 @@
+{
+  "id": "fceea78070974c4d94615350ac568092",
+  "title": "Galactic Civilizations IV",
+  "description": "Galactic Civilizations IV",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/fbab831cc1c94385b4e311f47f6fdc4f/EGS_GalacticCivilizationsIV_StardockEntertainment_S1_2560x1440-6feebfc0b1d749c10bb043d75a715f33",
+      "md5": "6feebfc0b1d749c10bb043d75a715f33",
+      "width": 2560,
+      "height": 1440,
+      "size": 905186,
+      "uploadedDate": "2022-04-25T15:52:21.211Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/fbab831cc1c94385b4e311f47f6fdc4f/EGS_GalacticCivilizationsIV_StardockEntertainment_S2_1200x1600-2de292ea1f5ff3e4cc7c615ea83b3e38",
+      "md5": "2de292ea1f5ff3e4cc7c615ea83b3e38",
+      "width": 1200,
+      "height": 1600,
+      "size": 678148,
+      "uploadedDate": "2022-04-25T15:52:32.226Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fbab831cc1c94385b4e311f47f6fdc4f",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T16:47:02.578Z",
+  "lastModifiedDate": "2022-04-26T13:33:12.303Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "fbab831cc1c94385b4e311f47f6fdc4f"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GCIV"
+    }
+  },
+  "entitlementName": "fceea78070974c4d94615350ac568092",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c523294aec9e4ef2a9e502603bf3fa75",
+      "appId": "e68ae5d92f944ecbbb7d0b166e259941",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567mQkAAEJ1R0Dy2FqDLxcYSrIV",
+  "unsearchable": false
+}

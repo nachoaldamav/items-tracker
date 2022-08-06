@@ -1,0 +1,56 @@
+{
+  "id": "6f1d2c8b355b439d97ae3fbe6bfd3bea",
+  "title": "MoscowLatestDev",
+  "description": "MoscowLatestDev",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6af58339c2424644988e0fb83dfd9bd5",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-16T17:49:58.994Z",
+  "lastModifiedDate": "2021-01-21T15:27:56.469Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Fuser/Epic/{EpicID}/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MoscowLatestDev"
+    }
+  },
+  "entitlementName": "6f1d2c8b355b439d97ae3fbe6bfd3bea",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8dd91d68a4304218a61cd67b8b3741ff",
+      "appId": "090f1f20293c48d88cb38d9ecbb369a6",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-19T00:00:00.000Z"
+    }
+  ],
+  "developer": "NCSoft",
+  "developerId": "o-k8ltvz7rz3r7b29xdtafqvdkhnj2ux",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

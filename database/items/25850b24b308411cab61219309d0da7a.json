@@ -1,0 +1,79 @@
+{
+  "id": "25850b24b308411cab61219309d0da7a",
+  "title": "ATOM RPG",
+  "description": "ATOM RPG",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/22025f2f1e414674b06401fbd7479ee1/download-atom-rpg-offer-cfplg.jpg",
+      "md5": "fecf81acb77fb64beaf153bd8b6f7987",
+      "width": 1200,
+      "height": 1600,
+      "size": 517097,
+      "uploadedDate": "2021-12-09T21:57:24.689Z",
+      "alt": "Download ATOM RPG Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/22025f2f1e414674b06401fbd7479ee1/atom-rpg-offer-8km1s.jpg",
+      "md5": "7e43d56db7e36997113dcfcb375079e6",
+      "width": 2560,
+      "height": 1440,
+      "size": 1104003,
+      "uploadedDate": "2021-12-09T21:57:25.161Z",
+      "alt": "ATOM RPG Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cb62701a29834de6a91e5f634a72b6f8",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-30T21:03:23.716Z",
+  "lastModifiedDate": "2022-06-02T12:26:41.776Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/unity.AtomTeam.Atom/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/AtomTeam/Atom/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.as"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AtomRPG"
+    }
+  },
+  "entitlementName": "25850b24b308411cab61219309d0da7a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6e9d8a7801514eb19f44a410bd3c8903",
+      "appId": "b1509b217efd4072bc4f30d33cfba103",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "ATENT GAMES LTD",
+  "developerId": "o-2lap2qxjkr2g5pp9la5ese5t8akcy5",
+  "eulaIds": [],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi45673l5wBbAo18Mgu47VTcG3qnoQ",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

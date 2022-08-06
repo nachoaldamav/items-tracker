@@ -1,0 +1,34 @@
+{
+  "id": "a01f641b38fd4503891b6e37eb917866",
+  "title": "DevBaneAudience",
+  "description": "DevBaneAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "7e508f543b05465abe3a935960eb70ac",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-15T12:56:50.407Z",
+  "lastModifiedDate": "2022-07-22T21:16:31.343Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "a01f641b38fd4503891b6e37eb917866",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Codename Entertainment",
+  "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

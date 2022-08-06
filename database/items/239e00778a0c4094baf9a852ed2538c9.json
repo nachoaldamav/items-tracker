@@ -1,0 +1,63 @@
+{
+  "id": "239e00778a0c4094baf9a852ed2538c9",
+  "title": "Spookware",
+  "description": "Spookware",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/74a46902223d42ecad6fcb465e80d7b4/spookware-offer-r7s4j.png",
+      "md5": "8d1a25773395ab9c24cc98fb71fc03b3",
+      "width": 2560,
+      "height": 1440,
+      "size": 3212042,
+      "uploadedDate": "2022-03-17T02:33:43.205Z",
+      "alt": "Spookware Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/74a46902223d42ecad6fcb465e80d7b4/download-spookware-offer-1vt69.png",
+      "md5": "184b7c3a6ae7e62fb341066d4bedbc9d",
+      "width": 1200,
+      "height": 1600,
+      "size": 1645904,
+      "uploadedDate": "2022-03-17T02:33:47.075Z",
+      "alt": "Download Spookware Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f0c3be3e30a94316925dd54bd24c48c5",
+  "status": "ACTIVE",
+  "creationDate": "2021-12-08T21:48:44.209Z",
+  "lastModifiedDate": "2022-03-17T02:33:50.262Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Spookware9HUXB"
+    }
+  },
+  "entitlementName": "239e00778a0c4094baf9a852ed2538c9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bd3ee32fad454ea2b2c73799127335de",
+      "appId": "9a2e5c52ec5846a49a81a695a52e6c8e",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "DreadXP",
+  "developerId": "o-bpk3knax67xtt6ebjepq34zrrcdsns",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

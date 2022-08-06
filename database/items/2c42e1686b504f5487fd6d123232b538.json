@@ -1,0 +1,38 @@
+{
+  "id": "2c42e1686b504f5487fd6d123232b538",
+  "title": "BrusselsGeneralAudience",
+  "description": "BrusselsGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "b4bb52a95d0b43d9af543c6ec3c54e04",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-12T16:43:57.366Z",
+  "lastModifiedDate": "2021-04-30T21:19:55.418Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "2c42e1686b504f5487fd6d123232b538",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ember Lab",
+  "developerId": "o-4xa8vpghs27nav2w3z3h6z4f6f4fyd",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

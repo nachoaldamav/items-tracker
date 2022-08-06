@@ -1,0 +1,78 @@
+{
+  "id": "60a9e2610ec141e29e3e2f97f1140958",
+  "title": "Adios",
+  "description": "Adios",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt/11ece774-5dc4-4f91-aa6e-34b865320fa6/adios-offer-41329995.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 2560,
+      "height": 1440,
+      "size": 915284,
+      "uploadedDate": "2021-06-17T17:51:30.401Z",
+      "alt": "Adios Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt/5b8fc800-b5a8-4f3c-b685-658792f1058b/download-adios-offer-3bab1685.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 482708,
+      "uploadedDate": "2021-06-17T17:55:49.126Z",
+      "alt": "Download Adios Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a3dd9f3da8ec49c7b25dec42cce2ec46",
+  "status": "ACTIVE",
+  "creationDate": "2021-06-29T22:36:14.370Z",
+  "lastModifiedDate": "2022-02-18T09:15:55.636Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Adios/"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "productGeneration": {
+      "type": "STRING",
+      "value": "SPT"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Adios"
+    }
+  },
+  "entitlementName": "60a9e2610ec141e29e3e2f97f1140958",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7dffec5d20bd4d56aa301ee7c2bde0ce",
+      "appId": "73c56a1f38a548b2852ce8608c5e436e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Mischief LLC",
+  "developerId": "o-g7mfghfrudhwtc3xa4qm9aeyfwr3q4",
+  "eulaIds": [],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

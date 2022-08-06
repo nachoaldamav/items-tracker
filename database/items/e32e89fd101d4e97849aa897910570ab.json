@@ -1,0 +1,57 @@
+{
+  "id": "e32e89fd101d4e97849aa897910570ab",
+  "title": "OberonStaging",
+  "description": "OberonStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3e7e7c2bc1644a25a99b3a4c4ef1ff33",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-02T15:12:41.063Z",
+  "lastModifiedDate": "2021-09-16T15:08:29.392Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Fabraz/Demon Turf/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OberonStaging"
+    }
+  },
+  "entitlementName": "e32e89fd101d4e97849aa897910570ab",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "eac05ea591734872a167d54caa14cc84",
+      "appId": "572db5b081e14064ad28483a63635f3d",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-02T15:18:06.672Z"
+    }
+  ],
+  "developer": "Playtonic Ltd",
+  "developerId": "o-qg5pfv55aq3xfvsvgyqhkdasezmsyn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567EX8UWObYsSn5IXv4c4cMcaLc",
+  "unsearchable": false
+}

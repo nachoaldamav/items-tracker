@@ -1,0 +1,53 @@
+{
+  "id": "6ee3979ba72148a99507838f57665fce",
+  "title": "CadmiumRedStaging",
+  "description": "CadmiumRedStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d74efb08c7f449928fcdfdba1dcbda48",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-21T21:40:26.697Z",
+  "lastModifiedDate": "2022-06-16T19:56:11.715Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Save"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CadmiumRedStaging"
+    }
+  },
+  "entitlementName": "6ee3979ba72148a99507838f57665fce",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a135f64ff9344861862a4ec4936c9d69",
+      "appId": "bc614235e3d84f5a932c32811c5233fb",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "No More Robots",
+  "developerId": "o-236t9erksuklvbpwrddx5953wndtps",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,96 @@
+{
+  "id": "ea4fa8f3587c4ebfa144614ccdf63e7f",
+  "title": "Crayta Pre-Purchase",
+  "description": "Crayta Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/item/EGS_CraytaStarterEdition_Unit2Games_S3-2560x1440-4e7978b010d2eff868caad980e9000b9.jpg",
+      "md5": "4e7978b010d2eff868caad980e9000b9",
+      "width": 2560,
+      "height": 1440,
+      "size": 1002546,
+      "uploadedDate": "2021-02-04T00:59:15.852Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/item/EGS_CraytaStarterEdition_Unit2Games_S2-1200x1600-9d74e509e07a02ed9007ec5e5696544b.jpg",
+      "md5": "9d74e509e07a02ed9007ec5e5696544b",
+      "width": 1200,
+      "height": 1600,
+      "size": 817408,
+      "uploadedDate": "2021-02-04T00:59:25.839Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bb9f87bb3d0042258bb1c97397bc60f2",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-06T01:50:09.611Z",
+  "lastModifiedDate": "2021-03-10T11:55:57.794Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "bb9f87bb3d0042258bb1c97397bc60f2"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1615392000"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CraytaPrePurchase"
+    }
+  },
+  "entitlementName": "ea4fa8f3587c4ebfa144614ccdf63e7f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2858424089da425caf6d6e600ce94c14",
+      "appId": "PikesPeakDummy",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-19T00:00:00.000Z"
+    }
+  ],
+  "developer": "Unit 2 Games",
+  "developerId": "o-3wg8cebzdas9bt56adlsslgzr8mcue",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

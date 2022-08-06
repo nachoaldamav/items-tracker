@@ -1,0 +1,101 @@
+{
+  "id": "2adb9a958c6a4768a710f95a8acf8740",
+  "title": "Against the Storm",
+  "description": "Against the Storm",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/93eeeab14a3d45b8bf5586a900137733/EGS_AgainsttheStorm_EremiteGames_S1_2560x1440-c51a22c1c3da840f13c903fc0f8c81a9",
+      "md5": "c51a22c1c3da840f13c903fc0f8c81a9",
+      "width": 2560,
+      "height": 1440,
+      "size": 959612,
+      "uploadedDate": "2022-02-14T21:12:57.277Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/93eeeab14a3d45b8bf5586a900137733/EGS_AgainsttheStorm_EremiteGames_S2_1200x1600-d534dcde76e3871e43db8c2af18eb341",
+      "md5": "d534dcde76e3871e43db8c2af18eb341",
+      "width": 1200,
+      "height": 1600,
+      "size": 984168,
+      "uploadedDate": "2022-02-14T21:13:01.849Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "93eeeab14a3d45b8bf5586a900137733",
+  "status": "ACTIVE",
+  "creationDate": "2021-05-12T23:22:22.560Z",
+  "lastModifiedDate": "2022-02-17T14:56:57.919Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "93eeeab14a3d45b8bf5586a900137733"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Eremite Games/Against the Storm/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "Player.log,Player-prev.log,DevSaves/*"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AgainstTheStorm"
+    }
+  },
+  "entitlementName": "2adb9a958c6a4768a710f95a8acf8740",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d77af71103904d0a809e53ee72602dfb",
+      "appId": "aa5ddf3b1b2b47bf8caea25bcd1d6587",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Eremite Games sp. z o.o.",
+  "developerId": "o-3un7kuq4qv93xx6l82gmaf5npsvpl9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567yUEIjIRzmNdAqITh63jowi80",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,52 @@
+{
+  "id": "9cd38f0e2227465396db49bd4d575701",
+  "title": "FranciumStaging",
+  "description": "FranciumStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d3f34b351df646e0ab932fd8d8e5dfc2",
+  "status": "ACTIVE",
+  "creationDate": "2020-12-18T19:30:52.335Z",
+  "lastModifiedDate": "2021-07-28T19:57:32.785Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FranciumStaging"
+    }
+  },
+  "entitlementName": "9cd38f0e2227465396db49bd4d575701",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fb9a03cc02184f36b4e9e0b8a5f33a43",
+      "appId": "3639a64b66ba43269b683f5d84b4beb2",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-12-18T20:23:36.517Z"
+    }
+  ],
+  "developer": "Double Stallion Games",
+  "developerId": "o-xg2qys7ndgf4m9xk9ce9tytwr3778u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

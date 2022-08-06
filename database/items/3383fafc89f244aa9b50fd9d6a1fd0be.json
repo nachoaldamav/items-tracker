@@ -1,0 +1,33 @@
+{
+  "id": "3383fafc89f244aa9b50fd9d6a1fd0be",
+  "title": "BluegillGeneralAudience",
+  "description": "BluegillGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c7ab6cc723fe4bc6b24237d61b58687b",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-29T16:06:51.272Z",
+  "lastModifiedDate": "2021-11-16T15:56:01.301Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "3383fafc89f244aa9b50fd9d6a1fd0be",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Riot Games",
+  "developerId": "o-ch65axjcvgpsutlhlcyvqkx3fkmk44",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

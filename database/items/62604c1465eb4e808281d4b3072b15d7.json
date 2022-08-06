@@ -1,0 +1,33 @@
+{
+  "id": "62604c1465eb4e808281d4b3072b15d7",
+  "title": "DevParisAudience",
+  "description": "DevParisAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-12T16:57:54.278Z",
+  "lastModifiedDate": "2022-05-10T14:09:15.995Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "62604c1465eb4e808281d4b3072b15d7",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Expansive Worlds AB",
+  "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

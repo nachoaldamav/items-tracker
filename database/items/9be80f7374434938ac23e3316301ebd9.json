@@ -1,0 +1,34 @@
+{
+  "id": "9be80f7374434938ac23e3316301ebd9",
+  "title": "BohriumGeneralAudience",
+  "description": "BohriumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "5f3c898b2a3244af99e9900e015717f8",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-16T00:27:22.975Z",
+  "lastModifiedDate": "2021-06-10T14:06:43.138Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9be80f7374434938ac23e3316301ebd9",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Discord Inc",
+  "developerId": "o-78dgatrfv9b22akubafkyfcm3sbxf5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

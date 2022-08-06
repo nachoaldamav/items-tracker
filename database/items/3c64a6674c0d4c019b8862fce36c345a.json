@@ -1,0 +1,75 @@
+{
+  "id": "3c64a6674c0d4c019b8862fce36c345a",
+  "title": "Hirilun",
+  "description": "Hirilun",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/66872de848d34043bf891e978ccfe0be/hirilun-offer-1o0l9.jpg",
+      "md5": "84cf09964a0852d205893a71ca360d66",
+      "width": 2560,
+      "height": 1440,
+      "size": 867384,
+      "uploadedDate": "2022-02-15T17:16:49.251Z",
+      "alt": "Hirilun Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/66872de848d34043bf891e978ccfe0be/download-hirilun-offer-1c38a.jpg",
+      "md5": "2f9c0753da50166157e78aceb65501f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 503471,
+      "uploadedDate": "2022-02-15T17:16:49.584Z",
+      "alt": "Download Hirilun Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "25b6108a1b4e4f23bdd29a37e68567fa",
+  "status": "ACTIVE",
+  "creationDate": "2022-01-27T14:26:09.898Z",
+  "lastModifiedDate": "2022-03-29T12:55:03.317Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Gone Mad Studios/Hirilun/EpicGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Hirilun.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "16384"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Hirilun"
+    }
+  },
+  "entitlementName": "3c64a6674c0d4c019b8862fce36c345a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e9fd6b030b414c7e99012d9473706b2a",
+      "appId": "24a2a561bfc54e01870d23a662de28c2",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Meridian4",
+  "developerId": "o-lk3h3v3ddypmx7zferz37x5l86w54p",
+  "endOfSupport": false,
+  "applicationId": "fghi4567VEWWuJysUcf4Juuv3MOFCocD",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

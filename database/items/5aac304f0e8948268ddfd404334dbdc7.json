@@ -1,0 +1,93 @@
+{
+  "id": "5aac304f0e8948268ddfd404334dbdc7",
+  "title": "KINGDOM HEARTS HD 1.5+2.5 ReMIX",
+  "description": "KINGDOM HEARTS HD 1.5+2.5 ReMIX",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/4158b699dd70447a981fee752d970a3e/item/EGS_KINGDOMHEARTSHD1525ReMIX_SquareEnix_S5-1920x1080-d4bd9d38aaee5d23b23ef0b04567541f.jpg",
+      "md5": "d4bd9d38aaee5d23b23ef0b04567541f",
+      "width": 1920,
+      "height": 1080,
+      "size": 368454,
+      "uploadedDate": "2021-02-09T23:50:15.631Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/4158b699dd70447a981fee752d970a3e/item/EGS_KINGDOMHEARTSHD1525ReMIX_SquareEnix_S6-1200x1600-132fc1f63bf40a41cddbff3bab7acc52.jpg",
+      "md5": "132fc1f63bf40a41cddbff3bab7acc52",
+      "width": 1200,
+      "height": 1600,
+      "size": 986618,
+      "uploadedDate": "2021-02-09T23:50:25.147Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4158b699dd70447a981fee752d970a3e",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-11T11:59:40.649Z",
+  "lastModifiedDate": "2021-02-19T17:01:08.837Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "4158b699dd70447a981fee752d970a3e"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KH_1.5_2.5"
+    }
+  },
+  "entitlementName": "5aac304f0e8948268ddfd404334dbdc7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b6a7d007887349cf9fb8a3324971ccc3",
+      "appId": "68c214c58f694ae88c2dab6f209b43e4",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "Square Enix (Japan)",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567dBq42yqRKAXaIhoRtQYQvK9i",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

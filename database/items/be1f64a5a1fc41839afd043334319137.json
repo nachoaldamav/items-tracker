@@ -1,0 +1,73 @@
+{
+  "id": "be1f64a5a1fc41839afd043334319137",
+  "title": "test_entry",
+  "description": "test_entry",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ed8a79694c054f70a6350cb2c8c45316",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-22T17:54:33.598Z",
+  "lastModifiedDate": "2021-03-24T18:30:53.852Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ed8a79694c054f70a6350cb2c8c45316"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "test_entry"
+    }
+  },
+  "entitlementName": "be1f64a5a1fc41839afd043334319137",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1a58cda9632046f98abfad6c86527283",
+      "appId": "3ad5bd7d858a49ec805d1ca7e5f7b278",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-02-22T17:55:38.529Z"
+    }
+  ],
+  "developer": "Gameloft SE",
+  "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

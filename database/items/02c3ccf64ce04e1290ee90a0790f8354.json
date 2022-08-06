@@ -1,0 +1,69 @@
+{
+  "id": "02c3ccf64ce04e1290ee90a0790f8354",
+  "title": "Charon's Staircase",
+  "description": "Charon's Staircase",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/08388b8ac1f14cc19a8bdae879573e72/charons-staircase-offer-1bpoi.jpg",
+      "md5": "5ffd144c8e344b7f08dd287168b5f256",
+      "width": 2560,
+      "height": 1440,
+      "size": 368989,
+      "uploadedDate": "2022-05-06T14:21:58.203Z",
+      "alt": "Charons Staircase Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/08388b8ac1f14cc19a8bdae879573e72/download-charons-staircase-offer-1qsxp.jpg",
+      "md5": "c54f7450a76157f757f04777abce3740",
+      "width": 1200,
+      "height": 1600,
+      "size": 169399,
+      "uploadedDate": "2022-05-06T14:21:57.353Z",
+      "alt": "Download Charons Staircase Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0702e42d70eb4d8fbb9293e332047474",
+  "status": "ACTIVE",
+  "creationDate": "2022-04-06T22:07:38.982Z",
+  "lastModifiedDate": "2022-05-12T17:49:38.671Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/CharonsStaircase/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CharonsStaircasefcIEN"
+    }
+  },
+  "entitlementName": "02c3ccf64ce04e1290ee90a0790f8354",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "819e98faf474472cadddb911807a5e8e",
+      "appId": "e8beaaaa91c54bb3a9a3b8b4ac7fdbbe",
+      "platform": []
+    }
+  ],
+  "developer": "SOEDESCO",
+  "developerId": "o-9uf2bsrkptwqbkpy867grcbj5jxrta",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,52 @@
+{
+  "id": "ad2b4e63d2b54be9b0b5e8ef295abfda",
+  "title": "PolyhymniaStaging",
+  "description": "PolyhymniaStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2295b951b8f84e86b950bfaf7cadef60",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-21T17:55:42.065Z",
+  "lastModifiedDate": "2021-04-29T13:53:30.499Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PolyhymniaStaging"
+    }
+  },
+  "entitlementName": "ad2b4e63d2b54be9b0b5e8ef295abfda",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2d39b0a63de3441080a95edfc7f58891",
+      "appId": "2effdc1bcaf14a6dad640016527b3583",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-01-21T20:22:55.439Z"
+    }
+  ],
+  "developer": "Postmeta Games",
+  "developerId": "o-ptrc3tlq66gg7gsku56pwafjwzs23b",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

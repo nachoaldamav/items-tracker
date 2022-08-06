@@ -1,0 +1,97 @@
+{
+  "id": "7b443be3671842eeb181cc61facfe301",
+  "title": "Twinmotion 2019 (Epic version)",
+  "description": "Twinmotion 2019 (Epic version)",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LauncherThumbnailLandscapeLogoFull_1920x1080_1920x1080-bebbabc284351b777a50cb9d8caceaa7",
+      "md5": "bebbabc284351b777a50cb9d8caceaa7",
+      "width": 1920,
+      "height": 1080,
+      "size": 2271408,
+      "uploadedDate": "2021-08-04T14:31:55.011Z",
+      "alt": "TwinMotion"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LauncherThumbnailProfileLogoFull_1200x1600_1200x1600-7860c85d5b27b24179f2faf30b4f9efe",
+      "md5": "7860c85d5b27b24179f2faf30b4f9efe",
+      "width": 1200,
+      "height": 1600,
+      "size": 2250578,
+      "uploadedDate": "2021-08-04T14:31:58.691Z",
+      "alt": "TwinMotion"
+    }
+  ],
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "poodle",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-22T22:57:55.943Z",
+  "lastModifiedDate": "2021-08-04T14:32:04.245Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "Twinmotion"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "egs.library.display_version": {
+      "type": "STRING",
+      "value": "2019 (Epic)"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Epic Games"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Twinmotion"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows, Mac"
+    }
+  },
+  "entitlementName": "7b443be3671842eeb181cc61facfe301",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1239e5fb6742493a850b9e10377718a8",
+      "appId": "Poodle",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-03-22T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [
+    "twin"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

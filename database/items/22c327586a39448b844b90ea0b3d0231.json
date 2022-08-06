@@ -1,0 +1,46 @@
+{
+  "id": "22c327586a39448b844b90ea0b3d0231",
+  "title": "SiberianGeneralAudience",
+  "description": "SiberianGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/item/ESRB_Tropico6-842x485-55803797985045e9eee6690e884e5716.png",
+      "md5": "55803797985045e9eee6690e884e5716",
+      "width": 842,
+      "height": 485,
+      "size": 61721,
+      "uploadedDate": "2020-11-16T20:02:10.189Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "e1055bf1e5654b93a27e19e6bb86cb2a",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T16:35:14.072Z",
+  "lastModifiedDate": "2021-08-11T15:00:10.314Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "22c327586a39448b844b90ea0b3d0231",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
+  "unsearchable": false
+}

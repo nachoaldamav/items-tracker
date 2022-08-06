@@ -1,0 +1,95 @@
+{
+  "id": "c1656319f938445892cb581d84c6f57f",
+  "title": "Industries of Titan Under Construction OST",
+  "description": "Industries of Titan Under Construction OST",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/protea/item/EGS_IndustriesofTitanUnderConstructionOST_BraceYourselfGames_DigitalExtras_S1-2560x1440-efd5fefd87d740c208c645e7065fe084.jpg",
+      "md5": "efd5fefd87d740c208c645e7065fe084",
+      "width": 2560,
+      "height": 1440,
+      "size": 979146,
+      "uploadedDate": "2020-07-07T16:35:26.170Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/protea/item/IoT_Soundtrack_Cover-1200x1600-e8d7ca5577d4fc81c0fec11c5d804573.jpg",
+      "md5": "e8d7ca5577d4fc81c0fec11c5d804573",
+      "width": 1200,
+      "height": 1600,
+      "size": 1353154,
+      "uploadedDate": "2020-10-05T16:08:13.928Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "protea",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-13T18:25:12.718Z",
+  "lastModifiedDate": "2020-10-06T17:55:05.827Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "protea"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Brace Yourself Games"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "IOTSoundtrack"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c1656319f938445892cb581d84c6f57f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4363b790d40b4d6d8ae8d819585a8a9e",
+      "appId": "5908dd7ab2ec454896c42559287423a6",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-18T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Brace Yourself Games",
+  "developerId": "o-5y95w2k7uu469v8lr4dyzeff447wfm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

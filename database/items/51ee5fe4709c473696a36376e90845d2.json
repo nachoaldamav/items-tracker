@@ -1,0 +1,97 @@
+{
+  "id": "51ee5fe4709c473696a36376e90845d2",
+  "title": "Defense Grid: The Awakening",
+  "description": "Defense Grid: The Awakening",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/item/EGS_DefenseGridTheAwakening_HiddenPathEntertainment_G2_00-1920x1080-7b6cc3b4533d512f4e58800527b1c0a0.jpg",
+      "md5": "7b6cc3b4533d512f4e58800527b1c0a0",
+      "width": 1920,
+      "height": 1080,
+      "size": 542121,
+      "uploadedDate": "2020-12-18T00:24:40.265Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/item/EGS_DefenseGridTheAwakening_HiddenPathEntertainment_S4-1200x1600-7f6d059571b0e4b72947ae5e9faf0e3b.jpg",
+      "md5": "7f6d059571b0e4b72947ae5e9faf0e3b",
+      "width": 1200,
+      "height": 1600,
+      "size": 475389,
+      "uploadedDate": "2020-12-18T00:24:53.829Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0dabb0f14acf4fef84bd2b2bf3085dfc",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-15T17:08:42.606Z",
+  "lastModifiedDate": "2020-12-20T16:11:00.569Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "0dabb0f14acf4fef84bd2b2bf3085dfc"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/DefenseGrid/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DefenseGrid"
+    }
+  },
+  "entitlementName": "51ee5fe4709c473696a36376e90845d2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "dd836dc7a0cd4ef997bb04cd617f2879",
+      "appId": "a434dcb20f0d439b93aaa31dac9e3210",
+      "platform": [
+        "Windows",
+        "Win32"
+      ],
+      "dateAdded": "2020-07-21T00:00:00.000Z"
+    }
+  ],
+  "developer": "Hidden Path",
+  "developerId": "o-lr4ubnee8h8ya6fjmgfqy63uftabu6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567VIFBmumlGbrBBoZrCLYfgDIb",
+  "unsearchable": false
+}

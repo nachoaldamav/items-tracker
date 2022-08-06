@@ -1,0 +1,93 @@
+{
+  "id": "8f2c787eaf124dd2b549fbffd0edd61e",
+  "title": "Ruined King: A League of Legends Story",
+  "description": "Ruined King: A League of Legends Story",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/a69c5a82682c43148e4e2542fe2fcd0f/en_US_Ruined_King_StandardEdition_3840x2160_A_20_0924_3840x2160-55a26c29a038a3f34f6a3d7dfa724b50",
+      "md5": "55a26c29a038a3f34f6a3d7dfa724b50",
+      "width": 3840,
+      "height": 2160,
+      "size": 3340124,
+      "uploadedDate": "2021-11-16T05:19:40.640Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/a69c5a82682c43148e4e2542fe2fcd0f/Product Portrait Image_1200x1600-5da51cd6362539a0bf14d1a71650f4fc",
+      "md5": "5da51cd6362539a0bf14d1a71650f4fc",
+      "width": 1200,
+      "height": 1600,
+      "size": 465074,
+      "uploadedDate": "2022-06-02T16:34:55.957Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a69c5a82682c43148e4e2542fe2fcd0f",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-29T15:18:57.387Z",
+  "lastModifiedDate": "2022-06-02T16:35:00.097Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "a69c5a82682c43148e4e2542fe2fcd0f"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RuinedKing"
+    }
+  },
+  "entitlementName": "8f2c787eaf124dd2b549fbffd0edd61e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a2472c6ee4334c75b42b69f3252e44fc",
+      "appId": "7f048ed7208d49588b1867edc0ab368a",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-29T15:19:45.488Z"
+    }
+  ],
+  "developer": "Riot Forge",
+  "developerId": "o-ch65axjcvgpsutlhlcyvqkx3fkmk44",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

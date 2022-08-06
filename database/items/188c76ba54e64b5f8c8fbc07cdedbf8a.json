@@ -1,0 +1,82 @@
+{
+  "id": "188c76ba54e64b5f8c8fbc07cdedbf8a",
+  "title": "Old World (pre-flight)",
+  "description": "Old World (pre-flight)",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LandscapeProductLaunchedPREFLIGHT_2560x1440-69944969a65ddb08a37c6a0af761899c",
+      "md5": "69944969a65ddb08a37c6a0af761899c",
+      "width": 2560,
+      "height": 1440,
+      "size": 1944348,
+      "uploadedDate": "2021-07-01T20:46:55.457Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/PortraitProductLaunchedPREFLIGHT_1200x1600-c5358a355ee66493b0e1fba72009026d",
+      "md5": "c5358a355ee66493b0e1fba72009026d",
+      "width": 1200,
+      "height": 1600,
+      "size": 1000701,
+      "uploadedDate": "2021-07-01T20:47:00.365Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "07f4a7dd3c884e5d87e9a209716962ca",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-27T03:00:53.942Z",
+  "lastModifiedDate": "2022-04-26T17:11:54.391Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "Launch Dedicated Server"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "-batchmode -nographics -server"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NightjarMain"
+    }
+  },
+  "entitlementName": "188c76ba54e64b5f8c8fbc07cdedbf8a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "210abf63a24c443a8fbfda50b964a0c0",
+      "appId": "2bf3c6b8b44142158740aaee8fdc1750",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-03-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "Mohawk Games",
+  "developerId": "o-uw2qbn4nh26vxscergml2f7du26bvk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

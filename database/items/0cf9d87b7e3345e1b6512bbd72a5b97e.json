@@ -1,0 +1,62 @@
+{
+  "id": "0cf9d87b7e3345e1b6512bbd72a5b97e",
+  "title": "NeonStaging",
+  "description": "NeonStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "92e8ff0ca9bb421c831dc0f6fc8ef54d",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-09T20:03:34.446Z",
+  "lastModifiedDate": "2021-01-14T23:49:49.468Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Peachy Keen Games/Calico/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.dat"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NeonStaging"
+    }
+  },
+  "entitlementName": "0cf9d87b7e3345e1b6512bbd72a5b97e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5e533c8bcf4a47d2bf7bc61db0b41033",
+      "appId": "19aa5aa8cfd74bb88dc596b3ccfd851e",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-11-09T00:00:00.000Z"
+    }
+  ],
+  "developer": "White Thorn Digital",
+  "developerId": "o-v7c8xq9bmhtqhakulz7lrptnz8b628",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

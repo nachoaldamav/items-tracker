@@ -1,0 +1,37 @@
+{
+  "id": "b5d185151f7a4b5ea6545ebf875a042f",
+  "title": "dlc_test_iap_pack_1Audience",
+  "description": "dlc_test_iap_pack_1Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ed8a79694c054f70a6350cb2c8c45316",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-23T18:34:47.986Z",
+  "lastModifiedDate": "2021-03-24T18:30:53.846Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b5d185151f7a4b5ea6545ebf875a042f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Gameloft SE",
+  "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

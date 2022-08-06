@@ -1,0 +1,83 @@
+{
+  "id": "7290258ef3d747f58200e031b54df9d5",
+  "title": "3 out of 10: Season Two Streaming",
+  "description": "3 out of 10: Season Two Streaming",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/b829cfd910554ad3ad2eb3b314e2b1ef/item/3 out of 10_Season Two Streaming-860x1148-08c8f1ccd62c76a39ed92675c3b7aeda.jpg",
+      "md5": "08c8f1ccd62c76a39ed92675c3b7aeda",
+      "width": 860,
+      "height": 1148,
+      "size": 751601,
+      "uploadedDate": "2021-04-01T18:52:45.495Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b829cfd910554ad3ad2eb3b314e2b1ef",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-08T22:07:02.428Z",
+  "lastModifiedDate": "2021-04-01T18:52:48.878Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "b829cfd910554ad3ad2eb3b314e2b1ef"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MooncakeOST"
+    }
+  },
+  "entitlementName": "7290258ef3d747f58200e031b54df9d5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a8feeb7a9462403bb90fec3b95497bf9",
+      "appId": "ef1dbe409e604f63a86676b0b58d94a2",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Terrible Posture Games, Inc.",
+  "developerId": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

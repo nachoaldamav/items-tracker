@@ -1,0 +1,65 @@
+{
+  "id": "65a4298db95249199fe73d8b4483e7f5",
+  "title": "Screamer 2",
+  "description": "Screamer 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7ef3a9fa48e64f3f9a4efc209cf57342/screamer-2-offer-1pqfn.jpg",
+      "md5": "d7aa4e29d1d6a2f5a5030b09f899fefd",
+      "width": 2560,
+      "height": 1440,
+      "size": 474116,
+      "uploadedDate": "2022-03-17T00:58:45.466Z",
+      "alt": "Screamer 2 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7ef3a9fa48e64f3f9a4efc209cf57342/download-screamer-2-offer-xrdt4.jpg",
+      "md5": "b0a2cfe33b64ec91f94650baea915016",
+      "width": 1200,
+      "height": 1600,
+      "size": 426743,
+      "uploadedDate": "2022-03-17T00:58:45.245Z",
+      "alt": "Download Screamer 2 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f84a0a87954243bc8dc9ce567619613e",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-16T15:01:42.912Z",
+  "lastModifiedDate": "2022-06-16T15:01:42.912Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Screamer2"
+    }
+  },
+  "entitlementName": "65a4298db95249199fe73d8b4483e7f5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "da3f38d02614484386c9e6ba04379601",
+      "appId": "2dcba34ad45a472f859e98637d1287a1",
+      "platform": [
+        "Win32",
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Interplay Entertainment Corp.",
+  "developerId": "o-ebvwv4fmqxbw48yz3rx65fmxxqfk35",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

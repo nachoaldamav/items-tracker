@@ -1,0 +1,35 @@
+{
+  "id": "d58b6200917d412b882c5863855801f5",
+  "title": "CobblerDevAudience FAKE",
+  "description": "CobblerDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "a8f9fb4a881e47b489715f18f7d08e2f",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-26T23:51:37.998Z",
+  "lastModifiedDate": "2021-01-06T01:02:42.502Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d58b6200917d412b882c5863855801f5",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "LCG Entertainment, Inc.",
+  "developerId": "o-w6l7l9e6c93j85x29twne9ae6su4jt",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

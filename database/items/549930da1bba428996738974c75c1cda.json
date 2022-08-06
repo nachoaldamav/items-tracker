@@ -1,0 +1,35 @@
+{
+  "id": "549930da1bba428996738974c75c1cda",
+  "title": "PineappleGeneralAudience",
+  "description": "PineappleGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "6f43ab8025ad42d18510aa91e9eb688b",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-30T20:17:17.296Z",
+  "lastModifiedDate": "2021-02-17T14:57:15.339Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "549930da1bba428996738974c75c1cda",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Square Enix (Japan)",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

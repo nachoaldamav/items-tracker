@@ -1,0 +1,93 @@
+{
+  "id": "220403624a514889b2646cee9057404e",
+  "title": "Tetris® Effect: Connected BETA TEST",
+  "description": "Tetris® Effect: Connected BETA TEST",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/TEC_Beta_Landscape_2560x1440_2560x1440-03ebfe960471dd7ac5882917b5ea34a6",
+      "md5": "03ebfe960471dd7ac5882917b5ea34a6",
+      "width": 2560,
+      "height": 1440,
+      "size": 3114204,
+      "uploadedDate": "2021-06-23T23:52:46.852Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TetrisBeta_1200x1600-d403ac4ddd550fe40b87d8f7b1f59b35",
+      "md5": "d403ac4ddd550fe40b87d8f7b1f59b35",
+      "width": 1200,
+      "height": 1600,
+      "size": 600677,
+      "uploadedDate": "2021-06-23T23:53:02.122Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "76339caf9e8e4d24b62761c736e82b42",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-19T14:28:19.883Z",
+  "lastModifiedDate": "2021-07-13T17:40:55.554Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "defaultLaunchOption_Args": {
+      "type": "STRING",
+      "value": "-nohmd"
+    },
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-vr -hmd=SteamVR"
+    },
+    "extraLaunchOption_002_Args": {
+      "type": "STRING",
+      "value": "-vr -hmd=OculusHMD"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Launch in SteamVR"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TetrisEffectBeta"
+    },
+    "extraLaunchOption_002_Name": {
+      "type": "STRING",
+      "value": "Launch in Oculus VR"
+    }
+  },
+  "entitlementName": "220403624a514889b2646cee9057404e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fe7dba3d00e941f58477a6996fd95477",
+      "appId": "06c89b64de954c6fbcab914f8837fd4b",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Enhance, Inc.",
+  "developerId": "o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567ZiIFgjQtoL0LjV4EDheaAGwB",
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e8baf4e679ea4110826aa143edc5fff1",
+  "title": "DevTinAudience",
+  "description": "DevTinAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "e4ac2f8cd49b42f18821f3fc3b6fc1b6",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-22T19:28:08.638Z",
+  "lastModifiedDate": "2021-03-24T21:32:18.509Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e8baf4e679ea4110826aa143edc5fff1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "MWM Interactive",
+  "developerId": "o-f4rsv826ngcpw4wvunwntql3n23m46",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

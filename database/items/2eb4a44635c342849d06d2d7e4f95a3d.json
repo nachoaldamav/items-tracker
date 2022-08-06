@@ -1,0 +1,98 @@
+{
+  "id": "2eb4a44635c342849d06d2d7e4f95a3d",
+  "title": "Supraland",
+  "description": "Supraland",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Supraland_SupraGames_S5_1920x1080-3d9ef81461113b21916c011f1d131469",
+      "md5": "3d9ef81461113b21916c011f1d131469",
+      "width": 1920,
+      "height": 1080,
+      "size": 626067,
+      "uploadedDate": "2021-06-21T15:59:28.416Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Supraland_SupraGames_S4_1200x1600-a6d4a615d97e0e784f93dbde64daa345",
+      "md5": "a6d4a615d97e0e784f93dbde64daa345",
+      "width": 1200,
+      "height": 1600,
+      "size": 586730,
+      "uploadedDate": "2021-06-21T15:59:35.407Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ae373893881044d2bf26d6f8363a120e",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-18T22:32:13.258Z",
+  "lastModifiedDate": "2022-03-30T18:37:39.225Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ae373893881044d2bf26d6f8363a120e"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Supraland/Saved/SaveGames/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Supraland"
+    }
+  },
+  "entitlementName": "2eb4a44635c342849d06d2d7e4f95a3d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "886cb6c2cdaf4115a532541c44bab21a",
+      "appId": "1b037ad2c1e94e7e996b4a16f741025a",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-02-18T23:25:21.859Z"
+    }
+  ],
+  "developer": "Supra Games",
+  "developerId": "o-gfmarfnj9jh4jucwvuubpjv4nwb66x",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567ynLXRpiOq356xo0zfaGHOXnk",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,52 @@
+{
+  "id": "f792acce1b5b429eb91a27d3477ac32a",
+  "title": "LanthanumStaging",
+  "description": "LanthanumStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5493b8894a4b4f49984240f298a8ef06",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-27T19:47:33.789Z",
+  "lastModifiedDate": "2021-07-08T08:20:49.679Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LanthanumStaging"
+    }
+  },
+  "entitlementName": "f792acce1b5b429eb91a27d3477ac32a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4c9d903b41ff4da196334ebc0924e80e",
+      "appId": "cff39c9b06cd4977a1a694698ea65f66",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-05T23:19:13.122Z"
+    }
+  ],
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

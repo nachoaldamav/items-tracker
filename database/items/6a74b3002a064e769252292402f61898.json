@@ -1,0 +1,76 @@
+{
+  "id": "6a74b3002a064e769252292402f61898",
+  "title": "Tetris® Effect Digital Deluxe DLC",
+  "description": "Tetris® Effect Digital Deluxe DLC",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/76339caf9e8e4d24b62761c736e82b42/EGS_TetrisEffectConnected_MonstarsincandResonair_S3_2560x1440-f2b7de145181b857418618f0ea6c4ad5_2560x1440-f2b7de145181b857418618f0ea6c4ad5",
+      "md5": "f2b7de145181b857418618f0ea6c4ad5",
+      "width": 2560,
+      "height": 1440,
+      "size": 871670,
+      "uploadedDate": "2022-03-10T16:45:55.473Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/76339caf9e8e4d24b62761c736e82b42/EGS_TetrisEffectConnected_MonstarsincandResonair_S4_1200x1600-acde763fdaa91f4bb412c78aa028569f_1200x1600-acde763fdaa91f4bb412c78aa028569f",
+      "md5": "acde763fdaa91f4bb412c78aa028569f",
+      "width": 1200,
+      "height": 1600,
+      "size": 785300,
+      "uploadedDate": "2022-03-10T16:46:00.734Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "76339caf9e8e4d24b62761c736e82b42",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-12T18:55:39.496Z",
+  "lastModifiedDate": "2022-03-10T16:46:08.480Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TetrisEffectDLC"
+    }
+  },
+  "entitlementName": "6a74b3002a064e769252292402f61898",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9e5192d62f724e9d95ea3755bf23c15c",
+      "appId": "KiwiDLC1",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-07-12T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Enhance, Inc.",
+  "developerId": "o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

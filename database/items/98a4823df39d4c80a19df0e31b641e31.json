@@ -1,0 +1,52 @@
+{
+  "id": "98a4823df39d4c80a19df0e31b641e31",
+  "title": "TernStaging",
+  "description": "TernStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3542a1df211e492bb2abecb7c734f7f9",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-24T00:35:38.441Z",
+  "lastModifiedDate": "2020-07-14T19:02:30.114Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TernStaging"
+    }
+  },
+  "entitlementName": "98a4823df39d4c80a19df0e31b641e31",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0c709fc0c49947bfb9d2cd489d452055",
+      "appId": "TernStaging",
+      "platform": [
+        "Windows",
+        "Win32"
+      ],
+      "dateAdded": "2019-08-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Test Organization",
+  "developerId": "o-jwuggxrvjq99seqnvcrzckgm6e8jtr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ce4d4de192a14585bc0979fefd858ec6",
+  "title": "CastleGeneralAudience",
+  "description": "CastleGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2ed7ed64d8604265924b85bbd5670220",
+  "status": "ACTIVE",
+  "creationDate": "2020-12-10T17:28:03.916Z",
+  "lastModifiedDate": "2022-02-16T20:33:04.977Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ce4d4de192a14585bc0979fefd858ec6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Headup Gmbh",
+  "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

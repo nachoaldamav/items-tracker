@@ -1,0 +1,117 @@
+{
+  "id": "8d3837f092ae4349aa0a0238de07f549",
+  "title": "Tom Clancy’s Ghost Recon Breakpoint",
+  "description": "Tom Clancy’s Ghost Recon Breakpoint",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/GRT_STD_Edition_Store_Landscape_2560x1440_2560x1440-eb4ed54b646a5c0d98823bcb91807011",
+      "md5": "eb4ed54b646a5c0d98823bcb91807011",
+      "width": 2560,
+      "height": 1440,
+      "size": 1003818,
+      "uploadedDate": "2021-09-29T15:13:09.801Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/GRT_STD_Edition_Store_Portrait_1200x1600_1200x1600-b08ee70d85ee2649b6e9c575d9192e66",
+      "md5": "b08ee70d85ee2649b6e9c575d9192e66",
+      "width": 1200,
+      "height": 1600,
+      "size": 1002728,
+      "uploadedDate": "2021-09-29T15:13:14.604Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-02T01:23:21.110Z",
+  "lastModifiedDate": "2021-09-29T15:13:29.348Z",
+  "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "LaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Launch Ghost Recon Breakpoint – Vulkan"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1569924000"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "a41a877de4df407987e4a8fa62c53d55"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GhostReconBreakpoint"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "2dbd2f64abdc4bbab077424d5c85e01b"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-ExeId 1"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "8d3837f092ae4349aa0a0238de07f549",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d2170cb671ae408aa42ced91581b9754",
+      "appId": "Saffron",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-02T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

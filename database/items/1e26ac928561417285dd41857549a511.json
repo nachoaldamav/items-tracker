@@ -1,0 +1,56 @@
+{
+  "id": "1e26ac928561417285dd41857549a511",
+  "title": "CarpExternalPreview1",
+  "description": "CarpExternalPreview1",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "developer"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-31T17:50:51.769Z",
+  "lastModifiedDate": "2022-04-06T23:18:49.694Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CarpExternalPreview1"
+    }
+  },
+  "entitlementName": "1e26ac928561417285dd41857549a511",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c1e9c6e993374743a4ce36bb93dbf0e1",
+      "appId": "dfb6bff8b13544b4a338134038d63c1a",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-07-31T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Gearbox Publishing",
+  "developerId": "o-dcmk65hvycy3kndmqvfg3yn3up87jn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567dQu33ef1wFcNvqRHV0A197cq",
+  "unsearchable": false
+}

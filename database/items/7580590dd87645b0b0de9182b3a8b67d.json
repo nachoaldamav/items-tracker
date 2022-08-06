@@ -1,0 +1,34 @@
+{
+  "id": "7580590dd87645b0b0de9182b3a8b67d",
+  "title": "DevArsenicAudience",
+  "description": "DevArsenicAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "3dd7b519d7ab4631ae96d3efa8588514",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-21T18:27:11.710Z",
+  "lastModifiedDate": "2021-02-11T15:15:53.465Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7580590dd87645b0b0de9182b3a8b67d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Massive Damage",
+  "developerId": "o-nfrzd5cr4auuxqxmyzuezwhahtmstc",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,36 @@
+{
+  "id": "831318b0be8b498e97d7a5ea9229929e",
+  "title": "TiramisuGeneralAudience",
+  "description": "TiramisuGeneralAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "6fa08ca4ba92438495dfec53fb88118e",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-15T19:53:14.691Z",
+  "lastModifiedDate": "2020-08-04T12:02:40.145Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "831318b0be8b498e97d7a5ea9229929e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Game Mechanic Studios Noho",
+  "developerId": "o-uf3lq93jd32ezc5vrxta8zeqflldqu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

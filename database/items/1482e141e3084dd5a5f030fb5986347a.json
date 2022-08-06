@@ -1,0 +1,54 @@
+{
+  "id": "1482e141e3084dd5a5f030fb5986347a",
+  "title": "AmsterdamStaging",
+  "description": "AmsterdamStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "76355dbd22b249d9a6f77790aba9547b",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-01T18:43:00.047Z",
+  "lastModifiedDate": "2021-06-24T20:40:55.245Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AmsterdamStaging"
+    }
+  },
+  "entitlementName": "1482e141e3084dd5a5f030fb5986347a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ae7c5b996d564457b672950bd948e3fa",
+      "appId": "757c6de6cd4442dc87749838ab84de0e",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-07-21T00:00:00.000Z"
+    }
+  ],
+  "developer": "Capybara Games",
+  "developerId": "o-lbpf7js3rx6rhk4l4mkx2zph8a23zm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

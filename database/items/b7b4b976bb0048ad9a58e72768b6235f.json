@@ -1,0 +1,56 @@
+{
+  "id": "b7b4b976bb0048ad9a58e72768b6235f",
+  "title": "CrestoneStaging",
+  "description": "CrestoneStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "43cff3223381422ca04404a811784296",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-01T18:51:13.896Z",
+  "lastModifiedDate": "2020-10-23T14:29:15.871Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/PumpkinJack/Saved/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CrestoneStaging"
+    }
+  },
+  "entitlementName": "b7b4b976bb0048ad9a58e72768b6235f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cffbd6d8a08a4cc3a64b0e61e41d7fcf",
+      "appId": "3bc50d3d2acf4738832e7839a6ae42a6",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-01T00:00:00.000Z"
+    }
+  ],
+  "developer": "Headup Gmbh",
+  "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

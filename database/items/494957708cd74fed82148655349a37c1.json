@@ -1,0 +1,67 @@
+{
+  "id": "494957708cd74fed82148655349a37c1",
+  "title": "Dog Duty",
+  "description": "Dog Duty",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2b767db2a68e4b29bee1f654622853d2/dog-duty-offer-1h144.jpg",
+      "md5": "1eed262b85c71b80cb5a3ddc8d869889",
+      "width": 2560,
+      "height": 1440,
+      "size": 2372120,
+      "uploadedDate": "2022-02-28T10:43:46.896Z",
+      "alt": "Dog Duty Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2b767db2a68e4b29bee1f654622853d2/download-dog-duty-offer-mkz7o.jpg",
+      "md5": "20643f258dcc5c464499bd1c27ae66e9",
+      "width": 1200,
+      "height": 1600,
+      "size": 1667948,
+      "uploadedDate": "2022-02-28T10:43:53.395Z",
+      "alt": "Download Dog Duty Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "070a016061db4e2d96e3cb7767487091",
+  "status": "ACTIVE",
+  "creationDate": "2022-02-14T19:53:08.603Z",
+  "lastModifiedDate": "2022-04-22T07:21:24.847Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/ZanardiLiza/Dog Duty/Saves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DogDutyLrREd"
+    }
+  },
+  "entitlementName": "494957708cd74fed82148655349a37c1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "49c50bd8afc747138c36ceaf8622f90f",
+      "appId": "cf0062def31a4e2d9c74d5ca4b2cb490",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SOEDESCO",
+  "developerId": "o-9uf2bsrkptwqbkpy867grcbj5jxrta",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

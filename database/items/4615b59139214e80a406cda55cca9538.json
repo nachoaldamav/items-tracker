@@ -1,0 +1,61 @@
+{
+  "id": "4615b59139214e80a406cda55cca9538",
+  "title": "CeladonBlueStaging",
+  "description": "CeladonBlueStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "93eeeab14a3d45b8bf5586a900137733",
+  "status": "ACTIVE",
+  "creationDate": "2021-05-12T23:22:22.906Z",
+  "lastModifiedDate": "2021-11-10T18:09:27.546Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Eremite Games/Against the Storm/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "Player.log,Player-prev.log,DevSaves/*"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CeladonBlueStaging"
+    }
+  },
+  "entitlementName": "4615b59139214e80a406cda55cca9538",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3f11885679084260af007b24acb3ffd7",
+      "appId": "70668dcaff034d5a9be8f702bdb22a9a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Eremite Games sp. z o.o.",
+  "developerId": "o-3un7kuq4qv93xx6l82gmaf5npsvpl9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

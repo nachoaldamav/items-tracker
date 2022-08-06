@@ -1,0 +1,92 @@
+{
+  "id": "4427d1f8a6c1460c811eee9d829d3043",
+  "title": "Binary Smoke",
+  "description": "Binary Smoke",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/5ac6ed1380e94c7384b5cb89d38bb73e/item/EGS_BinarySmoke_OutsideGameStudio_S1-2560x1440-fa7c8142f178b400f3652aeaca663f55.jpg",
+      "md5": "fa7c8142f178b400f3652aeaca663f55",
+      "width": 2560,
+      "height": 1440,
+      "size": 655548,
+      "uploadedDate": "2021-02-04T19:12:15.664Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/5ac6ed1380e94c7384b5cb89d38bb73e/item/EGS_BinarySmoke_OutsideGameStudio_S2-1200x1600-e16fed0f8cfb659d76b20bd83ccc9e7e.jpg",
+      "md5": "e16fed0f8cfb659d76b20bd83ccc9e7e",
+      "width": 1200,
+      "height": 1600,
+      "size": 874086,
+      "uploadedDate": "2021-02-04T19:12:28.069Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5ac6ed1380e94c7384b5cb89d38bb73e",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-25T23:21:07.694Z",
+  "lastModifiedDate": "2021-02-11T19:35:53.524Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "5ac6ed1380e94c7384b5cb89d38bb73e"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BinarySmoke"
+    }
+  },
+  "entitlementName": "4427d1f8a6c1460c811eee9d829d3043",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1c30f122139c44a09dccf4bab8711b8c",
+      "appId": "c9da10658b964d589f2cc0543979e77a",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-17T00:00:00.000Z"
+    }
+  ],
+  "developer": "Outside Game Studio, Inc",
+  "developerId": "o-4rgffp5c83gl5arzhq9439b3awn8l9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,104 @@
+{
+  "id": "c78d5924f8a840f1b91f3168b498fac8",
+  "title": "Legend of Keepers",
+  "description": "Legend of Keepers",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LegendofKeepersCareerofaDungeonMaster_GoblinzStudio_S1-2560x1440-0f8140da3663b6637eb246dd5b54ec07_2560x1440-0f8140da3663b6637eb246dd5b54ec07",
+      "md5": "0f8140da3663b6637eb246dd5b54ec07",
+      "width": 2560,
+      "height": 1440,
+      "size": 712044,
+      "uploadedDate": "2021-04-21T06:40:28.233Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LegendofKeepersCareerofaDungeonMaster_GoblinzStudio_S2-1200x1600-789c1a46106c908062827236e63b4330_1200x1600-789c1a46106c908062827236e63b4330",
+      "md5": "789c1a46106c908062827236e63b4330",
+      "width": 1200,
+      "height": 1600,
+      "size": 459052,
+      "uploadedDate": "2021-04-21T06:40:37.996Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3d4b3dcf7ec449c7a042c163d08fa0f3",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-12T22:47:47.997Z",
+  "lastModifiedDate": "2021-04-29T16:49:20.665Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "3d4b3dcf7ec449c7a042c163d08fa0f3"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/GoblinzStudio/LegendOfKeepers/legendofkeepers/"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/GoblinzStudio/LegendOfKeepers/legendofkeepers/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LegendofKeepers"
+    }
+  },
+  "entitlementName": "c78d5924f8a840f1b91f3168b498fac8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "abdf2e383ef34ffd8b3d9b569015d5e8",
+      "appId": "4d1884fe90f441129722197ba0bb9f8e",
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2021-01-12T00:00:00.000Z"
+    }
+  ],
+  "developer": "Goblinz Studio",
+  "developerId": "o-7jby5x5ez3xmyf5qhgur72hlye379e",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567FC3rOkHm2U6VZWMAIN5CIFTJ",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

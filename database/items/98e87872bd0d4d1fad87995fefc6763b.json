@@ -1,0 +1,55 @@
+{
+  "id": "98e87872bd0d4d1fad87995fefc6763b",
+  "title": "BiscuitStaging",
+  "description": "BiscuitStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4966d5da285c4f2c876937844b0e23ee",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-23T12:42:05.873Z",
+  "lastModifiedDate": "2021-11-04T17:37:39.809Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Cellar Door Games/Rogue Legacy 2/Saves/Epic/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BiscuitStaging"
+    }
+  },
+  "entitlementName": "98e87872bd0d4d1fad87995fefc6763b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5581dcdbd1d8496d802eada89281ce30",
+      "appId": "c3f05c81e1bd45a2a16f88f97ebb7465",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-23T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Test Organization",
+  "developerId": "o-jwuggxrvjq99seqnvcrzckgm6e8jtr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

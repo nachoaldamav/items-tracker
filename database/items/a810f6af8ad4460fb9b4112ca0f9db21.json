@@ -1,0 +1,105 @@
+{
+  "id": "a810f6af8ad4460fb9b4112ca0f9db21",
+  "title": "Industries of Titan",
+  "description": "Industries of Titan",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/protea/IoT_EGS_Library Tile Landscape_TT4_00000_2560x1440-0c97e8c98581a213b265ac1ece771ae2",
+      "md5": "0c97e8c98581a213b265ac1ece771ae2",
+      "width": 2560,
+      "height": 1440,
+      "size": 2628091,
+      "uploadedDate": "2022-07-01T16:29:05.787Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/protea/IoT_EGS_Library Tile Portrait_TT4_00000_1200x1600-9db8c9ed19e4d29349ba446dfbf74385",
+      "md5": "9db8c9ed19e4d29349ba446dfbf74385",
+      "width": 1200,
+      "height": 1600,
+      "size": 1368343,
+      "uploadedDate": "2022-07-01T16:29:20.825Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "protea",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-18T05:15:08.763Z",
+  "lastModifiedDate": "2022-07-05T17:59:15.780Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "protea"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Titan/GameData/"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Brace Yourself Games"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "IndustriesOfTitan"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "a810f6af8ad4460fb9b4112ca0f9db21",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "17824a28472d466ca6eae3b237a38f8e",
+      "appId": "Protea",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-18T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Brace Yourself Games",
+  "developerId": "o-5y95w2k7uu469v8lr4dyzeff447wfm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

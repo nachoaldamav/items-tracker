@@ -1,0 +1,53 @@
+{
+  "id": "cee0c03c9c5647669f1e6b900d987d95",
+  "title": "blizzardblueStaging",
+  "description": "blizzardblueStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8734719880bd4649bed766a32ff991f8",
+  "status": "ACTIVE",
+  "creationDate": "2021-06-03T19:51:35.921Z",
+  "lastModifiedDate": "2021-11-02T15:55:36.664Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "blizzardblueStaging"
+    }
+  },
+  "entitlementName": "cee0c03c9c5647669f1e6b900d987d95",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6c663ff4eca7412ba8649c4001b84db6",
+      "appId": "8162b06dc01b41889faf5d07cd95e241",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Wired Productions",
+  "developerId": "o-r83qbqhwd8y5y5r6e9x62vtrsd9mqm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

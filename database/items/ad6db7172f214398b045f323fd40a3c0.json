@@ -1,0 +1,93 @@
+{
+  "id": "ad6db7172f214398b045f323fd40a3c0",
+  "title": "SpellForce 3: Versus",
+  "description": "SpellForce 3: Versus",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/72324f542dc4488681e617b0d39ad115/item/EGS_SpellForce3VersusEdition_GrimloreGames_S1-2560x1440-4ba29abefa9bf7f5c3646fbf3440be86.jpg",
+      "md5": "4ba29abefa9bf7f5c3646fbf3440be86",
+      "width": 2560,
+      "height": 1440,
+      "size": 184598,
+      "uploadedDate": "2020-10-29T13:14:34.830Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/72324f542dc4488681e617b0d39ad115/item/EGS_SpellForce3VersusEdition_GrimloreGames_S2-1200x1600-9a12662da22ce51a12ef1733846b9548.jpg",
+      "md5": "9a12662da22ce51a12ef1733846b9548",
+      "width": 1200,
+      "height": 1600,
+      "size": 103105,
+      "uploadedDate": "2020-10-29T13:14:42.266Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "72324f542dc4488681e617b0d39ad115",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-28T15:27:48.136Z",
+  "lastModifiedDate": "2020-12-14T13:53:02.985Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "72324f542dc4488681e617b0d39ad115"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SpellForce3Versus"
+    }
+  },
+  "entitlementName": "ad6db7172f214398b045f323fd40a3c0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e5061216733e4c1baf458183b7f2532d",
+      "appId": "7b92cb9582b04a36b629321e848b12a1",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-28T00:00:00.000Z"
+    }
+  ],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567znkhWAj3VE9jSR6d5YXzLpsF",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

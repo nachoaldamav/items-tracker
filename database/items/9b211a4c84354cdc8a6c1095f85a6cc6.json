@@ -1,0 +1,46 @@
+{
+  "id": "9b211a4c84354cdc8a6c1095f85a6cc6",
+  "title": "FinchGeneralAudience",
+  "description": "FinchGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/item/KillingFloor2_TripwireInteractive_RA1-396x190-017a994c76d3418208f3295ba94c718d.png",
+      "md5": "017a994c76d3418208f3295ba94c718d",
+      "width": 396,
+      "height": 190,
+      "size": 5661,
+      "uploadedDate": "2020-07-09T12:55:42.758Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-17T00:08:56.600Z",
+  "lastModifiedDate": "2021-03-23T14:51:40.564Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9b211a4c84354cdc8a6c1095f85a6cc6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "unsearchable": false
+}

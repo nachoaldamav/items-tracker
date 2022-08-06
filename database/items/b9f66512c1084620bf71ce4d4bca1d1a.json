@@ -1,0 +1,93 @@
+{
+  "id": "b9f66512c1084620bf71ce4d4bca1d1a",
+  "title": "Trials of Fire",
+  "description": "Trials of Fire",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TrialsofFire_WhatboyGames_S1_2560x1440-85e4e7e8b07855ce8d51c0a27d80ae91",
+      "md5": "85e4e7e8b07855ce8d51c0a27d80ae91",
+      "width": 2560,
+      "height": 1440,
+      "size": 686979,
+      "uploadedDate": "2021-06-07T23:14:12.514Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TrialsofFire_WhatboyGames_S2_1200x1600-164673a6e7c980e62cc8dd238ce11842",
+      "md5": "164673a6e7c980e62cc8dd238ce11842",
+      "width": 1200,
+      "height": 1600,
+      "size": 420970,
+      "uploadedDate": "2021-06-07T23:14:15.094Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cc56bfab64424c71b9109bc0607a00dd",
+  "status": "ACTIVE",
+  "creationDate": "2021-05-19T21:24:45.825Z",
+  "lastModifiedDate": "2021-06-09T14:43:47.143Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "cc56bfab64424c71b9109bc0607a00dd"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TrialsOfFire"
+    }
+  },
+  "entitlementName": "b9f66512c1084620bf71ce4d4bca1d1a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "332b0c9ee26349d48d7bd116dd06fd51",
+      "appId": "c4d75f35375e4eda9397c4daa9a0213c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Whatboy Games",
+  "developerId": "o-9uluvb93ylxzxn4my9zzttt8h35yy2",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "Trials of Fire (fghi4567FPTQcYsKefdRJEgJtOHw3wgY)",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

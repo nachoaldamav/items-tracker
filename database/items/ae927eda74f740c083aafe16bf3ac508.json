@@ -1,0 +1,79 @@
+{
+  "id": "ae927eda74f740c083aafe16bf3ac508",
+  "title": "Dauntless Playtest",
+  "description": "Dauntless Playtest",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/jackal/item/EGS_PLAYTEST-1200x1600-3b46a5c71c3b78d595c4ac22dd13c16d.jpg",
+      "md5": "3b46a5c71c3b78d595c4ac22dd13c16d",
+      "width": 1200,
+      "height": 1600,
+      "size": 983179,
+      "uploadedDate": "2020-10-05T14:18:44.898Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/jackal/item/EGS_PLAYTEST-2560x1440-1ee5a91c6f0ed0358d42d9fead39c431.jpg",
+      "md5": "1ee5a91c6f0ed0358d42d9fead39c431",
+      "width": 2560,
+      "height": 1440,
+      "size": 2069629,
+      "uploadedDate": "2020-10-07T19:23:24.309Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "jackal",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-03T17:13:40.102Z",
+  "lastModifiedDate": "2020-10-07T19:23:30.811Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "jackal"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DauntlessPlaytest"
+    }
+  },
+  "entitlementName": "ae927eda74f740c083aafe16bf3ac508",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4ecfc9214c894514a3b587bf24afd3ad",
+      "appId": "JackalPlaytest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-06T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Phoenix Labs",
+  "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

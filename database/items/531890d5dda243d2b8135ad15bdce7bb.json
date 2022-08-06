@@ -1,0 +1,52 @@
+{
+  "id": "531890d5dda243d2b8135ad15bdce7bb",
+  "title": "BohriumStaging",
+  "description": "BohriumStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5f3c898b2a3244af99e9900e015717f8",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-16T00:27:23.405Z",
+  "lastModifiedDate": "2021-06-10T14:05:54.666Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BohriumStaging"
+    }
+  },
+  "entitlementName": "531890d5dda243d2b8135ad15bdce7bb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3381e6bbf279425c98d08de6feaaeb22",
+      "appId": "89f00f9a2ca24e89bcb504d1d80084da",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-02-16T00:48:28.747Z"
+    }
+  ],
+  "developer": "Discord Inc",
+  "developerId": "o-78dgatrfv9b22akubafkyfcm3sbxf5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

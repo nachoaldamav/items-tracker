@@ -1,0 +1,34 @@
+{
+  "id": "0a29c77f41bc4b559e7da405cd8a0110",
+  "title": "DevCeladonBlueAudience",
+  "description": "DevCeladonBlueAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "93eeeab14a3d45b8bf5586a900137733",
+  "status": "ACTIVE",
+  "creationDate": "2021-05-12T23:22:21.959Z",
+  "lastModifiedDate": "2022-02-17T14:56:57.894Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0a29c77f41bc4b559e7da405cd8a0110",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Eremite Games sp. z o.o.",
+  "developerId": "o-3un7kuq4qv93xx6l82gmaf5npsvpl9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

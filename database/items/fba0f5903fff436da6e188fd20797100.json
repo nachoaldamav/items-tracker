@@ -1,0 +1,34 @@
+{
+  "id": "fba0f5903fff436da6e188fd20797100",
+  "title": "CharlieGeneralAudience",
+  "description": "CharlieGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "e65e11fc4aee4bb28c3bddf0b6d490bd",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-18T19:21:35.390Z",
+  "lastModifiedDate": "2021-04-06T14:25:33.982Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "fba0f5903fff436da6e188fd20797100",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

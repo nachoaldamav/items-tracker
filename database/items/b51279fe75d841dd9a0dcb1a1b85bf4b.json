@@ -1,0 +1,97 @@
+{
+  "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+  "title": "Killing Floor 2",
+  "description": "Killing Floor 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KillingFloor2_TripwireInteractive_S1_2560x1440-7441995a51f38b68d8b831306bbcb310",
+      "md5": "7441995a51f38b68d8b831306bbcb310",
+      "width": 2560,
+      "height": 1440,
+      "size": 629374,
+      "uploadedDate": "2021-10-05T14:50:29.349Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KillingFloor2_TripwireInteractive_S2_1200x1600-42e831eca22154d861ea688ba5c09035",
+      "md5": "42e831eca22154d861ea688ba5c09035",
+      "width": 1200,
+      "height": 1600,
+      "size": 603066,
+      "uploadedDate": "2021-10-05T14:50:32.031Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-17T00:08:56.681Z",
+  "lastModifiedDate": "2021-10-05T14:50:41.261Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "affc33b82405457595a032f00284abd2"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../Roaming/KF2/{EpicID}/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KillingFloor2"
+    }
+  },
+  "entitlementName": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "dd29e7d85855490aa25ff1a276ff00fa",
+      "appId": "Finch",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-17T00:00:00.000Z"
+    }
+  ],
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567Ubb7JGylGDZY5rNxhNLYFBxx",
+  "unsearchable": false
+}

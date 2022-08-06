@@ -1,0 +1,67 @@
+{
+  "id": "0de42c949e2942278c5536f23f6e67c8",
+  "title": "Saint Kotar",
+  "description": "Saint Kotar",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d2b29f4dece64c7497fb9229f7207cb2/saint-kotar-offer-fsnb2.jpg",
+      "md5": "53f586b5f692945ae7b95f3684b923d4",
+      "width": 2560,
+      "height": 1440,
+      "size": 606128,
+      "uploadedDate": "2022-03-31T14:08:17.237Z",
+      "alt": "Saint Kotar Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d2b29f4dece64c7497fb9229f7207cb2/download-saint-kotar-offer-17swd.jpg",
+      "md5": "5a4050ca628e28839fb8dd39f24e262b",
+      "width": 1200,
+      "height": 1600,
+      "size": 951029,
+      "uploadedDate": "2022-03-31T14:08:17.746Z",
+      "alt": "Download Saint Kotar Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "08900611756a442ab81750df9deacd77",
+  "status": "ACTIVE",
+  "creationDate": "2021-10-14T07:15:04.690Z",
+  "lastModifiedDate": "2022-06-02T12:25:26.665Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Red Martyr/Saint Kotar/Saves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SaintKotaryGQAM"
+    }
+  },
+  "entitlementName": "0de42c949e2942278c5536f23f6e67c8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3512ef8094f149de930e238ac4754f78",
+      "appId": "37719d82d629486996df634dd02844d0",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SOEDESCO",
+  "developerId": "o-9uf2bsrkptwqbkpy867grcbj5jxrta",
+  "endOfSupport": false,
+  "applicationId": "fghi4567oJ5JLjjlVVUWoiSpAGxtlh3j",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

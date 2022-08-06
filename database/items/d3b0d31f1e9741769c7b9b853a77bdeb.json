@@ -1,0 +1,96 @@
+{
+  "id": "d3b0d31f1e9741769c7b9b853a77bdeb",
+  "title": "The Jackbox Party Pack 8",
+  "description": "The Jackbox Party Pack 8",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheJackboxPartyPack8_JackboxGamesInc_S1_2560x1440-a74d279b3f76da138743de552aa9bdb4",
+      "md5": "a74d279b3f76da138743de552aa9bdb4",
+      "width": 2560,
+      "height": 1440,
+      "size": 1008641,
+      "uploadedDate": "2021-09-23T22:34:40.069Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheJackboxPartyPack8_JackboxGamesInc_S2_1200x1600-d1d10b4cc56754b1320b3c0d239f77b4",
+      "md5": "d1d10b4cc56754b1320b3c0d239f77b4",
+      "width": 1200,
+      "height": 1600,
+      "size": 649511,
+      "uploadedDate": "2021-09-23T22:34:37.371Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "44f0df6169284f7fa6d0cddadb3e0ff9",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-23T21:33:56.815Z",
+  "lastModifiedDate": "2021-10-13T22:49:04.238Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "44f0df6169284f7fa6d0cddadb3e0ff9"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TJPP8"
+    }
+  },
+  "entitlementName": "d3b0d31f1e9741769c7b9b853a77bdeb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1b0fdd0c10a34c00bd90be4f0ee36f5e",
+      "appId": "67003fc4eaa444608acf083a08dc907e",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-09-23T21:43:54.748Z"
+    }
+  ],
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

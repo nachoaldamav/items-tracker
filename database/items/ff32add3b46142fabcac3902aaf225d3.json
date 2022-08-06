@@ -1,0 +1,34 @@
+{
+  "id": "ff32add3b46142fabcac3902aaf225d3",
+  "title": "DevGriffinAudience",
+  "description": "DevGriffinAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "be8e76b808f54c8fa4974e3f516f1960",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-14T16:29:46.592Z",
+  "lastModifiedDate": "2020-10-14T18:57:42.553Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ff32add3b46142fabcac3902aaf225d3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

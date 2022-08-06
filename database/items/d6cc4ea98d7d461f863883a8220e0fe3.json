@@ -1,0 +1,77 @@
+{
+  "id": "d6cc4ea98d7d461f863883a8220e0fe3",
+  "title": "Trolley Problem Inc.",
+  "description": "Trolley Problem Inc.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6a91a2118a41416eaaf785fab5a154eb/trolley-problem-inc-offer-19kgg.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 2560,
+      "height": 1440,
+      "size": 593823,
+      "uploadedDate": "2022-03-09T17:24:16.821Z",
+      "alt": "Trolley Problem Inc. Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6a91a2118a41416eaaf785fab5a154eb/download-trolley-problem-inc-offer-4dztz.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 112025,
+      "uploadedDate": "2022-03-09T17:24:16.369Z",
+      "alt": "Download Trolley Problem Inc. Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cae59d6d2a1341c8b92c89ddf970e1e6",
+  "status": "ACTIVE",
+  "creationDate": "2022-04-05T14:09:06.463Z",
+  "lastModifiedDate": "2022-05-06T23:28:17.913Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/TheTrolleyProblem/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TrolleyProblemInc"
+    }
+  },
+  "entitlementName": "d6cc4ea98d7d461f863883a8220e0fe3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c1a130747fd84d44a8b12269f6b6368b",
+      "appId": "53a7fc5e888b4a90addfb8d34225636a",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Yogscast Ltd",
+  "developerId": "o-gj7j4uu4j6dde8vjb3haa58fjthhfv",
+  "eulaIds": [
+    "(egstore && trolleyproblemeula)"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

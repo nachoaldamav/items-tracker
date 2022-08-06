@@ -1,0 +1,83 @@
+{
+  "id": "b90c37cc117a429d9267624e89054147",
+  "title": "Doomsday Vault",
+  "description": "Doomsday Vault",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt/7a3d82df-1b1c-4e29-a01f-6fece3f53188/doomsday-vault-offer-3a03fbe2.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 2560,
+      "height": 1440,
+      "size": 951432,
+      "uploadedDate": "2021-06-27T06:15:20.823Z",
+      "alt": "Doomsday Vault Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt/3b3736e5-1cfc-4c02-942e-f09752a1dfd6/download-doomsday-vault-offer-692e07e3.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 539137,
+      "uploadedDate": "2021-06-27T06:15:38.546Z",
+      "alt": "Download Doomsday Vault Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "54a9af035a5d432386c77a51e8c60fba",
+  "status": "ACTIVE",
+  "creationDate": "2021-06-10T05:04:41.081Z",
+  "lastModifiedDate": "2022-02-18T09:18:57.433Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Flightless/Doomsday Vault/Epic/{EpicID}/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Flightless/Doomsday Vault/Epic/{EpicID}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "savedata.dat"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DoomsdayVault"
+    }
+  },
+  "entitlementName": "b90c37cc117a429d9267624e89054147",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a879ff6af1344ad48ddd2910b0c2fd14",
+      "appId": "f32f3abe3a39423c9171bc8938d0975b",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Flightless",
+  "developerId": "o-nnbl686ay9e3bnyg2htgncjq9wl5pl",
+  "eulaIds": [],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567kC2XTL5G36e7nPdE9UCXiReZ",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

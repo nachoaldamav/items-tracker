@@ -1,0 +1,53 @@
+{
+  "id": "b0905108438c4426a793f88682e96404",
+  "title": "Toybob Dev Debug",
+  "description": "Toybob Dev Debug",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0712176b5e3e49bfa8866c0ee1359f2d",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-18T12:13:34.522Z",
+  "lastModifiedDate": "2021-03-30T12:59:52.446Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ToybobDevDebug"
+    }
+  },
+  "entitlementName": "b0905108438c4426a793f88682e96404",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b62f54642c464332bb7e4ad77bc3f141",
+      "appId": "4064f46de2314513a0774932e158e72b",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-07-02T00:00:00.000Z"
+    }
+  ],
+  "developer": "Square Enix Japan",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

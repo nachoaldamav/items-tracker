@@ -1,0 +1,70 @@
+{
+  "id": "703a1c752f674dcb8d7ef98daff4dce7",
+  "title": "LEAP Mod Editor",
+  "description": "LEAP Mod Editor",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/8157b8921bc94f42aafecf98868124b2/EGS_LEAPModEditor_BlueIsleStudios_S2_1200x1600-cea5882a76b68226ddb4e4d8c41fad73",
+      "md5": "cea5882a76b68226ddb4e4d8c41fad73",
+      "width": 1200,
+      "height": 1600,
+      "size": 445921,
+      "uploadedDate": "2022-05-05T19:22:44.459Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/8157b8921bc94f42aafecf98868124b2/EGS_LEAPModEditor_BlueIsleStudios_S1_2560x1440-71f106eaba4b0eaa507bab57cfef3805",
+      "md5": "71f106eaba4b0eaa507bab57cfef3805",
+      "width": 2560,
+      "height": 1440,
+      "size": 548739,
+      "uploadedDate": "2022-05-05T19:22:50.203Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "engines"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8157b8921bc94f42aafecf98868124b2",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-29T22:19:05.140Z",
+  "lastModifiedDate": "2022-06-01T17:39:27.756Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LEAPMod"
+    }
+  },
+  "entitlementName": "703a1c752f674dcb8d7ef98daff4dce7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "abe375671c9442cdaf846e579b2b28fd",
+      "appId": "cee9422b0fb14d4a80e84db7e9318b5c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Blue Isle Studios Inc.",
+  "developerId": "o-565qwd7twcgtvffpnqtws5umca4p2u",
+  "eulaIds": [
+    "(egstore && leapmodkit)"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

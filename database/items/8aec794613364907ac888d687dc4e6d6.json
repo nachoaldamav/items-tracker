@@ -1,0 +1,103 @@
+{
+  "id": "8aec794613364907ac888d687dc4e6d6",
+  "title": "The Fall Part 2: Unbound",
+  "description": "The Fall Part 2: Unbound",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/6da57ad658b146ca8caf15b3434c836e/item/EGS_TheFallPart2Unbound_OverTheMoon_S1-2560x1440-943f340bb776ddc39cf8966dc979085b.jpg",
+      "md5": "943f340bb776ddc39cf8966dc979085b",
+      "width": 2560,
+      "height": 1440,
+      "size": 929886,
+      "uploadedDate": "2021-03-09T21:39:48.434Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/6da57ad658b146ca8caf15b3434c836e/item/EGS_TheFallPart2Unbound_OverTheMoon_S2-1200x1600-7e58626e191a0586e023f833cd6868f3.jpg",
+      "md5": "7e58626e191a0586e023f833cd6868f3",
+      "width": 1200,
+      "height": 1600,
+      "size": 587119,
+      "uploadedDate": "2021-03-09T21:40:00.386Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6da57ad658b146ca8caf15b3434c836e",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-03T22:38:17.122Z",
+  "lastModifiedDate": "2021-03-15T16:06:13.737Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "6da57ad658b146ca8caf15b3434c836e"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Over The Moon/TheFallPart2Unbound/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "TheFallPart2SavedData.txt"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheFallPart2Unbound"
+    }
+  },
+  "entitlementName": "8aec794613364907ac888d687dc4e6d6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "898848f97c49405f81be239f4fb9e835",
+      "appId": "f5739a2aa95841f7b4d2b8152bac5364",
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2021-03-03T00:00:00.000Z"
+    }
+  ],
+  "developer": "Over the Moon Games",
+  "developerId": "o-ft7qxhfh9byrlh33kw6k54vy8989jd",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567Igl5tGDcceH0wSa1QRsgU5We",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

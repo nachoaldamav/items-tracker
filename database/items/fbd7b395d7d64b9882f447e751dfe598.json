@@ -1,0 +1,102 @@
+{
+  "id": "fbd7b395d7d64b9882f447e751dfe598",
+  "title": "Back 4 Blood",
+  "description": "Back 4 Blood",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/57dfd95548214a138218e56cd9e5b9d8/item/EGS_Back4Blood_TurtleRockStudios_S1-2560x1440-c50bb45e4f6f4805a26914e28491c15a.jpg",
+      "md5": "c50bb45e4f6f4805a26914e28491c15a",
+      "width": 2560,
+      "height": 1440,
+      "size": 734071,
+      "uploadedDate": "2020-12-07T13:26:17.362Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/57dfd95548214a138218e56cd9e5b9d8/item/EGS_Back4Blood_TurtleRockStudios_S2-1200x1600-0cd4ac84bb5491a81aa6ebfcbea9dfbf.jpg",
+      "md5": "0cd4ac84bb5491a81aa6ebfcbea9dfbf",
+      "width": 1200,
+      "height": 1600,
+      "size": 673952,
+      "uploadedDate": "2020-12-07T13:26:25.496Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "57dfd95548214a138218e56cd9e5b9d8",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-20T19:27:03.020Z",
+  "lastModifiedDate": "2021-10-05T18:13:47.368Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "57dfd95548214a138218e56cd9e5b9d8"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Back4Blood/Epic/Saved/SaveGames/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Back4Blood"
+    }
+  },
+  "entitlementName": "fbd7b395d7d64b9882f447e751dfe598",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7688a261dcdc457c9e9b663e854fa996",
+      "appId": "bbe875bfeaa1414d908fc8278e3359a2",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-12-04T00:00:00.000Z"
+    }
+  ],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567h8WSc3J5M7M2nfWFiZhZCspV",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

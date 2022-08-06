@@ -1,0 +1,66 @@
+{
+  "id": "67b5c5d0549b4b598f996db50c32f33e",
+  "title": "QuinnStaging",
+  "description": "QuinnStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0558e58003aa447a8ace48c3a0d53b54",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-19T03:15:11.554Z",
+  "lastModifiedDate": "2021-01-14T04:56:40.612Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/co.yakand.epic.downinbermuda/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}\\..\\LocalLow\\Yak and Co\\Down in Bermuda\\"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "Player.log,Player-prev.log"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "QuinnStaging"
+    }
+  },
+  "entitlementName": "67b5c5d0549b4b598f996db50c32f33e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0256b19cfd7547aeb484a0c9924b1fc9",
+      "appId": "a130953e950047cf827aa0c0bf1e9a48",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-10-19T00:00:00.000Z"
+    }
+  ],
+  "developer": "Yak & Co",
+  "developerId": "o-pc4ubv4cz3zqmbu63wfgl4akadwkde",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

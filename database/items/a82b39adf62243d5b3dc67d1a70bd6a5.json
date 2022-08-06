@@ -1,0 +1,96 @@
+{
+  "id": "a82b39adf62243d5b3dc67d1a70bd6a5",
+  "title": "Tales of the Neon Sea",
+  "description": "Tales of the Neon Sea",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/37e6d41ce91e44988190c2f10108d4e9/item/EGS_TalesoftheNeonSea_PalmPioneer_S2-1200x1600-d794e2e82ea70067704178ce9b632b52.jpg",
+      "md5": "d794e2e82ea70067704178ce9b632b52",
+      "width": 1200,
+      "height": 1600,
+      "size": 449686,
+      "uploadedDate": "2021-03-18T01:20:13.721Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/37e6d41ce91e44988190c2f10108d4e9/item/Hero Art_TotNS_031821-1920x1080-3386e5a6eebd354045f16499840d1271.jpg",
+      "md5": "3386e5a6eebd354045f16499840d1271",
+      "width": 1920,
+      "height": 1080,
+      "size": 1389148,
+      "uploadedDate": "2021-03-24T20:09:29.726Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "37e6d41ce91e44988190c2f10108d4e9",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-20T23:07:55.704Z",
+  "lastModifiedDate": "2021-03-25T14:06:21.727Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "37e6d41ce91e44988190c2f10108d4e9"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/palmpioneer/TalesoftheNeonSea/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TalesOfTheNeonSea"
+    }
+  },
+  "entitlementName": "a82b39adf62243d5b3dc67d1a70bd6a5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "56ddfaffa0df40cc8789606008570eb6",
+      "appId": "0dac2fd1f95240bda133d1f2fb27c705",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-01-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Thermite Games",
+  "developerId": "o-c4wvnkapw72ewsv6plkytlbc5f46nb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

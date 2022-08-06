@@ -1,0 +1,34 @@
+{
+  "id": "6ae0cda8be8a424bac9363330173b161",
+  "title": "DevZincAudience",
+  "description": "DevZincAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "1b4d97cb697f4ac09ff053738f7716e4",
+  "status": "ACTIVE",
+  "creationDate": "2020-12-10T14:46:58.429Z",
+  "lastModifiedDate": "2021-03-25T15:29:23.842Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "6ae0cda8be8a424bac9363330173b161",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Headup Gmbh",
+  "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

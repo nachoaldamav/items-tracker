@@ -1,0 +1,65 @@
+{
+  "id": "0f71398531ca4632a66d0d92e8ca8d0f",
+  "title": "TrogonStaging",
+  "description": "TrogonStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1093790870b043cdbae03d91d76d9ae6",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-19T18:20:55.380Z",
+  "lastModifiedDate": "2022-01-20T04:27:03.885Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "4eeec72c22ab44baa7cc968d2c0bf7ce"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft  "
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TrogonStaging"
+    }
+  },
+  "entitlementName": "0f71398531ca4632a66d0d92e8ca8d0f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "aac57d90195d45b48e9081c5729ca0ba",
+      "appId": "TrogonStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-19T18:24:30.157Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

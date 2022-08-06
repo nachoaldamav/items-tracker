@@ -1,0 +1,102 @@
+{
+  "id": "11b5d7e72d614d928fd2cd3ba656a816",
+  "title": "The Fall",
+  "description": "The Fall",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/d16f231f238646e881bb0cd83e1d30c8/item/EGS_TheFall_overTheMoon_S2-1200x1600-368b3e85b4d26f63468593c1defca54f.jpg",
+      "md5": "368b3e85b4d26f63468593c1defca54f",
+      "width": 1200,
+      "height": 1600,
+      "size": 468496,
+      "uploadedDate": "2021-03-05T00:12:25.825Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/d16f231f238646e881bb0cd83e1d30c8/item/EGS_TheFall_overTheMoon_S1-2560x1440-7b4817dcd4a35cf5826da7f0bbc744f4.jpg",
+      "md5": "7b4817dcd4a35cf5826da7f0bbc744f4",
+      "width": 2560,
+      "height": 1440,
+      "size": 662781,
+      "uploadedDate": "2021-03-05T00:12:39.181Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d16f231f238646e881bb0cd83e1d30c8",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-21T20:27:30.178Z",
+  "lastModifiedDate": "2021-03-11T15:09:27.556Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "d16f231f238646e881bb0cd83e1d30c8"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Over the Moon/The Fall/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "TheFallSavedData.txt"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheFall"
+    }
+  },
+  "entitlementName": "11b5d7e72d614d928fd2cd3ba656a816",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "297267048369484fbcd886d766377a47",
+      "appId": "daac7fe46e3647cb80530411d7ec1dc5",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-01-21T00:00:00.000Z"
+    }
+  ],
+  "developer": "Over the Moon Games",
+  "developerId": "o-ft7qxhfh9byrlh33kw6k54vy8989jd",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567stqbXQOr0cKDjz1M9EfrntS6",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

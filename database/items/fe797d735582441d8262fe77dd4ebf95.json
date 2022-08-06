@@ -1,0 +1,35 @@
+{
+  "id": "fe797d735582441d8262fe77dd4ebf95",
+  "title": "IndiumGeneralAudience",
+  "description": "IndiumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "eb348461cdaf4bec9d69a1c4bb39ecc4",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-14T22:13:51.687Z",
+  "lastModifiedDate": "2021-04-16T18:12:05.028Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac,Win32"
+    }
+  },
+  "entitlementName": "fe797d735582441d8262fe77dd4ebf95",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Defiant Development PTY LTD",
+  "developerId": "o-263x4kmewy3sltg46p3ccce2aqmypf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

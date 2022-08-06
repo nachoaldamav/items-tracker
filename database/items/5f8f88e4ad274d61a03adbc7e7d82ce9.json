@@ -1,0 +1,71 @@
+{
+  "id": "5f8f88e4ad274d61a03adbc7e7d82ce9",
+  "title": "SkyDrift Infinity",
+  "description": "SkyDrift Infinity",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/582c7e22f2634a9e8a36cee57c71c703/download-skydrift-infinity-offer-3nckb.jpg",
+      "md5": "a5b10df45e530a97e395cb8967d7caa7",
+      "width": 1200,
+      "height": 1600,
+      "size": 553801,
+      "uploadedDate": "2022-02-18T13:48:06.559Z",
+      "alt": "Download SkyDrift Infinity Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/582c7e22f2634a9e8a36cee57c71c703/skydrift-infinity-offer-15z9c.jpg",
+      "md5": "bfc3d9bdfef5857f9fa9ab568bf9b2ba",
+      "width": 2560,
+      "height": 1440,
+      "size": 905705,
+      "uploadedDate": "2022-02-18T13:48:06.905Z",
+      "alt": "SkyDrift Infinity Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "58f23bf07f464e558f673cd8755b94a6",
+  "status": "ACTIVE",
+  "creationDate": "2022-02-15T15:18:31.322Z",
+  "lastModifiedDate": "2022-05-04T07:25:55.501Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/_cloudfolder/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "150"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SkyDriftInfinity"
+    }
+  },
+  "entitlementName": "5f8f88e4ad274d61a03adbc7e7d82ce9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6bf6a17244604bbf89c79d25d28b8d3f",
+      "appId": "6d3e443c997b4ebdb61a299161b3367a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Handy Games",
+  "developerId": "o-ekk92wx8mesnmsvbseequvnt38mzu6",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

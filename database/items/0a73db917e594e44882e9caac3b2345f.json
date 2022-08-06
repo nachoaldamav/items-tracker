@@ -1,0 +1,53 @@
+{
+  "id": "0a73db917e594e44882e9caac3b2345f",
+  "title": "acidgreen Staging",
+  "description": "acidgreen Staging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cc56bfab64424c71b9109bc0607a00dd",
+  "status": "ACTIVE",
+  "creationDate": "2021-05-19T21:24:46.256Z",
+  "lastModifiedDate": "2021-05-19T22:22:38.694Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "acidgreenStaging"
+    }
+  },
+  "entitlementName": "0a73db917e594e44882e9caac3b2345f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0852d9b8126e4dab89fd540755dce680",
+      "appId": "bcf7b6f8aeba43e0b98b48d2263d0d4e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Whatboy Games",
+  "developerId": "o-9uluvb93ylxzxn4my9zzttt8h35yy2",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

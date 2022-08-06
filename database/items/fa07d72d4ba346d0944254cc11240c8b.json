@@ -1,0 +1,47 @@
+{
+  "id": "fa07d72d4ba346d0944254cc11240c8b",
+  "title": "ViolinGeneralAudience",
+  "description": "ViolinGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/5ac6ed1380e94c7384b5cb89d38bb73e/item/Diesel_product_ratings_RP_FOR_E-388x190-189ba6314aca9e4b696db07fdb29c09d814b4ecd-388x190-2b6aa92035599db2ca1517a036cb974a.png",
+      "md5": "2b6aa92035599db2ca1517a036cb974a",
+      "width": 388,
+      "height": 190,
+      "size": 4433,
+      "uploadedDate": "2021-02-04T23:28:00.091Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "5ac6ed1380e94c7384b5cb89d38bb73e",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-25T23:21:07.510Z",
+  "lastModifiedDate": "2021-02-11T19:36:06.620Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "fa07d72d4ba346d0944254cc11240c8b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Outside Game Studio, Inc",
+  "developerId": "o-4rgffp5c83gl5arzhq9439b3awn8l9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "RATING_PENDING",
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

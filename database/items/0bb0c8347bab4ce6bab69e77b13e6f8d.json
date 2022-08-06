@@ -1,0 +1,37 @@
+{
+  "id": "0bb0c8347bab4ce6bab69e77b13e6f8d",
+  "title": "GemTestingAudience",
+  "description": "GemTestingAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "435aaec1220447efbcfeb4f2abeb1027",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-23T21:22:05.249Z",
+  "lastModifiedDate": "2020-08-17T19:28:36.646Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0bb0c8347bab4ce6bab69e77b13e6f8d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

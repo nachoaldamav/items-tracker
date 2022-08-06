@@ -1,0 +1,65 @@
+{
+  "id": "d64d32a17f764e7ebc8f1cd228e9fca2",
+  "title": "NeufchatelStaging",
+  "description": "NeufchatelStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "52b2abce9b65471dbedf72c90cf69b54",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-16T21:39:52.512Z",
+  "lastModifiedDate": "2021-08-10T15:18:57.595Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/RenPy/Synergia-1529537386/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/RenPy/Synergia-1529537386/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NeufchatelStaging"
+    }
+  },
+  "entitlementName": "d64d32a17f764e7ebc8f1cd228e9fca2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "61628b1d94c44569b3d4ca822b5bc920",
+      "appId": "f90067c42f514954b75d684c6ac0fe9a",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2021-08-09T19:16:57.781Z"
+    }
+  ],
+  "developer": "Top Hat Studios, Inc.",
+  "developerId": "o-b3dcbpjzpsrrbtlgt8f7yzmc45msvy",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

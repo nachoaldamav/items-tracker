@@ -1,0 +1,110 @@
+{
+  "id": "5beededaad9743df90e8f07d92df153f",
+  "title": "Cyberpunk 2077",
+  "description": "Cyberpunk 2077",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/item/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_IC1_400x400-24e58442295930689c280c37da538218",
+      "md5": "24e58442295930689c280c37da538218",
+      "width": 400,
+      "height": 400,
+      "size": 24635,
+      "uploadedDate": "2022-01-03T15:59:11.203Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/77f2b98e2cef40c8a7437518bf420e47/EN_CDProjektRED_Cyberpunk2077NG_S1_2560x1440_2560x1440-359e77d3cd0a40aebf3bbc130d14c5c7",
+      "md5": "359e77d3cd0a40aebf3bbc130d14c5c7",
+      "width": 2560,
+      "height": 1440,
+      "size": 684425,
+      "uploadedDate": "2022-03-22T15:56:14.855Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/77f2b98e2cef40c8a7437518bf420e47/EN_CDProjektRED_Cyberpunk2077NG_S2_1200x1600_1200x1600-b1847981214ac013383111fc457eb9c5",
+      "md5": "b1847981214ac013383111fc457eb9c5",
+      "width": 1200,
+      "height": 1600,
+      "size": 747407,
+      "uploadedDate": "2022-03-22T15:56:22.204Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "77f2b98e2cef40c8a7437518bf420e47",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-07T19:03:29.226Z",
+  "lastModifiedDate": "2022-03-22T15:59:45.559Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "77f2b98e2cef40c8a7437518bf420e47"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/CD Projekt Red/Cyberpunk 2077/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "4000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Cyberpunk2077"
+    }
+  },
+  "entitlementName": "5beededaad9743df90e8f07d92df153f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9b8641b9bbb941269f91b40bce913816",
+      "appId": "Ginger",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-12-07T00:00:00.000Z"
+    }
+  ],
+  "developer": "CD PROJEKT RED",
+  "developerId": "o-x2vdjaf7cfakvlsgz8qf2gx8bkplcc",
+  "eulaIds": [
+    "(egstore && cp2077)"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567ay5jIOq6Vy3yzQe8RNUYiURd",
+  "unsearchable": false
+}

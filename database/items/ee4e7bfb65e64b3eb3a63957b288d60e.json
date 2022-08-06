@@ -1,0 +1,62 @@
+{
+  "id": "ee4e7bfb65e64b3eb3a63957b288d60e",
+  "title": "It follows you",
+  "description": "It follows you",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/047f7640fc10446d89632f9eac2edab5/it-follows-you-offer-1czuq.png",
+      "md5": "f9cb229dab52eb055a2607e2a701665c",
+      "width": 2560,
+      "height": 1440,
+      "size": 1371597,
+      "uploadedDate": "2021-12-04T17:22:48.505Z",
+      "alt": "It follows you Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/047f7640fc10446d89632f9eac2edab5/download-it-follows-you-offer-130pw.png",
+      "md5": "10f9aa5d37a607324edc6c3e60b21d2e",
+      "width": 1200,
+      "height": 1600,
+      "size": 641543,
+      "uploadedDate": "2021-12-04T17:22:49.784Z",
+      "alt": "Download It follows you Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "67c01870de204d359ff10d6c5f28e37c",
+  "status": "ACTIVE",
+  "creationDate": "2021-12-13T09:54:41.956Z",
+  "lastModifiedDate": "2022-02-18T09:19:59.966Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ItfollowsyouGLvS6"
+    }
+  },
+  "entitlementName": "ee4e7bfb65e64b3eb3a63957b288d60e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2e602cc7a07649de827bd32d3d405d59",
+      "appId": "86dc151c083849faa487c364832ad932",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Boom Games",
+  "developerId": "o-4znrhnwegcs2lhcsaqvbej9xspq63f",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

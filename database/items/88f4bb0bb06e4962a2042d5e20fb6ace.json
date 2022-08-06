@@ -1,0 +1,73 @@
+{
+  "id": "88f4bb0bb06e4962a2042d5e20fb6ace",
+  "title": "Paneer",
+  "description": "Paneer",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2a09fb19b47f46dfb11ebd382f132a8f",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-15T14:43:42.345Z",
+  "lastModifiedDate": "2021-06-13T20:00:42.502Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "2a09fb19b47f46dfb11ebd382f132a8f"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Paneer"
+    }
+  },
+  "entitlementName": "88f4bb0bb06e4962a2042d5e20fb6ace",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3a19a11b60144a85aa6d12aeca3e0684",
+      "appId": "63a665088eb1480298f1e57943b225d8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Square Enix",
+  "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

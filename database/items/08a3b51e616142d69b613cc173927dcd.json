@@ -1,0 +1,34 @@
+{
+  "id": "08a3b51e616142d69b613cc173927dcd",
+  "title": "DevNobeliumAudience",
+  "description": "DevNobeliumAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "bdaad63b5de5424bbd720d9055906ab1",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-07T00:16:11.090Z",
+  "lastModifiedDate": "2021-09-15T22:30:40.373Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "08a3b51e616142d69b613cc173927dcd",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Rogue Games, Inc.",
+  "developerId": "o-uf2lr9jar96m9qssppdgmal3j6alyq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "205d9c024f9b4cc2911aba3f411ec19c",
+  "title": "DevMtFairweatherAudience",
+  "description": "DevMtFairweatherAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-14T20:19:42.194Z",
+  "lastModifiedDate": "2022-07-15T20:55:44.369Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "205d9c024f9b4cc2911aba3f411ec19c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Gameloft SE",
+  "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

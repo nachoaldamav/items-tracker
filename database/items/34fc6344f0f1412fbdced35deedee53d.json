@@ -1,0 +1,65 @@
+{
+  "id": "34fc6344f0f1412fbdced35deedee53d",
+  "title": "MtAnteroStaging",
+  "description": "MtAnteroStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "39697c68e46b48d2b75e17bdc417d859",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-30T17:24:28.455Z",
+  "lastModifiedDate": "2020-11-19T15:54:49.019Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/ClockStone Software GmbH/BC TWD/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/ClockStone Software GmbH/BC TWD/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Profile.dat"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MtAnteroStaging"
+    }
+  },
+  "entitlementName": "34fc6344f0f1412fbdced35deedee53d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8f272b4be9e84220b533735b856a5000",
+      "appId": "680fc6443d01401493725a139ba5dd9c",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-10-01T00:00:00.000Z"
+    }
+  ],
+  "developer": "Headup Gmbh",
+  "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

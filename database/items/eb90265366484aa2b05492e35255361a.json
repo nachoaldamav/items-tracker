@@ -1,0 +1,35 @@
+{
+  "id": "eb90265366484aa2b05492e35255361a",
+  "title": "ChlorineGeneralAudience",
+  "description": "ChlorineGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "61dbcd85808d4125ba873ba90385949b",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-19T20:59:42.049Z",
+  "lastModifiedDate": "2021-11-17T01:32:06.784Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "eb90265366484aa2b05492e35255361a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Spotify Technology S.A",
+  "developerId": "o-alaz7vst7l33d38ghgf9z4fkbkpr58",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

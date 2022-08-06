@@ -1,0 +1,74 @@
+{
+  "id": "36c3fab8eb264963869b8e1b1a07075d",
+  "title": "Grunter",
+  "description": "Grunter",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e49aaa31c1324e398e0b1029a0c6d390",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-12T23:40:17.234Z",
+  "lastModifiedDate": "2022-02-10T23:01:26.836Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "e49aaa31c1324e398e0b1029a0c6d390"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Grunter"
+    }
+  },
+  "entitlementName": "36c3fab8eb264963869b8e1b1a07075d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "42956a22e56f4a2b9e96d19e283b36ad",
+      "appId": "1d703aedb468494681ed9e5b657dca00",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-02-12T23:41:35.735Z"
+    }
+  ],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

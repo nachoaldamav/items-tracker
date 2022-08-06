@@ -1,0 +1,75 @@
+{
+  "id": "d3b538d677e748d8b468f1bae674718e",
+  "title": "Pile Up",
+  "description": "Pile Up",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/df0794b0834a486f845831a667129c7d/pile-up-offer-94ox1.jpg",
+      "md5": "254fcb24cfb5f19425e2825273161dfa",
+      "width": 2560,
+      "height": 1440,
+      "size": 2262602,
+      "uploadedDate": "2022-02-17T10:18:02.487Z",
+      "alt": "Pile Up Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/df0794b0834a486f845831a667129c7d/download-pile-up-offer-vne6g.png",
+      "md5": "a37a5959828ce2c02716fb716cdd0fb8",
+      "width": 1200,
+      "height": 1600,
+      "size": 2803828,
+      "uploadedDate": "2022-02-17T10:18:03.387Z",
+      "alt": "Download Pile Up Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "36166b04ae2c4a6c8831e98f1ce20656",
+  "status": "ACTIVE",
+  "creationDate": "2022-02-15T15:20:32.983Z",
+  "lastModifiedDate": "2022-03-14T12:09:05.319Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/SeedBySeed/PileUp/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PileUp"
+    }
+  },
+  "entitlementName": "d3b538d677e748d8b468f1bae674718e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ddbd267d829447d581208a8f7b325e1d",
+      "appId": "22935b9deee14a44b6ea2a4588ba7a16",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Handy Games",
+  "developerId": "o-ekk92wx8mesnmsvbseequvnt38mzu6",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

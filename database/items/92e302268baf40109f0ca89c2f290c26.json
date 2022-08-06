@@ -1,0 +1,93 @@
+{
+  "id": "92e302268baf40109f0ca89c2f290c26",
+  "title": "Alien: Isolation - The Trigger",
+  "description": "Alien: Isolation - The Trigger",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/triggerDLC-1920x1080-8c76c016351a3d515f48abb8311ab76d.jfif",
+      "md5": "8c76c016351a3d515f48abb8311ab76d",
+      "width": 1920,
+      "height": 1080,
+      "size": 800198,
+      "uploadedDate": "2020-12-16T17:59:26.633Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/triggerDLCportrait-1200x1600-e06fef25e5e9b72ee6300b8e1bbd6709.jfif",
+      "md5": "e06fef25e5e9b72ee6300b8e1bbd6709",
+      "width": 1200,
+      "height": 1600,
+      "size": 691798,
+      "uploadedDate": "2020-12-17T17:10:06.255Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "df37f065c3f14eadbf011177396e2966",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-26T17:24:09.735Z",
+  "lastModifiedDate": "2020-12-18T16:36:46.496Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "df37f065c3f14eadbf011177396e2966"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheTrigger"
+    }
+  },
+  "entitlementName": "92e302268baf40109f0ca89c2f290c26",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2dab5ce179774898ba37be0849959c02",
+      "appId": "6714b56338a144ecb6fac63aefdd0385",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567WncMSw97kolM0Ff1UBPqwsE7",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,60 @@
+{
+  "id": "1db749547da441789b76adb41b5474aa",
+  "title": "CadmiumStaging",
+  "description": "CadmiumStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d16f231f238646e881bb0cd83e1d30c8",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-21T20:27:30.681Z",
+  "lastModifiedDate": "2021-03-11T15:09:27.556Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Over the Moon/The Fall/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "CloudIncludeList"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CadmiumStaging"
+    }
+  },
+  "entitlementName": "1db749547da441789b76adb41b5474aa",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8440be71bd0041dfb2dd9512701bb6eb",
+      "appId": "cd3f4fff52014e64a6e37a63380743d6",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-01-21T00:00:00.000Z"
+    }
+  ],
+  "developer": "Over the Moon Games",
+  "developerId": "o-ft7qxhfh9byrlh33kw6k54vy8989jd",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

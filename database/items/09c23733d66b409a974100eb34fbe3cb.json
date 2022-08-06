@@ -1,0 +1,53 @@
+{
+  "id": "09c23733d66b409a974100eb34fbe3cb",
+  "title": "ismDPC PubDebug",
+  "description": "ismDPC PubDebug",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3671db367c594e2ab5020105dc52dc65",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-26T14:08:17.274Z",
+  "lastModifiedDate": "2021-03-30T13:00:10.423Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PubDebug"
+    }
+  },
+  "entitlementName": "09c23733d66b409a974100eb34fbe3cb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "24c0dd847b294448b9e808b8c2e9f44d",
+      "appId": "2c4250ef88e94d209332a5f3de16d048",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-26T14:15:25.608Z"
+    }
+  ],
+  "developer": "Square Enix Japan",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

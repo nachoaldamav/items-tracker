@@ -1,0 +1,34 @@
+{
+  "id": "cf915b8751c5499ea98955941cedfaf3",
+  "title": "DevCharlieAudience",
+  "description": "DevCharlieAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "e65e11fc4aee4bb28c3bddf0b6d490bd",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-18T19:21:35.177Z",
+  "lastModifiedDate": "2021-04-06T14:25:33.982Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "cf915b8751c5499ea98955941cedfaf3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,53 @@
+{
+  "id": "e2e21f16c1e34d92a7abd31dc8c12286",
+  "title": "prosciuttoStaging",
+  "description": "prosciuttoStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4586d456108e4a03810c5927453ce6da",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-25T14:45:28.910Z",
+  "lastModifiedDate": "2021-05-19T20:35:36.469Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "prosciuttoStaging"
+    }
+  },
+  "entitlementName": "e2e21f16c1e34d92a7abd31dc8c12286",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "206123a9062d44a4abe4745e320e6766",
+      "appId": "5224296876704dd19de695dc31e7fbbd",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-03-25T15:16:10.801Z"
+    }
+  ],
+  "developer": "Fellow Traveller",
+  "developerId": "o-22uq4lnmzc6kmlbbaf5gp8yvysnn3t",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

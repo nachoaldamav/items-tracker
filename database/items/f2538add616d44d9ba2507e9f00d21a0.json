@@ -1,0 +1,72 @@
+{
+  "id": "f2538add616d44d9ba2507e9f00d21a0",
+  "title": "PikesPeakPatch",
+  "description": "PikesPeakPatch",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bb9f87bb3d0042258bb1c97397bc60f2",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-29T16:20:45.399Z",
+  "lastModifiedDate": "2021-03-10T11:55:57.794Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "bb9f87bb3d0042258bb1c97397bc60f2"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PikesPeakPatch"
+    }
+  },
+  "entitlementName": "f2538add616d44d9ba2507e9f00d21a0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8f1ea0580f674c67aa312fde4108725a",
+      "appId": "7251f05914b44573819199f4227daba5",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-29T16:43:04.714Z"
+    }
+  ],
+  "developer": "Unit 2 Games",
+  "developerId": "o-3wg8cebzdas9bt56adlsslgzr8mcue",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

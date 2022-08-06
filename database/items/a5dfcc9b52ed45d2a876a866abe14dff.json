@@ -1,0 +1,52 @@
+{
+  "id": "a5dfcc9b52ed45d2a876a866abe14dff",
+  "title": "FetaStaging",
+  "description": "FetaStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e901b6ea77454b0e9d944976a975165c",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-01T18:52:23.612Z",
+  "lastModifiedDate": "2021-04-01T20:50:03.825Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FetaStaging"
+    }
+  },
+  "entitlementName": "a5dfcc9b52ed45d2a876a866abe14dff",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "74799708d0b24983ab99fd14e8d8fd50",
+      "appId": "aab90a5aa77f4158948efd99d627fe85",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-04-01T19:09:41.952Z"
+    }
+  ],
+  "developer": "Nacon",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

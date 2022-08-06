@@ -1,0 +1,74 @@
+{
+  "id": "b6b2fe2427684e3d927e5487f8d15eed",
+  "title": "Druidstone",
+  "description": "Druidstone",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2bdd92f9f56b40fb8d6202cf5559f147/download-druidstone-offer-tyeem.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 2470736,
+      "uploadedDate": "2021-08-03T07:29:39.679Z",
+      "alt": "Download Druidstone Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2bdd92f9f56b40fb8d6202cf5559f147/druidstone-offer-eq6bg.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 2560,
+      "height": 1440,
+      "size": 4517729,
+      "uploadedDate": "2021-08-03T07:46:14.551Z",
+      "alt": "Druidstone Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "99aa17224088417abf7e7f22e40d779e",
+  "status": "ACTIVE",
+  "creationDate": "2021-07-28T07:27:20.351Z",
+  "lastModifiedDate": "2022-02-18T09:15:45.507Z",
+  "customAttributes": {
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "productGeneration": {
+      "type": "STRING",
+      "value": "SPT"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Druidstone"
+    }
+  },
+  "entitlementName": "b6b2fe2427684e3d927e5487f8d15eed",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "56919229b51840cd86fda1b9775a12d9",
+      "appId": "29413abfdcb2436fbb7e5304a0252610",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Ctrl Alt Ninja",
+  "developerId": "o-xlxyq55utalv7jlx8zqx2gjwwth8s9",
+  "eulaIds": [],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

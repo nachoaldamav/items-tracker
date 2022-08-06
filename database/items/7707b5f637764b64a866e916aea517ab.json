@@ -1,0 +1,56 @@
+{
+  "id": "7707b5f637764b64a866e916aea517ab",
+  "title": "ThalliumStaging",
+  "description": "ThalliumStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "45bd0f6fc2704e22a3c1933f7bb972bf",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-08T00:33:11.654Z",
+  "lastModifiedDate": "2021-03-04T12:54:23.799Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/SEVER/The Life and Suffering of Sir Brante/Saves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ThalliumStaging"
+    }
+  },
+  "entitlementName": "7707b5f637764b64a866e916aea517ab",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "909879f62a9d4e299a6b585115928164",
+      "appId": "fea014e59e5c494f88d69f432e70b617",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-02-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "101XP Limited",
+  "developerId": "o-8kptgx6fhwgfv38jl63mrfstuvljre",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

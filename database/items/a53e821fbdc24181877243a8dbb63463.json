@@ -1,0 +1,78 @@
+{
+  "id": "a53e821fbdc24181877243a8dbb63463",
+  "title": "Battle Breakers",
+  "description": "Battle Breakers",
+  "keyImages": [
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/wex/item/BB_AndroidLauncher_Keyart-800x800-f83d14d91266a550f50475984ec11bf8.jpg",
+      "md5": "f83d14d91266a550f50475984ec11bf8",
+      "width": 800,
+      "height": 800,
+      "size": 758378,
+      "uploadedDate": "2020-07-21T16:09:53.602Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/wex/item/BB_AndroidLauncher_Keyart-800x800-f83d14d91266a550f50475984ec11bf8.jpg",
+      "md5": "f83d14d91266a550f50475984ec11bf8",
+      "width": 800,
+      "height": 800,
+      "size": 758378,
+      "uploadedDate": "2020-07-21T19:06:39.190Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/wex/item/BB_AndroidLauncher_Keyart-800x800-f83d14d91266a550f50475984ec11bf8.jpg",
+      "md5": "f83d14d91266a550f50475984ec11bf8",
+      "width": 800,
+      "height": 800,
+      "size": 758378,
+      "uploadedDate": "2020-07-21T19:07:13.144Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2016-08-10T17:22:25.371Z",
+  "lastModifiedDate": "2020-07-21T19:07:24.044Z",
+  "customAttributes": {
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BattleBreakers"
+    }
+  },
+  "entitlementName": "WorldExplorersLive",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f9a36cd1681a41d1872c7037ec8d8c60",
+      "appId": "WorldExplorersLive",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2016-08-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

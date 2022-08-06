@@ -1,0 +1,53 @@
+{
+  "id": "8d20de60eee14839a737f204ed6916e8",
+  "title": "Peach Dev Release",
+  "description": "Peach Dev Release",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c8ff067c1c984cd7ab1998e8a9afc8b6",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-18T12:23:23.955Z",
+  "lastModifiedDate": "2021-03-30T12:59:55.435Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PeachDevRelease"
+    }
+  },
+  "entitlementName": "8d20de60eee14839a737f204ed6916e8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fffb3af17e0b4c4f83991cf8977b0acc",
+      "appId": "2d431ec459df4774a17a70bd8a2576af",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "Square Enix Japan",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

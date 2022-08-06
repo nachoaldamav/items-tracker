@@ -1,0 +1,34 @@
+{
+  "id": "46382aa1a1db48fe93457c7630f3b7ce",
+  "title": "DevOsmiumAudience",
+  "description": "DevOsmiumAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "08ae29e4f70a4b62aa055e383381aa82",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-01T19:37:44.832Z",
+  "lastModifiedDate": "2021-02-25T15:33:02.034Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "46382aa1a1db48fe93457c7630f3b7ce",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Hypertrain Digital",
+  "developerId": "o-p9883lvrpllhyd7sad6tgxv53mdyh5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "370b6cf0245c4234a6b5673e216b7d55",
+  "title": "YttriumStaging",
+  "description": "YttriumStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "643a8667d7a940b8b36094020fcd0dcf",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-14T00:06:21.989Z",
+  "lastModifiedDate": "2021-06-17T04:40:12.840Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{InstallDir}/Saves"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Saves"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "YttriumStaging"
+    }
+  },
+  "entitlementName": "370b6cf0245c4234a6b5673e216b7d55",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "af9169fe21ee42979e8950e4a7b38a2c",
+      "appId": "bb12e651829f42a3b7601916dd7a8763",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-01-14T00:13:45.180Z"
+    }
+  ],
+  "developer": "Kongregate",
+  "developerId": "o-ztdpxjrm7lyemkjl4967l76k4vzxfr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi45679fa7M5pc0SPtkjJPyDII8nN3",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

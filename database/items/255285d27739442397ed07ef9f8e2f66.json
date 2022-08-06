@@ -1,0 +1,36 @@
+{
+  "id": "255285d27739442397ed07ef9f8e2f66",
+  "title": "ScorpioPrePurchaseAudience",
+  "description": "ScorpioPrePurchaseAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "02c14a01b7044db98de3f3a10813a42e",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-13T18:26:22.006Z",
+  "lastModifiedDate": "2022-06-08T15:44:35.828Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "255285d27739442397ed07ef9f8e2f66",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

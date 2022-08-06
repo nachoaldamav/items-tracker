@@ -1,0 +1,34 @@
+{
+  "id": "d3ae0e5b2cb44d4cba82527264306927",
+  "title": "DevCentaurAudience",
+  "description": "DevCentaurAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "0610384879594dd0b42c73e2d8af88ae",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-11T16:26:21.249Z",
+  "lastModifiedDate": "2021-11-10T22:40:26.916Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d3ae0e5b2cb44d4cba82527264306927",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Coatsink",
+  "developerId": "o-bhd3mh54edbkdtbzehl9wz6jnfeyea",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

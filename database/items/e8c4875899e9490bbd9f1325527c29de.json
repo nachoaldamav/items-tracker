@@ -1,0 +1,59 @@
+{
+  "id": "e8c4875899e9490bbd9f1325527c29de",
+  "title": "OscarStaging",
+  "description": "OscarStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c1edd23d035a4df0bbc419f2d0fbb40d",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-18T17:09:41.329Z",
+  "lastModifiedDate": "2021-05-20T05:14:17.569Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/SpiffyBit/Scrapnaut/Saves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OscarStaging"
+    }
+  },
+  "entitlementName": "e8c4875899e9490bbd9f1325527c29de",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "aaf424c57fbd47e1bd2ed28c0c3d0690",
+      "appId": "b4f9fd532e564c3fb52d4cf7537ca3fa",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-02-18T00:00:00.000Z"
+    }
+  ],
+  "developer": "RockGame S.A.",
+  "developerId": "o-e6zbx28e9zzbxg5jvzh37a3p5j8kam",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567akjJInLmNkgi4JaeNxcbjmd6",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,92 @@
+{
+  "id": "24955da6dc4240d9a1f206aceff2691d",
+  "title": "3 out of 10: Season Two",
+  "description": "3 out of 10: Season Two",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b829cfd910554ad3ad2eb3b314e2b1ef/item/EGS_3outof10SeasonTwo_TerriblePostureGamesInc_S1-2560x1440-03f957380c64f41b4241cfb591a263ce.jpg",
+      "md5": "03f957380c64f41b4241cfb591a263ce",
+      "width": 2560,
+      "height": 1440,
+      "size": 754974,
+      "uploadedDate": "2021-03-02T17:38:54.702Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/b829cfd910554ad3ad2eb3b314e2b1ef/item/EGS_3outof10SeasonTwo_TerriblePostureGamesInc_S2-1200x1600-0526ebb8c316a36e20e97271782bd31d.jpg",
+      "md5": "0526ebb8c316a36e20e97271782bd31d",
+      "width": 1200,
+      "height": 1600,
+      "size": 512749,
+      "uploadedDate": "2021-03-02T17:39:04.069Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b829cfd910554ad3ad2eb3b314e2b1ef",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-08T21:58:00.346Z",
+  "lastModifiedDate": "2021-04-01T14:19:55.502Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "b829cfd910554ad3ad2eb3b314e2b1ef"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "threeoutof10S2"
+    }
+  },
+  "entitlementName": "24955da6dc4240d9a1f206aceff2691d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3e9f9b79b856434099756861e90f1e1a",
+      "appId": "9a1aae61129247fb971ce96ab6a959da",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Terrible Posture Games, Inc.",
+  "developerId": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

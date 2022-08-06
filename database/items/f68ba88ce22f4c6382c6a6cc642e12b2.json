@@ -1,0 +1,35 @@
+{
+  "id": "f68ba88ce22f4c6382c6a6cc642e12b2",
+  "title": "HydrogenGeneralAudience",
+  "description": "HydrogenGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "72324f542dc4488681e617b0d39ad115",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-28T15:27:47.974Z",
+  "lastModifiedDate": "2020-12-14T13:53:02.986Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f68ba88ce22f4c6382c6a6cc642e12b2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

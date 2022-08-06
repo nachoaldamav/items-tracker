@@ -1,0 +1,33 @@
+{
+  "id": "23bfea7668e546d5b9d3443c6f95e935",
+  "title": "DevRigaAudience",
+  "description": "DevRigaAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "2a5eb81d6f384099a5259413ee22baa4",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-12T15:06:13.364Z",
+  "lastModifiedDate": "2021-12-02T17:55:17.665Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "23bfea7668e546d5b9d3443c6f95e935",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Distant Signal Limited",
+  "developerId": "o-xqs37sebjm7zdvdm9je2c4lj3ctnsr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "c1f3c127e6404ab7b14a4808b912483a",
+  "title": "GingersnapsGeneralAudience",
+  "description": "GingersnapsGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "6ad92d14cc544743831d4f70c964d39d",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-27T11:50:49.567Z",
+  "lastModifiedDate": "2020-12-14T13:54:38.315Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c1f3c127e6404ab7b14a4808b912483a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "568c39e0677b4b0690c6d8b93fe6f306",
+  "title": "Paris-Staging",
+  "description": "Paris-Staging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-12T16:57:54.399Z",
+  "lastModifiedDate": "2022-01-04T17:25:22.577Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/Avalanche Studios/Epic Games Store/CotW/ "
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ParisStaging"
+    }
+  },
+  "entitlementName": "568c39e0677b4b0690c6d8b93fe6f306",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9990382401fb40b19a26ce58bbcd8c18",
+      "appId": "8fda65db161e44d6b0c73c6155e4ed76",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-03T15:44:09.740Z"
+    }
+  ],
+  "developer": "Expansive Worlds AB",
+  "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567ViXXa2ZNYtHlbch78Tr8MxL1",
+  "unsearchable": false
+}

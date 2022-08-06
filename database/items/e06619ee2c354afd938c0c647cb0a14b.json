@@ -1,0 +1,58 @@
+{
+  "id": "e06619ee2c354afd938c0c647cb0a14b",
+  "title": "VoltaStaging",
+  "description": "VoltaStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "301ec0fdbcaf46b3af9322e436ac87bd",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-27T23:21:12.742Z",
+  "lastModifiedDate": "2021-08-12T16:58:50.042Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/VoidTrain/Saved/SaveGames/Cloud/  "
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "VoltaStaging"
+    }
+  },
+  "entitlementName": "e06619ee2c354afd938c0c647cb0a14b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a92e15b58af94692a0f3877291922958",
+      "appId": "aadb98342b944a6bb273c85408c40fdf",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-01-28T20:13:28.057Z"
+    }
+  ],
+  "developer": "Hypetrain Digital",
+  "developerId": "o-p9883lvrpllhyd7sad6tgxv53mdyh5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567E6ZA6pRR4rkttTZbuRtdQ63F",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

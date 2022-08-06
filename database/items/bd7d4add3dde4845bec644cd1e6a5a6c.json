@@ -1,0 +1,67 @@
+{
+  "id": "bd7d4add3dde4845bec644cd1e6a5a6c",
+  "title": "Submerged",
+  "description": "Submerged",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a74693321522477089fa2190bc65526b/download-submerged-offer-17mzy.jpg",
+      "md5": "d457ce25370df80eef7aed1c57b9964a",
+      "width": 1200,
+      "height": 1600,
+      "size": 1388373,
+      "uploadedDate": "2022-02-01T00:00:51.268Z",
+      "alt": "Download Submerged Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a74693321522477089fa2190bc65526b/submerged-offer-8u2b8.jpg",
+      "md5": "a69457471091151cdc88cd2f42a3e5b2",
+      "width": 2560,
+      "height": 1440,
+      "size": 2106073,
+      "uploadedDate": "2022-02-01T00:01:00.647Z",
+      "alt": "Submerged Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "96e94abcf61e4b84b1a771ac53c435e4",
+  "status": "ACTIVE",
+  "creationDate": "2021-12-06T06:20:44.098Z",
+  "lastModifiedDate": "2022-03-02T05:57:33.907Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Submerged/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Submerged"
+    }
+  },
+  "entitlementName": "bd7d4add3dde4845bec644cd1e6a5a6c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "059296291e3a4d4692a1841bf9cb439b",
+      "appId": "f64160937f8d468eaf432fa1a508dafc",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Uppercut Games",
+  "developerId": "o-hpdh9zjxpuz4quu95cagfzhgcavmjt",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

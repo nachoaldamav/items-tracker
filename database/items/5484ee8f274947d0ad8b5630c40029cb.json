@@ -1,0 +1,34 @@
+{
+  "id": "5484ee8f274947d0ad8b5630c40029cb",
+  "title": "DevLasagneAudience",
+  "description": "DevLasagneAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "757a437095f549baa72b2a1100ead743",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-02T13:42:13.979Z",
+  "lastModifiedDate": "2021-03-02T13:45:24.850Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5484ee8f274947d0ad8b5630c40029cb",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games Publishing",
+  "developerId": "o-e2xslu4mlqqaavphzl6927vtjqamhj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

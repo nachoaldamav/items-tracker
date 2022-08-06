@@ -1,0 +1,49 @@
+{
+  "id": "0a5ef16df23e435d91464c48e66cd256",
+  "title": "Create Item For PriceEngine",
+  "description": "item description",
+  "longDescription": "long item description",
+  "technicalDetails": "technical informatioin",
+  "keyImages": [
+    {
+      "type": "image name",
+      "url": "url",
+      "md5": "ed076287532e86365e841e92bfc50d8c",
+      "width": 100,
+      "height": 120,
+      "size": 12000,
+      "uploadedDate": "2018-11-27T08:02:50.164Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2018-11-27T08:02:53.022Z",
+  "lastModifiedDate": "2022-01-06T07:13:00.597Z",
+  "entitlementName": "Consumable_Entitlement",
+  "entitlementType": "TEST",
+  "entitlementEndDate": "2099-12-30T00:00:00.000Z",
+  "entitlementStartDate": "2009-12-31T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-63xw9bf4aa9wjw84hnm5du9n5yj56j",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {
+    "ACB": {
+      "ratingSystem": "ACB",
+      "gameRating": "MA 15+",
+      "title": " MA 15+"
+    },
+    "ESRB": {
+      "ratingSystem": "ESRB",
+      "gameRating": "MATURE",
+      "title": "MATURE 17+"
+    }
+  },
+  "unsearchable": false
+}

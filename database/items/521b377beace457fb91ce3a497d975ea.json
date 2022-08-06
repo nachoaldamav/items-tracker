@@ -1,0 +1,94 @@
+{
+  "id": "521b377beace457fb91ce3a497d975ea",
+  "title": "The Count Lucanor",
+  "description": "The Count Lucanor",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheCountLucanor_BaroqueDecay_S1_2560x1440-7e7623f0519cc9ace558750849f5cd15",
+      "md5": "7e7623f0519cc9ace558750849f5cd15",
+      "width": 2560,
+      "height": 1440,
+      "size": 776581,
+      "uploadedDate": "2021-06-09T20:16:24.055Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheCountLucanor_BaroqueDecay_S2_1200x1600-2a6bd7f3d78e24e32dfaa57648af30bc",
+      "md5": "2a6bd7f3d78e24e32dfaa57648af30bc",
+      "width": 1200,
+      "height": 1600,
+      "size": 300917,
+      "uploadedDate": "2021-06-09T20:16:27.699Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "dd1a1179103041a19c85cee2ca43cd99",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-23T21:12:20.286Z",
+  "lastModifiedDate": "2021-06-10T18:55:05.497Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "dd1a1179103041a19c85cee2ca43cd99"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheCountLucanor"
+    }
+  },
+  "entitlementName": "521b377beace457fb91ce3a497d975ea",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "377945ed2b364c19a6ef14e61c406305",
+      "appId": "eb10685a70c04c8eaee45719a8431848",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-02-23T21:19:10.100Z"
+    }
+  ],
+  "developer": "Another Indie Studio Limited",
+  "developerId": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

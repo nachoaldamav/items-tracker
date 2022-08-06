@@ -1,0 +1,63 @@
+{
+  "id": "8bf3a708b8a54fef94a4fa6a0fc8a9a8",
+  "title": "Weird West",
+  "description": "Weird West",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/127cdd507a3a404883d77705ee2700e4/weird-west-offer-8xfhr.jpg",
+      "md5": "9ad6105b39f912e549f998b44959e349",
+      "width": 2560,
+      "height": 1440,
+      "size": 2655238,
+      "uploadedDate": "2022-03-29T23:18:25.920Z",
+      "alt": "Weird West Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/127cdd507a3a404883d77705ee2700e4/download-weird-west-offer-szpx8.png",
+      "md5": "3a53deff8c08b1cb40765c2d319bb5c2",
+      "width": 1200,
+      "height": 1600,
+      "size": 2603253,
+      "uploadedDate": "2022-03-29T23:18:26.674Z",
+      "alt": "Download Weird West Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "73ce3d09e1d949e8b80f66c78c1cda50",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-22T02:57:50.443Z",
+  "lastModifiedDate": "2022-06-25T06:35:19.367Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "WeirdWest"
+    }
+  },
+  "entitlementName": "8bf3a708b8a54fef94a4fa6a0fc8a9a8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d463d21b7f4245f48edf804ec9b4e022",
+      "appId": "5ab7c9b39f81481c88dce1e4f106a594",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "endOfSupport": false,
+  "applicationId": "fghi45679O3ZTVIGBuA6uj1mwv7vaHbh",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,52 @@
+{
+  "id": "47fb57399a9346c2aeae130960911a42",
+  "title": "MolybdenumStaging",
+  "description": "MolybdenumStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "000ac10599a14d4dbe6ce5b817040fdd",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-08T23:20:14.576Z",
+  "lastModifiedDate": "2021-05-14T17:14:19.701Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MolybdenumStaging"
+    }
+  },
+  "entitlementName": "47fb57399a9346c2aeae130960911a42",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ce7243677d024b729adc188a0a6ca44e",
+      "appId": "df0886e25c8f450bbd6694369b695850",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-01-08T23:26:33.747Z"
+    }
+  ],
+  "developer": "Dream Harvest",
+  "developerId": "o-5p9wf3299un2mk98xkvtfvwm3dk22v",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

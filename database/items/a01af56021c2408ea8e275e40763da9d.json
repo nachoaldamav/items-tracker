@@ -1,0 +1,56 @@
+{
+  "id": "a01af56021c2408ea8e275e40763da9d",
+  "title": "AntimonyStaging",
+  "description": "AntimonyStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "37e6d41ce91e44988190c2f10108d4e9",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-20T23:07:56.206Z",
+  "lastModifiedDate": "2021-03-25T14:06:21.727Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/palmpioneer/TalesoftheNeonSea/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AntimonyStaging"
+    }
+  },
+  "entitlementName": "a01af56021c2408ea8e275e40763da9d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4dc062592269419e9b2ba9b8bd14989a",
+      "appId": "f4770e758e004043913cca07ce8e5dac",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-01-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Thermite Games",
+  "developerId": "o-c4wvnkapw72ewsv6plkytlbc5f46nb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

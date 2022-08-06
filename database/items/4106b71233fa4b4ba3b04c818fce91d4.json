@@ -1,0 +1,98 @@
+{
+  "id": "4106b71233fa4b4ba3b04c818fce91d4",
+  "title": "Alien: Isolation",
+  "description": "Alien: Isolation",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/EGS_AlienIsolation_CreativeAssembly_S5-1920x1080-1cf3b9a86adcefeebf903451b1b3fb49.jpg",
+      "md5": "1cf3b9a86adcefeebf903451b1b3fb49",
+      "width": 1920,
+      "height": 1080,
+      "size": 620728,
+      "uploadedDate": "2020-12-17T17:18:35.389Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/EGS_AlienIsolation_CreativeAssembly_S6-1200x1600-af00adc8f67a7c6138cce183ac1e9503.jpg",
+      "md5": "af00adc8f67a7c6138cce183ac1e9503",
+      "width": 1200,
+      "height": 1600,
+      "size": 683092,
+      "uploadedDate": "2020-12-17T17:18:45.091Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "df37f065c3f14eadbf011177396e2966",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-26T16:28:13.460Z",
+  "lastModifiedDate": "2022-03-30T21:43:40.071Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "df37f065c3f14eadbf011177396e2966"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/The Creative Assembly/Alien Isolation/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AlienIsolation"
+    }
+  },
+  "entitlementName": "4106b71233fa4b4ba3b04c818fce91d4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2f502e2e64724273be9abe81deec130f",
+      "appId": "8935bb3e1420443a9789fe01758039a5",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-16T00:00:00.000Z"
+    }
+  ],
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "(egstore && sega_of_europe)"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567WncMSw97kolM0Ff1UBPqwsE7",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

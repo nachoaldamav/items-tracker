@@ -1,0 +1,68 @@
+{
+  "id": "981f70c470944650a4e5f14f8be087ff",
+  "title": "Galactic Civilizations III: Intrigue Expansion",
+  "description": "Galactic Civilizations III: Intrigue Expansion",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/item/intrigue wide-2560x1440-f8433110811224d394770e56122e4bfa-2560x1440-f8433110811224d394770e56122e4bfa.jpeg",
+      "md5": "f8433110811224d394770e56122e4bfa",
+      "width": 2560,
+      "height": 1440,
+      "size": 755933,
+      "uploadedDate": "2021-01-20T22:49:59.026Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/item/intrigue tall-1200x1600-505674c3037d63d3ffffa6e390076764-1200x1600-505674c3037d63d3ffffa6e390076764.jpeg",
+      "md5": "505674c3037d63d3ffffa6e390076764",
+      "width": 1200,
+      "height": 1600,
+      "size": 441601,
+      "uploadedDate": "2021-01-20T22:50:12.783Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3c52fbac843d4375803187739db84801",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-20T05:16:32.190Z",
+  "lastModifiedDate": "2021-01-21T15:11:42.155Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "981f70c470944650a4e5f14f8be087ff",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a2ee9ed1e28542a6bcabfddde03ab910",
+      "appId": "fa1ca843ddfa48838d4f9205b45bc2bd",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-06T00:00:00.000Z"
+    }
+  ],
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

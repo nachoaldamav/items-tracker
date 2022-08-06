@@ -1,0 +1,35 @@
+{
+  "id": "e8e3efa953e4414baa0b38f6c5db2ac4",
+  "title": "HemeraGeneralAudience",
+  "description": "HemeraGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "9c7a70d78df948ddaf1b51722b16d6b8",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-27T13:13:17.432Z",
+  "lastModifiedDate": "2020-11-23T16:48:26.650Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e8e3efa953e4414baa0b38f6c5db2ac4",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "White Thorn Digital",
+  "developerId": "o-v7c8xq9bmhtqhakulz7lrptnz8b628",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

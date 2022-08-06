@@ -1,0 +1,97 @@
+{
+  "id": "9fd39d8ac72946a2a10a887ce86e6c35",
+  "title": "MechWarrior 5 Mercenaries",
+  "description": "MechWarrior 5 Mercenaries",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-7e62db6ae48fcb403f9182068631df34",
+      "md5": "7e62db6ae48fcb403f9182068631df34",
+      "width": 1200,
+      "height": 1600,
+      "size": 575502,
+      "uploadedDate": "2021-05-03T21:27:47.828Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s1-2560x1440_2560x1440-8e632e897c65539f1a7b1e45c147726d",
+      "md5": "8e632e897c65539f1a7b1e45c147726d",
+      "width": 2560,
+      "height": 1440,
+      "size": 444811,
+      "uploadedDate": "2021-05-03T21:27:52.122Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b9def67e597b4be7a16146146a044d02",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-23T16:38:43.266Z",
+  "lastModifiedDate": "2021-05-03T21:28:03.832Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "b9def67e597b4be7a16146146a044d02"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "mods.installPath": {
+      "type": "STRING",
+      "value": "MW5Mercs/EpicMods"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MW5Mercs"
+    }
+  },
+  "entitlementName": "9fd39d8ac72946a2a10a887ce86e6c35",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "666163b5a42a428899ffe61d969d9be8",
+      "appId": "Hoopoe",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-07-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "Piranha Games",
+  "developerId": "o-muad9pj32k67stc4ycpgpplwq84sgq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "8c7870969d43446c87ebb829f0854044",
+  "title": "AliceBlueStaging",
+  "description": "AliceBlueStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6b753bd045604be89d9779e741c604b1",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-30T17:48:41.640Z",
+  "lastModifiedDate": "2021-08-12T14:20:46.624Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/BlueManchu/VoidBastards/Standalone/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AliceBlueStaging"
+    }
+  },
+  "entitlementName": "8c7870969d43446c87ebb829f0854044",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "90c58d2bb66a440abc6dae4f097dd7a8",
+      "appId": "46c96a05a7354ba4b19c679c10227899",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Humble Bundle",
+  "developerId": "o-pldxyabsslnt6jth2z634mmr2pw8lu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567zQOSbVwnerQRRomMCLthJ5PD",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

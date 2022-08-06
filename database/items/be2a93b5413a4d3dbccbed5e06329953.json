@@ -1,0 +1,54 @@
+{
+  "id": "be2a93b5413a4d3dbccbed5e06329953",
+  "title": "Disney Dreamlight Valley Staging",
+  "description": "Disney Dreamlight Valley Staging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-14T20:19:42.348Z",
+  "lastModifiedDate": "2022-07-15T20:55:44.382Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DDVStaging"
+    }
+  },
+  "entitlementName": "be2a93b5413a4d3dbccbed5e06329953",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c173ba3a5dbe4a2c840b8795f2f046bd",
+      "appId": "5d790ab6c1874f5889d4247e9185a25a",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-14T20:38:58.123Z"
+    }
+  ],
+  "developer": "Gameloft SE",
+  "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

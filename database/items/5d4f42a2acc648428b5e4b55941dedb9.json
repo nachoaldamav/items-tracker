@@ -1,0 +1,64 @@
+{
+  "id": "5d4f42a2acc648428b5e4b55941dedb9",
+  "title": "BravoStaging",
+  "description": "BravoStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f93166410da745b58b1613db66141c02",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-18T17:52:04.924Z",
+  "lastModifiedDate": "2021-03-24T21:12:57.343Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/ELEX/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": ".save"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1500"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BravoStaging"
+    }
+  },
+  "entitlementName": "5d4f42a2acc648428b5e4b55941dedb9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6225ba8b163a461cb68960047bbec283",
+      "appId": "f5ea303335ca4c50ba1898b2b2d73ae0",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-02-18T00:00:00.000Z"
+    }
+  ],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

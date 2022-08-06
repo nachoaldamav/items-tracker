@@ -1,0 +1,34 @@
+{
+  "id": "66d74dcc9f954c7ab9e989aa29b20005",
+  "title": "DevCornAudience",
+  "description": "DevCornAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "85f0435aa88347d185dbcb147716609b",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-18T21:46:11.711Z",
+  "lastModifiedDate": "2021-03-10T16:23:15.507Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "66d74dcc9f954c7ab9e989aa29b20005",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Omeda Studios",
+  "developerId": "o-whjslbj96rnahy8ypck8xcb3qzmgh7",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

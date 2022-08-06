@@ -1,0 +1,74 @@
+{
+  "id": "028c6920432143dca4f661ed1cb18fd3",
+  "title": "RheniumDLC",
+  "description": "RheniumDLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f672c20984f04f69936e6057feefe3d1",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-15T17:18:32.790Z",
+  "lastModifiedDate": "2021-02-18T19:33:40.509Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "f672c20984f04f69936e6057feefe3d1"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RheniumDLC"
+    }
+  },
+  "entitlementName": "028c6920432143dca4f661ed1cb18fd3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ce5596a84ab04b61a7a1775cc2b7da13",
+      "appId": "411c7b82e4884433a9619101ed91d171",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-02-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "Failbetter Games",
+  "developerId": "o-rtt3u6nfx2dlvv3zuwr53utk9gjz82",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

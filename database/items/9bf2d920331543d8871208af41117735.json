@@ -1,0 +1,35 @@
+{
+  "id": "9bf2d920331543d8871208af41117735",
+  "title": "DevXrayAudience",
+  "description": "DevXrayAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "1f436e99203a49479f4a4d5951374fe8",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-24T21:16:44.483Z",
+  "lastModifiedDate": "2021-06-01T02:07:51.991Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9bf2d920331543d8871208af41117735",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "MWM Interactive",
+  "developerId": "o-f4rsv826ngcpw4wvunwntql3n23m46",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

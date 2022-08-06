@@ -1,0 +1,62 @@
+{
+  "id": "7e5d8b2b5fb948178a2b36b1c7b77540",
+  "title": "FluorineStaging",
+  "description": "FluorineStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "57dfd95548214a138218e56cd9e5b9d8",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-20T19:27:03.337Z",
+  "lastModifiedDate": "2021-09-16T00:52:26.882Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Back4Blood/Epic/Saved/SaveGames/"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FluorineStaging"
+    }
+  },
+  "entitlementName": "7e5d8b2b5fb948178a2b36b1c7b77540",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7ea8a3e10c78443aaad150c29f44035e",
+      "appId": "f95ce679aa2143c29a8d38494cb3b844",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-12-04T00:00:00.000Z"
+    }
+  ],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567h8WSc3J5M7M2nfWFiZhZCspV",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

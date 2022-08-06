@@ -1,0 +1,34 @@
+{
+  "id": "d4499bf582bd4523aef3eb8e863bbf8f",
+  "title": "KlawockGeneralAudience",
+  "description": "KlawockGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "44f0df6169284f7fa6d0cddadb3e0ff9",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-23T21:33:56.155Z",
+  "lastModifiedDate": "2021-10-13T22:49:13.765Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d4499bf582bd4523aef3eb8e863bbf8f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

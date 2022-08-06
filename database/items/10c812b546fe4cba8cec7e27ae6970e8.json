@@ -1,0 +1,108 @@
+{
+  "id": "10c812b546fe4cba8cec7e27ae6970e8",
+  "title": "Phoenix Point",
+  "description": "Phoenix Point",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/iris/item/Long_PP-2048x1151-a5d45cf0f70a168b0c1f7eae142a3397.jpg",
+      "md5": "a5d45cf0f70a168b0c1f7eae142a3397",
+      "width": 2048,
+      "height": 1151,
+      "size": 2147087,
+      "uploadedDate": "2020-12-10T14:20:22.966Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/iris/item/Tall_PP-340x440-8ddd13489c7216a86f4cfa9e96452981.jpg",
+      "md5": "8ddd13489c7216a86f4cfa9e96452981",
+      "width": 340,
+      "height": 440,
+      "size": 92735,
+      "uploadedDate": "2020-12-10T14:20:36.693Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "iris",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-15T16:22:06.508Z",
+  "lastModifiedDate": "2021-02-19T20:13:07.218Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "iris"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/com.snapshotgames.phoenixpoint/EGS/{EpicID}/"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/Snapshot Games Inc/Phoenix Point/EGS/{EpicID}/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "LocalData/"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1575397800"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "15000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PhoenixPoint"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "10c812b546fe4cba8cec7e27ae6970e8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ad3e4c393c774a9e942771ea933a0634",
+      "appId": "Iris",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-02-15T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "b78e06451f3e4fc1996d577ae1011cc0",
+  "title": "acidgreenGeneralAudience",
+  "description": "acidgreenGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "cc56bfab64424c71b9109bc0607a00dd",
+  "status": "ACTIVE",
+  "creationDate": "2021-05-19T21:24:45.368Z",
+  "lastModifiedDate": "2021-06-09T14:43:47.130Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b78e06451f3e4fc1996d577ae1011cc0",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Whatboy Games",
+  "developerId": "o-9uluvb93ylxzxn4my9zzttt8h35yy2",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

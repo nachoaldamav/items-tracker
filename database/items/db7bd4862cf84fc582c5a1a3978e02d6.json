@@ -1,0 +1,98 @@
+{
+  "id": "db7bd4862cf84fc582c5a1a3978e02d6",
+  "title": "BIOMUTANT",
+  "description": "BIOMUTANT",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/f7dc2f3c915444f1a6ba4105bc00d592/item/EGS_BIOMUTANT_Experiment101_S1-2560x1440-75bad76d237c52c7d59571111b670938-2560x1440-75bad76d237c52c7d59571111b670938.jpeg",
+      "md5": "75bad76d237c52c7d59571111b670938",
+      "width": 2560,
+      "height": 1440,
+      "size": 885346,
+      "uploadedDate": "2021-03-22T22:26:11.815Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/f7dc2f3c915444f1a6ba4105bc00d592/item/EGS_BIOMUTANT_Experiment101_S2-1200x1600-7f18bf0433d6631ea0383abb74e6392a-1200x1600-7f18bf0433d6631ea0383abb74e6392a.jpeg",
+      "md5": "7f18bf0433d6631ea0383abb74e6392a",
+      "width": 1200,
+      "height": 1600,
+      "size": 465367,
+      "uploadedDate": "2021-03-22T22:26:25.177Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f7dc2f3c915444f1a6ba4105bc00d592",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-18T18:27:32.729Z",
+  "lastModifiedDate": "2021-05-25T16:50:28.733Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "f7dc2f3c915444f1a6ba4105bc00d592"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Biomutant/Saved/SaveGames/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BIOMUTANT"
+    }
+  },
+  "entitlementName": "db7bd4862cf84fc582c5a1a3978e02d6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1d0c66b994434df08dd2be6e8efd2c6a",
+      "appId": "8f2d950a8b1d46048057a62ff13661cd",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-02-18T00:00:00.000Z"
+    }
+  ],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567Tn5LKqJXS5AlLCZ0GQgkHHz4",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

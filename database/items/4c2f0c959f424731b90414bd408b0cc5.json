@@ -1,0 +1,35 @@
+{
+  "id": "4c2f0c959f424731b90414bd408b0cc5",
+  "title": "Pennsylvania",
+  "description": "Pennsylvania",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "b4d9169e1b8548f2babec33107253309",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-11T13:25:09.258Z",
+  "lastModifiedDate": "2021-05-06T20:38:25.678Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "4c2f0c959f424731b90414bd408b0cc5",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Asmodee",
+  "developerId": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

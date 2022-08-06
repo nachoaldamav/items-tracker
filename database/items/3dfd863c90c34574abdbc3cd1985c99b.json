@@ -1,0 +1,63 @@
+{
+  "id": "3dfd863c90c34574abdbc3cd1985c99b",
+  "title": "3 out of 10: Season Two Staging",
+  "description": "3 out of 10: Season Two Staging",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/b829cfd910554ad3ad2eb3b314e2b1ef/item/3 out of 10_Season Two Staging-860x1148-17ee2a2797d969e2b12e5f0c2c18287c.jpg",
+      "md5": "17ee2a2797d969e2b12e5f0c2c18287c",
+      "width": 860,
+      "height": 1148,
+      "size": 736398,
+      "uploadedDate": "2021-04-01T18:52:23.436Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b829cfd910554ad3ad2eb3b314e2b1ef",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-08T21:58:00.419Z",
+  "lastModifiedDate": "2021-04-01T18:52:26.860Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MooncakeStaging"
+    }
+  },
+  "entitlementName": "3dfd863c90c34574abdbc3cd1985c99b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0e8f8f88e15f41c8b895bb8d20cf3706",
+      "appId": "0699dac22a534c9ca4be6801b26a6829",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Terrible Posture Games, Inc.",
+  "developerId": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

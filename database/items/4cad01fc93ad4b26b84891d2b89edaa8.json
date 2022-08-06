@@ -1,0 +1,52 @@
+{
+  "id": "4cad01fc93ad4b26b84891d2b89edaa8",
+  "title": "EggplantStaging",
+  "description": "EggplantStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5d24ed888f9542a09dc406f66705631a",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-21T13:37:00.343Z",
+  "lastModifiedDate": "2020-12-17T13:01:16.782Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EggplantStaging"
+    }
+  },
+  "entitlementName": "4cad01fc93ad4b26b84891d2b89edaa8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "61f4140f2d1340fdbcdff1d808f1db0c",
+      "appId": "504846f452ea497a82e4ca8cfe623db8",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-21T00:00:00.000Z"
+    }
+  ],
+  "developer": "Handy Games",
+  "developerId": "o-ekk92wx8mesnmsvbseequvnt38mzu6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

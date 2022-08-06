@@ -1,0 +1,67 @@
+{
+  "id": "260a760e8fed4debb1b646cb1b6b11db",
+  "title": "Cat Cafe Manager",
+  "description": "Cat Cafe Manager",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4fe3c7db294c47e982f032903d40cf28/cat-cafe-manager-offer-nxhsd.jpg",
+      "md5": "a746091a24a130b763122c5065af6e43",
+      "width": 2560,
+      "height": 1440,
+      "size": 931768,
+      "uploadedDate": "2021-12-09T22:18:49.536Z",
+      "alt": "Cat Cafe Manager Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4fe3c7db294c47e982f032903d40cf28/download-cat-cafe-manager-offer-1lhcw.jpg",
+      "md5": "8ffb13fcaef31d7909c0861a3904549c",
+      "width": 1200,
+      "height": 1600,
+      "size": 770394,
+      "uploadedDate": "2021-12-09T22:18:50.345Z",
+      "alt": "Download Cat Cafe Manager Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "62a6ce9d61c545f2975a3315aa58adc7",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-23T19:39:01.413Z",
+  "lastModifiedDate": "2022-06-02T12:26:18.631Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Cat Cafe Manager/savegames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CatCafeManagerGPG6r"
+    }
+  },
+  "entitlementName": "260a760e8fed4debb1b646cb1b6b11db",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "95153a3170b54802a66118bc24a5c7ee",
+      "appId": "5a55e561e8804911a758955c7f38cd21",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Freedom Games",
+  "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

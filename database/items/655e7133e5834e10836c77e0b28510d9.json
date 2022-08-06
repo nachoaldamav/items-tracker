@@ -1,0 +1,63 @@
+{
+  "id": "655e7133e5834e10836c77e0b28510d9",
+  "title": "Merrily Perilly",
+  "description": "Merrily Perilly",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/173cb35da70841f9bdd91a6cf23446c2/merrily-perilly-offer-1627b.jpg",
+      "md5": "f3c6a7f6f24d91435c8284e2c5ec9c9c",
+      "width": 2560,
+      "height": 1440,
+      "size": 875019,
+      "uploadedDate": "2022-01-29T15:54:41.182Z",
+      "alt": "Merrily Perilly Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/173cb35da70841f9bdd91a6cf23446c2/download-merrily-perilly-offer-y7yaf.png",
+      "md5": "286d51a03c8f8bb69a87a6429709c09c",
+      "width": 1200,
+      "height": 1600,
+      "size": 1799658,
+      "uploadedDate": "2022-01-29T15:54:42.163Z",
+      "alt": "Download Merrily Perilly Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "789f83d437114a989c8032fab5e02901",
+  "status": "ACTIVE",
+  "creationDate": "2022-02-01T21:51:50.999Z",
+  "lastModifiedDate": "2022-02-18T09:19:28.883Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "MerrilyPerillymAnSa"
+    }
+  },
+  "entitlementName": "655e7133e5834e10836c77e0b28510d9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b463a03b73f34951a55fc33213f0445e",
+      "appId": "3cd592b804dd45e8953b0a05a96e2e5e",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Top Hat Studios, Inc.",
+  "developerId": "o-b3dcbpjzpsrrbtlgt8f7yzmc45msvy",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

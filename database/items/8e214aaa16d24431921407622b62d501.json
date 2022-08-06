@@ -1,0 +1,58 @@
+{
+  "id": "8e214aaa16d24431921407622b62d501",
+  "title": "CastleStaging",
+  "description": "CastleStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2ed7ed64d8604265924b85bbd5670220",
+  "status": "ACTIVE",
+  "creationDate": "2020-12-10T17:28:04.685Z",
+  "lastModifiedDate": "2021-05-19T00:32:53.213Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Aerial_Knight/AKNY/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CastleStaging"
+    }
+  },
+  "entitlementName": "8e214aaa16d24431921407622b62d501",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "39e846f8595b4774999e2f30efcd18a8",
+      "appId": "47c23978f00c4bff889f6661f7c33ee3",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-12-10T17:38:27.885Z"
+    }
+  ],
+  "developer": "Headup Gmbh",
+  "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,73 @@
+{
+  "id": "39dbacaf56d640c499d4cbd211ac0f07",
+  "title": "BrowniePlaytest",
+  "description": "BrowniePlaytest",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "435aaec1220447efbcfeb4f2abeb1027",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-03T23:16:16.602Z",
+  "lastModifiedDate": "2020-09-03T23:18:22.461Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "435aaec1220447efbcfeb4f2abeb1027"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BrowniePlaytest"
+    }
+  },
+  "entitlementName": "39dbacaf56d640c499d4cbd211ac0f07",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "50fed81e4b1a4e9dbd7decb54f3d41c5",
+      "appId": "0b9faf5dc3024c30bc060970d71d4046",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-07-16T00:00:00.000Z"
+    }
+  ],
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

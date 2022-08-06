@@ -1,0 +1,100 @@
+{
+  "id": "78fafe7a43344aff820d0c8dc218df2a",
+  "title": "Dungeons 3",
+  "description": "Dungeons 3",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_Dungeons3_RealmforgeStudios_S3-2560x1440-21b5fe0f44bc1f4c23a68bf6e159be40.jpg",
+      "md5": "21b5fe0f44bc1f4c23a68bf6e159be40",
+      "width": 2560,
+      "height": 1440,
+      "size": 769264,
+      "uploadedDate": "2020-10-01T17:47:00.057Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_Dungeons3_RealmforgeStudios_S4-1200x1600-1bd28634e22cae5706b41f0e3ef9cc0c.jpg",
+      "md5": "1bd28634e22cae5706b41f0e3ef9cc0c",
+      "width": 1200,
+      "height": 1600,
+      "size": 645843,
+      "uploadedDate": "2020-10-01T17:47:08.761Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "213259527d2f41baa90cbe0ae5555271",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-15T18:51:09.131Z",
+  "lastModifiedDate": "2020-11-04T21:17:58.124Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "213259527d2f41baa90cbe0ae5555271"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Kalypso Media/Dungeons 3/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "savegames/,config-cloud.cfg,keybindings-*.txt"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Dungeons3"
+    }
+  },
+  "entitlementName": "78fafe7a43344aff820d0c8dc218df2a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "632c006b7af64a6495d8b4e65685dce3",
+      "appId": "351fe5b32e22412d8fa41f4c7395fed1",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567XbJYoVF1Hg1xYik8W1Ah8LSA",
+  "unsearchable": false
+}

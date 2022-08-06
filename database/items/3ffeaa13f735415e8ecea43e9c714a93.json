@@ -1,0 +1,65 @@
+{
+  "id": "3ffeaa13f735415e8ecea43e9c714a93",
+  "title": "M1 Tank Platoon",
+  "description": "M1 Tank Platoon",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/124faaaa17384df2889a3593ec12bfa9/m1-tank-platoon-offer-rxje5.jpg",
+      "md5": "1f7d56fee55c1b9d070da477bc4e0c8c",
+      "width": 2560,
+      "height": 1440,
+      "size": 622892,
+      "uploadedDate": "2022-03-11T23:13:29.605Z",
+      "alt": "M1 Tank Platoon Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/124faaaa17384df2889a3593ec12bfa9/download-m1-tank-platoon-offer-2jj6q.jpg",
+      "md5": "53fefddb291f078a28e97c23680558c5",
+      "width": 1200,
+      "height": 1600,
+      "size": 395982,
+      "uploadedDate": "2022-03-11T23:13:29.820Z",
+      "alt": "Download M1 Tank Platoon Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "83982788ab8e425b9c0bbe2031db3420",
+  "status": "ACTIVE",
+  "creationDate": "2022-02-01T22:23:09.654Z",
+  "lastModifiedDate": "2022-05-07T17:24:49.604Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "M1TankPlatoon"
+    }
+  },
+  "entitlementName": "3ffeaa13f735415e8ecea43e9c714a93",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2cec8504cfe74baa813d80fd0f35b150",
+      "appId": "1e09b8a5cb8c4798a75bc275c311eb55",
+      "platform": [
+        "Win32",
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Interplay Entertainment Corp.",
+  "developerId": "o-ebvwv4fmqxbw48yz3rx65fmxxqfk35",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

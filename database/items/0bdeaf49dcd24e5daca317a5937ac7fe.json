@@ -1,0 +1,72 @@
+{
+  "id": "0bdeaf49dcd24e5daca317a5937ac7fe",
+  "title": "SpellForce 3: Fallen God Digital Extras",
+  "description": "SpellForce 3: Fallen God Digital Extras",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/6ad92d14cc544743831d4f70c964d39d/item/EGS_SpellForce3FallenGodDigitalExtras_GrimloreGames_DigitalExtras_S1-2560x1440-4ea7668cd4f0482e3559b96ad2aaa4cb.jpg",
+      "md5": "4ea7668cd4f0482e3559b96ad2aaa4cb",
+      "width": 2560,
+      "height": 1440,
+      "size": 514217,
+      "uploadedDate": "2020-10-27T18:27:00.230Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/6ad92d14cc544743831d4f70c964d39d/item/EGS_SpellForce3FallenGodDigitalExtras_GrimloreGames_DigitalExtras_S2-1200x1600-eb87f358b2eaea2908b83269e0215875.jpg",
+      "md5": "eb87f358b2eaea2908b83269e0215875",
+      "width": 1200,
+      "height": 1600,
+      "size": 321232,
+      "uploadedDate": "2020-10-27T18:27:06.737Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6ad92d14cc544743831d4f70c964d39d",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-27T11:51:46.043Z",
+  "lastModifiedDate": "2020-12-14T13:54:38.301Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FallenGodExtras"
+    }
+  },
+  "entitlementName": "0bdeaf49dcd24e5daca317a5937ac7fe",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3347832aada94ee1906cf892a91d2a29",
+      "appId": "8745e60fffc5454cafb39031e0b39d2e",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

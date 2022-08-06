@@ -1,0 +1,82 @@
+{
+  "id": "4906e2737c7e4d4f836cf93c860d18a2",
+  "title": "DubniumStaging",
+  "description": "DubniumStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/043ffc92cbd64a9fbc350ea68f415937/item/DubniumStaging-1200x1600-2b6e0223aa4599bef3aa3f8f62fd7011.jpg",
+      "md5": "2b6e0223aa4599bef3aa3f8f62fd7011",
+      "width": 1200,
+      "height": 1600,
+      "size": 396852,
+      "uploadedDate": "2021-04-20T15:58:15.938Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/043ffc92cbd64a9fbc350ea68f415937/item/DubniumStaging-1200x1600-2b6e0223aa4599bef3aa3f8f62fd7011.jpg",
+      "md5": "2b6e0223aa4599bef3aa3f8f62fd7011",
+      "width": 1200,
+      "height": 1600,
+      "size": 396852,
+      "uploadedDate": "2021-04-20T15:58:32.066Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "043ffc92cbd64a9fbc350ea68f415937",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-11T17:27:41.618Z",
+  "lastModifiedDate": "2022-07-05T16:00:40.646Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Arcade/Saved/SaveGames/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "PlatformSettings.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DubniumStaging"
+    }
+  },
+  "entitlementName": "4906e2737c7e4d4f836cf93c860d18a2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "687b4db15cbd47ffaecc9b2d7df75e81",
+      "appId": "73768f3e70894c28a80549c4e5721d31",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-02-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "Illfonic",
+  "developerId": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567h0YkEh1OfU82exCyNv0z8OCp",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

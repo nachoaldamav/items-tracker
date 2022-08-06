@@ -1,0 +1,95 @@
+{
+  "id": "d026bf78d8e246da8caba6d4273aa103",
+  "title": "JackalProdTest",
+  "description": "JackalProdTest",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/jackal/item/EGS_PRODTEST-1200x1600-c7ed994710b7f341d1e9de3e1f8960de.jpg",
+      "md5": "c7ed994710b7f341d1e9de3e1f8960de",
+      "width": 1200,
+      "height": 1600,
+      "size": 986638,
+      "uploadedDate": "2020-10-05T14:18:10.553Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/jackal/item/EGS_PRODTEST-2560x1440-f616e455ed43649e692a46a2a229384d.jpg",
+      "md5": "f616e455ed43649e692a46a2a229384d",
+      "width": 2560,
+      "height": 1440,
+      "size": 2075189,
+      "uploadedDate": "2020-10-07T19:24:56.651Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "jackal",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-25T14:03:57.863Z",
+  "lastModifiedDate": "2020-10-07T19:24:59.697Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "jackal"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Phoenix Labs"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "JackalProdTest"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d026bf78d8e246da8caba6d4273aa103",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "32e4bd0d31454adc892fc9a1748eddca",
+      "appId": "JackalProdTest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-04-25T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Phoenix Labs",
+  "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,36 @@
+{
+  "id": "7d5cbc0a57844fd6ae2e4a6e81a9b978",
+  "title": "Iris2Audience",
+  "description": "Iris2Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "iris",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-04T17:17:29.556Z",
+  "lastModifiedDate": "2022-07-19T23:24:19.026Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "7d5cbc0a57844fd6ae2e4a6e81a9b978",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

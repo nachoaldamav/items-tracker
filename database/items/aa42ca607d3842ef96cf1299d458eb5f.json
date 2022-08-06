@@ -1,0 +1,94 @@
+{
+  "id": "aa42ca607d3842ef96cf1299d458eb5f",
+  "title": "Disney Dreamlight Valley",
+  "description": "Disney Dreamlight Valley",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/7e2ec8a47b8d41528eb6dd2efd2b1abc/EGS_DisneyDreamlightValley_Gameloft_S1_2560x1440-ecaefe1147de77996a07f74874a837b6",
+      "md5": "ecaefe1147de77996a07f74874a837b6",
+      "width": 2560,
+      "height": 1440,
+      "size": 789672,
+      "uploadedDate": "2022-04-27T04:57:18.946Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/7e2ec8a47b8d41528eb6dd2efd2b1abc/EGS_DisneyDreamlightValley_Gameloft_S2_1200x1600-e2e56905d06a1b35fe0e6033a71ddc74",
+      "md5": "e2e56905d06a1b35fe0e6033a71ddc74",
+      "width": 1200,
+      "height": 1600,
+      "size": 647067,
+      "uploadedDate": "2022-04-27T04:57:23.777Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-14T20:19:42.262Z",
+  "lastModifiedDate": "2022-07-15T20:55:44.379Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "7e2ec8a47b8d41528eb6dd2efd2b1abc"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DisneyDreamlightValley"
+    }
+  },
+  "entitlementName": "aa42ca607d3842ef96cf1299d458eb5f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e39f91611ce549d6b2cca833c928e073",
+      "appId": "79f5f0500e2642088929746db8b4e1c0",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-14T20:39:49.918Z"
+    }
+  ],
+  "developer": "Gameloft SE",
+  "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,73 @@
+{
+  "id": "b533844a31874be8a89da40646c5569a",
+  "title": "Neodymium",
+  "description": "Neodymium",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f7c4775ed8a3431981d1b4173666fe16",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-27T19:48:20.073Z",
+  "lastModifiedDate": "2021-03-09T15:54:00.697Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "f7c4775ed8a3431981d1b4173666fe16"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Neodymium"
+    }
+  },
+  "entitlementName": "b533844a31874be8a89da40646c5569a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b83a217124294473b36b1e3ee1edd6e0",
+      "appId": "a8422108ac05494aa8e5fff1cde24654",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-09T00:00:00.000Z"
+    }
+  ],
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

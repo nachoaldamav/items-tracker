@@ -1,0 +1,63 @@
+{
+  "id": "e02f550285544d01b9bc29151d88332d",
+  "title": "Legend of Bum bo",
+  "description": "Legend of Bum bo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b7a7141ee0a8466a9f877e0613dd0644/legend-of-bum-bo-offer-1qohe.jpg",
+      "md5": "82155c9b834ec28f5a54543bcdc644ac",
+      "width": 2560,
+      "height": 1440,
+      "size": 746196,
+      "uploadedDate": "2022-01-13T02:41:48.613Z",
+      "alt": "Legend of Bum bo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b7a7141ee0a8466a9f877e0613dd0644/download-legend-of-bum-bo-offer-1w3ad.jpg",
+      "md5": "8e70050edd64d9f23bbe3438787342ef",
+      "width": 1200,
+      "height": 1600,
+      "size": 785123,
+      "uploadedDate": "2022-01-13T02:41:59.866Z",
+      "alt": "Download Legend of Bum bo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ae7464ff84d042a1903ba0b8063e4b52",
+  "status": "ACTIVE",
+  "creationDate": "2022-01-25T18:03:12.876Z",
+  "lastModifiedDate": "2022-02-18T09:17:24.818Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "LegendofBumbo8qk5K"
+    }
+  },
+  "entitlementName": "e02f550285544d01b9bc29151d88332d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6cc3efdc8a974aac8b54bd95f60beb74",
+      "appId": "bde5bdf3612440519d3db10ad1646fee",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

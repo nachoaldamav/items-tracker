@@ -1,0 +1,62 @@
+{
+  "id": "7fda80d98f9649649ab2dc88089cf2be",
+  "title": "Heros Hour",
+  "description": "Heros Hour",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3553687b5efc499aba1cb5231e8a0c56/heros-hour-offer-67mhv.jpg",
+      "md5": "b81cf307096ad80d074b57ca31a62ad3",
+      "width": 2560,
+      "height": 1440,
+      "size": 1083907,
+      "uploadedDate": "2022-02-09T16:50:14.500Z",
+      "alt": "Hero's Hour Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3553687b5efc499aba1cb5231e8a0c56/download-heros-hour-offer-ttqoq.jpg",
+      "md5": "fcd199ba6fc1f5f3681c11a7e1494214",
+      "width": 1200,
+      "height": 1600,
+      "size": 454311,
+      "uploadedDate": "2022-02-09T16:52:22.125Z",
+      "alt": "Download Hero's Hour Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "597b081ce3ab4e0bba952ed03d3fe150",
+  "status": "ACTIVE",
+  "creationDate": "2022-02-04T00:15:07.230Z",
+  "lastModifiedDate": "2022-03-01T16:59:07.324Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "HerosHourFnkVu"
+    }
+  },
+  "entitlementName": "7fda80d98f9649649ab2dc88089cf2be",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c0a707cadff14b9ca6a424dd9a16b994",
+      "appId": "565c0c1d00644948bd2d73271dda824a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Goblinz Studio",
+  "developerId": "o-7jby5x5ez3xmyf5qhgur72hlye379e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

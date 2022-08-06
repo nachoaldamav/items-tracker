@@ -1,0 +1,65 @@
+{
+  "id": "385b3c64c891475a9da1c86547d4500f",
+  "title": "Kingdom - The Far Reaches",
+  "description": "Kingdom - The Far Reaches",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/25813c726d6a4f629863d1e094469000/kingdom--the-far-reaches-offer-g9g06.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 2560,
+      "height": 1440,
+      "size": 997025,
+      "uploadedDate": "2022-03-09T18:55:34.309Z",
+      "alt": "Kingdom - The Far Reaches Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/25813c726d6a4f629863d1e094469000/download-kingdom--the-far-reaches-offer-4ibkq.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 432871,
+      "uploadedDate": "2022-03-09T18:55:34.597Z",
+      "alt": "Download Kingdom - The Far Reaches Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1ac625112dc34ca290328915e0933b7a",
+  "status": "ACTIVE",
+  "creationDate": "2022-07-01T19:48:18.584Z",
+  "lastModifiedDate": "2022-07-01T19:48:18.584Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "KingdomTheFarReaches"
+    }
+  },
+  "entitlementName": "385b3c64c891475a9da1c86547d4500f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bf2944d16cbb4859b16b528fef4a968f",
+      "appId": "21be92ac55ec4f1695a9f8248f59f7f1",
+      "platform": [
+        "Win32",
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Interplay Entertainment Corp.",
+  "developerId": "o-ebvwv4fmqxbw48yz3rx65fmxxqfk35",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,72 @@
+{
+  "id": "a631512142c348ad8232f94205144a44",
+  "title": "Zen Triple RPG Bundle",
+  "description": "Zen Triple RPG Bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "be8e76b808f54c8fa4974e3f516f1960",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-14T16:29:46.676Z",
+  "lastModifiedDate": "2020-10-28T15:01:17.326Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "be8e76b808f54c8fa4974e3f516f1960"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Griffin"
+    }
+  },
+  "entitlementName": "a631512142c348ad8232f94205144a44",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "721d944f94234b638458566596d3c2ed",
+      "appId": "Griffin",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

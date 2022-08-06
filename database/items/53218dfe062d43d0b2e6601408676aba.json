@@ -1,0 +1,83 @@
+{
+  "id": "53218dfe062d43d0b2e6601408676aba",
+  "title": "3 out of 10: Season Two External",
+  "description": "3 out of 10: Season Two External",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/b829cfd910554ad3ad2eb3b314e2b1ef/item/3 out of 10_Season Two External-860x1148-0baf4550099cad14a12fa472ab4748d2.jpg",
+      "md5": "0baf4550099cad14a12fa472ab4748d2",
+      "width": 860,
+      "height": 1148,
+      "size": 742351,
+      "uploadedDate": "2021-04-01T18:53:07.150Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b829cfd910554ad3ad2eb3b314e2b1ef",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-10T17:15:07.367Z",
+  "lastModifiedDate": "2021-04-01T18:53:10.898Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "b829cfd910554ad3ad2eb3b314e2b1ef"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MooncakeExternal"
+    }
+  },
+  "entitlementName": "53218dfe062d43d0b2e6601408676aba",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bf1029cf29c547279fb751dff1c7258a",
+      "appId": "347f0b4a283844dcb4f1fd2e75a595c7",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "Terrible Posture Games, Inc.",
+  "developerId": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

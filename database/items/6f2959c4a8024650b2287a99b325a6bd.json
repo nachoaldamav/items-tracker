@@ -1,0 +1,72 @@
+{
+  "id": "6f2959c4a8024650b2287a99b325a6bd",
+  "title": "Barium",
+  "description": "Barium",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "308e79224dba4e078e44d603bc54c4db",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-27T19:41:33.331Z",
+  "lastModifiedDate": "2021-03-09T14:53:10.005Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "308e79224dba4e078e44d603bc54c4db"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Barium"
+    }
+  },
+  "entitlementName": "6f2959c4a8024650b2287a99b325a6bd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "97ed9f7a710d493280684166f0884528",
+      "appId": "44d9ad561ebd426b8e29bd6348572eb0",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-09T14:43:36.441Z"
+    }
+  ],
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "443204e7a84449748b96e64ec5a2e206",
+  "title": "DevCuriumAudience",
+  "description": "DevCuriumAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "ae373893881044d2bf26d6f8363a120e",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-18T22:32:12.855Z",
+  "lastModifiedDate": "2021-06-28T16:32:34.158Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "443204e7a84449748b96e64ec5a2e206",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Supra Games",
+  "developerId": "o-gfmarfnj9jh4jucwvuubpjv4nwb66x",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,76 @@
+{
+  "id": "5649d54651de405eab85246420ad7dde",
+  "title": "Crestone",
+  "description": "Crestone",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "43cff3223381422ca04404a811784296",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-01T18:51:13.818Z",
+  "lastModifiedDate": "2020-10-12T17:12:58.951Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "43cff3223381422ca04404a811784296"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/PumpkinJack/Saved/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Crestone"
+    }
+  },
+  "entitlementName": "5649d54651de405eab85246420ad7dde",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0bd2b329257a4929b5893a77ffdc7324",
+      "appId": "9fef3b816031450da8ba85b23820cfbb",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-01T00:00:00.000Z"
+    }
+  ],
+  "developer": "Headup Gmbh",
+  "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

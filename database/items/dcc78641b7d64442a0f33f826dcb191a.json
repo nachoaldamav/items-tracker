@@ -1,0 +1,34 @@
+{
+  "id": "dcc78641b7d64442a0f33f826dcb191a",
+  "title": "DevMtAugustaAudience",
+  "description": "DevMtAugustaAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "ab2f9078bcb04065a5c6c2fede9cb3b0",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-11T23:19:05.420Z",
+  "lastModifiedDate": "2021-09-07T14:55:46.408Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "dcc78641b7d64442a0f33f826dcb191a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Beamdog",
+  "developerId": "o-wc3gy6s683brl6424p7kqlrldhy7vd",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

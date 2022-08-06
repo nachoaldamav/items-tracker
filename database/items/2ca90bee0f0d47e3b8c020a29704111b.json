@@ -1,0 +1,64 @@
+{
+  "id": "2ca90bee0f0d47e3b8c020a29704111b",
+  "title": "Dread X Collection 2",
+  "description": "Dread X Collection 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/eff5525f2ac142eca102eb4669d86ff2/dread-x-collection-2-offer-14qd8.jpg",
+      "md5": "6b384b4209731ceac8ad48397d604105",
+      "width": 2560,
+      "height": 1440,
+      "size": 1348294,
+      "uploadedDate": "2022-03-14T07:36:45.154Z",
+      "alt": "Dread X Collection 2 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/eff5525f2ac142eca102eb4669d86ff2/download-dread-x-collection-2-offer-32o3z.png",
+      "md5": "013443109c5adde19e32e11db68bb66e",
+      "width": 1200,
+      "height": 1600,
+      "size": 2870442,
+      "uploadedDate": "2022-03-14T07:36:52.314Z",
+      "alt": "Download Dread X Collection 2 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "65a720836bbe41d98abce68f76cf7014",
+  "status": "ACTIVE",
+  "creationDate": "2021-12-08T21:47:51.488Z",
+  "lastModifiedDate": "2022-07-22T17:40:19.723Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DreadXCollection2"
+    }
+  },
+  "entitlementName": "2ca90bee0f0d47e3b8c020a29704111b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "60daa6d957a04e648aad4858332984ff",
+      "appId": "2dcb0880818f43e9a6a8275f1bbeaa64",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "DreadXP",
+  "developerId": "o-bpk3knax67xtt6ebjepq34zrrcdsns",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

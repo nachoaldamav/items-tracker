@@ -1,0 +1,89 @@
+{
+  "id": "2f415248cb524eaf950a16e55d315dac",
+  "title": "Dauntless",
+  "description": "Dauntless",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/jackal/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1_2560x1440-1b3cd86c8a4fce4b399bef9ed03deda2",
+      "md5": "1b3cd86c8a4fce4b399bef9ed03deda2",
+      "width": 2560,
+      "height": 1440,
+      "size": 606682,
+      "uploadedDate": "2022-06-30T20:10:22.855Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/jackal/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2_1200x1600-3bcc2ec4f9fcd1022e085d0026b21446",
+      "md5": "3bcc2ec4f9fcd1022e085d0026b21446",
+      "width": 1200,
+      "height": 1600,
+      "size": 492227,
+      "uploadedDate": "2022-06-30T20:10:26.320Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "jackal",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-28T20:38:56.842Z",
+  "lastModifiedDate": "2022-07-14T19:40:09.019Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Phoenix Labs"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Dauntless"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "2f415248cb524eaf950a16e55d315dac",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2a3f79d21de94a62ae3ef45db2ff6a7c",
+      "appId": "Jackal",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-04-30T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Phoenix Labs",
+  "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

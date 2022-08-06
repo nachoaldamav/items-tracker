@@ -1,0 +1,72 @@
+{
+  "id": "38b7df4211784f12bcbade42c5e9c3c2",
+  "title": "PikesPeakCert",
+  "description": "PikesPeakCert",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bb9f87bb3d0042258bb1c97397bc60f2",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-29T16:24:31.620Z",
+  "lastModifiedDate": "2021-03-10T11:55:57.781Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "bb9f87bb3d0042258bb1c97397bc60f2"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PikesPeakCert"
+    }
+  },
+  "entitlementName": "38b7df4211784f12bcbade42c5e9c3c2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cb1e439e965f4545a3fa0d030c6f16fb",
+      "appId": "09d9f6951e09433081c712997d189269",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-29T16:44:13.165Z"
+    }
+  ],
+  "developer": "Unit 2 Games",
+  "developerId": "o-3wg8cebzdas9bt56adlsslgzr8mcue",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

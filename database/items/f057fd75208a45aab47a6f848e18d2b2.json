@@ -1,0 +1,66 @@
+{
+  "id": "f057fd75208a45aab47a6f848e18d2b2",
+  "title": "Minskin",
+  "description": "Minskin",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1abab99ab9d54d16abba65857355f017",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-09T18:03:05.771Z",
+  "lastModifiedDate": "2021-08-16T14:51:20.550Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Minskin"
+    }
+  },
+  "entitlementName": "f057fd75208a45aab47a6f848e18d2b2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "033fc64f25b14c31beceb484b9574332",
+      "appId": "32023a61edaa48ad93890b2ccf2322a0",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-09T18:04:03.427Z"
+    }
+  ],
+  "developer": "Bossa Studios",
+  "developerId": "o-2xhhr8jdtcqt7uprgbpvf7g9k2vppu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

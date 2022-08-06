@@ -1,0 +1,52 @@
+{
+  "id": "4f59f3832e4f4e0b9fbdebe27428f151",
+  "title": "BariumStaging",
+  "description": "BariumStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "308e79224dba4e078e44d603bc54c4db",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-27T19:41:33.882Z",
+  "lastModifiedDate": "2021-03-09T14:53:10.005Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BariumStaging"
+    }
+  },
+  "entitlementName": "4f59f3832e4f4e0b9fbdebe27428f151",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "279604d6ac74408e8cf6e678257cc02c",
+      "appId": "a0950c1e57f14438a218970cdfe8e521",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-09T14:43:25.774Z"
+    }
+  ],
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "0a8ef443c8d740abb2cf37d87a822538",
+  "title": "LanthanumGeneralAudience",
+  "description": "LanthanumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "5493b8894a4b4f49984240f298a8ef06",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-27T19:47:32.564Z",
+  "lastModifiedDate": "2021-07-08T08:20:49.679Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0a8ef443c8d740abb2cf37d87a822538",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

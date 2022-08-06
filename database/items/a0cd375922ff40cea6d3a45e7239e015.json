@@ -1,0 +1,80 @@
+{
+  "id": "a0cd375922ff40cea6d3a45e7239e015",
+  "title": "Trigon",
+  "description": "Trigon",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1a1e048db11f4eb19b40f5ed4ec0bdd8/download-trigon-space-story-offer-7yndg.jpg",
+      "md5": "4c5dcea22badc72a32a9ee651af4daa6",
+      "width": 1200,
+      "height": 1600,
+      "size": 477831,
+      "uploadedDate": "2022-01-10T16:52:50.716Z",
+      "alt": "Download Trigon Space Story Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1a1e048db11f4eb19b40f5ed4ec0bdd8/trigon-space-story-offer-rvqwu.jpg",
+      "md5": "9559d1ca3cb0773dd01015b5f3f57665",
+      "width": 2560,
+      "height": 1440,
+      "size": 926293,
+      "uploadedDate": "2022-01-10T16:52:51.178Z",
+      "alt": "Trigon Space Story Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1b5e25ef034f497fbea17e9d3af3d7ba",
+  "status": "ACTIVE",
+  "creationDate": "2022-01-04T00:10:30.338Z",
+  "lastModifiedDate": "2022-05-02T11:02:26.654Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/com.sernurtech.trigon/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Sernur_Tech/Trigon_ Space Story/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.TSS"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "666"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Trigon4gnTR"
+    }
+  },
+  "entitlementName": "a0cd375922ff40cea6d3a45e7239e015",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5a566019f2c2451ba2bee7d06a66f471",
+      "appId": "0f292f9d00a3462bb93089e34c1c6fdd",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Gameforge 4D GmbH",
+  "developerId": "o-ezychz6fc55p9kjpbl4qdumclj65jg",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

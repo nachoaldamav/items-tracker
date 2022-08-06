@@ -1,0 +1,66 @@
+{
+  "id": "7687529ac7b740aa8e20d8108494480b",
+  "title": "FortniteExtQAUETesting",
+  "description": "FortniteExtQAUETesting",
+  "longDescription": "FortniteExtQAUETesting",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-26T17:36:23.059Z",
+  "lastModifiedDate": "2021-05-24T21:03:28.824Z",
+  "customAttributes": {
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-ForceTest"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Launch Test EXE"
+    },
+    "HasGateKeeper": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "FortniteExtQAUETesting",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "72ea506ee609446a97c1525f533d460b",
+      "appId": "FortniteExtQAUETesting",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-02-26T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

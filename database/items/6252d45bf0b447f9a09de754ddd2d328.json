@@ -1,0 +1,35 @@
+{
+  "id": "6252d45bf0b447f9a09de754ddd2d328",
+  "title": "DevOlympusAudience",
+  "description": "DevOlympusAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "c1e33e7e700f42429ea2b8a7459bb55b",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-22T20:26:21.484Z",
+  "lastModifiedDate": "2022-01-18T19:21:55.074Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "6252d45bf0b447f9a09de754ddd2d328",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

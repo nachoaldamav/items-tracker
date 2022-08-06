@@ -1,0 +1,52 @@
+{
+  "id": "7579286358c14528b91798c062962e04",
+  "title": "test_entryStaging",
+  "description": "test_entryStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ed8a79694c054f70a6350cb2c8c45316",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-22T17:54:33.842Z",
+  "lastModifiedDate": "2021-03-24T18:30:53.846Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "test_entryStaging"
+    }
+  },
+  "entitlementName": "7579286358c14528b91798c062962e04",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "46c4ba3219df42ffa21ff5d9cd6b4209",
+      "appId": "ad370051ef1c4cb4810e88ef330467e5",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-02-22T17:55:57.883Z"
+    }
+  ],
+  "developer": "Gameloft SE",
+  "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

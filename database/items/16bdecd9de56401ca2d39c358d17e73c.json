@@ -1,0 +1,67 @@
+{
+  "id": "16bdecd9de56401ca2d39c358d17e73c",
+  "title": "My Lovely Wife",
+  "description": "My Lovely Wife",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/903c888b4ce14e1983a384b29ca29853/my-lovely-wife-offer-1hgro.png",
+      "md5": "30372f104d46a596d4efb4e8d716b378",
+      "width": 2560,
+      "height": 1440,
+      "size": 3513561,
+      "uploadedDate": "2022-04-18T07:57:37.038Z",
+      "alt": "My Lovely Wife Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/903c888b4ce14e1983a384b29ca29853/download-my-lovely-wife-offer-1naxi.png",
+      "md5": "be4f92d5a17729a212f4108a93d7ec29",
+      "width": 1200,
+      "height": 1600,
+      "size": 1444052,
+      "uploadedDate": "2022-04-18T07:57:36.428Z",
+      "alt": "Download My Lovely Wife Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "07d364bde45c48d3bbced941b474c8a6",
+  "status": "ACTIVE",
+  "creationDate": "2022-04-06T17:50:00.169Z",
+  "lastModifiedDate": "2022-06-08T01:09:32.680Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/GameChanger Studio/My Lovely Wife/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MyLovelyWife"
+    }
+  },
+  "entitlementName": "16bdecd9de56401ca2d39c358d17e73c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e28354e92687480587f7b27cde3bca79",
+      "appId": "a38167d78670418daa9af8beb4b6d40e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Another Indie Studio Limited",
+  "developerId": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
+  "endOfSupport": false,
+  "applicationId": "fghi4567P7zdDoxyJKUjVjIo1sM4HTAh",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

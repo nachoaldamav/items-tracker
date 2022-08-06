@@ -1,0 +1,52 @@
+{
+  "id": "0f915560491042f98cc6ade59c945cef",
+  "title": "CaliforniumStaging",
+  "description": "CaliforniumStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ab139ee5b644412781cf99f48b993b45",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-09T14:17:47.851Z",
+  "lastModifiedDate": "2021-02-09T14:34:38.136Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CaliforniumStaging"
+    }
+  },
+  "entitlementName": "0f915560491042f98cc6ade59c945cef",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "50de7a23cf21498aa7ebd052bc5334ee",
+      "appId": "78474f35a129414c95031b9dda32c0be",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-02-09T14:30:41.410Z"
+    }
+  ],
+  "developer": "PlayEveryWare, Inc.",
+  "developerId": "o-qbfu8sbcmbzv63y379449vcs5dhdrj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

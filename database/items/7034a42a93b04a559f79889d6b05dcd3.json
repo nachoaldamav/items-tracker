@@ -1,0 +1,34 @@
+{
+  "id": "7034a42a93b04a559f79889d6b05dcd3",
+  "title": "DevEmmentalAudience",
+  "description": "DevEmmentalAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "8157b8921bc94f42aafecf98868124b2",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-29T22:19:04.529Z",
+  "lastModifiedDate": "2021-04-29T22:34:06.845Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7034a42a93b04a559f79889d6b05dcd3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Blue Isle Studios Inc.",
+  "developerId": "o-565qwd7twcgtvffpnqtws5umca4p2u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

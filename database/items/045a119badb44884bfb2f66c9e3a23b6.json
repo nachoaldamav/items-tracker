@@ -1,0 +1,33 @@
+{
+  "id": "045a119badb44884bfb2f66c9e3a23b6",
+  "title": "DevMonacoAudience",
+  "description": "DevMonacoAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "7a6c7ce416d7436895e12c94917eb5f9",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-16T18:23:19.695Z",
+  "lastModifiedDate": "2021-02-11T19:20:34.973Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "045a119badb44884bfb2f66c9e3a23b6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Simutronics",
+  "developerId": "o-6x452gcnptzc6e8v8c3usadhgnvldc",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

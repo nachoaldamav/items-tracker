@@ -1,0 +1,34 @@
+{
+  "id": "ebbd0889c55548a4b56342d2138bd6b9",
+  "title": "DevCalciumAudience",
+  "description": "DevCalciumAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "6e7faac262f04035aeb848e660b2d18c",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-20T15:43:43.962Z",
+  "lastModifiedDate": "2020-12-10T17:21:24.451Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ebbd0889c55548a4b56342d2138bd6b9",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Handy Games",
+  "developerId": "o-ekk92wx8mesnmsvbseequvnt38mzu6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,93 @@
+{
+  "id": "515ee7561e5e422cbcede9df39fc5503",
+  "title": "Song of Nunu: A League of Legends Story",
+  "description": "Song of Nunu: A League of Legends Story",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/c7ab6cc723fe4bc6b24237d61b58687b/SON_Product Portrait Image_1200x1600-ac5db4547eb87ecf127153940f809e66",
+      "md5": "ac5db4547eb87ecf127153940f809e66",
+      "width": 1200,
+      "height": 1600,
+      "size": 235252,
+      "uploadedDate": "2021-11-16T05:52:53.433Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/c7ab6cc723fe4bc6b24237d61b58687b/SON_Product Landscape Image_2560x1440-27493a7886ed26b626f362e06d4a6578",
+      "md5": "27493a7886ed26b626f362e06d4a6578",
+      "width": 2560,
+      "height": 1440,
+      "size": 388357,
+      "uploadedDate": "2021-11-16T05:53:01.072Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c7ab6cc723fe4bc6b24237d61b58687b",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-29T16:06:51.399Z",
+  "lastModifiedDate": "2021-11-16T15:56:01.333Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "c7ab6cc723fe4bc6b24237d61b58687b"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SongofNunu"
+    }
+  },
+  "entitlementName": "515ee7561e5e422cbcede9df39fc5503",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "37c6c50948204d5491b0f93a5b540a18",
+      "appId": "9b81026596c24ef19379b0500214a176",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-29T16:08:47.816Z"
+    }
+  ],
+  "developer": "Riot Forge",
+  "developerId": "o-ch65axjcvgpsutlhlcyvqkx3fkmk44",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

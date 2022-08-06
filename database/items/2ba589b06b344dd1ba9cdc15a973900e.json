@@ -1,0 +1,73 @@
+{
+  "id": "2ba589b06b344dd1ba9cdc15a973900e",
+  "title": "Satisfactory Patching",
+  "description": "Satisfactory Patching",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/crab/item/ResourceImage3_Trailer-960x497-e13367226188f9abaf818873ee6af28c.png",
+      "md5": "e13367226188f9abaf818873ee6af28c",
+      "width": 960,
+      "height": 497,
+      "size": 384182,
+      "uploadedDate": "2018-11-07T01:04:41.672Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/crab/item/Diesel_productv2_satisfactory_home_Library_test-600x900-540347366061d34d18f285390854a6b95da47cfa-600x900-50b4812e26ac784e93de4c51eaa02ba7.png",
+      "md5": "50b4812e26ac784e93de4c51eaa02ba7",
+      "width": 600,
+      "height": 900,
+      "size": 217324,
+      "uploadedDate": "2021-01-23T02:06:26.487Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "crab",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-23T02:04:51.855Z",
+  "lastModifiedDate": "2021-01-23T02:08:45.220Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SatisfactoryPatching"
+    }
+  },
+  "entitlementName": "2ba589b06b344dd1ba9cdc15a973900e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e597f1077d0241a987ffbc2a75d56562",
+      "appId": "6b4bf58e5fa940c6aa417c578b3b49f6",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2018-11-05T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Coffee Stain Studios",
+  "developerId": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

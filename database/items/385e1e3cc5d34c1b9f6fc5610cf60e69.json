@@ -1,0 +1,72 @@
+{
+  "id": "385e1e3cc5d34c1b9f6fc5610cf60e69",
+  "title": "Brussels",
+  "description": "Brussels",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b4bb52a95d0b43d9af543c6ec3c54e04",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-12T16:43:57.513Z",
+  "lastModifiedDate": "2020-11-02T20:39:39.872Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "b4bb52a95d0b43d9af543c6ec3c54e04"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Brussels"
+    }
+  },
+  "entitlementName": "385e1e3cc5d34c1b9f6fc5610cf60e69",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "39556baf38534c9b9d1096b3c465dd7c",
+      "appId": "20f01ab5e0fa4e798c6d58eeb8d86989",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "Embark Studios AB",
+  "developerId": "o-wct448k64rpcjqfxbrhd3zleztl663",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567c2nRSjRzIcOF6yhA8NdsXBtQ",
+  "unsearchable": false
+}

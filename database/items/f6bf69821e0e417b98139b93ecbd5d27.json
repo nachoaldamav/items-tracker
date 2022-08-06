@@ -1,0 +1,53 @@
+{
+  "id": "f6bf69821e0e417b98139b93ecbd5d27",
+  "title": "BrownieStaging",
+  "description": "BrownieStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "435aaec1220447efbcfeb4f2abeb1027",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-16T22:17:05.106Z",
+  "lastModifiedDate": "2020-08-17T19:28:36.656Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BrownieStaging"
+    }
+  },
+  "entitlementName": "f6bf69821e0e417b98139b93ecbd5d27",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fda5f92942824a90af1dbdbfc9f7c123",
+      "appId": "a70ecaa96c37425db654bd2866039d2f",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-07-16T22:21:37.156Z"
+    }
+  ],
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

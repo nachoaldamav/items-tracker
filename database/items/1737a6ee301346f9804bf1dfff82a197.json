@@ -1,0 +1,71 @@
+{
+  "id": "1737a6ee301346f9804bf1dfff82a197",
+  "title": "Travellers Rest",
+  "description": "You are an innkeeper, on a journey to transform a run-down inn into a bustling social space. Brew your own beer, run a farm, explore the world, and build relationships with your customers to create your own fantasy tavern!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e3184f114896428397f9e616ca463a9c/travellers-rest-offer-1iu9w.png",
+      "md5": "0266a0dbd0fbfbfb52fa300100437ab1",
+      "width": 2560,
+      "height": 1440,
+      "size": 348029,
+      "uploadedDate": "2021-11-09T17:34:36.674Z",
+      "alt": "Travellers Rest Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e3184f114896428397f9e616ca463a9c/download-travellers-rest-offer-t8cjk.png",
+      "md5": "32be3ebe141655021c6fc406e931b42a",
+      "width": 1200,
+      "height": 1600,
+      "size": 98067,
+      "uploadedDate": "2021-11-09T17:44:30.047Z",
+      "alt": "Download Travellers Rest Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8ae3c382222c462492f25bab4800b77d",
+  "status": "ACTIVE",
+  "creationDate": "2021-10-05T07:31:57.033Z",
+  "lastModifiedDate": "2022-07-22T08:58:09.283Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Louqou/TravellersRest\\GameSaves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TravellersRest"
+    }
+  },
+  "entitlementName": "1737a6ee301346f9804bf1dfff82a197",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a7a9fdb2b5a5466286c079442a6911b2",
+      "appId": "df59f7f9308d42c187f990da3a4e1c54",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Isolated Games SL",
+  "developerId": "o-qeaamytcsr7938x3e7qbk9sak8xe6e",
+  "eulaIds": [],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

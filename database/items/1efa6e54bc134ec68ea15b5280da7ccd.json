@@ -1,0 +1,91 @@
+{
+  "id": "1efa6e54bc134ec68ea15b5280da7ccd",
+  "title": "God's Trigger",
+  "description": "God's Trigger",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ceaa24233cdb4b678a1cf515e3a912e8/item/EGS_GodsTrigger_OneMoreLevel_S1-2560x1440-ba2bd3504ffc2b9e55271a60e177972a.jpg",
+      "md5": "ba2bd3504ffc2b9e55271a60e177972a",
+      "width": 2560,
+      "height": 1440,
+      "size": 384907,
+      "uploadedDate": "2020-08-12T21:30:58.131Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ceaa24233cdb4b678a1cf515e3a912e8/item/EGS_GodsTrigger_OneMoreLevel_S2-1200x1600-f358d6781c0b38616e6cad865a427f13.jpg",
+      "md5": "f358d6781c0b38616e6cad865a427f13",
+      "width": 1200,
+      "height": 1600,
+      "size": 397046,
+      "uploadedDate": "2020-08-12T21:31:10.362Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ceaa24233cdb4b678a1cf515e3a912e8",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T02:37:51.654Z",
+  "lastModifiedDate": "2020-08-27T14:44:50.060Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ceaa24233cdb4b678a1cf515e3a912e8"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GodsTrigger"
+    }
+  },
+  "entitlementName": "1efa6e54bc134ec68ea15b5280da7ccd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e2d167853fb74a779510200429636115",
+      "appId": "9bc4423d873845739cc99ab69b6bfbe9",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-07-30T00:00:00.000Z"
+    }
+  ],
+  "developer": "Techland",
+  "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

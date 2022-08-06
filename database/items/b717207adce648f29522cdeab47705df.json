@@ -1,0 +1,34 @@
+{
+  "id": "b717207adce648f29522cdeab47705df",
+  "title": "DevYtterbiumAudience",
+  "description": "DevYtterbiumAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "dd0e87ebceb8498db6541385b95bac30",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-17T02:09:00.838Z",
+  "lastModifiedDate": "2021-07-27T03:13:41.121Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b717207adce648f29522cdeab47705df",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Life on Air",
+  "developerId": "o-dv26jja5h8zpqcnk7dauxdmcxfdyz7",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

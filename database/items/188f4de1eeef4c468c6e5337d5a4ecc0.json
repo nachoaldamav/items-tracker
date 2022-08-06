@@ -1,0 +1,52 @@
+{
+  "id": "188f4de1eeef4c468c6e5337d5a4ecc0",
+  "title": "VivaldiStaging",
+  "description": "VivaldiStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "dd1a1179103041a19c85cee2ca43cd99",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-23T21:12:20.530Z",
+  "lastModifiedDate": "2021-06-25T15:23:43.770Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "VivaldiStaging"
+    }
+  },
+  "entitlementName": "188f4de1eeef4c468c6e5337d5a4ecc0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7f44b21ea5f243fcbc3606f2f573472a",
+      "appId": "d9292fe26fd640bc8eaa5d9f5e1ff500",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-02-23T21:20:14.323Z"
+    }
+  ],
+  "developer": "Another Indie Studio Limited",
+  "developerId": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

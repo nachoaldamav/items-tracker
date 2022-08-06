@@ -1,0 +1,71 @@
+{
+  "id": "2a70e7a725e34ab29a645c6ffbc35c0d",
+  "title": "The Llama of Wall Street",
+  "description": "The Llama of Wall Street",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/item/EGS_TheLlamaofWallStreet_LimbicEntertainment_DLC_S1-2560x1440-d9521d9ee6ab9f40166934d31647599f.jpg",
+      "md5": "d9521d9ee6ab9f40166934d31647599f",
+      "width": 2560,
+      "height": 1440,
+      "size": 1005354,
+      "uploadedDate": "2020-11-16T20:45:59.236Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/item/EGS_TheLlamaofWallStreet_LimbicEntertainment_DLC_S2-1200x1600-f7b732c53014e9cb978e96eaffefbeaf.jpg",
+      "md5": "f7b732c53014e9cb978e96eaffefbeaf",
+      "width": 1200,
+      "height": 1600,
+      "size": 696691,
+      "uploadedDate": "2020-11-16T20:46:06.132Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e1055bf1e5654b93a27e19e6bb86cb2a",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T16:38:26.403Z",
+  "lastModifiedDate": "2021-08-11T15:00:10.319Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LlamaofWallStreet"
+    }
+  },
+  "entitlementName": "2a70e7a725e34ab29a645c6ffbc35c0d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d754ca305143443b937807ed31ca99bd",
+      "appId": "d0790e24734f4ea19b6339d0c782a0e4",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

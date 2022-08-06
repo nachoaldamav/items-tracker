@@ -1,0 +1,86 @@
+{
+  "id": "1e0b46768c8e4962ad59f159da73dd83",
+  "title": "Pineapple",
+  "description": "Pineapple",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6f43ab8025ad42d18510aa91e9eb688b",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-30T20:17:17.746Z",
+  "lastModifiedDate": "2021-06-18T12:59:10.655Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "6f43ab8025ad42d18510aa91e9eb688b"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/pineapple/EOS/{EpicID}/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "pineappledevice.sav"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1600"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Pineapple"
+    }
+  },
+  "entitlementName": "1e0b46768c8e4962ad59f159da73dd83",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3e9ee5598504434085b0a2bc753ba307",
+      "appId": "b25ba0f04dc9434f8a04a062719e7aa7",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-30T00:00:00.000Z"
+    }
+  ],
+  "developer": "Square Enix (Japan)",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567QM0GxHIVNdLylGHWiMwmo6UO",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

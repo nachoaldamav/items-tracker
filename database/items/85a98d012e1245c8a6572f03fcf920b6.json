@@ -1,0 +1,93 @@
+{
+  "id": "85a98d012e1245c8a6572f03fcf920b6",
+  "title": "Paladins",
+  "description": "Paladins",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/badb0ee71b474ed591ec43212547cfc8/Paladins__RWBY_EGS_BoxArt_2560x1440_horizontal_2560x1440-1f32f243470fbca095be9d3317c027e1",
+      "md5": "1f32f243470fbca095be9d3317c027e1",
+      "width": 2560,
+      "height": 1440,
+      "size": 500115,
+      "uploadedDate": "2022-06-23T18:56:50.374Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/badb0ee71b474ed591ec43212547cfc8/Paladins__RWBY_EGS_BoxArt_860x1148_vertical_860x1148-1aa3c32502db05469ea768e16e69b856",
+      "md5": "1aa3c32502db05469ea768e16e69b856",
+      "width": 860,
+      "height": 1148,
+      "size": 487826,
+      "uploadedDate": "2022-06-23T18:56:52.418Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-18T01:57:09.836Z",
+  "lastModifiedDate": "2022-06-29T10:59:27.822Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "badb0ee71b474ed591ec43212547cfc8"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Paladins"
+    }
+  },
+  "entitlementName": "85a98d012e1245c8a6572f03fcf920b6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1df8359888944ca5834309d8c3bc1b11",
+      "appId": "Antbird",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-18T00:00:00.000Z"
+    }
+  ],
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

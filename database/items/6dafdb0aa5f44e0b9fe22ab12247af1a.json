@@ -1,0 +1,60 @@
+{
+  "id": "6dafdb0aa5f44e0b9fe22ab12247af1a",
+  "title": "Season Pass",
+  "description": "Season Pass",
+  "technicalDetails": "Granted if you must call Partner Integration to redeem season pass separately from the game. Not necessary if the edition you buy already includes it",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4b35838425c74992ad42e1276b2161ca",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-08T17:42:20.456Z",
+  "lastModifiedDate": "2021-04-22T00:49:41.353Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "e4afbc10480d4afd97465e4aea194a73"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "f7541c27d341470f94b6ee7d94a41294"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "6dafdb0aa5f44e0b9fe22ab12247af1a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b435e4d719db47a0853d46cd88f4b3e4",
+      "appId": "PheasantSeasonPassTest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-08T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

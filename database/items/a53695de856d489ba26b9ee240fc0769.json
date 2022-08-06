@@ -1,0 +1,100 @@
+{
+  "id": "a53695de856d489ba26b9ee240fc0769",
+  "title": "Twinmotion 2022.1.2",
+  "description": "Twinmotion 2022.1.2 License",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LauncherThumbnailLandscapeLogoFull_1920x1080_1920x1080-bebbabc284351b777a50cb9d8caceaa7",
+      "md5": "bebbabc284351b777a50cb9d8caceaa7",
+      "width": 1920,
+      "height": 1080,
+      "size": 2271408,
+      "uploadedDate": "2021-08-04T13:34:28.973Z",
+      "alt": "TwinMotion"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LauncherThumbnailProfileLogoFull_1200x1600_1200x1600-7860c85d5b27b24179f2faf30b4f9efe",
+      "md5": "7860c85d5b27b24179f2faf30b4f9efe",
+      "width": 1200,
+      "height": 1600,
+      "size": 2250578,
+      "uploadedDate": "2021-08-04T13:34:39.373Z",
+      "alt": "TwinMotion"
+    }
+  ],
+  "categories": [
+    {
+      "path": "software"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "poodle",
+  "status": "ACTIVE",
+  "creationDate": "2021-10-04T17:08:36.813Z",
+  "lastModifiedDate": "2022-02-03T13:04:31.623Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "Twinmotion"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "egs.library.display_version": {
+      "type": "STRING",
+      "value": "2022.1"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Epic Games"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Twinmotion2022.1"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows, Mac"
+    }
+  },
+  "entitlementName": "Twinmotion2022.1",
+  "entitlementType": "EXECUTABLE",
+  "entitlementStartDate": "2021-10-04T17:04:58.306Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "91a8cde7429a4191bbb004a443d11d1a",
+      "appId": "cc7d703badf64f299f49779a4b7be03a",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-10-20T13:26:27.503Z"
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [
+    "twin"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

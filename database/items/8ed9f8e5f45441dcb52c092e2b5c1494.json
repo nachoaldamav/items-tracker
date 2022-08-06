@@ -1,0 +1,51 @@
+{
+  "id": "8ed9f8e5f45441dcb52c092e2b5c1494",
+  "title": "SessionMatchmaking EOSH",
+  "description": "SessionMatchmaking EOSH",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "developer"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b761d934acc84232bd91cd5358e030f9",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-25T18:19:42.279Z",
+  "lastModifiedDate": "2021-01-26T20:36:18.817Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SMEOSH"
+    }
+  },
+  "entitlementName": "8ed9f8e5f45441dcb52c092e2b5c1494",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3d673b1c90cb47559a84a577fd93f08c",
+      "appId": "46c4e5f5496b4a59b9621d37281e0ce4",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Win32"
+      ],
+      "dateAdded": "2020-09-09T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic SDK Internal - Prod",
+  "developerId": "o-vvsbfecxfr4yvjzdttzgtdr2n87zdl",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

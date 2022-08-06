@@ -1,0 +1,62 @@
+{
+  "id": "9e6951a6428746d2ab08eed1ad379004",
+  "title": "Mail Time",
+  "description": "Mail Time",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ed9336e88da4488d9830da744972443b/mail-time-offer-112r9.jpg",
+      "md5": "aa4d32585f14ca1f9f377e6873229b0f",
+      "width": 2560,
+      "height": 1440,
+      "size": 967598,
+      "uploadedDate": "2021-12-09T18:46:39.376Z",
+      "alt": "Mail Time Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ed9336e88da4488d9830da744972443b/download-mail-time-offer-gbijm.jpg",
+      "md5": "c52a443044c55cfbb4eed2a5eb622a78",
+      "width": 1200,
+      "height": 1600,
+      "size": 826903,
+      "uploadedDate": "2021-12-09T18:46:40.175Z",
+      "alt": "Download Mail Time Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "785719d6f46649018bf83b6832f6f65a",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-04T22:38:20.377Z",
+  "lastModifiedDate": "2022-06-02T12:25:07.830Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "MailTimeLttnt"
+    }
+  },
+  "entitlementName": "9e6951a6428746d2ab08eed1ad379004",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e58e250fefee41b0b1902dfe6cf000fb",
+      "appId": "45491807e5c64f498342c89f392b0171",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Freedom Games",
+  "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

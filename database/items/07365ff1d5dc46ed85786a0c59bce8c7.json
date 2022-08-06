@@ -1,0 +1,60 @@
+{
+  "id": "07365ff1d5dc46ed85786a0c59bce8c7",
+  "title": "ArsenicStaging",
+  "description": "ArsenicStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3dd7b519d7ab4631ae96d3efa8588514",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-21T18:27:13.024Z",
+  "lastModifiedDate": "2021-02-11T15:12:49.218Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/MASSDMG/Halcyon6LSE/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.lua,AchievementData/*.lua,ErrorReportingData/*.lua"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ArsenicStaging"
+    }
+  },
+  "entitlementName": "07365ff1d5dc46ed85786a0c59bce8c7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6770e3e53510468995effb8b5dd1cc7f",
+      "appId": "36e2ba5dfcf048f29f96f3619472dcbf",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-01-21T00:00:00.000Z"
+    }
+  ],
+  "developer": "Massive Damage",
+  "developerId": "o-nfrzd5cr4auuxqxmyzuezwhahtmstc",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,71 @@
+{
+  "id": "26f73541fc3e4c639fa007c12085f2c4",
+  "title": "Dogfight",
+  "description": "Dogfight",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3aaea08fd9554b1c94b15dc2f8eef453/dogfight-offer-1k4ji.png",
+      "md5": "60eece650d68fe039fca3daa4d77635d",
+      "width": 2560,
+      "height": 1440,
+      "size": 1327826,
+      "uploadedDate": "2022-05-25T12:02:53.745Z",
+      "alt": "Dogfight Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3aaea08fd9554b1c94b15dc2f8eef453/download-dogfight-offer-19mju.png",
+      "md5": "df2045d6da4447e86158ac305f1ba69a",
+      "width": 1200,
+      "height": 1600,
+      "size": 916422,
+      "uploadedDate": "2022-05-25T12:02:52.458Z",
+      "alt": "Download Dogfight Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d64cf8f7bcc2420f9379b016888cfc96",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-23T12:08:12.151Z",
+  "lastModifiedDate": "2022-06-23T12:08:12.151Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Katsu Entertainment/Dogfight/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "best,prefs,save0,save1,save2,saveProgress,saveSpeedrun"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DogfightJJWmh"
+    }
+  },
+  "entitlementName": "26f73541fc3e4c639fa007c12085f2c4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "92c0bfacd6b34d9ebd93e9918711ff54",
+      "appId": "e501b08a722b4c1f9900cbbc150eeee4",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Hound Picked Games",
+  "developerId": "o-rc3494dn7cgxtr3x2h2v3h3d2asxpw",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

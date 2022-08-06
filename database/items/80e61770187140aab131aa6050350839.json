@@ -1,0 +1,50 @@
+{
+  "id": "80e61770187140aab131aa6050350839",
+  "title": "CarrotStaging",
+  "description": "CarrotStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2ae3b43880cd447ea4b439a8a32dcae3",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-17T16:22:49.286Z",
+  "lastModifiedDate": "2020-09-03T14:46:46.979Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CarrotStaging"
+    }
+  },
+  "entitlementName": "80e61770187140aab131aa6050350839",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e32320d9abb146b6a55ec906252e584f",
+      "appId": "CarrotStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Perfect World",
+  "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,45 @@
+{
+  "id": "e42ec6c2c0714d7dad8638ced561e455",
+  "title": "MorganiteGeneralAudience",
+  "description": "MorganiteGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/item/EGS_SLUDGELIFE_TerriVellmannDoseone_RA1-424x200-5098125ebc746a5092643f69e05f703d.png",
+      "md5": "5098125ebc746a5092643f69e05f703d",
+      "width": 424,
+      "height": 200,
+      "size": 10702,
+      "uploadedDate": "2020-02-26T15:28:30.130Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "158a0eaa18574bb39347c04286d118c7",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-22T19:54:27.820Z",
+  "lastModifiedDate": "2020-05-22T19:54:27.820Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e42ec6c2c0714d7dad8638ced561e455",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

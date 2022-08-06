@@ -1,0 +1,62 @@
+{
+  "id": "aae049e71990458e8f278da001f6c09e",
+  "title": "NERO",
+  "description": "NERO",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/152d740099ae45d9a69d0cfe6ea00771/nero-offer-99eoj.png",
+      "md5": "b0e76bb9f5a78333f0d0f5baaf8e1203",
+      "width": 2560,
+      "height": 1440,
+      "size": 1711152,
+      "uploadedDate": "2022-01-31T08:20:17.012Z",
+      "alt": "NERO Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/152d740099ae45d9a69d0cfe6ea00771/download-nero-offer-abrgt.png",
+      "md5": "a43f972048548f993dcccc0bc15d2a32",
+      "width": 1200,
+      "height": 1600,
+      "size": 868109,
+      "uploadedDate": "2022-01-31T08:21:01.969Z",
+      "alt": "Download NERO Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "dfb15b4fd0834720a774605c028fcefa",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-03T00:17:57.569Z",
+  "lastModifiedDate": "2022-06-03T00:17:57.569Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "NEROqgWPM"
+    }
+  },
+  "entitlementName": "aae049e71990458e8f278da001f6c09e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b930d344d8cb44ae8cddbdbe5dce923a",
+      "appId": "3664385736cb497684f96d932e560ae1",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Arimac Lanka Private Limited",
+  "developerId": "o-2s5xv4kz849fty8nfc4uuuwy6qar28",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

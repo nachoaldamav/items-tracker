@@ -1,0 +1,73 @@
+{
+  "id": "2e56bd2e83ca4211ac4e187531ebc1c3",
+  "title": "blackchocolate Public",
+  "description": "blackchocolate Public",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "65d31d60510a49629a0b52e93da8416a",
+  "status": "ACTIVE",
+  "creationDate": "2021-05-19T16:52:59.894Z",
+  "lastModifiedDate": "2021-06-01T15:05:40.350Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "65d31d60510a49629a0b52e93da8416a"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "blackchocolate"
+    }
+  },
+  "entitlementName": "2e56bd2e83ca4211ac4e187531ebc1c3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1f0d24a53f8a47d3b42400789856b113",
+      "appId": "34207deee7704cae912ff861937af7ed",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "No More Robots",
+  "developerId": "o-236t9erksuklvbpwrddx5953wndtps",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

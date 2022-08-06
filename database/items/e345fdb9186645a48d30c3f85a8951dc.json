@@ -1,0 +1,93 @@
+{
+  "id": "e345fdb9186645a48d30c3f85a8951dc",
+  "title": "KINGDOM HEARTS III + Re Mind",
+  "description": "KINGDOM HEARTS III + Re Mind",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/0712176b5e3e49bfa8866c0ee1359f2d/item/EGS_KINGDOMHEARTSIIIReMindDLC_SquareEnix_S5-1920x1080-e5a336a9e5cb029432239114ffd2e995.jpg",
+      "md5": "e5a336a9e5cb029432239114ffd2e995",
+      "width": 1920,
+      "height": 1080,
+      "size": 362637,
+      "uploadedDate": "2021-01-26T23:46:12.985Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/0712176b5e3e49bfa8866c0ee1359f2d/item/EGS_KINGDOMHEARTSIIIReMindDLC_SquareEnix_S6-1200x1600-54d8b062dc7488c71874fe2455d6c2bd.jpg",
+      "md5": "54d8b062dc7488c71874fe2455d6c2bd",
+      "width": 1200,
+      "height": 1600,
+      "size": 1007481,
+      "uploadedDate": "2021-01-26T23:46:22.111Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0712176b5e3e49bfa8866c0ee1359f2d",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-02T12:15:27.383Z",
+  "lastModifiedDate": "2021-02-19T17:03:04.392Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "0712176b5e3e49bfa8866c0ee1359f2d"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KH_3"
+    }
+  },
+  "entitlementName": "e345fdb9186645a48d30c3f85a8951dc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fe2381ce8d5044b299dd2f048fd0508a",
+      "appId": "fd711544a06543e0ab1b0808de334120",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-07-02T00:00:00.000Z"
+    }
+  ],
+  "developer": "Square Enix (Japan)",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567qYldagzvzqbjfXN898a8yhlp",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

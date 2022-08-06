@@ -1,0 +1,56 @@
+{
+  "id": "75593c777d7c4a638a56caa0d3cd43b2",
+  "title": "FrigateDevDebug",
+  "description": "FrigateDevDebug",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1c4745021d4243a783b459d928b9088f",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-16T12:35:29.115Z",
+  "lastModifiedDate": "2021-03-24T23:51:39.063Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/Octopath_Traveler/EpicGamesStore/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FrigateDevDebug"
+    }
+  },
+  "entitlementName": "75593c777d7c4a638a56caa0d3cd43b2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c8d8e4e48e9b4dc1aa6c54af3fde15ff",
+      "appId": "d565f6734169458e98633a37486b5212",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-19T00:00:00.000Z"
+    }
+  ],
+  "developer": "Square Enix (Japan)",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

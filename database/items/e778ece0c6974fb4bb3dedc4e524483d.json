@@ -1,0 +1,65 @@
+{
+  "id": "e778ece0c6974fb4bb3dedc4e524483d",
+  "title": "NORCO",
+  "description": "NORCO",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9eb5e38b45cf4b40bb89c5727ebd20bc/norco-norco-original-soundtrack-offer-1l3ew.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 2560,
+      "height": 1440,
+      "size": 830138,
+      "uploadedDate": "2022-03-08T16:22:37.350Z",
+      "alt": "NORCO NORCO Original Soundtrack Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9eb5e38b45cf4b40bb89c5727ebd20bc/download-norco-norco-original-soundtrack-offer-sln9n.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 257970,
+      "uploadedDate": "2022-03-08T16:22:34.333Z",
+      "alt": "Download NORCO NORCO Original Soundtrack Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "digitalextras"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "71bcf2f38b9443418ba609433e48c113",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-23T15:53:59.078Z",
+  "lastModifiedDate": "2022-03-23T15:53:59.078Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "NORCO_OST"
+    }
+  },
+  "entitlementName": "e778ece0c6974fb4bb3dedc4e524483d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "747e544c3a2349ea9aff860b0fcf4d58",
+      "appId": "0a7926a3ae9947bba331c57a8e6d71c1",
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Raw Fury",
+  "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

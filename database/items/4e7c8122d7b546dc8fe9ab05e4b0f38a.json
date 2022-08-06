@@ -1,0 +1,92 @@
+{
+  "id": "4e7c8122d7b546dc8fe9ab05e4b0f38a",
+  "title": "Totally Accurate Battle Simulator",
+  "description": "Totally Accurate Battle Simulator",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/item/EGS_TotallyAccurateBattleSimulator_LandfallGames_S3-2560x1440-5a7fa2ad3029ef94c70ca19f088ee9c3.jpg",
+      "md5": "5a7fa2ad3029ef94c70ca19f088ee9c3",
+      "width": 2560,
+      "height": 1440,
+      "size": 835452,
+      "uploadedDate": "2021-03-31T22:31:45.302Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/item/EGS_TotallyAccurateBattleSimulator_LandfallGames_S4-1200x1600-6c3faa0bfc6514db0630522fa628ed84.jpg",
+      "md5": "6c3faa0bfc6514db0630522fa628ed84",
+      "width": 1200,
+      "height": 1600,
+      "size": 937274,
+      "uploadedDate": "2021-03-31T22:31:52.455Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ffe512fa1e594ee6a75d4643d1e21b43",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-16T16:58:30.243Z",
+  "lastModifiedDate": "2021-04-01T18:58:39.989Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ffe512fa1e594ee6a75d4643d1e21b43"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TABS"
+    }
+  },
+  "entitlementName": "4e7c8122d7b546dc8fe9ab05e4b0f38a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fee6d6de56474e73a35a63c56cbe3f88",
+      "appId": "Driftfish",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-12-18T00:00:00.000Z"
+    }
+  ],
+  "developer": "Landfall Games",
+  "developerId": "o-davtxzvpdnjmd82c247y6zdxg7wabq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "9311bd5f4caa4509a0d062ec8bd5a5a3",
+  "title": "DevSousaAudience",
+  "description": "DevSousaAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "5b08e4db33c54e518c2a1360cc2c7f18",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-04T02:49:07.299Z",
+  "lastModifiedDate": "2021-09-27T23:52:30.292Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9311bd5f4caa4509a0d062ec8bd5a5a3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "MidBoss, LLC",
+  "developerId": "o-uk5s5frpth22ldn5cqr5z3vmf9g52r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

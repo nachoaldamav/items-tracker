@@ -1,0 +1,53 @@
+{
+  "id": "ca4a923c1d9c46a89bd9ed56e70143ad",
+  "title": "ProtactiniumStaging",
+  "description": "ProtactiniumStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1b46483fae544287b08af981b49a931c",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-09T00:21:24.931Z",
+  "lastModifiedDate": "2021-04-27T02:01:00.504Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ProtactiniumStaging"
+    }
+  },
+  "entitlementName": "ca4a923c1d9c46a89bd9ed56e70143ad",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2d956ba4271342efbae98ead84bc6b52",
+      "appId": "55965b200a5c46879fcec77e47d3d179",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-02-09T00:55:03.958Z"
+    }
+  ],
+  "developer": "Draknek",
+  "developerId": "o-8n38qrvfawma8qsmu3d37bw7gasm2a",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

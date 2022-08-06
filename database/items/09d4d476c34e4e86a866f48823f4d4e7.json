@@ -1,0 +1,34 @@
+{
+  "id": "09d4d476c34e4e86a866f48823f4d4e7",
+  "title": "DevXenonAudience",
+  "description": "DevXenonAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "266c5badcfd144cbbeedd44499d85a62",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-27T19:40:39.720Z",
+  "lastModifiedDate": "2021-10-06T15:33:02.143Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "09d4d476c34e4e86a866f48823f4d4e7",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

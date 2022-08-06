@@ -1,0 +1,121 @@
+{
+  "id": "18e6826e1f464668a0aa45635e0bde07",
+  "title": "Tom Clancy’s Rainbow Six Siege",
+  "description": "Tom Clancy’s Rainbow Six Siege",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/carnation/item/r6s-y6-epic-std-store-landscape-2560x1440-2560x1440-ada4045f97c2-2560x1440-1a29dde6790c324f62bb12216e651944.jpeg",
+      "md5": "1a29dde6790c324f62bb12216e651944",
+      "width": 2560,
+      "height": 1440,
+      "size": 265697,
+      "uploadedDate": "2021-03-14T20:26:04.480Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/carnation/item/r6s-y6-epic-std-store-portrait-1200x1600-1200x1600-8ecd88137e14-1200x1600-05e68a0aed3dc068b9b4186997b97317.jpeg",
+      "md5": "05e68a0aed3dc068b9b4186997b97317",
+      "width": 1200,
+      "height": 1600,
+      "size": 179414,
+      "uploadedDate": "2021-03-14T20:26:17.050Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "carnation",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-11T18:08:53.061Z",
+  "lastModifiedDate": "2022-04-07T22:38:50.061Z",
+  "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "2e92d360488445048933157725e02c5e"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Launch Rainbow Six Siege – Vulkan"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RainbowSixSiege"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "carnation"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-ExeId 1"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Ubisoft"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "18e6826e1f464668a0aa45635e0bde07",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "99b27afda0434e6dbb1c685081b780df",
+      "appId": "Carnation",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-11T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

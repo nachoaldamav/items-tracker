@@ -1,0 +1,83 @@
+{
+  "id": "263abf5f8f244657aeb85583abf26407",
+  "title": "KORAL",
+  "description": "KORAL",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt/fdedf532-3283-4b02-ad53-732263fe992b/koral-offer-1156f5eb.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 2560,
+      "height": 1440,
+      "size": 965514,
+      "uploadedDate": "2021-06-22T08:20:11.821Z",
+      "alt": "KORAL Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt/c0dcc154-dcd3-4658-8837-39db542cb9b8/download-koral-offer-60895c97.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 590672,
+      "uploadedDate": "2021-06-08T10:49:51.893Z",
+      "alt": "Download KORAL Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2d1dc4443d4a4687b28460668eeea1c3",
+  "status": "ACTIVE",
+  "creationDate": "2021-06-08T07:36:41.848Z",
+  "lastModifiedDate": "2022-02-18T09:25:06.524Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Koral/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "productGeneration": {
+      "type": "STRING",
+      "value": "SPT"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KORAL"
+    }
+  },
+  "entitlementName": "263abf5f8f244657aeb85583abf26407",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a4d4bbe307e546e690fba90ae8f522e6",
+      "appId": "ba0b70917bb14cd9bc5ddf9f3ea8b948",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "COROGAMES S.L.",
+  "developerId": "o-zsq9fjbmae64r7b9nuuyljbhaw3y43",
+  "eulaIds": [],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567xkh8eEWs0Tg4gb597qgZ0uuc",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

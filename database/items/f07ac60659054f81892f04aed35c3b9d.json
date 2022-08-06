@@ -1,0 +1,62 @@
+{
+  "id": "f07ac60659054f81892f04aed35c3b9d",
+  "title": "Snake Pass",
+  "description": "Snake Pass",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a0544bfbfbb84e7ba8ab7af9d6de8a8b/snake-pass-offer-81fb8.jpg",
+      "md5": "cc0d5166e2f98eccb64d30b6c161aa08",
+      "width": 2560,
+      "height": 1440,
+      "size": 320278,
+      "uploadedDate": "2021-10-20T15:29:52.115Z",
+      "alt": "Snake Pass Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a0544bfbfbb84e7ba8ab7af9d6de8a8b/download-snake-pass-offer-1s64j.jpg",
+      "md5": "e65dfa3ca421296290bf632210496df7",
+      "width": 1200,
+      "height": 1600,
+      "size": 196113,
+      "uploadedDate": "2021-10-20T15:29:53.392Z",
+      "alt": "Download Snake Pass Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8218222d512a4fc8844abac67f7c7ea3",
+  "status": "ACTIVE",
+  "creationDate": "2022-01-07T09:21:08.562Z",
+  "lastModifiedDate": "2022-06-02T12:25:01.096Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SnakePass2u529"
+    }
+  },
+  "entitlementName": "f07ac60659054f81892f04aed35c3b9d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cb24bc4615564aeb8a6c6b306a14c459",
+      "appId": "4a5f99ecea1a47d8b2b8f91395bf1cbc",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Secret Mode",
+  "developerId": "o-rdrzv6e26usvcn4dsevv2mpfr4bytu",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

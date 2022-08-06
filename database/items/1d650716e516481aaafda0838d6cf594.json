@@ -1,0 +1,60 @@
+{
+  "id": "1d650716e516481aaafda0838d6cf594",
+  "title": "OwlStaging",
+  "description": "OwlStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fe5a2e3e842a4394938a81f3308df2ed",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-06T19:35:47.398Z",
+  "lastModifiedDate": "2021-12-01T19:53:25.607Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Solar/EGS/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "AudioSettingsData.sav,VideoSettingsPC.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OwlStaging"
+    }
+  },
+  "entitlementName": "1d650716e516481aaafda0838d6cf594",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9c1cf86676894fa8b9afb70c1492a056",
+      "appId": "OwlStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

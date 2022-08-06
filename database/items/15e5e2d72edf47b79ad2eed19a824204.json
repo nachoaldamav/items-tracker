@@ -1,0 +1,71 @@
+{
+  "id": "15e5e2d72edf47b79ad2eed19a824204",
+  "title": "Iron Danger",
+  "description": "Iron Danger",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/26bc65608bc84294900df1974ef3758a/download-iron-danger-offer-1nb4y.jpg",
+      "md5": "db2258efaa989e38500440d8d4dd61dd",
+      "width": 1200,
+      "height": 1600,
+      "size": 1076276,
+      "uploadedDate": "2021-11-08T17:44:13.798Z",
+      "alt": "Download Iron Danger Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/26bc65608bc84294900df1974ef3758a/iron-danger-offer-wha0m.jpg",
+      "md5": "760e64e089356fbf05649b31bdeb68d4",
+      "width": 2560,
+      "height": 1440,
+      "size": 2363140,
+      "uploadedDate": "2021-11-08T17:44:20.728Z",
+      "alt": "Iron Danger Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cd8a253549eb42ce8ce491e09ca49690",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-22T23:57:45.024Z",
+  "lastModifiedDate": "2022-06-02T12:25:57.258Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/ActionSquad/IronDanger/Saves/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "IronDanger"
+    }
+  },
+  "entitlementName": "15e5e2d72edf47b79ad2eed19a824204",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bf977e4ffd68464cb85da5ae422b2e1d",
+      "appId": "ef8dfbbd351b4664b461bf614fe338b1",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "endOfSupport": false,
+  "applicationId": "fghi45678rHIs04PXc8c10n7Wp8SYCAe",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,52 @@
+{
+  "id": "2e44d21ad50e4329baddfb7eeadacbbc",
+  "title": "BrusselsStaging",
+  "description": "BrusselsStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b4bb52a95d0b43d9af543c6ec3c54e04",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-12T16:43:57.574Z",
+  "lastModifiedDate": "2020-09-10T17:51:32.164Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BrusselsStaging"
+    }
+  },
+  "entitlementName": "2e44d21ad50e4329baddfb7eeadacbbc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c2663bf2688240639e760c353bbbf89d",
+      "appId": "216d3153f5354c9184eccf4c0e2960c2",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "Embark Studios AB",
+  "developerId": "o-wct448k64rpcjqfxbrhd3zleztl663",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

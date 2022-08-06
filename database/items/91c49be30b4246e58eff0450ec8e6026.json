@@ -1,0 +1,62 @@
+{
+  "id": "91c49be30b4246e58eff0450ec8e6026",
+  "title": "Etherborn",
+  "description": "Etherborn",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/94e71dc9001f46478d1caf33d020cc8c/etherborn-offer-1vlqk.png",
+      "md5": "e61008c83dc2f15d27f25dbedda13998",
+      "width": 2560,
+      "height": 1440,
+      "size": 2713735,
+      "uploadedDate": "2022-04-22T19:26:33.419Z",
+      "alt": "Etherborn Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/94e71dc9001f46478d1caf33d020cc8c/download-etherborn-offer-1k4c4.jpg",
+      "md5": "85a8242b6ff9fae5b2b2d5d1dc9eb583",
+      "width": 1200,
+      "height": 1600,
+      "size": 214722,
+      "uploadedDate": "2022-01-29T02:13:12.332Z",
+      "alt": "Download Etherborn Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9900edf94196470f8ac121c5329eae16",
+  "status": "ACTIVE",
+  "creationDate": "2022-04-26T22:17:15.123Z",
+  "lastModifiedDate": "2022-04-26T22:17:15.123Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "EtherbornT0ysa"
+    }
+  },
+  "entitlementName": "91c49be30b4246e58eff0450ec8e6026",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "df4f3bed5e1b4ad3952b1913c3ddcf35",
+      "appId": "a270c5289b5d4109b1331c84e0d94963",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Akupara Games",
+  "developerId": "o-vzv8n7jse99sluj4vaa8522rh45cvg",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

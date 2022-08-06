@@ -1,0 +1,63 @@
+{
+  "id": "fb2fc4a549a0461f993861242c43c41c",
+  "title": "Gravitar Recharged",
+  "description": "Gravitar Recharged",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4fa6048dc3b94253aa89aeffb43bc675/gravitar-recharged-offer-1etlk.png",
+      "md5": "c488dd2e1a87e489756d8db400140d25",
+      "width": 2560,
+      "height": 1440,
+      "size": 3625341,
+      "uploadedDate": "2022-05-11T22:32:29.699Z",
+      "alt": "Gravitar Recharged Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4fa6048dc3b94253aa89aeffb43bc675/download-gravitar-recharged-offer-1be0h.png",
+      "md5": "e3b487b371f175857e8c72677dca4d14",
+      "width": 1200,
+      "height": 1600,
+      "size": 1931475,
+      "uploadedDate": "2022-05-11T22:32:29.181Z",
+      "alt": "Download Gravitar Recharged Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ab9453bf57664c37b432a0eaae5e340a",
+  "status": "ACTIVE",
+  "creationDate": "2022-05-16T18:39:21.000Z",
+  "lastModifiedDate": "2022-05-16T18:39:21.000Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "GravitarRechargedfRosN"
+    }
+  },
+  "entitlementName": "fb2fc4a549a0461f993861242c43c41c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1a935b74de9940ea9e77c7ca2fc54b03",
+      "appId": "c95cf7b0131242a9adb150bbab01565f",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Atari",
+  "developerId": "o-bhpk86rgthezed539g3hb5avacecqt",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

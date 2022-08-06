@@ -1,0 +1,94 @@
+{
+  "id": "58d79b3146d14ad38e8b0a045d7e1afe",
+  "title": "Necromunda: Hired Gun",
+  "description": "Necromunda: Hired Gun",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NecromundaHiredGun_StreumOnStudio_S1-2560x1440_2560x1440-3be8bb3344268054fd9ca5ac427afde3",
+      "md5": "3be8bb3344268054fd9ca5ac427afde3",
+      "width": 2560,
+      "height": 1440,
+      "size": 937485,
+      "uploadedDate": "2021-05-31T17:48:06.665Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NecromundaHiredGun_StreumOnStudio_S2-1200x1600_1200x1600-ef93e959fe00d4df8fdff4fded84c295",
+      "md5": "ef93e959fe00d4df8fdff4fded84c295",
+      "width": 1200,
+      "height": 1600,
+      "size": 919299,
+      "uploadedDate": "2021-05-31T17:48:11.538Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8c8bd44c4f8a4948800b27d9c1248c0c",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-24T20:58:58.448Z",
+  "lastModifiedDate": "2021-05-31T21:57:15.417Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "8c8bd44c4f8a4948800b27d9c1248c0c"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NecromundaHiredGun"
+    }
+  },
+  "entitlementName": "58d79b3146d14ad38e8b0a045d7e1afe",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e9d32436ff374fdbb71da6b7cb6b777b",
+      "appId": "04b548b98c934229842ffc00fb93aaba",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-02T16:43:41.713Z"
+    }
+  ],
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567D3GPqOPcbVeZLBD6piUuFgWQ",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

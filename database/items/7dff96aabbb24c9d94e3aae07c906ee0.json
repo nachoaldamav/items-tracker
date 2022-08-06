@@ -1,0 +1,34 @@
+{
+  "id": "7dff96aabbb24c9d94e3aae07c906ee0",
+  "title": "FetaGeneralAudience",
+  "description": "FetaGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "e901b6ea77454b0e9d944976a975165c",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-01T18:52:23.035Z",
+  "lastModifiedDate": "2021-09-15T22:01:46.109Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7dff96aabbb24c9d94e3aae07c906ee0",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,89 @@
+{
+  "id": "5cd953a3341b43b791fcee6739b7e665",
+  "title": "Hades Test Branch",
+  "description": "Hades Test Branch",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/min/item/Hades_Portrait_01_Title-1200x1600-eb267156efded262edf78ec01a3f4ad5.png",
+      "md5": "eb267156efded262edf78ec01a3f4ad5",
+      "width": 1200,
+      "height": 1600,
+      "size": 93776,
+      "uploadedDate": "2020-10-01T18:30:11.262Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/min/item/Hades_Portrait_01_Title_1920x1080-1920x1080-60675ab8452538e7e29e4c82e508dd5d.png",
+      "md5": "60675ab8452538e7e29e4c82e508dd5d",
+      "width": 1920,
+      "height": 1080,
+      "size": 97135,
+      "uploadedDate": "2020-10-01T22:00:36.725Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "min",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-09T19:17:19.629Z",
+  "lastModifiedDate": "2020-10-01T22:01:03.256Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "min"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.whitelist": {
+      "type": "STRING",
+      "value": "US"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{\"Requirements\": {\"DirectX\": {\"FeatureLevels\": \"D3D_FEATURE_LEVEL_11_0\"}}}"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HadesTechBeta"
+    }
+  },
+  "entitlementName": "5cd953a3341b43b791fcee6739b7e665",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e4bcca5128c348a1bc5f79fe87e5828d",
+      "appId": "3b586acd98e146ee9a92549c158d870f",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2018-11-28T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Supergiant Games LLC",
+  "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

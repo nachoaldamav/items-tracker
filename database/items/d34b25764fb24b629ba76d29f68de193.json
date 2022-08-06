@@ -1,0 +1,59 @@
+{
+  "id": "d34b25764fb24b629ba76d29f68de193",
+  "title": "GingerStaging",
+  "description": "GingerStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "77f2b98e2cef40c8a7437518bf420e47",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-07T19:03:29.303Z",
+  "lastModifiedDate": "2020-12-29T20:12:42.009Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/CD Projekt Red/Cyberpunk 2077/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "4000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GingerStaging"
+    }
+  },
+  "entitlementName": "d34b25764fb24b629ba76d29f68de193",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4eb10da6c9ca443483ce346261400b7a",
+      "appId": "GingerStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-29T00:00:00.000Z"
+    }
+  ],
+  "developer": "CD PROJEKT RED",
+  "developerId": "o-x2vdjaf7cfakvlsgz8qf2gx8bkplcc",
+  "eulaIds": [
+    "(egstore && cp2077)"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

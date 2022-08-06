@@ -1,0 +1,34 @@
+{
+  "id": "bf9297458ef34647986a0a59b9d0fb9a",
+  "title": "HotPinkGeneralAudience",
+  "description": "HotPinkGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "8410292c5be74572bbcc811a3a7ec0c5",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-23T19:27:03.363Z",
+  "lastModifiedDate": "2021-12-06T07:25:28.647Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "bf9297458ef34647986a0a59b9d0fb9a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "PatheaGames",
+  "developerId": "o-7ukp2mejsacwbpdud8qmv2npsqwbt4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

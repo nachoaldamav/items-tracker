@@ -1,0 +1,114 @@
+{
+  "id": "4f2adf9477d443c6a28fe16dc36f1c79",
+  "title": "Old World",
+  "description": "Old World",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OldWorld_MohawkGames_S1_2560x1440-ad3f83d78ffdcc569b89dfd3e9b14297",
+      "md5": "ad3f83d78ffdcc569b89dfd3e9b14297",
+      "width": 2560,
+      "height": 1440,
+      "size": 355573,
+      "uploadedDate": "2021-06-30T20:15:55.957Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OldWorld_MohawkGames_S2_1200x1600-cf57197806c4b3dca34059594ef40d91",
+      "md5": "cf57197806c4b3dca34059594ef40d91",
+      "width": 1200,
+      "height": 1600,
+      "size": 217087,
+      "uploadedDate": "2021-06-30T20:15:58.960Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "07f4a7dd3c884e5d87e9a209716962ca",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-04T02:18:13.548Z",
+  "lastModifiedDate": "2022-05-19T22:19:48.797Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "07f4a7dd3c884e5d87e9a209716962ca"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/OldWorld/Saves/"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/OldWorld/Saves/"
+    },
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-batchmode -nographics -server"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Launch Dedicated Server"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OldWorld"
+    }
+  },
+  "entitlementName": "4f2adf9477d443c6a28fe16dc36f1c79",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d68cc11faa0f4b84ade2e2e6f8cb0642",
+      "appId": "Nightjar",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-03-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "Mohawk Games",
+  "developerId": "o-uw2qbn4nh26vxscergml2f7du26bvk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi45671BGmZYEEWY5S8odb5iPvIhoR",
+  "unsearchable": false
+}

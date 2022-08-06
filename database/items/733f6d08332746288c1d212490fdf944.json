@@ -1,0 +1,71 @@
+{
+  "id": "733f6d08332746288c1d212490fdf944",
+  "title": "Riverbond",
+  "description": "Riverbond",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9d351e3efed04d1daa1fd6d7f8934f68/riverbond-offer-4anbp.jpg",
+      "md5": "c4831701a3b305aebccc8f159f0d0cd9",
+      "width": 2560,
+      "height": 1440,
+      "size": 2103857,
+      "uploadedDate": "2022-04-09T19:31:45.743Z",
+      "alt": "Riverbond Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9d351e3efed04d1daa1fd6d7f8934f68/download-riverbond-offer-1x6s4.jpg",
+      "md5": "90edbee47451440fd613038a10ff5a72",
+      "width": 1200,
+      "height": 1600,
+      "size": 1396335,
+      "uploadedDate": "2022-04-09T19:31:44.996Z",
+      "alt": "Download Riverbond Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "100f8957d16d4d2d89716775b5767779",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-21T22:40:06.033Z",
+  "lastModifiedDate": "2022-04-25T23:07:09.002Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Riverbond/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Riverbond"
+    }
+  },
+  "entitlementName": "733f6d08332746288c1d212490fdf944",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5e4cef406b2849c1a9c28d01feff5ac9",
+      "appId": "087f062df2574091a67fe614a6ec15a4",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Cococucumber",
+  "developerId": "o-angtq474rblj3nwc3a4pqajntqync2",
+  "endOfSupport": false,
+  "applicationId": "fghi4567bT7RWsbDcWenqhQ48mM5biTt",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

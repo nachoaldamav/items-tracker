@@ -1,0 +1,62 @@
+{
+  "id": "c372e4629c5848d48b34fa25cd086363",
+  "title": "XrayStaging",
+  "description": "XrayStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1f436e99203a49479f4a4d5951374fe8",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-24T21:16:45.243Z",
+  "lastModifiedDate": "2021-06-01T02:07:42.045Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Acorn/Saved/SaveGames/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "steam_autocloud.vdf"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "XrayStaging"
+    }
+  },
+  "entitlementName": "c372e4629c5848d48b34fa25cd086363",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7e4c1cc5864645a1bae18fba648e290f",
+      "appId": "90c3828bc3924ea18fb721c4e6b968f7",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-02-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "MWM Interactive",
+  "developerId": "o-f4rsv826ngcpw4wvunwntql3n23m46",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

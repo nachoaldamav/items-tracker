@@ -1,0 +1,57 @@
+{
+  "id": "d4fb4590b67344c1a479ecdc2f14b786",
+  "title": "PaneerStaging",
+  "description": "PaneerStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2a09fb19b47f46dfb11ebd382f132a8f",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-15T14:43:42.675Z",
+  "lastModifiedDate": "2021-08-06T23:23:14.316Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PaneerStaging"
+    }
+  },
+  "entitlementName": "d4fb4590b67344c1a479ecdc2f14b786",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "399b501f81c34634848eea06bed1d11f",
+      "appId": "5b8b9afd5470426f8f1bc8581ffc0699",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Square Enix",
+  "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567OuSuN6qHqn77Z6PYr6ryIFaj",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

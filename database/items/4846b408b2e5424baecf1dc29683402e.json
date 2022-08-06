@@ -1,0 +1,93 @@
+{
+  "id": "4846b408b2e5424baecf1dc29683402e",
+  "title": "Rogue Company",
+  "description": "Rogue Company",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/933ada2ec45e4184ae840d64c99e0ba9/roco-egs-2-6trench-landscapeproductimg-2560x1440-2560x1440-c587a056ca2a_2560x1440-a37c3784b27fbf6ee6822a65661a9ca6",
+      "md5": "a37c3784b27fbf6ee6822a65661a9ca6",
+      "width": 2560,
+      "height": 1440,
+      "size": 450499,
+      "uploadedDate": "2022-08-01T16:37:24.674Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/933ada2ec45e4184ae840d64c99e0ba9/roco-egs-2-6trench-portraitproductimg-1200x1600-1200x1600-e5e081a9526f_1200x1600-74695a4f701f7012861e867af856af9d",
+      "md5": "74695a4f701f7012861e867af856af9d",
+      "width": 1200,
+      "height": 1600,
+      "size": 291703,
+      "uploadedDate": "2022-08-01T16:37:40.822Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-16T21:22:27.462Z",
+  "lastModifiedDate": "2022-08-01T16:38:05.436Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "933ada2ec45e4184ae840d64c99e0ba9"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RogueCompany"
+    }
+  },
+  "entitlementName": "4846b408b2e5424baecf1dc29683402e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3699dbb53e594e109dc49e57cf757547",
+      "appId": "Pewee",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-16T00:00:00.000Z"
+    }
+  ],
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

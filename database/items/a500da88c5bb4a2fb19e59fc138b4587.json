@@ -1,0 +1,71 @@
+{
+  "id": "a500da88c5bb4a2fb19e59fc138b4587",
+  "title": "Zombie Rollerz",
+  "description": "Zombie Rollerz",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/555b34e18d6d4c6d9cf89533866089cb/zombie-rollerz-offer-19cxm.jpg",
+      "md5": "7ef68e366a50010a7dee1d5d3f5e25c3",
+      "width": 2560,
+      "height": 1440,
+      "size": 1142649,
+      "uploadedDate": "2021-12-01T17:52:17.665Z",
+      "alt": "Zombie Rollerz Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/555b34e18d6d4c6d9cf89533866089cb/download-zombie-rollerz-offer-8s52w.png",
+      "md5": "6af54cea1715d64be7ab537b1ab304c2",
+      "width": 1200,
+      "height": 1600,
+      "size": 2144341,
+      "uploadedDate": "2022-02-14T14:19:45.211Z",
+      "alt": "Download Zombie Rollerz Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f03887880e3f49c9b478cae9beac3812",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-22T23:56:52.270Z",
+  "lastModifiedDate": "2022-06-02T12:24:08.812Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Daedalic Entertainment GmbH/Zombie Rollerz/Epic Games/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "playersave_release.txt"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ZombieRollerz"
+    }
+  },
+  "entitlementName": "a500da88c5bb4a2fb19e59fc138b4587",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1e7eab0d8d7145a8b76f15331940a492",
+      "appId": "9289a61b4ab2456d8fe0e899a92f6700",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

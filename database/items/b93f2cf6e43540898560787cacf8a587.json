@@ -1,0 +1,38 @@
+{
+  "id": "b93f2cf6e43540898560787cacf8a587",
+  "title": "MtFairweatherGeneralAudience",
+  "description": "MtFairweatherGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-14T20:19:42.100Z",
+  "lastModifiedDate": "2022-07-15T20:55:44.361Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b93f2cf6e43540898560787cacf8a587",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Gameloft SE",
+  "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ebbb49896b5c4dc994001e6b729b70d4",
+  "title": "DemeterGeneralAudience",
+  "description": "DemeterGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "8c8bd44c4f8a4948800b27d9c1248c0c",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-24T20:58:58.213Z",
+  "lastModifiedDate": "2021-05-31T22:11:22.857Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ebbb49896b5c4dc994001e6b729b70d4",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

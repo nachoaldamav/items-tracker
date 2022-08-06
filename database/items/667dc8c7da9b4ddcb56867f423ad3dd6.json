@@ -1,0 +1,63 @@
+{
+  "id": "667dc8c7da9b4ddcb56867f423ad3dd6",
+  "title": "Mod0402",
+  "description": "Unnamed mod description",
+  "longDescription": "[{\"id\":\"1612437534202.215\",\"type\":\"image\",\"value\":{\"url\":\"https://cdn1.epicgames.com/mods/b57455ede0604d83892c3412ec3d610e/667dc8c7da9b4ddcb56867f423ad3dd6/1612437532919_1920_1080_test.jpg\",\"type\":\"aboutImg\",\"width\":1920,\"height\":1080,\"size\":16453,\"md5\":\"7473a414b4dacff2ee0a5f05de39a78a\",\"uploadedDate\":\"2021-01-04T10:11:46.378Z\"}}]",
+  "keyImages": [
+    {
+      "type": "carousel",
+      "url": "https://cdn1.epicgames.com/mods/b57455ede0604d83892c3412ec3d610e/667dc8c7da9b4ddcb56867f423ad3dd6/1612437543458_1920_1080_test.jpg",
+      "md5": "7473a414b4dacff2ee0a5f05de39a78a",
+      "width": 1920,
+      "height": 1080,
+      "size": 16453,
+      "uploadedDate": "2021-01-04T10:11:46.378Z"
+    },
+    {
+      "type": "storefront",
+      "url": "https://cdn1.epicgames.com/mods/b57455ede0604d83892c3412ec3d610e/667dc8c7da9b4ddcb56867f423ad3dd6/1612437549339_1200_1600_test.jpg",
+      "md5": "b0dba4f6d8f0f51fb0c47232c957bd49",
+      "width": 1200,
+      "height": 1600,
+      "size": 13058,
+      "uploadedDate": "2021-01-04T10:12:37.607Z"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/mods/b57455ede0604d83892c3412ec3d610e/667dc8c7da9b4ddcb56867f423ad3dd6/1612437552739_2560_1440_test.jpg",
+      "md5": "419fe54263010b0b698f750390c96db1",
+      "width": 2560,
+      "height": 1440,
+      "size": 18065,
+      "uploadedDate": "2021-01-04T10:13:46.845Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "mods"
+    }
+  ],
+  "namespace": "b57455ede0604d83892c3412ec3d610e",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-10T15:29:57.389Z",
+  "lastModifiedDate": "2021-04-01T18:55:04.709Z",
+  "entitlementName": "667dc8c7da9b4ddcb56867f423ad3dd6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8b9a3ea4b55f4f5780f6224199ab3bde",
+      "appId": "26cda0f93a614ed8b613530b886dee14",
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "My Team Ochet1",
+  "developerId": "o-xuj6sedutdvcuqnbxten8mcrlq7v7d",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

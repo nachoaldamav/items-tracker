@@ -1,0 +1,67 @@
+{
+  "id": "4b9e0faf77bd46b1984b374de00b80ec",
+  "title": "Beku",
+  "description": "Beku",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/bb8544ed98fd42c08af55a3efcc68e22/beku-offer-hi8o2.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 2560,
+      "height": 1440,
+      "size": 409737,
+      "uploadedDate": "2022-03-08T10:42:10.036Z",
+      "alt": "Beku Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/bb8544ed98fd42c08af55a3efcc68e22/download-beku-offer-11zby.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 226617,
+      "uploadedDate": "2022-03-08T10:42:10.404Z",
+      "alt": "Download Beku Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b7898e56fd624636ad56220ed8a7ee67",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-07T09:29:25.033Z",
+  "lastModifiedDate": "2022-03-26T03:16:02.090Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BekupYQRH"
+    }
+  },
+  "entitlementName": "4b9e0faf77bd46b1984b374de00b80ec",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "28c3a045afee458bacaae33cbdbc4378",
+      "appId": "b4f7b42ab4984873a1f2e63df4ecf3be",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Hound Picked Games",
+  "developerId": "o-rc3494dn7cgxtr3x2h2v3h3d2asxpw",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

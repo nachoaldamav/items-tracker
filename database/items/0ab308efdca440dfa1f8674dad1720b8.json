@@ -1,0 +1,52 @@
+{
+  "id": "0ab308efdca440dfa1f8674dad1720b8",
+  "title": "FarfalleStaging",
+  "description": "FarfalleStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3428aac705b44d88beb8334780fa33bd",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-31T23:06:18.924Z",
+  "lastModifiedDate": "2021-07-19T14:54:12.444Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FarfalleStaging"
+    }
+  },
+  "entitlementName": "0ab308efdca440dfa1f8674dad1720b8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1b613d02e57b47f1acafe8de4433a6d4",
+      "appId": "1dbb9910524f45d8a6dfa3cbfb37a6c5",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-04-01T17:40:00.063Z"
+    }
+  ],
+  "developer": "Covalent Media dba Scavengers Studio",
+  "developerId": "o-8ykq8y3hshjj6nkjujjfwj9cfa5g6f",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

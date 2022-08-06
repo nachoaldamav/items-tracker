@@ -1,0 +1,65 @@
+{
+  "id": "8f924caf92c64d12994c4aed719ace71",
+  "title": "Battle Chess",
+  "description": "Battle Chess",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/01f88c331fb74127aad153babbf6d2c9/battle-chess-offer-uztap.jpg",
+      "md5": "a8787ca1e2b91267ee59542349d9813a",
+      "width": 2560,
+      "height": 1440,
+      "size": 823327,
+      "uploadedDate": "2022-02-10T19:48:22.160Z",
+      "alt": "Battle Chess Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/01f88c331fb74127aad153babbf6d2c9/download-battle-chess-offer-16s94.jpg",
+      "md5": "91c44e1f5956dcaf5c57327bd43b87ba",
+      "width": 1200,
+      "height": 1600,
+      "size": 671616,
+      "uploadedDate": "2022-02-10T19:52:30.815Z",
+      "alt": "Download Battle Chess Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "134159e8d6cd4237b323eecec3d1fcca",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-10T00:05:43.901Z",
+  "lastModifiedDate": "2022-06-10T00:05:43.901Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BattleChess"
+    }
+  },
+  "entitlementName": "8f924caf92c64d12994c4aed719ace71",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c8c50dacff5e4dc5804e6046fbab8bda",
+      "appId": "c99dd9dc8998451abbc00834c9f1ab0f",
+      "platform": [
+        "Windows",
+        "Win32",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Interplay Entertainment Corp.",
+  "developerId": "o-ebvwv4fmqxbw48yz3rx65fmxxqfk35",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

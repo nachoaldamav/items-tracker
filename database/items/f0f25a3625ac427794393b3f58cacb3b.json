@@ -1,0 +1,105 @@
+{
+  "id": "f0f25a3625ac427794393b3f58cacb3b",
+  "title": "Halcyon 6",
+  "description": "Halcyon 6",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/3dd7b519d7ab4631ae96d3efa8588514/item/egs-halcyon6starbasecommanderlightspeededition-massivedamageinc-s1-2560x1440-93175c05e6e9-2560x1440-5f46f77b1b82d8c5d169a4d9734a3043-2560x1440-5f46f77b1b82d8c5d169a4d9734a3043.jpg",
+      "md5": "5f46f77b1b82d8c5d169a4d9734a3043",
+      "width": 2560,
+      "height": 1440,
+      "size": 208540,
+      "uploadedDate": "2021-02-11T02:43:46.194Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/3dd7b519d7ab4631ae96d3efa8588514/item/egs-halcyon6starbasecommanderlightspeededition-massivedamageinc-s2-1200x1600-e612ba915488-1200x1600-de7223f3cc553fb677476dcc18f7626a-1200x1600-de7223f3cc553fb677476dcc18f7626a.jpg",
+      "md5": "de7223f3cc553fb677476dcc18f7626a",
+      "width": 1200,
+      "height": 1600,
+      "size": 145187,
+      "uploadedDate": "2021-02-11T02:44:01.191Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3dd7b519d7ab4631ae96d3efa8588514",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-21T18:27:12.527Z",
+  "lastModifiedDate": "2021-02-23T14:58:21.280Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "3dd7b519d7ab4631ae96d3efa8588514"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/MASSDMG/Halcyon6LSE/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.lua,AchievementData/*.lua,ErrorReportingData/*.lua"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Halcyon6"
+    }
+  },
+  "entitlementName": "f0f25a3625ac427794393b3f58cacb3b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "350b5256cedf4a14ad523d3a79b6e3ea",
+      "appId": "b9e848fc5e844f4285b0624789476664",
+      "platform": [
+        "Windows",
+        "Win32"
+      ],
+      "dateAdded": "2021-01-21T00:00:00.000Z"
+    }
+  ],
+  "developer": "Massive Damage",
+  "developerId": "o-nfrzd5cr4auuxqxmyzuezwhahtmstc",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

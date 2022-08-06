@@ -1,0 +1,93 @@
+{
+  "id": "c196c4b158e64f9b8e72aea43d1261cd",
+  "title": "Alien: Isolation - Safe Haven",
+  "description": "Alien: Isolation - Safe Haven",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/havenDLC-1920x1080-1d4f4d362f7f75cb8b2466f56c36a83f.jfif",
+      "md5": "1d4f4d362f7f75cb8b2466f56c36a83f",
+      "width": 1920,
+      "height": 1080,
+      "size": 571595,
+      "uploadedDate": "2020-12-16T18:03:31.641Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/item/havenDLCportrait-1200x1600-d60210fd405976bbc9d668fa3b7a4248.jfif",
+      "md5": "d60210fd405976bbc9d668fa3b7a4248",
+      "width": 1200,
+      "height": 1600,
+      "size": 522554,
+      "uploadedDate": "2020-12-17T17:11:30.315Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "df37f065c3f14eadbf011177396e2966",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-26T17:25:15.978Z",
+  "lastModifiedDate": "2020-12-18T16:36:46.496Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "df37f065c3f14eadbf011177396e2966"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SafeHaven"
+    }
+  },
+  "entitlementName": "c196c4b158e64f9b8e72aea43d1261cd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3e369e5e15784f57af0cc9ba003638fe",
+      "appId": "6cb7076133c4441e9ab9b367ed43a95e",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567WncMSw97kolM0Ff1UBPqwsE7",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

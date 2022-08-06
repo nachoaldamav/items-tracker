@@ -1,0 +1,53 @@
+{
+  "id": "eec78a3c56a94619ac4937b1702173bf",
+  "title": "ImpalaBetaStaging",
+  "description": "ImpalaBetaStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "impala",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-18T18:43:26.888Z",
+  "lastModifiedDate": "2020-09-28T14:54:22.704Z",
+  "customAttributes": {
+    "isUplay": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "666f319539c748fb860a419233a9921e"
+    }
+  },
+  "entitlementName": "eec78a3c56a94619ac4937b1702173bf",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a3160eaa86d846609f92120c6f4fe91e",
+      "appId": "ImpalaBetaStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-18T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "85f2e0f084cd484f8d3a3e5b959cf940",
+  "title": "ETERNAL",
+  "description": "ETERNAL",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/290948172eb44c9a91debed2b6b28196/eternal-offer-yi92v.jpg",
+      "md5": "3544a329b972224f61116f3dbec367f4",
+      "width": 2560,
+      "height": 1440,
+      "size": 3388112,
+      "uploadedDate": "2022-01-21T09:15:56.370Z",
+      "alt": "ETERNAL Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/290948172eb44c9a91debed2b6b28196/download-eternal-offer-dw7ae.jpg",
+      "md5": "b256b272a9a53ea8e9c5f74cf52c7f60",
+      "width": 1200,
+      "height": 1600,
+      "size": 1007982,
+      "uploadedDate": "2022-01-21T10:16:43.038Z",
+      "alt": "Download ETERNAL Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e25f3f1b1a3c4f3d902faf3eed3f0999",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-02T02:48:32.154Z",
+  "lastModifiedDate": "2022-06-02T12:25:28.803Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Eternal"
+    }
+  },
+  "entitlementName": "85f2e0f084cd484f8d3a3e5b959cf940",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "40ca79e90ee449e5bf3bbc0b60231fb8",
+      "appId": "bfc95c990f3c4bc3bd49cffcd0b1c6b4",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "ASOBIMO, Inc.",
+  "developerId": "o-sbnvwu9lj8fmyv3wp4jl5btfgwxr9h",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

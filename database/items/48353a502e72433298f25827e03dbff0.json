@@ -1,0 +1,94 @@
+{
+  "id": "48353a502e72433298f25827e03dbff0",
+  "title": "Idle Champions of the Forgotten Realms",
+  "description": "Idle Champions of the Forgotten Realms",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S1_2560x1440-a890c6157dce97993be432cb8338cb79",
+      "md5": "a890c6157dce97993be432cb8338cb79",
+      "width": 2560,
+      "height": 1440,
+      "size": 536899,
+      "uploadedDate": "2022-07-20T23:03:27.890Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2_1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23",
+      "md5": "c67f1998f4ed6ba79d9e5e71cfb30b23",
+      "width": 1200,
+      "height": 1600,
+      "size": 254582,
+      "uploadedDate": "2022-07-20T23:03:31.149Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7e508f543b05465abe3a935960eb70ac",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-15T12:56:50.481Z",
+  "lastModifiedDate": "2022-07-21T15:01:20.255Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "7e508f543b05465abe3a935960eb70ac"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "IdleChampions"
+    }
+  },
+  "entitlementName": "48353a502e72433298f25827e03dbff0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5618de8423984b47a36993a80035ac38",
+      "appId": "40cb42e38c0b4a14a1bb133eb3291572",
+      "platform": [
+        "Windows",
+        "Win32"
+      ],
+      "dateAdded": "2020-10-15T00:00:00.000Z"
+    }
+  ],
+  "developer": "Codename Entertainment",
+  "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567wjWymifPzKkVgt3WIe5Guq35",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

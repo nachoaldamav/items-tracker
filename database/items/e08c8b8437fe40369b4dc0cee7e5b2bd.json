@@ -1,0 +1,81 @@
+{
+  "id": "e08c8b8437fe40369b4dc0cee7e5b2bd",
+  "title": "Scorpio Editor",
+  "description": "Scorpio Editor",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "engines"
+    },
+    {
+      "path": "editors"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "02c14a01b7044db98de3f3a10813a42e",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-19T23:20:26.604Z",
+  "lastModifiedDate": "2021-08-17T14:01:36.260Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "02c14a01b7044db98de3f3a10813a42e"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "mods.installPath": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HUMANKINDeditor"
+    }
+  },
+  "entitlementName": "e08c8b8437fe40369b4dc0cee7e5b2bd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "add8e2f8cea745febd6f0f3ca6013fbf",
+      "appId": "30831b0bb78c4c5bb3ca0c58d060c1b3",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-13T00:00:00.000Z",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

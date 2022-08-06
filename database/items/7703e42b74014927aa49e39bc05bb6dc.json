@@ -1,0 +1,60 @@
+{
+  "id": "7703e42b74014927aa49e39bc05bb6dc",
+  "title": "GhoulStaging",
+  "description": "GhoulStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e5decf71f325458b92653616ee98682a",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-10T03:59:54.304Z",
+  "lastModifiedDate": "2021-04-12T19:43:24.034Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Daedalic Entertainment GmbH/Deponia The Complete Journey/Savegames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.dat"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GhoulStaging"
+    }
+  },
+  "entitlementName": "7703e42b74014927aa49e39bc05bb6dc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7d74db7b41cd43babede2ec5b7cd7777",
+      "appId": "9e1bdc0338c84f578c2d138de3022850",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

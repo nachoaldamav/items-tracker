@@ -1,0 +1,113 @@
+{
+  "id": "1a98deb7ede648448f67cd00d1bf4584",
+  "title": "Tetris® Effect: Connected",
+  "description": "Tetris® Effect: Connected",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TetrisEffectConnected_MonstarsincandResonair_S3_2560x1440-f2b7de145181b857418618f0ea6c4ad5",
+      "md5": "f2b7de145181b857418618f0ea6c4ad5",
+      "width": 2560,
+      "height": 1440,
+      "size": 871670,
+      "uploadedDate": "2021-08-18T04:09:01.978Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TetrisEffectConnected_MonstarsincandResonair_S4_1200x1600-acde763fdaa91f4bb412c78aa028569f",
+      "md5": "acde763fdaa91f4bb412c78aa028569f",
+      "width": 1200,
+      "height": 1600,
+      "size": 785300,
+      "uploadedDate": "2021-08-18T04:08:58.298Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "76339caf9e8e4d24b62761c736e82b42",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-19T18:45:16.830Z",
+  "lastModifiedDate": "2021-08-18T04:11:41.999Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "76339caf9e8e4d24b62761c736e82b42"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "defaultLaunchOption_Args": {
+      "type": "STRING",
+      "value": "-nohmd"
+    },
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-vr -hmd=SteamVR"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "extraLaunchOption_002_Args": {
+      "type": "STRING",
+      "value": "-vr -hmd=OculusHMD"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Launch in SteamVR"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TetrisEffect"
+    },
+    "extraLaunchOption_002_Name": {
+      "type": "STRING",
+      "value": "Launch in Oculus VR"
+    }
+  },
+  "entitlementName": "1a98deb7ede648448f67cd00d1bf4584",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "79c06f6d32474a3cbeaded52f114894b",
+      "appId": "Kiwi",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Enhance, Inc.",
+  "developerId": "o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

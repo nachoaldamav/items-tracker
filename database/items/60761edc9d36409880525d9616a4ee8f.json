@@ -1,0 +1,54 @@
+{
+  "id": "60761edc9d36409880525d9616a4ee8f",
+  "title": "turtleDLCStaging",
+  "description": "turtleDLCStaging",
+  "technicalDetails": "not a DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "turtle",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-27T02:26:37.416Z",
+  "lastModifiedDate": "2020-09-04T03:07:06.708Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "turtleDLCStaging"
+    }
+  },
+  "entitlementName": "60761edc9d36409880525d9616a4ee8f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b5b0e305a8d04abca9edf9d16f882859",
+      "appId": "55ac8a247e2145c4a6e431296a413510",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

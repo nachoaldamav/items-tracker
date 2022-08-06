@@ -1,0 +1,65 @@
+{
+  "id": "b43d8cc1e62949fc80f976fc81e76273",
+  "title": "Iratus",
+  "description": "Iratus",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e7bee97d9a88475487a71b456a81110f/iratus--lord-of-the-dead-offer-1awii.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 2560,
+      "height": 1440,
+      "size": 565139,
+      "uploadedDate": "2022-03-07T17:21:33.771Z",
+      "alt": "Iratus - Lord of the Dead Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e7bee97d9a88475487a71b456a81110f/download-iratus--lord-of-the-dead-offer-10n5p.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 900744,
+      "uploadedDate": "2022-03-07T17:21:34.957Z",
+      "alt": "Download Iratus - Lord of the Dead Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d250bdf072934b70ab080c6fcee77734",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-22T23:57:27.773Z",
+  "lastModifiedDate": "2022-06-02T12:26:39.441Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Iratus"
+    }
+  },
+  "entitlementName": "b43d8cc1e62949fc80f976fc81e76273",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "58a3919b357049c3907950fd8a76c843",
+      "appId": "82ab0adb6e0b41bea531fcbb0c43cfc7",
+      "platform": [
+        "Mac",
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "endOfSupport": false,
+  "applicationId": "fghi4567xRIfNvdb8Fv8JNdmKXmTL4b3",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,53 @@
+{
+  "id": "fea687d8e5564eb68fb8175cc4206f3c",
+  "title": "burgundy Staging",
+  "description": "burgundy Staging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ec49d0a2e38148458a3a2f4df3128ec5",
+  "status": "ACTIVE",
+  "creationDate": "2021-06-03T23:32:50.207Z",
+  "lastModifiedDate": "2021-06-09T19:20:28.145Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "burgundyStaging"
+    }
+  },
+  "entitlementName": "fea687d8e5564eb68fb8175cc4206f3c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "072b0c0ce8de4a77a18ff7618b7d2912",
+      "appId": "34624d6c6cbc48ae82473c211a8f8a93",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Wired Productions",
+  "developerId": "o-r83qbqhwd8y5y5r6e9x62vtrsd9mqm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

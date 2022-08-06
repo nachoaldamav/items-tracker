@@ -1,0 +1,34 @@
+{
+  "id": "1b1c4da937914e939ef8368b6929eee1",
+  "title": "DevSalamiAudience",
+  "description": "DevSalamiAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "15cb739316ba44ed87878349d10b3ffc",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-19T02:27:05.845Z",
+  "lastModifiedDate": "2021-07-08T07:57:34.706Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "1b1c4da937914e939ef8368b6929eee1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "M2H",
+  "developerId": "o-24qwdf7zppb3geqq3b952f26lkp7rs",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

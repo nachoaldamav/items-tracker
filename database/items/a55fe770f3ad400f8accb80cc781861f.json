@@ -1,0 +1,63 @@
+{
+  "id": "a55fe770f3ad400f8accb80cc781861f",
+  "title": "Amelie",
+  "description": "Amelie",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a7ecccc8ca084febb744ca0d141b8061/download-amelie-offer-1usyc.jpg",
+      "md5": "2785e8993fca275fd1d94968278430e0",
+      "width": 1200,
+      "height": 1600,
+      "size": 1452254,
+      "uploadedDate": "2022-02-11T10:04:48.675Z",
+      "alt": "Download Amelie Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a7ecccc8ca084febb744ca0d141b8061/amelie-offer-stsh6.jpg",
+      "md5": "6c0007364e584411276f7e392a1549af",
+      "width": 2560,
+      "height": 1440,
+      "size": 2463477,
+      "uploadedDate": "2022-02-11T10:04:50.720Z",
+      "alt": "Amelie Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "120f750f201544cca9ab6bcb23571546",
+  "status": "ACTIVE",
+  "creationDate": "2022-02-09T11:54:56.827Z",
+  "lastModifiedDate": "2022-02-18T09:25:16.279Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "AmelieiWAUK"
+    }
+  },
+  "entitlementName": "a55fe770f3ad400f8accb80cc781861f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0f3858434bfa4f5aa215bc464ebbfe95",
+      "appId": "3cf5568396d74c47adfdf2a385394928",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Hound Picked Games",
+  "developerId": "o-rc3494dn7cgxtr3x2h2v3h3d2asxpw",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

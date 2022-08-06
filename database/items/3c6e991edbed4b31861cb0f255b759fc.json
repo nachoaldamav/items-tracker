@@ -1,0 +1,34 @@
+{
+  "id": "3c6e991edbed4b31861cb0f255b759fc",
+  "title": "DevkeylimeAudience",
+  "description": "DevkeylimeAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "e65d8864e0e84d6eb7fe228b2041c15f",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-23T19:04:42.788Z",
+  "lastModifiedDate": "2021-12-01T03:50:08.906Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "3c6e991edbed4b31861cb0f255b759fc",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "PatheaGames",
+  "developerId": "o-7ukp2mejsacwbpdud8qmv2npsqwbt4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

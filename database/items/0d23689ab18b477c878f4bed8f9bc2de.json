@@ -1,0 +1,117 @@
+{
+  "id": "0d23689ab18b477c878f4bed8f9bc2de",
+  "title": "Anno 1800",
+  "description": "Anno 1800",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/ANNO_Store_Landscape_1920x1080_1920x1080-cea85f12443da424bef2a30a20be060b",
+      "md5": "cea85f12443da424bef2a30a20be060b",
+      "width": 1920,
+      "height": 1080,
+      "size": 4501409,
+      "uploadedDate": "2021-09-13T17:04:46.108Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/AN18_Store_Portrait_1200x1600 (1)_1200x1600-fe7774bb1563f584b97142f0b202d209",
+      "md5": "fe7774bb1563f584b97142f0b202d209",
+      "width": 1200,
+      "height": 1600,
+      "size": 865324,
+      "uploadedDate": "2021-09-13T17:05:45.143Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "oregano",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-29T14:46:24.783Z",
+  "lastModifiedDate": "2022-04-12T15:29:50.480Z",
+  "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "useAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "Anno1800.exe"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "1ff283ce9e054747abe9ac66074c7ebc"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ANNO1800"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "oregano"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "isPrepurchase": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "Anno1800.exe,UbisoftGameLauncher.exe"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "0d23689ab18b477c878f4bed8f9bc2de",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b9d98b6475ef4b5382308faa4f9c498d",
+      "appId": "Oregano",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-29T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

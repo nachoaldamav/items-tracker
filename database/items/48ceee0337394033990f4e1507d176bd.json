@@ -1,0 +1,67 @@
+{
+  "id": "48ceee0337394033990f4e1507d176bd",
+  "title": "ScorpioStaging",
+  "description": "ScorpioStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "02c14a01b7044db98de3f3a10813a42e",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-08T17:30:29.626Z",
+  "lastModifiedDate": "2021-08-17T14:01:36.243Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/Humankind/Save Files/Cloud/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "500"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ScorpioStaging"
+    }
+  },
+  "entitlementName": "48ceee0337394033990f4e1507d176bd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "37254515179a4ac08179b7e5589eb99d",
+      "appId": "17390905d75b4c60802c172a681bb510",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-10-13T00:00:00.000Z"
+    }
+  ],
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi456749QdWl8Kb50KKN4N4r7XW7qc",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

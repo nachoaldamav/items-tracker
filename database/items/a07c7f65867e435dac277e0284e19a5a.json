@@ -1,0 +1,47 @@
+{
+  "id": "a07c7f65867e435dac277e0284e19a5a",
+  "title": "OsmiumGeneralAudience",
+  "description": "OsmiumGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/item/Breathedge-398x190-302e2a60424c46282314f069ba2ff3f7.png",
+      "md5": "302e2a60424c46282314f069ba2ff3f7",
+      "width": 398,
+      "height": 190,
+      "size": 13980,
+      "uploadedDate": "2021-02-04T14:25:54.847Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "08ae29e4f70a4b62aa055e383381aa82",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-01T19:37:45.222Z",
+  "lastModifiedDate": "2021-02-25T17:55:18.051Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "a07c7f65867e435dac277e0284e19a5a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Hypetrain Digital",
+  "developerId": "o-p9883lvrpllhyd7sad6tgxv53mdyh5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

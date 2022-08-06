@@ -1,0 +1,53 @@
+{
+  "id": "1161716b6df24d7d903168c332864490",
+  "title": "Toybob QA Release",
+  "description": "Toybob QA Release",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0712176b5e3e49bfa8866c0ee1359f2d",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-18T12:13:37.690Z",
+  "lastModifiedDate": "2021-03-30T12:59:52.435Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ToybobQARelease"
+    }
+  },
+  "entitlementName": "1161716b6df24d7d903168c332864490",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b62f54642c464332bb7e4ad77bc3f141",
+      "appId": "eb216769e25f4fff95d7ef91c2dff76a",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-07-02T00:00:00.000Z"
+    }
+  ],
+  "developer": "Square Enix (Japan)",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "eulaIds": [
+    "(egstore && mastermind)"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

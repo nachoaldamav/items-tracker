@@ -1,0 +1,50 @@
+{
+  "id": "b61ef4cc5fa244c891a0b4ee4c941319",
+  "title": "EmmentalStaging",
+  "description": "EmmentalStaging",
+  "categories": [
+    {
+      "path": "engines"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8157b8921bc94f42aafecf98868124b2",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-29T22:19:05.480Z",
+  "lastModifiedDate": "2021-04-29T22:33:56.237Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EmmentalStaging"
+    }
+  },
+  "entitlementName": "b61ef4cc5fa244c891a0b4ee4c941319",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0df1850bb6894e3e8b1e74d4415f8ebc",
+      "appId": "83ccc173cb86437ab627c10feab2729f",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Blue Isle Studios Inc.",
+  "developerId": "o-565qwd7twcgtvffpnqtws5umca4p2u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

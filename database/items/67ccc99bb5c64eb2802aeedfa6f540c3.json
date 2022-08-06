@@ -1,0 +1,62 @@
+{
+  "id": "67ccc99bb5c64eb2802aeedfa6f540c3",
+  "title": "Deflector",
+  "description": "Deflector",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4bc3995aa8594a27908ff665ea3e062a/deflector-offer-1ehxe.png",
+      "md5": "7bb37f12a9472ca144e81e75417d6778",
+      "width": 2560,
+      "height": 1440,
+      "size": 3405547,
+      "uploadedDate": "2022-04-18T11:29:30.229Z",
+      "alt": "Deflector Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4bc3995aa8594a27908ff665ea3e062a/download-deflector-offer-1r1n4.png",
+      "md5": "61410752da03b13aaf9a55543a0edf0e",
+      "width": 1200,
+      "height": 1600,
+      "size": 2071342,
+      "uploadedDate": "2022-04-13T11:26:57.783Z",
+      "alt": "Download Deflector Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "62f99b78af024705aa761fb0f448d301",
+  "status": "ACTIVE",
+  "creationDate": "2022-04-19T07:53:36.422Z",
+  "lastModifiedDate": "2022-04-19T07:53:36.422Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DeflectorgYzcO"
+    }
+  },
+  "entitlementName": "67ccc99bb5c64eb2802aeedfa6f540c3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cad520181b38461cbbbed7ca9baaa539",
+      "appId": "eea30556649b419c9fcd664efac4c0c5",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SUPER DOT COM LTD",
+  "developerId": "o-gpue2pju6udkz4r6b2z52lrswm9nb7",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

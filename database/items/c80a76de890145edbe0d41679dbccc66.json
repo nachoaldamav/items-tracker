@@ -1,0 +1,74 @@
+{
+  "id": "c80a76de890145edbe0d41679dbccc66",
+  "title": "Sifu",
+  "description": "Sifu",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b7b42e2078524ab386a8b2a9856ef557",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-08T22:35:55.369Z",
+  "lastModifiedDate": "2021-08-25T19:37:48.427Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "b7b42e2078524ab386a8b2a9856ef557"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Sifu"
+    }
+  },
+  "entitlementName": "c80a76de890145edbe0d41679dbccc66",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d1a53ecb4a5144429560161d4e597490",
+      "appId": "d36336f190094951873ed6138ac208d8",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-01-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Sloclap",
+  "developerId": "o-ytvuatnvl62xcjs2hq2jp6dektwnu3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567NiEUxiipUldDWmUl0dhcBn0g",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

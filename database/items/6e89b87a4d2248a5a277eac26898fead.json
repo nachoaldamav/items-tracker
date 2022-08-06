@@ -1,0 +1,34 @@
+{
+  "id": "6e89b87a4d2248a5a277eac26898fead",
+  "title": "DevAvocadoAudience",
+  "description": "DevAvocadoAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "315f40c8c7ae4f95ad7426f364a39194",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-12T14:02:12.018Z",
+  "lastModifiedDate": "2020-08-12T14:20:58.941Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "6e89b87a4d2248a5a277eac26898fead",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Hidden Leaf Studios",
+  "developerId": "o-a3s6znyqjjwdzbyzumkvna5lgghqfq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

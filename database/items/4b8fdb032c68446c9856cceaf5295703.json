@@ -1,0 +1,34 @@
+{
+  "id": "4b8fdb032c68446c9856cceaf5295703",
+  "title": "DevFregulaAudience",
+  "description": "DevFregulaAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "fa9812acd30f46f8a69a75bf27addb5c",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-08T23:55:30.240Z",
+  "lastModifiedDate": "2021-09-24T00:06:41.179Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4b8fdb032c68446c9856cceaf5295703",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Maximum Games",
+  "developerId": "o-a6k23slslegbhbwtel4qx423kuzc3y",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

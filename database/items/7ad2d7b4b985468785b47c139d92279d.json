@@ -1,0 +1,90 @@
+{
+  "id": "7ad2d7b4b985468785b47c139d92279d",
+  "title": "VHS",
+  "description": "VHS",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_VHS_HellbentGames_S1_2560x1440-b295d01b2d35e5fbcfcc9a557cef9853",
+      "md5": "b295d01b2d35e5fbcfcc9a557cef9853",
+      "width": 2560,
+      "height": 1440,
+      "size": 818255,
+      "uploadedDate": "2021-09-22T14:33:12.530Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_VHS_HellbentGames_S2_1200x1600-86417ba783cc0b03c8e1a4fff2329c99",
+      "md5": "86417ba783cc0b03c8e1a4fff2329c99",
+      "width": 1200,
+      "height": 1600,
+      "size": 827325,
+      "uploadedDate": "2021-09-22T14:33:17.908Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "90487cf458a143ff921d3ca365ad4fd6",
+  "status": "ACTIVE",
+  "creationDate": "2021-07-13T23:27:26.109Z",
+  "lastModifiedDate": "2021-11-24T22:41:23.661Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "90487cf458a143ff921d3ca365ad4fd6"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "VHS"
+    }
+  },
+  "entitlementName": "7ad2d7b4b985468785b47c139d92279d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c20174563be64faa924aaf248fff7da7",
+      "appId": "6b2278cbc4a44e57840d8f22d914f176",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Hellbent Games Inc.",
+  "developerId": "o-csgjmkwjqkeukdzpsx4z25kyqal22j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

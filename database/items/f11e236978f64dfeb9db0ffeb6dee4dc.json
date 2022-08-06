@@ -1,0 +1,34 @@
+{
+  "id": "f11e236978f64dfeb9db0ffeb6dee4dc",
+  "title": "NeufchatelGeneralAudience",
+  "description": "NeufchatelGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "52b2abce9b65471dbedf72c90cf69b54",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-16T21:39:51.918Z",
+  "lastModifiedDate": "2021-08-10T15:19:05.049Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f11e236978f64dfeb9db0ffeb6dee4dc",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Top Hat Studios, Inc.",
+  "developerId": "o-b3dcbpjzpsrrbtlgt8f7yzmc45msvy",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

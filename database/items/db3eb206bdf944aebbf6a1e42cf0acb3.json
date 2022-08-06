@@ -1,0 +1,53 @@
+{
+  "id": "db3eb206bdf944aebbf6a1e42cf0acb3",
+  "title": "GrapefruitStagingD",
+  "description": "GrapefruitStagingD",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4158b699dd70447a981fee752d970a3e",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-18T12:18:59.195Z",
+  "lastModifiedDate": "2021-03-30T12:59:48.064Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GrapefruitStaging"
+    }
+  },
+  "entitlementName": "db3eb206bdf944aebbf6a1e42cf0acb3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "352c4cb93b4248efbda930504c02cd74",
+      "appId": "2a2a74361dab45da8bf7d83b4cc3b889",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "Square Enix Japan",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

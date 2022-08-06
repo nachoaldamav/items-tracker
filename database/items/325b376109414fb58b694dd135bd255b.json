@@ -1,0 +1,34 @@
+{
+  "id": "325b376109414fb58b694dd135bd255b",
+  "title": "DevCastleAudience",
+  "description": "DevCastleAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "2ed7ed64d8604265924b85bbd5670220",
+  "status": "ACTIVE",
+  "creationDate": "2020-12-10T17:28:03.668Z",
+  "lastModifiedDate": "2022-02-16T20:33:04.977Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "325b376109414fb58b694dd135bd255b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Headup Gmbh",
+  "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

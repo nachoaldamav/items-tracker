@@ -1,0 +1,78 @@
+{
+  "id": "63e4593b6a4949e78ff5fa2a2aa2bf47",
+  "title": "Scialatelli",
+  "description": "Scialatelli",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8f5f5eff22f3468fa5551771406fc868",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-12T15:28:23.957Z",
+  "lastModifiedDate": "2021-09-30T14:14:58.819Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "8f5f5eff22f3468fa5551771406fc868"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Saves/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Scialatelli"
+    }
+  },
+  "entitlementName": "63e4593b6a4949e78ff5fa2a2aa2bf47",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "17c481931d5a497dad5fd1a4ce0e013d",
+      "appId": "ab277c0995e945d2b2c50c46883627f1",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-12T15:30:14.075Z"
+    }
+  ],
+  "developer": "The Irregular Corporation",
+  "developerId": "o-h3rhw2ntexmcgx44cv2pdje5bz3nqh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

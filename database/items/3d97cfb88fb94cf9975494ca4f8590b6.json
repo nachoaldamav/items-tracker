@@ -1,0 +1,67 @@
+{
+  "id": "3d97cfb88fb94cf9975494ca4f8590b6",
+  "title": "Not For Broadcast",
+  "description": "Not For Broadcast",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/faa0260d9ce64462b11ba5c1a6dbb13d/download-not-for-broadcast-offer-rciq8.jpg",
+      "md5": "1aa7107ab740532cfcc738b7ec510fc9",
+      "width": 1200,
+      "height": 1600,
+      "size": 1135479,
+      "uploadedDate": "2022-01-06T11:14:26.076Z",
+      "alt": "Download Not For Broadcast Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/faa0260d9ce64462b11ba5c1a6dbb13d/not-for-broadcast-offer-1tklp.jpg",
+      "md5": "210aed0c6e70f7365c605b8e4fddf16e",
+      "width": 2560,
+      "height": 1440,
+      "size": 1866790,
+      "uploadedDate": "2022-01-06T11:14:26.578Z",
+      "alt": "Not For Broadcast Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "295ff85e965841c1bd754b69596df89a",
+  "status": "ACTIVE",
+  "creationDate": "2022-01-05T13:54:17.449Z",
+  "lastModifiedDate": "2022-02-18T09:16:19.869Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserProfile}/AppData/LocalLow/NotGames/NotForBroadcast/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NotForBroadcast"
+    }
+  },
+  "entitlementName": "3d97cfb88fb94cf9975494ca4f8590b6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a80cad789cf04c5a88ea45902c6d6987",
+      "appId": "02708cf40f5a444d9c8caab312246de7",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

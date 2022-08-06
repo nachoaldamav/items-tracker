@@ -1,0 +1,60 @@
+{
+  "id": "084bfaa4851c4d60a80a66eac7f6c502",
+  "title": "RaspberryStaging",
+  "description": "RaspberryStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1cdfbaaccaab490c9305e86496c7f3fa",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-12T18:22:46.851Z",
+  "lastModifiedDate": "2021-03-11T15:19:07.673Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "e3ec9fac293648108a9264f0b3d5aaf0"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RaspberryStaging"
+    }
+  },
+  "entitlementName": "084bfaa4851c4d60a80a66eac7f6c502",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a8c3c21721d64f069fb493a3aa985749",
+      "appId": "b672e88752b949cdb89f7c9f43d4c6f0",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-12T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

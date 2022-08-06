@@ -1,0 +1,52 @@
+{
+  "id": "e249b3ad95cb4063bec6a1af78631e69",
+  "title": "HydrogenStaging",
+  "description": "HydrogenStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "72324f542dc4488681e617b0d39ad115",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-28T15:27:48.233Z",
+  "lastModifiedDate": "2020-10-28T15:54:09.654Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HydrogenStaging"
+    }
+  },
+  "entitlementName": "e249b3ad95cb4063bec6a1af78631e69",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "983ca7f545be4c168a414efe9946f81a",
+      "appId": "1d57299ee8b6442fa989262fbf654cdc",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-28T15:53:32.457Z"
+    }
+  ],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "632e346738414a6aa3515f399db45f59",
+  "title": "DevAmsterdamAudience",
+  "description": "DevAmsterdamAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "76355dbd22b249d9a6f77790aba9547b",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-01T18:42:59.924Z",
+  "lastModifiedDate": "2021-05-20T14:33:12.128Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "632e346738414a6aa3515f399db45f59",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Capybara Games",
+  "developerId": "o-lbpf7js3rx6rhk4l4mkx2zph8a23zm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

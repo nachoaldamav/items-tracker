@@ -1,0 +1,43 @@
+{
+  "id": "5c342732d6844d7d960ab272b5b4a806",
+  "title": "SmokeTest Item For Any Offer",
+  "description": "SmokeTest Item For Any Offer",
+  "longDescription": "SmokeTest Item For Any Offer",
+  "technicalDetails": "technical information",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2021-07-23T10:29:28.141Z",
+  "lastModifiedDate": "2021-08-04T02:21:06.907Z",
+  "customAttributes": {},
+  "entitlementName": "5c342732d6844d7d960ab272b5b4a806",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "baf15c879c5f409ca8344736a1604897",
+      "appId": "testappid",
+      "compatibleApps": [
+        "UE_4.23"
+      ],
+      "platform": [
+        "HTML5"
+      ],
+      "dateAdded": "2021-03-17T00:00:00.000Z"
+    }
+  ],
+  "developer": "johnsonwu",
+  "developerId": "o-9wzc54qv7a2kzu9yas6rd4geu5f66f",
+  "eulaIds": [],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

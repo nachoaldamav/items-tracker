@@ -1,0 +1,80 @@
+{
+  "id": "9692197a533949a8b4449b48fbe7521c",
+  "title": "Godlike Burger",
+  "description": "Godlike Burger",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f42598038b9343e58d27e0a8c0b831b6/godlike-burger-offer-106s4.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 2560,
+      "height": 1440,
+      "size": 2114893,
+      "uploadedDate": "2022-03-09T13:30:44.226Z",
+      "alt": "Godlike Burger Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f42598038b9343e58d27e0a8c0b831b6/download-godlike-burger-offer-21x69.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 616613,
+      "uploadedDate": "2022-03-09T13:30:40.893Z",
+      "alt": "Download Godlike Burger Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "beb7e64d3da74ae780405da48cccb581",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-22T23:58:50.822Z",
+  "lastModifiedDate": "2022-06-02T12:25:02.788Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Liquid Pug LLC/Godlike Burger/EGS/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Liquid Pug LLC/Godlike Burger/EGS/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.es3"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GodlikeBurger"
+    }
+  },
+  "entitlementName": "9692197a533949a8b4449b48fbe7521c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "721ccdd363f34e24bb68ccb9da613532",
+      "appId": "f7c6294c948b47378659c9a963f449be",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "endOfSupport": false,
+  "applicationId": "fghi4567hnBfTjL8YPQ0vC3hxg6nKYba",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

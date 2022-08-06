@@ -1,0 +1,67 @@
+{
+  "id": "1347491024fb42dc8b9b75214db2af87",
+  "title": "FortniteLocTesting",
+  "description": "App for Fortnite loc testing",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2016-04-25T19:09:57.838Z",
+  "lastModifiedDate": "2021-08-03T22:43:11.871Z",
+  "customAttributes": {
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-ForceTest"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "extraLaunchOption_002_Args": {
+      "type": "STRING",
+      "value": "-Creative"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Launch Test EXE"
+    },
+    "HasGateKeeper": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "extraLaunchOption_002_Name": {
+      "type": "STRING",
+      "value": "Launch Creative"
+    }
+  },
+  "entitlementName": "FortniteLocTesting",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "661b9c352c4a4da4b2537b2eda628a50",
+      "appId": "FortniteLocTesting",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2016-04-25T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

@@ -1,0 +1,67 @@
+{
+  "id": "f3d9839bc5a640e3b0c114a19e1df4ab",
+  "title": "Ikaruga",
+  "description": "Ikaruga",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/088f3b0271094a7c8859994c7927885e/ikaruga-offer-e78a7.jpg",
+      "md5": "e93c81d7c04bc0aa80a26cc99394a32e",
+      "width": 2560,
+      "height": 1440,
+      "size": 2172596,
+      "uploadedDate": "2022-05-17T22:54:44.277Z",
+      "alt": "Ikaruga Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/088f3b0271094a7c8859994c7927885e/download-ikaruga-offer-c9lgm.jpg",
+      "md5": "bd3e7947b69f55e862ccef9eafe8bfa3",
+      "width": 1200,
+      "height": 1600,
+      "size": 1217888,
+      "uploadedDate": "2022-05-17T22:54:52.495Z",
+      "alt": "Download Ikaruga Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "be0b0131d4ba482b99007bdd5f705d9a",
+  "status": "ACTIVE",
+  "creationDate": "2022-05-26T21:21:42.559Z",
+  "lastModifiedDate": "2022-05-26T21:21:42.559Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/save/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Ikaruga1EraF"
+    }
+  },
+  "entitlementName": "f3d9839bc5a640e3b0c114a19e1df4ab",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "856625af8774485fac8079ccad0e3635",
+      "appId": "517fd27edabe4db79912beb73eba1aff",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2bcab541b009490085339b72c8013e41",
+  "title": "BrilliantRoseStaging",
+  "description": "BrilliantRoseStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c4c7d3cd0a2f4ea2bf7d4a57e46e8d68",
+  "status": "ACTIVE",
+  "creationDate": "2021-05-04T16:45:13.650Z",
+  "lastModifiedDate": "2022-01-07T21:32:07.424Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BrilliantRoseStaging"
+    }
+  },
+  "entitlementName": "2bcab541b009490085339b72c8013e41",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "48f05bb6323242d5b6ec527b3dbbe328",
+      "appId": "6a236e53663e48eb9b0499b232907340",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Burgos Games",
+  "developerId": "o-94sy2ptcstesqlae8luap66hgs8dbb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

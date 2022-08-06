@@ -1,0 +1,65 @@
+{
+  "id": "38bec78f0a004457b0da6143ccddcd54",
+  "title": "Titus the Fox",
+  "description": "Titus the Fox",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5b275affa6a947c18d919965e5e0a26d/titus-the-fox-offer-q3bhz.jpg",
+      "md5": "18643e6159edd297964f0aacafc902de",
+      "width": 2560,
+      "height": 1440,
+      "size": 909656,
+      "uploadedDate": "2022-03-15T23:22:33.668Z",
+      "alt": "Titus the Fox Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5b275affa6a947c18d919965e5e0a26d/download-titus-the-fox-offer-qmgrs.jpg",
+      "md5": "28b996df5b58e6dc3a4f536c9e24f7b8",
+      "width": 1200,
+      "height": 1600,
+      "size": 605569,
+      "uploadedDate": "2022-03-15T23:22:34.064Z",
+      "alt": "Download Titus the Fox Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d7c183ff820c457ba95d8d3f006399b0",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-16T14:39:20.905Z",
+  "lastModifiedDate": "2022-06-16T14:39:20.905Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TitustheFox"
+    }
+  },
+  "entitlementName": "38bec78f0a004457b0da6143ccddcd54",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e174b69092404036a3705c5e2b852429",
+      "appId": "3671dbac29584e319ebc4250bbd55cf7",
+      "platform": [
+        "Win32",
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Interplay Entertainment Corp.",
+  "developerId": "o-ebvwv4fmqxbw48yz3rx65fmxxqfk35",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

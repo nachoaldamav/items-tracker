@@ -1,0 +1,54 @@
+{
+  "id": "a047870b0307477c8cfe4d9eb5c0fedb",
+  "title": "LithiumStaging",
+  "description": "LithiumStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "70fa3dd4efb549f9a09f1fc019d8e751",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-11T17:03:56.244Z",
+  "lastModifiedDate": "2021-07-16T15:16:19.471Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LithiumStaging"
+    }
+  },
+  "entitlementName": "a047870b0307477c8cfe4d9eb5c0fedb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0a02d4f0aa00454abe022ea0354166b8",
+      "appId": "c1665aa6f5554bfa8081a738e4a9ab22",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-11T17:06:18.643Z"
+    }
+  ],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567jEMHKeoJFtLgpfv7z1kKexpf",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

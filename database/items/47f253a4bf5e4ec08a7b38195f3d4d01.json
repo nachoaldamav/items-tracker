@@ -1,0 +1,71 @@
+{
+  "id": "47f253a4bf5e4ec08a7b38195f3d4d01",
+  "title": "Blue Fire",
+  "description": "Blue Fire",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/fa9aa1be245d43758afda88f64575c6b/download-blue-fire-offer-dtg7i.png",
+      "md5": "728f7325a1ff54aa75e326d2c256070c",
+      "width": 1200,
+      "height": 1600,
+      "size": 1641276,
+      "uploadedDate": "2022-01-10T22:46:17.410Z",
+      "alt": "Download Blue Fire Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/fa9aa1be245d43758afda88f64575c6b/blue-fire-offer-1qd71.jpg",
+      "md5": "4ffa39fadb522f4505958b6adeaefade",
+      "width": 2560,
+      "height": 1440,
+      "size": 1414088,
+      "uploadedDate": "2022-01-10T22:46:37.078Z",
+      "alt": "Blue Fire Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b2c22f02a966425db54645674eeeaee0",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-11T16:11:14.695Z",
+  "lastModifiedDate": "2022-06-02T12:26:52.912Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Blue Fire/Saved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BlueFire"
+    }
+  },
+  "entitlementName": "47f253a4bf5e4ec08a7b38195f3d4d01",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7388729328ad4ac0a3035e68ffa5f204",
+      "appId": "755a4e1ed3694874bcb87f6aedcee2b8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Graffiti Games",
+  "developerId": "o-87c748zl24r2zsfe7t98b49ghm86kr",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

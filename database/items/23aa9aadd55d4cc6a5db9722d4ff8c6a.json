@@ -1,0 +1,61 @@
+{
+  "id": "23aa9aadd55d4cc6a5db9722d4ff8c6a",
+  "title": "DysprosiumStaging",
+  "description": "DysprosiumStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ff50f85ed609454e80ac46d9496da34d",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-27T17:17:10.499Z",
+  "lastModifiedDate": "2021-03-04T17:12:47.823Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Loop_hero/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Loop_hero/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DysprosiumStaging"
+    }
+  },
+  "entitlementName": "23aa9aadd55d4cc6a5db9722d4ff8c6a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2b282f1c923d4037b9169207e48cfd22",
+      "appId": "3a3127a64e5d4f2dbefe6e874077f259",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-01-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5e3f175086ae4d7ca2de4a7ab9a040ee",
+  "title": "DevOscarAudience",
+  "description": "DevOscarAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "c1edd23d035a4df0bbc419f2d0fbb40d",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-18T17:09:40.648Z",
+  "lastModifiedDate": "2021-03-03T15:25:55.439Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5e3f175086ae4d7ca2de4a7ab9a040ee",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "RockGame S.A.",
+  "developerId": "o-e6zbx28e9zzbxg5jvzh37a3p5j8kam",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "c5b7c792f9314d75a2508ec298a9e3b7",
+  "title": "LutetiumGeneralAudience",
+  "description": "LutetiumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "253d451b16364a22907dd01b7e928fb6",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-26T22:56:09.895Z",
+  "lastModifiedDate": "2021-06-23T14:48:18.562Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c5b7c792f9314d75a2508ec298a9e3b7",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "AQUIRIS",
+  "developerId": "o-9vdp6e5ydhtqt23utprf59f8hg45se",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

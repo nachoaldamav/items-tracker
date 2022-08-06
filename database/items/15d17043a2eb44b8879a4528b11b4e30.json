@@ -1,0 +1,38 @@
+{
+  "id": "15d17043a2eb44b8879a4528b11b4e30",
+  "title": "CeladonBlue Pre-Purchase Audience",
+  "description": "CeladonBlue Pre-Purchase Audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "93eeeab14a3d45b8bf5586a900137733",
+  "status": "ACTIVE",
+  "creationDate": "2021-05-12T23:22:22.206Z",
+  "lastModifiedDate": "2022-02-17T14:56:57.903Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "15d17043a2eb44b8879a4528b11b4e30",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Eremite Games sp. z o.o.",
+  "developerId": "o-3un7kuq4qv93xx6l82gmaf5npsvpl9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

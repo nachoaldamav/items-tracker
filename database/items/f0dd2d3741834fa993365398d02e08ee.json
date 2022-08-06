@@ -1,0 +1,63 @@
+{
+  "id": "f0dd2d3741834fa993365398d02e08ee",
+  "title": "CryoFall",
+  "description": "CryoFall",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/91e2fe08057e4b79b0300eb4ce6a00af/cryofall-offer-8qixc.jpg",
+      "md5": "6e07d96086b62fbafcc09fc36c1fad9b",
+      "width": 2560,
+      "height": 1440,
+      "size": 984555,
+      "uploadedDate": "2021-11-10T11:53:30.235Z",
+      "alt": "CryoFall Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/91e2fe08057e4b79b0300eb4ce6a00af/download-cryofall-offer-1fdfj.jpg",
+      "md5": "6f44edcb864f7828eee66fbb77608d62",
+      "width": 1200,
+      "height": 1600,
+      "size": 941430,
+      "uploadedDate": "2021-11-10T11:53:31.119Z",
+      "alt": "Download CryoFall Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "705b9b37d3e747e7b02e835e5ace5c81",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-22T23:58:43.843Z",
+  "lastModifiedDate": "2022-06-02T12:24:18.439Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "CryoFall"
+    }
+  },
+  "entitlementName": "f0dd2d3741834fa993365398d02e08ee",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "55f4f786b63649a7940b2746e7a85ed3",
+      "appId": "23bcdb13f4614988b4d7d9e3123b4dd4",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "endOfSupport": false,
+  "applicationId": "fghi4567AV4psaK9lIrk90lyXPMBanox",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

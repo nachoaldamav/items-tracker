@@ -1,0 +1,94 @@
+{
+  "id": "b7e73c4037384ff9a077410788438f5b",
+  "title": "Blade Strangers",
+  "description": "Blade Strangers",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BladeStrangers_StudioSaizensenCoLtd_S1_2560x1440-c6c69d734c4267f8bcf5f9be09820035",
+      "md5": "c6c69d734c4267f8bcf5f9be09820035",
+      "width": 2560,
+      "height": 1440,
+      "size": 993325,
+      "uploadedDate": "2021-06-22T21:44:49.336Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BladeStrangers_StudioSaizensenCoLtd_S2_1200x1600-f1df9e500cb85147c3243ca06f6d81ef",
+      "md5": "f1df9e500cb85147c3243ca06f6d81ef",
+      "width": 1200,
+      "height": 1600,
+      "size": 950654,
+      "uploadedDate": "2021-06-22T21:44:52.098Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "266c5badcfd144cbbeedd44499d85a62",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-27T19:40:40.702Z",
+  "lastModifiedDate": "2021-10-06T15:33:02.143Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "266c5badcfd144cbbeedd44499d85a62"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BladeStrangers"
+    }
+  },
+  "entitlementName": "b7e73c4037384ff9a077410788438f5b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9fbf6123110249959fc23c96344d9ac1",
+      "appId": "ca2f22ac793c483693d4968e48786da7",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-09T00:00:00.000Z"
+    }
+  ],
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567HdVaPQAQn4LgEeyHv5TkULr7",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

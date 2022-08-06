@@ -1,0 +1,37 @@
+{
+  "id": "ae8e55d0a5fe48deb7f45ec68ab9ee65",
+  "title": "BigFishGeneralAudience",
+  "description": "BigFishGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c4763f236d08423eb47b4c3008779c84",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-25T14:26:19.941Z",
+  "lastModifiedDate": "2021-12-10T01:36:34.087Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ae8e55d0a5fe48deb7f45ec68ab9ee65",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games Publishing",
+  "developerId": "o-e2xslu4mlqqaavphzl6927vtjqamhj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

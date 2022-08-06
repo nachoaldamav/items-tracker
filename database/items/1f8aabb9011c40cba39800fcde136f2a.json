@@ -1,0 +1,99 @@
+{
+  "id": "1f8aabb9011c40cba39800fcde136f2a",
+  "title": "SUPERHOT: Mind Control Delete",
+  "description": "SUPERHOT: Mind Control Delete",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/item/0771f86c-6bd9-4bae-9267-e7a21f69faae-2560x1440-bde0ff340809797a67caec0fe124cf1c.jpg",
+      "md5": "bde0ff340809797a67caec0fe124cf1c",
+      "width": 2560,
+      "height": 1440,
+      "size": 677918,
+      "uploadedDate": "2021-01-13T23:03:32.601Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/item/bc5d0888-7c4f-4380-a547-01ddad8492e4-1200x1600-81abefd0c4e79a746c4d99ccf73ef748.jpg",
+      "md5": "81abefd0c4e79a746c4d99ccf73ef748",
+      "width": 1200,
+      "height": 1600,
+      "size": 486501,
+      "uploadedDate": "2021-01-13T23:03:41.275Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "56e54e682d614c468e3d5afc54ca0adf",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-03T17:19:34.914Z",
+  "lastModifiedDate": "2021-01-13T23:03:49.293Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "56e54e682d614c468e3d5afc54ca0adf"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/SUPERHOT_Team/SHMCD/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "sh.mcd,config.cfg,*save.index,launcher-config.json,launcher-game-settings.json"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SUPERHOTMCD"
+    }
+  },
+  "entitlementName": "1f8aabb9011c40cba39800fcde136f2a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "92392c9baba245b7a9dd8227102af676",
+      "appId": "7c9f2b7aa5a549e381b4e6aeff3779a1",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-03T00:00:00.000Z"
+    }
+  ],
+  "developer": "SUPERHOT Sp. z.o.o",
+  "developerId": "o-yagrrjhn9gf4ul3h4a5vuaxh29v8qd",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

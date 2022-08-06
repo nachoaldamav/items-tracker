@@ -1,0 +1,34 @@
+{
+  "id": "e8028c3abdf24ea288ff622d2ed201ca",
+  "title": "DysprosiumGeneralAudience",
+  "description": "DysprosiumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ff50f85ed609454e80ac46d9496da34d",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-27T17:17:09.162Z",
+  "lastModifiedDate": "2021-03-04T17:12:47.823Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e8028c3abdf24ea288ff622d2ed201ca",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

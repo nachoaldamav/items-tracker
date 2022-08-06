@@ -1,0 +1,102 @@
+{
+  "id": "65b35c0c28cc459db1bb275594bcbf81",
+  "title": "Trials Evolution",
+  "description": "Trials Evolution",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/a15e35cda898480d8fed214dc889f199/item/GameName_Store_Landscape_2560x1440-2560x1440-8ffac3926eaa2a70c7e4681d2297a81f.jpg",
+      "md5": "8ffac3926eaa2a70c7e4681d2297a81f",
+      "width": 2560,
+      "height": 1440,
+      "size": 969427,
+      "uploadedDate": "2021-02-08T18:17:52.367Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/a15e35cda898480d8fed214dc889f199/item/GameName_Store_Portrait_1200x1600-1200x1600-37a77b043668125a5f70563b1b999732.jpg",
+      "md5": "37a77b043668125a5f70563b1b999732",
+      "width": 1200,
+      "height": 1600,
+      "size": 493873,
+      "uploadedDate": "2021-02-08T18:17:55.334Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a15e35cda898480d8fed214dc889f199",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-13T18:11:49.496Z",
+  "lastModifiedDate": "2021-08-24T19:42:18.713Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "trialsFMX.exe"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "7174004b910444498a39390638ed878c"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TrialsEvolution"
+    }
+  },
+  "entitlementName": "65b35c0c28cc459db1bb275594bcbf81",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d6550e4302614d78a323a05dfcaeca21",
+      "appId": "bc24707b365449748339d8c6f86ce7b8",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-13T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

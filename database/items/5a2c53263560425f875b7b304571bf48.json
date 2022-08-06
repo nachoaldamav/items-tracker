@@ -1,0 +1,71 @@
+{
+  "id": "5a2c53263560425f875b7b304571bf48",
+  "title": "Flat Heroes",
+  "description": "Flat Heroes",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt/de1e6663-adbf-42d3-8a57-5fefcfb579dd/flat-heroes-offer-32d70af1.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 2560,
+      "height": 1440,
+      "size": 762049,
+      "uploadedDate": "2021-06-22T18:35:15.458Z",
+      "alt": "Flat Heroes Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt/29aa452d-3e08-4679-84de-eb446f72633c/download-flat-heroes-offer-45db2c03.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 569828,
+      "uploadedDate": "2021-06-22T18:36:05.804Z",
+      "alt": "Download Flat Heroes Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b85566d19ccb4f19895b5897e1d381a9",
+  "status": "ACTIVE",
+  "creationDate": "2021-06-22T07:45:02.540Z",
+  "lastModifiedDate": "2022-06-20T09:53:51.317Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Parallel Circles/Flat Heroes/savegame/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FlatHeroes"
+    }
+  },
+  "entitlementName": "5a2c53263560425f875b7b304571bf48",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "861218bc57a848659fc3b1f792e64139",
+      "appId": "38e16a55a2f342f7be96588333fae481",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Parallel Circles",
+  "developerId": "o-gywh7apk4dc8vpaj7pfleye7tknynk",
+  "eulaIds": [],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567Ncgzik6ZMBWxq9qKO0K7LJL2",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

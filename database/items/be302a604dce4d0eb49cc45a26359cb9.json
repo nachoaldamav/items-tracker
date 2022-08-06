@@ -1,0 +1,75 @@
+{
+  "id": "be302a604dce4d0eb49cc45a26359cb9",
+  "title": "El Hijo",
+  "description": "El Hijo",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/278be6f0e8ab4731a316d6d02c4b7bb5/download-el-hijo-offer-tz2mw.jpg",
+      "md5": "0bf209d1860cf4a6ad0a9ec0c05e385d",
+      "width": 1200,
+      "height": 1600,
+      "size": 1310554,
+      "uploadedDate": "2022-02-22T14:28:33.696Z",
+      "alt": "Download El Hijo Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/278be6f0e8ab4731a316d6d02c4b7bb5/el-hijo-offer-fagi3.jpg",
+      "md5": "5e7190482d356af110a9027afc19f6e0",
+      "width": 2560,
+      "height": 1440,
+      "size": 1987101,
+      "uploadedDate": "2022-02-22T14:28:34.270Z",
+      "alt": "El Hijo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "04aeed70a9804ec7b8f86aac70809ef4",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-04T18:35:03.798Z",
+  "lastModifiedDate": "2022-03-04T18:35:03.798Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/HonigStudios/el-hijo/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.json"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ElHijo"
+    }
+  },
+  "entitlementName": "be302a604dce4d0eb49cc45a26359cb9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "75e9f69c4d2d4d9eab45cd9e3eec7732",
+      "appId": "feb56be2152940029af3bc193970799d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Handy Games",
+  "developerId": "o-ekk92wx8mesnmsvbseequvnt38mzu6",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

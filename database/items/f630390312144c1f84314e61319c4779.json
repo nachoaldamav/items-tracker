@@ -1,0 +1,63 @@
+{
+  "id": "f630390312144c1f84314e61319c4779",
+  "title": "RAWMEN: Food Fighter Arena 🍜",
+  "description": "RAWMEN: Food Fighter Arena 🍜",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/925b89bff456434291f264924ab51443/rawmen-offer-t5s7h.png",
+      "md5": "5067852ce0d541d089b03f0a324621b5",
+      "width": 2560,
+      "height": 1440,
+      "size": 3004094,
+      "uploadedDate": "2022-04-15T12:09:43.429Z",
+      "alt": "RAWMEN Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/925b89bff456434291f264924ab51443/download-rawmen-offer-1g8nj.png",
+      "md5": "d34e52ca2db118efaec867a4b6786bb9",
+      "width": 1200,
+      "height": 1600,
+      "size": 3049145,
+      "uploadedDate": "2022-04-15T12:08:12.594Z",
+      "alt": "Download RAWMEN Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b9665613f2b94636bf4536a411002d22",
+  "status": "ACTIVE",
+  "creationDate": "2022-04-14T08:19:01.498Z",
+  "lastModifiedDate": "2022-06-10T10:39:37.564Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "RAWMEN"
+    }
+  },
+  "entitlementName": "f630390312144c1f84314e61319c4779",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d8c8fee8802d4771b3e138bce08212ee",
+      "appId": "93228a1a7b2b4205811d8edf930a0c18",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

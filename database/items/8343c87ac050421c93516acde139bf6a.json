@@ -1,0 +1,38 @@
+{
+  "id": "8343c87ac050421c93516acde139bf6a",
+  "title": "PaneerGeneralAudience",
+  "description": "PaneerGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2a09fb19b47f46dfb11ebd382f132a8f",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-15T14:43:42.009Z",
+  "lastModifiedDate": "2022-01-03T16:19:16.401Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "8343c87ac050421c93516acde139bf6a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Square Enix",
+  "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

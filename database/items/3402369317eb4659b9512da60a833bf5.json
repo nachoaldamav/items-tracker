@@ -1,0 +1,46 @@
+{
+  "id": "3402369317eb4659b9512da60a833bf5",
+  "title": "PheasantStaging",
+  "description": "PheasantStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4b35838425c74992ad42e1276b2161ca",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-08T17:13:02.556Z",
+  "lastModifiedDate": "2021-04-22T00:49:41.353Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PheasantStaging"
+    }
+  },
+  "entitlementName": "3402369317eb4659b9512da60a833bf5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4c07105a92d3455fabf47adb2e21b8fc",
+      "appId": "PheasantStaging"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

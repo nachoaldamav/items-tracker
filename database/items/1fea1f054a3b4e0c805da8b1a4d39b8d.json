@@ -1,0 +1,121 @@
+{
+  "id": "1fea1f054a3b4e0c805da8b1a4d39b8d",
+  "title": "STAR WARS™ Battlefront™ II: Celebration Edition",
+  "description": "STAR WARS™ Battlefront™ II: Celebration Edition",
+  "longDescription": "STAR WARS™ Battlefront™ II: Celebration Edition",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b156c3365a5b4cb9a01a5e1108b4e3f4/item/EGS_STARWARSBattlefrontIICelebrationEdition_DICE_S1-2560x1440-3dc68a07cace02e826ad42a2de5279b0.jpg",
+      "md5": "3dc68a07cace02e826ad42a2de5279b0",
+      "width": 2560,
+      "height": 1440,
+      "size": 936594,
+      "uploadedDate": "2021-01-06T15:58:57.012Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/b156c3365a5b4cb9a01a5e1108b4e3f4/item/EGS_STARWARSBattlefrontIICelebrationEdition_DICE_S2-1200x1600-11d040719a8457bbf36cabbe89b200db.jpg",
+      "md5": "11d040719a8457bbf36cabbe89b200db",
+      "width": 1200,
+      "height": 1600,
+      "size": 987047,
+      "uploadedDate": "2021-01-06T15:59:04.518Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b156c3365a5b4cb9a01a5e1108b4e3f4",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-09T13:43:26.202Z",
+  "lastModifiedDate": "2021-01-21T15:58:08.433Z",
+  "customAttributes": {
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "starwarsbattlefrontii.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "StarWarsBattlefront2"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "b156c3365a5b4cb9a01a5e1108b4e3f4"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\\\WOW6432Node\\\\EA Games\\\\STAR WARS Battlefront II"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "Origin"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&theme=sws&platform=epic&Hotfix=go"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "starwarsbattlefrontii.exe"
+    },
+    "RegistryLocation": {
+      "type": "STRING",
+      "value": "SOFTWARE\\\\EA Games\\\\STAR WARS Battlefront II\\\\Install Dir"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "1fea1f054a3b4e0c805da8b1a4d39b8d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bc899b5562b642888f6be37a7e9ed818",
+      "appId": "MtMassive",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-09T00:00:00.000Z"
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

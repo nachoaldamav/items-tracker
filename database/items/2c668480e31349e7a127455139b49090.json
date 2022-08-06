@@ -1,0 +1,52 @@
+{
+  "id": "2c668480e31349e7a127455139b49090",
+  "title": "DriftfishStaging",
+  "description": "DriftfishStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ffe512fa1e594ee6a75d4643d1e21b43",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-16T16:58:30.287Z",
+  "lastModifiedDate": "2021-04-01T18:58:39.989Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DriftfishStaging"
+    }
+  },
+  "entitlementName": "2c668480e31349e7a127455139b49090",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "69f0caa7ac624f93a647daaf94657330",
+      "appId": "DriftfishStaging",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-04-01T14:34:47.069Z"
+    }
+  ],
+  "developer": "Landfall Games",
+  "developerId": "o-davtxzvpdnjmd82c247y6zdxg7wabq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

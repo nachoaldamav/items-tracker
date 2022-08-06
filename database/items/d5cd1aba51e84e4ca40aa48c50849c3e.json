@@ -1,0 +1,65 @@
+{
+  "id": "d5cd1aba51e84e4ca40aa48c50849c3e",
+  "title": "Redneck Rampage",
+  "description": "Redneck Rampage",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b41056c835764e398cf3f28963708427/redneck-rampage-offer-1irpm.jpg",
+      "md5": "03ce3a039e6771cab5331d9d58ef90df",
+      "width": 2560,
+      "height": 1440,
+      "size": 652332,
+      "uploadedDate": "2022-03-11T20:14:23.228Z",
+      "alt": "Redneck Rampage Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b41056c835764e398cf3f28963708427/download-redneck-rampage-offer-b5bkt.jpg",
+      "md5": "d3dc649f3a8be6e8f577b8d2c77f8ee3",
+      "width": 1200,
+      "height": 1600,
+      "size": 578974,
+      "uploadedDate": "2022-03-11T20:14:23.069Z",
+      "alt": "Download Redneck Rampage Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "302796b050c241abb91c38539fd1fcc0",
+  "status": "ACTIVE",
+  "creationDate": "2022-07-01T19:40:18.433Z",
+  "lastModifiedDate": "2022-07-01T19:40:18.433Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "RedneckRampage"
+    }
+  },
+  "entitlementName": "d5cd1aba51e84e4ca40aa48c50849c3e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fb2eb55b2dad45a6837eb4b25c756384",
+      "appId": "fc12fcb869ca41a7916fdd28577e3cc7",
+      "platform": [
+        "Win32",
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Interplay Entertainment Corp.",
+  "developerId": "o-ebvwv4fmqxbw48yz3rx65fmxxqfk35",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

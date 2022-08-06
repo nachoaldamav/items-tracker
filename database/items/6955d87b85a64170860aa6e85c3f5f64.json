@@ -1,0 +1,97 @@
+{
+  "id": "6955d87b85a64170860aa6e85c3f5f64",
+  "title": "Rainbow Six Siege Free Trial",
+  "description": "Rainbow Six Siege Free Trial",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/carnation/item/RBS_Epic__EPIC_Store_Portrait_1200x1600_UK-1200x1600-3b4d51fa168ee9ce4ab6654b153764e1.jpg",
+      "md5": "3b4d51fa168ee9ce4ab6654b153764e1",
+      "width": 1200,
+      "height": 1600,
+      "size": 1006130,
+      "uploadedDate": "2021-03-16T00:55:58.826Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RBS_Epic_FWE_HeroBanner_3840x2160_EN_3840x2160-c47249767a7a4d41b25b93d729a5e3d3",
+      "md5": "c47249767a7a4d41b25b93d729a5e3d3",
+      "width": 3840,
+      "height": 2160,
+      "size": 987034,
+      "uploadedDate": "2021-06-15T01:40:14.653Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "carnation",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-22T19:24:49.545Z",
+  "lastModifiedDate": "2021-06-21T20:00:24.110Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "carnation"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RainbowSixSiegeTrial"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "6955d87b85a64170860aa6e85c3f5f64",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e90ed68ee6b54d309efc58870a3a4c42",
+      "appId": "CarnationWeek",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-11T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": false
+}

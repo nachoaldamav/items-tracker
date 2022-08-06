@@ -1,0 +1,54 @@
+{
+  "id": "951c0d6472214022b0ef60fcb903d2cd",
+  "title": "NyxStaging",
+  "description": "NyxStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5a2108f4db804040aaf44d139bd21bd1",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-22T20:30:57.650Z",
+  "lastModifiedDate": "2021-08-30T21:35:05.341Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NyxStaging"
+    }
+  },
+  "entitlementName": "951c0d6472214022b0ef60fcb903d2cd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ec184390aaa5414f9815a335981d541b",
+      "appId": "a06803f35d8b4e01b36c023da5f22a16",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-20T22:42:34.734Z"
+    }
+  ],
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,82 @@
+{
+  "id": "d49e72ae3323466ca5fbfd88c6d058a0",
+  "title": "Deepest Chamber",
+  "description": "Deepest Chamber",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt/22ac9692-7e55-48e9-8ce1-c7200be35076/deepest-chamber-offer-5917e87.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 2560,
+      "height": 1440,
+      "size": 1045775,
+      "uploadedDate": "2021-06-25T12:24:13.781Z",
+      "alt": "Deepest Chamber Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt/4359866c-3484-41e2-9bc6-6bbd0f1403dd/download-deepest-chamber-offer-7acc0fc.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 1022473,
+      "uploadedDate": "2021-06-25T12:24:15.961Z",
+      "alt": "Download Deepest Chamber Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1d0a0391733c42fb9fd78d74a875c859",
+  "status": "ACTIVE",
+  "creationDate": "2021-05-27T10:23:32.551Z",
+  "lastModifiedDate": "2022-02-18T09:17:09.902Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/deepest_chamber_saves/no_platform_api/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.bsg"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "productGeneration": {
+      "type": "STRING",
+      "value": "SPT"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DeepestChamber"
+    }
+  },
+  "entitlementName": "d49e72ae3323466ca5fbfd88c6d058a0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "351b6470df9340f5b7c7747aa4481192",
+      "appId": "cb13fe04abd047b6bfba1e1806091ae5",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Those Awesome Guys",
+  "developerId": "o-fnvsuh6rejzuar3vb3wp9kvxtyyq7x",
+  "eulaIds": [],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

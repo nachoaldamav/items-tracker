@@ -1,0 +1,38 @@
+{
+  "id": "5df3a686dd1c4fbbb615038d7a1a9f2a",
+  "title": "HassiumGeneralAudience",
+  "description": "HassiumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "a8e307d10c8c4940886205582b00a17a",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-15T23:19:41.909Z",
+  "lastModifiedDate": "2022-05-10T15:11:59.773Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5df3a686dd1c4fbbb615038d7a1a9f2a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Digital Cybercherries",
+  "developerId": "o-y75jbxw3ykf4vk36blmj7uf2x8gfqm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
