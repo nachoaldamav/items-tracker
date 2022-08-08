@@ -6,21 +6,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/item/sundrop/FH_EPIC_3840x2160_UK_3840x2160-615145eebe9586b0e958da8722202f7a",
-      "md5": "615145eebe9586b0e958da8722202f7a",
-      "width": 3840,
-      "height": 2160,
-      "size": 2448497,
-      "uploadedDate": "2022-07-27T09:46:03.171Z"
+      "url": "https://cdn1.epicgames.com/item/sundrop/FH_EPIC_1920x1080_1920x1080-d25b40438dc1e19b300c7790e8783562",
+      "md5": "d25b40438dc1e19b300c7790e8783562",
+      "width": 1920,
+      "height": 1080,
+      "size": 238513,
+      "uploadedDate": "2022-01-26T17:08:53.626Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/sundrop/FH_EPIC_1200x1600_UK_1200x1600-ffeb2ae4a8a4bc4fd7329bc51e0afdf0",
-      "md5": "ffeb2ae4a8a4bc4fd7329bc51e0afdf0",
+      "url": "https://cdn1.epicgames.com/item/sundrop/FH_EPIC_1200x1600_1200x1600-7ea78f0ca99964eb07d99c343095a412",
+      "md5": "7ea78f0ca99964eb07d99c343095a412",
       "width": 1200,
       "height": 1600,
-      "size": 672569,
-      "uploadedDate": "2022-07-27T09:46:11.918Z"
+      "size": 276472,
+      "uploadedDate": "2022-01-26T17:09:00.568Z"
     }
   ],
   "categories": [
@@ -34,7 +34,7 @@
   "namespace": "sundrop",
   "status": "ACTIVE",
   "creationDate": "2020-07-20T20:15:05.717Z",
-  "lastModifiedDate": "2022-07-27T09:46:17.866Z",
+  "lastModifiedDate": "2022-08-08T19:06:55.121Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -62,7 +62,7 @@
     },
     "partnerLinkId": {
       "type": "STRING",
-      "value": "b3599191f9aa46b49f95ca315071bec1"
+      "value": "[]"
     },
     "FolderName": {
       "type": "STRING",
