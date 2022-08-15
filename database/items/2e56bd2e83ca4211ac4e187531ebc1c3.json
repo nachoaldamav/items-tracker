@@ -1,7 +1,27 @@
 {
   "id": "2e56bd2e83ca4211ac4e187531ebc1c3",
-  "title": "blackchocolate Public",
-  "description": "blackchocolate Public",
+  "title": "Fashion Police Squad",
+  "description": "Fashion Police Squad",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/65d31d60510a49629a0b52e93da8416a/fps-2_2560x1440-1153471fec5f73c91eb8792904c7f2cc_2560x1440-1153471fec5f73c91eb8792904c7f2cc",
+      "md5": "1153471fec5f73c91eb8792904c7f2cc",
+      "width": 2560,
+      "height": 1440,
+      "size": 844370,
+      "uploadedDate": "2022-08-15T15:52:22.474Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/65d31d60510a49629a0b52e93da8416a/fps_1200x1600-dd40393f202c5a61c1f7b426139b29a1_1200x1600-dd40393f202c5a61c1f7b426139b29a1",
+      "md5": "dd40393f202c5a61c1f7b426139b29a1",
+      "width": 1200,
+      "height": 1600,
+      "size": 974984,
+      "uploadedDate": "2022-08-15T15:52:26.322Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,7 +36,7 @@
   "namespace": "65d31d60510a49629a0b52e93da8416a",
   "status": "ACTIVE",
   "creationDate": "2021-05-19T16:52:59.894Z",
-  "lastModifiedDate": "2021-06-01T15:05:40.350Z",
+  "lastModifiedDate": "2022-08-15T15:52:45.536Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,7 +64,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "blackchocolate"
+      "value": "FashionPoliceSquad"
     }
   },
   "entitlementName": "2e56bd2e83ca4211ac4e187531ebc1c3",
