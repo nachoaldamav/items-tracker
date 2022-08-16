@@ -13,7 +13,7 @@
   "namespace": "85f0435aa88347d185dbcb147716609b",
   "status": "ACTIVE",
   "creationDate": "2020-08-18T21:46:11.638Z",
-  "lastModifiedDate": "2021-03-10T16:23:15.507Z",
+  "lastModifiedDate": "2022-08-16T00:02:52.088Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +23,15 @@
   "entitlementName": "3c5c5a4e007d475e9447847d0ea6561b",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Omeda Studios",
   "developerId": "o-whjslbj96rnahy8ypck8xcb3qzmgh7",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
