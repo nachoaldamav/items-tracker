@@ -14,8 +14,12 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2016-04-25T19:09:57.838Z",
-  "lastModifiedDate": "2021-08-03T22:43:11.871Z",
+  "lastModifiedDate": "2022-08-17T15:36:46.412Z",
   "customAttributes": {
+    "extraLaunchOption_003_Args": {
+      "type": "STRING",
+      "value": "-Creative"
+    },
     "extraLaunchOption_001_Args": {
       "type": "STRING",
       "value": "-ForceTest"
@@ -26,7 +30,11 @@
     },
     "extraLaunchOption_002_Args": {
       "type": "STRING",
-      "value": "-Creative"
+      "value": "-UEFN"
+    },
+    "extraLaunchOption_003_Name": {
+      "type": "STRING",
+      "value": "Launch Creative"
     },
     "extraLaunchOption_001_Name": {
       "type": "STRING",
@@ -38,7 +46,7 @@
     },
     "extraLaunchOption_002_Name": {
       "type": "STRING",
-      "value": "Launch Creative"
+      "value": "Unreal Editor for Fortnite"
     }
   },
   "entitlementName": "FortniteLocTesting",

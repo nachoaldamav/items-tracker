@@ -33,23 +33,31 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2018-06-22T14:50:43.680Z",
-  "lastModifiedDate": "2022-08-16T20:32:43.075Z",
+  "lastModifiedDate": "2022-08-17T15:36:45.846Z",
   "customAttributes": {
     "extraLaunchOption_003_Args": {
       "type": "STRING",
-      "value": "-Creative"
+      "value": "-UEFNDev"
     },
     "extraLaunchOption_001_Args": {
       "type": "STRING",
-      "value": "-UEFN"
+      "value": "-ForceTest"
     },
     "UseAccessControl": {
       "type": "STRING",
       "value": "true"
     },
+    "extraLaunchOption_004_Name": {
+      "type": "STRING",
+      "value": "Launch Creative"
+    },
     "extraLaunchOption_002_Args": {
       "type": "STRING",
-      "value": "-UEFNDev"
+      "value": "-UEFN"
+    },
+    "extraLaunchOption_004_Args": {
+      "type": "STRING",
+      "value": "-Creative"
     },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
@@ -57,11 +65,11 @@
     },
     "extraLaunchOption_003_Name": {
       "type": "STRING",
-      "value": "Launch Creative"
+      "value": "Unreal Editor for Fortnite (Dev)"
     },
     "extraLaunchOption_001_Name": {
       "type": "STRING",
-      "value": "Unreal Editor for Fortnite"
+      "value": "Launch Test EXE"
     },
     "HasGateKeeper": {
       "type": "STRING",
@@ -69,7 +77,7 @@
     },
     "extraLaunchOption_002_Name": {
       "type": "STRING",
-      "value": "Unreal Editor for Fortnite (Dev)"
+      "value": "Unreal Editor for Fortnite"
     }
   },
   "entitlementName": "FortnitePredeployB",

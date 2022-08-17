@@ -24,11 +24,35 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2015-08-26T19:40:11.775Z",
-  "lastModifiedDate": "2020-06-17T07:45:21.171Z",
+  "lastModifiedDate": "2022-08-17T15:37:02.151Z",
   "customAttributes": {
+    "extraLaunchOption_003_Args": {
+      "type": "STRING",
+      "value": "-Creative"
+    },
     "AndroidCommandLine": {
       "type": "STRING",
       "value": "Testing UE4 Arguments"
+    },
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-ForceTest"
+    },
+    "extraLaunchOption_002_Args": {
+      "type": "STRING",
+      "value": "-UEFN"
+    },
+    "extraLaunchOption_003_Name": {
+      "type": "STRING",
+      "value": "Launch Creative"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Launch Test EXE"
+    },
+    "extraLaunchOption_002_Name": {
+      "type": "STRING",
+      "value": "Unreal Editor for Fortnite"
     }
   },
   "entitlementName": "FortniteReleaseTesting",

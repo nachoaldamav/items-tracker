@@ -24,7 +24,33 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2015-09-24T17:26:07.484Z",
-  "lastModifiedDate": "2020-06-17T07:45:14.855Z",
+  "lastModifiedDate": "2022-08-17T15:37:00.541Z",
+  "customAttributes": {
+    "extraLaunchOption_003_Args": {
+      "type": "STRING",
+      "value": "-Creative"
+    },
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-UEFN"
+    },
+    "extraLaunchOption_002_Args": {
+      "type": "STRING",
+      "value": "-ForceTest"
+    },
+    "extraLaunchOption_003_Name": {
+      "type": "STRING",
+      "value": "Launch Creative"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Unreal Editor for Fortnite"
+    },
+    "extraLaunchOption_002_Name": {
+      "type": "STRING",
+      "value": "Launch Test EXE"
+    }
+  },
   "entitlementName": "FortniteDevTesting",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",

@@ -42,8 +42,12 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2020-04-30T19:48:07.759Z",
-  "lastModifiedDate": "2021-08-03T21:09:50.259Z",
+  "lastModifiedDate": "2022-08-17T15:36:50.086Z",
   "customAttributes": {
+    "extraLaunchOption_003_Args": {
+      "type": "STRING",
+      "value": "-Creative"
+    },
     "extraLaunchOption_001_Args": {
       "type": "STRING",
       "value": "-ForceTest"
@@ -54,11 +58,15 @@
     },
     "extraLaunchOption_002_Args": {
       "type": "STRING",
-      "value": "-Creative"
+      "value": "-UEFN"
     },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
+    },
+    "extraLaunchOption_003_Name": {
+      "type": "STRING",
+      "value": "Launch Creative"
     },
     "extraLaunchOption_001_Name": {
       "type": "STRING",
@@ -70,7 +78,7 @@
     },
     "extraLaunchOption_002_Name": {
       "type": "STRING",
-      "value": "Launch Creative"
+      "value": "Unreal Editor for Fortnite"
     }
   },
   "entitlementName": "FortniteDailyMain",
