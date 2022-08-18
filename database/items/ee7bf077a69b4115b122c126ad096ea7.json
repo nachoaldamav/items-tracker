@@ -54,8 +54,8 @@
   ],
   "namespace": "0f607d2997b04e7384c786708ee2c67a",
   "status": "ACTIVE",
-  "creationDate": "2022-08-01T10:16:02.136Z",
-  "lastModifiedDate": "2022-08-01T10:16:02.136Z",
+  "creationDate": "2022-07-25T14:21:24.134Z",
+  "lastModifiedDate": "2022-08-16T13:41:23.295Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -67,9 +67,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "b43ee39f-7885-490a-a9f5-d5b1b5b26dbb",
+      "id": "b3e5a1fec10e4e93ad2dced69493c8cd",
       "appId": "2d8e6bfaaba14b148c441336d56d6e2a",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Hypetrain Digital",
