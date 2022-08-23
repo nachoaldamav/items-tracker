@@ -35,7 +35,7 @@
   "namespace": "fa7346c113ff48d8b9a1b48f44a3a48e",
   "status": "ACTIVE",
   "creationDate": "2022-05-23T20:02:19.290Z",
-  "lastModifiedDate": "2022-06-15T17:45:44.638Z",
+  "lastModifiedDate": "2022-08-23T00:04:21.888Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,13 +47,18 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "2188ae33b52445689b86153edef099e7",
-      "appId": "445c557ddb3a45f78a3c349d1cca6eb6"
+      "id": "e351f5a241f5466d98d98d701083cf87",
+      "appId": "445c557ddb3a45f78a3c349d1cca6eb6",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
     }
   ],
   "developer": "Moving Pieces Interactive",
   "developerId": "o-99amq5dm46yptbqyp4fd5f2rllp5d4",
   "endOfSupport": false,
+  "applicationId": "fghi4567EYMoZuw6icLg5cRAK3K2YZ8v",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
