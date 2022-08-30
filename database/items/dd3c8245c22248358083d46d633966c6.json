@@ -34,9 +34,17 @@
   ],
   "namespace": "21b227238de14dc181de7eb4633b117f",
   "status": "ACTIVE",
-  "creationDate": "2022-07-25T07:24:22.243Z",
-  "lastModifiedDate": "2022-07-25T07:24:22.243Z",
+  "creationDate": "2022-06-22T08:26:23.963Z",
+  "lastModifiedDate": "2022-08-17T16:13:47.282Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Whiteboard Games/I See Red/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "ISeeRedtuP9i"
@@ -47,13 +55,17 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "42d117858241433c8a391fdecd73106e",
-      "appId": "8d4699b640864968b87ae2e68395e94b"
+      "id": "593236db055445709ae22882a45cb758",
+      "appId": "8d4699b640864968b87ae2e68395e94b",
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Gameforge 4D GmbH",
   "developerId": "o-ezychz6fc55p9kjpbl4qdumclj65jg",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
