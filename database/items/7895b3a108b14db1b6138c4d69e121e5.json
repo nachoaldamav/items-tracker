@@ -14,11 +14,23 @@
   "namespace": "hellebore",
   "status": "ACTIVE",
   "creationDate": "2019-10-28T14:29:50.545Z",
-  "lastModifiedDate": "2019-10-28T14:29:50.545Z",
+  "lastModifiedDate": "2022-08-31T14:16:13.713Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "b77fa04af6d7453f9be92c8f5f13b521"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
     },
     "FolderName": {
       "type": "STRING",
@@ -47,6 +59,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
