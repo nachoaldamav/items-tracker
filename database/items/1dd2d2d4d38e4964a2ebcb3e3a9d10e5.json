@@ -17,7 +17,7 @@
   "namespace": "c749cd78da34408d8434a46271f4bb79",
   "status": "ACTIVE",
   "creationDate": "2020-03-19T20:34:51.378Z",
-  "lastModifiedDate": "2020-08-19T11:34:42.821Z",
+  "lastModifiedDate": "2022-09-07T00:26:16.026Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -53,13 +53,13 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "31374f5125774255bd4ac68ad7ac50ec",
+      "id": "31e844fbfe4e442e9a11ffc1ebf5ee5e",
       "appId": "Cobia",
       "platform": [
         "Windows",
         "Mac"
       ],
-      "dateAdded": "2020-08-19T11:34:39.996Z"
+      "dateAdded": "2020-08-19T11:36:06.570Z"
     }
   ],
   "developer": "Santa Ragione",
@@ -69,5 +69,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
