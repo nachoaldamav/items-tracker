@@ -4,15 +4,6 @@
   "description": "The Walking Dead: Season Two",
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/buttercup/item/WD2-Logo-color-600x423-5a1d11160df9d58de031094c6391668b.png",
-      "md5": "5a1d11160df9d58de031094c6391668b",
-      "width": 600,
-      "height": 423,
-      "size": 234435,
-      "uploadedDate": "2019-03-26T01:59:19.103Z"
-    },
-    {
       "type": "DieselGameBox",
       "url": "https://cdn1.epicgames.com/buttercup/item/TWD2_PrimaryPromo_GameBoxWide-1068x600-6a556758c201a1d526899c4484931158.jpg",
       "md5": "6a556758c201a1d526899c4484931158",
@@ -22,22 +13,13 @@
       "uploadedDate": "2019-03-26T01:59:42.139Z"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/buttercup/item/EGS_SKYBOUND_WD2-Thumbnail-400x400-70838b386040c53b31811b6d8927cbe1.png",
-      "md5": "70838b386040c53b31811b6d8927cbe1",
-      "width": 400,
-      "height": 400,
-      "size": 132513,
-      "uploadedDate": "2019-03-26T02:00:59.726Z"
-    },
-    {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/buttercup/item/EGS_SKYBOUND_TWD2_GameBoxTall-1280x1440-fe5ee549a3df9700211402f32a48c592.jpg",
-      "md5": "fe5ee549a3df9700211402f32a48c592",
-      "width": 1280,
-      "height": 1440,
-      "size": 181981,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/item/buttercup/MV5BZjcwOGVmODgtMWUxYS00Mjk3LTlkZDMtYjZkZDA3ZWJiYTI3XkEyXkFqcGdeQXVyNTM3NzExMDQ_1200x1600-ab66f87cbd6063304034a4e47a83175a",
+      "md5": "ab66f87cbd6063304034a4e47a83175a",
+      "width": 1200,
+      "height": 1600,
+      "size": 296158,
+      "uploadedDate": "2022-09-08T15:26:17.997Z"
     }
   ],
   "categories": [
@@ -51,7 +33,7 @@
   "namespace": "buttercup",
   "status": "ACTIVE",
   "creationDate": "2019-03-08T22:58:45.395Z",
-  "lastModifiedDate": "2019-11-19T17:04:01.746Z",
+  "lastModifiedDate": "2022-09-08T15:26:20.927Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -112,6 +94,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
