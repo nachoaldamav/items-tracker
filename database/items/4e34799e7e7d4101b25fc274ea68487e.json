@@ -13,22 +13,13 @@
       "uploadedDate": "2019-08-27T20:02:58.886Z"
     },
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/530eeeaffca14275a451d7cff61ee6bb/item/GameLogo-200x76-61e3c50fa63f74e5575a08ab4718b8a7.png",
-      "md5": "61e3c50fa63f74e5575a08ab4718b8a7",
-      "width": 200,
-      "height": 76,
-      "size": 1140,
-      "uploadedDate": "2019-09-05T15:02:52.953Z"
-    },
-    {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/530eeeaffca14275a451d7cff61ee6bb/item/S2-1280x1440-6cebdc0fe45b9fde09a786506a7f5c6e.jpg",
-      "md5": "6cebdc0fe45b9fde09a786506a7f5c6e",
-      "width": 1280,
-      "height": 1440,
-      "size": 313611,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/item/530eeeaffca14275a451d7cff61ee6bb/CodeRedemption_TheEndisNigh-340x440-ad607bfe8e369571676c469d69d1ed2b1_1236x1600-dea54b9d458f4644ea42e2198d879345",
+      "md5": "dea54b9d458f4644ea42e2198d879345",
+      "width": 1236,
+      "height": 1600,
+      "size": 1109356,
+      "uploadedDate": "2022-09-08T14:51:03.431Z"
     }
   ],
   "categories": [
@@ -45,7 +36,7 @@
   "namespace": "530eeeaffca14275a451d7cff61ee6bb",
   "status": "ACTIVE",
   "creationDate": "2019-08-24T06:23:20.946Z",
-  "lastModifiedDate": "2019-11-19T17:03:49.164Z",
+  "lastModifiedDate": "2022-09-08T14:51:05.998Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -96,6 +87,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
