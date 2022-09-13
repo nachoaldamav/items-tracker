@@ -36,7 +36,7 @@
   "namespace": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "status": "ACTIVE",
   "creationDate": "2019-08-23T21:23:54.176Z",
-  "lastModifiedDate": "2022-09-05T12:17:33.664Z",
+  "lastModifiedDate": "2022-09-13T14:52:51.052Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -61,6 +61,10 @@
     "RequirementsJson": {
       "type": "STRING",
       "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.json,*.backup"
     },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
