@@ -35,7 +35,7 @@
   "namespace": "00968dd40b6e49548220ce6f215cbb44",
   "status": "ACTIVE",
   "creationDate": "2022-03-09T19:22:25.493Z",
-  "lastModifiedDate": "2022-08-23T19:28:54.309Z",
+  "lastModifiedDate": "2022-08-31T23:39:12.429Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,8 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "efba7596445846e0835a4d5135af2cd4",
-      "appId": "8d37414518ed458688bf1edbaaaf15c6"
+      "id": "caa744b07e80422685621c2d31a1ce2e",
+      "appId": "8d37414518ed458688bf1edbaaaf15c6",
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Akupara Games",
