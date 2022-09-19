@@ -14,7 +14,7 @@
   "namespace": "0d23bb77ee2f45b7a571bde68caddb09",
   "status": "ACTIVE",
   "creationDate": "2021-02-10T17:04:44.024Z",
-  "lastModifiedDate": "2022-06-09T18:23:22.364Z",
+  "lastModifiedDate": "2022-09-19T18:15:00.426Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -24,7 +24,8 @@
   "entitlementName": "3ceef89539ee429f9f1d198521a0f6df",
   "entitlementType": "AUDIENCE",
   "itemType": "CONSUMABLE",
-  "developer": "Koch Media",
+  "releaseInfo": [],
+  "developer": "Plaion",
   "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
   "useCount": 1,
   "eulaIds": [
@@ -32,5 +33,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
