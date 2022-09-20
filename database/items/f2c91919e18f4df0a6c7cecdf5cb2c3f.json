@@ -24,7 +24,7 @@
   "namespace": "petunia",
   "status": "ACTIVE",
   "creationDate": "2019-01-29T15:20:13.602Z",
-  "lastModifiedDate": "2019-09-26T15:07:09.697Z",
+  "lastModifiedDate": "2022-09-20T15:00:36.593Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -35,12 +35,14 @@
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [],
-  "developer": "Koch Media",
+  "developer": "Plaion",
   "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
