@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/crab/item/ResourceImage3_Trailer-960x497-e13367226188f9abaf818873ee6af28c.png",
-      "md5": "e13367226188f9abaf818873ee6af28c",
-      "width": 960,
-      "height": 497,
-      "size": 384182,
-      "uploadedDate": "2018-11-07T01:04:41.672Z"
+      "url": "https://cdn1.epicgames.com/item/crab/EGS_Satisfactory_CoffeeStainStudios_S3_2560x1440-e6be9b4c41c7da68a6a8adfb9fa6a0d1",
+      "md5": "e6be9b4c41c7da68a6a8adfb9fa6a0d1",
+      "width": 2560,
+      "height": 1440,
+      "size": 1009777,
+      "uploadedDate": "2022-09-20T00:28:31.181Z"
     },
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/crab/item/crab_logo-1024x330-c6e205125e3d6f6146c635a032ed3729.png",
-      "md5": "c6e205125e3d6f6146c635a032ed3729",
-      "width": 1024,
-      "height": 330,
-      "size": 93741,
-      "uploadedDate": "2018-11-07T01:15:25.137Z"
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/crab/EGS_Satisfactory_CoffeeStainStudios_S2_1200x1600-1a510892940ba0c7b252e42b1554f5dc",
+      "md5": "1a510892940ba0c7b252e42b1554f5dc",
+      "width": 1200,
+      "height": 1600,
+      "size": 751675,
+      "uploadedDate": "2022-09-20T00:28:34.152Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "crab",
   "status": "ACTIVE",
   "creationDate": "2018-11-05T14:58:27.891Z",
-  "lastModifiedDate": "2020-11-19T22:05:19.479Z",
+  "lastModifiedDate": "2022-09-20T13:56:25.052Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -64,10 +64,11 @@
       "versionTitle": ""
     }
   ],
-  "developer": "Coffee Stain Studios",
+  "developer": "Coffee Stain Publishing",
   "developerId": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
   "eulaIds": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
