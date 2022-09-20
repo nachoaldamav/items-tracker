@@ -14,7 +14,7 @@
   "namespace": "viola",
   "status": "ACTIVE",
   "creationDate": "2020-02-13T18:51:41.417Z",
-  "lastModifiedDate": "2022-05-17T16:32:16.965Z",
+  "lastModifiedDate": "2022-09-20T14:58:38.527Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -41,11 +41,13 @@
       "versionTitle": ""
     }
   ],
-  "developer": "Koch Media",
+  "developer": "Plaion",
   "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

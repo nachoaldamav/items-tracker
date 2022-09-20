@@ -42,7 +42,7 @@
   "namespace": "c5e786eddfd041caa9984213e3f9621d",
   "status": "ACTIVE",
   "creationDate": "2019-04-22T16:46:31.582Z",
-  "lastModifiedDate": "2019-11-19T17:03:12.502Z",
+  "lastModifiedDate": "2022-09-20T14:42:07.908Z",
   "customAttributes": {
     "PresenceId": {
       "type": "STRING",
@@ -85,12 +85,14 @@
       "versionTitle": ""
     }
   ],
-  "developer": "Koch Media",
+  "developer": "Plaion",
   "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
