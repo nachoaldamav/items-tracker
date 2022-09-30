@@ -32,10 +32,20 @@
   "namespace": "5f2fcf280d11455f8eab5c1e2a4d0392",
   "status": "ACTIVE",
   "creationDate": "2022-04-29T00:39:35.792Z",
-  "lastModifiedDate": "2022-09-10T00:04:07.733Z",
+  "lastModifiedDate": "2022-09-30T16:31:25.440Z",
+  "customAttributes": {},
   "entitlementName": "5c2979798ae740bcabcd487c5e591312",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fc9c2ee439054c51bab670f94ac45e05",
+      "appId": "1bffb0ab4a37437199bda93083d5aeb3",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
   "developer": "Eek Games, LLC",
   "developerId": "o-ratrtf2vs6urz9ubu3td2v647rrjfc",
   "endOfSupport": false,
