@@ -35,8 +35,16 @@
   "namespace": "018b24db743b4460aeb22bf71e8437c7",
   "status": "ACTIVE",
   "creationDate": "2021-11-04T22:39:02.203Z",
-  "lastModifiedDate": "2022-09-20T17:54:46.004Z",
+  "lastModifiedDate": "2022-09-28T22:25:13.551Z",
   "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Stelex Software/Monorail Stories/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Stelex Software/Monorail Stories/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "MonorailStoriesP77UJ"
@@ -47,7 +55,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "493325134a9547ee876f1eb99d7166c6",
+      "id": "cc3ea7d732cc40c6873156b8b8d0d738",
       "appId": "2b28c4500a964a16bd8be17a5b652132",
       "platform": [
         "Windows"
@@ -57,6 +65,7 @@
   "developer": "Freedom Games",
   "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
