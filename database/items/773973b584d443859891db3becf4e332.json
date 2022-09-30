@@ -55,8 +55,12 @@
   "namespace": "2ec6c4dc5efd4123bdd9eee3e80554c3",
   "status": "ACTIVE",
   "creationDate": "2022-07-07T16:13:24.249Z",
-  "lastModifiedDate": "2022-07-12T12:07:05.881Z",
+  "lastModifiedDate": "2022-09-29T11:42:58.656Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Achilles/Saved/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "AchillesLegendsUntolKsMfU"
@@ -67,13 +71,17 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "f7fa136e5aa447ad938552e39b70ead8",
-      "appId": "f22b6cf68fc847ea9436ee6c93ee3d7c"
+      "id": "1c5a9fa158e140cb93f09ea68236deda",
+      "appId": "f22b6cf68fc847ea9436ee6c93ee3d7c",
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Dark Point Games S.A.",
   "developerId": "o-neelkdvp23wmkrp25j5ude9xtjslx6",
   "endOfSupport": false,
+  "applicationId": "fghi456716mkxlUkASjVuBCY2O7uBbLv",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
