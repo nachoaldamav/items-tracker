@@ -35,8 +35,16 @@
   "namespace": "720cc28ab09b455f8388decfa0ba4796",
   "status": "ACTIVE",
   "creationDate": "2022-02-08T23:59:27.992Z",
-  "lastModifiedDate": "2022-02-18T09:17:19.567Z",
+  "lastModifiedDate": "2022-10-04T16:00:11.630Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/MythForce/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "MetashopSave.sav,PlayerSettingsSave.sav,PlayerStatsSave.sav,QuestsSave.sav"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "MythForcePressDemo"
@@ -47,7 +55,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "fee4ee28-2040-4f34-b5b8-88871b5ae9c7",
+      "id": "68a8b94596224a6d95f5146b0fff7c24",
       "appId": "be75d0b2d71a4d379f55aaf87a2daa79",
       "platform": [
         "Windows"
