@@ -1,7 +1,7 @@
 {
   "id": "8731758987924e6b8912be691ee62565",
   "title": "Bibots",
-  "description": "Bibots",
+  "description": "Bibots is a top-down shooter rogue lite set in a futuristic world. Play as Tayar, an explorer in control of a nervy robot and clear rooms filled with monsters, powers and secrets to unveil. Die, try and repeat until you face your world’s final threat.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,7 +35,7 @@
   "namespace": "4ede2a7cb66d4a84806269e521375a6a",
   "status": "ACTIVE",
   "creationDate": "2021-10-12T19:10:51.058Z",
-  "lastModifiedDate": "2022-08-12T09:16:25.921Z",
+  "lastModifiedDate": "2022-10-03T21:37:29.568Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,10 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "192db44cd32a427d963935f78d977134",
+      "id": "6d230f883ee34b61aa9a2ad22dd3c2f3",
       "appId": "73c03637732d4c1d9409b5c7f09ac45c",
       "platform": [
+        "Win32",
         "Windows"
       ]
     }
