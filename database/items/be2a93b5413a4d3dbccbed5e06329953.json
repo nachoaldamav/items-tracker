@@ -16,7 +16,7 @@
   "namespace": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
   "status": "ACTIVE",
   "creationDate": "2020-10-14T20:19:42.348Z",
-  "lastModifiedDate": "2022-07-15T20:55:44.382Z",
+  "lastModifiedDate": "2022-10-10T15:24:48.834Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -32,12 +32,14 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "c173ba3a5dbe4a2c840b8795f2f046bd",
+      "id": "2282294c6e8b4b25858b1473455f5731",
       "appId": "5d790ab6c1874f5889d4247e9185a25a",
+      "compatibleApps": [],
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
-      "dateAdded": "2020-10-14T20:38:58.123Z"
+      "dateAdded": "2020-10-14T20:38:00.000Z"
     }
   ],
   "developer": "Gameloft SE",
