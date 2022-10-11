@@ -4,15 +4,6 @@
   "description": "Metro Last Light Redux",
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/c5e786eddfd041caa9984213e3f9621d/item/Game_Logo_MetroLL-Redux-1405x800-ec83b03aee77d67518e84b19de861cd2.png",
-      "md5": "ec83b03aee77d67518e84b19de861cd2",
-      "width": 1405,
-      "height": 800,
-      "size": 379939,
-      "uploadedDate": "2019-05-07T19:49:52.868Z"
-    },
-    {
       "type": "DieselGameBox",
       "url": "https://cdn1.epicgames.com/c5e786eddfd041caa9984213e3f9621d/item/MLL-Redux_Library_Primary_Promo-2580x1450-5bff756f6ec63345932141e78b7f4a1b.jpg",
       "md5": "5bff756f6ec63345932141e78b7f4a1b",
@@ -23,12 +14,12 @@
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/c5e786eddfd041caa9984213e3f9621d/item/MLL-Redux_Portrait_Promo-1280x1420-8a657481ae263cf6f7c53c1e8b0d7df0.jpg",
-      "md5": "8a657481ae263cf6f7c53c1e8b0d7df0",
-      "width": 1280,
-      "height": 1420,
-      "size": 269347,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/item/c5e786eddfd041caa9984213e3f9621d/MetroLastLight_CodeRedemption-340x440-f16871ea412435f9d7c3b7d3e9f91c40_1200x1600-e6a3da494ecf34ee05c93644e019ce86",
+      "md5": "e6a3da494ecf34ee05c93644e019ce86",
+      "width": 1200,
+      "height": 1600,
+      "size": 345491,
+      "uploadedDate": "2022-10-11T14:12:51.804Z"
     }
   ],
   "categories": [
@@ -42,7 +33,7 @@
   "namespace": "c5e786eddfd041caa9984213e3f9621d",
   "status": "ACTIVE",
   "creationDate": "2019-04-22T16:46:31.582Z",
-  "lastModifiedDate": "2022-09-20T14:42:07.908Z",
+  "lastModifiedDate": "2022-10-11T14:12:54.935Z",
   "customAttributes": {
     "PresenceId": {
       "type": "STRING",
