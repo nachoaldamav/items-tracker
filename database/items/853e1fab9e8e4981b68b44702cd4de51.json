@@ -1,0 +1,95 @@
+{
+  "id": "853e1fab9e8e4981b68b44702cd4de51",
+  "title": "Twinmotion EDU 2023.1 Preview 1",
+  "description": "Twinmotion 2023.1 Preview 1",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LauncherThumbnailLandscapeLogoEDU_1920x1080_1920x1080-cc96d83fb3119e34abb35d366c5a5f12",
+      "md5": "cc96d83fb3119e34abb35d366c5a5f12",
+      "width": 1920,
+      "height": 1080,
+      "size": 3705280,
+      "uploadedDate": "2021-08-04T13:29:07.221Z",
+      "alt": "TwinMotion"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LauncherThumbnailProfileLogoEDU_1200x1600_1200x1600-06d7108384e1d5364995b3a4ad1919c2",
+      "md5": "06d7108384e1d5364995b3a4ad1919c2",
+      "width": 1200,
+      "height": 1600,
+      "size": 3095688,
+      "uploadedDate": "2021-08-04T13:29:18.235Z",
+      "alt": "TwinMotion"
+    }
+  ],
+  "categories": [
+    {
+      "path": "software"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "poodle",
+  "status": "ACTIVE",
+  "creationDate": "2022-10-24T14:37:58.969Z",
+  "lastModifiedDate": "2022-10-24T16:34:48.321Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "Twinmotion"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "egs.library.display_version": {
+      "type": "STRING",
+      "value": "Twinmotion2023.1(EDU)"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Epic Games"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Twinmotion2023.1EDU"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows, Mac"
+    }
+  },
+  "entitlementName": "TwinmotionEDU2023.1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cb619223fad14959a89d14e94fbebbf7",
+      "appId": "f56e8672dac44fe68b79e81be2c95114",
+      "compatibleApps": [],
+      "platform": [],
+      "dateAdded": "2022-10-24T16:34:30.733Z"
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [
+    "twin"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
