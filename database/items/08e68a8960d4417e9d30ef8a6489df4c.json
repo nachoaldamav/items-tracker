@@ -14,7 +14,7 @@
   "namespace": "aeac94c7a11048758064b82f8f8d20ed",
   "status": "ACTIVE",
   "creationDate": "2019-10-04T14:32:24.251Z",
-  "lastModifiedDate": "2020-02-19T19:22:43.537Z",
+  "lastModifiedDate": "2022-10-25T06:59:08.238Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -24,12 +24,12 @@
   "entitlementName": "08e68a8960d4417e9d30ef8a6489df4c",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "developer": "Epic Test Organization",
-  "developerId": "o-jwuggxrvjq99seqnvcrzckgm6e8jtr",
+  "developer": "TaleWorlds Entertainment",
+  "developerId": "o-e2fanamv6wpuy3gpyyscsnzjth7hrg",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
-  "selfRefundable": true,
+  "ageGatings": {},
   "unsearchable": false
 }
