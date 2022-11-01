@@ -14,21 +14,21 @@
     },
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/holly/item/7BH_promo-2580x1450-98efbc73514cc06e25a235861c6f9200.jpg",
-      "md5": "98efbc73514cc06e25a235861c6f9200",
-      "width": 2580,
-      "height": 1450,
-      "size": 423190,
-      "uploadedDate": "2019-05-13T19:46:38.359Z"
+      "url": "https://cdn1.epicgames.com/item/holly/EGS_7BillionHumans_TomorrowCorporation_S1_2560x1440-dd49cbec97f4136c823c29a6e9a4eb46",
+      "md5": "dd49cbec97f4136c823c29a6e9a4eb46",
+      "width": 2560,
+      "height": 1440,
+      "size": 1034063,
+      "uploadedDate": "2022-11-01T18:20:09.994Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/holly/item/7-Billion-Humans-Portrait-Promo-1280x1420-8c0606684b5de75fc4d9ca623512a930.jpg",
-      "md5": "8c0606684b5de75fc4d9ca623512a930",
-      "width": 1280,
-      "height": 1420,
-      "size": 204142,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/item/holly/EGS_7BillionHumans_TomorrowCorporation_S2_1200x1600-3d2393523c90cbb6843faf5ba8196884",
+      "md5": "3d2393523c90cbb6843faf5ba8196884",
+      "width": 1200,
+      "height": 1600,
+      "size": 964421,
+      "uploadedDate": "2022-11-01T18:20:12.727Z"
     }
   ],
   "categories": [
@@ -42,7 +42,7 @@
   "namespace": "holly",
   "status": "ACTIVE",
   "creationDate": "2019-02-15T14:49:59.748Z",
-  "lastModifiedDate": "2019-11-19T17:02:07.396Z",
+  "lastModifiedDate": "2022-11-01T18:20:22.838Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -89,6 +89,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }

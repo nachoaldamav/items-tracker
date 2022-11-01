@@ -14,21 +14,21 @@
     },
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/basil/item/Basil_HRM_PrimaryPromo-2580x1450-6397adc15b04f44458140bd2ad71a7d7.jpg",
-      "md5": "6397adc15b04f44458140bd2ad71a7d7",
-      "width": 2580,
-      "height": 1450,
-      "size": 307566,
-      "uploadedDate": "2019-04-25T21:23:04.132Z"
+      "url": "https://cdn1.epicgames.com/item/basil/EGS_HumanResourceMachine_TomorrowCorporation_S1_2560x1440-ea1281073444d2f46978ebe18b69f54a",
+      "md5": "ea1281073444d2f46978ebe18b69f54a",
+      "width": 2560,
+      "height": 1440,
+      "size": 962828,
+      "uploadedDate": "2022-11-01T18:22:36.922Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/basil/item/Human-Resource-Machine-Portrait-Promo-1280x1420-0110d1430288b552736a3914c882cafa.jpg",
-      "md5": "0110d1430288b552736a3914c882cafa",
-      "width": 1280,
-      "height": 1420,
-      "size": 165784,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/item/basil/EGS_HumanResourceMachine_TomorrowCorporation_S2_1200x1600-cc77f5a73a9488836ae8fa580f09454c",
+      "md5": "cc77f5a73a9488836ae8fa580f09454c",
+      "width": 1200,
+      "height": 1600,
+      "size": 1035107,
+      "uploadedDate": "2022-11-01T18:22:39.097Z"
     }
   ],
   "categories": [
@@ -42,7 +42,7 @@
   "namespace": "basil",
   "status": "ACTIVE",
   "creationDate": "2019-02-15T17:34:31.041Z",
-  "lastModifiedDate": "2019-11-19T17:02:56.111Z",
+  "lastModifiedDate": "2022-11-01T18:22:42.139Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -93,6 +93,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
