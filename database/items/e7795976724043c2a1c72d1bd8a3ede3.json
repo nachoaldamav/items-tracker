@@ -24,7 +24,7 @@
   "namespace": "b69961c88cb446a395ace83341dd94cc",
   "status": "ACTIVE",
   "creationDate": "2019-08-24T05:04:21.626Z",
-  "lastModifiedDate": "2020-01-06T15:25:18.355Z",
+  "lastModifiedDate": "2022-11-02T00:12:50.521Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -34,12 +34,14 @@
   "entitlementName": "e7795976724043c2a1c72d1bd8a3ede3",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "developer": "Bigben Interactive",
+  "releaseInfo": [],
+  "developer": "Nacon",
   "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
-  "selfRefundable": true,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
