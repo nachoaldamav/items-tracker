@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_PrimaryPromo-1920x1079-1d5a04d67c44c162d1e3acf2df2f57e3.jpg",
-      "md5": "1d5a04d67c44c162d1e3acf2df2f57e3",
-      "width": 1920,
-      "height": 1079,
-      "size": 162524,
-      "uploadedDate": "2019-03-25T21:11:45.244Z"
+      "url": "https://cdn1.epicgames.com/item/iris/PPCompleteedition2560x1440_2560x1440-2d7587625ffc695d407399b8ca6f9573",
+      "md5": "2d7587625ffc695d407399b8ca6f9573",
+      "width": 2560,
+      "height": 1440,
+      "size": 799292,
+      "uploadedDate": "2022-11-03T17:15:10.759Z"
     },
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_GameLogo_White-3220x432-7aca4b7a258e701731893afe68f4becb.png",
-      "md5": "7aca4b7a258e701731893afe68f4becb",
-      "width": 3220,
-      "height": 432,
-      "size": 118600,
-      "uploadedDate": "2019-03-25T21:12:00.250Z"
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/iris/PPcompleteeditionverticalEGS1200x1600_1200x1600-d909441e2acb761bc2cbd20ff225b309",
+      "md5": "d909441e2acb761bc2cbd20ff225b309",
+      "width": 1200,
+      "height": 1600,
+      "size": 540975,
+      "uploadedDate": "2022-11-03T17:15:08.304Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "iris",
   "status": "ACTIVE",
   "creationDate": "2019-03-25T21:13:48.485Z",
-  "lastModifiedDate": "2020-12-11T01:07:10.480Z",
+  "lastModifiedDate": "2022-11-03T17:15:50.853Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -83,5 +83,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

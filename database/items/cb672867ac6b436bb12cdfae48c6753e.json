@@ -13,31 +13,22 @@
       "uploadedDate": "2019-03-12T17:22:06.207Z"
     },
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_GameLogo_White-1920x258-f459d6f60aceae2e47ce0c6ec6d46471.png",
-      "md5": "f459d6f60aceae2e47ce0c6ec6d46471",
-      "width": 1920,
-      "height": 258,
-      "size": 99414,
-      "uploadedDate": "2019-03-12T17:22:26.642Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_NEWPROMO-2048x1151-a5d45cf0f70a168b0c1f7eae142a3397.jpg",
-      "md5": "a5d45cf0f70a168b0c1f7eae142a3397",
-      "width": 2048,
-      "height": 1151,
-      "size": 2147087,
-      "uploadedDate": "2019-07-10T17:22:52.186Z"
+      "url": "https://cdn1.epicgames.com/item/iris/PPCompleteedition2560x1440_2560x1440-2d7587625ffc695d407399b8ca6f9573",
+      "md5": "2d7587625ffc695d407399b8ca6f9573",
+      "width": 2560,
+      "height": 1440,
+      "size": 799292,
+      "uploadedDate": "2022-11-03T17:16:55.367Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_NEWPortraitPromo-1280x1420-3ebed9c3972a5710778d97b6b1018905.png",
-      "md5": "3ebed9c3972a5710778d97b6b1018905",
-      "width": 1280,
-      "height": 1420,
-      "size": 2968120,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/item/iris/PPcompleteeditionverticalEGS1200x1600_1200x1600-d909441e2acb761bc2cbd20ff225b309",
+      "md5": "d909441e2acb761bc2cbd20ff225b309",
+      "width": 1200,
+      "height": 1600,
+      "size": 540975,
+      "uploadedDate": "2022-11-03T17:16:58.277Z"
     }
   ],
   "categories": [
@@ -51,7 +42,7 @@
   "namespace": "iris",
   "status": "ACTIVE",
   "creationDate": "2019-11-04T19:26:25.610Z",
-  "lastModifiedDate": "2020-12-11T01:07:10.474Z",
+  "lastModifiedDate": "2022-11-03T17:18:35.706Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -81,5 +72,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
