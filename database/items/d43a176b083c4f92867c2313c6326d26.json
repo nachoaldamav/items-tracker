@@ -14,12 +14,12 @@
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/turtle/item/ManEater_860x1148V2 (2)-860x1148-48b03ebe57bf02e8d7c8f95e1407be5d.jpg",
-      "md5": "48b03ebe57bf02e8d7c8f95e1407be5d",
-      "width": 860,
-      "height": 1148,
-      "size": 460563,
-      "uploadedDate": "2020-05-08T21:15:36.140Z"
+      "url": "https://cdn1.epicgames.com/item/turtle/Maneater_EGS_1200x1600_1200x1600-64753fed67a14f055ee4e7150fe34daf",
+      "md5": "64753fed67a14f055ee4e7150fe34daf",
+      "width": 1200,
+      "height": 1600,
+      "size": 830357,
+      "uploadedDate": "2022-11-03T15:47:02.331Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "turtle",
   "status": "ACTIVE",
   "creationDate": "2018-11-30T01:27:16.690Z",
-  "lastModifiedDate": "2020-09-05T00:10:28.238Z",
+  "lastModifiedDate": "2022-11-03T15:47:05.885Z",
   "customAttributes": {
     "PresenceId": {
       "type": "STRING",
@@ -84,5 +84,6 @@
   "endOfSupport": false,
   "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
