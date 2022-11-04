@@ -5,30 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/weaver/item/RebelGalaxy_PrimaryPromo-2580x1450-45040669e872f9911a6083934e07c822.jpg",
-      "md5": "45040669e872f9911a6083934e07c822",
-      "width": 2580,
-      "height": 1450,
-      "size": 274767,
-      "uploadedDate": "2019-06-12T23:40:11.943Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/weaver/item/RebelGalaxy_Logo_Color-1205x484-e4c0fcc9be3764dfb707ca93a1c4eba6.png",
-      "md5": "e4c0fcc9be3764dfb707ca93a1c4eba6",
-      "width": 1205,
-      "height": 484,
-      "size": 69577,
-      "uploadedDate": "2019-06-12T23:40:23.747Z"
+      "url": "https://cdn1.epicgames.com/item/weaver/ENG_DoubleDamageGames_RebelGalaxy_S1_2560x1440_2560x1440-e2aa8771e78cfeb48b8c915874159470",
+      "md5": "e2aa8771e78cfeb48b8c915874159470",
+      "width": 2560,
+      "height": 1440,
+      "size": 835277,
+      "uploadedDate": "2022-11-04T21:02:11.208Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/weaver/item/rebelgalaxy_portrait_promo-1280x1420-4f5b9dbb724d125887fd01654dfdb1a9.jpg",
-      "md5": "4f5b9dbb724d125887fd01654dfdb1a9",
-      "width": 1280,
-      "height": 1420,
-      "size": 143036,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/item/weaver/ENG_DoubleDamageGames_RebelGalaxy_S2_1200x1600_1200x1600-06cbd69dda747c677e79ab2c1e2668b1",
+      "md5": "06cbd69dda747c677e79ab2c1e2668b1",
+      "width": 1200,
+      "height": 1600,
+      "size": 590681,
+      "uploadedDate": "2022-11-04T21:02:14.032Z"
     }
   ],
   "categories": [
@@ -42,7 +33,7 @@
   "namespace": "weaver",
   "status": "ACTIVE",
   "creationDate": "2019-02-14T03:54:16.989Z",
-  "lastModifiedDate": "2019-11-19T17:03:33.982Z",
+  "lastModifiedDate": "2022-11-04T21:02:16.815Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -87,6 +78,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
