@@ -2,26 +2,7 @@
   "id": "b45bfa6b926c43fc9fd23733b95a90bc",
   "title": "CallunaStaging",
   "description": "CallunaStaging",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/calluna/item/CONTROL_logo_shadow-670x212-676c3d62788f269f00819451130394e3.png",
-      "md5": "676c3d62788f269f00819451130394e3",
-      "width": 670,
-      "height": 212,
-      "size": 28205,
-      "uploadedDate": "2019-03-21T15:34:54.020Z"
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/calluna/item/Control_Store_Primary_Promo_2580x1450-2580x1450-371d5dd82a48a881145528b4781fe757.jpg",
-      "md5": "371d5dd82a48a881145528b4781fe757",
-      "width": 2580,
-      "height": 1450,
-      "size": 223868,
-      "uploadedDate": "2019-02-28T14:00:56.706Z"
-    }
-  ],
+  "keyImages": [],
   "categories": [
     {
       "path": "games"
@@ -33,7 +14,7 @@
   "namespace": "calluna",
   "status": "ACTIVE",
   "creationDate": "2019-02-28T14:01:45.719Z",
-  "lastModifiedDate": "2020-08-27T14:49:37.702Z",
+  "lastModifiedDate": "2022-11-09T16:15:48.352Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -74,5 +55,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

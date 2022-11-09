@@ -4,22 +4,22 @@
   "description": "Control_F",
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/calluna/item/CONTROL_logo_shadow-670x212-676c3d62788f269f00819451130394e3.png",
-      "md5": "676c3d62788f269f00819451130394e3",
-      "width": 670,
-      "height": 212,
-      "size": 28205,
-      "uploadedDate": "2019-03-21T15:32:41.157Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/calluna/item/control_game_page_promotion_2560x1440-2560x1440-0939cd986172378295469e23006d560e.jpg",
-      "md5": "0939cd986172378295469e23006d560e",
+      "url": "https://cdn1.epicgames.com/item/calluna/Control_Landscape_Image_2560X1440_2560x1440-ec7b2eb03bb70f61d17ed01fa76d95a6",
+      "md5": "ec7b2eb03bb70f61d17ed01fa76d95a6",
       "width": 2560,
       "height": 1440,
-      "size": 509361,
-      "uploadedDate": "2019-08-27T10:35:47.670Z"
+      "size": 586904,
+      "uploadedDate": "2022-11-09T16:15:21.484Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/calluna/Control_Portrait_Storefront_1200X1600_1200x1600-456c920cae7a0aa9b36670cd5e1237a1",
+      "md5": "456c920cae7a0aa9b36670cd5e1237a1",
+      "width": 1200,
+      "height": 1600,
+      "size": 455123,
+      "uploadedDate": "2022-11-09T16:15:10.270Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "calluna",
   "status": "ACTIVE",
   "creationDate": "2019-02-28T13:58:39.728Z",
-  "lastModifiedDate": "2020-08-27T14:49:37.702Z",
+  "lastModifiedDate": "2022-11-09T16:15:30.070Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -92,11 +92,13 @@
       "versionTitle": ""
     }
   ],
-  "developer": "505 Games S.r.l.",
+  "developer": "505 Games",
   "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

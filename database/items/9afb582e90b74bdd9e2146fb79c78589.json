@@ -4,31 +4,22 @@
   "description": "Control",
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/calluna/item/CONTROL_logo_shadow-670x212-676c3d62788f269f00819451130394e3.png",
-      "md5": "676c3d62788f269f00819451130394e3",
-      "width": 670,
-      "height": 212,
-      "size": 28205,
-      "uploadedDate": "2019-03-21T15:32:41.157Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/calluna/item/control_game_page_promotion_2560x1440-2560x1440-0939cd986172378295469e23006d560e.jpg",
-      "md5": "0939cd986172378295469e23006d560e",
+      "url": "https://cdn1.epicgames.com/item/calluna/Control_Landscape_Image_2560X1440_2560x1440-ec7b2eb03bb70f61d17ed01fa76d95a6",
+      "md5": "ec7b2eb03bb70f61d17ed01fa76d95a6",
       "width": 2560,
       "height": 1440,
-      "size": 509361,
-      "uploadedDate": "2019-08-27T10:35:47.670Z"
+      "size": 586904,
+      "uploadedDate": "2022-11-09T16:14:30.892Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/calluna/item/Control_Store_Portrait_Promo_1280x1420-1280x1420-5003d1e36d0508ab62bebfa676670369.jpg",
-      "md5": "5003d1e36d0508ab62bebfa676670369",
-      "width": 1280,
-      "height": 1420,
-      "size": 173692,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/item/calluna/Control_Portrait_Storefront_1200X1600_1200x1600-456c920cae7a0aa9b36670cd5e1237a1",
+      "md5": "456c920cae7a0aa9b36670cd5e1237a1",
+      "width": 1200,
+      "height": 1600,
+      "size": 455123,
+      "uploadedDate": "2022-11-09T16:14:25.269Z"
     }
   ],
   "categories": [
@@ -42,7 +33,7 @@
   "namespace": "calluna",
   "status": "ACTIVE",
   "creationDate": "2019-09-09T16:35:36.400Z",
-  "lastModifiedDate": "2020-09-09T23:58:42.026Z",
+  "lastModifiedDate": "2022-11-09T16:14:38.771Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -103,5 +94,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
