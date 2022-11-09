@@ -4,31 +4,22 @@
   "description": "Journey To The Savage Planet",
   "keyImages": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/oleander/item/JTTSP_image-340x440-9ea78ab53cc23c54bd3f7d574c19e0de.jpg",
-      "md5": "9ea78ab53cc23c54bd3f7d574c19e0de",
-      "width": 340,
-      "height": 440,
-      "size": 151857,
-      "uploadedDate": "2019-12-20T00:16:53.635Z"
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/oleander/JTTSP_Landscape_Image_2560X1440_2560x1440-ffdd4fd9863cf7faaeac8cd7e8a6bbe0",
+      "md5": "ffdd4fd9863cf7faaeac8cd7e8a6bbe0",
+      "width": 2560,
+      "height": 1440,
+      "size": 1034867,
+      "uploadedDate": "2022-11-09T21:50:16.204Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/oleander/item/JTTSP_image-340x440-9ea78ab53cc23c54bd3f7d574c19e0de.jpg",
-      "md5": "9ea78ab53cc23c54bd3f7d574c19e0de",
-      "width": 340,
-      "height": 440,
-      "size": 151857,
-      "uploadedDate": "2019-12-20T00:17:09.210Z"
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/oleander/item/JTTSP_image-340x440-9ea78ab53cc23c54bd3f7d574c19e0de.jpg",
-      "md5": "9ea78ab53cc23c54bd3f7d574c19e0de",
-      "width": 340,
-      "height": 440,
-      "size": 151857,
-      "uploadedDate": "2019-12-20T00:17:43.148Z"
+      "url": "https://cdn1.epicgames.com/item/oleander/JTTSP_Portrait_Storefront_1200X1600_1200x1600-f58bcd2b76429be1313d10e9f63143a9",
+      "md5": "f58bcd2b76429be1313d10e9f63143a9",
+      "width": 1200,
+      "height": 1600,
+      "size": 542346,
+      "uploadedDate": "2022-11-09T21:50:13.689Z"
     }
   ],
   "categories": [
@@ -42,7 +33,7 @@
   "namespace": "oleander",
   "status": "ACTIVE",
   "creationDate": "2019-03-11T18:40:01.143Z",
-  "lastModifiedDate": "2020-03-18T18:54:42.287Z",
+  "lastModifiedDate": "2022-11-09T21:50:21.470Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -95,6 +86,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
