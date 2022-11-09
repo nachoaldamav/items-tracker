@@ -4,31 +4,22 @@
   "description": "ABZU",
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/7af7476ff9eb4a8d9cd9d6486224de76/item/AbzuLogo-3366x1158-bb53cbd189bef0cebbc1eece00eaa96a.png",
-      "md5": "bb53cbd189bef0cebbc1eece00eaa96a",
-      "width": 3366,
-      "height": 1158,
-      "size": 62869,
-      "uploadedDate": "2019-08-20T17:16:57.763Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/7af7476ff9eb4a8d9cd9d6486224de76/item/Abzu_PRIMARYPROMO_2580x1450-2580x1450-1df5bc4d1ebbf73ff8e4e1fdb70011d0.jpg",
-      "md5": "1df5bc4d1ebbf73ff8e4e1fdb70011d0",
-      "width": 2580,
-      "height": 1450,
-      "size": 273765,
-      "uploadedDate": "2019-08-20T17:17:22.107Z"
+      "url": "https://cdn1.epicgames.com/item/7af7476ff9eb4a8d9cd9d6486224de76/ABZU_Landscape_Image_2560X1440_2560x1440-a0bfb5f58d2c4282591408cb1d38f391",
+      "md5": "a0bfb5f58d2c4282591408cb1d38f391",
+      "width": 2560,
+      "height": 1440,
+      "size": 889754,
+      "uploadedDate": "2022-11-09T14:57:29.282Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/7af7476ff9eb4a8d9cd9d6486224de76/item/Abzu_PORTRAITPROMO_1280x1450-1280x1450-f4f02e4e83f889842dc7e47e9e662b58.jpg",
-      "md5": "f4f02e4e83f889842dc7e47e9e662b58",
-      "width": 1280,
-      "height": 1450,
-      "size": 176117,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/item/7af7476ff9eb4a8d9cd9d6486224de76/ABZU_Portrait_Storefront_1200X1600_1200x1600-61df06244a496c82f3ac231174c1b1f5",
+      "md5": "61df06244a496c82f3ac231174c1b1f5",
+      "width": 1200,
+      "height": 1600,
+      "size": 603920,
+      "uploadedDate": "2022-11-09T14:57:26.176Z"
     }
   ],
   "categories": [
@@ -45,7 +36,7 @@
   "namespace": "7af7476ff9eb4a8d9cd9d6486224de76",
   "status": "ACTIVE",
   "creationDate": "2019-06-03T20:59:05.267Z",
-  "lastModifiedDate": "2019-11-19T17:02:09.753Z",
+  "lastModifiedDate": "2022-11-09T14:57:35.126Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -89,12 +80,14 @@
       "dateAdded": "2019-06-03T00:00:00.000Z"
     }
   ],
-  "developer": "505 Games S.r.l.",
+  "developer": "505 Games",
   "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }

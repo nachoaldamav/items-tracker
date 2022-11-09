@@ -36,7 +36,7 @@
   "namespace": "7af7476ff9eb4a8d9cd9d6486224de76",
   "status": "ACTIVE",
   "creationDate": "2019-06-03T20:59:05.338Z",
-  "lastModifiedDate": "2019-09-05T14:57:55.805Z",
+  "lastModifiedDate": "2022-11-09T14:58:57.208Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -60,11 +60,13 @@
       "dateAdded": "2019-06-03T00:00:00.000Z"
     }
   ],
-  "developer": "505 Games S.r.l.",
+  "developer": "505 Games",
   "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
