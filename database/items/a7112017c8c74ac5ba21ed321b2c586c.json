@@ -34,12 +34,20 @@
   ],
   "namespace": "9510e329e4df4d0fbf123fc898cf3c21",
   "status": "ACTIVE",
-  "creationDate": "2022-02-21T18:00:51.777Z",
-  "lastModifiedDate": "2022-02-21T18:00:51.777Z",
+  "creationDate": "2022-02-14T15:48:02.335Z",
+  "lastModifiedDate": "2022-10-28T11:51:52.728Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Atomic Wolf/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Fire Commander*"
+    },
     "FolderName": {
       "type": "STRING",
-      "value": "FireCommanderTF5zu"
+      "value": "FireCommander"
     }
   },
   "entitlementName": "a7112017c8c74ac5ba21ed321b2c586c",
@@ -47,13 +55,17 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "1a7d52542eeb4e85af965df7e3b25fe5",
-      "appId": "89f59c8eec4b46baa88e908830cbe619"
+      "id": "66190d56211c4ea79961d81aceb9fd8b",
+      "appId": "89f59c8eec4b46baa88e908830cbe619",
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Movie Games S.A.",
   "developerId": "o-qlaqdhwauavrqmfqdyww93u2eevfuq",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
