@@ -51,11 +51,21 @@
   ],
   "namespace": "be69d6b9214f4bc594c4cb1cd310a553",
   "status": "ACTIVE",
-  "creationDate": "2022-07-21T20:24:24.568Z",
-  "lastModifiedDate": "2022-07-21T20:24:24.568Z",
+  "creationDate": "2022-07-21T16:19:58.146Z",
+  "lastModifiedDate": "2022-11-11T10:18:21.118Z",
+  "customAttributes": {},
   "entitlementName": "beb570c3866542eebb4351781a6f01e0",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d32da62b7c07489ab4630bc8c9f34618",
+      "appId": "151bbf1f51594189990f68915de9e6e4",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
   "developer": "Freedom Games",
   "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
   "endOfSupport": false,
