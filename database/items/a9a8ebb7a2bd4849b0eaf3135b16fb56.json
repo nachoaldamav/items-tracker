@@ -2,26 +2,7 @@
   "id": "a9a8ebb7a2bd4849b0eaf3135b16fb56",
   "title": "WombatSurplus",
   "description": "WombatSurplus",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/wombat/item/wwz_logo_400x400-400x400-0dc2a56a36635998206f055028192c7a-400x400-0dc2a56a36635998206f055028192c7a-400x400-0dc2a56a36635998206f055028192c7a.png",
-      "md5": "0dc2a56a36635998206f055028192c7a",
-      "width": 400,
-      "height": 400,
-      "size": 36562,
-      "uploadedDate": "2019-05-22T16:02:47.288Z"
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/wombat/item/PrimaryPromoImage_2580x1450-2580x1450-5e1361a6f3375c53f02c60efb73cdf4d-2580x1450-5e1361a6f3375c53f02c60efb73cdf4d.jpg",
-      "md5": "5e1361a6f3375c53f02c60efb73cdf4d",
-      "width": 2580,
-      "height": 1450,
-      "size": 121342,
-      "uploadedDate": "2019-05-22T16:02:56.841Z"
-    }
-  ],
+  "keyImages": [],
   "categories": [
     {
       "path": "games"
@@ -33,7 +14,7 @@
   "namespace": "wombat",
   "status": "ACTIVE",
   "creationDate": "2019-05-22T13:28:03.930Z",
-  "lastModifiedDate": "2021-09-21T13:00:30.165Z",
+  "lastModifiedDate": "2022-11-16T20:05:22.554Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -66,5 +47,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
