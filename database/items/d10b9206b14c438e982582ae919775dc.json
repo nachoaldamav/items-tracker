@@ -5,39 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/d0545b136bb042fb9014e72b6af748f6/item/GhostbustersRemastered_PrimaryPromo-2580x1456-aad1aae4cd333521188e30a9fe1c64fe.jpg",
-      "md5": "aad1aae4cd333521188e30a9fe1c64fe",
-      "width": 2580,
-      "height": 1456,
-      "size": 356282,
-      "uploadedDate": "2019-05-30T12:01:10.071Z"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/d0545b136bb042fb9014e72b6af748f6/item/GhostbustersRemastered_GameIcon-400x400-9a750bb7b54f3be78ea16ce36c2426c4.png",
-      "md5": "9a750bb7b54f3be78ea16ce36c2426c4",
-      "width": 400,
-      "height": 400,
-      "size": 35965,
-      "uploadedDate": "2019-05-30T12:02:30.308Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/d0545b136bb042fb9014e72b6af748f6/item/EGS_Saber_GhostbustersRemastered_IC1-1850x782-1ad7ba4f068ae191ee923147b38f9e69.png",
-      "md5": "1ad7ba4f068ae191ee923147b38f9e69",
-      "width": 1850,
-      "height": 782,
-      "size": 183683,
-      "uploadedDate": "2019-10-07T21:57:21.995Z"
+      "url": "https://cdn1.epicgames.com/item/d0545b136bb042fb9014e72b6af748f6/GB_Landscape_Offer_Image_2560_x_1440_2560x1440-dcfc9464f41731a51e0fb6d221e9da32",
+      "md5": "dcfc9464f41731a51e0fb6d221e9da32",
+      "width": 2560,
+      "height": 1440,
+      "size": 1005971,
+      "uploadedDate": "2022-11-16T18:59:11.847Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/d0545b136bb042fb9014e72b6af748f6/item/GhostbustersRemastered_PortraitPromo-1288x1450-aa3c6e69b8d6500702edc6d1bb07fa00.jpg",
-      "md5": "aa3c6e69b8d6500702edc6d1bb07fa00",
-      "width": 1288,
-      "height": 1450,
-      "size": 172990,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/item/d0545b136bb042fb9014e72b6af748f6/GB_tall_image_1200_x_1600_1200x1600-6ef33922151cbfead3cae76161d0d6f6",
+      "md5": "6ef33922151cbfead3cae76161d0d6f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 936615,
+      "uploadedDate": "2022-11-16T18:59:09.681Z"
     }
   ],
   "categories": [
@@ -51,7 +33,7 @@
   "namespace": "d0545b136bb042fb9014e72b6af748f6",
   "status": "ACTIVE",
   "creationDate": "2019-04-17T17:49:05.661Z",
-  "lastModifiedDate": "2019-11-19T17:02:46.895Z",
+  "lastModifiedDate": "2022-11-16T18:59:17.756Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -104,6 +86,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
