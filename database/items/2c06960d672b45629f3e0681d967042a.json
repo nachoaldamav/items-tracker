@@ -14,12 +14,12 @@
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/72bdc702b4974024a69a5eb718a7a135/item/ACU_Portrait-1280x1420-6c61b3ddd4febe4ab5e9eb24865ee42f.png",
-      "md5": "6c61b3ddd4febe4ab5e9eb24865ee42f",
-      "width": 1280,
-      "height": 1420,
-      "size": 3098940,
-      "uploadedDate": "2020-02-21T20:54:30.627Z"
+      "url": "https://cdn1.epicgames.com/item/72bdc702b4974024a69a5eb718a7a135/ACUnityStandardPortrait_1200x1600-9b1ee825bd7c781dfca625f60d5db91a",
+      "md5": "9b1ee825bd7c781dfca625f60d5db91a",
+      "width": 1200,
+      "height": 1600,
+      "size": 349729,
+      "uploadedDate": "2022-11-18T17:26:51.780Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "72bdc702b4974024a69a5eb718a7a135",
   "status": "ACTIVE",
   "creationDate": "2020-02-10T04:58:42.022Z",
-  "lastModifiedDate": "2020-03-10T14:13:14.219Z",
+  "lastModifiedDate": "2022-11-18T17:26:56.011Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -99,5 +99,6 @@
   "endOfSupport": false,
   "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }

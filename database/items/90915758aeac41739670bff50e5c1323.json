@@ -23,12 +23,12 @@
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/anise/item/AC3R_Epic_Store_Portrait_Promo_1280x1420-1280x1420-ac0b4f85c023a2bacb1ebf0510a8c1d3.jpg",
-      "md5": "ac0b4f85c023a2bacb1ebf0510a8c1d3",
-      "width": 1280,
-      "height": 1420,
-      "size": 252693,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/item/anise/AC3Remastered_Store_Portrait_1200x1600_1200x1600-9c929e1f34aac0f0a40fc4b708f53951",
+      "md5": "9c929e1f34aac0f0a40fc4b708f53951",
+      "width": 1200,
+      "height": 1600,
+      "size": 732687,
+      "uploadedDate": "2022-11-18T17:32:00.627Z"
     }
   ],
   "categories": [
@@ -42,7 +42,7 @@
   "namespace": "anise",
   "status": "ACTIVE",
   "creationDate": "2019-04-02T19:23:29.881Z",
-  "lastModifiedDate": "2020-02-05T18:05:59.442Z",
+  "lastModifiedDate": "2022-11-18T17:32:49.615Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
@@ -119,6 +119,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
