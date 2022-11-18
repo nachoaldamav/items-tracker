@@ -13,15 +13,6 @@
       "uploadedDate": "2019-11-18T23:16:43.152Z"
     },
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/camellia/item/Store_Portrait_Promo_1280x1420-1280x1420-42263aa198d96eb22f8a90e26021db28.jpg",
-      "md5": "42263aa198d96eb22f8a90e26021db28",
-      "width": 1280,
-      "height": 1420,
-      "size": 225166,
-      "uploadedDate": "2019-11-18T23:17:00.104Z"
-    },
-    {
       "type": "DieselGameBoxLogo",
       "url": "https://cdn1.epicgames.com/camellia/item/ACOrigins_Color_1000x375-1000x375-26c55748d7937aebc02e8084b7fa4f06.png",
       "md5": "26c55748d7937aebc02e8084b7fa4f06",
@@ -29,6 +20,15 @@
       "height": 375,
       "size": 392238,
       "uploadedDate": "2019-11-18T23:17:49.718Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/camellia/ACOrigins_STD_Store_Portrait_1200x1600_1200x1600-4a79f9f393f7a3a9e5be3a0ae581f3d5",
+      "md5": "4a79f9f393f7a3a9e5be3a0ae581f3d5",
+      "width": 1200,
+      "height": 1600,
+      "size": 539598,
+      "uploadedDate": "2022-11-18T17:37:04.740Z"
     }
   ],
   "categories": [
@@ -42,7 +42,7 @@
   "namespace": "camellia",
   "status": "ACTIVE",
   "creationDate": "2019-02-08T21:51:12.594Z",
-  "lastModifiedDate": "2022-05-26T19:28:11.460Z",
+  "lastModifiedDate": "2022-11-18T17:37:23.742Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
