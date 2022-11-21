@@ -5,24 +5,6 @@
   "technicalDetails": "DLC 2",
   "keyImages": [
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/snapdragon/item/Metro_PrimaryPromo_update-2580x1450-0e5b7a55fb64f2b4ab1a46455a9293e0.jpg",
-      "md5": "0e5b7a55fb64f2b4ab1a46455a9293e0",
-      "width": 2580,
-      "height": 1450,
-      "size": 580337,
-      "uploadedDate": "2019-02-14T22:36:48.356Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/snapdragon/item/MetroExodus_GameLogo_White_Update-1920x977-f10c341ff6f51bcc2fa17c53a1ecd025.jpg",
-      "md5": "f10c341ff6f51bcc2fa17c53a1ecd025",
-      "width": 1920,
-      "height": 977,
-      "size": 163371,
-      "uploadedDate": "2019-03-15T03:37:51.031Z"
-    },
-    {
       "type": "ESRB",
       "url": "https://cdn1.epicgames.com/snapdragon/item/ESRB_MetroExodus_M-842x404-ce507cc45e2abb059dadee1fd4cc397c.png",
       "md5": "ce507cc45e2abb059dadee1fd4cc397c",
@@ -30,6 +12,24 @@
       "height": 404,
       "size": 69269,
       "uploadedDate": "2019-04-23T18:56:10.621Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/undefined",
+      "md5": "6fdc4878c639d022e1dfc1851623594a",
+      "width": 2560,
+      "height": 1440,
+      "size": 6065760,
+      "uploadedDate": "2022-11-21T18:52:39.387Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/snapdragon/metro_exodus_epic_tile_1200x1600_1200x1600-bfecd8f57c04dac1b5a772d050bcfc39",
+      "md5": "bfecd8f57c04dac1b5a772d050bcfc39",
+      "width": 1200,
+      "height": 1600,
+      "size": 3676665,
+      "uploadedDate": "2022-11-21T18:52:36.294Z"
     }
   ],
   "categories": [
@@ -46,7 +46,7 @@
   "namespace": "snapdragon",
   "status": "ACTIVE",
   "creationDate": "2019-01-22T20:24:55.920Z",
-  "lastModifiedDate": "2022-09-20T15:12:21.989Z",
+  "lastModifiedDate": "2022-11-21T18:52:42.648Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
