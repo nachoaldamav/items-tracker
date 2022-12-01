@@ -35,11 +35,11 @@
   "namespace": "62f99b78af024705aa761fb0f448d301",
   "status": "ACTIVE",
   "creationDate": "2022-04-11T08:58:03.164Z",
-  "lastModifiedDate": "2022-08-18T13:06:46.475Z",
+  "lastModifiedDate": "2022-11-22T18:41:18.582Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "DeflectorgYzcO"
+      "value": "Deflector"
     }
   },
   "entitlementName": "67ccc99bb5c64eb2802aeedfa6f540c3",
@@ -47,7 +47,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "0829752efc504fa9b5b64709d8d2414e",
+      "id": "0136e84ccdb44b37978b0d7ce5095e11",
       "appId": "eea30556649b419c9fcd664efac4c0c5",
       "platform": [
         "Windows"
@@ -57,6 +57,7 @@
   "developer": "SUPER DOT COM LTD",
   "developerId": "o-gpue2pju6udkz4r6b2z52lrswm9nb7",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
