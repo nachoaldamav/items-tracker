@@ -36,7 +36,7 @@
   "namespace": "2744acda6a2e493e9894b389b6564df7",
   "status": "ACTIVE",
   "creationDate": "2019-06-13T17:18:24.273Z",
-  "lastModifiedDate": "2022-11-08T17:35:40.382Z",
+  "lastModifiedDate": "2022-12-02T17:11:53.918Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -56,7 +56,7 @@
     },
     "UseAccessControl": {
       "type": "STRING",
-      "value": "true"
+      "value": "false"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -95,5 +95,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
