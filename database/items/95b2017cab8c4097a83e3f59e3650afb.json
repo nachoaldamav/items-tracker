@@ -24,19 +24,13 @@
   ],
   "categories": [
     {
-      "path": "public"
-    },
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "path": "addons"
     }
   ],
   "namespace": "cd14dcaa4f3443f19f7169a980559c62",
   "status": "ACTIVE",
   "creationDate": "2020-06-04T17:09:36.390Z",
-  "lastModifiedDate": "2021-05-24T21:29:26.832Z",
+  "lastModifiedDate": "2022-12-06T22:18:42.070Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -71,5 +65,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

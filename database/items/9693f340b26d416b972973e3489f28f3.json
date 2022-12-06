@@ -5,22 +5,13 @@
   "keyImages": [],
   "categories": [
     {
-      "path": "public"
-    },
-    {
-      "path": "games"
-    },
-    {
-      "path": "dlc"
-    },
-    {
-      "path": "applications"
+      "path": "addons"
     }
   ],
   "namespace": "cd14dcaa4f3443f19f7169a980559c62",
   "status": "ACTIVE",
   "creationDate": "2020-01-24T16:09:09.291Z",
-  "lastModifiedDate": "2021-05-24T21:29:26.832Z",
+  "lastModifiedDate": "2022-12-06T22:24:25.710Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -67,5 +58,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
