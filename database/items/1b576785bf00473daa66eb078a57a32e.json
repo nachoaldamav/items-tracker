@@ -32,7 +32,7 @@
   "namespace": "poodle",
   "status": "ACTIVE",
   "creationDate": "2020-06-30T18:01:41.823Z",
-  "lastModifiedDate": "2021-08-04T14:20:11.966Z",
+  "lastModifiedDate": "2022-12-07T13:53:17.608Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -45,6 +45,10 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CanSkipCabinedWarning": {
+      "type": "STRING",
+      "value": "true"
     },
     "egs.library.display_version": {
       "type": "STRING",
