@@ -14,7 +14,7 @@
   "namespace": "aeac94c7a11048758064b82f8f8d20ed",
   "status": "ACTIVE",
   "creationDate": "2019-10-04T14:32:24.251Z",
-  "lastModifiedDate": "2022-10-25T06:59:08.238Z",
+  "lastModifiedDate": "2022-12-09T18:22:12.185Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -24,6 +24,7 @@
   "entitlementName": "08e68a8960d4417e9d30ef8a6489df4c",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "TaleWorlds Entertainment",
   "developerId": "o-e2fanamv6wpuy3gpyyscsnzjth7hrg",
   "eulaIds": [
@@ -31,5 +32,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
