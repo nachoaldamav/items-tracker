@@ -13,7 +13,7 @@
   "namespace": "3428aac705b44d88beb8334780fa33bd",
   "status": "ACTIVE",
   "creationDate": "2021-03-31T23:06:18.339Z",
-  "lastModifiedDate": "2022-12-08T16:00:25.149Z",
+  "lastModifiedDate": "2022-12-09T15:54:48.302Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +23,15 @@
   "entitlementName": "6b395c842b4344f0b2aadd2bfe6b3ffa",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Covalent Media dba Scavengers Studio",
   "developerId": "o-8ykq8y3hshjj6nkjujjfwj9cfa5g6f",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
