@@ -35,7 +35,7 @@
   "namespace": "poodle",
   "status": "ACTIVE",
   "creationDate": "2022-10-24T14:37:58.969Z",
-  "lastModifiedDate": "2022-12-12T13:21:29.668Z",
+  "lastModifiedDate": "2022-12-13T17:06:35.911Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -79,11 +79,14 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "cb619223fad14959a89d14e94fbebbf7",
+      "id": "a6e0ceff0af840a382cb65d663e36aca",
       "appId": "f56e8672dac44fe68b79e81be2c95114",
       "compatibleApps": [],
-      "platform": [],
-      "dateAdded": "2022-10-24T16:34:30.733Z"
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2022-10-24T16:34:00.000Z"
     }
   ],
   "developer": "Epic Games",
