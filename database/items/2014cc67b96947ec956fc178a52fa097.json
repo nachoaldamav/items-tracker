@@ -1,27 +1,27 @@
 {
   "id": "2014cc67b96947ec956fc178a52fa097",
   "title": "Kardboard Kings",
-  "description": "Kardboard Kings",
+  "description": "Open your own Card shop by the seaside! Buy, trade and sell Cards, OR keep them for your own collection! Earn reputation with customers, beat your shop goals, unlock new decorations, and host exciting events to bring everyone to the best Card shop in town!",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/16244a18d39c4d30919ead91c7860397/download-kardboard-kings-offer-1r1oo.jpg",
-      "md5": "e5ac0a0cea9ee9d5fa1528a99b4919ea",
-      "width": 1200,
-      "height": 1600,
-      "size": 568381,
-      "uploadedDate": "2022-01-20T20:10:03.924Z",
-      "alt": "Download Kardboard Kings Offer"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/16244a18d39c4d30919ead91c7860397/kardboard-kings-offer-766rb.jpg",
-      "md5": "3f0727f8e2d46657c9a699658724e555",
+      "url": "https://cdn1.epicgames.com/spt-assets/16244a18d39c4d30919ead91c7860397/kardboard-kings-8lyrd.png",
+      "md5": "f49baa297dfeb3b839bd41456f8ebc68",
       "width": 2560,
       "height": 1440,
-      "size": 827517,
-      "uploadedDate": "2022-01-25T22:45:37.706Z",
+      "size": 2120431,
+      "uploadedDate": "2022-12-14T19:04:06.049Z",
       "alt": "Kardboard Kings Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/16244a18d39c4d30919ead91c7860397/kardboard-kings-1tup2.png",
+      "md5": "26574a2a4ef0e359102a806e72e8159a",
+      "width": 1200,
+      "height": 1600,
+      "size": 421178,
+      "uploadedDate": "2022-12-14T19:04:01.279Z",
+      "alt": "Download Kardboard Kings Offer"
     }
   ],
   "categories": [
@@ -34,8 +34,8 @@
   ],
   "namespace": "22a9bc193ad94ab78155b5c2f9541e6b",
   "status": "ACTIVE",
-  "creationDate": "2022-02-04T02:54:43.886Z",
-  "lastModifiedDate": "2022-02-18T09:16:56.351Z",
+  "creationDate": "2022-01-12T22:33:03.320Z",
+  "lastModifiedDate": "2022-12-14T19:04:24.938Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,10 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "3dbdbbb11cf5482d8d9fa24c3c588a84",
+      "id": "81ede000e6d148a3bc0354154d3fe775",
       "appId": "985373b4b4754b18b2f88ca100040ccc",
       "platform": [
-        "Windows"
+        "Windows",
+        "Win32"
       ]
     }
   ],
