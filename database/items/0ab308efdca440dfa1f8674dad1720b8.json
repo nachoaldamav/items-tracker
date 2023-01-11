@@ -16,11 +16,15 @@
   "namespace": "3428aac705b44d88beb8334780fa33bd",
   "status": "ACTIVE",
   "creationDate": "2021-03-31T23:06:18.924Z",
-  "lastModifiedDate": "2021-07-19T14:54:12.444Z",
+  "lastModifiedDate": "2023-01-11T19:24:52.258Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Sea/Saved/SaveGames/{EpicID}/"
     },
     "FolderName": {
       "type": "STRING",
@@ -47,6 +51,7 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
