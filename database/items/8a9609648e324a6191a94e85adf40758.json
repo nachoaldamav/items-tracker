@@ -4,31 +4,22 @@
   "description": "The Jackbox Party Pack 2",
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/lilac/item/TJPP2_GameLogo_White-1429x1920-3912a7410318c5ece06f3e170f75a5f5.png",
-      "md5": "3912a7410318c5ece06f3e170f75a5f5",
-      "width": 1429,
-      "height": 1920,
-      "size": 456594,
-      "uploadedDate": "2019-02-04T14:17:00.979Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/lilac/item/TJBPP2_PrimaryPromo-2580x1450-9ed1ba8321b65f3e985de184466a3e3b.jpg",
-      "md5": "9ed1ba8321b65f3e985de184466a3e3b",
-      "width": 2580,
-      "height": 1450,
-      "size": 404665,
-      "uploadedDate": "2019-02-07T15:57:05.855Z"
+      "url": "https://cdn1.epicgames.com/item/lilac/PP2_WideImage_2560x1440-8ae2959f6c8b13974dbe9be95da02c9c",
+      "md5": "8ae2959f6c8b13974dbe9be95da02c9c",
+      "width": 2560,
+      "height": 1440,
+      "size": 995616,
+      "uploadedDate": "2023-01-12T13:06:34.463Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/lilac/item/TJBPP2_Portrait Promo-1280x1420-13f45c4a4f1559afab585511bb07d68c.jpg",
-      "md5": "13f45c4a4f1559afab585511bb07d68c",
-      "width": 1280,
-      "height": 1420,
-      "size": 230149,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/item/lilac/PP2_TallImage_1200x1600-1192c1a4ea73678bd04ddd8a456fb602",
+      "md5": "1192c1a4ea73678bd04ddd8a456fb602",
+      "width": 1200,
+      "height": 1600,
+      "size": 924122,
+      "uploadedDate": "2023-01-12T13:06:37.142Z"
     }
   ],
   "categories": [
@@ -42,7 +33,7 @@
   "namespace": "lilac",
   "status": "ACTIVE",
   "creationDate": "2019-01-16T13:11:43.663Z",
-  "lastModifiedDate": "2019-11-19T17:03:51.480Z",
+  "lastModifiedDate": "2023-01-12T13:06:45.377Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -97,6 +88,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
