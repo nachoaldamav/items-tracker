@@ -36,7 +36,7 @@
   "namespace": "3428aac705b44d88beb8334780fa33bd",
   "status": "ACTIVE",
   "creationDate": "2021-03-31T23:06:18.637Z",
-  "lastModifiedDate": "2022-12-08T16:00:25.148Z",
+  "lastModifiedDate": "2023-01-12T15:25:25.343Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -49,6 +49,10 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Sea/Saved/SaveGames/{EpicID}/"
     },
     "UseAccessControl": {
       "type": "STRING",
