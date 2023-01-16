@@ -36,7 +36,7 @@
   "namespace": "4586d456108e4a03810c5927453ce6da",
   "status": "ACTIVE",
   "creationDate": "2021-03-25T14:45:28.640Z",
-  "lastModifiedDate": "2021-05-19T20:35:36.464Z",
+  "lastModifiedDate": "2023-01-16T20:01:59.645Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -72,16 +72,16 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "a358a5579bf0414b9323d1640684ee6a",
+      "id": "7e8e158b6ff74e7183418b7bd7d46a0e",
       "appId": "58d16c23be5c472995393173062c3679",
+      "compatibleApps": [],
       "platform": [
-        "Windows",
-        "Mac"
+        "Windows"
       ],
-      "dateAdded": "2021-03-25T15:13:42.135Z"
+      "dateAdded": "2021-03-25T15:13:00.000Z"
     }
   ],
-  "developer": "Fellow Traveller",
+  "developer": "Surprise Attack Pty Ltd DBA Fellow Traveller Games",
   "developerId": "o-22uq4lnmzc6kmlbbaf5gp8yvysnn3t",
   "eulaIds": [
     "egstore"
