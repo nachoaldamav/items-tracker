@@ -16,7 +16,7 @@
   "namespace": "84f45b7676af47d9adecd3b636466f89",
   "status": "ACTIVE",
   "creationDate": "2019-08-10T20:01:17.594Z",
-  "lastModifiedDate": "2022-01-13T16:31:24.836Z",
+  "lastModifiedDate": "2023-01-19T17:54:29.037Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -32,8 +32,13 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "0c2a2ab443d541088eba8b5fbf4ed29f",
-      "appId": "MagpieStaging"
+      "id": "259f89e0e554447085f20243f552d9f7",
+      "appId": "MagpieStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2023-01-19T17:54:27.853Z"
     }
   ],
   "developer": "Ubisoft Entertainment",
@@ -42,5 +47,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
