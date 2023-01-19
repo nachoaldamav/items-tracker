@@ -2,26 +2,7 @@
   "id": "fa5d993477844c32b25126b4511f928b",
   "title": "Tchia audience",
   "description": "Tchia audience",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/2e09c1d223094f3798f63873548c9454/EGS_Tchia_Awaceb_S2_1200x1600-0b6219d195341483aa1842847cea8b6e",
-      "md5": "0b6219d195341483aa1842847cea8b6e",
-      "width": 1200,
-      "height": 1600,
-      "size": 778287,
-      "uploadedDate": "2021-10-27T12:43:18.560Z"
-    },
-    {
-      "type": "DieselGameBoxWide",
-      "url": "https://cdn1.epicgames.com/item/2e09c1d223094f3798f63873548c9454/EGS_Tchia_Awaceb_S1_2560x1440-016eb3125aeb3b5a50b83ee18b23a5b9",
-      "md5": "016eb3125aeb3b5a50b83ee18b23a5b9",
-      "width": 2560,
-      "height": 1440,
-      "size": 988778,
-      "uploadedDate": "2021-10-27T12:43:23.067Z"
-    }
-  ],
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -33,7 +14,7 @@
   "namespace": "2e09c1d223094f3798f63873548c9454",
   "status": "ACTIVE",
   "creationDate": "2021-05-14T00:34:33.788Z",
-  "lastModifiedDate": "2022-12-14T15:49:41.190Z",
+  "lastModifiedDate": "2023-01-19T17:19:30.265Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -44,8 +25,8 @@
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
-  "developer": "Awaceb",
-  "developerId": "o-b9a47j63amncr26matvdcdbp9uhpve",
+  "developer": "Kepler Interactive",
+  "developerId": "o-yrjx9sk66ym9ktjnjml6qzsyjhczdz",
   "eulaIds": [
     "egstore"
   ],
