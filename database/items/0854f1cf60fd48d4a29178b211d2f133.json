@@ -15,12 +15,12 @@
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/catnip/item/2KGMKT_BL3_BOUNTY_OF_BLOOD_EPIC_1200x1600-1200x1600-75069b6d8e6cfdae09c12513eaae7edc.jpg",
-      "md5": "75069b6d8e6cfdae09c12513eaae7edc",
+      "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_BOUNTY_OF_BLOOD_EPIC_1200x1600_1200x1600-28138d6a86fc1d7e7a77e637c58dedb4",
+      "md5": "28138d6a86fc1d7e7a77e637c58dedb4",
       "width": 1200,
       "height": 1600,
-      "size": 958677,
-      "uploadedDate": "2020-06-25T14:08:17.838Z"
+      "size": 973711,
+      "uploadedDate": "2023-01-19T20:14:01.422Z"
     }
   ],
   "categories": [
@@ -37,7 +37,7 @@
   "namespace": "catnip",
   "status": "ACTIVE",
   "creationDate": "2020-02-19T22:44:20.732Z",
-  "lastModifiedDate": "2020-11-19T16:20:28.575Z",
+  "lastModifiedDate": "2023-01-19T21:12:26.553Z",
   "customAttributes": {
     "OwnershipToken": {
       "type": "STRING",
@@ -71,5 +71,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

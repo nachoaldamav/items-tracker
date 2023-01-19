@@ -12,6 +12,24 @@
       "height": 485,
       "size": 134137,
       "uploadedDate": "2020-01-07T22:54:48.310Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_NEONPACK_EPIC_SOCIAL_490X276-490x276-b5f500ee8adbaf2dee7bd03f2dfa8989dc858837_490x276-c323cae37a041c5fcf2ac318238c122f",
+      "md5": "c323cae37a041c5fcf2ac318238c122f",
+      "width": 490,
+      "height": 276,
+      "size": 77921,
+      "uploadedDate": "2023-01-19T17:38:48.181Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/catnip/2KGMKT_BL3_NEON_PACK_SONY_P34_16x9_MASTER_1200x1600_1200x1600-6934a8f8cf031afa2bbf191e5ee9c323",
+      "md5": "6934a8f8cf031afa2bbf191e5ee9c323",
+      "width": 1200,
+      "height": 1600,
+      "size": 912829,
+      "uploadedDate": "2023-01-19T17:38:53.407Z"
     }
   ],
   "categories": [
@@ -25,7 +43,8 @@
   "namespace": "catnip",
   "status": "ACTIVE",
   "creationDate": "2019-04-02T22:29:46.762Z",
-  "lastModifiedDate": "2021-04-08T16:59:49.648Z",
+  "lastModifiedDate": "2023-01-19T21:12:26.591Z",
+  "customAttributes": {},
   "entitlementName": "5ea1981df8cc49c68f4fe086b70f7bd8",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
@@ -37,5 +56,7 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
