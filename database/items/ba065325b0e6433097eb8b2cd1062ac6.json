@@ -16,11 +16,23 @@
   "namespace": "84f45b7676af47d9adecd3b636466f89",
   "status": "ACTIVE",
   "creationDate": "2019-08-10T20:01:17.594Z",
-  "lastModifiedDate": "2023-01-19T17:54:29.037Z",
+  "lastModifiedDate": "2023-01-23T14:12:37.195Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "73fe6050e68c4dae9483e768e63a5e43"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
     },
     "FolderName": {
       "type": "STRING",
