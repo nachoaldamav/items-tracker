@@ -24,7 +24,7 @@
   "namespace": "6af58339c2424644988e0fb83dfd9bd5",
   "status": "ACTIVE",
   "creationDate": "2020-06-16T17:49:58.821Z",
-  "lastModifiedDate": "2021-10-05T16:00:40.113Z",
+  "lastModifiedDate": "2023-01-23T22:58:33.542Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -34,6 +34,7 @@
   "entitlementName": "9b6991eafab14d20bea2b3faf91cbd11",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "NCSoft",
   "developerId": "o-k8ltvz7rz3r7b29xdtafqvdkhnj2ux",
   "eulaIds": [
@@ -42,5 +43,6 @@
   "endOfSupport": false,
   "esrbGameRatingValue": "RATING_PENDING",
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

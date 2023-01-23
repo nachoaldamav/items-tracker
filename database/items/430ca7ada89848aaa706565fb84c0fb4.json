@@ -15,7 +15,7 @@
   "namespace": "6af58339c2424644988e0fb83dfd9bd5",
   "status": "ACTIVE",
   "creationDate": "2020-09-25T23:54:46.042Z",
-  "lastModifiedDate": "2021-01-21T15:27:56.469Z",
+  "lastModifiedDate": "2023-01-23T22:57:51.289Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -25,6 +25,7 @@
   "entitlementName": "430ca7ada89848aaa706565fb84c0fb4",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "NCSoft",
   "developerId": "o-k8ltvz7rz3r7b29xdtafqvdkhnj2ux",
   "eulaIds": [
@@ -32,6 +33,7 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
