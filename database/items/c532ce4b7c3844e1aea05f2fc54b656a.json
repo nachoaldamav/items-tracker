@@ -16,11 +16,15 @@
   "namespace": "d12ae11a83c746c290e006a73438840f",
   "status": "ACTIVE",
   "creationDate": "2021-09-23T20:07:32.370Z",
-  "lastModifiedDate": "2022-05-10T16:55:22.752Z",
+  "lastModifiedDate": "2023-01-23T16:31:30.126Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/SURT/Rhythm Sprout/"
     },
     "FolderName": {
       "type": "STRING",
