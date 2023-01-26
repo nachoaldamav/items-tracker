@@ -1,0 +1,52 @@
+{
+  "id": "06a3cd4830b74f1a90e861d84f5d366c",
+  "title": "Pici Mod Stage",
+  "description": "Pici Mod Stage",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "50118b7f954e450f8823df1614b24e80",
+  "status": "ACTIVE",
+  "creationDate": "2023-01-26T18:17:58.568Z",
+  "lastModifiedDate": "2023-01-26T18:29:49.435Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "piciModTool"
+    }
+  },
+  "entitlementName": "06a3cd4830b74f1a90e861d84f5d366c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bece28b55f604b7d80e8eb5b4f451be1",
+      "appId": "808a939b6f9b4f0290039d096e4312e8",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2022-09-14T18:56:00.000Z"
+    }
+  ],
+  "developer": "EGFG LLC",
+  "developerId": "o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

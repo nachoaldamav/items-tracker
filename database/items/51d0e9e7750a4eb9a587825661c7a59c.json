@@ -1,0 +1,52 @@
+{
+  "id": "51d0e9e7750a4eb9a587825661c7a59c",
+  "title": "Pici Mod Dev",
+  "description": "Pici Mod Dev",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "50118b7f954e450f8823df1614b24e80",
+  "status": "ACTIVE",
+  "creationDate": "2023-01-26T18:16:43.495Z",
+  "lastModifiedDate": "2023-01-26T18:29:49.450Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "piciModTool"
+    }
+  },
+  "entitlementName": "51d0e9e7750a4eb9a587825661c7a59c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "910aebe09c2a4177b51a10b3e8b8eb89",
+      "appId": "05768f0f3cca4e1eaeafd6170508bd83",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2022-09-14T18:56:00.000Z"
+    }
+  ],
+  "developer": "EGFG LLC",
+  "developerId": "o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
