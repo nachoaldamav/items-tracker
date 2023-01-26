@@ -24,7 +24,7 @@
   "namespace": "04467b70295342a79381467353f23955",
   "status": "ACTIVE",
   "creationDate": "2019-05-05T20:52:24.526Z",
-  "lastModifiedDate": "2020-01-06T21:07:17.297Z",
+  "lastModifiedDate": "2023-01-26T02:06:11.838Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -34,12 +34,15 @@
   "entitlementName": "93f7525ce451493b89fed907c873c57d",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "developer": "Aspyr Media, Inc.",
-  "developerId": "o-dukzxsmt2q39w2xql6eb8vewd2bkc9",
+  "releaseInfo": [],
+  "developer": "Bloober Team",
+  "developerId": "o-8nzuqrvr3dvkn9l7dydvhkekqd3xa9",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
