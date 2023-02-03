@@ -5,30 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/be13f6c4fb11427fbf3313ce93b97cc0/item/Gungeon_PrimaryPromo-2560x1440-a34ca96251763ff6deb8529a4a39d0a8.jpg",
-      "md5": "a34ca96251763ff6deb8529a4a39d0a8",
+      "url": "https://cdn1.epicgames.com/item/be13f6c4fb11427fbf3313ce93b97cc0/EnterTheGungeon_S1_2560x1440_2560x1440-305a800f501f139c617c539c3a6176e6",
+      "md5": "305a800f501f139c617c539c3a6176e6",
       "width": 2560,
       "height": 1440,
-      "size": 1003833,
-      "uploadedDate": "2019-06-05T17:39:02.593Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/be13f6c4fb11427fbf3313ce93b97cc0/item/EnterTheGungeon_GameLogo-1031x353-bedda5b87f979bea3218672710f766b3.png",
-      "md5": "bedda5b87f979bea3218672710f766b3",
-      "width": 1031,
-      "height": 353,
-      "size": 76525,
-      "uploadedDate": "2019-06-05T17:40:29.715Z"
+      "size": 4585303,
+      "uploadedDate": "2023-02-03T19:21:04.091Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/be13f6c4fb11427fbf3313ce93b97cc0/item/Gungeon_PortraitPromo-1280x1440-16a72d4e2592d6a8eb57fbc059d7a4d2.jpg",
-      "md5": "16a72d4e2592d6a8eb57fbc059d7a4d2",
-      "width": 1280,
-      "height": 1440,
-      "size": 335344,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/item/be13f6c4fb11427fbf3313ce93b97cc0/EnterTheGungeon_S2_1200x1600_1200x1600-4d79aae1e860c191c706e4e8bfdef244",
+      "md5": "4d79aae1e860c191c706e4e8bfdef244",
+      "width": 1200,
+      "height": 1600,
+      "size": 2488758,
+      "uploadedDate": "2023-02-03T19:21:07.664Z"
     }
   ],
   "categories": [
@@ -45,7 +36,7 @@
   "namespace": "be13f6c4fb11427fbf3313ce93b97cc0",
   "status": "ACTIVE",
   "creationDate": "2019-05-30T21:56:59.325Z",
-  "lastModifiedDate": "2019-11-19T17:02:38.908Z",
+  "lastModifiedDate": "2023-02-03T19:22:08.630Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -61,7 +52,7 @@
     },
     "MonitorPresence": {
       "type": "STRING",
-      "value": "true"
+      "value": "false"
     },
     "CloudSaveFolder": {
       "type": "STRING",
@@ -83,6 +74,10 @@
       "type": "STRING",
       "value": "true"
     },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "true"
+    },
     "MaxSizeMB": {
       "type": "STRING",
       "value": "1000"
@@ -97,7 +92,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "cfda40e1431f4cd4a35cd0e1406e975b",
+      "id": "0512e22e2a4d4be7b424fd5a1d0aae15",
       "appId": "Garlic",
       "platform": [
         "Windows",
@@ -113,6 +108,7 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "selfRefundable": true,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
