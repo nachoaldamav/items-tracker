@@ -37,12 +37,16 @@
     "ACB": {
       "ratingSystem": "ACB",
       "gameRating": "MA 15+",
-      "title": " MA 15+"
+      "title": " MA 15+",
+      "isTrad": true,
+      "isIARC": false
     },
     "ESRB": {
       "ratingSystem": "ESRB",
       "gameRating": "MATURE",
-      "title": "MATURE 17+"
+      "title": "MATURE 17+",
+      "isTrad": true,
+      "isIARC": false
     }
   },
   "unsearchable": false

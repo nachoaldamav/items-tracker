@@ -38,7 +38,9 @@
     "ESRB": {
       "ratingSystem": "ESRB",
       "gameRating": "MATURE",
-      "title": "cristina test"
+      "title": "cristina test",
+      "isTrad": true,
+      "isIARC": false
     }
   },
   "requiresSecureAccount": true,
