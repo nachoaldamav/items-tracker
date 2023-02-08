@@ -1,7 +1,7 @@
 {
   "id": "c6432e3e9db145e2adac0eb1ebe8c89a",
   "title": "Blanc",
-  "description": "Blanc",
+  "description": "Blanc is an artistic cooperative adventure that follows the journey of a wolf cub and a fawn stranded in a vast, snowy wilderness. They must come together in an unlikely partnership to find their families.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,12 +34,12 @@
   ],
   "namespace": "e18be81f77f346dfbc4467f4ed715e27",
   "status": "ACTIVE",
-  "creationDate": "2022-06-28T12:52:53.927Z",
-  "lastModifiedDate": "2022-06-28T12:52:53.927Z",
+  "creationDate": "2022-05-12T16:55:53.637Z",
+  "lastModifiedDate": "2023-02-08T17:38:09.398Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "Blanco1CnV"
+      "value": "Blanc"
     }
   },
   "entitlementName": "c6432e3e9db145e2adac0eb1ebe8c89a",
@@ -47,13 +47,17 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "9a567a10e206441584f6ab0510edd907",
-      "appId": "761a4dca02af4716985fb70eec69e310"
+      "id": "ccdb431ad47449c2a644f7d35dffa3c8",
+      "appId": "761a4dca02af4716985fb70eec69e310",
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Gearbox Publishing",
   "developerId": "o-dcmk65hvycy3kndmqvfg3yn3up87jn",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
