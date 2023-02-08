@@ -35,8 +35,12 @@
   "namespace": "fa7346c113ff48d8b9a1b48f44a3a48e",
   "status": "ACTIVE",
   "creationDate": "2022-05-23T20:02:19.290Z",
-  "lastModifiedDate": "2023-01-24T19:45:43.068Z",
+  "lastModifiedDate": "2023-02-06T16:52:41.386Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/ShouldersOfGiants/Saved\\SaveGames/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "ShouldersofGiantsgXh1f"
@@ -47,7 +51,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "6d146b78d0624796922995312cd828d9",
+      "id": "bcb27461da2e42edab79ab01320ab5ed",
       "appId": "445c557ddb3a45f78a3c349d1cca6eb6",
       "platform": [
         "Windows",
