@@ -4,31 +4,22 @@
   "description": "Kine",
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/rose/item/EGS_CS_Kine_IC1_White-1181x651-d5d82b37397158bd63866bb9ad1c8adb.png",
-      "md5": "d5d82b37397158bd63866bb9ad1c8adb",
-      "width": 1181,
-      "height": 651,
-      "size": 19522,
-      "uploadedDate": "2019-08-01T18:02:37.929Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/rose/item/EGS_CS_Kine_N1_Quat-2560x1440-fbf3a74178a709192c9f90b1214f4dc3.jpg",
-      "md5": "fbf3a74178a709192c9f90b1214f4dc3",
+      "url": "https://cdn1.epicgames.com/item/rose/BrandedLandscape_2560x1440-e617a391cf56f5d69c83262c3a5bfc8a",
+      "md5": "e617a391cf56f5d69c83262c3a5bfc8a",
       "width": 2560,
       "height": 1440,
-      "size": 1197831,
-      "uploadedDate": "2019-08-13T18:42:59.807Z"
+      "size": 4467273,
+      "uploadedDate": "2023-02-10T18:32:27.759Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/rose/item/KineQuat_EGSStorefrontImage-1280x1440-d6654569827accce959ef0f9c97b0da8.jpg",
-      "md5": "d6654569827accce959ef0f9c97b0da8",
-      "width": 1280,
-      "height": 1440,
-      "size": 151630,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/item/rose/BrandedPortrait_1200x1600-edd893141f34b46b64c2b140778f7c6c",
+      "md5": "edd893141f34b46b64c2b140778f7c6c",
+      "width": 1200,
+      "height": 1600,
+      "size": 2300116,
+      "uploadedDate": "2023-02-10T18:32:25.061Z"
     }
   ],
   "categories": [
@@ -42,7 +33,7 @@
   "namespace": "rose",
   "status": "ACTIVE",
   "creationDate": "2019-03-18T15:19:54.165Z",
-  "lastModifiedDate": "2020-08-29T15:19:49.998Z",
+  "lastModifiedDate": "2023-02-10T18:33:15.343Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -96,5 +87,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
