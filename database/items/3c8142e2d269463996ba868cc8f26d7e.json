@@ -5,30 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/62d6f15b1bb345f6a42585b4c8c847a0/item/EGS_HeartMachine_HyperLightDrifter_Social_Landscape-1920x1080-311a8f7f974fdf4d1fb94284601abffc.jpg",
-      "md5": "311a8f7f974fdf4d1fb94284601abffc",
-      "width": 1920,
-      "height": 1080,
-      "size": 147394,
-      "uploadedDate": "2019-08-09T13:02:08.847Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/62d6f15b1bb345f6a42585b4c8c847a0/item/EGS_HeartMachine_HyperLightDrifter_IC1_Logo_White-1316x720-e8c1800fcc3481465e34432c0ce5ab6f.png",
-      "md5": "e8c1800fcc3481465e34432c0ce5ab6f",
-      "width": 1316,
-      "height": 720,
-      "size": 1575,
-      "uploadedDate": "2019-08-09T13:02:17.873Z"
+      "url": "https://cdn1.epicgames.com/item/62d6f15b1bb345f6a42585b4c8c847a0/HLD_EGS_Landscape_01_2560x1440-a3db983778bad2d614db75dbfe5bdd58",
+      "md5": "a3db983778bad2d614db75dbfe5bdd58",
+      "width": 2560,
+      "height": 1440,
+      "size": 708053,
+      "uploadedDate": "2023-02-10T22:29:34.532Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/62d6f15b1bb345f6a42585b4c8c847a0/item/EGS_HeartMachine_HyperLightDrifter_S2_StorePrimaryPromo_Portrait-1280x1440-5f0395b1be0e4b71c45ad057e0243cec.jpg",
-      "md5": "5f0395b1be0e4b71c45ad057e0243cec",
-      "width": 1280,
-      "height": 1440,
-      "size": 139507,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/item/62d6f15b1bb345f6a42585b4c8c847a0/HLD_EGS_Portrait_01_1200x1600-f023f12c6902b9d9042cc6ea9557a100",
+      "md5": "f023f12c6902b9d9042cc6ea9557a100",
+      "width": 1200,
+      "height": 1600,
+      "size": 463327,
+      "uploadedDate": "2023-02-10T22:29:31.689Z"
     }
   ],
   "categories": [
@@ -45,7 +36,7 @@
   "namespace": "62d6f15b1bb345f6a42585b4c8c847a0",
   "status": "ACTIVE",
   "creationDate": "2019-08-06T20:39:38.029Z",
-  "lastModifiedDate": "2019-11-19T17:02:56.895Z",
+  "lastModifiedDate": "2023-02-10T22:29:47.079Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -95,6 +86,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
