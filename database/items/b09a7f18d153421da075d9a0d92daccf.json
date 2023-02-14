@@ -24,7 +24,7 @@
   "namespace": "19078740fbcc4eada59a5a4ae7b3724c",
   "status": "ACTIVE",
   "creationDate": "2019-07-08T13:17:31.521Z",
-  "lastModifiedDate": "2019-08-13T14:47:03.347Z",
+  "lastModifiedDate": "2023-02-14T19:19:25.346Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -34,6 +34,7 @@
   "entitlementName": "b09a7f18d153421da075d9a0d92daccf",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "KO_OP",
   "developerId": "o-hsgwu456e63dkkgskeusntg93gey48",
   "eulaIds": [
@@ -41,6 +42,8 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
