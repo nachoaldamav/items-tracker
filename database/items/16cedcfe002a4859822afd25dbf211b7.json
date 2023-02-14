@@ -4,40 +4,22 @@
   "description": "The Walking Dead: A New Frontier",
   "keyImages": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/begonia/item/TWD3_GameIcon-400x400-6304e701fa33387d8487463c40c3f607.png",
-      "md5": "6304e701fa33387d8487463c40c3f607",
-      "width": 400,
-      "height": 400,
-      "size": 41952,
-      "uploadedDate": "2019-03-26T02:09:33.440Z"
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/begonia/WD301_Portrait_1200x1600_1200x1600-e9dcc54655e4f4274d01ba8682e246e5",
+      "md5": "e9dcc54655e4f4274d01ba8682e246e5",
+      "width": 1200,
+      "height": 1600,
+      "size": 3044908,
+      "uploadedDate": "2023-02-14T21:58:53.447Z"
     },
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/begonia/item/EGS_SKYBOUND_TWD3_1068x601-1068x601-f049413e8200bd6cffe66b1927df50f2.jpg",
-      "md5": "f049413e8200bd6cffe66b1927df50f2",
-      "width": 1068,
-      "height": 601,
-      "size": 121974,
-      "uploadedDate": "2019-03-26T02:09:41.569Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/begonia/item/WD3-Logo-600x425-d59ca44ca424e139ab104c4bfbacde84.png",
-      "md5": "d59ca44ca424e139ab104c4bfbacde84",
-      "width": 600,
-      "height": 425,
-      "size": 275514,
-      "uploadedDate": "2019-03-26T02:10:36.008Z"
-    },
-    {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/begonia/item/EGS_SKYBOUND_TWD3_1280x1440-1280x1440-735634f8d4978572669ddb3176e1e6ac.jpg",
-      "md5": "735634f8d4978572669ddb3176e1e6ac",
-      "width": 1280,
+      "url": "https://cdn1.epicgames.com/item/begonia/TWD3_EPIC_Landscape_2560x1440-7d401138937a13dcd9d5e1343b3de284",
+      "md5": "7d401138937a13dcd9d5e1343b3de284",
+      "width": 2560,
       "height": 1440,
-      "size": 111292,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "size": 365200,
+      "uploadedDate": "2023-02-14T22:02:08.851Z"
     }
   ],
   "categories": [
@@ -51,7 +33,7 @@
   "namespace": "begonia",
   "status": "ACTIVE",
   "creationDate": "2019-03-08T18:23:23.927Z",
-  "lastModifiedDate": "2019-11-19T17:03:59.382Z",
+  "lastModifiedDate": "2023-02-14T22:02:20.835Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -112,6 +94,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }

@@ -4,40 +4,22 @@
   "description": "The Walking Dead The Final Season",
   "keyImages": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ocelot/item/WD4-PORTRAIT-PROMO-1280x1420-223b26a43ddb24d89ea04dd9fe7a65ca.jpg",
-      "md5": "223b26a43ddb24d89ea04dd9fe7a65ca",
-      "width": 1280,
-      "height": 1420,
-      "size": 221415,
-      "uploadedDate": "2019-01-12T16:51:47.738Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/ocelot/item/WD4-GAME-PAGE-PROMOTION-1032x580-fc8d3354944365448c18712eaf5497c7.jpg",
-      "md5": "fc8d3354944365448c18712eaf5497c7",
-      "width": 1032,
-      "height": 580,
-      "size": 258526,
-      "uploadedDate": "2019-01-12T16:51:58.018Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/ocelot/item/WD4_GAME-LOGO_COLOR-604x431-a22d75c31995c89f405f8a1b7d7f84d5.png",
-      "md5": "a22d75c31995c89f405f8a1b7d7f84d5",
-      "width": 604,
-      "height": 431,
-      "size": 204380,
-      "uploadedDate": "2019-01-12T16:52:06.073Z"
+      "url": "https://cdn1.epicgames.com/item/ocelot/TWD4_EPIC_Landscape_2560x1440_2560x1440-a184a20da560550517881ad0639cb67e",
+      "md5": "a184a20da560550517881ad0639cb67e",
+      "width": 2560,
+      "height": 1440,
+      "size": 1283682,
+      "uploadedDate": "2023-02-14T22:31:26.248Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/ocelot/item/WD4-PORTRAIT-PROMO-1280x1420-51385e927614c853c2ab2b202ac33be9.jpg",
-      "md5": "51385e927614c853c2ab2b202ac33be9",
-      "width": 1280,
-      "height": 1420,
-      "size": 356982,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/item/ocelot/TWD_401_Portrait_1200x1600_1200x1600-d3d24d39097556bd54f21232ed280c6b",
+      "md5": "d3d24d39097556bd54f21232ed280c6b",
+      "width": 1200,
+      "height": 1600,
+      "size": 3046427,
+      "uploadedDate": "2023-02-14T22:31:22.701Z"
     }
   ],
   "categories": [
@@ -51,7 +33,7 @@
   "namespace": "ocelot",
   "status": "ACTIVE",
   "creationDate": "2018-12-13T22:18:02.607Z",
-  "lastModifiedDate": "2019-11-19T17:04:02.982Z",
+  "lastModifiedDate": "2023-02-14T22:31:53.050Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -100,6 +82,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }

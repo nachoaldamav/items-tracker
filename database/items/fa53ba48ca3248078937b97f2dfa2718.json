@@ -5,39 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/b534830f4c524447bfd2266ce70cf8ab/item/TTTWD-DS_Epic_About_1920x1080-1920x1080-0a8979b4ab012733a342540562b21e2d.jpg",
-      "md5": "0a8979b4ab012733a342540562b21e2d",
-      "width": 1920,
-      "height": 1080,
-      "size": 211453,
-      "uploadedDate": "2019-08-05T18:27:44.170Z"
-    },
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/b534830f4c524447bfd2266ce70cf8ab/item/esrb_walking_dead_def-842x404-92b3c16338490a0f7e78d988976e2378.jpg",
-      "md5": "92b3c16338490a0f7e78d988976e2378",
-      "width": 842,
-      "height": 404,
-      "size": 132018,
-      "uploadedDate": "2019-08-06T14:19:48.144Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/b534830f4c524447bfd2266ce70cf8ab/item/TTTWD-DS-LOGO-WHITE-360x237-c64d8e270dce97925a9e808ead4298cb.png",
-      "md5": "c64d8e270dce97925a9e808ead4298cb",
-      "width": 360,
-      "height": 237,
-      "size": 13935,
-      "uploadedDate": "2019-09-09T21:19:23.045Z"
+      "url": "https://cdn1.epicgames.com/item/b534830f4c524447bfd2266ce70cf8ab/TTTWD-DS_EPIC_PrimaryPromo_2580x1450_2580x1450-629ef6eb2980fd5428211300c88a7aa5",
+      "md5": "629ef6eb2980fd5428211300c88a7aa5",
+      "width": 2580,
+      "height": 1450,
+      "size": 1871527,
+      "uploadedDate": "2023-02-14T22:37:34.480Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/b534830f4c524447bfd2266ce70cf8ab/item/cuckoo_home-1280x1440-5587580e0632a53f9e9b8b88cdf78d23.jpg",
-      "md5": "5587580e0632a53f9e9b8b88cdf78d23",
-      "width": 1280,
-      "height": 1440,
-      "size": 212695,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/item/b534830f4c524447bfd2266ce70cf8ab/CodeRedemptionWalkingDeadDef-340x440-959ca5a338662797f5823a21c394b68e_340x440-959ca5a338662797f5823a21c394b68e",
+      "md5": "959ca5a338662797f5823a21c394b68e",
+      "width": 340,
+      "height": 440,
+      "size": 144711,
+      "uploadedDate": "2023-02-14T22:37:28.237Z"
     }
   ],
   "categories": [
@@ -54,7 +36,7 @@
   "namespace": "b534830f4c524447bfd2266ce70cf8ab",
   "status": "ACTIVE",
   "creationDate": "2019-07-31T20:27:32.297Z",
-  "lastModifiedDate": "2019-11-19T17:04:03.829Z",
+  "lastModifiedDate": "2023-02-14T22:38:07.002Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -104,6 +86,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
