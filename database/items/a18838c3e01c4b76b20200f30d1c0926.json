@@ -4,40 +4,22 @@
   "description": "The Walking Dead: Season One",
   "keyImages": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/bloodroot/item/TWD1_GameIcon_400x400-400x400-1a4275b696e8bbc01257e02f5470c0c9.png",
-      "md5": "1a4275b696e8bbc01257e02f5470c0c9",
-      "width": 400,
-      "height": 400,
-      "size": 180250,
-      "uploadedDate": "2019-03-26T01:39:16.238Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/bloodroot/item/EGS_SKYBOUND_WD1-Logo-color-704x514-6c8b2d8bee6ba282db9c21ea5383f4c6.png",
-      "md5": "6c8b2d8bee6ba282db9c21ea5383f4c6",
-      "width": 704,
-      "height": 514,
-      "size": 107753,
-      "uploadedDate": "2019-03-26T01:39:40.450Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/bloodroot/item/TWD1_PrimaryPromo-792x445-de860f6dc1ec5db943d28d6a7b37245e.jpg",
-      "md5": "de860f6dc1ec5db943d28d6a7b37245e",
-      "width": 792,
-      "height": 445,
-      "size": 28790,
-      "uploadedDate": "2019-05-06T21:39:14.290Z"
+      "url": "https://cdn1.epicgames.com/item/bloodroot/TWD1_EPIC_Landscape_2560x1440_2560x1440-769095bad4d31fa3570f4d247b90c507",
+      "md5": "769095bad4d31fa3570f4d247b90c507",
+      "width": 2560,
+      "height": 1440,
+      "size": 884852,
+      "uploadedDate": "2023-02-14T20:58:10.039Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/bloodroot/item/TWD1_Primary Promo_NoLogo_Portrait-1288x1450-d835a2a10d8afa986c9a44801004d364.jpg",
-      "md5": "d835a2a10d8afa986c9a44801004d364",
-      "width": 1288,
-      "height": 1450,
-      "size": 215504,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/item/bloodroot/WDS1_Portrait_1200x1600_1200x1600-63ca87b7f311439c52edf1810deb7987",
+      "md5": "63ca87b7f311439c52edf1810deb7987",
+      "width": 1200,
+      "height": 1600,
+      "size": 603173,
+      "uploadedDate": "2023-02-14T20:58:07.903Z"
     }
   ],
   "categories": [
@@ -51,7 +33,7 @@
   "namespace": "bloodroot",
   "status": "ACTIVE",
   "creationDate": "2019-03-08T22:18:11.168Z",
-  "lastModifiedDate": "2019-11-19T17:04:00.947Z",
+  "lastModifiedDate": "2023-02-14T20:58:30.510Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -112,6 +94,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
