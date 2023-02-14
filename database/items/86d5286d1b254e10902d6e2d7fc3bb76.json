@@ -36,7 +36,7 @@
   "namespace": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "status": "ACTIVE",
   "creationDate": "2019-08-23T21:23:54.176Z",
-  "lastModifiedDate": "2023-01-27T14:23:29.584Z",
+  "lastModifiedDate": "2023-02-14T17:57:37.551Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -52,7 +52,7 @@
     },
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{AppData}/../LocalLow/RedHook/Darkest Dungeon II/"
+      "value": "{AppData}/../LocalLow/RedHook/Darkest Dungeon II/SaveFiles/{EpicID}/"
     },
     "UseAccessControl": {
       "type": "STRING",
