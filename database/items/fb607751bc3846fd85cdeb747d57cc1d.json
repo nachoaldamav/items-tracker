@@ -24,7 +24,7 @@
   "namespace": "d1479d6f93fa4e6ca4415e83a7a5d703",
   "status": "ACTIVE",
   "creationDate": "2019-10-04T22:04:57.919Z",
-  "lastModifiedDate": "2020-01-08T01:45:40.232Z",
+  "lastModifiedDate": "2023-02-22T18:10:26.981Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -34,6 +34,7 @@
   "entitlementName": "fb607751bc3846fd85cdeb747d57cc1d",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Double Fine",
   "developerId": "o-5a763b52xcghd2yclvn8t5jdlfhlrv",
   "eulaIds": [
@@ -41,6 +42,8 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }

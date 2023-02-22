@@ -5,30 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/d1479d6f93fa4e6ca4415e83a7a5d703/item/EGS_DoubleFineProductions_CostumeQuest_S1-2560x1440-8fd5dffea0d4b2636b69ad6289d3eb30.jpg",
-      "md5": "8fd5dffea0d4b2636b69ad6289d3eb30",
+      "url": "https://cdn1.epicgames.com/item/d1479d6f93fa4e6ca4415e83a7a5d703/landscape1_2560x1440-4931d496c5b86ffdc64226814666bb1b",
+      "md5": "4931d496c5b86ffdc64226814666bb1b",
       "width": 2560,
       "height": 1440,
-      "size": 506902,
-      "uploadedDate": "2019-10-22T17:46:09.520Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/d1479d6f93fa4e6ca4415e83a7a5d703/item/EGS_DoubleFineProductions_CostumeQuest_IC1-200x96-ba58fd803a38131e48669b856b2e58f3.png",
-      "md5": "ba58fd803a38131e48669b856b2e58f3",
-      "width": 200,
-      "height": 96,
-      "size": 29319,
-      "uploadedDate": "2019-10-22T17:46:22.187Z"
+      "size": 957894,
+      "uploadedDate": "2023-02-22T18:10:51.310Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/d1479d6f93fa4e6ca4415e83a7a5d703/item/EGS_DoubleFineProductions_CostumeQuest_S2-1280x1440-172228e3a5854ebcc24601215010f6c8.jpg",
-      "md5": "172228e3a5854ebcc24601215010f6c8",
-      "width": 1280,
-      "height": 1440,
-      "size": 325750,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/item/d1479d6f93fa4e6ca4415e83a7a5d703/portrait1_1200x1600-6f8c8a9155ebaff95f53b91647b86f77",
+      "md5": "6f8c8a9155ebaff95f53b91647b86f77",
+      "width": 1200,
+      "height": 1600,
+      "size": 397777,
+      "uploadedDate": "2023-02-22T18:10:53.684Z"
     }
   ],
   "categories": [
@@ -45,7 +36,7 @@
   "namespace": "d1479d6f93fa4e6ca4415e83a7a5d703",
   "status": "ACTIVE",
   "creationDate": "2019-10-04T22:04:57.965Z",
-  "lastModifiedDate": "2019-11-19T17:02:32.704Z",
+  "lastModifiedDate": "2023-02-22T18:11:01.339Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -96,6 +87,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
