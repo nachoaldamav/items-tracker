@@ -24,7 +24,7 @@
   "namespace": "b671fbc7be424e888c9346a9a6d3d9db",
   "status": "ACTIVE",
   "creationDate": "2019-08-05T14:11:02.403Z",
-  "lastModifiedDate": "2021-03-29T23:15:26.384Z",
+  "lastModifiedDate": "2023-02-28T19:30:48.567Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -34,7 +34,8 @@
   "entitlementName": "103bd73571794f6d9162cced7e4bccdd",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "developer": "Matt Makes Games",
+  "releaseInfo": [],
+  "developer": "Maddy Makes Games",
   "developerId": "o-82l4kr2zqqhkqqa6mkut4pjx9lma3h",
   "eulaIds": [
     "egstore"
@@ -42,5 +43,6 @@
   "endOfSupport": false,
   "esrbGameRatingValue": "EVERYONE_10_PLUS",
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
