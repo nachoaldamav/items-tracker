@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/a0b8d4482f3d4f939f35f87a3f367865/item/FC_FC2_Store_Landscape_2560x1440-2560x1440-ce43469cd4ebf6e168b727243fbe5d39.jpg",
-      "md5": "ce43469cd4ebf6e168b727243fbe5d39",
+      "url": "https://cdn1.epicgames.com/item/a0b8d4482f3d4f939f35f87a3f367865/fc2wide_2560x1440-e94a6a2fa597ea3fe74932be67d62519",
+      "md5": "e94a6a2fa597ea3fe74932be67d62519",
       "width": 2560,
       "height": 1440,
-      "size": 918416,
-      "uploadedDate": "2020-07-30T17:28:51.537Z"
+      "size": 747379,
+      "uploadedDate": "2023-02-28T21:45:41.781Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/a0b8d4482f3d4f939f35f87a3f367865/item/FC_FC2_Store_Portrait_1200x1600-1200x1600-8e5fc0a55113b7eaa91781c61563ccd1.jpg",
-      "md5": "8e5fc0a55113b7eaa91781c61563ccd1",
+      "url": "https://cdn1.epicgames.com/item/a0b8d4482f3d4f939f35f87a3f367865/fc2tall_1200x1600-df7d08cb52526e9f69604242504fee15",
+      "md5": "df7d08cb52526e9f69604242504fee15",
       "width": 1200,
       "height": 1600,
-      "size": 995066,
-      "uploadedDate": "2020-07-30T17:28:56.869Z"
+      "size": 742945,
+      "uploadedDate": "2023-02-28T21:45:44.900Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "a0b8d4482f3d4f939f35f87a3f367865",
   "status": "ACTIVE",
   "creationDate": "2020-06-17T19:41:19.523Z",
-  "lastModifiedDate": "2020-08-18T14:56:17.345Z",
+  "lastModifiedDate": "2023-02-28T21:45:48.118Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -103,5 +103,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
