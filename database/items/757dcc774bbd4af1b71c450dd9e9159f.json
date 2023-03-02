@@ -5,30 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/item/SFBW-S1-2560x1440-c39875130a3c5528771fe933431c6763.jpg",
-      "md5": "c39875130a3c5528771fe933431c6763",
-      "width": 2560,
-      "height": 1440,
-      "size": 314261,
-      "uploadedDate": "2019-12-18T15:34:44.815Z"
+      "url": "https://cdn1.epicgames.com/item/764eb429792649e4a606413cd649de2c/GameName_Store_Landscape_2580x1450_2580x1450-4259bedb66ea53cf5b4f2ccf9e7115b3",
+      "md5": "4259bedb66ea53cf5b4f2ccf9e7115b3",
+      "width": 2580,
+      "height": 1450,
+      "size": 877080,
+      "uploadedDate": "2023-03-02T16:12:28.672Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/item/SFBW-S2-1280x1440-6a3160fdcb57839f73332ede6564e19e.jpg",
-      "md5": "6a3160fdcb57839f73332ede6564e19e",
-      "width": 1280,
-      "height": 1440,
-      "size": 467198,
-      "uploadedDate": "2019-12-18T15:34:59.249Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/item/SPFB_UCS12473_EGST_Neg_1000x375-1000x375-5551374af35891ad6529dff819a4e53d.png",
-      "md5": "5551374af35891ad6529dff819a4e53d",
-      "width": 1000,
-      "height": 375,
-      "size": 117944,
-      "uploadedDate": "2019-12-18T15:35:04.640Z"
+      "url": "https://cdn1.epicgames.com/item/764eb429792649e4a606413cd649de2c/SPFB_StorePortrait_1200x1600__1200x1600-08cb8aefb48b63675e5e26eeef6d999b",
+      "md5": "08cb8aefb48b63675e5e26eeef6d999b",
+      "width": 1200,
+      "height": 1600,
+      "size": 498481,
+      "uploadedDate": "2023-03-02T16:12:31.684Z"
     }
   ],
   "categories": [
@@ -45,7 +36,7 @@
   "namespace": "764eb429792649e4a606413cd649de2c",
   "status": "ACTIVE",
   "creationDate": "2019-10-28T21:43:21.118Z",
-  "lastModifiedDate": "2019-12-20T15:33:49.356Z",
+  "lastModifiedDate": "2023-03-02T16:12:39.113Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -109,5 +100,6 @@
   "endOfSupport": false,
   "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
