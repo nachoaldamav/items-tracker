@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/bec822fb982843c3be794d440728336b/item/EGS_11bitstudios_Moonlighter_L1-2560x1440-7c89de5a74c1936a7c6f65338a0023d5.jpg",
-      "md5": "7c89de5a74c1936a7c6f65338a0023d5",
+      "url": "https://cdn1.epicgames.com/item/bec822fb982843c3be794d440728336b/EGS_11bitstudios_Moonlighter_LandscapeImage-2560x1440-2905879d3431602b0387e407994165d1_2560x1440-2905879d3431602b0387e407994165d1",
+      "md5": "2905879d3431602b0387e407994165d1",
       "width": 2560,
       "height": 1440,
-      "size": 168963,
-      "uploadedDate": "2019-07-16T18:23:44.570Z"
+      "size": 1926063,
+      "uploadedDate": "2023-03-10T19:05:10.411Z"
     },
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/bec822fb982843c3be794d440728336b/item/EGS_11bitstudios_Moonlighter_IC1_White-9543x2160-305693e0b369d31af6f97ce21eb05a2e.png",
-      "md5": "305693e0b369d31af6f97ce21eb05a2e",
-      "width": 9543,
-      "height": 2160,
-      "size": 75772,
-      "uploadedDate": "2019-07-16T18:23:55.483Z"
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/bec822fb982843c3be794d440728336b/CodeRedemptionMoonlighterDLC-340x440-0e5c617dc29311418d17850d4c946977_340x440-0e5c617dc29311418d17850d4c946977",
+      "md5": "0e5c617dc29311418d17850d4c946977",
+      "width": 340,
+      "height": 440,
+      "size": 147436,
+      "uploadedDate": "2023-03-10T19:05:05.914Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "bec822fb982843c3be794d440728336b",
   "status": "ACTIVE",
   "creationDate": "2019-07-10T18:38:57.913Z",
-  "lastModifiedDate": "2019-08-01T19:33:11.714Z",
+  "lastModifiedDate": "2023-03-10T19:05:15.360Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -66,5 +66,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

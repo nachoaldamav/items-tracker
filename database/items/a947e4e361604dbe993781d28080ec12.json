@@ -24,7 +24,7 @@
   "namespace": "bec822fb982843c3be794d440728336b",
   "status": "ACTIVE",
   "creationDate": "2019-07-09T15:35:38.164Z",
-  "lastModifiedDate": "2020-01-28T16:25:23.771Z",
+  "lastModifiedDate": "2023-03-10T19:03:55.300Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -34,6 +34,7 @@
   "entitlementName": "a947e4e361604dbe993781d28080ec12",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "11 Bit Studios",
   "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
   "eulaIds": [
@@ -41,6 +42,8 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
