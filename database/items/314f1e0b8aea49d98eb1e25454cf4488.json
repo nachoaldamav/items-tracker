@@ -1,7 +1,7 @@
 {
   "id": "314f1e0b8aea49d98eb1e25454cf4488",
-  "title": "Twinmotion Trial 2023.1 Preview 1",
-  "description": "Twinmotion Trial 2023.1 Preview 1",
+  "title": "Twinmotion Trial 2023.1 Preview 2",
+  "description": "Twinmotion Trial 2023.1 Preview 2",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,7 +35,7 @@
   "namespace": "poodle",
   "status": "ACTIVE",
   "creationDate": "2022-10-24T14:41:31.164Z",
-  "lastModifiedDate": "2022-12-13T17:06:54.187Z",
+  "lastModifiedDate": "2023-03-15T14:08:45.519Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -45,13 +45,13 @@
       "type": "STRING",
       "value": "Twinmotion"
     },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
-    },
     "CanSkipCabinedWarning": {
       "type": "STRING",
       "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
     },
     "egs.library.display_version": {
       "type": "STRING",
@@ -79,7 +79,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "c628d311408d4a839c311c023301f623",
+      "id": "561799c276944f9f9ae6b0ab8db035c6",
       "appId": "97c232b9e2cc4a44869c717411e25f22",
       "compatibleApps": [],
       "platform": [

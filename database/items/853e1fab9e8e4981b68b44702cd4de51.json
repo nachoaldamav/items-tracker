@@ -1,7 +1,7 @@
 {
   "id": "853e1fab9e8e4981b68b44702cd4de51",
-  "title": "Twinmotion EDU 2023.1 Preview 1",
-  "description": "Twinmotion 2023.1 Preview 1",
+  "title": "Twinmotion EDU 2023.1 Preview 2",
+  "description": "Twinmotion 2023.1 Preview 2",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,7 +35,7 @@
   "namespace": "poodle",
   "status": "ACTIVE",
   "creationDate": "2022-10-24T14:37:58.969Z",
-  "lastModifiedDate": "2022-12-13T17:06:35.911Z",
+  "lastModifiedDate": "2023-03-15T14:08:49.533Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -45,13 +45,13 @@
       "type": "STRING",
       "value": "Twinmotion"
     },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
-    },
     "CanSkipCabinedWarning": {
       "type": "STRING",
       "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
     },
     "egs.library.display_version": {
       "type": "STRING",
@@ -79,7 +79,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "a6e0ceff0af840a382cb65d663e36aca",
+      "id": "ace64216bedc4f24a369f02c4f5b9648",
       "appId": "f56e8672dac44fe68b79e81be2c95114",
       "compatibleApps": [],
       "platform": [
