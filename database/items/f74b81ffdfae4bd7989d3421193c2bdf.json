@@ -35,8 +35,12 @@
   "namespace": "4acc3c00b76e48dca196601dfe1940fc",
   "status": "ACTIVE",
   "creationDate": "2022-05-19T11:58:47.207Z",
-  "lastModifiedDate": "2023-03-08T21:03:35.376Z",
+  "lastModifiedDate": "2023-03-25T21:26:01.515Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Gripper/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "GripperqdBxz"
@@ -47,17 +51,17 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "4ea6bb99b13640ec9e569402668291b9",
+      "id": "80d61645397a43e2ad6453f2e9221842",
       "appId": "344da7e9a186446b9948915d396a3ee6",
       "platform": [
-        "Windows",
-        "Win32"
+        "Windows"
       ]
     }
   ],
   "developer": "Heart Core LTD",
   "developerId": "o-gce7l5sgpn52deqlzuyyzzrntjclzu",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
