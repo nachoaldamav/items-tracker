@@ -5,30 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/cinnamon/item/Diesel_product_cinnamon_home_EGS_DEVELOPER_SherlockHolmes_G1_KeyArt-1500x844-5fc1e88618a5062df322e203bafd78562200668b-1500x844-369bd41767129916a11c17f8749521ad.jpg",
-      "md5": "369bd41767129916a11c17f8749521ad",
-      "width": 1500,
-      "height": 844,
-      "size": 250714,
-      "uploadedDate": "2019-04-25T14:17:38.084Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/cinnamon/item/Diesel_product_cinnamon_home_EGS_DEVELOPER_SherlockHolmes_IC1-_WHITE-1521x570-5c96079d03b9af74281a2c00dd1d60489c64ef80-1521x570-b680a6fbc8682026b7c89ae6d31e94d9.png",
-      "md5": "b680a6fbc8682026b7c89ae6d31e94d9",
-      "width": 1521,
-      "height": 570,
-      "size": 37949,
-      "uploadedDate": "2019-04-25T14:17:51.104Z"
+      "url": "https://cdn1.epicgames.com/item/cinnamon/EGS_SherlockHolmesTheDevilsDaughter_Frogwares_S1_2560x1440-3852321c809322210cb7522fc72cbf86_2560x1440-3852321c809322210cb7522fc72cbf86",
+      "md5": "3852321c809322210cb7522fc72cbf86",
+      "width": 2560,
+      "height": 1440,
+      "size": 804294,
+      "uploadedDate": "2023-03-31T18:02:18.376Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/cinnamon/item/Sherlock_Portrait-1280x1440-16513cafd71b763d3b309281d36a381c.jpg",
-      "md5": "16513cafd71b763d3b309281d36a381c",
-      "width": 1280,
-      "height": 1440,
-      "size": 201974,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/item/cinnamon/EGS_SherlockHolmesTheDevilsDaughter_Frogwares_S2_1200x1600-f7135cf6cabd6b1d2b15cd94473bbebd_1200x1600-f7135cf6cabd6b1d2b15cd94473bbebd",
+      "md5": "f7135cf6cabd6b1d2b15cd94473bbebd",
+      "width": 1200,
+      "height": 1600,
+      "size": 459722,
+      "uploadedDate": "2023-03-31T18:02:21.236Z"
     }
   ],
   "categories": [
@@ -42,15 +33,15 @@
   "namespace": "cinnamon",
   "status": "ACTIVE",
   "creationDate": "2019-03-20T03:10:05.660Z",
-  "lastModifiedDate": "2021-06-23T00:50:47.575Z",
+  "lastModifiedDate": "2023-03-31T18:02:24.494Z",
   "customAttributes": {
-    "PresenceID": {
-      "type": "STRING",
-      "value": "cinnamon"
-    },
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "cinnamon"
     },
     "MonitorPresence": {
       "type": "STRING",
@@ -86,7 +77,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "cdae38ceac9c4c3fa50eeef820efd2d9",
+      "id": "52899554c2fd4168a772841920e57b5a",
       "appId": "Cinnamon",
       "compatibleApps": [],
       "platform": [
