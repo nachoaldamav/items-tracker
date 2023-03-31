@@ -1,18 +1,8 @@
 {
   "id": "7098c618f85a4181ad6dc8aee2fed972",
-  "title": "Kabaret",
-  "description": "Kabaret",
+  "title": "Kabaret - Demo",
+  "description": "Kabaret - Demo",
   "keyImages": [
-    {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/8852f251e3b442b0b7116dfce87bae37/download-kabaret-offer-kqr1n.png",
-      "md5": "1b5195289376a56e0499127f87dd8014",
-      "width": 1200,
-      "height": 1600,
-      "size": 2932374,
-      "uploadedDate": "2022-02-22T16:23:59.795Z",
-      "alt": "Download Kabaret Offer"
-    },
     {
       "type": "DieselGameBox",
       "url": "https://cdn1.epicgames.com/spt-assets/8852f251e3b442b0b7116dfce87bae37/kabaret-offer-1js35.jpg",
@@ -22,6 +12,16 @@
       "size": 2022343,
       "uploadedDate": "2022-02-22T16:24:22.315Z",
       "alt": "Kabaret Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8852f251e3b442b0b7116dfce87bae37/download-kabaret-offer-kqr1n.png",
+      "md5": "1b5195289376a56e0499127f87dd8014",
+      "width": 1200,
+      "height": 1600,
+      "size": 2932374,
+      "uploadedDate": "2022-02-22T16:23:59.795Z",
+      "alt": "Download Kabaret Offer"
     }
   ],
   "categories": [
@@ -35,7 +35,7 @@
   "namespace": "2b94ba4a1f1f4d8aa5b85ecdeef1f33e",
   "status": "ACTIVE",
   "creationDate": "2022-02-22T02:06:24.232Z",
-  "lastModifiedDate": "2022-03-16T03:36:54.902Z",
+  "lastModifiedDate": "2023-03-31T17:22:22.312Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -51,14 +51,17 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "ac23464cde064e359e59f911ac0439d9",
+      "id": "7bf9e77beecd4dd98a6faa393d0cfab0",
       "appId": "b8a0cdaf823d423cb7907e52e3c24e13",
       "platform": []
     }
   ],
   "developer": "Persona Theory Games",
   "developerId": "o-tjknpmw9ewz2bhtg5lfmgn43x25q5h",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
