@@ -1,18 +1,8 @@
 {
   "id": "7098c618f85a4181ad6dc8aee2fed972",
-  "title": "Kabaret - Demo",
-  "description": "Kabaret - Demo",
+  "title": "Kabaret",
+  "description": "Kabaret",
   "keyImages": [
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/8852f251e3b442b0b7116dfce87bae37/kabaret-offer-1js35.jpg",
-      "md5": "b91cc0dbc48f876b54c4b2d53c276741",
-      "width": 2560,
-      "height": 1440,
-      "size": 2022343,
-      "uploadedDate": "2022-02-22T16:24:22.315Z",
-      "alt": "Kabaret Offer"
-    },
     {
       "type": "DieselGameBoxTall",
       "url": "https://cdn1.epicgames.com/spt-assets/8852f251e3b442b0b7116dfce87bae37/download-kabaret-offer-kqr1n.png",
@@ -22,6 +12,16 @@
       "size": 2932374,
       "uploadedDate": "2022-02-22T16:23:59.795Z",
       "alt": "Download Kabaret Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8852f251e3b442b0b7116dfce87bae37/kabaret-offer-1js35.jpg",
+      "md5": "b91cc0dbc48f876b54c4b2d53c276741",
+      "width": 2560,
+      "height": 1440,
+      "size": 2022343,
+      "uploadedDate": "2022-02-22T16:24:22.315Z",
+      "alt": "Kabaret Offer"
     }
   ],
   "categories": [
@@ -35,7 +35,7 @@
   "namespace": "2b94ba4a1f1f4d8aa5b85ecdeef1f33e",
   "status": "ACTIVE",
   "creationDate": "2022-02-22T02:06:24.232Z",
-  "lastModifiedDate": "2023-03-31T17:22:22.312Z",
+  "lastModifiedDate": "2023-03-18T04:03:52.564Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -51,17 +51,16 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "7bf9e77beecd4dd98a6faa393d0cfab0",
+      "id": "11082b8b162d406e89be92015047a566",
       "appId": "b8a0cdaf823d423cb7907e52e3c24e13",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Persona Theory Games",
   "developerId": "o-tjknpmw9ewz2bhtg5lfmgn43x25q5h",
-  "eulaIds": [],
   "endOfSupport": false,
-  "ageGatings": {},
-  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }

@@ -1,7 +1,7 @@
 {
   "id": "e9229e179a894c20ac2f2a3f4884ea97",
-  "title": "Kabaret",
-  "description": "Kabaret",
+  "title": "Kabaret - Demo",
+  "description": "Kabaret - Demo",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,7 +35,7 @@
   "namespace": "2b94ba4a1f1f4d8aa5b85ecdeef1f33e",
   "status": "ACTIVE",
   "creationDate": "2022-03-15T02:43:16.638Z",
-  "lastModifiedDate": "2022-03-16T03:36:01.882Z",
+  "lastModifiedDate": "2023-03-31T17:21:09.386Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,17 +47,19 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "f06fa898dbcd480583daf6c4c29c4073",
+      "id": "5bd59a47529d415c9f49afec3b8eaf5c",
       "appId": "892f48c259f64e6090755e24c8d1cd4b",
       "platform": [
-        "Windows",
-        "Mac"
+        "Windows"
       ]
     }
   ],
   "developer": "Persona Theory Games",
   "developerId": "o-tjknpmw9ewz2bhtg5lfmgn43x25q5h",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
