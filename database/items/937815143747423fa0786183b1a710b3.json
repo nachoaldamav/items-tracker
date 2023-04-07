@@ -35,8 +35,12 @@
   "namespace": "8c32c11719374c049cac0b07d2a338a0",
   "status": "ACTIVE",
   "creationDate": "2022-06-08T19:36:09.073Z",
-  "lastModifiedDate": "2023-04-07T01:18:26.488Z",
+  "lastModifiedDate": "2023-04-07T16:31:36.744Z",
   "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{AppData}/../Roaming/Ravenlok/"
@@ -51,14 +55,16 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "74cf1e2c95b1472292a9455a5791bece",
+      "id": "e05a68fbac2b4ca2adbd27ff0b11c34e",
       "appId": "d250200459a94ea29e4b03ca9a169062",
       "platform": []
     }
   ],
   "developer": "Cococucumber Inc",
   "developerId": "o-angtq474rblj3nwc3a4pqajntqync2",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
