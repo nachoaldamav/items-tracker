@@ -35,7 +35,7 @@
   "namespace": "8c32c11719374c049cac0b07d2a338a0",
   "status": "ACTIVE",
   "creationDate": "2022-06-08T19:36:09.073Z",
-  "lastModifiedDate": "2023-04-07T16:31:36.744Z",
+  "lastModifiedDate": "2023-04-10T21:15:00.912Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -55,9 +55,13 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "e05a68fbac2b4ca2adbd27ff0b11c34e",
+      "id": "7c8f64888e6647b2aae9128837d3cde6",
       "appId": "d250200459a94ea29e4b03ca9a169062",
-      "platform": []
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2023-04-10T21:14:59.080Z"
     }
   ],
   "developer": "Cococucumber Inc",
