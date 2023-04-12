@@ -35,7 +35,7 @@
   "namespace": "22068a5c6e3649599c02ba4ec6be1a03",
   "status": "ACTIVE",
   "creationDate": "2022-03-17T15:13:31.755Z",
-  "lastModifiedDate": "2022-07-25T16:09:19.748Z",
+  "lastModifiedDate": "2023-04-12T16:44:25.072Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,14 +47,20 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "e8f6bc4695044cb0859e71f4cc88fbc0",
+      "id": "7388c772ff934e54813a74bc37189cef",
       "appId": "acf8ea54936e4aefb3c606e274e1bbb2",
-      "platform": []
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2023-04-12T16:44:22.346Z"
     }
   ],
   "developer": "Daedalic Entertainment",
   "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
