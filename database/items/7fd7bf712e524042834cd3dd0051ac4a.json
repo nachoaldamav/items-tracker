@@ -1,7 +1,7 @@
 {
   "id": "7fd7bf712e524042834cd3dd0051ac4a",
-  "title": "DevGeneralAudience",
-  "description": "DevGeneralAudience",
+  "title": "General Audience",
+  "description": "General Audience",
   "categories": [
     {
       "path": "audience"
@@ -13,14 +13,18 @@
   "namespace": "8c32c11719374c049cac0b07d2a338a0",
   "status": "ACTIVE",
   "creationDate": "2022-05-24T14:51:03.939Z",
-  "lastModifiedDate": "2022-05-24T14:51:03.939Z",
+  "lastModifiedDate": "2023-04-12T00:19:00.035Z",
+  "customAttributes": {},
   "entitlementName": "7fd7bf712e524042834cd3dd0051ac4a",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
   "developer": "Cococucumber Inc",
   "developerId": "o-angtq474rblj3nwc3a4pqajntqync2",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }

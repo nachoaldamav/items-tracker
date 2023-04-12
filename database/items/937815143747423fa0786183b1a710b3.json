@@ -35,7 +35,7 @@
   "namespace": "8c32c11719374c049cac0b07d2a338a0",
   "status": "ACTIVE",
   "creationDate": "2022-05-24T14:51:04.082Z",
-  "lastModifiedDate": "2022-06-08T16:56:55.687Z",
+  "lastModifiedDate": "2023-04-12T00:16:03.584Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -51,14 +51,20 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "74cf1e2c95b1472292a9455a5791bece",
+      "id": "32501dc05cbb4932b2f8cc16ac09e3d3",
       "appId": "d250200459a94ea29e4b03ca9a169062",
-      "platform": []
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2023-04-12T00:16:01.787Z"
     }
   ],
   "developer": "Cococucumber Inc",
   "developerId": "o-angtq474rblj3nwc3a4pqajntqync2",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
