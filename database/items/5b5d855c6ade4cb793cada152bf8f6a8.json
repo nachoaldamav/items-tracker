@@ -35,7 +35,7 @@
   "namespace": "cd2a3289e4e9479fa5ebee6898f1d12f",
   "status": "ACTIVE",
   "creationDate": "2021-11-04T22:38:48.025Z",
-  "lastModifiedDate": "2022-06-28T14:44:22.068Z",
+  "lastModifiedDate": "2022-07-29T18:29:28.874Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -43,7 +43,7 @@
     },
     "CloudIncludeList": {
       "type": "STRING",
-      "value": "gamesave.nbsav, options.nbsav, input.nbsav"
+      "value": "gamesave1.nbsav, configs.nbsav, input.nbsav"
     },
     "FolderName": {
       "type": "STRING",
@@ -55,7 +55,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "4a967b34358d4485869b5a2e487580ca",
+      "id": "a957791007444c66a24359996cb49f80",
       "appId": "638ef489c3e441b1a48d65c5ca007ab7",
       "platform": [
         "Windows",
