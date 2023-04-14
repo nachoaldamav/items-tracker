@@ -36,7 +36,7 @@
   "namespace": "62d6f15b1bb345f6a42585b4c8c847a0",
   "status": "ACTIVE",
   "creationDate": "2019-08-06T20:39:38.085Z",
-  "lastModifiedDate": "2019-08-15T14:58:12.657Z",
+  "lastModifiedDate": "2023-04-14T16:35:50.947Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -45,6 +45,10 @@
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{AppData}/HyperLightDrifter/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "HLD_Screen_*.png,HyperLightDrifter_Log.txt,HLD_BACKUPS"
     },
     "FolderName": {
       "type": "STRING",
@@ -56,7 +60,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "d15dcedf971e45b3ad4db7f69c79b9ce",
+      "id": "a453e82a14604555a643cb7254cb79d9",
       "appId": "ParakeetStaging",
       "platform": [
         "Windows"
@@ -70,5 +74,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
