@@ -34,8 +34,8 @@
   ],
   "namespace": "b3ca40cc3a844442b26e48e12e9f402d",
   "status": "ACTIVE",
-  "creationDate": "2022-06-12T17:42:25.403Z",
-  "lastModifiedDate": "2022-06-12T17:42:25.403Z",
+  "creationDate": "2022-06-01T16:52:49.113Z",
+  "lastModifiedDate": "2023-04-20T08:56:21.119Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,8 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "ff8785d002cb4c1ea986556d42b45b1c",
-      "appId": "15bc6d5819754e599875ff107d78251d"
+      "id": "2c0cdaafa0ae4fac809f14834311b172",
+      "appId": "15bc6d5819754e599875ff107d78251d",
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Rogue Games, Inc.",
