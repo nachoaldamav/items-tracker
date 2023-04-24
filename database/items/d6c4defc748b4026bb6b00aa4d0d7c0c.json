@@ -4,31 +4,22 @@
   "description": "This War of Mine",
   "keyImages": [
     {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/91189432bbad4478afd611edff7f0339/EGS_ThisWarofMine_11bitstudiosSA_S4_1200x1600-117bcceb7b116f21e4935b154a9867e7",
+      "md5": "117bcceb7b116f21e4935b154a9867e7",
+      "width": 1200,
+      "height": 1600,
+      "size": 723181,
+      "uploadedDate": "2023-04-24T21:05:40.812Z"
+    },
+    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/item/EGS_11bitstudios_TWOM_L1-2560x1440-d08b1d2f6ebc1963f159db8debf35990.jpg",
-      "md5": "d08b1d2f6ebc1963f159db8debf35990",
+      "url": "https://cdn1.epicgames.com/item/91189432bbad4478afd611edff7f0339/EGS_ThisWarofMine_11bitstudiosSA_S3_2560x1440-9da5d195855aae604c15df4dd745b999",
+      "md5": "9da5d195855aae604c15df4dd745b999",
       "width": 2560,
       "height": 1440,
-      "size": 350058,
-      "uploadedDate": "2019-07-17T17:55:17.354Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/item/EGS_11bitstudios_TWOM_IC2-400x400-bd7b04915cccc18df7d5a81c8716fbb0.png",
-      "md5": "bd7b04915cccc18df7d5a81c8716fbb0",
-      "width": 400,
-      "height": 400,
-      "size": 84805,
-      "uploadedDate": "2019-07-17T17:55:26.661Z"
-    },
-    {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/item/EGS_11bitstudios_TWOM_S3-1280x1440-05072c2b43427a358c5bd0306840179c.jpg",
-      "md5": "05072c2b43427a358c5bd0306840179c",
-      "width": 1280,
-      "height": 1440,
-      "size": 142489,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "size": 814806,
+      "uploadedDate": "2023-04-24T21:05:43.548Z"
     }
   ],
   "categories": [
@@ -45,7 +36,7 @@
   "namespace": "91189432bbad4478afd611edff7f0339",
   "status": "ACTIVE",
   "creationDate": "2019-07-10T17:36:07.016Z",
-  "lastModifiedDate": "2019-11-19T17:04:06.116Z",
+  "lastModifiedDate": "2023-04-24T21:05:47.436Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -89,7 +80,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "e81a45f4293f425d9fb891a3c0a2d96e",
+      "id": "0d1aa34f34ac41e0bfc638eb9155c2e5",
       "appId": "Cardinal",
       "platform": [
         "Windows",
@@ -104,6 +95,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "fghi4567QOVswifVLLEnW2NNF1mGJN0X",
   "unsearchable": false
 }
