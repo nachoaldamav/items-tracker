@@ -24,7 +24,7 @@
   "namespace": "62d6f15b1bb345f6a42585b4c8c847a0",
   "status": "ACTIVE",
   "creationDate": "2019-08-06T20:39:37.959Z",
-  "lastModifiedDate": "2020-01-08T19:42:54.912Z",
+  "lastModifiedDate": "2023-04-25T15:08:01.033Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -34,6 +34,7 @@
   "entitlementName": "c58e59d2df774c96b3cfc52779ef4c1a",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Heart Machine",
   "developerId": "o-sa7ewerl9ha4ddzrjkjac7rh8sjgyc",
   "eulaIds": [
@@ -41,6 +42,8 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }

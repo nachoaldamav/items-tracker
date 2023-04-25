@@ -2,26 +2,7 @@
   "id": "d9ca2bfc6eab48659e22f0b895d33e08",
   "title": "ParakeetStaging",
   "description": "ParakeetStaging",
-  "keyImages": [
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/62d6f15b1bb345f6a42585b4c8c847a0/item/EGS_HeartMachine_HyperLightDrifter_Social_Landscape-1920x1080-311a8f7f974fdf4d1fb94284601abffc.jpg",
-      "md5": "311a8f7f974fdf4d1fb94284601abffc",
-      "width": 1920,
-      "height": 1080,
-      "size": 147394,
-      "uploadedDate": "2019-08-15T12:49:59.787Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/62d6f15b1bb345f6a42585b4c8c847a0/item/EGS_HeartMachine_HyperLightDrifter_IC1_Logo_White-1316x720-e8c1800fcc3481465e34432c0ce5ab6f.png",
-      "md5": "e8c1800fcc3481465e34432c0ce5ab6f",
-      "width": 1316,
-      "height": 720,
-      "size": 1575,
-      "uploadedDate": "2019-08-15T12:50:13.721Z"
-    }
-  ],
+  "keyImages": [],
   "categories": [
     {
       "path": "public"
@@ -36,7 +17,7 @@
   "namespace": "62d6f15b1bb345f6a42585b4c8c847a0",
   "status": "ACTIVE",
   "creationDate": "2019-08-06T20:39:38.085Z",
-  "lastModifiedDate": "2023-04-14T16:35:50.947Z",
+  "lastModifiedDate": "2023-04-25T15:09:04.748Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -60,7 +41,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "a453e82a14604555a643cb7254cb79d9",
+      "id": "6d45f997b587436ea98fb1d61135a404",
       "appId": "ParakeetStaging",
       "platform": [
         "Windows"
