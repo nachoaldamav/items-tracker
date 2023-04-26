@@ -1,7 +1,7 @@
 {
-  "id": "2d238bafe5ea474e9334e2dc41455a53",
-  "title": "DevGeneralAudience",
-  "description": "DevGeneralAudience",
+  "id": "899a1d98ce1a41a6904cb21bb30128e6",
+  "title": "ConsumableAudience",
+  "description": "ConsumableAudience",
   "categories": [
     {
       "path": "audience"
@@ -12,14 +12,14 @@
   ],
   "namespace": "676a89b2e8344c9db39a79724150cba6",
   "status": "ACTIVE",
-  "creationDate": "2021-10-18T20:50:03.269Z",
-  "lastModifiedDate": "2023-04-26T16:58:44.420Z",
-  "entitlementName": "2d238bafe5ea474e9334e2dc41455a53",
+  "creationDate": "2023-04-26T16:58:44.438Z",
+  "lastModifiedDate": "2023-04-26T16:58:44.438Z",
+  "entitlementName": "899a1d98ce1a41a6904cb21bb30128e6",
   "entitlementType": "AUDIENCE",
-  "itemType": "DURABLE",
-  "releaseInfo": [],
+  "itemType": "CONSUMABLE",
   "developer": "Freedom Games",
   "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+  "useCount": 1,
   "endOfSupport": false,
   "requiresSecureAccount": false,
   "unsearchable": false
