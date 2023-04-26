@@ -16,11 +16,15 @@
   "namespace": "000ac10599a14d4dbe6ce5b817040fdd",
   "status": "ACTIVE",
   "creationDate": "2021-01-08T23:20:14.576Z",
-  "lastModifiedDate": "2021-05-14T17:14:19.701Z",
+  "lastModifiedDate": "2023-04-26T22:23:11.908Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Dream Harvest/NeuroNet Mendax Proxy/Save/"
     },
     "FolderName": {
       "type": "STRING",
@@ -32,7 +36,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "ce7243677d024b729adc188a0a6ca44e",
+      "id": "dcda28b1c5914d6db02ebb686641f8db",
       "appId": "df0886e25c8f450bbd6694369b695850",
       "platform": [
         "Windows"
@@ -47,6 +51,7 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
