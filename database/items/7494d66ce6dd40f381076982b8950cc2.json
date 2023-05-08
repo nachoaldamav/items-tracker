@@ -31,13 +31,19 @@
   ],
   "namespace": "5f2fcf280d11455f8eab5c1e2a4d0392",
   "status": "ACTIVE",
-  "creationDate": "2023-03-31T16:25:16.832Z",
-  "lastModifiedDate": "2023-03-31T16:25:16.832Z",
+  "creationDate": "2023-03-17T13:10:57.201Z",
+  "lastModifiedDate": "2023-05-08T16:40:17.763Z",
   "customAttributes": {},
   "entitlementName": "7494d66ce6dd40f381076982b8950cc2",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
-  "releaseInfo": [],
+  "releaseInfo": [
+    {
+      "id": "ebee76976f1847e68bc2fc296c5d7eec",
+      "appId": "ca009cc7ca454012ac6432bae56c3ed2",
+      "platform": []
+    }
+  ],
   "developer": "Eek Games, LLC",
   "developerId": "o-ratrtf2vs6urz9ubu3td2v647rrjfc",
   "endOfSupport": false,
