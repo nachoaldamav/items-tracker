@@ -17,9 +17,13 @@
   "namespace": "2744acda6a2e493e9894b389b6564df7",
   "status": "ACTIVE",
   "creationDate": "2019-11-01T13:22:38.614Z",
-  "lastModifiedDate": "2022-11-07T17:15:24.804Z",
+  "lastModifiedDate": "2023-05-11T12:17:08.465Z",
   "customAttributes": {
     "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "NotarizedAndSigned": {
       "type": "STRING",
       "value": "true"
     },
@@ -33,7 +37,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "2012ce25f70948bdb13cdfe7854c6205",
+      "id": "d6fa9f9f93914f3f98308891cdd87b17",
       "appId": "MayflowerExternalTestsStaging",
       "compatibleApps": [],
       "platform": [
