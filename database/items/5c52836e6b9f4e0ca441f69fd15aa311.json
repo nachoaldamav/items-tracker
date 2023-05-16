@@ -33,17 +33,17 @@
   "namespace": "impala",
   "status": "ACTIVE",
   "creationDate": "2019-10-14T22:52:03.772Z",
-  "lastModifiedDate": "2022-05-18T18:37:28.589Z",
+  "lastModifiedDate": "2023-05-16T14:58:45.465Z",
   "customAttributes": {
     "PresenceID": {
       "type": "STRING",
       "value": "impala"
     },
-    "isUplay": {
+    "MonitorPresence": {
       "type": "STRING",
       "value": "true"
     },
-    "MonitorPresence": {
+    "isUplay": {
       "type": "STRING",
       "value": "true"
     },
@@ -55,13 +55,9 @@
       "type": "STRING",
       "value": "{}"
     },
-    "availableDate": {
-      "type": "STRING",
-      "value": "1652112000"
-    },
     "partnerLinkId": {
       "type": "STRING",
-      "value": "67b3aca00d5044418adbfa070f63cd2a"
+      "value": "147c3d520263467eac3286c14ec8649f"
     },
     "partnerLinkType": {
       "type": "STRING",
@@ -77,7 +73,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "36f01dd6a52540568e1e305d02b8e7c5",
+      "id": "9602d8a23b9b424fa6d304812e14cfd4",
       "appId": "ImpalaTrial",
       "compatibleApps": [],
       "platform": [
