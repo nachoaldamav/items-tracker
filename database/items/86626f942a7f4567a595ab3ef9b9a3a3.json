@@ -1,0 +1,52 @@
+{
+  "id": "86626f942a7f4567a595ab3ef9b9a3a3",
+  "title": "pici internal_QA_7",
+  "description": "pici internal_QA_7",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "50118b7f954e450f8823df1614b24e80",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-17T21:34:26.838Z",
+  "lastModifiedDate": "2023-05-17T21:37:37.060Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "piciinternalQA7"
+    }
+  },
+  "entitlementName": "86626f942a7f4567a595ab3ef9b9a3a3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8030c2f5ad53429c8a8db5705f6a7c39",
+      "appId": "a165819e80354d5682de665b72f41130",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-15T00:00:00.000Z"
+    }
+  ],
+  "developer": "EGFG LLC",
+  "developerId": "o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
