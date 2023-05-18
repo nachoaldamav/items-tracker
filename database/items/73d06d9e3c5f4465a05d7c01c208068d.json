@@ -1,7 +1,7 @@
 {
   "id": "73d06d9e3c5f4465a05d7c01c208068d",
-  "title": "DevGeneralAudience",
-  "description": "DevGeneralAudience",
+  "title": "GeneralAudience",
+  "description": "GeneralAudience",
   "categories": [
     {
       "path": "audience"
@@ -13,14 +13,18 @@
   "namespace": "0bb1bf6df5784815a0c62120f8a82b25",
   "status": "ACTIVE",
   "creationDate": "2022-05-19T18:51:27.660Z",
-  "lastModifiedDate": "2022-05-19T18:51:27.660Z",
+  "lastModifiedDate": "2023-05-18T16:43:03.983Z",
+  "customAttributes": {},
   "entitlementName": "73d06d9e3c5f4465a05d7c01c208068d",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
   "developer": "Studio Sai",
   "developerId": "o-lvb56g8qlk84vsgdalnw26p9pqwmql",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
