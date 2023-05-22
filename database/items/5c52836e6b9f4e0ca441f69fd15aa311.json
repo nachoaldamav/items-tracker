@@ -33,7 +33,7 @@
   "namespace": "impala",
   "status": "ACTIVE",
   "creationDate": "2019-10-14T22:52:03.772Z",
-  "lastModifiedDate": "2023-05-16T14:58:45.465Z",
+  "lastModifiedDate": "2023-05-22T16:01:06.497Z",
   "customAttributes": {
     "PresenceID": {
       "type": "STRING",
@@ -55,14 +55,6 @@
       "type": "STRING",
       "value": "{}"
     },
-    "partnerLinkId": {
-      "type": "STRING",
-      "value": "147c3d520263467eac3286c14ec8649f"
-    },
-    "partnerLinkType": {
-      "type": "STRING",
-      "value": "ubisoft"
-    },
     "FolderName": {
       "type": "STRING",
       "value": "TheDivision2Trial"
@@ -73,7 +65,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "9602d8a23b9b424fa6d304812e14cfd4",
+      "id": "15e697ace94644a69b8c02ea859558d5",
       "appId": "ImpalaTrial",
       "compatibleApps": [],
       "platform": [
