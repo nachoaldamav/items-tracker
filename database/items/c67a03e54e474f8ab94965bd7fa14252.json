@@ -1,7 +1,7 @@
 {
   "id": "c67a03e54e474f8ab94965bd7fa14252",
-  "title": "MayflowerBetaStaging",
-  "description": "MayflowerBetaStaging",
+  "title": "DNU MayflowerBetaStaging",
+  "description": "DNU MayflowerBetaStaging",
   "keyImages": [],
   "categories": [
     {
@@ -17,7 +17,7 @@
   "namespace": "2744acda6a2e493e9894b389b6564df7",
   "status": "ACTIVE",
   "creationDate": "2019-10-09T19:49:17.361Z",
-  "lastModifiedDate": "2021-05-17T23:59:31.792Z",
+  "lastModifiedDate": "2023-05-24T14:04:38.761Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -33,7 +33,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "9e6b555a5b8e4f978b7f253f9564a0a8",
+      "id": "dc3277c7d316401b91a9a0d47dd67bb5",
       "appId": "MayflowerBetaStaging",
       "platform": [
         "Windows"
@@ -47,5 +47,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
