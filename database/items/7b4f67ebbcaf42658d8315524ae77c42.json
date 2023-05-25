@@ -35,8 +35,16 @@
   "namespace": "22068a5c6e3649599c02ba4ec6be1a03",
   "status": "ACTIVE",
   "creationDate": "2022-03-17T15:13:31.755Z",
-  "lastModifiedDate": "2023-04-14T20:58:50.165Z",
+  "lastModifiedDate": "2023-05-25T15:54:45.975Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Daedalic Entertainment GmbH/Gollum/Saved/{EpicID}/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "__SaveGameList__.sav,AutoSave.sav,InventoryStats.sav,PlayerStats.sav,Chapter*.sav"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "TheLordoftheRingsGollum"
@@ -47,7 +55,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "39eabe6042744303bd16c4e99a833d85",
+      "id": "2eff9750e7af4720ace15debb4248f7d",
       "appId": "acf8ea54936e4aefb3c606e274e1bbb2",
       "compatibleApps": [],
       "platform": [
