@@ -4,15 +4,6 @@
   "description": "HUMANKIND™",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/offer/02c14a01b7044db98de3f3a10813a42e/HK_Portrait_1200x1600-3009dcd4129230e830b67f3bb5e0c9b8",
-      "md5": "3009dcd4129230e830b67f3bb5e0c9b8",
-      "width": 1200,
-      "height": 1600,
-      "size": 236308,
-      "uploadedDate": "2023-05-18T16:07:59.897Z"
-    },
-    {
       "type": "DieselGameBox",
       "url": "https://cdn1.epicgames.com/offer/02c14a01b7044db98de3f3a10813a42e/HK_Landscape_2560x1440-0233eae757a0e921c879b7be3a697d97",
       "md5": "0233eae757a0e921c879b7be3a697d97",
@@ -20,6 +11,15 @@
       "height": 1440,
       "size": 358402,
       "uploadedDate": "2023-05-18T16:08:32.230Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/02c14a01b7044db98de3f3a10813a42e/newimg_1200x1600-41d8535c87839b2c2d0aeb3e43d00d57",
+      "md5": "41d8535c87839b2c2d0aeb3e43d00d57",
+      "width": 1200,
+      "height": 1600,
+      "size": 519847,
+      "uploadedDate": "2023-05-26T21:18:59.131Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "02c14a01b7044db98de3f3a10813a42e",
   "status": "ACTIVE",
   "creationDate": "2020-09-08T17:30:29.527Z",
-  "lastModifiedDate": "2023-05-18T16:08:37.102Z",
+  "lastModifiedDate": "2023-05-26T21:19:05.027Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -76,7 +76,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "a2453d88a4f341d58de500ecd135a959",
+      "id": "86392c08ea2f4d5e8c885858f8bd5f3f",
       "appId": "5fc579fbef6a4bf99171861b68b8fcb2",
       "platform": [
         "Windows",
