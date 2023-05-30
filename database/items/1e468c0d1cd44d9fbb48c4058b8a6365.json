@@ -1,26 +1,26 @@
 {
   "id": "1e468c0d1cd44d9fbb48c4058b8a6365",
   "title": "Scathe",
-  "description": "Scathe",
+  "description": "Scathe is an intense, blood-soaked FPS where quick reflexes are the key to surviving the bullet Hell labyrinth that stands between you and your ascension. Rip through the underworld's deadliest demons and collect the Hellstones with drop-in/drop-out online co-op gameplay.",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/451a12c0139f4057afdb5c9f546b29a3/scathe-offer-17nfm.jpg",
-      "md5": "05fc171130540981bf3b458d0d34294c",
+      "url": "https://cdn1.epicgames.com/spt-assets/451a12c0139f4057afdb5c9f546b29a3/scathe-q7jt3.jpeg",
+      "md5": "b828cd68fc2b8d137209b460b0cd4603",
       "width": 2560,
       "height": 1440,
-      "size": 972062,
-      "uploadedDate": "2022-03-18T12:40:23.054Z",
+      "size": 531295,
+      "uploadedDate": "2023-05-15T10:55:10.138Z",
       "alt": "Scathe Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/451a12c0139f4057afdb5c9f546b29a3/download-scathe-offer-1rqso.jpg",
-      "md5": "18a619418348eb75a2536d4a8b1b24ad",
+      "url": "https://cdn1.epicgames.com/spt-assets/451a12c0139f4057afdb5c9f546b29a3/scathe-xe48x.png",
+      "md5": "70417345400ece78441391f60207a3d3",
       "width": 1200,
       "height": 1600,
-      "size": 501821,
-      "uploadedDate": "2022-03-18T12:42:06.920Z",
+      "size": 2948496,
+      "uploadedDate": "2023-05-15T10:55:11.146Z",
       "alt": "Download Scathe Offer"
     }
   ],
@@ -34,8 +34,8 @@
   ],
   "namespace": "8dcfcaf1aa72402fa2e84897f6cccc50",
   "status": "ACTIVE",
-  "creationDate": "2022-03-21T18:11:17.530Z",
-  "lastModifiedDate": "2022-03-21T18:11:17.530Z",
+  "creationDate": "2022-01-20T16:20:19.528Z",
+  "lastModifiedDate": "2023-05-30T14:58:00.331Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,8 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "57ba254cf46c44d8aaf473a71bd568db",
-      "appId": "047835f80e5640aa80c67fb237810bd6"
+      "id": "91cda11ef3324f9193d468693f0ac674",
+      "appId": "047835f80e5640aa80c67fb237810bd6",
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Kwalee",
