@@ -1,7 +1,27 @@
 {
   "id": "36c3fab8eb264963869b8e1b1a07075d",
-  "title": "Grunter",
-  "description": "Grunter",
+  "title": "System Shock",
+  "description": "System Shock",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/e49aaa31c1324e398e0b1029a0c6d390/EGS_Afighttothedeathinthedepthsofspace_NightdiveStudios_S4-1200x1600-45f2ccbf4fcbf71a059499d0742229f0_1200x1600-45f2ccbf4fcbf71a059499d0742229f0",
+      "md5": "45f2ccbf4fcbf71a059499d0742229f0",
+      "width": 1200,
+      "height": 1600,
+      "size": 797332,
+      "uploadedDate": "2023-05-17T14:06:25.264Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/e49aaa31c1324e398e0b1029a0c6d390/EGS_Afighttothedeathinthedepthsofspace_NightdiveStudios_S3-2560x1440-955046ca7b8e5ad70907c1380d1687bd_2560x1440-955046ca7b8e5ad70907c1380d1687bd",
+      "md5": "955046ca7b8e5ad70907c1380d1687bd",
+      "width": 2560,
+      "height": 1440,
+      "size": 835023,
+      "uploadedDate": "2023-05-17T14:06:28.600Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,7 +36,7 @@
   "namespace": "e49aaa31c1324e398e0b1029a0c6d390",
   "status": "ACTIVE",
   "creationDate": "2021-02-12T23:40:17.234Z",
-  "lastModifiedDate": "2022-09-14T13:09:18.435Z",
+  "lastModifiedDate": "2023-05-30T15:01:10.362Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,7 +64,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Grunter"
+      "value": "SystemShock"
     }
   },
   "entitlementName": "36c3fab8eb264963869b8e1b1a07075d",
@@ -52,7 +72,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "42956a22e56f4a2b9e96d19e283b36ad",
+      "id": "9f3aab5bd1174aab8ad6a872852052cd",
       "appId": "1d703aedb468494681ed9e5b657dca00",
       "platform": [
         "Windows"
