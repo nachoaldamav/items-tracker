@@ -4,22 +4,22 @@
   "description": "Auto Chess",
   "keyImages": [
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/item/37baf50c268d47779020d73143bb02b0/EGS_AutoChess_DragonestGames_S2_1200x1600-d8bfc7469c81f5afb05e7b725c7cecfa",
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/37baf50c268d47779020d73143bb02b0/EGS_AutoChess_DragonestGames_S2_1200x1600-d8bfc7469c81f5afb05e7b725c7cecfa_1200x1600-d8bfc7469c81f5afb05e7b725c7cecfa",
       "md5": "d8bfc7469c81f5afb05e7b725c7cecfa",
       "width": 1200,
       "height": 1600,
       "size": 896845,
-      "uploadedDate": "2023-05-24T20:13:45.297Z"
+      "uploadedDate": "2023-06-01T14:09:33.783Z"
     },
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/37baf50c268d47779020d73143bb02b0/EGS_AutoChess_DragonestGames_S1_2560x1440-6966e4666053365f5c7cd27870b4eb8b",
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/37baf50c268d47779020d73143bb02b0/EGS_AutoChess_DragonestGames_S1_2560x1440-6966e4666053365f5c7cd27870b4eb8b_2560x1440-6966e4666053365f5c7cd27870b4eb8b",
       "md5": "6966e4666053365f5c7cd27870b4eb8b",
       "width": 2560,
       "height": 1440,
       "size": 907495,
-      "uploadedDate": "2023-05-24T20:13:48.457Z"
+      "uploadedDate": "2023-06-01T14:09:36.820Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "37baf50c268d47779020d73143bb02b0",
   "status": "ACTIVE",
   "creationDate": "2019-06-06T19:54:40.735Z",
-  "lastModifiedDate": "2023-05-31T23:08:56.485Z",
+  "lastModifiedDate": "2023-06-01T14:09:42.990Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -72,7 +72,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "1138031ead7f49429903ebc40b7195cc",
+      "id": "598302899dbc4885934ede9182246b73",
       "appId": "Chicken",
       "platform": [
         "Windows",
