@@ -33,7 +33,7 @@
   "namespace": "nemesia",
   "status": "ACTIVE",
   "creationDate": "2019-03-13T12:11:22.827Z",
-  "lastModifiedDate": "2020-05-13T18:56:23.696Z",
+  "lastModifiedDate": "2023-06-02T19:30:37.696Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -73,7 +73,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "42eb019054cb4cda82a9c5738f3b1f67",
+      "id": "7f3714b1d1a44e8ea46d082144d46300",
       "appId": "Nemesia",
       "compatibleApps": [],
       "platform": [
@@ -91,5 +91,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
