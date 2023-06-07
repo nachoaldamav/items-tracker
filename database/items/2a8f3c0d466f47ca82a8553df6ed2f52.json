@@ -4,22 +4,22 @@
   "description": "Vampire: The Masquerade – Bloodlines 2",
   "keyImages": [
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/nemesia/item/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S1-2560x1440-5ff32c5e44f21a30ecf2bd689f9e12da.jpg",
-      "md5": "5ff32c5e44f21a30ecf2bd689f9e12da",
-      "width": 2560,
-      "height": 1440,
-      "size": 626626,
-      "uploadedDate": "2020-05-13T18:55:56.871Z"
-    },
-    {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/nemesia/item/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S4-1200x1600-e8d3610bebaa405d8fd7eed4e30e6134.jpg",
-      "md5": "e8d3610bebaa405d8fd7eed4e30e6134",
+      "url": "https://cdn1.epicgames.com/item/nemesia/EGS_UnsanctionedEdition_TBC_Editions_S2_1200x1600-92734ab1599eb739694921f94dc9f101",
+      "md5": "92734ab1599eb739694921f94dc9f101",
       "width": 1200,
       "height": 1600,
-      "size": 388886,
-      "uploadedDate": "2020-05-13T18:56:15.129Z"
+      "size": 359428,
+      "uploadedDate": "2023-06-02T19:24:32.833Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/nemesia/EGS_UnsanctionedEdition_TBC_Editions_S1_2560x1440-20fa7c44a98ebf0277ba17f46af91fd0",
+      "md5": "20fa7c44a98ebf0277ba17f46af91fd0",
+      "width": 2560,
+      "height": 1440,
+      "size": 510453,
+      "uploadedDate": "2023-06-02T19:24:36.155Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "nemesia",
   "status": "ACTIVE",
   "creationDate": "2019-03-13T12:11:22.827Z",
-  "lastModifiedDate": "2023-06-02T19:30:37.696Z",
+  "lastModifiedDate": "2023-06-07T21:14:13.723Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -73,7 +73,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "7f3714b1d1a44e8ea46d082144d46300",
+      "id": "2426ca8ba21544ab8c91c3567699cad6",
       "appId": "Nemesia",
       "compatibleApps": [],
       "platform": [

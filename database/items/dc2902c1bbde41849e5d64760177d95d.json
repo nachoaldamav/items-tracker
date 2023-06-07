@@ -24,7 +24,8 @@
   "namespace": "nemesia",
   "status": "ACTIVE",
   "creationDate": "2019-03-15T16:54:23.027Z",
-  "lastModifiedDate": "2019-06-14T12:32:00.873Z",
+  "lastModifiedDate": "2023-06-07T21:14:53.204Z",
+  "customAttributes": {},
   "entitlementName": "dc2902c1bbde41849e5d64760177d95d",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
@@ -36,6 +37,7 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "RATING_PENDING",
-  "selfRefundable": true,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

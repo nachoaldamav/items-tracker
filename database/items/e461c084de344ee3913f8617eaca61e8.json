@@ -1,6 +1,6 @@
 {
   "id": "e461c084de344ee3913f8617eaca61e8",
-  "title": "Vampire: The Masquerade – Bloodlines 2 General Audience",
+  "title": "Standard General Audience",
   "description": "Vampire: The Masquerade – Bloodlines 2 General Audience",
   "keyImages": [
     {
@@ -24,7 +24,7 @@
   "namespace": "nemesia",
   "status": "ACTIVE",
   "creationDate": "2019-03-13T12:16:08.285Z",
-  "lastModifiedDate": "2023-06-02T19:30:37.740Z",
+  "lastModifiedDate": "2023-06-07T21:14:53.207Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -42,6 +42,7 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "RATING_PENDING",
-  "selfRefundable": true,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

@@ -1,6 +1,6 @@
 {
   "id": "a9e8b5b1410e4a4c90a910537c9320ed",
-  "title": "Vampire: The Masquerade – Bloodlines 2 Pre-Purchase Audience",
+  "title": "Standard Pre-Purchase Audience",
   "description": "Vampire: The Masquerade – Bloodlines 2 Pre-Purchase Audience",
   "keyImages": [
     {
@@ -24,7 +24,8 @@
   "namespace": "nemesia",
   "status": "ACTIVE",
   "creationDate": "2019-03-15T03:02:58.208Z",
-  "lastModifiedDate": "2019-06-14T12:32:00.873Z",
+  "lastModifiedDate": "2023-06-07T21:14:53.321Z",
+  "customAttributes": {},
   "entitlementName": "a9e8b5b1410e4a4c90a910537c9320ed",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
@@ -36,6 +37,7 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "RATING_PENDING",
-  "selfRefundable": true,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

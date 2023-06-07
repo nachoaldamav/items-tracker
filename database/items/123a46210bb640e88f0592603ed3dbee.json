@@ -1,7 +1,7 @@
 {
   "id": "123a46210bb640e88f0592603ed3dbee",
-  "title": "Blood Moon Edition Audience",
-  "description": "Blood Moon Edition Audience",
+  "title": "Blood Moon Edition Pre-Purchase Audience",
+  "description": "Blood Moon Edition Pre-Purchase Audience",
   "keyImages": [
     {
       "type": "ESRB",
@@ -24,7 +24,8 @@
   "namespace": "nemesia",
   "status": "ACTIVE",
   "creationDate": "2019-03-15T02:11:51.401Z",
-  "lastModifiedDate": "2019-06-14T12:32:00.873Z",
+  "lastModifiedDate": "2023-06-07T21:14:53.321Z",
+  "customAttributes": {},
   "entitlementName": "123a46210bb640e88f0592603ed3dbee",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
@@ -36,6 +37,7 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "RATING_PENDING",
-  "selfRefundable": true,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
