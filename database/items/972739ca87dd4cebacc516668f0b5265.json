@@ -35,11 +35,15 @@
   "namespace": "e703feccdf534d6582c67d0ce90ecdd3",
   "status": "ACTIVE",
   "creationDate": "2022-05-06T02:37:39.710Z",
-  "lastModifiedDate": "2023-05-31T09:11:05.651Z",
+  "lastModifiedDate": "2023-06-08T09:31:30.905Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{UserSavedGames}/My Games/Documents/{EpicID}/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
     },
     "FolderName": {
       "type": "STRING",
@@ -51,7 +55,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "0d635016c410425290b90e8d271ba456",
+      "id": "93e6dd6270c54d5aadc31ef232d4af1d",
       "appId": "d6fbe2207e2945f8b826ff2d75835a80",
       "platform": [
         "Windows"
