@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/04d5b86a93514949a3ace614d9e1e417/witchfire-offer-1roko.png",
-      "md5": "6721c89ae0f9f84f52bac4570d882b93",
+      "url": "https://cdn1.epicgames.com/spt-assets/04d5b86a93514949a3ace614d9e1e417/witchfire-8epeh.jpg",
+      "md5": "0ebebda3ee50156b5d2db58773e3fb1d",
       "width": 2560,
       "height": 1440,
-      "size": 3426905,
-      "uploadedDate": "2022-06-08T20:12:51.293Z",
+      "size": 661012,
+      "uploadedDate": "2023-06-06T11:24:36.962Z",
       "alt": "Witchfire Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/04d5b86a93514949a3ace614d9e1e417/download-witchfire-offer-d5ccn.png",
-      "md5": "f8c6816fda4fe2030c7218021a358f0a",
+      "url": "https://cdn1.epicgames.com/spt-assets/04d5b86a93514949a3ace614d9e1e417/witchfire-hz7g2.jpg",
+      "md5": "cd4e7f3cc4fb7ebc9aacdce93af8435b",
       "width": 1200,
       "height": 1600,
-      "size": 1884103,
-      "uploadedDate": "2022-06-08T20:12:48.167Z",
+      "size": 470080,
+      "uploadedDate": "2023-06-06T11:24:39.199Z",
       "alt": "Download Witchfire Offer"
     }
   ],
@@ -34,8 +34,8 @@
   ],
   "namespace": "2e404271085e4eb480f48c3d2e5f08ed",
   "status": "ACTIVE",
-  "creationDate": "2022-06-08T20:57:38.675Z",
-  "lastModifiedDate": "2022-06-08T20:57:38.675Z",
+  "creationDate": "2022-06-03T19:19:26.429Z",
+  "lastModifiedDate": "2023-06-09T09:30:24.619Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,8 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "f4664929073b475bac562bc92fe720ba",
-      "appId": "8764f82381f5436f99e97172df06af35"
+      "id": "139cdef1570240b183d8efdc338b3d5a",
+      "appId": "8764f82381f5436f99e97172df06af35",
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "The Astronauts",
