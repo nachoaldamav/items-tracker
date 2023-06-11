@@ -35,11 +35,11 @@
   "namespace": "0bb1bf6df5784815a0c62120f8a82b25",
   "status": "ACTIVE",
   "creationDate": "2022-05-19T18:51:27.802Z",
-  "lastModifiedDate": "2022-05-23T09:39:14.619Z",
+  "lastModifiedDate": "2023-06-11T19:54:40.500Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "Eternights3qckb"
+      "value": "Eternights"
     }
   },
   "entitlementName": "13092063f71b4331b488bbe22d0a083e",
@@ -47,13 +47,21 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "1462cdd6294746fdb2b94a6b1f291a79",
-      "appId": "6ee8fe4d83fe49e49cbb79741616ec3b"
+      "id": "721b033817ac4c15a5bf106b2602a29b",
+      "appId": "6ee8fe4d83fe49e49cbb79741616ec3b",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2023-06-01T17:08:22.410Z"
     }
   ],
   "developer": "Studio Sai",
   "developerId": "o-lvb56g8qlk84vsgdalnw26p9pqwmql",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
