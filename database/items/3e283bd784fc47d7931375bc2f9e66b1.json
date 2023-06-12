@@ -11,8 +11,13 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2020-02-10T20:51:55.785Z",
-  "lastModifiedDate": "2023-06-07T15:14:03.475Z",
-  "customAttributes": {},
+  "lastModifiedDate": "2023-06-12T14:20:06.877Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
   "entitlementName": "3e283bd784fc47d7931375bc2f9e66b1",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",

@@ -11,7 +11,13 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2018-07-25T14:46:21.522Z",
-  "lastModifiedDate": "2018-07-25T14:46:59.883Z",
+  "lastModifiedDate": "2023-06-12T14:20:20.556Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
   "entitlementName": "Fortnite_Samsung",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",

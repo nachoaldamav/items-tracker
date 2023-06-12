@@ -11,7 +11,13 @@
   "namespace": "epic",
   "status": "ACTIVE",
   "creationDate": "2017-08-02T18:04:21.026Z",
-  "lastModifiedDate": "2019-05-09T14:44:39.902Z",
+  "lastModifiedDate": "2023-06-12T14:20:02.226Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
   "entitlementName": "Epic_Employee_FT",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",

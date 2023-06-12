@@ -11,8 +11,12 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2019-03-21T17:03:15.547Z",
-  "lastModifiedDate": "2019-03-21T17:03:15.547Z",
+  "lastModifiedDate": "2023-06-12T14:20:18.100Z",
   "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows,Mac"
