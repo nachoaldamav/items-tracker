@@ -4,22 +4,22 @@
   "description": "Auto Chess",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/37baf50c268d47779020d73143bb02b0/EGS_AutoChess_DragonestGames_S2_1200x1600-d8bfc7469c81f5afb05e7b725c7cecfa_1200x1600-d8bfc7469c81f5afb05e7b725c7cecfa",
-      "md5": "d8bfc7469c81f5afb05e7b725c7cecfa",
-      "width": 1200,
-      "height": 1600,
-      "size": 896845,
-      "uploadedDate": "2023-06-01T14:09:33.783Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/item/37baf50c268d47779020d73143bb02b0/EGS_AutoChess_DragonestGames_S1_2560x1440-6966e4666053365f5c7cd27870b4eb8b_2560x1440-6966e4666053365f5c7cd27870b4eb8b",
-      "md5": "6966e4666053365f5c7cd27870b4eb8b",
+      "url": "https://cdn1.epicgames.com/item/37baf50c268d47779020d73143bb02b0/EGS_AutoChess_DragonestGames_S1_2560x1440-270f0f08632f48cc24b34ccd0e6ccb96",
+      "md5": "270f0f08632f48cc24b34ccd0e6ccb96",
       "width": 2560,
       "height": 1440,
-      "size": 907495,
-      "uploadedDate": "2023-06-01T14:09:36.820Z"
+      "size": 1011097,
+      "uploadedDate": "2023-07-17T11:01:55.101Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/37baf50c268d47779020d73143bb02b0/EGS_AutoChess_DragonestGames_S2_1200x1600-30695535512e135a8c1020ec4549af84",
+      "md5": "30695535512e135a8c1020ec4549af84",
+      "width": 1200,
+      "height": 1600,
+      "size": 992269,
+      "uploadedDate": "2023-07-17T11:02:03.416Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "37baf50c268d47779020d73143bb02b0",
   "status": "ACTIVE",
   "creationDate": "2019-06-06T19:54:40.735Z",
-  "lastModifiedDate": "2023-06-15T09:51:17.680Z",
+  "lastModifiedDate": "2023-07-17T11:11:15.902Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -72,7 +72,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "598302899dbc4885934ede9182246b73",
+      "id": "97d72248dd51449fb24b08bd4fea168f",
       "appId": "Chicken",
       "platform": [
         "Windows",
