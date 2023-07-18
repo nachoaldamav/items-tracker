@@ -34,8 +34,8 @@
   ],
   "namespace": "3d7bb6d94a3141c6bff3c63290d979e2",
   "status": "ACTIVE",
-  "creationDate": "2022-05-03T06:45:50.144Z",
-  "lastModifiedDate": "2022-06-02T12:24:43.667Z",
+  "creationDate": "2021-08-18T13:33:36.472Z",
+  "lastModifiedDate": "2023-07-18T16:15:57.838Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -59,9 +59,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "67f9c468da4a4dd294d6135f155c0ea2",
+      "id": "04d7b3df8d834ce5bcfb07b00b298bf8",
       "appId": "72f8637e34e047878f7a09a03eb28da2",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Just Two Ltd.",
