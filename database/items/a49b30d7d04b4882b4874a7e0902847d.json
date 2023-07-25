@@ -6,21 +6,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/item/sundrop/LOC_FH_EPIC_HeroBanner_3840x2160_US_3840x2160-27ae74bd9185c5b11455e952b4e69ab8",
-      "md5": "27ae74bd9185c5b11455e952b4e69ab8",
+      "url": "https://cdn1.epicgames.com/item/sundrop/LOC_FH_EPIC_HeroBanner_3840x2160_US_3840x2160-1c9e801c005afe208a042a57f18a1637",
+      "md5": "1c9e801c005afe208a042a57f18a1637",
       "width": 3840,
       "height": 2160,
-      "size": 765451,
-      "uploadedDate": "2023-01-30T16:48:26.110Z"
+      "size": 7970185,
+      "uploadedDate": "2023-07-24T13:23:33.712Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/sundrop/LOC_FH_EPIC_Portrait_1200x1600_US_1200x1600-3aea2aca9fbb20d01075d1552aab4e32",
-      "md5": "3aea2aca9fbb20d01075d1552aab4e32",
+      "url": "https://cdn1.epicgames.com/item/sundrop/LOC_FH_EPIC_Portrait_1200x1600_US_1200x1600-8fd4d67d0734a2eb59dae2af303bec6b",
+      "md5": "8fd4d67d0734a2eb59dae2af303bec6b",
       "width": 1200,
       "height": 1600,
-      "size": 443448,
-      "uploadedDate": "2023-01-30T16:48:30.856Z"
+      "size": 1748274,
+      "uploadedDate": "2023-07-24T13:23:49.096Z"
     }
   ],
   "categories": [
@@ -34,19 +34,19 @@
   "namespace": "sundrop",
   "status": "ACTIVE",
   "creationDate": "2020-07-20T20:15:05.717Z",
-  "lastModifiedDate": "2023-02-09T16:03:13.944Z",
+  "lastModifiedDate": "2023-07-25T14:58:16.368Z",
   "customAttributes": {
     "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "NeverUpdate": {
       "type": "STRING",
       "value": "true"
     },
     "PresenceId": {
       "type": "STRING",
       "value": "sundrop"
-    },
-    "NeverUpdate": {
-      "type": "STRING",
-      "value": "true"
     },
     "MonitorPresence": {
       "type": "STRING",
@@ -56,13 +56,13 @@
       "type": "STRING",
       "value": "[]"
     },
-    "partnerLinkType": {
-      "type": "STRING",
-      "value": "[]"
-    },
     "partnerLinkId": {
       "type": "STRING",
-      "value": "[]"
+      "value": "76fb04ffd9844e52bf69384c3480f5e1"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
     },
     "FolderName": {
       "type": "STRING",
@@ -74,7 +74,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "da6627c20e0242b1b62932b1b6154ffb",
+      "id": "50e2b147a5c3446fa1d140b1562c7c69",
       "appId": "94ecb38f12fa4f01a8e10e16be5734c2",
       "compatibleApps": [],
       "platform": [
