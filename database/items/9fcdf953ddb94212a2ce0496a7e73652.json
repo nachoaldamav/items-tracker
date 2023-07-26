@@ -35,8 +35,12 @@
   "namespace": "5c59642227a2412fb38f324d1772914e",
   "status": "ACTIVE",
   "creationDate": "2021-12-13T20:59:01.669Z",
-  "lastModifiedDate": "2023-06-28T12:50:16.517Z",
+  "lastModifiedDate": "2023-07-26T14:22:04.218Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Oroboro games/TrainValley2/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "TrainValley2vmDaQ"
@@ -47,7 +51,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "4701db41269e4150ab7bb25179c77d71",
+      "id": "29a3748bcc2549e6b2da8c3ab601c620",
       "appId": "a617890cec1542d6ba760ba13f79225e",
       "platform": [
         "Windows"
@@ -57,6 +61,7 @@
   "developer": "Postmeta Games",
   "developerId": "o-ptrc3tlq66gg7gsku56pwafjwzs23b",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
