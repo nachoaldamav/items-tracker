@@ -16,7 +16,7 @@
   "namespace": "c7ab6cc723fe4bc6b24237d61b58687b",
   "status": "ACTIVE",
   "creationDate": "2020-06-29T16:06:51.457Z",
-  "lastModifiedDate": "2021-11-16T15:56:01.335Z",
+  "lastModifiedDate": "2023-08-16T17:17:32.835Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -32,7 +32,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "f7c842a01c6042d5b11c87c906a3246c",
+      "id": "e265f79620d54fdd85125fb6a17f2a36",
       "appId": "e0642a1bfab846a1b93b0ccd29f80ca9",
       "platform": [
         "Windows"
@@ -40,12 +40,13 @@
       "dateAdded": "2020-06-29T16:09:05.626Z"
     }
   ],
-  "developer": "Riot Games",
+  "developer": "Riot Forge",
   "developerId": "o-ch65axjcvgpsutlhlcyvqkx3fkmk44",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
