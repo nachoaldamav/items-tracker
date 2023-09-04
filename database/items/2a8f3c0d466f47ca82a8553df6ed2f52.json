@@ -4,22 +4,22 @@
   "description": "Vampire: The Masquerade – Bloodlines 2",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/nemesia/EGS_UnsanctionedEdition_TBC_Editions_S2_1200x1600-92734ab1599eb739694921f94dc9f101",
-      "md5": "92734ab1599eb739694921f94dc9f101",
-      "width": 1200,
-      "height": 1600,
-      "size": 359428,
-      "uploadedDate": "2023-06-02T19:24:32.833Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/item/nemesia/EGS_UnsanctionedEdition_TBC_Editions_S1_2560x1440-20fa7c44a98ebf0277ba17f46af91fd0",
-      "md5": "20fa7c44a98ebf0277ba17f46af91fd0",
+      "url": "https://cdn1.epicgames.com/item/nemesia/EGS_VampireTheMasqueradeBloodlines2_TheChineseRoom_S1_2560x1440-eed15ab6496fcba9770d4205aeb2aaf7",
+      "md5": "eed15ab6496fcba9770d4205aeb2aaf7",
       "width": 2560,
       "height": 1440,
-      "size": 510453,
-      "uploadedDate": "2023-06-02T19:24:36.155Z"
+      "size": 532507,
+      "uploadedDate": "2023-08-30T15:20:49.171Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/nemesia/EGS_VampireTheMasqueradeBloodlines2_TheChineseRoom_S2_1200x1600-31c6dc03b2c02f7cf43b6df2972791bf",
+      "md5": "31c6dc03b2c02f7cf43b6df2972791bf",
+      "width": 1200,
+      "height": 1600,
+      "size": 339924,
+      "uploadedDate": "2023-08-30T15:20:51.842Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "nemesia",
   "status": "ACTIVE",
   "creationDate": "2019-03-13T12:11:22.827Z",
-  "lastModifiedDate": "2023-06-07T21:14:13.723Z",
+  "lastModifiedDate": "2023-09-04T07:57:42.434Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -73,7 +73,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "2426ca8ba21544ab8c91c3567699cad6",
+      "id": "d34bc6e358d44114a2bd2144ed6197b4",
       "appId": "Nemesia",
       "compatibleApps": [],
       "platform": [
