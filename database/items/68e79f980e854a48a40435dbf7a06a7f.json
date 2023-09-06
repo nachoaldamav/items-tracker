@@ -10,8 +10,13 @@
   "namespace": "poodle",
   "status": "ACTIVE",
   "creationDate": "2022-10-18T10:26:26.330Z",
-  "lastModifiedDate": "2023-03-29T15:51:00.615Z",
-  "customAttributes": {},
+  "lastModifiedDate": "2023-09-06T08:37:10.171Z",
+  "customAttributes": {
+    "ORG_PORTAL_DISPLAY_NAME": {
+      "type": "STRING",
+      "value": "A Nice Display Name"
+    }
+  },
   "entitlementName": "TWINMOTION_TRIAL_OFFLINE_INSTALLER",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
