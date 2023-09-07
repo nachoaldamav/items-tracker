@@ -35,7 +35,7 @@
   "namespace": "2ce0c35647314c49b649dfd6cd6d921c",
   "status": "ACTIVE",
   "creationDate": "2022-02-22T19:44:39.755Z",
-  "lastModifiedDate": "2022-02-22T19:44:39.755Z",
+  "lastModifiedDate": "2023-09-07T12:16:41.417Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -48,7 +48,11 @@
   "releaseInfo": [
     {
       "id": "ab10e48783654e5fa8648af4f6125e49",
-      "appId": "fa3d85332b94433987a9343a98f07e11"
+      "appId": "fa3d85332b94433987a9343a98f07e11",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Big Sugar Games",
