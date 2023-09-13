@@ -36,7 +36,7 @@
   "namespace": "2744acda6a2e493e9894b389b6564df7",
   "status": "ACTIVE",
   "creationDate": "2019-06-13T17:18:24.273Z",
-  "lastModifiedDate": "2023-03-09T16:55:20.736Z",
+  "lastModifiedDate": "2023-09-13T16:51:01.836Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -80,10 +80,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "054eada7f73e4055a568f9ee3eb5c99d",
+      "id": "141de3570bbb48fcac995bfc58503d63",
       "appId": "Mayflower",
+      "compatibleApps": [],
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "dateAdded": "2019-06-28T00:00:00.000Z"
     }
