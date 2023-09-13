@@ -1,0 +1,52 @@
+{
+  "id": "b4b6558499144430a96fdd48d3910394",
+  "title": "pici Gameplay A",
+  "description": "pici Gameplay A",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "50118b7f954e450f8823df1614b24e80",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-13T22:37:58.047Z",
+  "lastModifiedDate": "2023-09-13T22:45:21.130Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "piciGameplayA"
+    }
+  },
+  "entitlementName": "b4b6558499144430a96fdd48d3910394",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "781ebe560f224cea9051c956e93f7134",
+      "appId": "9a8c8ad7c8724fbea45867747412c8ad",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-15T00:00:00.000Z"
+    }
+  ],
+  "developer": "EGFG LLC",
+  "developerId": "o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

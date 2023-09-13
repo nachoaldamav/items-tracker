@@ -1,0 +1,52 @@
+{
+  "id": "d74fbd215c2a45a6be890391e565552a",
+  "title": "pici Mobile Engine A",
+  "description": "pici Mobile Engine A",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "50118b7f954e450f8823df1614b24e80",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-13T22:40:45.879Z",
+  "lastModifiedDate": "2023-09-13T22:45:21.141Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "piciMobileEngineA"
+    }
+  },
+  "entitlementName": "d74fbd215c2a45a6be890391e565552a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "52a39267014c474f9477bafbe4f6a9fe",
+      "appId": "88407023540c4786a041df3b2e2aa603",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-15T00:00:00.000Z"
+    }
+  ],
+  "developer": "EGFG LLC",
+  "developerId": "o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

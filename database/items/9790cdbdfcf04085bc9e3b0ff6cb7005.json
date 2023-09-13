@@ -1,0 +1,52 @@
+{
+  "id": "9790cdbdfcf04085bc9e3b0ff6cb7005",
+  "title": "pici Engine B",
+  "description": "pici Engine B",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "50118b7f954e450f8823df1614b24e80",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-13T22:40:12.058Z",
+  "lastModifiedDate": "2023-09-13T22:45:21.109Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "piciEngineB"
+    }
+  },
+  "entitlementName": "9790cdbdfcf04085bc9e3b0ff6cb7005",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "abdaf342cc9d4710b9e8fa98143a6721",
+      "appId": "c83eaeea3adb4443b17277031b2c39d4",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-15T00:00:00.000Z"
+    }
+  ],
+  "developer": "EGFG LLC",
+  "developerId": "o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

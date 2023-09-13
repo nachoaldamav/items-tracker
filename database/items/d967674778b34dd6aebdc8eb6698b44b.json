@@ -1,0 +1,52 @@
+{
+  "id": "d967674778b34dd6aebdc8eb6698b44b",
+  "title": "pici LiveOps A",
+  "description": "pici LiveOps A",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "50118b7f954e450f8823df1614b24e80",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-13T22:34:31.399Z",
+  "lastModifiedDate": "2023-09-13T22:45:21.147Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "piciLiveOpsA"
+    }
+  },
+  "entitlementName": "d967674778b34dd6aebdc8eb6698b44b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ab588359c7e945b4b33c398e35ace9a9",
+      "appId": "66a4ed8da6384c50a2d876287e05ddfb",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-15T00:00:00.000Z"
+    }
+  ],
+  "developer": "EGFG LLC",
+  "developerId": "o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,52 @@
+{
+  "id": "79539feedac14ab5a044654d762f9133",
+  "title": "pici Mobile Screens B",
+  "description": "pici Mobile Screens B",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "50118b7f954e450f8823df1614b24e80",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-13T22:43:46.089Z",
+  "lastModifiedDate": "2023-09-13T22:45:21.092Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "piciMobileScreensB"
+    }
+  },
+  "entitlementName": "79539feedac14ab5a044654d762f9133",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "48c8a11be7bc482a8fdb9b84c2f2ac6d",
+      "appId": "879256772a75433395c91aadde03ec7f",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-15T00:00:00.000Z"
+    }
+  ],
+  "developer": "EGFG LLC",
+  "developerId": "o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

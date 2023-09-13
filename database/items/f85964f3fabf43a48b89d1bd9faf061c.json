@@ -1,0 +1,52 @@
+{
+  "id": "f85964f3fabf43a48b89d1bd9faf061c",
+  "title": "pici Mobile Gameplay A",
+  "description": "pici Mobile Gameplay A",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "50118b7f954e450f8823df1614b24e80",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-13T22:41:42.128Z",
+  "lastModifiedDate": "2023-09-13T22:45:21.166Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "piciMobileGameplayA"
+    }
+  },
+  "entitlementName": "f85964f3fabf43a48b89d1bd9faf061c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "89e86df4ae9f4f37b39834295c16550a",
+      "appId": "d9796f5fb7d34624bc4c524fd978ee87",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-15T00:00:00.000Z"
+    }
+  ],
+  "developer": "EGFG LLC",
+  "developerId": "o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
