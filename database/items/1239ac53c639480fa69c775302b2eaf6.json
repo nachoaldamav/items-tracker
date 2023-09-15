@@ -35,7 +35,7 @@
   "namespace": "9704b88f02244a60b9b0ab81e0e31389",
   "status": "ACTIVE",
   "creationDate": "2022-05-17T08:03:33.206Z",
-  "lastModifiedDate": "2023-08-17T06:24:16.590Z",
+  "lastModifiedDate": "2023-09-15T15:09:46.019Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,7 +47,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "b131bff8f6a746149c65ab37c9769d72",
+      "id": "d7f613a40d8047a78265e972620b566d",
       "appId": "eeaf9fd0962d4ab29d72a42df19aaa4a",
       "platform": [
         "Windows"
@@ -56,7 +56,10 @@
   ],
   "developer": "Kwalee",
   "developerId": "o-suxccu7jpseb6b4tfez6bmh3w3fv43",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
