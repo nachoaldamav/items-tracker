@@ -1,7 +1,7 @@
 {
   "id": "f3ac42b603f546ccbd0f0240ba120143",
   "title": "Astrea Six Sided Oracles",
-  "description": "Astrea Six Sided Oracles",
+  "description": "An all new dice-deck-building roguelike, Astrea, has you chart a path through the ruins of a lost civilization as one of six brave Oracles. Using an ever-changing deck of dice and enchanted Sentinels, Purify waves of Corrupted foes and a decayed goddess to save the Star System.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,8 +34,8 @@
   ],
   "namespace": "a940fa38f001486a9884640924119576",
   "status": "ACTIVE",
-  "creationDate": "2022-07-07T17:12:19.407Z",
-  "lastModifiedDate": "2022-07-07T17:12:19.407Z",
+  "creationDate": "2022-03-09T19:23:05.546Z",
+  "lastModifiedDate": "2023-09-19T15:20:26.690Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,8 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "a3fbeebefa4f47c7b1017c716aa3b2c3",
-      "appId": "f9685170f7b142909c661a080bd9e60c"
+      "id": "49cf51e495d64c47bb2f018eb2473ceb",
+      "appId": "f9685170f7b142909c661a080bd9e60c",
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Akupara Games",
