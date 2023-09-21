@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/46fe22636bbc4abfa71ab7c3eafd9235/diluvian-ultra-offer-y5u06.jpg",
-      "md5": "b518042cd4544b02e2cd6e0997f1331c",
+      "url": "https://cdn1.epicgames.com/spt-assets/46fe22636bbc4abfa71ab7c3eafd9235/diluvian-ultra-3mg1v.jpg",
+      "md5": "2a6810d4bd0c2e1e96d5e4302afb7daa",
       "width": 2560,
       "height": 1440,
-      "size": 941675,
-      "uploadedDate": "2022-06-20T12:31:25.587Z",
+      "size": 1212871,
+      "uploadedDate": "2023-09-18T13:51:15.315Z",
       "alt": "Diluvian Ultra Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/46fe22636bbc4abfa71ab7c3eafd9235/download-diluvian-ultra-offer-18uzt.jpg",
-      "md5": "c6e542cc97f0a5e778143fbe9920f860",
+      "url": "https://cdn1.epicgames.com/spt-assets/46fe22636bbc4abfa71ab7c3eafd9235/diluvian-ultra-q7z7x.jpg",
+      "md5": "edd48d5ee128a2951c9428799cc2a6c9",
       "width": 1200,
       "height": 1600,
-      "size": 1135155,
-      "uploadedDate": "2022-06-20T12:31:25.316Z",
+      "size": 942229,
+      "uploadedDate": "2023-09-18T13:51:21.086Z",
       "alt": "Download Diluvian Ultra Offer"
     }
   ],
@@ -35,11 +35,11 @@
   "namespace": "3d5cb99e9ea64b6b9534c95b8489f7f4",
   "status": "ACTIVE",
   "creationDate": "2022-06-20T11:16:29.618Z",
-  "lastModifiedDate": "2023-08-18T09:54:32.881Z",
+  "lastModifiedDate": "2023-09-21T08:19:16.251Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "DiluvianUltraldVJg"
+      "value": "DiluvianUltra"
     }
   },
   "entitlementName": "2199929eae204c06bf678618a8bbca80",
@@ -47,13 +47,17 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "22bb2fe8280f42e89f9fa894a0db3b1f",
-      "appId": "a8bcb0df4893454a827975e47507320d"
+      "id": "01b8e1f719644dd7a8e600af10a80e89",
+      "appId": "a8bcb0df4893454a827975e47507320d",
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Fulqrum Publishing Ltd.",
   "developerId": "o-n4d8bf5e8fnr4kujuut9j6v4d29muc",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
