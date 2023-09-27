@@ -42,7 +42,7 @@
   "namespace": "springbok",
   "status": "ACTIVE",
   "creationDate": "2018-11-29T23:09:05.969Z",
-  "lastModifiedDate": "2019-11-19T17:02:35.048Z",
+  "lastModifiedDate": "2023-09-27T17:33:47.816Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -74,7 +74,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "c164c202bd5d496d8541ba4308a3c1fa",
+      "id": "4e6bf1550e744239bd7d327a8c420344",
       "appId": "Springbok",
       "compatibleApps": [],
       "platform": [
@@ -91,6 +91,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
