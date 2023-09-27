@@ -1,6 +1,6 @@
 {
   "id": "60517ad2be01459eb8d56af55ec755bb",
-  "title": "HelloNeighborGeneralAudience",
+  "title": "Hello Neighbor: Hide and Seek",
   "description": "HelloNeighborGeneralAudience",
   "keyImages": [
     {
@@ -21,7 +21,7 @@
   "namespace": "morpho",
   "status": "ACTIVE",
   "creationDate": "2018-12-04T20:32:29.176Z",
-  "lastModifiedDate": "2019-05-13T14:39:19.433Z",
+  "lastModifiedDate": "2023-09-27T18:08:36.328Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -39,6 +39,8 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
