@@ -1,6 +1,6 @@
 {
   "id": "6f497455242046ca86887eedfd8b62b6",
-  "title": "PumpkinGeneralAudience",
+  "title": "Last Day of June",
   "description": "PumpkinGeneralAudience",
   "keyImages": [
     {
@@ -24,7 +24,7 @@
   "namespace": "4fd85a772cd5471aa5e38efcaa0d6f24",
   "status": "ACTIVE",
   "creationDate": "2019-06-03T21:00:17.771Z",
-  "lastModifiedDate": "2023-08-18T09:53:30.493Z",
+  "lastModifiedDate": "2023-09-27T18:03:47.438Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -34,6 +34,7 @@
   "entitlementName": "6f497455242046ca86887eedfd8b62b6",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "505 Games",
   "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
   "eulaIds": [
@@ -41,6 +42,8 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "EVERYONE",
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
