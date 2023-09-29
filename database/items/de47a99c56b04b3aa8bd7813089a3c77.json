@@ -1,17 +1,8 @@
 {
   "id": "de47a99c56b04b3aa8bd7813089a3c77",
-  "title": "Ticket to Ride",
-  "description": "Ticket to Ride",
+  "title": "Ticket To Ride: Classic Edition",
+  "description": "Ticket To Ride: Classic Edition",
   "keyImages": [
-    {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/item/EGS_DaysofWonder_TickettoRide_S2-1280x1440-0c94d10d429d03f6d28655e967a62e9e.jpg",
-      "md5": "0c94d10d429d03f6d28655e967a62e9e",
-      "width": 1280,
-      "height": 1440,
-      "size": 315558,
-      "uploadedDate": "2020-01-23T22:11:55.528Z"
-    },
     {
       "type": "DieselGameBox",
       "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/item/EGS_DaysofWonder_TickettoRide_S1-2560x1440-f18b9b93ad45e3e17e0b71f6d0371299.jpg",
@@ -29,6 +20,15 @@
       "height": 200,
       "size": 49464,
       "uploadedDate": "2020-01-23T22:12:14.738Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/item/EGS_DaysofWonder_TickettoRide_S2-1280x1440-0c94d10d429d03f6d28655e967a62e9e.jpg",
+      "md5": "0c94d10d429d03f6d28655e967a62e9e",
+      "width": 1280,
+      "height": 1440,
+      "size": 315558,
+      "uploadedDate": "2020-01-23T22:11:55.528Z"
     }
   ],
   "categories": [
@@ -45,7 +45,7 @@
   "namespace": "b4d9169e1b8548f2babec33107253309",
   "status": "ACTIVE",
   "creationDate": "2019-08-24T05:55:36.971Z",
-  "lastModifiedDate": "2020-02-06T15:07:57.201Z",
+  "lastModifiedDate": "2023-09-29T13:51:46.183Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -81,7 +81,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "b649645a33664993844e27af84d9809e",
+      "id": "043a4ebd417e4ed99d41820be119df3f",
       "appId": "Towhee",
       "platform": [
         "Windows",
@@ -96,6 +96,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
