@@ -1,0 +1,75 @@
+{
+  "id": "7bfa8b7a676841e6b48023913aad1794",
+  "title": "Twinmotion 2023.2",
+  "description": "Twinmotion 2023.2",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "poodle",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-07T19:30:08.280Z",
+  "lastModifiedDate": "2023-10-03T19:36:21.155Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "Twinmotion"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "egs.library.display_version": {
+      "type": "STRING",
+      "value": "2023.2"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Epic Games"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Twinmotion2023.2"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows, Mac"
+    }
+  },
+  "entitlementName": "Twinmotion2023.2",
+  "entitlementType": "EXECUTABLE",
+  "entitlementStartDate": "2021-10-04T17:04:58.306Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5009f89881744cfd9c77da2eef9a9507",
+      "appId": "45cae094fd62461fbb3a47641efc9a88",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2022-10-24T14:42:00.000Z"
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [
+    "twin"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
