@@ -33,7 +33,7 @@
   "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
   "status": "ACTIVE",
   "creationDate": "2019-09-10T21:05:47.559Z",
-  "lastModifiedDate": "2019-11-04T16:40:12.013Z",
+  "lastModifiedDate": "2023-10-12T15:38:57.302Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -43,12 +43,15 @@
   "entitlementName": "ff1d9d6e36cb4c6cb365204fccda01e3",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Epic Dev Test Account",
   "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
