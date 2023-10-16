@@ -14,7 +14,8 @@
   "namespace": "oregano",
   "status": "ACTIVE",
   "creationDate": "2019-07-25T23:35:49.236Z",
-  "lastModifiedDate": "2021-02-02T02:03:34.489Z",
+  "lastModifiedDate": "2023-10-16T17:19:54.213Z",
+  "customAttributes": {},
   "entitlementName": "9c9fd375c29940eb8e5c6204aefae201",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
@@ -25,5 +26,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
