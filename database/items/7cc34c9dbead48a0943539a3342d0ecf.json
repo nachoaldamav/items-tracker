@@ -13,7 +13,7 @@
   "namespace": "4c436646d6f0400da483546a70e3a6e0",
   "status": "ACTIVE",
   "creationDate": "2020-07-31T21:03:05.870Z",
-  "lastModifiedDate": "2023-10-17T14:44:59.970Z",
+  "lastModifiedDate": "2023-10-18T14:32:59.795Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +23,15 @@
   "entitlementName": "7cc34c9dbead48a0943539a3342d0ecf",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Hooded Horse Inc.",
   "developerId": "o-4ftedygtvtsgp7tbaf49mpm7lt6u2e",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
