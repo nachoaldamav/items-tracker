@@ -1,0 +1,42 @@
+{
+  "id": "b8c777936bda4700a9d31ffc3bb898cc",
+  "title": "Twinmotion Seat 2023.2 Audience",
+  "description": "Twinmotion Seat 2023.2 Audience",
+  "longDescription": "Master entitlement for all Twinmotion 2023.2 audience entitlements; used for seat management",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    },
+    {
+      "path": "software"
+    }
+  ],
+  "namespace": "poodle",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-17T13:40:40.094Z",
+  "lastModifiedDate": "2023-10-19T11:18:51.698Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows, Mac"
+    }
+  },
+  "entitlementName": "TwinmotionSeat_2023_2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [
+    "twin"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
