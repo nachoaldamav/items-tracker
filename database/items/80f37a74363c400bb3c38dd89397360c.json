@@ -36,9 +36,13 @@
   "namespace": "1093790870b043cdbae03d91d76d9ae6",
   "status": "ACTIVE",
   "creationDate": "2019-09-19T18:20:55.354Z",
-  "lastModifiedDate": "2023-09-12T15:52:16.511Z",
+  "lastModifiedDate": "2023-10-20T21:12:14.052Z",
   "customAttributes": {
     "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "NeverUpdate": {
       "type": "STRING",
       "value": "true"
     },
@@ -80,7 +84,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "21a445e9ede44ebda7a89e79fa3e84af",
+      "id": "d370b7215ea741dfa6799f78ff00dded",
       "appId": "Trogon",
       "platform": [
         "Windows"
