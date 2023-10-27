@@ -16,11 +16,23 @@
   "namespace": "0a84818055e740a7be21a2e5b6162703",
   "status": "ACTIVE",
   "creationDate": "2019-06-03T15:04:21.463Z",
-  "lastModifiedDate": "2023-10-25T14:32:28.127Z",
+  "lastModifiedDate": "2023-10-27T14:39:46.630Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "eaf470c5362245369f74c715b4874b03"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
     },
     "FolderName": {
       "type": "STRING",
@@ -32,7 +44,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "e44ad8ff02734be4a97207b3f1784c28",
+      "id": "70bfe8afe97f4e95b39b860ed230a9d7",
       "appId": "HawkStaging",
       "compatibleApps": [],
       "platform": [
