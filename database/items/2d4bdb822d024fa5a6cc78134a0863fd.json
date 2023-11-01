@@ -13,7 +13,7 @@
   "namespace": "e65d8864e0e84d6eb7fe228b2041c15f",
   "status": "ACTIVE",
   "creationDate": "2021-09-23T19:04:43.228Z",
-  "lastModifiedDate": "2023-10-10T15:34:10.019Z",
+  "lastModifiedDate": "2023-11-01T16:49:37.182Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +23,15 @@
   "entitlementName": "2d4bdb822d024fa5a6cc78134a0863fd",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Focus Home",
   "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
