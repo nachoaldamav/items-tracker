@@ -35,7 +35,7 @@
   "namespace": "21b227238de14dc181de7eb4633b117f",
   "status": "ACTIVE",
   "creationDate": "2022-06-22T08:26:23.963Z",
-  "lastModifiedDate": "2023-05-17T07:46:26.473Z",
+  "lastModifiedDate": "2023-11-03T21:12:49.844Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -55,16 +55,18 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "81a4e11e73124b2cadd26a9ffd46a1c9",
+      "id": "e58f89d18eb44f869c02df5afdbe0986",
       "appId": "8d4699b640864968b87ae2e68395e94b",
       "platform": [
         "Windows"
       ]
     }
   ],
-  "developer": "Gameforge 4D GmbH",
-  "developerId": "o-ezychz6fc55p9kjpbl4qdumclj65jg",
+  "developer": "Whiteboard Games",
+  "developerId": "o-lhxzatsdfrt4bmlzy4xxqby5kqvxv7",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
