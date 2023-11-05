@@ -16,7 +16,7 @@
   "namespace": "2744acda6a2e493e9894b389b6564df7",
   "status": "ACTIVE",
   "creationDate": "2019-06-13T17:18:24.339Z",
-  "lastModifiedDate": "2021-05-17T23:59:31.792Z",
+  "lastModifiedDate": "2023-11-05T22:22:50.163Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -40,10 +40,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "23ffd599ba364f5c8aa8daa4a2fc9342",
+      "id": "7a5b561d18844b2987b8854aedca146f",
       "appId": "MayflowerStaging",
+      "compatibleApps": [],
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "dateAdded": "2019-06-28T00:00:00.000Z"
     }
@@ -55,5 +57,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
