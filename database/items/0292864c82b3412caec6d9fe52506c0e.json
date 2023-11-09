@@ -36,7 +36,7 @@
   "namespace": "0a84818055e740a7be21a2e5b6162703",
   "status": "ACTIVE",
   "creationDate": "2019-06-03T15:04:21.387Z",
-  "lastModifiedDate": "2023-11-03T13:47:32.974Z",
+  "lastModifiedDate": "2023-11-09T16:40:16.035Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -49,10 +49,6 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
-    },
-    "UseAccessControl": {
-      "type": "STRING",
-      "value": "true"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -80,7 +76,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "79254f81404c48a6b0bda11b416a8c89",
+      "id": "d3503de0657441769ed06dfd7bcfb94e",
       "appId": "Hawk",
       "platform": [
         "Windows"
