@@ -36,9 +36,13 @@
   "namespace": "7ab8af3a04424eeaa509d37d7b5222b7",
   "status": "ACTIVE",
   "creationDate": "2020-08-04T15:14:55.639Z",
-  "lastModifiedDate": "2020-08-25T15:05:30.709Z",
+  "lastModifiedDate": "2023-11-10T16:44:19.628Z",
   "customAttributes": {
     "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "NeverUpdate": {
       "type": "STRING",
       "value": "true"
     },
@@ -46,15 +50,7 @@
       "type": "STRING",
       "value": "7ab8af3a04424eeaa509d37d7b5222b7"
     },
-    "NeverUpdate": {
-      "type": "STRING",
-      "value": "true"
-    },
     "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
-    },
-    "UseAccessControl": {
       "type": "STRING",
       "value": "false"
     },
@@ -84,7 +80,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "e85ddacd9d564116b2a4165920a16661",
+      "id": "80c4e6bbb64f47bd9432f034cceef45a",
       "appId": "52f83a6af963426aaee2d603030ef7c9",
       "platform": [
         "Windows"
@@ -99,6 +95,7 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
