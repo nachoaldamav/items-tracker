@@ -37,7 +37,7 @@
   "namespace": "2744acda6a2e493e9894b389b6564df7",
   "status": "ACTIVE",
   "creationDate": "2020-03-24T15:15:32.898Z",
-  "lastModifiedDate": "2021-05-17T23:59:31.791Z",
+  "lastModifiedDate": "2023-11-13T17:52:37.154Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -81,10 +81,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "afa7144df6814aa0847526e1df149f1a",
+      "id": "74b9537fa22c4eb889bd48f68246da61",
       "appId": "107cb99c45944049a39d3d4d1a1cf01b",
+      "compatibleApps": [],
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "dateAdded": "2019-06-28T00:00:00.000Z"
     }
@@ -96,5 +98,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

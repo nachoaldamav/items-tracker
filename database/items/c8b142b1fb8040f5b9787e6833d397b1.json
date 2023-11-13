@@ -17,7 +17,7 @@
   "namespace": "2744acda6a2e493e9894b389b6564df7",
   "status": "ACTIVE",
   "creationDate": "2019-11-01T13:16:02.767Z",
-  "lastModifiedDate": "2021-05-17T23:59:31.792Z",
+  "lastModifiedDate": "2023-11-13T17:52:06.869Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -33,10 +33,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "cd21d446ca354324b98f9e65e89cf262",
+      "id": "5837b7b8826749c7b94c297c0875ebc5",
       "appId": "MayflowerExternalTests",
+      "compatibleApps": [],
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "dateAdded": "2019-06-28T00:00:00.000Z"
     }
@@ -48,5 +50,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
