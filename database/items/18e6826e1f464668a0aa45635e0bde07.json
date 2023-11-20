@@ -33,15 +33,11 @@
   "namespace": "carnation",
   "status": "ACTIVE",
   "creationDate": "2019-02-11T18:08:53.061Z",
-  "lastModifiedDate": "2023-09-15T15:15:38.392Z",
+  "lastModifiedDate": "2023-11-20T17:20:31.850Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
-    },
-    "UseAccessControl": {
-      "type": "STRING",
-      "value": "false"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -51,13 +47,13 @@
       "type": "STRING",
       "value": "true"
     },
-    "partnerLinkId": {
-      "type": "STRING",
-      "value": "2e92d360488445048933157725e02c5e"
-    },
     "extraLaunchOption_001_Name": {
       "type": "STRING",
       "value": "Launch Rainbow Six Siege – Vulkan"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "2e92d360488445048933157725e02c5e"
     },
     "FolderName": {
       "type": "STRING",
@@ -97,7 +93,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "99b27afda0434e6dbb1c685081b780df",
+      "id": "41f97037acd24279a2b33271e63c0563",
       "appId": "Carnation",
       "compatibleApps": [],
       "platform": [
