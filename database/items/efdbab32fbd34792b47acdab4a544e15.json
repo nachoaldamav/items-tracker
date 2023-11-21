@@ -2,7 +2,26 @@
   "id": "efdbab32fbd34792b47acdab4a544e15",
   "title": "Twinmotion Community Edition 2023.2",
   "description": "Twinmotion Community Edition 2023.2",
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/poodle/TM-dieselGameBox-1920x1080logo_1920x1080-c85752a35ef8f9f7f49d8eb5249991b9",
+      "md5": "c85752a35ef8f9f7f49d8eb5249991b9",
+      "width": 1920,
+      "height": 1080,
+      "size": 3708323,
+      "uploadedDate": "2023-11-21T13:52:03.556Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/poodle/TM-DieselGameBoxTall-1200x1600logo_1200x1600-8ef8e0f3c9bc1c2ea60f4b2bd7735151",
+      "md5": "8ef8e0f3c9bc1c2ea60f4b2bd7735151",
+      "width": 1200,
+      "height": 1600,
+      "size": 3129087,
+      "uploadedDate": "2023-11-21T13:52:12.771Z"
+    }
+  ],
   "categories": [
     {
       "path": "software"
@@ -14,7 +33,7 @@
   "namespace": "poodle",
   "status": "ACTIVE",
   "creationDate": "2023-06-07T19:35:31.629Z",
-  "lastModifiedDate": "2023-10-24T14:05:55.661Z",
+  "lastModifiedDate": "2023-11-21T13:52:26.917Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -54,7 +73,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "ba58dc23718949f29af81dd03bc9d1d2",
+      "id": "1539fe1791bd4908b4f3d6323cc1d765",
       "appId": "55034707563b47d989afbca1c04480f5",
       "compatibleApps": [],
       "platform": [

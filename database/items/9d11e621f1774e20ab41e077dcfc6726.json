@@ -2,7 +2,26 @@
   "id": "9d11e621f1774e20ab41e077dcfc6726",
   "title": "Twinmotion EDU 2023.2",
   "description": "Twinmotion EDU 2023.2",
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/poodle/TM-dieselGameBox-1920x1080logo_1920x1080-c85752a35ef8f9f7f49d8eb5249991b9",
+      "md5": "c85752a35ef8f9f7f49d8eb5249991b9",
+      "width": 1920,
+      "height": 1080,
+      "size": 3708323,
+      "uploadedDate": "2023-11-21T13:52:38.654Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/poodle/TM-DieselGameBoxTall-1200x1600logo_1200x1600-8ef8e0f3c9bc1c2ea60f4b2bd7735151",
+      "md5": "8ef8e0f3c9bc1c2ea60f4b2bd7735151",
+      "width": 1200,
+      "height": 1600,
+      "size": 3129087,
+      "uploadedDate": "2023-11-21T13:52:49.029Z"
+    }
+  ],
   "categories": [
     {
       "path": "software"
@@ -14,7 +33,7 @@
   "namespace": "poodle",
   "status": "ACTIVE",
   "creationDate": "2023-06-07T19:39:35.403Z",
-  "lastModifiedDate": "2023-10-20T19:20:57.001Z",
+  "lastModifiedDate": "2023-11-21T13:52:56.567Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -54,7 +73,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "778b2beb976f429eb27a5e979aaac86a",
+      "id": "14f6182a7c404963b74f6c8ae584acb2",
       "appId": "06acf0cc8c594803ad775bac3469110d",
       "compatibleApps": [],
       "platform": [
