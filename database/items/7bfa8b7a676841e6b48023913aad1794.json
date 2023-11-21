@@ -24,13 +24,16 @@
   ],
   "categories": [
     {
+      "path": "software"
+    },
+    {
       "path": "applications"
     }
   ],
   "namespace": "poodle",
   "status": "ACTIVE",
   "creationDate": "2023-06-07T19:30:08.280Z",
-  "lastModifiedDate": "2023-11-21T13:54:17.045Z",
+  "lastModifiedDate": "2023-11-21T14:51:34.206Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -71,7 +74,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "d7ec039d598d4da4968737ae8b63d12b",
+      "id": "c1c41025068e403e9d33de927e4122da",
       "appId": "45cae094fd62461fbb3a47641efc9a88",
       "compatibleApps": [],
       "platform": [
