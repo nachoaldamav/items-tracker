@@ -33,8 +33,12 @@
   "namespace": "0c05e0889c3e42a4be1d81077d6e653a",
   "status": "ACTIVE",
   "creationDate": "2022-06-24T10:23:10.273Z",
-  "lastModifiedDate": "2023-08-30T10:29:51.817Z",
+  "lastModifiedDate": "2023-12-08T03:56:57.166Z",
   "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
@@ -43,22 +47,6 @@
       "type": "STRING",
       "value": "0c05e0889c3e42a4be1d81077d6e653a"
     },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
-    },
-    "UseAccessControl": {
-      "type": "STRING",
-      "value": "false"
-    },
-    "RequirementsJson": {
-      "type": "STRING",
-      "value": "[]"
-    },
-    "CanSkipKoreanIdVerification": {
-      "type": "STRING",
-      "value": "true"
-    },
     "partnerLinkId": {
       "type": "STRING",
       "value": "49fd8eb0cf7141b6b90810510131ee15"
@@ -66,10 +54,6 @@
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
-    },
-    "FolderName": {
-      "type": "STRING",
-      "value": "skullandbones"
     }
   },
   "entitlementName": "35f529b3d6c544eea505462ff7020bf4",
@@ -77,7 +61,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "4e5909902f43486a9608b286e4f6abf9",
+      "id": "3fd1e6cc3adb49db97996180dac7a745",
       "appId": "f9b5d1f1a85e4a63acd3a4471cafed29",
       "platform": [
         "Windows"
