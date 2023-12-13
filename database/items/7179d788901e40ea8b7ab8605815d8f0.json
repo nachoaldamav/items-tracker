@@ -42,23 +42,19 @@
   "namespace": "impala",
   "status": "ACTIVE",
   "creationDate": "2019-01-24T19:46:36.182Z",
-  "lastModifiedDate": "2023-10-03T12:00:37.563Z",
+  "lastModifiedDate": "2023-12-13T15:40:45.567Z",
   "customAttributes": {
-    "PresenceID": {
+    "CanRunOffline": {
       "type": "STRING",
-      "value": "impala"
+      "value": "false"
     },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
     },
-    "CanRunOffline": {
+    "PresenceID": {
       "type": "STRING",
-      "value": "false"
-    },
-    "UseAccessControl": {
-      "type": "STRING",
-      "value": "true"
+      "value": "impala"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -90,7 +86,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "a9c606e5a13c4751ac12ae44240db911",
+      "id": "b0ab2d60ce854ce0abba8654ad5e3b0a",
       "appId": "Impala",
       "compatibleApps": [],
       "platform": [
