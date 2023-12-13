@@ -35,7 +35,7 @@
   "namespace": "f858c9da38e24eb1b3dc0c52f7dc95c9",
   "status": "ACTIVE",
   "creationDate": "2022-03-11T20:45:39.429Z",
-  "lastModifiedDate": "2022-03-11T20:45:39.429Z",
+  "lastModifiedDate": "2023-12-13T19:28:22.082Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -51,13 +51,16 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "c82b28eb43654d1c925c1315e5811e7d",
+      "id": "7f312c461d4c48f3b0a2258ea7ceb48b",
       "appId": "2a5e0e434ddf478a83bdd7143c0af143"
     }
   ],
-  "developer": "Movie Games S.A.",
-  "developerId": "o-qlaqdhwauavrqmfqdyww93u2eevfuq",
+  "developer": "Lichthund S.A.",
+  "developerId": "o-lmz88mnhcps8hnsethytay7nbnuyk8",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
