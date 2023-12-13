@@ -16,11 +16,15 @@
   "namespace": "02c14a01b7044db98de3f3a10813a42e",
   "status": "ACTIVE",
   "creationDate": "2020-09-08T17:30:29.626Z",
-  "lastModifiedDate": "2021-08-17T14:01:36.243Z",
+  "lastModifiedDate": "2023-12-13T14:11:26.845Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Humankind/Save Files/Cloud"
     },
     "CloudSaveFolder": {
       "type": "STRING",
@@ -44,7 +48,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "37254515179a4ac08179b7e5589eb99d",
+      "id": "2e5b354af0064d83b82e39940c1a53af",
       "appId": "17390905d75b4c60802c172a681bb510",
       "platform": [
         "Windows",
