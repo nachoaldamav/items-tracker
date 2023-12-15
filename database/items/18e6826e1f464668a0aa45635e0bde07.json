@@ -33,11 +33,11 @@
   "namespace": "carnation",
   "status": "ACTIVE",
   "creationDate": "2019-02-11T18:08:53.061Z",
-  "lastModifiedDate": "2023-11-20T17:20:31.850Z",
+  "lastModifiedDate": "2023-12-15T19:46:15.048Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
-      "value": "true"
+      "value": "false"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -93,7 +93,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "41f97037acd24279a2b33271e63c0563",
+      "id": "c4e371e07df9451f8ab74d87b44af5cb",
       "appId": "Carnation",
       "compatibleApps": [],
       "platform": [
