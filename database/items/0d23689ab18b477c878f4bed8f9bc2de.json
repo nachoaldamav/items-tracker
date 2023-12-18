@@ -33,19 +33,35 @@
   "namespace": "oregano",
   "status": "ACTIVE",
   "creationDate": "2019-03-29T14:46:24.783Z",
-  "lastModifiedDate": "2023-11-09T18:41:44.886Z",
+  "lastModifiedDate": "2023-12-18T15:02:29.466Z",
   "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
     },
-    "useAccessControl": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "oregano"
+    },
+    "MonitorPresence": {
       "type": "STRING",
       "value": "true"
     },
     "RequirementsJson": {
       "type": "STRING",
       "value": "[]"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "Anno1800.exe,UbisoftGameLauncher.exe"
+    },
+    "isPrepurchase": {
+      "type": "STRING",
+      "value": "true"
     },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
@@ -59,33 +75,13 @@
       "type": "STRING",
       "value": "1ff283ce9e054747abe9ac66074c7ebc"
     },
-    "FolderName": {
-      "type": "STRING",
-      "value": "ANNO1800"
-    },
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "oregano"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "isPrepurchase": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "ProcessNames": {
-      "type": "STRING",
-      "value": "Anno1800.exe,UbisoftGameLauncher.exe"
-    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ANNO1800"
     }
   },
   "entitlementName": "0d23689ab18b477c878f4bed8f9bc2de",
@@ -93,7 +89,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "b9d98b6475ef4b5382308faa4f9c498d",
+      "id": "9575694983e1476495452c3f7d3dec4a",
       "appId": "Oregano",
       "compatibleApps": [],
       "platform": [
