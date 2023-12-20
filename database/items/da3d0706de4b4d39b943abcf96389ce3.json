@@ -36,7 +36,7 @@
   "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
   "status": "ACTIVE",
   "creationDate": "2020-11-04T19:34:42.388Z",
-  "lastModifiedDate": "2023-05-15T17:15:26.020Z",
+  "lastModifiedDate": "2023-12-20T18:29:21.639Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -84,7 +84,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "1234d7a9530c4b43b3b2d799555e5536",
+      "id": "ee579b0d20e145c59e5322a20ae430c1",
       "appId": "ad3d0f08dd0841d8a1ba77d94ded4773",
       "platform": [
         "Windows"
@@ -95,7 +95,7 @@
   "developer": "Bethesda Softworks LLC",
   "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
   "eulaIds": [
-    "egstore"
+    "(egstore && rage2)"
   ],
   "endOfSupport": false,
   "ageGatings": {},
