@@ -4,22 +4,22 @@
   "description": "Paladins",
   "keyImages": [
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/item/badb0ee71b474ed591ec43212547cfc8/Paladins_Omen_LandscapeProduct_2560x1440_2560x1440-9764d49330f1a276b40092d167a292ea",
-      "md5": "9764d49330f1a276b40092d167a292ea",
-      "width": 2560,
-      "height": 1440,
-      "size": 460582,
-      "uploadedDate": "2023-08-04T22:10:23.414Z"
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/badb0ee71b474ed591ec43212547cfc8/Paladins_EGS_BaseGame_Portrait_860x1148_860x1148-e1a8527791f5b73b436c8c80bbe636e3",
+      "md5": "e1a8527791f5b73b436c8c80bbe636e3",
+      "width": 860,
+      "height": 1148,
+      "size": 437195,
+      "uploadedDate": "2024-01-10T16:58:45.159Z"
     },
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/badb0ee71b474ed591ec43212547cfc8/Paladins_Omen_PortraitProduct_1200x1600_1200x1600-3926489a357a74a2988afcd1132d8821",
-      "md5": "3926489a357a74a2988afcd1132d8821",
-      "width": 1200,
-      "height": 1600,
-      "size": 270607,
-      "uploadedDate": "2023-08-04T22:10:29.944Z"
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/badb0ee71b474ed591ec43212547cfc8/Paladins_EGS_BaseGame_2560x1440_2560x1440-99d0ed45c628c499ad600a52217b4123",
+      "md5": "99d0ed45c628c499ad600a52217b4123",
+      "width": 2560,
+      "height": 1440,
+      "size": 448401,
+      "uploadedDate": "2024-01-10T16:59:04.818Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "badb0ee71b474ed591ec43212547cfc8",
   "status": "ACTIVE",
   "creationDate": "2019-10-18T01:57:09.836Z",
-  "lastModifiedDate": "2023-08-16T11:01:53.611Z",
+  "lastModifiedDate": "2024-01-10T16:59:07.037Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -72,7 +72,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "745ff0877e4e4cac818dab6d8c8d2601",
+      "id": "8d1b93d514db469aa8be02edebc8400d",
       "appId": "Antbird",
       "platform": [
         "Windows"
