@@ -17,18 +17,20 @@
   ],
   "categories": [
     {
-      "path": "testing"
+      "path": "hidden"
     }
   ],
   "namespace": "SeaQA",
   "status": "ACTIVE",
   "creationDate": "2018-11-27T08:02:53.022Z",
-  "lastModifiedDate": "2022-01-06T07:13:00.597Z",
+  "lastModifiedDate": "2024-01-16T07:33:51.134Z",
+  "customAttributes": {},
   "entitlementName": "Consumable_Entitlement",
   "entitlementType": "TEST",
   "entitlementEndDate": "2099-12-30T00:00:00.000Z",
   "entitlementStartDate": "2009-12-31T00:00:00.000Z",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Epic Games",
   "developerId": "o-63xw9bf4aa9wjw84hnm5du9n5yj56j",
   "eulaIds": [],
@@ -40,6 +42,8 @@
       "gameRating": "MA 15+",
       "ratingImage": "https://cdn1.epicgames.com/SeaQA/item/007enlIPly1gme3osvqhaj32941abqoj-2920x1667-b319b4e0be9bd64a4564906fba2bab15.jpg",
       "title": " MA 15+",
+      "descriptorIds": [],
+      "elementIds": [],
       "isTrad": true,
       "isIARC": false
     },
@@ -49,9 +53,12 @@
       "gameRating": "MATURE",
       "ratingImage": "https://cdn1.epicgames.com/SeaQA/item/007enlIPly1gme3osvqhaj32941abqoj-2920x1667-b319b4e0be9bd64a4564906fba2bab15.jpg",
       "title": "MATURE 17+",
+      "descriptorIds": [],
+      "elementIds": [],
       "isTrad": true,
       "isIARC": false
     }
   },
+  "applicationId": "",
   "unsearchable": false
 }
