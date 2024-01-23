@@ -51,7 +51,7 @@
   "namespace": "middlemist",
   "status": "ACTIVE",
   "creationDate": "2019-03-18T04:30:09.062Z",
-  "lastModifiedDate": "2024-01-23T17:20:07.507Z",
+  "lastModifiedDate": "2024-01-23T19:16:23.643Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -91,7 +91,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "e5644c1d60734733a6acf562eb44530c",
+      "id": "1b04e15350814a068bf5722eadc573de",
       "appId": "Middlemist",
       "compatibleApps": [],
       "platform": [
@@ -108,6 +108,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
