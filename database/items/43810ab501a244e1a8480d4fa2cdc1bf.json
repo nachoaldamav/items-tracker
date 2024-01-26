@@ -42,7 +42,7 @@
   "namespace": "middlemist",
   "status": "ACTIVE",
   "creationDate": "2019-03-18T04:31:48.358Z",
-  "lastModifiedDate": "2024-01-22T15:13:05.926Z",
+  "lastModifiedDate": "2024-01-26T15:03:42.748Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -74,7 +74,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "5d5424063bef46f4b2c71e45d9640ad9",
+      "id": "c99d08f63b58426a919fdda44eb2a732",
       "appId": "MiddlemistStaging",
       "compatibleApps": [],
       "platform": [
@@ -91,5 +91,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
