@@ -16,11 +16,15 @@
   "namespace": "2744acda6a2e493e9894b389b6564df7",
   "status": "ACTIVE",
   "creationDate": "2019-06-13T17:18:24.339Z",
-  "lastModifiedDate": "2023-11-05T22:22:50.163Z",
+  "lastModifiedDate": "2024-01-30T15:29:52.452Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{InstallDir}/base/storage/{EpicID}/"
     },
     "CloudSaveFolder": {
       "type": "STRING",
@@ -40,7 +44,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "7a5b561d18844b2987b8854aedca146f",
+      "id": "163d919d942b482aa141fe51e7b139f3",
       "appId": "MayflowerStaging",
       "compatibleApps": [],
       "platform": [
