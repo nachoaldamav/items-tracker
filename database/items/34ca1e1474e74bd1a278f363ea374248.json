@@ -27,7 +27,7 @@
       "path": "public"
     },
     {
-      "path": "games"
+      "path": "addons"
     },
     {
       "path": "applications"
@@ -36,7 +36,7 @@
   "namespace": "100aa04135c6441b9b31d7af84f768c0",
   "status": "ACTIVE",
   "creationDate": "2021-01-06T16:59:04.373Z",
-  "lastModifiedDate": "2021-01-28T16:09:30.750Z",
+  "lastModifiedDate": "2024-02-15T18:44:20.440Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -52,7 +52,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "27a4c791b5a8406fa3d093b8e7fd576e",
+      "id": "262cd7f39b884fdd8ebd2e80492ecafa",
       "appId": "b2f903994cc74f1faceb3e2e27332f12",
       "platform": [
         "Windows",
@@ -69,6 +69,7 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
