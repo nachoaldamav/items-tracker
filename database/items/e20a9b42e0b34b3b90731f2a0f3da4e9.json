@@ -27,7 +27,7 @@
       "path": "public"
     },
     {
-      "path": "games"
+      "path": "addons"
     },
     {
       "path": "applications"
@@ -35,8 +35,8 @@
   ],
   "namespace": "03f7951c81af45e48a1caf6f8e24dba9",
   "status": "ACTIVE",
-  "creationDate": "2021-01-07T21:08:42.419Z",
-  "lastModifiedDate": "2021-01-28T16:06:45.957Z",
+  "creationDate": "2024-02-16T19:04:11.000Z",
+  "lastModifiedDate": "2024-02-16T19:13:36.744Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -52,12 +52,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "25e4cfb8b1254a6b94ba6b01c6a4be0a",
+      "id": "4992234051304221b23c557a5ff0a6b5",
       "appId": "8794d7ff7ff04be59dccecb4c2c726d2",
       "platform": [
+        "Win32",
         "Windows"
-      ],
-      "dateAdded": "2020-11-12T00:00:00.000Z"
+      ]
     }
   ],
   "developer": "Positech Computing Ltd",
@@ -67,6 +67,7 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }

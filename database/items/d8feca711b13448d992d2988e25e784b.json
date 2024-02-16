@@ -35,8 +35,8 @@
   ],
   "namespace": "74b602736d704ed2a5915c31319d99f6",
   "status": "ACTIVE",
-  "creationDate": "2020-09-24T03:23:30.482Z",
-  "lastModifiedDate": "2023-03-08T14:32:43.039Z",
+  "creationDate": "2024-02-16T17:45:04.863Z",
+  "lastModifiedDate": "2024-02-16T18:35:15.131Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -76,12 +76,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "a0112d9fec464dc0b72545ce77825ebf",
+      "id": "d4396457d26843e09e89d89fed28084f",
       "appId": "5e8da4f19dae455e948e568d8a0272bf",
       "platform": [
+        "Win32",
         "Windows"
-      ],
-      "dateAdded": "2020-09-24T00:00:00.000Z"
+      ]
     }
   ],
   "developer": "Positech Computing Ltd",
