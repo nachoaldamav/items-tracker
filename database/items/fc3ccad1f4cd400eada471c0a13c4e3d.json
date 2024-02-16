@@ -42,19 +42,19 @@
   "namespace": "coriander",
   "status": "ACTIVE",
   "creationDate": "2019-04-02T20:24:10.493Z",
-  "lastModifiedDate": "2020-02-18T15:53:15.273Z",
+  "lastModifiedDate": "2024-02-16T19:39:34.558Z",
   "customAttributes": {
     "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "NeverUpdate": {
       "type": "STRING",
       "value": "true"
     },
     "PresenceId": {
       "type": "STRING",
       "value": "coriander"
-    },
-    "NeverUpdate": {
-      "type": "STRING",
-      "value": "true"
     },
     "MonitorPresence": {
       "type": "STRING",
@@ -90,7 +90,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "c32291e8b95242ad9913620ff9f73de4",
+      "id": "4e72320dd7e54592a17d006e4a32364e",
       "appId": "Coriander",
       "compatibleApps": [],
       "platform": [
@@ -107,6 +107,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
