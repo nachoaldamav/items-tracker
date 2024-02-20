@@ -14,7 +14,7 @@
   "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
   "status": "ACTIVE",
   "creationDate": "2020-06-18T21:48:51.371Z",
-  "lastModifiedDate": "2020-12-04T16:20:25.897Z",
+  "lastModifiedDate": "2024-02-20T21:52:51.209Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -24,6 +24,7 @@
   "entitlementName": "5a84d50bcc74415ea7db4b524db3cc84",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Hi-Rez Studios",
   "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
   "eulaIds": [
@@ -31,5 +32,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

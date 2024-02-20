@@ -36,7 +36,7 @@
   "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
   "status": "ACTIVE",
   "creationDate": "2019-08-16T21:22:27.527Z",
-  "lastModifiedDate": "2020-11-23T15:14:23.057Z",
+  "lastModifiedDate": "2024-02-20T21:51:21.887Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -52,7 +52,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "d6118b2f142a4bbaa947d29bf398f434",
+      "id": "9002a1a1c62141c892cda691b74e3285",
       "appId": "PeweeStaging",
       "platform": [
         "Windows"
@@ -67,5 +67,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
