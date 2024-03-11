@@ -33,19 +33,19 @@
   "namespace": "sundrop",
   "status": "ACTIVE",
   "creationDate": "2019-02-11T17:23:29.967Z",
-  "lastModifiedDate": "2024-01-24T14:48:29.044Z",
+  "lastModifiedDate": "2024-03-11T16:16:50.305Z",
   "customAttributes": {
     "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "NeverUpdate": {
       "type": "STRING",
       "value": "true"
     },
     "PresenceID": {
       "type": "STRING",
       "value": "sundrop"
-    },
-    "NeverUpdate": {
-      "type": "STRING",
-      "value": "true"
     },
     "MonitorPresence": {
       "type": "STRING",
@@ -71,13 +71,13 @@
       "type": "STRING",
       "value": "[]"
     },
-    "partnerLinkType": {
-      "type": "STRING",
-      "value": "ubisoft"
-    },
     "partnerLinkId": {
       "type": "STRING",
       "value": "91808802f644410d8b5b58b2e0ca36cf"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
     },
     "FolderName": {
       "type": "STRING",
@@ -89,7 +89,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "016594c14e534d80b043f5dbe9c7f50e",
+      "id": "50fa149ee6aa440b9100b2eba15ff9f3",
       "appId": "Sundrop",
       "compatibleApps": [],
       "platform": [
