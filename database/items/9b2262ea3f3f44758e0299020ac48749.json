@@ -1,7 +1,7 @@
 {
   "id": "9b2262ea3f3f44758e0299020ac48749",
-  "title": "CarnationUltimateAudience",
-  "description": "CarnationUltimateAudience",
+  "title": "Rainbow Six® Siege Year 4 Ultimate Audience",
+  "description": "Rainbow Six® Siege Year 4 Ultimate Audience",
   "keyImages": [
     {
       "type": "ESRB",
@@ -24,7 +24,7 @@
   "namespace": "carnation",
   "status": "ACTIVE",
   "creationDate": "2019-08-13T02:00:26.284Z",
-  "lastModifiedDate": "2021-03-16T13:18:48.554Z",
+  "lastModifiedDate": "2024-03-12T14:22:20.124Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -42,5 +42,7 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

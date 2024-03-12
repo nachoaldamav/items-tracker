@@ -1,7 +1,7 @@
 {
   "id": "e37487e107ce44ceb1a23b82cb013837",
-  "title": "CarnationStandardY4Audience",
-  "description": "CarnationStandardY4Audience",
+  "title": "Rainbow Six® Siege Year 4 Standard Audience",
+  "description": "Rainbow Six® Siege Year 4 Standard Audience",
   "keyImages": [
     {
       "type": "ESRB",
@@ -24,7 +24,7 @@
   "namespace": "carnation",
   "status": "ACTIVE",
   "creationDate": "2019-02-11T19:26:51.007Z",
-  "lastModifiedDate": "2021-03-16T13:18:55.400Z",
+  "lastModifiedDate": "2024-03-12T14:22:19.954Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -42,5 +42,7 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

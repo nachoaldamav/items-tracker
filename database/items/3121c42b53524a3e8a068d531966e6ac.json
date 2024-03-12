@@ -1,7 +1,7 @@
 {
   "id": "3121c42b53524a3e8a068d531966e6ac",
-  "title": "CarnationGoldAudience",
-  "description": "CarnationGoldAudience",
+  "title": "Rainbow Six® Siege Year 4 Gold Audience",
+  "description": "Rainbow Six® Siege Year 4 Gold Audience",
   "keyImages": [
     {
       "type": "ESRB",
@@ -24,7 +24,7 @@
   "namespace": "carnation",
   "status": "ACTIVE",
   "creationDate": "2019-08-13T01:59:43.128Z",
-  "lastModifiedDate": "2021-03-16T13:18:48.554Z",
+  "lastModifiedDate": "2024-03-12T14:22:20.124Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -42,5 +42,7 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

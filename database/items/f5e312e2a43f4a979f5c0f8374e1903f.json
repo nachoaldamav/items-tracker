@@ -1,7 +1,7 @@
 {
   "id": "f5e312e2a43f4a979f5c0f8374e1903f",
-  "title": "CarnationDeluxeY5Audience",
-  "description": "CarnationDeluxeY5Audience",
+  "title": "Rainbow Six® Siege Year 5 Deluxe Audience",
+  "description": "Rainbow Six® Siege Year 5 Deluxe Audience",
   "keyImages": [
     {
       "type": "ESRB",
@@ -24,7 +24,7 @@
   "namespace": "carnation",
   "status": "ACTIVE",
   "creationDate": "2020-02-14T02:27:24.949Z",
-  "lastModifiedDate": "2021-03-16T13:18:55.400Z",
+  "lastModifiedDate": "2024-03-12T14:22:19.959Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -42,5 +42,7 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
