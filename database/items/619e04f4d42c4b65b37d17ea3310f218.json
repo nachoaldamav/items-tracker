@@ -35,8 +35,8 @@
   ],
   "namespace": "d5ee752640ef4cee8b7f5364410ba41f",
   "status": "ACTIVE",
-  "creationDate": "2019-10-23T17:53:15.528Z",
-  "lastModifiedDate": "2020-01-23T03:56:38.503Z",
+  "creationDate": "2024-03-11T03:44:06.786Z",
+  "lastModifiedDate": "2024-03-13T17:00:04.015Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -76,12 +76,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "975f18ace6d94e5286420d758127d534",
+      "id": "2f2bb86067fa4afda3d8743c4125da8d",
       "appId": "Sunbird",
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2019-10-23T00:00:00.000Z"
+      ]
     }
   ],
   "developer": "The Quantum Astrophysicists Guild",
