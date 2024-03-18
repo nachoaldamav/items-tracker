@@ -33,7 +33,7 @@
   "namespace": "carnation",
   "status": "ACTIVE",
   "creationDate": "2019-08-22T19:24:49.545Z",
-  "lastModifiedDate": "2024-03-12T14:19:37.616Z",
+  "lastModifiedDate": "2024-03-18T12:21:49.210Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -59,14 +59,6 @@
       "type": "STRING",
       "value": "true"
     },
-    "partnerLinkId": {
-      "type": "STRING",
-      "value": "66b42dd30c8b4ce2a3b4de0811ddb4c6"
-    },
-    "partnerLinkType": {
-      "type": "STRING",
-      "value": "ubisoft"
-    },
     "FolderName": {
       "type": "STRING",
       "value": "RainbowSixSiegeTrial"
@@ -81,7 +73,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "3e07013cfa194bd886bc682cc13d4b0a",
+      "id": "e28adcf8e696404ab821222199824ed7",
       "appId": "CarnationWeek",
       "compatibleApps": [],
       "platform": [
