@@ -16,11 +16,19 @@
   "namespace": "8b9fc0e3ee7d478abc047d1a3596c568",
   "status": "ACTIVE",
   "creationDate": "2020-01-24T17:48:52.253Z",
-  "lastModifiedDate": "2020-02-18T22:13:37.959Z",
+  "lastModifiedDate": "2024-03-20T18:41:55.084Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\205"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
     },
     "partnerLinkType": {
       "type": "STRING",
@@ -33,6 +41,14 @@
     "FolderName": {
       "type": "STRING",
       "value": "HapukaStaging"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "205"
     }
   },
   "entitlementName": "3fcd6058c25b4ad78e40cde6efacd3b4",

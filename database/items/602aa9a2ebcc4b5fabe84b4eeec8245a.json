@@ -14,11 +14,19 @@
   "namespace": "carnation",
   "status": "ACTIVE",
   "creationDate": "2019-02-11T19:28:35.255Z",
-  "lastModifiedDate": "2021-03-17T14:40:29.002Z",
+  "lastModifiedDate": "2024-03-20T18:42:32.324Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\635"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
     },
     "partnerLinkId": {
       "type": "STRING",
@@ -31,6 +39,14 @@
     "FolderName": {
       "type": "STRING",
       "value": "CarnationStaging"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "635"
     }
   },
   "entitlementName": "602aa9a2ebcc4b5fabe84b4eeec8245a",

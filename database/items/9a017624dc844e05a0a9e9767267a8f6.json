@@ -36,12 +36,8 @@
   "namespace": "36b8fb441b2542f89250fc92ca761077",
   "status": "ACTIVE",
   "creationDate": "2020-08-11T20:16:51.525Z",
-  "lastModifiedDate": "2021-08-24T16:46:06.179Z",
+  "lastModifiedDate": "2024-03-20T18:41:13.502Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
@@ -62,10 +58,6 @@
       "type": "STRING",
       "value": "splintercell3.exe"
     },
-    "partnerLinkType": {
-      "type": "STRING",
-      "value": "ubisoft"
-    },
     "partnerLinkId": {
       "type": "STRING",
       "value": "91d4bb84a8ca49749722bd0168cee6e4"
@@ -73,6 +65,30 @@
     "FolderName": {
       "type": "STRING",
       "value": "SplinterCellChaosTheory"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\95"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "95"
     }
   },
   "entitlementName": "9a017624dc844e05a0a9e9767267a8f6",

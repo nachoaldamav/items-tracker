@@ -42,23 +42,11 @@
   "namespace": "coriander",
   "status": "ACTIVE",
   "creationDate": "2019-04-02T20:24:10.493Z",
-  "lastModifiedDate": "2024-02-16T19:39:34.558Z",
+  "lastModifiedDate": "2024-03-20T18:42:31.479Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "coriander"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -76,13 +64,41 @@
       "type": "STRING",
       "value": "afcac729418b4d4a9532bc53831c09d5"
     },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FarCry5"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "coriander"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\1803"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
-    "FolderName": {
+    "RegistryKey": {
       "type": "STRING",
-      "value": "FarCry5"
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "1803"
     }
   },
   "entitlementName": "fc3ccad1f4cd400eada471c0a13c4e3d",

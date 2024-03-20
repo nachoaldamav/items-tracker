@@ -33,33 +33,13 @@
   "namespace": "sundrop",
   "status": "ACTIVE",
   "creationDate": "2019-02-11T17:23:29.967Z",
-  "lastModifiedDate": "2024-03-14T13:01:38.342Z",
+  "lastModifiedDate": "2024-03-20T18:42:29.037Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
     },
-    "PresenceID": {
-      "type": "STRING",
-      "value": "sundrop"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "com.epicgames.app.developerName": {
-      "type": "STRING",
-      "value": "Ubisoft"
-    },
     "RequirementsJson": {
-      "type": "STRING",
-      "value": "[]"
-    },
-    "ProcessNames": {
       "type": "STRING",
       "value": "[]"
     },
@@ -75,13 +55,49 @@
       "type": "STRING",
       "value": "91808802f644410d8b5b58b2e0ca36cf"
     },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ForHonor"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "sundrop"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\569"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Ubisoft"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "[]"
+    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
-    "FolderName": {
+    "RegistryKey": {
       "type": "STRING",
-      "value": "ForHonor"
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "569"
     }
   },
   "entitlementName": "edfd412a16f445589ad4a43589d7644b",

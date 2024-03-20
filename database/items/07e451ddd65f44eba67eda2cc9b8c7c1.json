@@ -42,23 +42,11 @@
   "namespace": "camellia",
   "status": "ACTIVE",
   "creationDate": "2019-02-08T21:51:12.594Z",
-  "lastModifiedDate": "2022-11-18T17:37:23.742Z",
+  "lastModifiedDate": "2024-03-20T18:42:35.045Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceID": {
-      "type": "STRING",
-      "value": "camellia"
-    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -76,13 +64,41 @@
       "type": "STRING",
       "value": "1fc05256dc1c4c00818a1a52dd519f01"
     },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AssassinsCreedOrigins"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "camellia"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\3539"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
-    "FolderName": {
+    "RegistryKey": {
       "type": "STRING",
-      "value": "AssassinsCreedOrigins"
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "3539"
     }
   },
   "entitlementName": "07e451ddd65f44eba67eda2cc9b8c7c1",

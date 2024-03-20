@@ -51,21 +51,9 @@
   "namespace": "angelonia",
   "status": "ACTIVE",
   "creationDate": "2019-02-10T16:57:41.596Z",
-  "lastModifiedDate": "2020-01-28T15:56:14.912Z",
+  "lastModifiedDate": "2024-03-20T18:42:40.956Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceID": {
-      "type": "STRING",
-      "value": "angelonia"
-    },
     "NeverUpdate": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "MonitorPresence": {
       "type": "STRING",
       "value": "true"
     },
@@ -73,17 +61,9 @@
       "type": "STRING",
       "value": "{}"
     },
-    "ProcessNames": {
-      "type": "STRING",
-      "value": "WATCH_DOGS2/EAC.exe,WATCH_DOGS2/bin/SplashScreen.exe,WATCH_DOGS2/bin/WatchDogs2.exe"
-    },
     "MainWindowProcessName": {
       "type": "STRING",
       "value": "WatchDogs2.exe"
-    },
-    "partnerLinkType": {
-      "type": "STRING",
-      "value": "ubisoft"
     },
     "partnerLinkId": {
       "type": "STRING",
@@ -92,6 +72,42 @@
     "FolderName": {
       "type": "STRING",
       "value": "Watchdogs2"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "angelonia"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\2688"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "WATCH_DOGS2/EAC.exe,WATCH_DOGS2/bin/SplashScreen.exe,WATCH_DOGS2/bin/WatchDogs2.exe"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "2688"
     }
   },
   "entitlementName": "a5d920b94c1d41a182db6258dc5eea5b",

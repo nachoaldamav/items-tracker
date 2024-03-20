@@ -36,27 +36,11 @@
   "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
   "status": "ACTIVE",
   "creationDate": "2020-03-23T16:03:13.051Z",
-  "lastModifiedDate": "2021-02-24T14:14:45.215Z",
+  "lastModifiedDate": "2024-03-20T18:23:35.454Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "2dbd2f64abdc4bbab077424d5c85e01b"
-    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
-    },
-    "extraLaunchOption_001_Args": {
-      "type": "STRING",
-      "value": "-ExeId 1"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -78,13 +62,45 @@
       "type": "STRING",
       "value": "366ad72c018a4c3893ecf209b2171763"
     },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BreakpointDemo"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "2dbd2f64abdc4bbab077424d5c85e01b"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\11903"
+    },
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-ExeId 1"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
-    "FolderName": {
+    "RegistryKey": {
       "type": "STRING",
-      "value": "BreakpointDemo"
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "11903"
     }
   },
   "entitlementName": "09342951051244918f8d8babd810dee0",

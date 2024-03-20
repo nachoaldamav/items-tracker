@@ -42,21 +42,9 @@
   "namespace": "argyle",
   "status": "ACTIVE",
   "creationDate": "2019-04-02T21:32:56.420Z",
-  "lastModifiedDate": "2020-11-18T15:52:24.414Z",
+  "lastModifiedDate": "2024-03-20T18:42:36.680Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "argyle"
-    },
     "NeverUpdate": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "MonitorPresence": {
       "type": "STRING",
       "value": "true"
     },
@@ -68,10 +56,6 @@
       "type": "STRING",
       "value": "[]"
     },
-    "ProcessNames": {
-      "type": "STRING",
-      "value": "TrialsRising.exe,UbisoftGameLauncher.exe"
-    },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
@@ -80,10 +64,6 @@
       "type": "STRING",
       "value": "TrialsRising.exe"
     },
-    "partnerLinkType": {
-      "type": "STRING",
-      "value": "ubisoft"
-    },
     "partnerLinkId": {
       "type": "STRING",
       "value": "4de9dc7c31c94ac4a62dd6f09de9424f"
@@ -91,6 +71,42 @@
     "FolderName": {
       "type": "STRING",
       "value": "TrialsRising"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "argyle"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\3600"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "TrialsRising.exe,UbisoftGameLauncher.exe"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "3600"
     }
   },
   "entitlementName": "e6545c49b68d499698789a7a181baf59",

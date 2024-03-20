@@ -42,7 +42,7 @@
   "namespace": "anise",
   "status": "ACTIVE",
   "creationDate": "2019-04-02T19:23:29.881Z",
-  "lastModifiedDate": "2022-11-18T17:32:49.615Z",
+  "lastModifiedDate": "2024-03-20T18:42:40.050Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
@@ -84,17 +84,33 @@
       "type": "STRING",
       "value": "true"
     },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\5183"
+    },
     "extraLaunchOption_001_Args": {
       "type": "STRING",
       "value": "-ExeId 1"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
     },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "5183"
     }
   },
   "entitlementName": "90915758aeac41739670bff50e5c1323",

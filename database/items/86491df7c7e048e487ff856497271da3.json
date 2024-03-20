@@ -36,12 +36,8 @@
   "namespace": "9afcf28baab84109ad3bc8038d07e7c1",
   "status": "ACTIVE",
   "creationDate": "2020-08-13T17:27:29.430Z",
-  "lastModifiedDate": "2021-08-24T19:25:01.062Z",
+  "lastModifiedDate": "2024-03-20T18:41:09.359Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
@@ -62,10 +58,6 @@
       "type": "STRING",
       "value": "trials_fusion.exe"
     },
-    "partnerLinkType": {
-      "type": "STRING",
-      "value": "ubisoft"
-    },
     "partnerLinkId": {
       "type": "STRING",
       "value": "cac4b97ea0df4177beecc0b1ec8ee257"
@@ -74,9 +66,33 @@
       "type": "STRING",
       "value": "TrialsFusion"
     },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\297"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
     "neverUpdate": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "297"
     }
   },
   "entitlementName": "86491df7c7e048e487ff856497271da3",

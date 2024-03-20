@@ -16,11 +16,19 @@
   "namespace": "764eb429792649e4a606413cd649de2c",
   "status": "ACTIVE",
   "creationDate": "2019-10-28T21:43:21.145Z",
-  "lastModifiedDate": "2019-12-20T15:33:49.356Z",
+  "lastModifiedDate": "2024-03-20T18:42:11.772Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\3088"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
     },
     "partnerLinkId": {
       "type": "STRING",
@@ -33,6 +41,14 @@
     "FolderName": {
       "type": "STRING",
       "value": "AlewifeStaging"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "3088"
     }
   },
   "entitlementName": "13897818514c4aeb9345ab09dc595add",

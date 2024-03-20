@@ -16,11 +16,19 @@
   "namespace": "1cdfbaaccaab490c9305e86496c7f3fa",
   "status": "ACTIVE",
   "creationDate": "2020-08-12T18:22:46.851Z",
-  "lastModifiedDate": "2021-03-11T15:19:07.673Z",
+  "lastModifiedDate": "2024-03-20T18:41:11.050Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\110"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
     },
     "partnerLinkType": {
       "type": "STRING",
@@ -33,6 +41,14 @@
     "FolderName": {
       "type": "STRING",
       "value": "RaspberryStaging"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "110"
     }
   },
   "entitlementName": "084bfaa4851c4d60a80a66eac7f6c502",

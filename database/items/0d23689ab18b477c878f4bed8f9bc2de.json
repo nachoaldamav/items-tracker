@@ -33,35 +33,15 @@
   "namespace": "oregano",
   "status": "ACTIVE",
   "creationDate": "2019-03-29T14:46:24.783Z",
-  "lastModifiedDate": "2023-12-18T15:02:29.466Z",
+  "lastModifiedDate": "2024-03-20T18:42:38.405Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
     "NeverUpdate": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "oregano"
-    },
-    "MonitorPresence": {
       "type": "STRING",
       "value": "true"
     },
     "RequirementsJson": {
       "type": "STRING",
       "value": "[]"
-    },
-    "ProcessNames": {
-      "type": "STRING",
-      "value": "Anno1800.exe,UbisoftGameLauncher.exe"
-    },
-    "isPrepurchase": {
-      "type": "STRING",
-      "value": "true"
     },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
@@ -75,13 +55,49 @@
       "type": "STRING",
       "value": "1ff283ce9e054747abe9ac66074c7ebc"
     },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ANNO1800"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "oregano"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\4553"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "Anno1800.exe,UbisoftGameLauncher.exe"
+    },
+    "isPrepurchase": {
+      "type": "STRING",
+      "value": "true"
+    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
-    "FolderName": {
+    "RegistryKey": {
       "type": "STRING",
-      "value": "ANNO1800"
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "4553"
     }
   },
   "entitlementName": "0d23689ab18b477c878f4bed8f9bc2de",

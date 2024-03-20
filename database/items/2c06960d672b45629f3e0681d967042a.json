@@ -36,23 +36,11 @@
   "namespace": "72bdc702b4974024a69a5eb718a7a135",
   "status": "ACTIVE",
   "creationDate": "2020-02-10T04:58:42.022Z",
-  "lastModifiedDate": "2022-11-18T17:26:56.011Z",
+  "lastModifiedDate": "2024-03-20T18:42:07.566Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "72bdc702b4974024a69a5eb718a7a135"
-    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -70,13 +58,41 @@
       "type": "STRING",
       "value": "8aa5319a67514378b7745281b39d7ec0"
     },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AssassinsCreedUnity"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "72bdc702b4974024a69a5eb718a7a135"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\720"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
-    "FolderName": {
+    "RegistryKey": {
       "type": "STRING",
-      "value": "AssassinsCreedUnity"
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "720"
     }
   },
   "entitlementName": "2c06960d672b45629f3e0681d967042a",

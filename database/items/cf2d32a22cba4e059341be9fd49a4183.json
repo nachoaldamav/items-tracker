@@ -33,13 +33,29 @@
   "namespace": "hyacinth",
   "status": "ACTIVE",
   "creationDate": "2019-02-10T16:31:50.047Z",
-  "lastModifiedDate": "2023-07-20T20:29:39.965Z",
+  "lastModifiedDate": "2024-03-20T18:42:42.592Z",
   "customAttributes": {
-    "CanRunOffline": {
+    "NeverUpdate": {
       "type": "STRING",
       "value": "true"
     },
-    "NeverUpdate": {
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "GRW.exe"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "43c8d0d7f195465b90ca41c05399f16d"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GhostReconWildlands"
+    },
+    "CanRunOffline": {
       "type": "STRING",
       "value": "true"
     },
@@ -51,29 +67,29 @@
       "type": "STRING",
       "value": "true"
     },
-    "RequirementsJson": {
+    "RegistryPath": {
       "type": "STRING",
-      "value": "{}"
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\1771"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
     },
     "ProcessNames": {
       "type": "STRING",
       "value": "Ghost Recon Wildlands/GRW.exe,Ghost Recon Wildlands/rungame.exe"
     },
-    "MainWindowProcessName": {
-      "type": "STRING",
-      "value": "GRW.exe"
-    },
-    "partnerLinkId": {
-      "type": "STRING",
-      "value": "43c8d0d7f195465b90ca41c05399f16d"
-    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
-    "FolderName": {
+    "RegistryKey": {
       "type": "STRING",
-      "value": "GhostReconWildlands"
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "1771"
     }
   },
   "entitlementName": "cf2d32a22cba4e059341be9fd49a4183",

@@ -16,11 +16,19 @@
   "namespace": "c9be94273fe244c08032ca493ad87434",
   "status": "ACTIVE",
   "creationDate": "2019-11-06T21:37:52.130Z",
-  "lastModifiedDate": "2020-02-20T15:17:28.094Z",
+  "lastModifiedDate": "2024-03-20T18:42:08.427Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\1875"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
     },
     "partnerLinkType": {
       "type": "STRING",
@@ -33,6 +41,14 @@
     "FolderName": {
       "type": "STRING",
       "value": "AlbacoreStaging"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "1875"
     }
   },
   "entitlementName": "72e0d62cd74849bba06c14675beae443",

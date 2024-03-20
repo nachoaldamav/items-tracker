@@ -33,7 +33,7 @@
   "namespace": "carnation",
   "status": "ACTIVE",
   "creationDate": "2019-02-11T18:08:53.061Z",
-  "lastModifiedDate": "2024-03-12T14:22:19.925Z",
+  "lastModifiedDate": "2024-03-20T18:42:33.164Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
@@ -71,9 +71,17 @@
       "type": "STRING",
       "value": "true"
     },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\635"
+    },
     "extraLaunchOption_001_Args": {
       "type": "STRING",
       "value": "-ExeId 1"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
     },
     "com.epicgames.app.developerName": {
       "type": "STRING",
@@ -83,9 +91,17 @@
       "type": "STRING",
       "value": "ubisoft"
     },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "635"
     }
   },
   "entitlementName": "18e6826e1f464668a0aa45635e0bde07",

@@ -36,23 +36,11 @@
   "namespace": "1093790870b043cdbae03d91d76d9ae6",
   "status": "ACTIVE",
   "creationDate": "2019-09-19T18:20:55.354Z",
-  "lastModifiedDate": "2023-10-20T21:12:14.052Z",
+  "lastModifiedDate": "2024-03-20T18:42:17.459Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "1093790870b043cdbae03d91d76d9ae6"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -70,13 +58,41 @@
       "type": "STRING",
       "value": "0505e81242e748b8b697eacb4705bfd3"
     },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RainbowSixExtraction"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "1093790870b043cdbae03d91d76d9ae6"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\5271"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
-    "FolderName": {
+    "RegistryKey": {
       "type": "STRING",
-      "value": "RainbowSixExtraction"
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "5271"
     }
   },
   "entitlementName": "80f37a74363c400bb3c38dd89397360c",
