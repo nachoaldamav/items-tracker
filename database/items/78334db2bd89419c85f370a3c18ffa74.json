@@ -14,7 +14,7 @@
   "namespace": "a40f6c03e1374358809ec38c999059c0",
   "status": "ACTIVE",
   "creationDate": "2020-06-09T20:05:02.315Z",
-  "lastModifiedDate": "2020-09-22T16:01:21.148Z",
+  "lastModifiedDate": "2024-03-21T21:45:54.519Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -24,6 +24,7 @@
   "entitlementName": "78334db2bd89419c85f370a3c18ffa74",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Big Blue Bubble, Inc.",
   "developerId": "o-r7nfesqr4qcafkmfwmp9hpu492f228",
   "eulaIds": [
@@ -31,5 +32,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
