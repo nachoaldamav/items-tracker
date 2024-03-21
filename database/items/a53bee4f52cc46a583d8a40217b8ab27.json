@@ -36,19 +36,19 @@
   "namespace": "f7e06ee3d0c1491094cc0215859f0120",
   "status": "ACTIVE",
   "creationDate": "2019-06-06T18:11:04.872Z",
-  "lastModifiedDate": "2020-09-23T17:02:18.160Z",
+  "lastModifiedDate": "2024-03-21T15:26:32.872Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
     },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "f7e06ee3d0c1491094cc0215859f0120"
-    },
     "CloudSaveFolder_MAC": {
       "type": "STRING",
       "value": "{UserLibrary}/Application Support/se.househou.untitled-goose-game/"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "f7e06ee3d0c1491094cc0215859f0120"
     },
     "MonitorPresence": {
       "type": "STRING",
@@ -97,5 +97,6 @@
   "endOfSupport": false,
   "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
