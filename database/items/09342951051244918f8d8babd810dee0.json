@@ -36,11 +36,27 @@
   "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
   "status": "ACTIVE",
   "creationDate": "2020-03-23T16:03:13.051Z",
-  "lastModifiedDate": "2024-03-20T18:23:35.454Z",
+  "lastModifiedDate": "2024-03-21T00:19:17.426Z",
   "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "2dbd2f64abdc4bbab077424d5c85e01b"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-ExeId 1"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -62,45 +78,13 @@
       "type": "STRING",
       "value": "366ad72c018a4c3893ecf209b2171763"
     },
-    "FolderName": {
-      "type": "STRING",
-      "value": "BreakpointDemo"
-    },
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "2dbd2f64abdc4bbab077424d5c85e01b"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
-    },
-    "RegistryPath": {
-      "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\11903"
-    },
-    "extraLaunchOption_001_Args": {
-      "type": "STRING",
-      "value": "-ExeId 1"
-    },
-    "ThirdPartyManagedApp": {
-      "type": "STRING",
-      "value": "UbisoftConnect"
-    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
-    "RegistryKey": {
+    "FolderName": {
       "type": "STRING",
-      "value": "InstallDir"
-    },
-    "GameID": {
-      "type": "STRING",
-      "value": "11903"
+      "value": "BreakpointDemo"
     }
   },
   "entitlementName": "09342951051244918f8d8babd810dee0",
@@ -108,7 +92,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "cb210bc3a1834fff8825cd6ecfc9940b",
+      "id": "83458aede9324395bf5b73a6e802d608",
       "appId": "4d7c1e25955644e9afe7054071f39603",
       "platform": [
         "Windows"
@@ -123,5 +107,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

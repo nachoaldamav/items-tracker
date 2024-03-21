@@ -33,8 +33,20 @@
   "namespace": "impala",
   "status": "ACTIVE",
   "creationDate": "2020-04-07T18:05:29.291Z",
-  "lastModifiedDate": "2024-03-19T19:33:41.307Z",
+  "lastModifiedDate": "2024-03-21T00:47:38.072Z",
   "customAttributes": {
+    "PresenceID": {
+      "type": "STRING",
+      "value": "impala"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "isUplay": {
+      "type": "STRING",
+      "value": "true"
+    },
     "UseAccessControl": {
       "type": "STRING",
       "value": "true"
@@ -47,45 +59,17 @@
       "type": "STRING",
       "value": "a00251d163e847009562bb58f751647a"
     },
-    "FolderName": {
-      "type": "STRING",
-      "value": "TheDivision2Demo"
-    },
-    "PresenceID": {
-      "type": "STRING",
-      "value": "impala"
-    },
-    "isUplay": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "RegistryPath": {
-      "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\4932"
-    },
-    "ThirdPartyManagedApp": {
-      "type": "STRING",
-      "value": "UbisoftConnect"
-    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheDivision2Demo"
+    },
     "neverUpdate": {
       "type": "STRING",
       "value": "true"
-    },
-    "RegistryKey": {
-      "type": "STRING",
-      "value": "InstallDir"
-    },
-    "GameID": {
-      "type": "STRING",
-      "value": "4932"
     }
   },
   "entitlementName": "064ea3a414b847f1a017318a7b951ca8",
@@ -93,7 +77,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "220683cc53bb4150bfc5ba54e7080388",
+      "id": "d7b8495f3c9049b1a2f94cca40265d7d",
       "appId": "7522be5025a84d8c8578b5122056f6ca",
       "compatibleApps": [],
       "platform": [
