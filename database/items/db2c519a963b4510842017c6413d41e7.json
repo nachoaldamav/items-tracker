@@ -36,9 +36,21 @@
   "namespace": "8b9fc0e3ee7d478abc047d1a3596c568",
   "status": "ACTIVE",
   "creationDate": "2020-01-24T17:48:52.209Z",
-  "lastModifiedDate": "2024-03-20T18:41:55.968Z",
+  "lastModifiedDate": "2024-03-21T01:30:37.505Z",
   "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "8b9fc0e3ee7d478abc047d1a3596c568"
+    },
     "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
       "type": "STRING",
       "value": "true"
     },
@@ -54,6 +66,10 @@
       "type": "STRING",
       "value": "true"
     },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
     "partnerLinkId": {
       "type": "STRING",
       "value": "438fe1de2d7a45ffb8c290c34ba38532"
@@ -61,38 +77,6 @@
     "FolderName": {
       "type": "STRING",
       "value": "FarCry3BloodDragon"
-    },
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "8b9fc0e3ee7d478abc047d1a3596c568"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "RegistryPath": {
-      "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\205"
-    },
-    "ThirdPartyManagedApp": {
-      "type": "STRING",
-      "value": "UbisoftConnect"
-    },
-    "partnerLinkType": {
-      "type": "STRING",
-      "value": "ubisoft"
-    },
-    "RegistryKey": {
-      "type": "STRING",
-      "value": "InstallDir"
-    },
-    "GameID": {
-      "type": "STRING",
-      "value": "205"
     }
   },
   "entitlementName": "db2c519a963b4510842017c6413d41e7",

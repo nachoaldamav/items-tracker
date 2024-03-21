@@ -17,19 +17,11 @@
   "namespace": "590c37a9443d46ce84be415b96b1a3e6",
   "status": "ACTIVE",
   "creationDate": "2020-06-11T01:35:32.786Z",
-  "lastModifiedDate": "2024-03-20T18:41:29.474Z",
+  "lastModifiedDate": "2024-03-21T01:30:07.668Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
-    },
-    "RegistryPath": {
-      "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\16232"
-    },
-    "ThirdPartyManagedApp": {
-      "type": "STRING",
-      "value": "UbisoftConnect"
     },
     "partnerLinkId": {
       "type": "STRING",
@@ -42,14 +34,6 @@
     "FolderName": {
       "type": "STRING",
       "value": "VilniusStaging"
-    },
-    "RegistryKey": {
-      "type": "STRING",
-      "value": "InstallDir"
-    },
-    "GameID": {
-      "type": "STRING",
-      "value": "16232"
     }
   },
   "entitlementName": "28379d8eb2114e33879da8daccb82934",

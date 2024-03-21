@@ -51,28 +51,8 @@
   "namespace": "angelonia",
   "status": "ACTIVE",
   "creationDate": "2019-02-10T16:57:41.596Z",
-  "lastModifiedDate": "2024-03-20T18:42:40.956Z",
+  "lastModifiedDate": "2024-03-21T01:31:34.080Z",
   "customAttributes": {
-    "NeverUpdate": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "RequirementsJson": {
-      "type": "STRING",
-      "value": "{}"
-    },
-    "MainWindowProcessName": {
-      "type": "STRING",
-      "value": "WatchDogs2.exe"
-    },
-    "partnerLinkId": {
-      "type": "STRING",
-      "value": "a6310e1690c04cffac514beb901a8770"
-    },
-    "FolderName": {
-      "type": "STRING",
-      "value": "Watchdogs2"
-    },
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
@@ -81,33 +61,37 @@
       "type": "STRING",
       "value": "angelonia"
     },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
     "MonitorPresence": {
       "type": "STRING",
       "value": "true"
     },
-    "RegistryPath": {
+    "RequirementsJson": {
       "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\2688"
-    },
-    "ThirdPartyManagedApp": {
-      "type": "STRING",
-      "value": "UbisoftConnect"
+      "value": "{}"
     },
     "ProcessNames": {
       "type": "STRING",
       "value": "WATCH_DOGS2/EAC.exe,WATCH_DOGS2/bin/SplashScreen.exe,WATCH_DOGS2/bin/WatchDogs2.exe"
     },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "WatchDogs2.exe"
+    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
-    "RegistryKey": {
+    "partnerLinkId": {
       "type": "STRING",
-      "value": "InstallDir"
+      "value": "a6310e1690c04cffac514beb901a8770"
     },
-    "GameID": {
+    "FolderName": {
       "type": "STRING",
-      "value": "2688"
+      "value": "Watchdogs2"
     }
   },
   "entitlementName": "a5d920b94c1d41a182db6258dc5eea5b",

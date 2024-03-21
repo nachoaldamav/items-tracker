@@ -16,19 +16,11 @@
   "namespace": "a15e35cda898480d8fed214dc889f199",
   "status": "ACTIVE",
   "creationDate": "2020-08-13T18:11:49.540Z",
-  "lastModifiedDate": "2024-03-20T18:41:08.536Z",
+  "lastModifiedDate": "2024-03-21T01:29:44.537Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
-    },
-    "RegistryPath": {
-      "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\78"
-    },
-    "ThirdPartyManagedApp": {
-      "type": "STRING",
-      "value": "UbisoftConnect"
     },
     "partnerLinkType": {
       "type": "STRING",
@@ -41,14 +33,6 @@
     "FolderName": {
       "type": "STRING",
       "value": "SquashStaging"
-    },
-    "RegistryKey": {
-      "type": "STRING",
-      "value": "InstallDir"
-    },
-    "GameID": {
-      "type": "STRING",
-      "value": "78"
     }
   },
   "entitlementName": "009861099990401a867bb1f0f467755d",

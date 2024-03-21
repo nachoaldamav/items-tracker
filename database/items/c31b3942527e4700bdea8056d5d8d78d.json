@@ -36,8 +36,12 @@
   "namespace": "66e9c042d8cd42b7956f5e195e0442de",
   "status": "ACTIVE",
   "creationDate": "2020-07-24T22:05:32.769Z",
-  "lastModifiedDate": "2024-03-20T18:41:19.237Z",
+  "lastModifiedDate": "2024-03-21T01:29:56.476Z",
   "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
@@ -58,37 +62,17 @@
       "type": "STRING",
       "value": "4a5afaab994d4ba6bbaab03c1455fe03"
     },
-    "FolderName": {
-      "type": "STRING",
-      "value": "RaymanOrigins"
-    },
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "RegistryPath": {
-      "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\80"
-    },
-    "ThirdPartyManagedApp": {
-      "type": "STRING",
-      "value": "UbisoftConnect"
-    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RaymanOrigins"
+    },
     "neverUpdate": {
       "type": "STRING",
       "value": "true"
-    },
-    "RegistryKey": {
-      "type": "STRING",
-      "value": "InstallDir"
-    },
-    "GameID": {
-      "type": "STRING",
-      "value": "80"
     }
   },
   "entitlementName": "c31b3942527e4700bdea8056d5d8d78d",

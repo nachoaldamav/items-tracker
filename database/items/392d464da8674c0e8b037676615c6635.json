@@ -16,19 +16,11 @@
   "namespace": "143474ab55ec49e8b9b9d79931cb2512",
   "status": "ACTIVE",
   "creationDate": "2020-08-13T19:26:05.260Z",
-  "lastModifiedDate": "2024-03-20T18:41:05.974Z",
+  "lastModifiedDate": "2024-03-21T01:29:41.739Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
-    },
-    "RegistryPath": {
-      "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\1653"
-    },
-    "ThirdPartyManagedApp": {
-      "type": "STRING",
-      "value": "UbisoftConnect"
     },
     "partnerLinkType": {
       "type": "STRING",
@@ -41,14 +33,6 @@
     "FolderName": {
       "type": "STRING",
       "value": "potatoStaging"
-    },
-    "RegistryKey": {
-      "type": "STRING",
-      "value": "InstallDir"
-    },
-    "GameID": {
-      "type": "STRING",
-      "value": "1653"
     }
   },
   "entitlementName": "392d464da8674c0e8b037676615c6635",

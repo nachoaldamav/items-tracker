@@ -14,7 +14,7 @@
   "namespace": "hellebore",
   "status": "ACTIVE",
   "creationDate": "2019-10-28T14:29:50.545Z",
-  "lastModifiedDate": "2024-03-20T18:42:45.115Z",
+  "lastModifiedDate": "2024-03-21T01:31:42.668Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -23,14 +23,6 @@
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
-    },
-    "RegistryPath": {
-      "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\46"
-    },
-    "ThirdPartyManagedApp": {
-      "type": "STRING",
-      "value": "UbisoftConnect"
     },
     "partnerLinkId": {
       "type": "STRING",
@@ -43,14 +35,6 @@
     "FolderName": {
       "type": "STRING",
       "value": "HelleboreStaging"
-    },
-    "RegistryKey": {
-      "type": "STRING",
-      "value": "InstallDir"
-    },
-    "GameID": {
-      "type": "STRING",
-      "value": "46"
     }
   },
   "entitlementName": "7895b3a108b14db1b6138c4d69e121e5",

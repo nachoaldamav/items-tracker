@@ -33,7 +33,7 @@
   "namespace": "0c05e0889c3e42a4be1d81077d6e653a",
   "status": "ACTIVE",
   "creationDate": "2022-06-24T10:23:10.273Z",
-  "lastModifiedDate": "2024-03-20T18:40:51.848Z",
+  "lastModifiedDate": "2024-03-21T01:29:24.747Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -47,14 +47,6 @@
       "type": "STRING",
       "value": "0c05e0889c3e42a4be1d81077d6e653a"
     },
-    "RegistryPath": {
-      "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\1713"
-    },
-    "ThirdPartyManagedApp": {
-      "type": "STRING",
-      "value": "UbisoftConnect"
-    },
     "partnerLinkId": {
       "type": "STRING",
       "value": "49fd8eb0cf7141b6b90810510131ee15"
@@ -62,14 +54,6 @@
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
-    },
-    "RegistryKey": {
-      "type": "STRING",
-      "value": "InstallDir"
-    },
-    "GameID": {
-      "type": "STRING",
-      "value": "1713"
     }
   },
   "entitlementName": "35f529b3d6c544eea505462ff7020bf4",

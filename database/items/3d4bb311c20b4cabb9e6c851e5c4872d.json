@@ -36,8 +36,12 @@
   "namespace": "1cdfbaaccaab490c9305e86496c7f3fa",
   "status": "ACTIVE",
   "creationDate": "2020-08-12T18:22:46.810Z",
-  "lastModifiedDate": "2024-03-20T18:41:11.865Z",
+  "lastModifiedDate": "2024-03-21T01:29:47.289Z",
   "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
@@ -58,6 +62,10 @@
       "type": "STRING",
       "value": "SplinterCell4.exe"
     },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
     "partnerLinkId": {
       "type": "STRING",
       "value": "837310970a894213889625d856ceef49"
@@ -65,30 +73,6 @@
     "FolderName": {
       "type": "STRING",
       "value": "SplinterCellDoubleAgent"
-    },
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "RegistryPath": {
-      "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\110"
-    },
-    "ThirdPartyManagedApp": {
-      "type": "STRING",
-      "value": "UbisoftConnect"
-    },
-    "partnerLinkType": {
-      "type": "STRING",
-      "value": "ubisoft"
-    },
-    "RegistryKey": {
-      "type": "STRING",
-      "value": "InstallDir"
-    },
-    "GameID": {
-      "type": "STRING",
-      "value": "110"
     }
   },
   "entitlementName": "3d4bb311c20b4cabb9e6c851e5c4872d",

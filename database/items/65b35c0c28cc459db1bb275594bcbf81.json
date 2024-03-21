@@ -36,8 +36,12 @@
   "namespace": "a15e35cda898480d8fed214dc889f199",
   "status": "ACTIVE",
   "creationDate": "2020-08-13T18:11:49.496Z",
-  "lastModifiedDate": "2024-03-20T18:41:07.688Z",
+  "lastModifiedDate": "2024-03-21T01:29:43.641Z",
   "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
@@ -62,33 +66,13 @@
       "type": "STRING",
       "value": "7174004b910444498a39390638ed878c"
     },
-    "FolderName": {
-      "type": "STRING",
-      "value": "TrialsEvolution"
-    },
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "RegistryPath": {
-      "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\78"
-    },
-    "ThirdPartyManagedApp": {
-      "type": "STRING",
-      "value": "UbisoftConnect"
-    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
-    "RegistryKey": {
+    "FolderName": {
       "type": "STRING",
-      "value": "InstallDir"
-    },
-    "GameID": {
-      "type": "STRING",
-      "value": "78"
+      "value": "TrialsEvolution"
     }
   },
   "entitlementName": "65b35c0c28cc459db1bb275594bcbf81",

@@ -16,19 +16,11 @@
   "namespace": "7ab8af3a04424eeaa509d37d7b5222b7",
   "status": "ACTIVE",
   "creationDate": "2020-08-04T15:14:55.676Z",
-  "lastModifiedDate": "2024-03-20T18:41:16.738Z",
+  "lastModifiedDate": "2024-03-21T01:29:53.701Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
-    },
-    "RegistryPath": {
-      "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\232"
-    },
-    "ThirdPartyManagedApp": {
-      "type": "STRING",
-      "value": "UbisoftConnect"
     },
     "partnerLinkId": {
       "type": "STRING",
@@ -41,14 +33,6 @@
     "FolderName": {
       "type": "STRING",
       "value": "ApricotStaging"
-    },
-    "RegistryKey": {
-      "type": "STRING",
-      "value": "InstallDir"
-    },
-    "GameID": {
-      "type": "STRING",
-      "value": "232"
     }
   },
   "entitlementName": "b7cb42fc8c4542d0a56a4204da725b7e",

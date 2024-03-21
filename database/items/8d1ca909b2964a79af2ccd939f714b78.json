@@ -36,11 +36,23 @@
   "namespace": "400347196e674de89c23cc2a7f2121db",
   "status": "ACTIVE",
   "creationDate": "2020-04-28T17:48:55.687Z",
-  "lastModifiedDate": "2024-03-20T18:41:34.411Z",
+  "lastModifiedDate": "2024-03-21T01:30:13.433Z",
   "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "400347196e674de89c23cc2a7f2121db"
+    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -62,41 +74,13 @@
       "type": "STRING",
       "value": "4663cbe7c0a0456b856dc34a120bb357"
     },
-    "FolderName": {
-      "type": "STRING",
-      "value": "AssassinsCreedValhalla"
-    },
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "400347196e674de89c23cc2a7f2121db"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
-    },
-    "RegistryPath": {
-      "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\13504"
-    },
-    "ThirdPartyManagedApp": {
-      "type": "STRING",
-      "value": "UbisoftConnect"
-    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
-    "RegistryKey": {
+    "FolderName": {
       "type": "STRING",
-      "value": "InstallDir"
-    },
-    "GameID": {
-      "type": "STRING",
-      "value": "13504"
+      "value": "AssassinsCreedValhalla"
     }
   },
   "entitlementName": "8d1ca909b2964a79af2ccd939f714b78",

@@ -36,8 +36,12 @@
   "namespace": "4b35838425c74992ad42e1276b2161ca",
   "status": "ACTIVE",
   "creationDate": "2019-06-08T17:13:02.483Z",
-  "lastModifiedDate": "2024-03-20T18:42:23.968Z",
+  "lastModifiedDate": "2024-03-21T01:31:11.212Z",
   "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
@@ -62,33 +66,13 @@
       "type": "STRING",
       "value": "e4afbc10480d4afd97465e4aea194a73"
     },
-    "FolderName": {
-      "type": "STRING",
-      "value": "ImmortalsFenyxRising"
-    },
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "RegistryPath": {
-      "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\5405"
-    },
-    "ThirdPartyManagedApp": {
-      "type": "STRING",
-      "value": "UbisoftConnect"
-    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
-    "RegistryKey": {
+    "FolderName": {
       "type": "STRING",
-      "value": "InstallDir"
-    },
-    "GameID": {
-      "type": "STRING",
-      "value": "5405"
+      "value": "ImmortalsFenyxRising"
     }
   },
   "entitlementName": "dbd496361f0a46a99c70b7c61b53f367",

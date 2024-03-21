@@ -16,19 +16,11 @@
   "namespace": "a646020cb93b4ea995cda70647bbe001",
   "status": "ACTIVE",
   "creationDate": "2019-12-09T19:08:56.299Z",
-  "lastModifiedDate": "2024-03-20T18:42:05.874Z",
+  "lastModifiedDate": "2024-03-21T01:30:48.797Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
-    },
-    "RegistryPath": {
-      "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\3279"
-    },
-    "ThirdPartyManagedApp": {
-      "type": "STRING",
-      "value": "UbisoftConnect"
     },
     "partnerLinkType": {
       "type": "STRING",
@@ -41,14 +33,6 @@
     "FolderName": {
       "type": "STRING",
       "value": "BarracudaStaging"
-    },
-    "RegistryKey": {
-      "type": "STRING",
-      "value": "InstallDir"
-    },
-    "GameID": {
-      "type": "STRING",
-      "value": "3279"
     }
   },
   "entitlementName": "8539acddd4fa422ab2fbe25ee6413ae6",

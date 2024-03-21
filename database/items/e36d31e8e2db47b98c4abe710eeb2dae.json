@@ -17,19 +17,11 @@
   "namespace": "8767c1c91fc847cbafbfa232c695276f",
   "status": "ACTIVE",
   "creationDate": "2020-03-24T00:47:42.310Z",
-  "lastModifiedDate": "2024-03-20T18:41:46.006Z",
+  "lastModifiedDate": "2024-03-21T01:30:26.255Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
-    },
-    "RegistryPath": {
-      "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\659"
-    },
-    "ThirdPartyManagedApp": {
-      "type": "STRING",
-      "value": "UbisoftConnect"
     },
     "partnerLinkId": {
       "type": "STRING",
@@ -42,14 +34,6 @@
     "FolderName": {
       "type": "STRING",
       "value": "TurquoiseStaging"
-    },
-    "RegistryKey": {
-      "type": "STRING",
-      "value": "InstallDir"
-    },
-    "GameID": {
-      "type": "STRING",
-      "value": "659"
     }
   },
   "entitlementName": "e36d31e8e2db47b98c4abe710eeb2dae",

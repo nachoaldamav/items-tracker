@@ -17,19 +17,11 @@
   "namespace": "db9ef498b3fa4b26afb501ea352e3c46",
   "status": "ACTIVE",
   "creationDate": "2020-06-11T01:35:55.661Z",
-  "lastModifiedDate": "2024-03-20T18:41:27.798Z",
+  "lastModifiedDate": "2024-03-21T01:30:05.874Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
-    },
-    "RegistryPath": {
-      "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\16238"
-    },
-    "ThirdPartyManagedApp": {
-      "type": "STRING",
-      "value": "UbisoftConnect"
     },
     "partnerLinkId": {
       "type": "STRING",
@@ -42,14 +34,6 @@
     "FolderName": {
       "type": "STRING",
       "value": "ChisinauStaging"
-    },
-    "RegistryKey": {
-      "type": "STRING",
-      "value": "InstallDir"
-    },
-    "GameID": {
-      "type": "STRING",
-      "value": "16238"
     }
   },
   "entitlementName": "89d5bb4c607a4340bc450859d63c11ff",

@@ -36,8 +36,12 @@
   "namespace": "590c37a9443d46ce84be415b96b1a3e6",
   "status": "ACTIVE",
   "creationDate": "2020-06-11T01:35:32.674Z",
-  "lastModifiedDate": "2024-03-20T18:41:28.606Z",
+  "lastModifiedDate": "2024-03-21T01:30:06.786Z",
   "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
@@ -49,6 +53,10 @@
     "RequirementsJson": {
       "type": "STRING",
       "value": "[]"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "Anno1404.exe,Anno1404Addon.exe"
     },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
@@ -62,37 +70,13 @@
       "type": "STRING",
       "value": "8b3a43b41b3f4c52acfe799f6e7dfd4d"
     },
-    "FolderName": {
-      "type": "STRING",
-      "value": "Anno1404"
-    },
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "RegistryPath": {
-      "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\16232"
-    },
-    "ThirdPartyManagedApp": {
-      "type": "STRING",
-      "value": "UbisoftConnect"
-    },
-    "ProcessNames": {
-      "type": "STRING",
-      "value": "Anno1404.exe,Anno1404Addon.exe"
-    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
-    "RegistryKey": {
+    "FolderName": {
       "type": "STRING",
-      "value": "InstallDir"
-    },
-    "GameID": {
-      "type": "STRING",
-      "value": "16232"
+      "value": "Anno1404"
     }
   },
   "entitlementName": "34842d2b88a54576acf162ad25812b44",
