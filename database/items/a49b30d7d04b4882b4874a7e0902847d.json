@@ -34,7 +34,7 @@
   "namespace": "sundrop",
   "status": "ACTIVE",
   "creationDate": "2020-07-20T20:15:05.717Z",
-  "lastModifiedDate": "2024-03-20T18:42:29.868Z",
+  "lastModifiedDate": "2024-03-21T01:31:19.669Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -52,14 +52,6 @@
       "type": "STRING",
       "value": "true"
     },
-    "RegistryPath": {
-      "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\569"
-    },
-    "ThirdPartyManagedApp": {
-      "type": "STRING",
-      "value": "UbisoftConnect"
-    },
     "RequirementsJson": {
       "type": "STRING",
       "value": "[]"
@@ -75,14 +67,6 @@
     "FolderName": {
       "type": "STRING",
       "value": "ForHonorTrial"
-    },
-    "RegistryKey": {
-      "type": "STRING",
-      "value": "InstallDir"
-    },
-    "GameID": {
-      "type": "STRING",
-      "value": "569"
     }
   },
   "entitlementName": "a49b30d7d04b4882b4874a7e0902847d",

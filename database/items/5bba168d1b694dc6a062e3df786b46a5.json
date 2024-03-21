@@ -16,19 +16,11 @@
   "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
   "status": "ACTIVE",
   "creationDate": "2020-02-13T19:28:26.288Z",
-  "lastModifiedDate": "2024-03-20T18:41:51.868Z",
+  "lastModifiedDate": "2024-03-21T01:30:32.856Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
-    },
-    "RegistryPath": {
-      "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\274"
-    },
-    "ThirdPartyManagedApp": {
-      "type": "STRING",
-      "value": "UbisoftConnect"
     },
     "partnerLinkId": {
       "type": "STRING",
@@ -41,14 +33,6 @@
     "FolderName": {
       "type": "STRING",
       "value": "JasperStaging"
-    },
-    "RegistryKey": {
-      "type": "STRING",
-      "value": "InstallDir"
-    },
-    "GameID": {
-      "type": "STRING",
-      "value": "274"
     }
   },
   "entitlementName": "5bba168d1b694dc6a062e3df786b46a5",

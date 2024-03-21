@@ -14,19 +14,11 @@
   "namespace": "hyacinth",
   "status": "ACTIVE",
   "creationDate": "2019-02-10T16:34:38.402Z",
-  "lastModifiedDate": "2024-03-20T18:42:41.781Z",
+  "lastModifiedDate": "2024-03-21T01:31:34.988Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
-    },
-    "RegistryPath": {
-      "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\1771"
-    },
-    "ThirdPartyManagedApp": {
-      "type": "STRING",
-      "value": "UbisoftConnect"
     },
     "partnerLinkId": {
       "type": "STRING",
@@ -39,14 +31,6 @@
     "FolderName": {
       "type": "STRING",
       "value": "HyacinthStaging"
-    },
-    "RegistryKey": {
-      "type": "STRING",
-      "value": "InstallDir"
-    },
-    "GameID": {
-      "type": "STRING",
-      "value": "1771"
     }
   },
   "entitlementName": "b18581e1fce0493eb1463d86dc52c083",

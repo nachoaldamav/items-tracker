@@ -36,7 +36,7 @@
   "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
   "status": "ACTIVE",
   "creationDate": "2020-02-13T19:28:26.229Z",
-  "lastModifiedDate": "2024-03-20T18:41:52.664Z",
+  "lastModifiedDate": "2024-03-21T01:30:33.852Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -45,14 +45,6 @@
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
-    },
-    "RegistryPath": {
-      "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\274"
-    },
-    "ThirdPartyManagedApp": {
-      "type": "STRING",
-      "value": "UbisoftConnect"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -77,14 +69,6 @@
     "FolderName": {
       "type": "STRING",
       "value": "WatchDogs"
-    },
-    "RegistryKey": {
-      "type": "STRING",
-      "value": "InstallDir"
-    },
-    "GameID": {
-      "type": "STRING",
-      "value": "274"
     }
   },
   "entitlementName": "6dc445f656de4e029834b2d32b6a2f77",

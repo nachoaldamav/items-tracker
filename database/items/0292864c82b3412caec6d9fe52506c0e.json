@@ -36,7 +36,7 @@
   "namespace": "0a84818055e740a7be21a2e5b6162703",
   "status": "ACTIVE",
   "creationDate": "2019-06-03T15:04:21.387Z",
-  "lastModifiedDate": "2024-03-20T18:42:25.612Z",
+  "lastModifiedDate": "2024-03-21T01:31:13.098Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -49,14 +49,6 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
-    },
-    "RegistryPath": {
-      "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\3353"
-    },
-    "ThirdPartyManagedApp": {
-      "type": "STRING",
-      "value": "UbisoftConnect"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -77,14 +69,6 @@
     "FolderName": {
       "type": "STRING",
       "value": "WatchDogsLegion"
-    },
-    "RegistryKey": {
-      "type": "STRING",
-      "value": "InstallDir"
-    },
-    "GameID": {
-      "type": "STRING",
-      "value": "3353"
     }
   },
   "entitlementName": "0292864c82b3412caec6d9fe52506c0e",
