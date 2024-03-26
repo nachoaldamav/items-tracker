@@ -42,9 +42,10 @@
   "namespace": "6cec00f8934146508b884b0f139d55d0",
   "status": "ACTIVE",
   "creationDate": "2019-10-21T12:57:11.727Z",
-  "lastModifiedDate": "2024-01-10T16:02:24.843Z",
+  "lastModifiedDate": "2024-03-26T17:07:56.005Z",
+  "customAttributes": {},
   "entitlementName": "c187d3ac64e74632a67374310867cc0b",
-  "entitlementType": "EXECUTABLE",
+  "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
   "developer": "Pillow Castle",
@@ -53,5 +54,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

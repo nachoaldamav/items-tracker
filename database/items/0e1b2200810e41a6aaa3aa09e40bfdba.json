@@ -24,7 +24,7 @@
   "namespace": "a8f9fb4a881e47b489715f18f7d08e2f",
   "status": "ACTIVE",
   "creationDate": "2019-12-11T01:58:26.124Z",
-  "lastModifiedDate": "2021-01-06T01:02:48.500Z",
+  "lastModifiedDate": "2024-03-26T17:11:07.504Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -34,6 +34,7 @@
   "entitlementName": "0e1b2200810e41a6aaa3aa09e40bfdba",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "LCG Entertainment, Inc.",
   "developerId": "o-w6l7l9e6c93j85x29twne9ae6su4jt",
   "eulaIds": [
@@ -43,5 +44,6 @@
   "esrbGameRatingValue": "MATURE",
   "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
