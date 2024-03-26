@@ -13,7 +13,7 @@
   "namespace": "be4b391bc31d465ebeba92b9b822b798",
   "status": "ACTIVE",
   "creationDate": "2020-06-02T16:06:39.187Z",
-  "lastModifiedDate": "2020-08-13T11:41:23.919Z",
+  "lastModifiedDate": "2024-03-26T17:50:07.088Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,6 +23,7 @@
   "entitlementName": "bce091f27fbf4f548774f58ea0d21dc7",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Santa Ragione",
   "developerId": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
   "eulaIds": [
@@ -30,5 +31,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
