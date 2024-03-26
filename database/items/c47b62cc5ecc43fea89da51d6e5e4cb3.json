@@ -11,7 +11,7 @@
   "namespace": "turtle",
   "status": "ACTIVE",
   "creationDate": "2019-12-04T21:11:53.928Z",
-  "lastModifiedDate": "2020-09-05T00:08:10.193Z",
+  "lastModifiedDate": "2024-03-26T21:48:40.460Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -19,7 +19,7 @@
     }
   },
   "entitlementName": "c47b62cc5ecc43fea89da51d6e5e4cb3",
-  "entitlementType": "EXECUTABLE",
+  "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
   "developer": "Tripwire Interactive",
@@ -27,5 +27,6 @@
   "eulaIds": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
