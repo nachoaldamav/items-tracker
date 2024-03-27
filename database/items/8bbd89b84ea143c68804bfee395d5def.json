@@ -42,9 +42,10 @@
   "namespace": "silene",
   "status": "ACTIVE",
   "creationDate": "2019-02-21T22:16:03.534Z",
-  "lastModifiedDate": "2019-05-13T14:19:40.479Z",
+  "lastModifiedDate": "2024-03-27T15:27:39.112Z",
+  "customAttributes": {},
   "entitlementName": "8bbd89b84ea143c68804bfee395d5def",
-  "entitlementType": "ENTITLEMENT",
+  "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
   "developer": "Wired Productions",
@@ -53,6 +54,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": false,
+  "applicationId": "",
   "unsearchable": false
 }
