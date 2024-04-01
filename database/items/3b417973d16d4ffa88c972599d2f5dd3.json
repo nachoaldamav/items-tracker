@@ -24,7 +24,7 @@
   "namespace": "015763e579d4479cb1ef7780bf91804f",
   "status": "ACTIVE",
   "creationDate": "2019-07-12T21:26:47.545Z",
-  "lastModifiedDate": "2020-07-02T18:38:01.119Z",
+  "lastModifiedDate": "2024-04-01T20:36:56.877Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -34,6 +34,7 @@
   "entitlementName": "3b417973d16d4ffa88c972599d2f5dd3",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "William Chyr Studio",
   "developerId": "o-9j6lnh9adzvfntd9d8ypjc39wb9d3k",
   "eulaIds": [
@@ -41,5 +42,7 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "RATING_PENDING",
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
