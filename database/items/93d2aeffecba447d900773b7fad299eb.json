@@ -42,19 +42,19 @@
   "namespace": "adenium",
   "status": "ACTIVE",
   "creationDate": "2019-03-15T15:34:58.179Z",
-  "lastModifiedDate": "2020-03-25T13:16:01.433Z",
+  "lastModifiedDate": "2024-04-02T16:49:22.619Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
     },
-    "PresenceID": {
-      "type": "STRING",
-      "value": "adenium"
-    },
     "CloudSaveFolder_MAC": {
       "type": "STRING",
       "value": "{UserLibrary}/Night School Studio/Afterparty/Saves/{EpicID}/"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "adenium"
     },
     "MonitorPresence": {
       "type": "STRING",
@@ -104,6 +104,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }

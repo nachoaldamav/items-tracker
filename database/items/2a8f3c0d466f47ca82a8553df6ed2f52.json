@@ -33,7 +33,7 @@
   "namespace": "nemesia",
   "status": "ACTIVE",
   "creationDate": "2019-03-13T12:11:22.827Z",
-  "lastModifiedDate": "2023-09-04T07:57:42.434Z",
+  "lastModifiedDate": "2024-04-02T16:37:45.022Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -87,7 +87,7 @@
   "developer": "Paradox Interactive",
   "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
   "eulaIds": [
-    "egstore"
+    "(egstore && paradoxinteractive)"
   ],
   "endOfSupport": false,
   "ageGatings": {},
