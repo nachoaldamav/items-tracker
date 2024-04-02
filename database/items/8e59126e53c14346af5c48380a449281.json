@@ -21,9 +21,10 @@
   "namespace": "springbok",
   "status": "ACTIVE",
   "creationDate": "2019-07-15T20:09:59.178Z",
-  "lastModifiedDate": "2019-07-25T22:29:56.828Z",
+  "lastModifiedDate": "2024-04-02T18:29:00.431Z",
+  "customAttributes": {},
   "entitlementName": "8e59126e53c14346af5c48380a449281",
-  "entitlementType": "EXECUTABLE",
+  "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
   "developer": "THQ Nordic GmbH",
@@ -31,5 +32,7 @@
   "eulaIds": [],
   "endOfSupport": false,
   "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
