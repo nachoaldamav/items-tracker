@@ -24,7 +24,7 @@
   "namespace": "daffodil",
   "status": "ACTIVE",
   "creationDate": "2019-06-03T13:07:22.377Z",
-  "lastModifiedDate": "2019-06-20T14:59:01.889Z",
+  "lastModifiedDate": "2024-04-02T20:21:44.330Z",
   "customAttributes": {
     "availableDate": {
       "type": "STRING",
@@ -32,7 +32,7 @@
     }
   },
   "entitlementName": "9145e5d006e34c699ce2db91e4a79b73",
-  "entitlementType": "EXECUTABLE",
+  "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
   "developer": "AOne Games",
@@ -42,6 +42,8 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
   "selfRefundable": false,
+  "applicationId": "",
   "unsearchable": false
 }
