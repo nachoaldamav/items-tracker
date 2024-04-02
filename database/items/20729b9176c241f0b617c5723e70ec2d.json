@@ -36,19 +36,19 @@
   "namespace": "d759128018124dcabb1fbee9bb28e178",
   "status": "ACTIVE",
   "creationDate": "2019-09-03T14:07:35.737Z",
-  "lastModifiedDate": "2021-12-08T02:39:39.092Z",
+  "lastModifiedDate": "2024-04-02T16:31:27.472Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
     },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "d759128018124dcabb1fbee9bb28e178"
-    },
     "CloudSaveFolder_MAC": {
       "type": "STRING",
       "value": "{UserLibrary}/Application Support/Surviving Mars/Save/"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "d759128018124dcabb1fbee9bb28e178"
     },
     "MonitorPresence": {
       "type": "STRING",
@@ -96,9 +96,10 @@
   "developer": "Paradox Interactive",
   "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
   "eulaIds": [
-    "egstore"
+    "(egstore && paradoxinteractive)"
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "fghi4567n0f1jmMbbvGowejuGOFRhBPH",
   "unsearchable": false
 }

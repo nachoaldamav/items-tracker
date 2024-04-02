@@ -36,7 +36,7 @@
   "namespace": "80d3aeb1d7c3434981e0bcbc47700a83",
   "status": "ACTIVE",
   "creationDate": "2020-06-30T21:52:26.836Z",
-  "lastModifiedDate": "2024-02-19T18:12:01.018Z",
+  "lastModifiedDate": "2024-04-02T16:17:22.482Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -85,7 +85,7 @@
   "developer": "Paradox Interactive",
   "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
   "eulaIds": [
-    "egstore"
+    "(egstore && paradoxinteractive)"
   ],
   "installModes": [],
   "endOfSupport": false,

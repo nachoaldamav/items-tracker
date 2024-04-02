@@ -25,7 +25,7 @@
   "namespace": "f9c2aedaff8442b286fbd026948b9f09",
   "status": "ACTIVE",
   "creationDate": "2020-01-09T20:36:20.087Z",
-  "lastModifiedDate": "2020-02-25T15:58:47.108Z",
+  "lastModifiedDate": "2024-04-02T16:14:10.652Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -35,6 +35,7 @@
   "entitlementName": "ba34000112094b33b99d2e0625685795",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Abrakam",
   "developerId": "o-7e471071ca794f1abc81c7430b7e8f",
   "eulaIds": [
@@ -42,5 +43,7 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "EVERYONE",
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
