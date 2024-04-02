@@ -45,7 +45,7 @@
   "namespace": "c77e320376c14aa68121bffb108721c7",
   "status": "ACTIVE",
   "creationDate": "2019-09-05T16:48:31.136Z",
-  "lastModifiedDate": "2019-11-19T17:02:08.960Z",
+  "lastModifiedDate": "2024-04-02T15:36:30.478Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -95,6 +95,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
