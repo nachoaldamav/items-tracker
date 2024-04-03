@@ -45,7 +45,7 @@
   "namespace": "ca93b6d41a4e41af864942d8f0a2a826",
   "status": "ACTIVE",
   "creationDate": "2020-01-13T15:49:35.078Z",
-  "lastModifiedDate": "2024-04-02T14:26:25.183Z",
+  "lastModifiedDate": "2024-04-03T13:30:35.641Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
@@ -89,7 +89,7 @@
     },
     "RegistryPath": {
       "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\3352 "
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\3352"
     },
     "partnerLinkType": {
       "type": "STRING",
@@ -101,7 +101,7 @@
     },
     "GameID": {
       "type": "STRING",
-      "value": "3352 "
+      "value": "3352"
     }
   },
   "entitlementName": "a32aff0cb47f499496bdd2eec8e91695",
