@@ -21,7 +21,7 @@
   "namespace": "min",
   "status": "ACTIVE",
   "creationDate": "2019-12-09T14:02:11.538Z",
-  "lastModifiedDate": "2020-09-17T15:57:22.050Z",
+  "lastModifiedDate": "2024-04-03T19:05:59.505Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -29,7 +29,7 @@
     }
   },
   "entitlementName": "d6c3519c087c4a5e92e7ab3fee2dd4f5",
-  "entitlementType": "EXECUTABLE",
+  "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
   "developer": "Supergiant Games LLC",
@@ -38,5 +38,6 @@
   "endOfSupport": false,
   "esrbGameRatingValue": "TEEN",
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
