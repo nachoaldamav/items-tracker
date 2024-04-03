@@ -42,7 +42,7 @@
   "namespace": "wren",
   "status": "ACTIVE",
   "creationDate": "2018-12-11T11:03:52.684Z",
-  "lastModifiedDate": "2019-09-06T15:45:12.629Z",
+  "lastModifiedDate": "2024-04-03T15:31:05.633Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -79,5 +79,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
