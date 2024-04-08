@@ -14,7 +14,7 @@
   "namespace": "116b93c8b15c4304b7629f0861523322",
   "status": "ACTIVE",
   "creationDate": "2020-10-09T14:00:20.060Z",
-  "lastModifiedDate": "2020-10-20T13:27:39.930Z",
+  "lastModifiedDate": "2024-04-08T22:14:31.191Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -24,6 +24,7 @@
   "entitlementName": "3f265918f19946b188675bfa5cf3b38b",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "THQ Nordic GmbH",
   "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
   "eulaIds": [
@@ -31,6 +32,7 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
