@@ -1,7 +1,7 @@
 {
-  "id": "7f8a6d3e818f4beaa1e27de5dec2bcb5",
-  "title": "DevGeneralAudience",
-  "description": "DevGeneralAudience",
+  "id": "286f66103846493c9edf02c31769b410",
+  "title": "DevAddonAudience",
+  "description": "DevAddonAudience",
   "categories": [
     {
       "path": "audience"
@@ -12,19 +12,14 @@
   ],
   "namespace": "f8bf474b836f4303ae3ac469ebe5f447",
   "status": "ACTIVE",
-  "creationDate": "2022-03-08T13:46:08.925Z",
-  "lastModifiedDate": "2024-04-08T18:31:30.891Z",
-  "customAttributes": {},
-  "entitlementName": "7f8a6d3e818f4beaa1e27de5dec2bcb5",
+  "creationDate": "2024-04-08T18:31:30.917Z",
+  "lastModifiedDate": "2024-04-08T18:31:31.296Z",
+  "entitlementName": "286f66103846493c9edf02c31769b410",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "releaseInfo": [],
   "developer": "Lever Games Inc.",
   "developerId": "o-8tlrcwhe4bgttxajeplhhcyc67ge2v",
-  "eulaIds": [],
   "endOfSupport": false,
-  "ageGatings": {},
-  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
