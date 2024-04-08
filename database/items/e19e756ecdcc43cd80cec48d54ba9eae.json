@@ -1,7 +1,7 @@
 {
-  "id": "26b3a1ba3bf04598a17bd38d56db47a9",
-  "title": "DevAddonAudience",
-  "description": "DevAddonAudience",
+  "id": "e19e756ecdcc43cd80cec48d54ba9eae",
+  "title": "Accolades x20_ConsumableAudience",
+  "description": "Accolades x20_ConsumableAudience",
   "categories": [
     {
       "path": "audience"
@@ -12,13 +12,14 @@
   ],
   "namespace": "6a8dfa6e441e4f2f9048a98776c6077d",
   "status": "ACTIVE",
-  "creationDate": "2022-05-12T22:31:57.618Z",
-  "lastModifiedDate": "2024-04-08T20:24:30.814Z",
-  "entitlementName": "26b3a1ba3bf04598a17bd38d56db47a9",
+  "creationDate": "2024-04-08T20:24:30.861Z",
+  "lastModifiedDate": "2024-04-08T20:24:30.861Z",
+  "entitlementName": "e19e756ecdcc43cd80cec48d54ba9eae",
   "entitlementType": "AUDIENCE",
-  "itemType": "DURABLE",
+  "itemType": "CONSUMABLE",
   "developer": "Ninja Kiwi",
   "developerId": "o-eltt9sz3m387aekxfkra3vr5cmfp9f",
+  "useCount": 1,
   "endOfSupport": false,
   "requiresSecureAccount": false,
   "unsearchable": false
