@@ -14,7 +14,7 @@
   "namespace": "wren",
   "status": "ACTIVE",
   "creationDate": "2019-04-01T21:37:50.565Z",
-  "lastModifiedDate": "2019-09-06T15:45:37.374Z",
+  "lastModifiedDate": "2024-04-10T17:55:44.540Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -22,7 +22,7 @@
     }
   },
   "entitlementName": "4c01dfdcdcd14595a8581217f5f0a255",
-  "entitlementType": "EXECUTABLE",
+  "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
   "developer": "Annapurna Interactive",
@@ -31,5 +31,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

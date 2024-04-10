@@ -21,7 +21,7 @@
   "namespace": "meerkat",
   "status": "ACTIVE",
   "creationDate": "2019-01-07T21:34:01.480Z",
-  "lastModifiedDate": "2019-05-13T14:25:00.893Z",
+  "lastModifiedDate": "2024-04-10T18:05:02.616Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -29,7 +29,7 @@
     }
   },
   "entitlementName": "5296da3b06b342c09bf8ac953734e248",
-  "entitlementType": "EXECUTABLE",
+  "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
   "developer": "Annapurna Interactive",
@@ -39,6 +39,8 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "RATING_PENDING",
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }

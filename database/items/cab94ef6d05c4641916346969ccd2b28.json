@@ -11,7 +11,7 @@
   "namespace": "lemur",
   "status": "ACTIVE",
   "creationDate": "2018-12-06T02:19:08.713Z",
-  "lastModifiedDate": "2020-01-07T16:23:15.771Z",
+  "lastModifiedDate": "2024-04-10T17:59:28.996Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -19,13 +19,15 @@
     }
   },
   "entitlementName": "cab94ef6d05c4641916346969ccd2b28",
-  "entitlementType": "EXECUTABLE",
+  "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
   "developer": "Annapurna Interactive",
   "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
   "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
