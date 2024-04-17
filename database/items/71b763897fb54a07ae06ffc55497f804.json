@@ -5,21 +5,23 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/item/4586d456108e4a03810c5927453ce6da/EGS_Suzerain_TorporGames_S1_2560x1440-f11b6b493939342c23b164bcba4dccf6",
-      "md5": "f11b6b493939342c23b164bcba4dccf6",
+      "url": "https://cdn1.epicgames.com/spt-assets/32e1a205571a4455acde49f11087c716/suzerain-1adkw.jpg",
+      "md5": "843b44967d7056e75677feed5c4f4f4a",
       "width": 2560,
       "height": 1440,
-      "size": 587679,
-      "uploadedDate": "2023-08-29T15:01:37.495Z"
+      "size": 1812404,
+      "uploadedDate": "2024-04-12T09:16:14.285Z",
+      "alt": "Suzerain Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/4586d456108e4a03810c5927453ce6da/EGS_Suzerain_TorporGames_S2_1200x1600-7323b8ba24fb89becb91dc2bc0316411",
-      "md5": "7323b8ba24fb89becb91dc2bc0316411",
+      "url": "https://cdn1.epicgames.com/spt-assets/32e1a205571a4455acde49f11087c716/suzerain-1137c.jpg",
+      "md5": "bedf8fa184d5db985287cff8a9c581a2",
       "width": 1200,
       "height": 1600,
-      "size": 981220,
-      "uploadedDate": "2023-08-29T15:01:40.960Z"
+      "size": 1203759,
+      "uploadedDate": "2024-04-12T09:16:13.417Z",
+      "alt": "Download Suzerain Offer"
     }
   ],
   "categories": [
@@ -35,8 +37,8 @@
   ],
   "namespace": "4586d456108e4a03810c5927453ce6da",
   "status": "ACTIVE",
-  "creationDate": "2021-03-25T14:45:28.640Z",
-  "lastModifiedDate": "2024-03-25T19:03:11.095Z",
+  "creationDate": "2024-04-12T10:26:00.647Z",
+  "lastModifiedDate": "2024-04-17T00:09:18.928Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -72,13 +74,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "f2f10ca11bdc4e83b626c637c8f8beca",
+      "id": "10f4d96db55348d7b1b02d2f900628a8",
       "appId": "58d16c23be5c472995393173062c3679",
       "platform": [
-        "Windows",
-        "Mac"
-      ],
-      "dateAdded": "2021-03-25T15:13:42.135Z"
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Surprise Attack Pty Ltd DBA Fellow Traveller Games",
