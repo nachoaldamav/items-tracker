@@ -33,7 +33,7 @@
   "namespace": "poodle",
   "status": "ACTIVE",
   "creationDate": "2024-03-06T16:19:29.387Z",
-  "lastModifiedDate": "2024-03-06T16:21:30.459Z",
+  "lastModifiedDate": "2024-04-22T14:38:18.125Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -86,7 +86,9 @@
   ],
   "developer": "Epic Games",
   "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
-  "eulaIds": [],
+  "eulaIds": [
+    "twin2"
+  ],
   "endOfSupport": false,
   "ageGatings": {},
   "applicationId": "",
