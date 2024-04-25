@@ -35,8 +35,8 @@
   ],
   "namespace": "41cd36dc3662428193f02f0f947bbe5e",
   "status": "ACTIVE",
-  "creationDate": "2021-03-04T21:20:24.990Z",
-  "lastModifiedDate": "2021-03-26T15:49:42.859Z",
+  "creationDate": "2024-04-24T09:11:50.987Z",
+  "lastModifiedDate": "2024-04-25T15:58:11.556Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -76,12 +76,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "d1d8c3934d01437cabde976f82366292",
+      "id": "64eebf0be87e403f87d91e0f95448052",
       "appId": "874d8bf57d9b4fef9eff995cee94d223",
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2021-03-04T00:00:00.000Z"
+      ]
     }
   ],
   "developer": "No More Robots",
