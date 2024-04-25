@@ -33,15 +33,15 @@
   "namespace": "crab",
   "status": "ACTIVE",
   "creationDate": "2018-10-08T14:47:20.527Z",
-  "lastModifiedDate": "2022-09-20T13:56:25.057Z",
+  "lastModifiedDate": "2024-04-25T21:43:14.259Z",
   "customAttributes": {
-    "PresenceId": {
-      "type": "STRING",
-      "value": "crab"
-    },
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "crab"
     },
     "MonitorPresence": {
       "type": "STRING",
