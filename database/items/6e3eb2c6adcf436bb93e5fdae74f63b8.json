@@ -36,7 +36,7 @@
   "namespace": "52b2abce9b65471dbedf72c90cf69b54",
   "status": "ACTIVE",
   "creationDate": "2021-04-16T21:39:52.216Z",
-  "lastModifiedDate": "2021-08-10T15:18:57.595Z",
+  "lastModifiedDate": "2024-04-29T19:51:13.100Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -80,15 +80,13 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "426c018b041244fca291871846327289",
+      "id": "dcd35bf650484067a23735220821ab4c",
       "appId": "9fc736067e2d4d9cad84881c82aa3068",
-      "compatibleApps": [],
       "platform": [
-        "Windows",
         "Mac",
-        "Win32"
-      ],
-      "dateAdded": "2021-08-09T19:16:47.999Z"
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Top Hat Studios, Inc.",
