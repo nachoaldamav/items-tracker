@@ -36,20 +36,8 @@
   "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
   "status": "ACTIVE",
   "creationDate": "2019-08-29T14:35:57.216Z",
-  "lastModifiedDate": "2024-03-21T01:31:17.828Z",
+  "lastModifiedDate": "2024-04-30T20:34:56.886Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "2dbd2f64abdc4bbab077424d5c85e01b"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
-    },
     "UseAccessControl": {
       "type": "STRING",
       "value": "true"
@@ -62,10 +50,6 @@
       "type": "STRING",
       "value": "true"
     },
-    "partnerLinkType": {
-      "type": "STRING",
-      "value": "ubisoft"
-    },
     "partnerLinkId": {
       "type": "STRING",
       "value": "a7b352f6ce61426399c0235600fadd09"
@@ -73,6 +57,38 @@
     "FolderName": {
       "type": "STRING",
       "value": "GhostReconBreakpointBeta"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "2dbd2f64abdc4bbab077424d5c85e01b"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\12737"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "12737"
     }
   },
   "entitlementName": "dc688559c05544aa9c18ea00edc5e156",

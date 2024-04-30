@@ -14,11 +14,15 @@
   "namespace": "camellia",
   "status": "ACTIVE",
   "creationDate": "2019-02-08T21:55:51.850Z",
-  "lastModifiedDate": "2024-03-21T01:31:26.474Z",
+  "lastModifiedDate": "2024-04-30T20:35:02.918Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\3539"
     },
     "partnerLinkId": {
       "type": "STRING",
@@ -31,6 +35,18 @@
     "FolderName": {
       "type": "STRING",
       "value": "CamelliaStaging"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "3539"
     }
   },
   "entitlementName": "5e0178e5dd7d41c7bb9529350eea4b77",

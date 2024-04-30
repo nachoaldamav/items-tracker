@@ -36,21 +36,9 @@
   "namespace": "764eb429792649e4a606413cd649de2c",
   "status": "ACTIVE",
   "creationDate": "2019-10-28T21:43:21.118Z",
-  "lastModifiedDate": "2024-03-21T01:30:55.317Z",
+  "lastModifiedDate": "2024-04-30T20:34:36.305Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "764eb429792649e4a606413cd649de2c"
-    },
     "NeverUpdate": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "MonitorPresence": {
       "type": "STRING",
       "value": "true"
     },
@@ -66,10 +54,6 @@
       "type": "STRING",
       "value": "true"
     },
-    "partnerLinkType": {
-      "type": "STRING",
-      "value": "ubisoft"
-    },
     "partnerLinkId": {
       "type": "STRING",
       "value": "1636f05db30b48fd9c2d96a38cdd25d1"
@@ -77,6 +61,38 @@
     "FolderName": {
       "type": "STRING",
       "value": "SouthParkTFBWhole"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "764eb429792649e4a606413cd649de2c"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\3088"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "3088"
     }
   },
   "entitlementName": "757dcc774bbd4af1b71c450dd9e9159f",

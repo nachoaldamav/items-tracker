@@ -37,7 +37,7 @@
   "namespace": "c9be94273fe244c08032ca493ad87434",
   "status": "ACTIVE",
   "creationDate": "2019-11-06T21:37:52.082Z",
-  "lastModifiedDate": "2024-03-21T01:30:52.422Z",
+  "lastModifiedDate": "2024-04-30T20:34:32.825Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -46,6 +46,10 @@
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\1875"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -70,6 +74,18 @@
     "FolderName": {
       "type": "STRING",
       "value": "AssassinsCreedSyndicate"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "1875"
     }
   },
   "entitlementName": "1a34c013d44e4d00b638dae75c8fed07",

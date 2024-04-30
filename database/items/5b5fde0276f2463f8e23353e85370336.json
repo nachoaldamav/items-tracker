@@ -16,7 +16,7 @@
   "namespace": "0a84818055e740a7be21a2e5b6162703",
   "status": "ACTIVE",
   "creationDate": "2019-06-03T15:04:21.463Z",
-  "lastModifiedDate": "2024-03-21T01:31:15.017Z",
+  "lastModifiedDate": "2024-04-30T20:34:54.313Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -25,6 +25,10 @@
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\3353"
     },
     "partnerLinkId": {
       "type": "STRING",
@@ -37,6 +41,18 @@
     "FolderName": {
       "type": "STRING",
       "value": "HawkStaging"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "3353"
     }
   },
   "entitlementName": "5b5fde0276f2463f8e23353e85370336",
