@@ -16,11 +16,15 @@
   "namespace": "ca93b6d41a4e41af864942d8f0a2a826",
   "status": "ACTIVE",
   "creationDate": "2020-01-13T15:49:35.127Z",
-  "lastModifiedDate": "2024-03-21T01:30:42.265Z",
+  "lastModifiedDate": "2024-04-30T19:09:46.345Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\3352"
     },
     "partnerLinkId": {
       "type": "STRING",
@@ -33,6 +37,18 @@
     "FolderName": {
       "type": "STRING",
       "value": "HussarStaging"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "3352"
     }
   },
   "entitlementName": "129639e8a5c342d5bb596225fa249bf9",
@@ -53,5 +69,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
