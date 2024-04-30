@@ -16,11 +16,15 @@
   "namespace": "82225e5cb4714006b335a50d840208c6",
   "status": "ACTIVE",
   "creationDate": "2020-04-09T19:27:45.781Z",
-  "lastModifiedDate": "2024-03-21T01:30:15.376Z",
+  "lastModifiedDate": "2024-04-30T20:33:58.905Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\5613"
     },
     "partnerLinkId": {
       "type": "STRING",
@@ -33,6 +37,18 @@
     "FolderName": {
       "type": "STRING",
       "value": "TonkineseStaging"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "5613"
     }
   },
   "entitlementName": "e15ec1c3b368474a861fa8c79d52164e",

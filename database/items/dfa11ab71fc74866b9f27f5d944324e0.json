@@ -36,21 +36,9 @@
   "namespace": "fc8d1547232045f6a23257cfd04ef3e8",
   "status": "ACTIVE",
   "creationDate": "2019-10-23T17:43:37.434Z",
-  "lastModifiedDate": "2024-04-16T14:22:31.273Z",
+  "lastModifiedDate": "2024-04-30T20:34:38.931Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
     "NeverUpdate": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "fc8d1547232045f6a23257cfd04ef3e8"
-    },
-    "MonitorPresence": {
       "type": "STRING",
       "value": "true"
     },
@@ -70,13 +58,41 @@
       "type": "STRING",
       "value": "f667bb94543e43eb87ca008f497df782"
     },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RaymanLegends"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "fc8d1547232045f6a23257cfd04ef3e8"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\410"
+    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
-    "FolderName": {
+    "RegistryKey": {
       "type": "STRING",
-      "value": "RaymanLegends"
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "410"
     }
   },
   "entitlementName": "dfa11ab71fc74866b9f27f5d944324e0",

@@ -36,23 +36,11 @@
   "namespace": "8767c1c91fc847cbafbfa232c695276f",
   "status": "ACTIVE",
   "creationDate": "2020-03-24T00:47:42.255Z",
-  "lastModifiedDate": "2024-04-19T14:53:09.757Z",
+  "lastModifiedDate": "2024-04-30T20:34:08.218Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "8767c1c91fc847cbafbfa232c695276f"
-    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -70,13 +58,41 @@
       "type": "STRING",
       "value": "24c8072127054912889a3fcef50d76db"
     },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ValiantHearts"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "8767c1c91fc847cbafbfa232c695276f"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\659"
+    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
-    "FolderName": {
+    "RegistryKey": {
       "type": "STRING",
-      "value": "ValiantHearts"
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "659"
     }
   },
   "entitlementName": "fda8398cb0574ee580b30efc7ecd22e2",

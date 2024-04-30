@@ -45,7 +45,7 @@
   "namespace": "fc8d1547232045f6a23257cfd04ef3e8",
   "status": "ACTIVE",
   "creationDate": "2019-10-23T17:43:37.472Z",
-  "lastModifiedDate": "2024-03-21T01:30:57.085Z",
+  "lastModifiedDate": "2024-04-30T20:34:38.123Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -58,6 +58,10 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\410"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -74,6 +78,18 @@
     "FolderName": {
       "type": "STRING",
       "value": "AnchovyStaging"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "410"
     }
   },
   "entitlementName": "ac90abefdd8847a187835aeaf5650ddf",

@@ -36,21 +36,9 @@
   "namespace": "599d248ca46b45a8b40a3b4e484712cb",
   "status": "ACTIVE",
   "creationDate": "2019-10-01T23:40:40.565Z",
-  "lastModifiedDate": "2024-03-21T01:30:59.932Z",
+  "lastModifiedDate": "2024-04-30T20:34:40.642Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "599d248ca46b45a8b40a3b4e484712cb"
-    },
     "NeverUpdate": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "MonitorPresence": {
       "type": "STRING",
       "value": "true"
     },
@@ -66,10 +54,6 @@
       "type": "STRING",
       "value": "true"
     },
-    "partnerLinkType": {
-      "type": "STRING",
-      "value": "ubisoft"
-    },
     "partnerLinkId": {
       "type": "STRING",
       "value": "da62a74ae14140408dd9ce46b2c55d5e"
@@ -77,6 +61,38 @@
     "FolderName": {
       "type": "STRING",
       "value": "TheCrew2"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "599d248ca46b45a8b40a3b4e484712cb"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\2855"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "2855"
     }
   },
   "entitlementName": "bf2f3f45f8e64e3fa130529d06356109",

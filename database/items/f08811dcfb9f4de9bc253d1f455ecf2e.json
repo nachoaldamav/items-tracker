@@ -36,23 +36,11 @@
   "namespace": "7ab8af3a04424eeaa509d37d7b5222b7",
   "status": "ACTIVE",
   "creationDate": "2020-08-04T15:14:55.639Z",
-  "lastModifiedDate": "2024-03-21T01:29:52.854Z",
+  "lastModifiedDate": "2024-04-30T20:33:37.920Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "7ab8af3a04424eeaa509d37d7b5222b7"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -66,13 +54,41 @@
       "type": "STRING",
       "value": "7299ce87cd624412865069a0e50405e5"
     },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BeyondGoodAndEvil"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "7ab8af3a04424eeaa509d37d7b5222b7"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\232"
+    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
-    "FolderName": {
+    "RegistryKey": {
       "type": "STRING",
-      "value": "BeyondGoodAndEvil"
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "232"
     }
   },
   "entitlementName": "f08811dcfb9f4de9bc253d1f455ecf2e",

@@ -36,12 +36,8 @@
   "namespace": "db9ef498b3fa4b26afb501ea352e3c46",
   "status": "ACTIVE",
   "creationDate": "2020-06-11T01:35:55.562Z",
-  "lastModifiedDate": "2024-03-21T01:30:05.016Z",
+  "lastModifiedDate": "2024-04-30T20:33:48.961Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
@@ -53,10 +49,6 @@
     "RequirementsJson": {
       "type": "STRING",
       "value": "[]"
-    },
-    "ProcessNames": {
-      "type": "STRING",
-      "value": "Anno1701.exe"
     },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
@@ -70,13 +62,37 @@
       "type": "STRING",
       "value": "8410f66e799c46e99c534e444b32ad4b"
     },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Anno1701"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\16238"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "Anno1701.exe"
+    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
-    "FolderName": {
+    "RegistryKey": {
       "type": "STRING",
-      "value": "Anno1701"
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "16238"
     }
   },
   "entitlementName": "1e9e8cf12d00437d9e74fd3a7fab2583",

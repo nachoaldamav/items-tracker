@@ -36,21 +36,9 @@
   "namespace": "8f8bddb3ff464536984ce8e945cb5f8c",
   "status": "ACTIVE",
   "creationDate": "2019-10-28T21:42:56.956Z",
-  "lastModifiedDate": "2024-03-21T01:30:54.357Z",
+  "lastModifiedDate": "2024-04-30T20:34:35.449Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "8f8bddb3ff464536984ce8e945cb5f8c"
-    },
     "NeverUpdate": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "MonitorPresence": {
       "type": "STRING",
       "value": "true"
     },
@@ -66,10 +54,6 @@
       "type": "STRING",
       "value": "true"
     },
-    "partnerLinkType": {
-      "type": "STRING",
-      "value": "ubisoft"
-    },
     "partnerLinkId": {
       "type": "STRING",
       "value": "f69dca5a75364b06a48179e3982249c3"
@@ -77,6 +61,38 @@
     "FolderName": {
       "type": "STRING",
       "value": "SouthParkTheStickOfTruth"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "8f8bddb3ff464536984ce8e945cb5f8c"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\3584"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "3584"
     }
   },
   "entitlementName": "3232807b6dc746bcbc38b260e8afb01f",

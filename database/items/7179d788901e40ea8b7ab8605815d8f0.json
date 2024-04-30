@@ -42,27 +42,15 @@
   "namespace": "impala",
   "status": "ACTIVE",
   "creationDate": "2019-01-24T19:46:36.182Z",
-  "lastModifiedDate": "2024-03-21T01:31:36.921Z",
+  "lastModifiedDate": "2024-04-30T20:35:12.362Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "false"
-    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
     },
-    "PresenceID": {
-      "type": "STRING",
-      "value": "impala"
-    },
     "RequirementsJson": {
       "type": "STRING",
       "value": "{}"
-    },
-    "ProcessNames": {
-      "type": "STRING",
-      "value": "TheDivision2.exe,thedivision2launcher.exe,The Division 2/EACLaunch.exe"
     },
     "MainWindowProcessName": {
       "type": "STRING",
@@ -72,13 +60,41 @@
       "type": "STRING",
       "value": "666f319539c748fb860a419233a9921e"
     },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheDivision2"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "impala"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\4932"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "TheDivision2.exe,thedivision2launcher.exe,The Division 2/EACLaunch.exe"
+    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
-    "FolderName": {
+    "RegistryKey": {
       "type": "STRING",
-      "value": "TheDivision2"
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "4932"
     }
   },
   "entitlementName": "7179d788901e40ea8b7ab8605815d8f0",

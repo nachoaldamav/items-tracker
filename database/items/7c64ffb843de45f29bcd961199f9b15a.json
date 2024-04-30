@@ -16,11 +16,15 @@
   "namespace": "400347196e674de89c23cc2a7f2121db",
   "status": "ACTIVE",
   "creationDate": "2020-04-28T17:48:55.728Z",
-  "lastModifiedDate": "2024-03-21T01:30:12.440Z",
+  "lastModifiedDate": "2024-04-30T20:33:56.293Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\13504"
     },
     "partnerLinkId": {
       "type": "STRING",
@@ -33,6 +37,18 @@
     "FolderName": {
       "type": "STRING",
       "value": "KingdomStaging"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "13504"
     }
   },
   "entitlementName": "7c64ffb843de45f29bcd961199f9b15a",

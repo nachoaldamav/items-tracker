@@ -17,11 +17,15 @@
   "namespace": "8f8bddb3ff464536984ce8e945cb5f8c",
   "status": "ACTIVE",
   "creationDate": "2019-10-28T21:42:56.992Z",
-  "lastModifiedDate": "2024-03-21T01:30:53.404Z",
+  "lastModifiedDate": "2024-04-30T20:34:34.589Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\3584"
     },
     "partnerLinkId": {
       "type": "STRING",
@@ -34,6 +38,18 @@
     "FolderName": {
       "type": "STRING",
       "value": "AlligatorStaging"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "3584"
     }
   },
   "entitlementName": "d2af38b96c77483c99f091189a6f5e1e",

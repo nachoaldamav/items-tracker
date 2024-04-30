@@ -36,21 +36,9 @@
   "namespace": "82225e5cb4714006b335a50d840208c6",
   "status": "ACTIVE",
   "creationDate": "2020-04-09T19:27:45.736Z",
-  "lastModifiedDate": "2024-03-25T18:38:31.308Z",
+  "lastModifiedDate": "2024-04-30T20:33:57.994Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
     "NeverUpdate": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "82225e5cb4714006b335a50d840208c6"
-    },
-    "MonitorPresence": {
       "type": "STRING",
       "value": "true"
     },
@@ -70,13 +58,41 @@
       "type": "STRING",
       "value": "[]"
     },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MMChessRoyale"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "82225e5cb4714006b335a50d840208c6"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\5613"
+    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
-    "FolderName": {
+    "RegistryKey": {
       "type": "STRING",
-      "value": "MMChessRoyale"
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "5613"
     }
   },
   "entitlementName": "84bfb0cd95df49b5bbc291018394bc38",

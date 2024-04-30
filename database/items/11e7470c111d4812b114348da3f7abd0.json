@@ -16,11 +16,15 @@
   "namespace": "34f7e1e275924bb6a90074920f9c1696",
   "status": "ACTIVE",
   "creationDate": "2020-01-24T17:50:05.229Z",
-  "lastModifiedDate": "2020-03-25T14:53:53.722Z",
+  "lastModifiedDate": "2024-04-30T20:34:18.440Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\895"
     },
     "partnerLinkId": {
       "type": "STRING",
@@ -33,6 +37,18 @@
     "FolderName": {
       "type": "STRING",
       "value": "WolffishStaging"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "895"
     }
   },
   "entitlementName": "11e7470c111d4812b114348da3f7abd0",

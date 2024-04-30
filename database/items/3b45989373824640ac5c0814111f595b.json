@@ -16,11 +16,15 @@
   "namespace": "cf87285950ba492bbdc370b9d265ea36",
   "status": "ACTIVE",
   "creationDate": "2020-01-24T17:49:46.887Z",
-  "lastModifiedDate": "2024-03-21T01:30:35.626Z",
+  "lastModifiedDate": "2024-04-30T20:34:20.777Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\420"
     },
     "partnerLinkType": {
       "type": "STRING",
@@ -33,6 +37,18 @@
     "FolderName": {
       "type": "STRING",
       "value": "TautogStaging"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "420"
     }
   },
   "entitlementName": "3b45989373824640ac5c0814111f595b",

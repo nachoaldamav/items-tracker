@@ -16,11 +16,15 @@
   "namespace": "71f938f91f0a4ccfaba0be708a930e8a",
   "status": "ACTIVE",
   "creationDate": "2020-06-17T19:33:15.259Z",
-  "lastModifiedDate": "2024-03-21T01:30:03.149Z",
+  "lastModifiedDate": "2024-04-30T20:33:48.121Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\84"
     },
     "partnerLinkId": {
       "type": "STRING",
@@ -33,6 +37,18 @@
     "FolderName": {
       "type": "STRING",
       "value": "StockholmStaging"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "84"
     }
   },
   "entitlementName": "3d70a556fdbe430997a9d43474eb5b67",

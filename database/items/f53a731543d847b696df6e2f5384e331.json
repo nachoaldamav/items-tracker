@@ -16,11 +16,15 @@
   "namespace": "7061cd389bdc4c068910da67cd8e154c",
   "status": "ACTIVE",
   "creationDate": "2020-01-13T15:50:11.870Z",
-  "lastModifiedDate": "2024-03-21T01:30:40.289Z",
+  "lastModifiedDate": "2024-04-30T20:34:25.037Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\3774"
     },
     "partnerLinkType": {
       "type": "STRING",
@@ -33,6 +37,18 @@
     "FolderName": {
       "type": "STRING",
       "value": "HamletStaging"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "3774"
     }
   },
   "entitlementName": "f53a731543d847b696df6e2f5384e331",

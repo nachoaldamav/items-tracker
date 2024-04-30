@@ -42,21 +42,9 @@
   "namespace": "hellebore",
   "status": "ACTIVE",
   "creationDate": "2019-02-08T20:39:31.035Z",
-  "lastModifiedDate": "2024-03-21T01:31:41.757Z",
+  "lastModifiedDate": "2024-04-30T20:35:16.687Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceID": {
-      "type": "STRING",
-      "value": "hellebore"
-    },
     "NeverUpdate": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "MonitorPresence": {
       "type": "STRING",
       "value": "true"
     },
@@ -76,13 +64,41 @@
       "type": "STRING",
       "value": "3cd99719667349dc93ba0a4c26ff083c"
     },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FarCry3"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "hellebore"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\46"
+    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
-    "FolderName": {
+    "RegistryKey": {
       "type": "STRING",
-      "value": "FarCry3"
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "46"
     }
   },
   "entitlementName": "676d767b73034c26b04e3ef685c6c288",

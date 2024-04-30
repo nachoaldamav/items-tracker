@@ -17,11 +17,15 @@
   "namespace": "599d248ca46b45a8b40a3b4e484712cb",
   "status": "ACTIVE",
   "creationDate": "2019-10-01T23:40:40.802Z",
-  "lastModifiedDate": "2024-03-21T01:30:58.946Z",
+  "lastModifiedDate": "2024-04-30T20:34:39.776Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\2855"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -42,6 +46,18 @@
     "FolderName": {
       "type": "STRING",
       "value": "HermitStaging"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "2855"
     }
   },
   "entitlementName": "902a7d687e8c4814a9654a675b2ccc3a",

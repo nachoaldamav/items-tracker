@@ -42,23 +42,11 @@
   "namespace": "cumin",
   "status": "ACTIVE",
   "creationDate": "2019-04-02T20:47:45.034Z",
-  "lastModifiedDate": "2024-03-21T01:31:21.598Z",
+  "lastModifiedDate": "2024-04-30T20:34:59.393Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "cumin"
-    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -72,10 +60,6 @@
       "type": "STRING",
       "value": "true"
     },
-    "partnerLinkType": {
-      "type": "STRING",
-      "value": "ubisoft"
-    },
     "partnerLinkId": {
       "type": "STRING",
       "value": "65b346a4093e4c16a6538612a1aabcf2"
@@ -83,6 +67,38 @@
     "FolderName": {
       "type": "STRING",
       "value": "FarCryNewDawn"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "cumin"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\5210"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "5210"
     }
   },
   "entitlementName": "817b59a71fea4f39a48c471d04146914",

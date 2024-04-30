@@ -14,11 +14,15 @@
   "namespace": "impala",
   "status": "ACTIVE",
   "creationDate": "2019-02-18T18:43:26.888Z",
-  "lastModifiedDate": "2024-03-21T01:31:38.787Z",
+  "lastModifiedDate": "2024-04-30T20:35:14.050Z",
   "customAttributes": {
     "isUplay": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\5159"
     },
     "partnerLinkType": {
       "type": "STRING",
@@ -27,6 +31,18 @@
     "partnerLinkId": {
       "type": "STRING",
       "value": "666f319539c748fb860a419233a9921e"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "5159"
     }
   },
   "entitlementName": "eec78a3c56a94619ac4937b1702173bf",

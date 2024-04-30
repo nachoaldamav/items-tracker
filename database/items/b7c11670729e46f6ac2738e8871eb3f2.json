@@ -45,23 +45,11 @@
   "namespace": "cf87285950ba492bbdc370b9d265ea36",
   "status": "ACTIVE",
   "creationDate": "2020-01-24T17:49:46.842Z",
-  "lastModifiedDate": "2020-02-18T15:33:18.330Z",
+  "lastModifiedDate": "2024-04-30T20:34:19.924Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "cf87285950ba492bbdc370b9d265ea36"
-    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -79,13 +67,41 @@
       "type": "STRING",
       "value": "8373c49812094a339025957ed3688a4c"
     },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FarCry4"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "cf87285950ba492bbdc370b9d265ea36"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\420"
+    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
-    "FolderName": {
+    "RegistryKey": {
       "type": "STRING",
-      "value": "FarCry4"
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "420"
     }
   },
   "entitlementName": "b7c11670729e46f6ac2738e8871eb3f2",

@@ -36,23 +36,11 @@
   "namespace": "34f7e1e275924bb6a90074920f9c1696",
   "status": "ACTIVE",
   "creationDate": "2020-01-24T17:50:05.166Z",
-  "lastModifiedDate": "2022-11-18T16:46:47.054Z",
+  "lastModifiedDate": "2024-04-30T20:34:17.535Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "34f7e1e275924bb6a90074920f9c1696"
-    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -70,13 +58,41 @@
       "type": "STRING",
       "value": "1736f0a0bfb14cd2a5432aa90c1cccbd"
     },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AssassinsCreedRogue"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "34f7e1e275924bb6a90074920f9c1696"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\895"
+    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
-    "FolderName": {
+    "RegistryKey": {
       "type": "STRING",
-      "value": "AssassinsCreedRogue"
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "895"
     }
   },
   "entitlementName": "33f1aac924ea4da5a952d2414552417f",

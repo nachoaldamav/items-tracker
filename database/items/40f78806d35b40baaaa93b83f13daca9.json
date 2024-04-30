@@ -33,19 +33,11 @@
   "namespace": "clary",
   "status": "ACTIVE",
   "creationDate": "2019-02-08T20:37:47.765Z",
-  "lastModifiedDate": "2024-03-21T01:31:43.706Z",
+  "lastModifiedDate": "2024-04-30T20:35:18.368Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
-    },
-    "com.epicgames.app.developerName": {
-      "type": "STRING",
-      "value": "[]"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -59,10 +51,6 @@
       "type": "STRING",
       "value": "true"
     },
-    "partnerLinkType": {
-      "type": "STRING",
-      "value": "ubisoft"
-    },
     "partnerLinkId": {
       "type": "STRING",
       "value": "50db96ebcaea4fbbac705da4f6d8e8dd"
@@ -71,9 +59,37 @@
       "type": "STRING",
       "value": "AssassinsCreedOdyssey"
     },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\5059"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "5059"
     }
   },
   "entitlementName": "40f78806d35b40baaaa93b83f13daca9",

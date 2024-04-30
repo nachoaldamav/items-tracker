@@ -33,21 +33,9 @@
   "namespace": "argyle",
   "status": "ACTIVE",
   "creationDate": "2019-09-03T22:12:32.727Z",
-  "lastModifiedDate": "2024-03-21T01:31:29.120Z",
+  "lastModifiedDate": "2024-04-30T20:35:06.290Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "argyle"
-    },
     "NeverUpdate": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "MonitorPresence": {
       "type": "STRING",
       "value": "true"
     },
@@ -59,10 +47,6 @@
       "type": "STRING",
       "value": "[]"
     },
-    "ProcessNames": {
-      "type": "STRING",
-      "value": "TrialsRising.exe,UbisoftGameLauncher.exe"
-    },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
@@ -71,10 +55,6 @@
       "type": "STRING",
       "value": "TrialsRising.exe"
     },
-    "partnerLinkType": {
-      "type": "STRING",
-      "value": "ubisoft"
-    },
     "partnerLinkId": {
       "type": "STRING",
       "value": "b4cef429bc1547e096be833b34e88641"
@@ -82,6 +62,42 @@
     "FolderName": {
       "type": "STRING",
       "value": "TrialsRisingDemo"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "argyle"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\5454"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "TrialsRising.exe,UbisoftGameLauncher.exe"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "5454"
     }
   },
   "entitlementName": "095dc54be53648aab01acd4d45de33e4",

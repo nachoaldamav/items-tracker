@@ -16,11 +16,15 @@
   "namespace": "9afcf28baab84109ad3bc8038d07e7c1",
   "status": "ACTIVE",
   "creationDate": "2020-08-13T17:27:29.473Z",
-  "lastModifiedDate": "2024-03-21T01:29:46.357Z",
+  "lastModifiedDate": "2024-04-30T20:33:31.919Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\297"
     },
     "partnerLinkType": {
       "type": "STRING",
@@ -33,6 +37,18 @@
     "FolderName": {
       "type": "STRING",
       "value": "SpinachStaging"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "297"
     }
   },
   "entitlementName": "8e497691c26e44a584de32573ff28dc5",

@@ -14,11 +14,15 @@
   "namespace": "impala",
   "status": "ACTIVE",
   "creationDate": "2019-01-24T19:47:30.494Z",
-  "lastModifiedDate": "2024-03-21T01:31:37.914Z",
+  "lastModifiedDate": "2024-04-30T20:35:13.189Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\4932"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -39,6 +43,18 @@
     "FolderName": {
       "type": "STRING",
       "value": "ImpalaStaging"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "4932"
     }
   },
   "entitlementName": "78947916a8224f3981364d4030566cb3",

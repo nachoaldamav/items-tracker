@@ -16,11 +16,15 @@
   "namespace": "8bd4f3286d414820bc7cbcbb849b1f72",
   "status": "ACTIVE",
   "creationDate": "2019-08-24T04:34:27.736Z",
-  "lastModifiedDate": "2024-03-21T01:31:06.438Z",
+  "lastModifiedDate": "2024-04-30T20:34:46.603Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\2070"
     },
     "partnerLinkType": {
       "type": "STRING",
@@ -33,6 +37,18 @@
     "FolderName": {
       "type": "STRING",
       "value": "PloverStaging"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "2070"
     }
   },
   "entitlementName": "46c3c9686a194cb4bcf7da06f8f2317d",

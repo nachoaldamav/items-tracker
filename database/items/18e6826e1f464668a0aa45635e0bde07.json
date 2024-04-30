@@ -33,7 +33,7 @@
   "namespace": "carnation",
   "status": "ACTIVE",
   "creationDate": "2019-02-11T18:08:53.061Z",
-  "lastModifiedDate": "2024-04-09T15:00:25.447Z",
+  "lastModifiedDate": "2024-04-30T20:35:01.214Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
@@ -59,6 +59,10 @@
       "type": "STRING",
       "value": "RainbowSixSiege"
     },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
@@ -70,6 +74,10 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\635"
     },
     "extraLaunchOption_001_Args": {
       "type": "STRING",
@@ -83,9 +91,17 @@
       "type": "STRING",
       "value": "ubisoft"
     },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "635"
     }
   },
   "entitlementName": "18e6826e1f464668a0aa45635e0bde07",

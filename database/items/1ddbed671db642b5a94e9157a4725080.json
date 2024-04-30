@@ -36,23 +36,11 @@
   "namespace": "84f45b7676af47d9adecd3b636466f89",
   "status": "ACTIVE",
   "creationDate": "2019-08-10T20:01:17.537Z",
-  "lastModifiedDate": "2024-03-21T01:31:08.305Z",
+  "lastModifiedDate": "2024-04-30T20:34:48.333Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "84f45b7676af47d9adecd3b636466f89"
-    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -61,10 +49,6 @@
     "RequirementsJson": {
       "type": "STRING",
       "value": "[]"
-    },
-    "isPrepurchase": {
-      "type": "STRING",
-      "value": "true"
     },
     "availableDate": {
       "type": "STRING",
@@ -78,13 +62,45 @@
       "type": "STRING",
       "value": "e5868bc7114249a79d9c9e86cc3ef921"
     },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheSettlersNewAllies"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "84f45b7676af47d9adecd3b636466f89"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\3037"
+    },
+    "isPrepurchase": {
+      "type": "STRING",
+      "value": "true"
+    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
-    "FolderName": {
+    "RegistryKey": {
       "type": "STRING",
-      "value": "TheSettlersNewAllies"
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "3037"
     }
   },
   "entitlementName": "1ddbed671db642b5a94e9157a4725080",

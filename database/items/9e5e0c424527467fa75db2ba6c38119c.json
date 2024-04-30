@@ -33,21 +33,9 @@
   "namespace": "larkspur",
   "status": "ACTIVE",
   "creationDate": "2019-02-10T17:11:11.993Z",
-  "lastModifiedDate": "2024-03-21T01:31:40.700Z",
+  "lastModifiedDate": "2024-04-30T20:35:15.804Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceID": {
-      "type": "STRING",
-      "value": "larkspur"
-    },
     "NeverUpdate": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "MonitorPresence": {
       "type": "STRING",
       "value": "true"
     },
@@ -55,17 +43,9 @@
       "type": "STRING",
       "value": "{}"
     },
-    "ProcessNames": {
-      "type": "STRING",
-      "value": "Far Cry Primal/bin/FCSplash.exe,Far Cry Primal/bin/FCPrimal.exe"
-    },
     "MainWindowProcessName": {
       "type": "STRING",
       "value": "FCPrimal.exe"
-    },
-    "partnerLinkType": {
-      "type": "STRING",
-      "value": "ubisoft"
     },
     "partnerLinkId": {
       "type": "STRING",
@@ -74,6 +54,42 @@
     "FolderName": {
       "type": "STRING",
       "value": "FarCryPrimal"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "larkspur"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\2010"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "Far Cry Primal/bin/FCSplash.exe,Far Cry Primal/bin/FCPrimal.exe"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "2010"
     }
   },
   "entitlementName": "9e5e0c424527467fa75db2ba6c38119c",

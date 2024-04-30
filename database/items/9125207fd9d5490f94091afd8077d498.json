@@ -36,23 +36,11 @@
   "namespace": "83d6990f16444655866b04be562bf589",
   "status": "ACTIVE",
   "creationDate": "2020-08-31T18:21:21.281Z",
-  "lastModifiedDate": "2024-04-12T14:51:54.251Z",
+  "lastModifiedDate": "2024-04-30T20:33:24.856Z",
   "customAttributes": {
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "83d6990f16444655866b04be562bf589"
-    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -74,13 +62,41 @@
       "type": "STRING",
       "value": "6db11ad640a0421680cbf18b0993ebce"
     },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RidersRepublic"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "83d6990f16444655866b04be562bf589"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\5487"
+    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
     },
-    "FolderName": {
+    "RegistryKey": {
       "type": "STRING",
-      "value": "RidersRepublic"
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "5487"
     }
   },
   "entitlementName": "9125207fd9d5490f94091afd8077d498",

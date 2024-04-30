@@ -16,11 +16,15 @@
   "namespace": "a443faa3d6304a7dacd7456e0f6b0fa6",
   "status": "ACTIVE",
   "creationDate": "2020-08-31T18:20:59.309Z",
-  "lastModifiedDate": "2024-03-21T01:29:40.759Z",
+  "lastModifiedDate": "2024-04-30T20:33:26.496Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\5705"
     },
     "partnerLinkId": {
       "type": "STRING",
@@ -33,6 +37,18 @@
     "FolderName": {
       "type": "STRING",
       "value": "UniversityStaging"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "5705"
     }
   },
   "entitlementName": "e1e67bb7bdce4e9fad4179131216adf7",

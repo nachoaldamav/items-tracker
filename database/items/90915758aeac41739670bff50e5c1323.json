@@ -42,7 +42,7 @@
   "namespace": "anise",
   "status": "ACTIVE",
   "creationDate": "2019-04-02T19:23:29.881Z",
-  "lastModifiedDate": "2024-03-21T01:31:33.153Z",
+  "lastModifiedDate": "2024-04-30T20:35:08.898Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
@@ -72,6 +72,10 @@
       "type": "STRING",
       "value": "AssassinsCreed3"
     },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
@@ -84,6 +88,10 @@
       "type": "STRING",
       "value": "true"
     },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\5183"
+    },
     "extraLaunchOption_001_Args": {
       "type": "STRING",
       "value": "-ExeId 1"
@@ -92,9 +100,17 @@
       "type": "STRING",
       "value": "ubisoft"
     },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "5183"
     }
   },
   "entitlementName": "90915758aeac41739670bff50e5c1323",

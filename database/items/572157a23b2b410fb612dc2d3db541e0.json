@@ -16,11 +16,15 @@
   "namespace": "36b8fb441b2542f89250fc92ca761077",
   "status": "ACTIVE",
   "creationDate": "2020-08-11T20:16:51.579Z",
-  "lastModifiedDate": "2024-03-21T01:29:49.084Z",
+  "lastModifiedDate": "2024-04-30T20:33:35.308Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\95"
     },
     "partnerLinkType": {
       "type": "STRING",
@@ -33,6 +37,18 @@
     "FolderName": {
       "type": "STRING",
       "value": "CoconutStaging"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "95"
     }
   },
   "entitlementName": "572157a23b2b410fb612dc2d3db541e0",

@@ -16,7 +16,7 @@
   "namespace": "84f45b7676af47d9adecd3b636466f89",
   "status": "ACTIVE",
   "creationDate": "2019-08-10T20:01:17.594Z",
-  "lastModifiedDate": "2024-03-21T01:31:10.204Z",
+  "lastModifiedDate": "2024-04-30T20:34:50.028Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -25,6 +25,10 @@
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\3037"
     },
     "partnerLinkId": {
       "type": "STRING",
@@ -37,6 +41,18 @@
     "FolderName": {
       "type": "STRING",
       "value": "MagpieStaging"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "3037"
     }
   },
   "entitlementName": "ba065325b0e6433097eb8b2cd1062ac6",
