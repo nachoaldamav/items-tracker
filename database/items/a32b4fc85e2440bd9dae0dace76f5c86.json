@@ -41,8 +41,8 @@
   ],
   "namespace": "hibiscus",
   "status": "ACTIVE",
-  "creationDate": "2019-01-29T20:33:44.463Z",
-  "lastModifiedDate": "2019-11-19T17:03:23.422Z",
+  "creationDate": "2024-04-10T21:48:28.499Z",
+  "lastModifiedDate": "2024-05-02T19:57:20.711Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -78,16 +78,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "d36dc474f7a249afb952014071ab0d4b",
+      "id": "f6c7a96d980a49b8b8964318ee1043fc",
       "appId": "Hibiscus",
-      "compatibleApps": [],
       "platform": [
-        "Windows",
-        "Mac"
-      ],
-      "dateAdded": "2019-02-20T00:00:00.000Z",
-      "releaseNote": "",
-      "versionTitle": ""
+        "Mac",
+        "Windows"
+      ]
     }
   ],
   "developer": "Night School Studio, LLC",
