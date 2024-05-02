@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/0c9ec171d53248778faf2ca7d72c1789/die-by-the-blade-offer-1228r.jpg",
-      "md5": "5e93f415f75a325ea462e4ad1f9d00e1",
+      "url": "https://cdn1.epicgames.com/spt-assets/0c9ec171d53248778faf2ca7d72c1789/die-by-the-blade-cn2iq.jpg",
+      "md5": "5fbfa963637000056ed66785031477fc",
       "width": 2560,
       "height": 1440,
-      "size": 647526,
-      "uploadedDate": "2022-04-12T13:50:22.867Z",
+      "size": 2497494,
+      "uploadedDate": "2024-04-29T13:37:14.343Z",
       "alt": "Die By The Blade Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/0c9ec171d53248778faf2ca7d72c1789/download-die-by-the-blade-offer-48zxf.png",
-      "md5": "2df03869af6f563c1c16ff78ce26116b",
+      "url": "https://cdn1.epicgames.com/spt-assets/0c9ec171d53248778faf2ca7d72c1789/die-by-the-blade-1owfi.jpg",
+      "md5": "bbb55ddfc6a7afc07505b15da5aec88c",
       "width": 1200,
       "height": 1600,
-      "size": 2671768,
-      "uploadedDate": "2022-04-12T13:50:24.984Z",
+      "size": 1269308,
+      "uploadedDate": "2024-04-29T13:59:24.204Z",
       "alt": "Download Die By The Blade Offer"
     }
   ],
@@ -34,8 +34,8 @@
   ],
   "namespace": "8b9d052509c8474f9fc14a214ce6bed2",
   "status": "ACTIVE",
-  "creationDate": "2022-04-14T10:28:25.773Z",
-  "lastModifiedDate": "2024-04-24T14:11:05.582Z",
+  "creationDate": "2021-11-09T18:19:57.161Z",
+  "lastModifiedDate": "2024-05-02T07:26:29.931Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,8 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "d30c68c0151b472c94e98bdeeee57f4d",
-      "appId": "feb9f5df47f1483cbf10c09e87cc6b2e"
+      "id": "c8f49a022b404faeafd8b00611cb20cd",
+      "appId": "feb9f5df47f1483cbf10c09e87cc6b2e",
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Grindstone, s.r.o.",
