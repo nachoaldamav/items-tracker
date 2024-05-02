@@ -45,7 +45,7 @@
   "namespace": "ca93b6d41a4e41af864942d8f0a2a826",
   "status": "ACTIVE",
   "creationDate": "2020-01-13T15:49:35.078Z",
-  "lastModifiedDate": "2024-04-30T19:58:47.553Z",
+  "lastModifiedDate": "2024-05-02T20:08:16.202Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
@@ -70,6 +70,10 @@
     "FolderName": {
       "type": "STRING",
       "value": "Uno"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
     },
     "CanRunOffline": {
       "type": "STRING",
