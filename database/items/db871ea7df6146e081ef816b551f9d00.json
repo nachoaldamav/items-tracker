@@ -1,25 +1,27 @@
 {
   "id": "db871ea7df6146e081ef816b551f9d00",
   "title": "Empires of the Undergrowth",
-  "description": "Empires of the Undergrowth",
+  "description": "Command swarms of warriors at an unprecedented scale of warfare in this blend of RTS and base-building. Lead ant colonies against the many fearsome threats of the insect world while building intricate nests, developing pheromone-based tactics and evolving to meet growing dangers.",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/4c436646d6f0400da483546a70e3a6e0/item/egs-empiresoftheundergrowth-slugdisco-s1-2560x1440-2560x1440-fbc2a0e62782deb4987fce8eab8a0bdc.jpg",
-      "md5": "fbc2a0e62782deb4987fce8eab8a0bdc",
+      "url": "https://cdn1.epicgames.com/spt-assets/9cc813cbf69242b786d00e246c288e84/empires-of-the-undergrowth-z4y50.png",
+      "md5": "12cc0a76df682e13cfe1b71af776846c",
       "width": 2560,
       "height": 1440,
-      "size": 307983,
-      "uploadedDate": "2020-10-27T20:29:58.361Z"
+      "size": 4169436,
+      "uploadedDate": "2024-05-02T10:11:03.399Z",
+      "alt": "Empires of the Undergrowth Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/4c436646d6f0400da483546a70e3a6e0/item/egs-empiresoftheundergrowth-slugdisco-s2-1200x1600-1200x1600-65d732d6bfbf62e5d7636489f8f5b8e3.jpg",
-      "md5": "65d732d6bfbf62e5d7636489f8f5b8e3",
+      "url": "https://cdn1.epicgames.com/spt-assets/9cc813cbf69242b786d00e246c288e84/empires-of-the-undergrowth-k2m3c.png",
+      "md5": "d4b0a9650d0990c55b0a73bc8b42ecbe",
       "width": 1200,
       "height": 1600,
-      "size": 192014,
-      "uploadedDate": "2020-10-27T20:30:03.635Z"
+      "size": 2250554,
+      "uploadedDate": "2024-05-02T10:11:11.405Z",
+      "alt": "Download Empires of the Undergrowth Offer"
     }
   ],
   "categories": [
@@ -35,8 +37,8 @@
   ],
   "namespace": "4c436646d6f0400da483546a70e3a6e0",
   "status": "ACTIVE",
-  "creationDate": "2020-07-31T21:03:05.989Z",
-  "lastModifiedDate": "2023-10-18T14:32:44.476Z",
+  "creationDate": "2024-03-23T17:27:27.891Z",
+  "lastModifiedDate": "2024-05-08T15:29:08.865Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -76,13 +78,13 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "b690feedb9ff4079b37e84e17262190f",
+      "id": "9c4e4e10e83449eaa346e76da5bd1b0b",
       "appId": "c9fa09b072b54443b79d821afd76e767",
       "platform": [
-        "Windows",
-        "Mac"
-      ],
-      "dateAdded": "2020-07-31T00:00:00.000Z"
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Hooded Horse Inc.",
