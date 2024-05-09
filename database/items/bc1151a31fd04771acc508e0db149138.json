@@ -5,21 +5,23 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DreamEnginesNomadCities_Suncrash_S1_2560x1440-035cb1af5ebb996dd77e4cdb4c49b918",
-      "md5": "035cb1af5ebb996dd77e4cdb4c49b918",
+      "url": "https://cdn1.epicgames.com/spt-assets/09e05cd5676048768494ca5af3f74d77/americium-ib160.jpg",
+      "md5": "9db05b7393d253276f5b5b0a4aa6df24",
       "width": 2560,
       "height": 1440,
-      "size": 816307,
-      "uploadedDate": "2021-07-13T21:32:17.745Z"
+      "size": 668827,
+      "uploadedDate": "2024-05-04T15:18:17.385Z",
+      "alt": "Americium Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DreamEnginesNomadCities_Suncrash_S2_1200x1600-905b076841dbb8f6878061f54b16cea5",
-      "md5": "905b076841dbb8f6878061f54b16cea5",
+      "url": "https://cdn1.epicgames.com/spt-assets/09e05cd5676048768494ca5af3f74d77/americium-1ykzf.jpg",
+      "md5": "48a53a73e3985277cef2735d490e6bd9",
       "width": 1200,
       "height": 1600,
-      "size": 483941,
-      "uploadedDate": "2021-07-13T21:32:20.174Z"
+      "size": 400316,
+      "uploadedDate": "2024-05-04T15:21:49.703Z",
+      "alt": "Download Americium Offer"
     }
   ],
   "categories": [
@@ -35,8 +37,8 @@
   ],
   "namespace": "94556f7a788243108635913cf8216a10",
   "status": "ACTIVE",
-  "creationDate": "2021-03-14T21:18:11.117Z",
-  "lastModifiedDate": "2021-07-14T13:19:18.825Z",
+  "creationDate": "2024-05-04T15:57:10.816Z",
+  "lastModifiedDate": "2024-05-09T15:54:27.198Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -80,12 +82,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "4c20db5f0c11400d9158172d0b476f84",
+      "id": "51fe615b0739488c848fec8bbf761b89",
       "appId": "eb3bb7636777443cbf9403eaea97c58a",
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2021-03-14T00:00:00.000Z"
+      ]
     }
   ],
   "developer": "Suncrash LTD",
