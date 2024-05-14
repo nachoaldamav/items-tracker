@@ -1,25 +1,27 @@
 {
   "id": "8557441af01a4ed497f27a18e03868ed",
-  "title": "Rating for Kiwi",
-  "description": "Rating for Kiwi",
+  "title": "Rating for Kiwi 2",
+  "description": "Rating for Kiwi 2",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/item/04_EGS_enhance_tetriseffect_L1_librarypromo_2560x1440px-1850x1041-39433010ede56695f20157632cbc9baf.jpg",
-      "md5": "39433010ede56695f20157632cbc9baf",
-      "width": 1850,
-      "height": 1041,
-      "size": 362071,
-      "uploadedDate": "2019-07-12T18:42:13.972Z"
+      "url": "https://cdn1.epicgames.com/spt-assets/7ae5e7fb1f52463cb251003108495cfd/tetris-effect-dq82x.jpg",
+      "md5": "040aa0ef05e6e9059dd8d063ac790f90",
+      "width": 2560,
+      "height": 1440,
+      "size": 1114409,
+      "uploadedDate": "2024-04-09T21:15:40.762Z",
+      "alt": "Tetris® Effect Rating for Kiwi Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/76339caf9e8e4d24b62761c736e82b42/EGS_TetrisEffectConnected_MonstarsincResonairStageGames_S2_1200x1600-198972bf794d088c3cb15e71bac9f0e2_1200x1600-198972bf794d088c3cb15e71bac9f0e2_1200x1600-198972bf794d088c3cb15e71bac9f0e2",
-      "md5": "198972bf794d088c3cb15e71bac9f0e2",
+      "url": "https://cdn1.epicgames.com/spt-assets/7ae5e7fb1f52463cb251003108495cfd/tetris-effect-sf1di.jpg",
+      "md5": "79ed3c191997bdae93a4a7f838361767",
       "width": 1200,
       "height": 1600,
-      "size": 406198,
-      "uploadedDate": "2024-04-16T16:59:46.098Z"
+      "size": 484139,
+      "uploadedDate": "2024-04-09T21:15:44.171Z",
+      "alt": "Download Tetris® Effect Rating for Kiwi Offer"
     }
   ],
   "categories": [
@@ -35,8 +37,8 @@
   ],
   "namespace": "76339caf9e8e4d24b62761c736e82b42",
   "status": "ACTIVE",
-  "creationDate": "2019-07-30T14:14:00.943Z",
-  "lastModifiedDate": "2024-04-16T17:00:54.656Z",
+  "creationDate": "2024-04-02T23:46:57.769Z",
+  "lastModifiedDate": "2024-05-14T16:56:12.378Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -72,12 +74,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "fe7dba3d00e941f58477a6996fd95477",
+      "id": "edf42a4fcf4f43a0b0bd7a38e82e7994",
       "appId": "KiwiRating",
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2019-06-20T00:00:00.000Z"
+      ]
     }
   ],
   "developer": "Enhance, Inc.",
