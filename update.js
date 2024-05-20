@@ -41,10 +41,12 @@ class Main {
           responseType: 'json',
         });
         this.namespaces = Object.keys(data);
+        this.nsIndex = data;
         break;
 
       case 'file:':
         this.namespaces = Object.keys(JSON.parse(Fs.readFileSync(url.path)));
+        this.nsIndex = JSON.parse(Fs.readFileSync(url.path));
         break;
 
       default:
@@ -287,17 +289,29 @@ class Main {
 
         console.log(`Fetched ${items.length} items for namespace ${namespace}`);
 
-        return {
+        /* return {
           elements: items,
           paging: {
             total: items.length,
             count: items.length,
             start: 0,
           },
-        };
+        }; */
+        return this.addHiddenItems(
+          {
+            elements: items,
+            paging: {
+              total: items.length,
+              count: items.length,
+              start: 0,
+            },
+          },
+          namespace
+        );
       }
 
-      return data;
+      // return data;
+      return this.addHiddenItems(data, namespace);
     } catch (error) {
       if (error.response) {
         if (error.response.data) {
@@ -327,6 +341,98 @@ class Main {
         throw new Error(error);
       }
     }
+  }
+
+  /**
+   * Adds hidden items to the database based on the link {namespace}/{offerId}
+   * It returns data too, but with the hidden items added to the elements array
+   * @param {*} data
+   * @param {*} namespace
+   * @returns data
+   */
+  async addHiddenItems(data, namespace) {
+    if (!this.nsIndex) {
+      throw new Error('No namespace index found in this.nsIndex');
+    }
+
+    const offers = this.nsIndex[namespace];
+    if (!offers) return data;
+
+    console.log(
+      `Trying to find hidden items for namespace ${namespace}... (offers: ${offers.length})`
+    );
+
+    const hiddenItems = [];
+    for await (const offerId of offers) {
+      const url = new URL('https://store.epicgames.com/graphql');
+      url.searchParams.append('operationName', 'getCatalogOfferSubItems');
+      url.searchParams.append(
+        'variables',
+        JSON.stringify({
+          locale: 'en-US',
+          offerId: offerId,
+          sandboxId: namespace,
+        })
+      );
+      url.searchParams.append(
+        'extensions',
+        '{"persistedQuery":{"version":1,"sha256Hash":"7f0327250294745d88bb463ba90a9cf6d27cef7c5eb070c015e0def9e3471832"}}'
+      );
+
+      /**
+       * @returns {
+       *    data: {
+       *        Catalog: {
+       *            offerSubItems: {
+       *                namespace: string,
+       *                id: string,
+       *                releaseInfo: {
+       *                  appId: string,
+       *                  platform: string[]
+       *                }[]
+       *           }[]
+       *       }
+       *   }
+       * }
+       */
+      const { data: hiddenData } = await this.launcher.http.sendGet(url.href);
+
+      // Get the IDs
+      const hiddenItemsIds = hiddenData.data?.Catalog?.offerSubItems
+        .map((item) => item.id)
+        .filter((id) => id);
+
+      // Get the items
+      for await (const id of hiddenItemsIds) {
+        const { data } = await this.launcher.http
+          .sendGet(
+            `https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/${namespace}/items/${id}`
+          )
+          .catch((error) => {
+            console.error(`Error fetching item ${id}`);
+            return {
+              data: null,
+            };
+          });
+
+        if (data) {
+          hiddenItems.push(data);
+        }
+      }
+    }
+
+    // Insert the items that are not already in the data
+    const nonExistingItems = hiddenItems.filter(
+      (item) => !data.elements.some((element) => element.id === item.id)
+    );
+
+    console.log(
+      `Found ${nonExistingItems.length} hidden items for namespace ${namespace}`
+    );
+
+    data.elements = data.elements.concat(nonExistingItems);
+
+    return data;
   }
 }
 
