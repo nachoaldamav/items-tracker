@@ -33,7 +33,7 @@
   "namespace": "bde5c96f4d5d4a199275f367f2fe4bae",
   "status": "ACTIVE",
   "creationDate": "2021-04-26T09:42:42.907Z",
-  "lastModifiedDate": "2021-07-12T22:21:00.257Z",
+  "lastModifiedDate": "2024-05-20T09:35:39.100Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -71,10 +71,7 @@
     {
       "id": "e91be29b22de491793e48fdb8bb2015e",
       "appId": "266f7918d720498bb2dc3b859d24f607",
-      "platform": [
-        "Windows",
-        "Win32"
-      ]
+      "platform": []
     }
   ],
   "developer": "SOEDESCO",
