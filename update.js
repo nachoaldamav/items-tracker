@@ -274,6 +274,19 @@ class Main {
             return result;
           }
         }
+
+        // If it's error 404, it means that the namespace doesn't exist
+        if (error.response.statusCode === 404) {
+          return {
+            elements: [],
+            paging: {
+              total: 0,
+              count: 0,
+              start: 0,
+            },
+          };
+        }
+
         console.log(JSON.stringify(error.response, null, 2));
         console.log('Next attempt in 1s...');
         await this.sleep(5000);
