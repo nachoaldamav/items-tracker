@@ -6,7 +6,7 @@ const Axios = require('axios');
 const { Launcher } = require('epicgames-client');
 
 class Main {
-  constructor () {
+  constructor() {
     this.language = 'en';
     this.country = 'US';
     this.namespaces = [];
@@ -25,34 +25,35 @@ class Main {
     });
   }
 
-  async fetchNamespaces () {
+  async fetchNamespaces() {
     if (!process.env.NAMESPACES_URL) {
       throw new Error('No enviroment variable NAMESPACES_URL');
     }
-  
+
     var url = Url.parse(process.env.NAMESPACES_URL);
 
-    switch(url.protocol) {
-        case 'http:': case 'https:':
-            const { data } = await Axios.get(url.href, {
-              responseType: 'json',
-            });
-            this.namespaces = Object.keys(data);
+    switch (url.protocol) {
+      case 'http:':
+      case 'https:':
+        const { data } = await Axios.get(url.href, {
+          responseType: 'json',
+        });
+        this.namespaces = Object.keys(data);
         break;
 
-        case 'file:':
-            this.namespaces = Object.keys(JSON.parse(Fs.readFileSync(url.path)));
+      case 'file:':
+        this.namespaces = Object.keys(JSON.parse(Fs.readFileSync(url.path)));
         break;
 
-        default:
-            throw new Error('Unsupported protocol: ' + url.protocol);
+      default:
+        throw new Error('Unsupported protocol: ' + url.protocol);
     }
   }
 
-  async update () {
+  async update() {
     let checkpointTime;
     await this.fetchNamespaces();
-    
+
     checkpointTime = Date.now();
     for (let i = 0; i < this.namespaces.length; ++i) {
       const namespace = this.namespaces[i];
@@ -62,30 +63,32 @@ class Main {
     this.trackingStats.fetchItemsTime = Date.now() - checkpointTime;
 
     this.launcher.logout();
-    
+
     checkpointTime = Date.now();
     this.index();
     this.trackingStats.indexTime = Date.now() - checkpointTime;
 
     this.trackingStats.lastUpdate = Date.now();
-    this.trackingStats.lastUpdateString = (new Date(this.trackingStats.lastUpdate)).toISOString();
+    this.trackingStats.lastUpdateString = new Date(
+      this.trackingStats.lastUpdate
+    ).toISOString();
 
     await this.sync();
     process.exit(0);
   }
-  
-  index () {
+
+  index() {
     console.log('Indexing...');
     const namespaces = {};
     const titles = [];
     const list = [];
-    
+
     const itemsPath = `${this.databasePath}/items`;
     Fs.readdirSync(itemsPath).forEach((fileName) => {
       if (fileName.substr(-5) !== '.json') return;
       try {
         const item = JSON.parse(Fs.readFileSync(`${itemsPath}/${fileName}`));
-        var itemList = {"id": item.id, "title": item.title};
+        var itemList = { id: item.id, title: item.title };
         if (item.namespace) {
           if (!namespaces[item.namespace]) {
             namespaces[item.namespace] = [item.id];
@@ -98,22 +101,37 @@ class Main {
           item.id,
           item.namespace,
           item.title,
-          Array.isArray(item.categories) && item.categories.map(c => c.path) || [],
+          (Array.isArray(item.categories) &&
+            item.categories.map((c) => c.path)) ||
+            [],
           item.developer || '',
-          item.creationDate && Math.floor((new Date(item.creationDate)).getTime() / 1000) || 0,
-          item.lastModifiedDate && Math.floor((new Date(item.lastModifiedDate)).getTime() / 1000) || 0,
+          (item.creationDate &&
+            Math.floor(new Date(item.creationDate).getTime() / 1000)) ||
+            0,
+          (item.lastModifiedDate &&
+            Math.floor(new Date(item.lastModifiedDate).getTime() / 1000)) ||
+            0,
         ]);
       } catch (error) {
         console.error(error);
       }
     });
-    
-    Fs.writeFileSync(`${this.databasePath}/namespaces.json`, JSON.stringify(namespaces, null, 2));
-    Fs.writeFileSync(`${this.databasePath}/titles.json`, JSON.stringify(titles, null, 2));
-    Fs.writeFileSync(`${this.databasePath}/list.json`, JSON.stringify(list, null, 2));
+
+    Fs.writeFileSync(
+      `${this.databasePath}/namespaces.json`,
+      JSON.stringify(namespaces, null, 2)
+    );
+    Fs.writeFileSync(
+      `${this.databasePath}/titles.json`,
+      JSON.stringify(titles, null, 2)
+    );
+    Fs.writeFileSync(
+      `${this.databasePath}/list.json`,
+      JSON.stringify(list, null, 2)
+    );
   }
 
-  async sync () {
+  async sync() {
     if (!process.env.GIT_REMOTE) return;
     console.log('Syncing with repo...');
     const git = SimpleGit({
@@ -124,9 +142,16 @@ class Main {
     await git.checkoutBranch('master');
     await git.add([`${this.databasePath}/.`]);
     const status = await git.status();
-    const changesCount = status.created.length + status.modified.length + status.deleted.length + status.renamed.length;
+    const changesCount =
+      status.created.length +
+      status.modified.length +
+      status.deleted.length +
+      status.renamed.length;
     if (changesCount === 0) return;
-    Fs.writeFileSync(`${this.databasePath}/tracking-stats.json`, JSON.stringify(this.trackingStats, null, 2));
+    Fs.writeFileSync(
+      `${this.databasePath}/tracking-stats.json`,
+      JSON.stringify(this.trackingStats, null, 2)
+    );
     await git.add([`${this.databasePath}/.`]);
     const commitMessage = `Update - ${new Date().toISOString()}`;
     await git.commit(commitMessage);
@@ -135,17 +160,20 @@ class Main {
     await git.push(['-u', 'origin', 'main']);
     console.log(`Changes has commited to repo with message ${commitMessage}`);
   }
-  
-  saveItem (item) {
+
+  saveItem(item) {
     try {
-      Fs.writeFileSync(`${__dirname}/database/items/${item.id}.json`, JSON.stringify(item, null, 2));
+      Fs.writeFileSync(
+        `${__dirname}/database/items/${item.id}.json`,
+        JSON.stringify(item, null, 2)
+      );
     } catch (error) {
       console.log(`${item.id} = ERROR`);
       console.error(error);
     }
   }
 
-  sleep (time) {
+  sleep(time) {
     return new Promise((resolve) => {
       const sto = setTimeout(() => {
         clearTimeout(sto);
@@ -154,10 +182,14 @@ class Main {
     });
   }
 
-  async fetchAllItemsForNamespace (namespace) {
+  async fetchAllItemsForNamespace(namespace) {
     let paging = {};
     do {
-      const result = await this.fetchItemsForNamespace(namespace, paging.start, paging.count || this.perPage);
+      const result = await this.fetchItemsForNamespace(
+        namespace,
+        paging.start,
+        paging.count || this.perPage
+      );
       paging = result.paging;
       paging.start += paging.count;
       for (let i = 0; i < result.elements.length; ++i) {
@@ -168,9 +200,41 @@ class Main {
     } while (paging.start - this.perPage < paging.total - paging.count);
   }
 
-  async fetchItemsForNamespace (namespace, start = 0, count = 1000) {
+  async fetchItemsForNamespace(namespace, start = 0, count = 1000) {
     try {
-      const { data } = await this.launcher.http.sendGet(`https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/${namespace}/items?status=SUNSET%7CACTIVE&sortBy=creationDate&country=${this.country}&locale=${this.language}&start=${start}&count=${count}`);
+      const { data } = await this.launcher.http.sendGet(
+        `https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/${namespace}/items?status=SUNSET%7CACTIVE&sortBy=creationDate&country=${this.country}&locale=${this.language}&start=${start}&count=${count}`
+      );
+
+      if (data.elements.length === 0) {
+        console.log(
+          `No items found for namespace ${namespace}, using alternative method...`
+        );
+        const { data } = await this.launcher.http.sendGet(
+          `https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/${namespace}/offers?status=SUNSET%7CACTIVE&sortBy=creationDate&country=${this.country}&locale=${this.language}&start=${start}&count=${count}`
+        );
+
+        // item[n].mainGameItem.id
+        const elements = data.elements.map((element) => element.mainGameItem);
+
+        const items = [];
+        for (const element of elements) {
+          const { data } = await this.launcher.http.sendGet(
+            `https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/${namespace}/items/${element.id}?country=${this.country}&locale=${this.language}`
+          );
+          items.push(data);
+        }
+
+        return {
+          elements: items,
+          paging: {
+            total: items.length,
+            count: items.length,
+            start: 0,
+          },
+        };
+      }
+
       return data;
     } catch (error) {
       if (error.response) {
