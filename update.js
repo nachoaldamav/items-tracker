@@ -214,15 +214,19 @@ class Main {
           `https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/${namespace}/offers?status=SUNSET%7CACTIVE&sortBy=creationDate&country=${this.country}&locale=${this.language}&start=${start}&count=${count}`
         );
 
-        // item[n].mainGameItem.id
-        const elements = data.elements.map((element) => element.mainGameItem);
-
+        // item[n].mainGameItem?.id
+        const elements = data.elements
+          .map((element) => element.mainGameItem)
+          .filter((element) => element);
         const items = [];
+
         for (const element of elements) {
-          const { data } = await this.launcher.http.sendGet(
-            `https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/${namespace}/items/${element.id}?country=${this.country}&locale=${this.language}`
-          );
-          items.push(data);
+          if (element.id) {
+            const { data } = await this.launcher.http.sendGet(
+              `https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/${namespace}/items/${element.id}?country=${this.country}&locale=${this.language}`
+            );
+            items.push(data);
+          }
         }
 
         return {
