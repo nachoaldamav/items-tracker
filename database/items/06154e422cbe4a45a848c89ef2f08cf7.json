@@ -1,0 +1,98 @@
+{
+  "id": "06154e422cbe4a45a848c89ef2f08cf7",
+  "title": "Encased",
+  "description": "Encased",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/48ee23bbc7c34ac09604253e74d17b49/EGS_Encased_DarkCrystalGames_S1_2560x1440_2560x1440-ec64e621befe963c25f91493a9c7fbfa",
+      "md5": "ec64e621befe963c25f91493a9c7fbfa",
+      "width": 2560,
+      "height": 1440,
+      "size": 488052,
+      "uploadedDate": "2021-11-08T20:52:57.108Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/48ee23bbc7c34ac09604253e74d17b49/EGS_Encased_DarkCrystalGames_S4_1200x1600_1200x1600-80d2ec99c08dd85288fcf6749f5c178f",
+      "md5": "80d2ec99c08dd85288fcf6749f5c178f",
+      "width": 1200,
+      "height": 1600,
+      "size": 495029,
+      "uploadedDate": "2021-11-08T20:53:03.568Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "48ee23bbc7c34ac09604253e74d17b49",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-16T21:11:19.561Z",
+  "lastModifiedDate": "2022-09-06T15:29:55.526Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "48ee23bbc7c34ac09604253e74d17b49"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Dark Crystal Games/Encased/UserProfiles/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav,UserName.txt,Settings.bin,Stats.bin/"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Encased"
+    }
+  },
+  "entitlementName": "06154e422cbe4a45a848c89ef2f08cf7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "97120c5d0c5b435fb4f5e4f10eec7500",
+      "appId": "af0facaba8e643c1b9850d0683ff56df",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Plaion",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567muZ1CbWiaE7xGzFypb975MPI",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,97 @@
+{
+  "id": "9b106e9bf35d4a7e8cefa750bd26e759",
+  "title": "Mortal Shell",
+  "description": "Mortal Shell",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/066a34b0-e1dc-4eee-87f9-42b95d5238c6_2560x1440-60b72b7b1479ebafc188502d441c3ee5",
+      "md5": "60b72b7b1479ebafc188502d441c3ee5",
+      "width": 2560,
+      "height": 1440,
+      "size": 947261,
+      "uploadedDate": "2021-08-09T18:22:34.890Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/c54f6d5f-2a48-41f9-9f36-38a441bdb535_1200x1600-8f81674351d5cbaa78be417ee078a80e",
+      "md5": "8f81674351d5cbaa78be417ee078a80e",
+      "width": 1200,
+      "height": 1600,
+      "size": 696701,
+      "uploadedDate": "2021-08-09T18:22:47.326Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ff8c96d781824ba1ae62d18d207fc52e",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-24T19:32:57.723Z",
+  "lastModifiedDate": "2023-05-24T16:06:32.447Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ff8c96d781824ba1ae62d18d207fc52e"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/MortalShell/DungeonHaven/Saved/SaveGames/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MortalShell"
+    }
+  },
+  "entitlementName": "9b106e9bf35d4a7e8cefa750bd26e759",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "48e76556f70f44a19d27d3ef41380106",
+      "appId": "0055e45ce7654c55aade646467349e83",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-06T00:00:00.000Z"
+    }
+  ],
+  "developer": "Playstack",
+  "developerId": "o-fwcegrmgnhg9bjn597f2ywf3gvrvqw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567W59dU9ruuu7GpHpq77K2h0ON",
+  "unsearchable": true
+}

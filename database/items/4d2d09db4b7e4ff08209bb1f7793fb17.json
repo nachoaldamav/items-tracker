@@ -1,0 +1,34 @@
+{
+  "id": "4d2d09db4b7e4ff08209bb1f7793fb17",
+  "title": "KingfisherGeneralAudience",
+  "description": "KingfisherGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "dcaca38045a049b2b50fba8a4dac4407",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-16T19:58:36.488Z",
+  "lastModifiedDate": "2020-01-30T17:44:56.403Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4d2d09db4b7e4ff08209bb1f7793fb17",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Driven Arts",
+  "developerId": "o-bze36gesds8y2gh28jtdheg24v422w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": true
+}

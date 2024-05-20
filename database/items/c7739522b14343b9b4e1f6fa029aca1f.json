@@ -1,0 +1,93 @@
+{
+  "id": "c7739522b14343b9b4e1f6fa029aca1f",
+  "title": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
+  "description": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/975d251af0384c88a898a996bda4881d/EGS_PathfinderWrathoftheRighteousEnhancedEdition_OwlcatGames_S1_2560x1440-1f8fcc6e75c681f3976fdd01b413ed68",
+      "md5": "1f8fcc6e75c681f3976fdd01b413ed68",
+      "width": 2560,
+      "height": 1440,
+      "size": 916219,
+      "uploadedDate": "2022-09-29T15:55:40.821Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/975d251af0384c88a898a996bda4881d/EGS_PathfinderWrathoftheRighteousEnhancedEdition_OwlcatGames_S2_1200x1600-fc0129430d25f46c7faa5b4167488ca1",
+      "md5": "fc0129430d25f46c7faa5b4167488ca1",
+      "width": 1200,
+      "height": 1600,
+      "size": 489720,
+      "uploadedDate": "2022-09-29T15:55:44.457Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "975d251af0384c88a898a996bda4881d",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-24T03:48:20.632Z",
+  "lastModifiedDate": "2024-05-02T18:25:53.367Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "975d251af0384c88a898a996bda4881d"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PathfinderWOTR"
+    }
+  },
+  "entitlementName": "c7739522b14343b9b4e1f6fa029aca1f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "53cbf71934a64085a5c82f575bf58a37",
+      "appId": "e8d11bd4cb1f49d0a69a52fc09dbac6f",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-09-02T18:16:14.093Z"
+    }
+  ],
+  "developer": "Postmeta Games",
+  "developerId": "o-ptrc3tlq66gg7gsku56pwafjwzs23b",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567DnISa2PP4ARRLaTkRUODnXKP",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

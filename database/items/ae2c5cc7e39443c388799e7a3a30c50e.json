@@ -1,0 +1,97 @@
+{
+  "id": "ae2c5cc7e39443c388799e7a3a30c50e",
+  "title": "Antstream Arcade",
+  "description": "Antstream Arcade",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/7c7e1c220ce74bd8b5df4190ca7c3098/EGS_AntstreamArcadePremium_AntstreamArcade_S1_2560x1440-141cecd185904ee8b69eb69f5d038ae1",
+      "md5": "141cecd185904ee8b69eb69f5d038ae1",
+      "width": 2560,
+      "height": 1440,
+      "size": 933453,
+      "uploadedDate": "2023-11-30T22:19:16.722Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/7c7e1c220ce74bd8b5df4190ca7c3098/EGS_AntstreamArcadePremium_AntstreamArcade_S2_1200x1600-9a53fb214efd16e95ce4706e271ab012",
+      "md5": "9a53fb214efd16e95ce4706e271ab012",
+      "width": 1200,
+      "height": 1600,
+      "size": 712009,
+      "uploadedDate": "2023-11-30T22:19:21.087Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "software"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7c7e1c220ce74bd8b5df4190ca7c3098",
+  "status": "ACTIVE",
+  "creationDate": "2021-10-18T00:19:00.253Z",
+  "lastModifiedDate": "2023-11-30T22:33:41.806Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "7c7e1c220ce74bd8b5df4190ca7c3098"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AntstreamArcade"
+    }
+  },
+  "entitlementName": "ae2c5cc7e39443c388799e7a3a30c50e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fd24b66d4b82415a85a93b43626549e4",
+      "appId": "4f50a062a8c34a259e507260a0311163",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2021-11-10T17:22:03.220Z"
+    }
+  ],
+  "developer": "Antstream",
+  "developerId": "o-speq76scv8am7vzycvs8ntmktf58vl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567nuHdsKa23l4F8hR3lF6ghqo0",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

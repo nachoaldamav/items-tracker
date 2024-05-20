@@ -1,0 +1,96 @@
+{
+  "id": "75a5bee8052f4e2498094b2faaea8c11",
+  "title": "Dead Island 2",
+  "description": "Dead Island 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/236c74b4cd2e4e3099cbe2ebdc9686fd/EGS_DeadIsland2_DeepSilverDambusterStudios_S1_2560x1440-fdc688ce46680914ee3c4a7949ce8a67_2560x1440-fdc688ce46680914ee3c4a7949ce8a67",
+      "md5": "fdc688ce46680914ee3c4a7949ce8a67",
+      "width": 2560,
+      "height": 1440,
+      "size": 878685,
+      "uploadedDate": "2022-08-23T19:55:32.283Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/236c74b4cd2e4e3099cbe2ebdc9686fd/EGS_DeadIsland2_DeepSilverDambusterStudios_S2_1200x1600-efc5201842cf642eb45f73227cd0789b_1200x1600-efc5201842cf642eb45f73227cd0789b",
+      "md5": "efc5201842cf642eb45f73227cd0789b",
+      "width": 1200,
+      "height": 1600,
+      "size": 484421,
+      "uploadedDate": "2022-08-23T19:55:27.290Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "236c74b4cd2e4e3099cbe2ebdc9686fd",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-15T17:31:00.367Z",
+  "lastModifiedDate": "2024-04-16T21:29:01.476Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "236c74b4cd2e4e3099cbe2ebdc9686fd"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/DeadIsland/Saved/SaveGames"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DeadIsland2"
+    }
+  },
+  "entitlementName": "75a5bee8052f4e2498094b2faaea8c11",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "efcd6731ee544fae94a04be6a1c2865c",
+      "appId": "Crow",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Plaion",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi45671EeWNEA6Tc6NX5Ps6VVFY6KP",
+  "unsearchable": true
+}

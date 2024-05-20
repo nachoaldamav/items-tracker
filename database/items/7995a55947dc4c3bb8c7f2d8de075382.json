@@ -1,0 +1,73 @@
+{
+  "id": "7995a55947dc4c3bb8c7f2d8de075382",
+  "title": "Insurgency: Sandstorm",
+  "description": "Insurgency: Sandstorm",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_InsurgencySandstormbasegame_NewWorldInteractive_Editions_S2_1200x1600-68b46ff62079d0f55889b09ced95e5f1",
+      "md5": "68b46ff62079d0f55889b09ced95e5f1",
+      "width": 1200,
+      "height": 1600,
+      "size": 985088,
+      "uploadedDate": "2022-02-10T17:22:38.598Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_InsurgencySandstormbasegame_NewWorldInteractive_Editions_S1_2560x1440-ad297a516ee88bc43fd232fb3b224c98",
+      "md5": "ad297a516ee88bc43fd232fb3b224c98",
+      "width": 2560,
+      "height": 1440,
+      "size": 1006919,
+      "uploadedDate": "2022-02-10T17:22:51.615Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "94cec4802e954a6c9579e29e8b817f3a",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-16T12:08:58.206Z",
+  "lastModifiedDate": "2024-04-18T16:20:56.490Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Sandstorm"
+    }
+  },
+  "entitlementName": "7995a55947dc4c3bb8c7f2d8de075382",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9b0f47529d7b4c04a50a4a4741362bc8",
+      "appId": "ab915a31cd2e4b5b93339456bcfb211e",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-23T00:00:00.000Z"
+    }
+  ],
+  "developer": "Focus Entertainment Publishing",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567Re0IBg43lA4fw0oGdafwFMmN",
+  "unsearchable": true
+}

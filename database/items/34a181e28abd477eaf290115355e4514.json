@@ -1,0 +1,98 @@
+{
+  "id": "34a181e28abd477eaf290115355e4514",
+  "title": "R-Type Final 2",
+  "description": "R-Type Final 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/37ed871e17ab4466b4d5da28e9576ea6/item/EGS_RTypeFinal2_GranzellaInc_S1-2560x1440-17210d2af74cefffd42c9690c7bb6deb.jpg",
+      "md5": "17210d2af74cefffd42c9690c7bb6deb",
+      "width": 2560,
+      "height": 1440,
+      "size": 979189,
+      "uploadedDate": "2020-10-20T23:09:13.871Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/37ed871e17ab4466b4d5da28e9576ea6/item/EGS_RTypeFinal2_GranzellaInc_S2-1200x1600-51caafcf7abfb10ce380b7c01bd32b70.jpg",
+      "md5": "51caafcf7abfb10ce380b7c01bd32b70",
+      "width": 1200,
+      "height": 1600,
+      "size": 905510,
+      "uploadedDate": "2020-10-20T23:09:33.134Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "37ed871e17ab4466b4d5da28e9576ea6",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-15T21:19:01.254Z",
+  "lastModifiedDate": "2022-12-16T20:40:57.185Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "37ed871e17ab4466b4d5da28e9576ea6"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/RTypeFinal2/Saved/SaveGames/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RTypeFinal2"
+    }
+  },
+  "entitlementName": "34a181e28abd477eaf290115355e4514",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1aeee5e244e6479893d86b9ea4165117",
+      "appId": "58163aa20ac04197a8aa39219651e30c",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-15T00:00:00.000Z"
+    }
+  ],
+  "developer": "NIS America, Inc.",
+  "developerId": "o-24ec9efll733ggh8wybar3x8zetflu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567N3sqECQgz1YoCoXvVgig5SoE",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

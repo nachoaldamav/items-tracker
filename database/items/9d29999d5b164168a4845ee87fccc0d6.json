@@ -1,0 +1,34 @@
+{
+  "id": "9d29999d5b164168a4845ee87fccc0d6",
+  "title": "Gen P audience",
+  "description": "Gen P audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-02T19:37:16.300Z",
+  "lastModifiedDate": "2024-04-19T07:58:49.806Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9d29999d5b164168a4845ee87fccc0d6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Gameloft SE",
+  "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

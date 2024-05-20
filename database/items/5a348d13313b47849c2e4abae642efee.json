@@ -1,0 +1,38 @@
+{
+  "id": "5a348d13313b47849c2e4abae642efee",
+  "title": "SP Offer audience",
+  "description": "SP Offer audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c8d91ab60465466e9efeec824c3217db",
+  "status": "ACTIVE",
+  "creationDate": "2022-01-18T21:33:27.650Z",
+  "lastModifiedDate": "2022-01-18T21:34:14.815Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5a348d13313b47849c2e4abae642efee",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

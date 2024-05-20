@@ -1,0 +1,37 @@
+{
+  "id": "983abc62678d4c319293a51b0833cc8b",
+  "title": "Smithfield73 audience",
+  "description": "Smithfield73 audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c2e18b972be9485bbc408c021e620cff",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-01T19:49:29.866Z",
+  "lastModifiedDate": "2024-02-15T16:37:37.898Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "983abc62678d4c319293a51b0833cc8b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Dovetail Games",
+  "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

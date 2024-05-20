@@ -1,0 +1,49 @@
+{
+  "id": "c79f279929734feb84e2f801888626e3",
+  "title": "KerberosGeneralAudience",
+  "description": "KerberosGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Teen_Rating_267x404-bbd0a7a015760bd79aa91311b1158f96",
+      "md5": "bbd0a7a015760bd79aa91311b1158f96",
+      "width": 267,
+      "height": 404,
+      "size": 20511,
+      "uploadedDate": "2021-09-08T02:01:58.883Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2e92a78949e2474aa89271b8b893f3b0",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-30T19:51:56.770Z",
+  "lastModifiedDate": "2021-10-01T19:02:17.337Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c79f279929734feb84e2f801888626e3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games Publishing",
+  "developerId": "o-e2xslu4mlqqaavphzl6927vtjqamhj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,93 @@
+{
+  "id": "947174e4cc824f7aafaece1f54c033b9",
+  "title": "Vampire: The Masquerade - Swansong",
+  "description": "Vampire: The Masquerade - Swansong",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/91b9a3ac7cda40718addd961fddfadca/EGS_VampireTheMasqueradeSwansong_BigBadWolf_S1_2560x1440-3f2dfd9ba25488b64fd899af9bef7699",
+      "md5": "3f2dfd9ba25488b64fd899af9bef7699",
+      "width": 2560,
+      "height": 1440,
+      "size": 255925,
+      "uploadedDate": "2022-04-05T00:36:32.171Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/91b9a3ac7cda40718addd961fddfadca/EGS_VampireTheMasqueradeSwansong_BigBadWolf_S2_1200x1600-4b9fbee303df3621dcd280e9591bc2b9",
+      "md5": "4b9fbee303df3621dcd280e9591bc2b9",
+      "width": 1200,
+      "height": 1600,
+      "size": 232552,
+      "uploadedDate": "2022-04-05T00:36:37.389Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "91b9a3ac7cda40718addd961fddfadca",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-24T05:12:20.922Z",
+  "lastModifiedDate": "2022-05-19T00:42:46.727Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "91b9a3ac7cda40718addd961fddfadca"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "VampireMasqueradeSwansong"
+    }
+  },
+  "entitlementName": "947174e4cc824f7aafaece1f54c033b9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e08dbea82d414341bf0e27d1132d09b3",
+      "appId": "Swift",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "Nacon",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567rbRIpjpHk8Dfz7AXnNGOOYjy",
+  "unsearchable": true
+}

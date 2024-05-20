@@ -1,0 +1,38 @@
+{
+  "id": "7d878449526c4ee992064acd8685a601",
+  "title": "Deluxe Edition audience",
+  "description": "Deluxe Edition audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "89ad85eed51a421bb07c33c4fba929b3",
+  "status": "ACTIVE",
+  "creationDate": "2022-04-19T14:37:24.713Z",
+  "lastModifiedDate": "2022-04-20T22:00:31.112Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7d878449526c4ee992064acd8685a601",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Wired Productions",
+  "developerId": "o-r83qbqhwd8y5y5r6e9x62vtrsd9mqm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

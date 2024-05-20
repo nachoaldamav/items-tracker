@@ -1,0 +1,97 @@
+{
+  "id": "82c9334d4cd54f4988da0049d8738d6b",
+  "title": "Goat Simulator 3",
+  "description": "Goat Simulator 3",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/50bbaf85f4454b1c88786efeede5b302/EGS_GoatSimulator3_CoffeeStainNorthAB_S1_2560x1440-36e3f3b71ecbcfa3e74ca774d43afdfc",
+      "md5": "36e3f3b71ecbcfa3e74ca774d43afdfc",
+      "width": 2560,
+      "height": 1440,
+      "size": 966961,
+      "uploadedDate": "2024-05-03T21:17:00.977Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/50bbaf85f4454b1c88786efeede5b302/EGS_GoatSimulator3_CoffeeStainNorthAB_S2_1200x1600-99737fa8a749438ca909c776a4cd9b89",
+      "md5": "99737fa8a749438ca909c776a4cd9b89",
+      "width": 1200,
+      "height": 1600,
+      "size": 901655,
+      "uploadedDate": "2024-05-03T21:17:05.429Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "50bbaf85f4454b1c88786efeede5b302",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-10T19:33:14.321Z",
+  "lastModifiedDate": "2024-05-08T07:59:56.397Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "50bbaf85f4454b1c88786efeede5b302"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Goat2/Saved/SaveGames/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "OfflineCache.sav,steam_autocloud.vdf"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GoatSimulator3"
+    }
+  },
+  "entitlementName": "82c9334d4cd54f4988da0049d8738d6b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c3a8a7b65c4d46a2a4c9b5fd38944739",
+      "appId": "69f916aead6e4947aa3587ea234268be",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "Coffee Stain Publishing",
+  "developerId": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567zwdfc9tnSd8su43a0EFfYOkr",
+  "unsearchable": true
+}

@@ -1,0 +1,98 @@
+{
+  "id": "7d690c122fde4c60bed85405f343ad10",
+  "title": "Genshin Impact",
+  "description": "Genshin Impact",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Landscape Product image-EN_2560x1440-91c6cd7312cc2647c3ebccca10f30399",
+      "md5": "91c6cd7312cc2647c3ebccca10f30399",
+      "width": 2560,
+      "height": 1440,
+      "size": 997652,
+      "uploadedDate": "2021-06-02T03:36:36.214Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Portrait Product Image-en_1200x1600-c12cdcc2cac330df2185aa58c508e820",
+      "md5": "c12cdcc2cac330df2185aa58c508e820",
+      "width": 1200,
+      "height": 1600,
+      "size": 796187,
+      "uploadedDate": "2021-06-02T03:36:49.983Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-28T21:51:23.564Z",
+  "lastModifiedDate": "2024-04-18T18:18:35.547Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "GenshinImpact.exe"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "GenshinImpact.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GenshinImpact"
+    },
+    "BackgroundProcessNames": {
+      "type": "STRING",
+      "value": "QtWebEngineProcess.exe,launcher.exe,launcher_epic.exe"
+    }
+  },
+  "entitlementName": "7d690c122fde4c60bed85405f343ad10",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ab90420210a1473d8a49f9866ce6a62c",
+      "appId": "41869934302e4b8cafac2d3c0e7c293d",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-01-29T01:17:18.151Z"
+    }
+  ],
+  "developer": "Cognosphere",
+  "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567wTpi8eThGK1VsSmDIRr7pcy2",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

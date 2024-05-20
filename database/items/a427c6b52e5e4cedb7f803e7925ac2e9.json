@@ -1,0 +1,35 @@
+{
+  "id": "a427c6b52e5e4cedb7f803e7925ac2e9",
+  "title": "Pallas_InGameEditorAudience",
+  "description": "Pallas_InGameEditorAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c1ccf2ba1bc1473abb6ca5168e1a670c",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-03T19:20:55.282Z",
+  "lastModifiedDate": "2021-02-02T01:55:31.230Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "a427c6b52e5e4cedb7f803e7925ac2e9",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

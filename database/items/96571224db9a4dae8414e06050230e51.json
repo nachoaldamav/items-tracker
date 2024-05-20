@@ -1,0 +1,89 @@
+{
+  "id": "96571224db9a4dae8414e06050230e51",
+  "title": "The Callisto Protocol",
+  "description": "The Callisto Protocol",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S1_2560x1440-b99bb2275f932ed9beedefff5ced3baa",
+      "md5": "b99bb2275f932ed9beedefff5ced3baa",
+      "width": 2560,
+      "height": 1440,
+      "size": 1048150,
+      "uploadedDate": "2022-06-10T21:00:05.827Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S2_1200x1600-1e31eacc92833279f5b7a8d07cd3826c",
+      "md5": "1e31eacc92833279f5b7a8d07cd3826c",
+      "width": 1200,
+      "height": 1600,
+      "size": 1045299,
+      "uploadedDate": "2022-06-10T21:00:10.152Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-08T18:10:36.854Z",
+  "lastModifiedDate": "2023-06-26T18:16:36.085Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "6b0541b5d9aa476cbf407643ab3b1d7d"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheCallistoProtocol"
+    }
+  },
+  "entitlementName": "96571224db9a4dae8414e06050230e51",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b84f45f0e9794e54bea17af60d9c5e23",
+      "appId": "256ba8bdd1ff4c26a0b2d3776d1a1bf6",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "KRAFTON, Inc.",
+  "developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi45676kGYTPltFdXifmdk0NyaJQB4",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

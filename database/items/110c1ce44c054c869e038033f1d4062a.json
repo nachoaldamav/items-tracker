@@ -1,0 +1,38 @@
+{
+  "id": "110c1ce44c054c869e038033f1d4062a",
+  "title": "Tram Extension audience",
+  "description": "Tram Extension audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2b09519576cb4276bfd8df52f5288e4a",
+  "status": "ACTIVE",
+  "creationDate": "2022-05-04T12:45:33.252Z",
+  "lastModifiedDate": "2023-11-14T15:57:08.263Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "110c1ce44c054c869e038033f1d4062a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Astragon Entertainment GmbH",
+  "developerId": "o-rq9c97g8tttn6czdh2kd9vubqbunvf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

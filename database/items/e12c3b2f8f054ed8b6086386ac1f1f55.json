@@ -1,0 +1,107 @@
+{
+  "id": "e12c3b2f8f054ed8b6086386ac1f1f55",
+  "title": "Immortals of Aveum™",
+  "description": "Immortals of Aveum™",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/33a47f9b76374045b7da20af80c40aa1/EGS_ImmortalsofAveum_AscendantStudios_S1_2560x1440-42dae2e4486e1800ae1b9b5e2bc107aa",
+      "md5": "42dae2e4486e1800ae1b9b5e2bc107aa",
+      "width": 2560,
+      "height": 1440,
+      "size": 948059,
+      "uploadedDate": "2023-04-12T22:21:32.800Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/33a47f9b76374045b7da20af80c40aa1/EGS_ImmortalsofAveum_AscendantStudios_S2_1200x1600-14796260492bf93edbcdae1712efa64c",
+      "md5": "14796260492bf93edbcdae1712efa64c",
+      "width": 1200,
+      "height": 1600,
+      "size": 772158,
+      "uploadedDate": "2023-04-12T22:21:36.247Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "33a47f9b76374045b7da20af80c40aa1",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-30T21:33:34.370Z",
+  "lastModifiedDate": "2023-08-21T22:22:45.660Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "33a47f9b76374045b7da20af80c40aa1"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\Ascendant Studios\\Immortals of Aveum"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "the EA app"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "ImmortalsOfAveum-Win64-Shipping.exe"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "ImmortalsOfAveum-Win64-Shipping.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ImmortalsofAveum"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "e12c3b2f8f054ed8b6086386ac1f1f55",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f4186929258b4432b1bec308e9d00d52",
+      "appId": "nepenthes",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2023-03-30T23:49:10.362Z"
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

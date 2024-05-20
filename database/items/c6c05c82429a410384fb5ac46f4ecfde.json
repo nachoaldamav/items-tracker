@@ -1,0 +1,87 @@
+{
+  "id": "c6c05c82429a410384fb5ac46f4ecfde",
+  "title": "MultiVersus",
+  "description": "MultiVersus",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/3a212c0da4f1438e840c21565df4b6fe/EGS_MultiVersus_PlayerFirstGames_S1_2560x1440-0fcb13a50e3f35e168a9bf7e466033ab",
+      "md5": "0fcb13a50e3f35e168a9bf7e466033ab",
+      "width": 2560,
+      "height": 1440,
+      "size": 704644,
+      "uploadedDate": "2024-03-07T20:18:40.293Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/3a212c0da4f1438e840c21565df4b6fe/EGS_MultiVersus_PlayerFirstGames_S2_1200x1600-f9ebaf927c6ece4b1d39ea760c0eae19",
+      "md5": "f9ebaf927c6ece4b1d39ea760c0eae19",
+      "width": 1200,
+      "height": 1600,
+      "size": 381257,
+      "uploadedDate": "2024-03-07T20:18:44.129Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3a212c0da4f1438e840c21565df4b6fe",
+  "status": "ACTIVE",
+  "creationDate": "2021-12-08T17:22:05.893Z",
+  "lastModifiedDate": "2024-03-11T16:12:44.110Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Multiversus"
+    }
+  },
+  "entitlementName": "c6c05c82429a410384fb5ac46f4ecfde",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "48a691f0d3874b9a80be9b3dac5bc030",
+      "appId": "711c5e95dc094ca58e5f16bd48e751d6",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-12-08T17:23:04.456Z"
+    }
+  ],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,111 @@
+{
+  "id": "dd14c71ad4df44849044fc66232f492d",
+  "title": "WRC 23",
+  "description": "WRC 23",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/50b6612049324d0faf8642014139b082/EGS_WRCStandardEdition_Codemasters_S1_2560x1440-e06bb220de798338333e9855ee085442",
+      "md5": "e06bb220de798338333e9855ee085442",
+      "width": 2560,
+      "height": 1440,
+      "size": 791008,
+      "uploadedDate": "2023-09-01T23:47:52.311Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/50b6612049324d0faf8642014139b082/EGS_WRCStandardEdition_Codemasters_S2_1200x1600-8c4c26fb91b620a830c867cb78d69efb",
+      "md5": "8c4c26fb91b620a830c867cb78d69efb",
+      "width": 1200,
+      "height": 1600,
+      "size": 883226,
+      "uploadedDate": "2023-09-01T23:47:57.350Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "50b6612049324d0faf8642014139b082",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-30T21:32:53.553Z",
+  "lastModifiedDate": "2024-04-08T18:31:00.552Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "50b6612049324d0faf8642014139b082"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Codemasters\\EA SPORTS WRC"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "the EA app"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "WRC.exe"
+    },
+    "RegistryLocation": {
+      "type": "STRING",
+      "value": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Codemasters\\EA SPORTS WRC\\Install Dir"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "WRC.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WRC23"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "dd14c71ad4df44849044fc66232f492d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7b0770560a0040a09fe39b230a3ec25c",
+      "appId": "pluteum",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2023-10-11T22:35:06.595Z"
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,102 @@
+{
+  "id": "a6659ba9b4fb466cb4a96a9b606f9be1",
+  "title": "Panzer Corps 2",
+  "description": "Panzer Corps 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/a60b160cb14c4c258b70299310b63e56/item/EGS_PanzerCorps2_FlashbackGames_S5-1920x1080-329276bb4b921c053956488cd38c6758.jpg",
+      "md5": "329276bb4b921c053956488cd38c6758",
+      "width": 1920,
+      "height": 1080,
+      "size": 616184,
+      "uploadedDate": "2021-03-11T20:36:15.259Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/a60b160cb14c4c258b70299310b63e56/item/EGS_PanzerCorps2_FlashbackGames_S6-1200x1600-8873951ff2fd239f030c7f0e91ea8572.jpg",
+      "md5": "8873951ff2fd239f030c7f0e91ea8572",
+      "width": 1200,
+      "height": 1600,
+      "size": 602066,
+      "uploadedDate": "2021-03-11T20:36:23.601Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a60b160cb14c4c258b70299310b63e56",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-23T02:23:38.187Z",
+  "lastModifiedDate": "2024-01-29T12:13:44.080Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "a60b160cb14c4c258b70299310b63e56"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/Panzer Corps 2/Saves/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "*.png,*.jpg"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PanzerCorps2"
+    }
+  },
+  "entitlementName": "a6659ba9b4fb466cb4a96a9b606f9be1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "465eabf1be2c4a4d9438139ad78e8c0b",
+      "appId": "993c77acdd424c7db4fb69782e1bd69f",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-23T00:00:00.000Z"
+    }
+  ],
+  "developer": "Slitherine Software UK Ltd.",
+  "developerId": "o-h4mg4jfen23pupwq2dzpvw7vbf5s5z",
+  "eulaIds": [
+    "(egstore && slitherinesoftware)"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567UjMSEFOUU0oUZTz0ejuoNQlX",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

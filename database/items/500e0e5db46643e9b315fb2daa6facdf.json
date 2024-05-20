@@ -1,0 +1,38 @@
+{
+  "id": "500e0e5db46643e9b315fb2daa6facdf",
+  "title": "GalliumGeneralAudience",
+  "description": "GalliumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "0ba4cb8e4f6a49fc87836ef2c35e0d21",
+  "status": "ACTIVE",
+  "creationDate": "2020-12-18T23:32:16.609Z",
+  "lastModifiedDate": "2021-07-28T15:30:57.129Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "500e0e5db46643e9b315fb2daa6facdf",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Alien Pixel Studios SRL",
+  "developerId": "o-zfv66jnv8hy4e6vjrk2p4tt7zcbc9l",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

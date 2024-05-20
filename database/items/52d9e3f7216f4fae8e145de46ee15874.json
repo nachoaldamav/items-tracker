@@ -1,0 +1,81 @@
+{
+  "id": "52d9e3f7216f4fae8e145de46ee15874",
+  "title": "RIDE 5",
+  "description": "RIDE 5",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/82aa77fde0b14916a86b66b1e6345c30/EGS_RIDE5_MilestoneSrl_S1_2560x1440-5e986f0a21fb740cf72e01f69889b77c",
+      "md5": "5e986f0a21fb740cf72e01f69889b77c",
+      "width": 2560,
+      "height": 1440,
+      "size": 467229,
+      "uploadedDate": "2023-03-30T11:20:15.839Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/82aa77fde0b14916a86b66b1e6345c30/EGS_RIDE5_MilestoneSrl_S2_1200x1600-abc515266abe022f93ee7517ca8ec7fa",
+      "md5": "abc515266abe022f93ee7517ca8ec7fa",
+      "width": 1200,
+      "height": 1600,
+      "size": 303366,
+      "uploadedDate": "2023-03-30T11:20:19.178Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "82aa77fde0b14916a86b66b1e6345c30",
+  "status": "ACTIVE",
+  "creationDate": "2022-11-28T21:27:15.705Z",
+  "lastModifiedDate": "2023-08-23T20:36:06.925Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "82aa77fde0b14916a86b66b1e6345c30"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Ride5"
+    }
+  },
+  "entitlementName": "52d9e3f7216f4fae8e145de46ee15874",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bb5efb42f1d24c059b9b3143ee59a0cb",
+      "appId": "9cf4350120ee4252906b657fe6bb1a7a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Milestone Srl",
+  "developerId": "o-n7dnjfk8y2kzquszv8mfn55fg68f7a",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

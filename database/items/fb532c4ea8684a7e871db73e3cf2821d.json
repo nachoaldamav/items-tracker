@@ -1,0 +1,34 @@
+{
+  "id": "fb532c4ea8684a7e871db73e3cf2821d",
+  "title": "AnkaaGeneralAudience",
+  "description": "AnkaaGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "656bd7c2e76b46d2a1b9b4f247e813f5",
+  "status": "ACTIVE",
+  "creationDate": "2021-08-04T22:16:12.392Z",
+  "lastModifiedDate": "2021-09-15T22:54:25.098Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "fb532c4ea8684a7e871db73e3cf2821d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Chucklefish LTD",
+  "developerId": "o-6j7ccxetmselhp9nxwbfq9pszcytn4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

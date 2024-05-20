@@ -1,0 +1,37 @@
+{
+  "id": "ee197bb6af584bc795b3f32c52ff81d9",
+  "title": "Escalation Pack audience",
+  "description": "Escalation Pack audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "0d89655f53884b09b241b60c07e684af",
+  "status": "ACTIVE",
+  "creationDate": "2022-05-19T18:19:29.506Z",
+  "lastModifiedDate": "2022-05-31T22:10:38.200Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ee197bb6af584bc795b3f32c52ff81d9",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Slitherine Software UK Ltd.",
+  "developerId": "o-h4mg4jfen23pupwq2dzpvw7vbf5s5z",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

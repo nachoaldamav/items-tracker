@@ -1,0 +1,49 @@
+{
+  "id": "b31f52dd9d10433b91db6fe7fef1ffcb",
+  "title": "PlutoGeneralAudience",
+  "description": "PlutoGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/06a97980aac14fdfb914ef603a113792/item/EGS_StarTrekOnline_CrypticStudios_RA1-124x72-be63d01bfadef901eef681ac14ea4925.png",
+      "md5": "be63d01bfadef901eef681ac14ea4925",
+      "width": 124,
+      "height": 72,
+      "size": 3694,
+      "uploadedDate": "2020-10-05T17:49:44.411Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "06a97980aac14fdfb914ef603a113792",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T02:21:35.140Z",
+  "lastModifiedDate": "2024-04-12T06:08:43.706Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b31f52dd9d10433b91db6fe7fef1ffcb",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Arc Games",
+  "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": true
+}

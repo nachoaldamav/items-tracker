@@ -1,0 +1,35 @@
+{
+  "id": "72dec7299f0143829e40a3aae7159264",
+  "title": "MtEvansGeneralAudience",
+  "description": "MtEvansGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "9d2f484bbec64aa8ad234b3199dcaf1c",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-17T07:37:32.714Z",
+  "lastModifiedDate": "2021-02-11T15:14:13.156Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows, Mac"
+    }
+  },
+  "entitlementName": "72dec7299f0143829e40a3aae7159264",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Funselektor Labs INC",
+  "developerId": "o-t5l49f7rfs5msxanp53yay2r9em4q5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

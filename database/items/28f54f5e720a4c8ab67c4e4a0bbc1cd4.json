@@ -1,0 +1,36 @@
+{
+  "id": "28f54f5e720a4c8ab67c4e4a0bbc1cd4",
+  "title": "LynxGeneralAudience",
+  "description": "LynxGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ff52981b1d9947978153c7a7f8bc6d90",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-02T22:00:01.449Z",
+  "lastModifiedDate": "2024-05-16T10:04:37.720Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "28f54f5e720a4c8ab67c4e4a0bbc1cd4",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "ZA/UM",
+  "developerId": "o-pb2pz54zd2ps62dbhl588l39prldtz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": true
+}

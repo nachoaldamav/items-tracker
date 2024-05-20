@@ -1,0 +1,34 @@
+{
+  "id": "78ef98b8de7f4d2b9ff536a010d76fd9",
+  "title": "ToucanGeneralAudience",
+  "description": "ToucanGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "56eab841eaab4016b9fedd2350f997b6",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-10T21:04:23.984Z",
+  "lastModifiedDate": "2023-08-18T09:53:53.555Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "78ef98b8de7f4d2b9ff536a010d76fd9",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Oddworld Inhabitants Inc.",
+  "developerId": "o-wbsj4csbacqdc7e8xvdhkmmjpzm87v",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

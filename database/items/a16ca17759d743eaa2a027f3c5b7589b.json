@@ -1,0 +1,35 @@
+{
+  "id": "a16ca17759d743eaa2a027f3c5b7589b",
+  "title": "ManticoreGeneralAudience",
+  "description": "ManticoreGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "37ed871e17ab4466b4d5da28e9576ea6",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-15T21:19:01.132Z",
+  "lastModifiedDate": "2021-04-30T16:45:31.241Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "a16ca17759d743eaa2a027f3c5b7589b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "NIS America, Inc.",
+  "developerId": "o-24ec9efll733ggh8wybar3x8zetflu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

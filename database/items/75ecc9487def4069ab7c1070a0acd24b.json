@@ -1,0 +1,37 @@
+{
+  "id": "75ecc9487def4069ab7c1070a0acd24b",
+  "title": "WC audience",
+  "description": "WC audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c4395ba88061417a8ac6bd3fdc7fba79",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-02T08:32:35.826Z",
+  "lastModifiedDate": "2022-09-22T20:00:15.962Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "75ecc9487def4069ab7c1070a0acd24b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "PQube",
+  "developerId": "o-9l5q72cwxf99kwzprbq6f558383l2l",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

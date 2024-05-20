@@ -1,0 +1,50 @@
+{
+  "id": "7fd1733bc8484b5d9a193a962dad543b",
+  "title": "NebulaGeneralAudience",
+  "description": "NebulaGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-daysgone-bendstudio-ra1-399x200-56b4e710a614_399x200-11ee454a03e206673a0483d4bddfb63a",
+      "md5": "11ee454a03e206673a0483d4bddfb63a",
+      "width": 399,
+      "height": 200,
+      "size": 10381,
+      "uploadedDate": "2021-04-12T19:19:50.325Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "9f4875c1b0cf4cf19b28e203fc7aff07",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-26T16:39:39.446Z",
+  "lastModifiedDate": "2022-02-11T18:09:57.199Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7fd1733bc8484b5d9a193a962dad543b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

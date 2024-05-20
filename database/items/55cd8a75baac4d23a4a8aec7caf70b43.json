@@ -1,0 +1,38 @@
+{
+  "id": "55cd8a75baac4d23a4a8aec7caf70b43",
+  "title": "MtSneffelsGeneralAudience",
+  "description": "MtSneffelsGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "3b550d92911244558770b68c5a812a5d",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-06T21:32:40.547Z",
+  "lastModifiedDate": "2021-09-02T13:56:15.923Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "55cd8a75baac4d23a4a8aec7caf70b43",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

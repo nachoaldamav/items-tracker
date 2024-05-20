@@ -1,0 +1,35 @@
+{
+  "id": "d1b7e293aa87465988059107ad457621",
+  "title": "CulebraGeneralAudience",
+  "description": "CulebraGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "a60b160cb14c4c258b70299310b63e56",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-23T02:23:38.079Z",
+  "lastModifiedDate": "2023-08-18T09:54:42.903Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d1b7e293aa87465988059107ad457621",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Slitherine Software UK Ltd.",
+  "developerId": "o-h4mg4jfen23pupwq2dzpvw7vbf5s5z",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

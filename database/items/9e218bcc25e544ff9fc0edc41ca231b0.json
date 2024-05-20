@@ -1,0 +1,35 @@
+{
+  "id": "9e218bcc25e544ff9fc0edc41ca231b0",
+  "title": "PromethiumGeneralAudience",
+  "description": "PromethiumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "8aed7eb334ae42a29337c6b561584790",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-27T19:50:53.949Z",
+  "lastModifiedDate": "2021-03-19T15:05:40.208Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9e218bcc25e544ff9fc0edc41ca231b0",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

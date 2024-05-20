@@ -1,0 +1,34 @@
+{
+  "id": "0175805760034620a5e9abe348c2269b",
+  "title": "CharmPinkGeneralAudience",
+  "description": "CharmPinkGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "fecb9d2197354127a6947453f1701d5b",
+  "status": "ACTIVE",
+  "creationDate": "2021-07-20T19:00:18.300Z",
+  "lastModifiedDate": "2021-08-20T00:37:48.580Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0175805760034620a5e9abe348c2269b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "NEOWIZ",
+  "developerId": "o-n6gxve5az3wluy688g5fcfnzbpeh5n",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

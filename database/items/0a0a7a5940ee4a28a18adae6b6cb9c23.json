@@ -1,0 +1,35 @@
+{
+  "id": "0a0a7a5940ee4a28a18adae6b6cb9c23",
+  "title": "ChromiumGeneralAudience",
+  "description": "ChromiumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "efeffab890e0438abe36f643f5da5ca2",
+  "status": "ACTIVE",
+  "creationDate": "2020-12-09T08:29:43.646Z",
+  "lastModifiedDate": "2021-02-24T15:12:53.797Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0a0a7a5940ee4a28a18adae6b6cb9c23",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Distant Signal Limited",
+  "developerId": "o-xqs37sebjm7zdvdm9je2c4lj3ctnsr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

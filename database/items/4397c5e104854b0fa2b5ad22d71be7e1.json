@@ -1,0 +1,47 @@
+{
+  "id": "4397c5e104854b0fa2b5ad22d71be7e1",
+  "title": "BowfinGeneralAudience",
+  "description": "BowfinGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/25e53de2e4ab4da8aa589d881273a11c/item/POErating-842x404-2faec295387f9c8bb68f3e9f96ccb8ac.png",
+      "md5": "2faec295387f9c8bb68f3e9f96ccb8ac",
+      "width": 842,
+      "height": 404,
+      "size": 86926,
+      "uploadedDate": "2020-12-03T15:25:24.777Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "25e53de2e4ab4da8aa589d881273a11c",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-01T18:40:14.129Z",
+  "lastModifiedDate": "2023-10-11T15:20:40.296Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4397c5e104854b0fa2b5ad22d71be7e1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Microsoft",
+  "developerId": "o-f3qq8ygts6pglxx529jhgx5bmyj6bf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

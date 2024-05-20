@@ -1,0 +1,98 @@
+{
+  "id": "9421139e63f34d6281c18698b54d1e63",
+  "title": "Dying Light",
+  "description": "Dying Light",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/2c42520d342a46d7a6e0cfa77b4715de/EGS_DyingLightStandardEdition_Techland_Editions_S1_2560x1440-2967a86bdce109ba6c772176187353d1",
+      "md5": "2967a86bdce109ba6c772176187353d1",
+      "width": 2560,
+      "height": 1440,
+      "size": 716481,
+      "uploadedDate": "2024-05-08T15:16:30.639Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/2c42520d342a46d7a6e0cfa77b4715de/EGS_DyingLightStandardEdition_Techland_Editions_S2_1200x1600-49546d7deaaf160596e034613a2d2a93",
+      "md5": "49546d7deaaf160596e034613a2d2a93",
+      "width": 1200,
+      "height": 1600,
+      "size": 490234,
+      "uploadedDate": "2024-05-08T15:16:34.490Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-04T21:51:42.071Z",
+  "lastModifiedDate": "2024-05-09T16:50:17.662Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "2c42520d342a46d7a6e0cfa77b4715de"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/DyingLight/out/save/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DyingLight"
+    }
+  },
+  "entitlementName": "9421139e63f34d6281c18698b54d1e63",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e54e296c3c4c4c81bebe67c2b092921a",
+      "appId": "04a54ed532ce4fbfbf8fd5833f60def0",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Techland",
+  "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

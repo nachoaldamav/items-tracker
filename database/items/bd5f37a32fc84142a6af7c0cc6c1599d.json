@@ -1,0 +1,38 @@
+{
+  "id": "bd5f37a32fc84142a6af7c0cc6c1599d",
+  "title": "PotooGourmetEditionAudience",
+  "description": "PotooGourmetEditionAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+  "status": "ACTIVE",
+  "creationDate": "2021-06-01T19:12:05.933Z",
+  "lastModifiedDate": "2021-06-10T15:04:32.524Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "bd5f37a32fc84142a6af7c0cc6c1599d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

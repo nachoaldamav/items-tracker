@@ -1,0 +1,35 @@
+{
+  "id": "fa03bb712ca944cc87ef7c5e8cd84fc4",
+  "title": "PlatinumGeneralAudience",
+  "description": "PlatinumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "4b553e8aa0a246eaa2fdba8556b7551a",
+  "status": "ACTIVE",
+  "creationDate": "2024-02-16T17:53:02.143Z",
+  "lastModifiedDate": "2024-02-16T19:17:46.338Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Win32"
+    }
+  },
+  "entitlementName": "fa03bb712ca944cc87ef7c5e8cd84fc4",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Positech Computing Ltd",
+  "developerId": "o-hrszwkzbhb269y9we9tpukac2zxb5e",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

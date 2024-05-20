@@ -1,0 +1,36 @@
+{
+  "id": "e828249f0c0d4c72afbce8a386e5c261",
+  "title": "SpinelDLCAudience",
+  "description": "SpinelDLCAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ff8c96d781824ba1ae62d18d207fc52e",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-21T16:43:55.511Z",
+  "lastModifiedDate": "2023-05-24T16:06:32.659Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e828249f0c0d4c72afbce8a386e5c261",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Playstack",
+  "developerId": "o-fwcegrmgnhg9bjn597f2ywf3gvrvqw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

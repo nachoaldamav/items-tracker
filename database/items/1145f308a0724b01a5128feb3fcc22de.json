@@ -1,0 +1,39 @@
+{
+  "id": "1145f308a0724b01a5128feb3fcc22de",
+  "title": "Test Consumable Offer Audience",
+  "description": "Test Consumable Offer Audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "870929e8b7fb4e2b986c1a3f0a6ff38d",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-18T16:33:27.368Z",
+  "lastModifiedDate": "2021-11-18T17:50:07.622Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "1145f308a0724b01a5128feb3fcc22de",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Postmeta Games",
+  "developerId": "o-ptrc3tlq66gg7gsku56pwafjwzs23b",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

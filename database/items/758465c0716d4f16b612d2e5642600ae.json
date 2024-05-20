@@ -1,0 +1,33 @@
+{
+  "id": "758465c0716d4f16b612d2e5642600ae",
+  "title": "GoldfishGeneralAudience",
+  "description": "GoldfishGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ad876f7812c946f6a362bf821b971b48",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-23T22:55:11.737Z",
+  "lastModifiedDate": "2020-09-10T14:16:13.533Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "758465c0716d4f16b612d2e5642600ae",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Ripstone Ltd",
+  "developerId": "o-fbx9l7z95axq9s73trhbttadbareuq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": true
+}

@@ -1,0 +1,87 @@
+{
+  "id": "ea5b3edd5d654ff9bd2fbcca473bb5bb",
+  "title": "RoboCop: Rogue City",
+  "description": "RoboCop: Rogue City",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/3a5c77a536854024add2714cbd0fa865/EGS_RoboCopRogueCity_Teyon_S1_2560x1440-0e2b89ec6e73db0690475fc02db38a50",
+      "md5": "0e2b89ec6e73db0690475fc02db38a50",
+      "width": 2560,
+      "height": 1440,
+      "size": 973702,
+      "uploadedDate": "2023-09-27T18:22:22.985Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/3a5c77a536854024add2714cbd0fa865/EGS_RoboCopRogueCity_Teyon_S2_1200x1600-3e666124c2088c599e35700623bef464",
+      "md5": "3e666124c2088c599e35700623bef464",
+      "width": 1200,
+      "height": 1600,
+      "size": 941922,
+      "uploadedDate": "2023-09-27T18:22:29.942Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3a5c77a536854024add2714cbd0fa865",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-08T19:53:05.135Z",
+  "lastModifiedDate": "2023-11-02T16:14:12.071Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "3a5c77a536854024add2714cbd0fa865"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/RoboCop/Saved/SaveGames/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RoboCopRogueCity"
+    }
+  },
+  "entitlementName": "ea5b3edd5d654ff9bd2fbcca473bb5bb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "468d1ff0904b4e2bb8f04f08196f5d65",
+      "appId": "d6ab0d70d3c842b7a13beec125a02ecc",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2023-03-08T19:54:30.155Z"
+    }
+  ],
+  "developer": "Nacon",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567Z4GvrS1QEO1BnIL0clzocoTF",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

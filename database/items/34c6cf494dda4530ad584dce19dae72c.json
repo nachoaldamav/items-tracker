@@ -1,0 +1,40 @@
+{
+  "id": "34c6cf494dda4530ad584dce19dae72c",
+  "title": "Jackfruit IAP Audience",
+  "description": "Jackfruit IAP Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "0ffb7cf5cff64cd0a621222a8e969c28",
+  "status": "ACTIVE",
+  "creationDate": "2021-05-10T16:52:22.273Z",
+  "lastModifiedDate": "2021-05-10T16:59:43.620Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "34c6cf494dda4530ad584dce19dae72c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Improbable Worlds Limited",
+  "developerId": "o-rvmaypy9jeuja8bknjqftauuas6bph",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

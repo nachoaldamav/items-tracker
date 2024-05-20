@@ -1,0 +1,38 @@
+{
+  "id": "5dca75f685e542c784e6a028ce71487b",
+  "title": "PhoenixGeneralAudience",
+  "description": "PhoenixGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "e97659b501af4e3981d5430dad170911",
+  "status": "ACTIVE",
+  "creationDate": "2022-01-21T19:15:42.232Z",
+  "lastModifiedDate": "2023-02-07T17:55:28.496Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5dca75f685e542c784e6a028ce71487b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

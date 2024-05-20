@@ -1,0 +1,34 @@
+{
+  "id": "46b433e7f182408f85279dbe3f372ed0",
+  "title": "GreenLizardGeneralAudience",
+  "description": "GreenLizardGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "00c65ba7c01f4b678fdd70b624bda179",
+  "status": "ACTIVE",
+  "creationDate": "2021-07-14T22:08:23.129Z",
+  "lastModifiedDate": "2023-08-04T19:38:16.481Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "46b433e7f182408f85279dbe3f372ed0",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Eneida Games SA",
+  "developerId": "o-a7rm9h7dmjgqzswt579qrunmbma64g",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

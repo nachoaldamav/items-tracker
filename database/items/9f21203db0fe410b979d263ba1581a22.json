@@ -1,0 +1,35 @@
+{
+  "id": "9f21203db0fe410b979d263ba1581a22",
+  "title": "EuterpeGeneralAudience",
+  "description": "EuterpeGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "870929e8b7fb4e2b986c1a3f0a6ff38d",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-15T08:48:44.406Z",
+  "lastModifiedDate": "2022-04-20T16:07:40.473Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9f21203db0fe410b979d263ba1581a22",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Postmeta Games",
+  "developerId": "o-ptrc3tlq66gg7gsku56pwafjwzs23b",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

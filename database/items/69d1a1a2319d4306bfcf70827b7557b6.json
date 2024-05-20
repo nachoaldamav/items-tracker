@@ -1,0 +1,72 @@
+{
+  "id": "69d1a1a2319d4306bfcf70827b7557b6",
+  "title": "Sora",
+  "description": "Sora",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "920fd14e9d90478ba2e9b5a5ae987b02",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-24T23:06:45.223Z",
+  "lastModifiedDate": "2021-01-27T17:27:07.071Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "920fd14e9d90478ba2e9b5a5ae987b02"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Sora"
+    }
+  },
+  "entitlementName": "69d1a1a2319d4306bfcf70827b7557b6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2fe62112a4854c6280ba128fae712c93",
+      "appId": "Sora",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-01-29T00:00:00.000Z"
+    }
+  ],
+  "developer": "2K Games CoreTech",
+  "developerId": "o-4182fad898be4907b36f756ddc8218",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567P4cdNfAsFSTxpzHbUnAh91Ik",
+  "unsearchable": true
+}

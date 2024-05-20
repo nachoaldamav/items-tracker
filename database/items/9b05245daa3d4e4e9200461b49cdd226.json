@@ -1,0 +1,89 @@
+{
+  "id": "9b05245daa3d4e4e9200461b49cdd226",
+  "title": "Fallout 4",
+  "description": "Fallout 4",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/9c1a74145a9145ec803d7452e80819a0/EGS_Fallout4_BethesdaGameStudios_S1_2560x1440-fb0e82fa71a74e750c95b57b91fc558d",
+      "md5": "fb0e82fa71a74e750c95b57b91fc558d",
+      "width": 2560,
+      "height": 1440,
+      "size": 694821,
+      "uploadedDate": "2024-04-02T09:13:33.919Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/9c1a74145a9145ec803d7452e80819a0/EGS_Fallout4_BethesdaGameStudios_S2_1200x1600-2b307b78180f2a6a2dc89ab1c20b3c1b",
+      "md5": "2b307b78180f2a6a2dc89ab1c20b3c1b",
+      "width": 1200,
+      "height": 1600,
+      "size": 509003,
+      "uploadedDate": "2024-04-02T09:13:36.962Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9c1a74145a9145ec803d7452e80819a0",
+  "status": "ACTIVE",
+  "creationDate": "2023-02-09T20:58:01.656Z",
+  "lastModifiedDate": "2024-04-25T00:11:06.570Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "9c1a74145a9145ec803d7452e80819a0"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/Fallout4 EPIC/Saves/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "molossusPublic"
+    }
+  },
+  "entitlementName": "9b05245daa3d4e4e9200461b49cdd226",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0ea28d0f10244ac2911182313d862297",
+      "appId": "61d52ce4d09d41e48800c22784d13ae8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567K8cwSyKpqtkrXVASBOrkpU8T",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

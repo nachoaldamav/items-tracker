@@ -1,0 +1,38 @@
+{
+  "id": "7fd9b2c231b64b6caf32d052e147d057",
+  "title": "FalconeGeneralAudience",
+  "description": "FalconeGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "31bd7140ab344cd59a770e14b2afbcea",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-06T21:41:49.885Z",
+  "lastModifiedDate": "2021-10-28T14:13:30.885Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7fd9b2c231b64b6caf32d052e147d057",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,37 @@
+{
+  "id": "9581ef02c5b14b86bf399bf5a0b1e38a",
+  "title": "ALP audience_Marker",
+  "description": "ALP audience_Marker",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "15e6680a0c164ee189fcc3eb10398fd6",
+  "status": "ACTIVE",
+  "creationDate": "2022-10-21T12:13:28.814Z",
+  "lastModifiedDate": "2022-11-15T16:25:21.310Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9581ef02c5b14b86bf399bf5a0b1e38a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

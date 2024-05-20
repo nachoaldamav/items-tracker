@@ -1,0 +1,94 @@
+{
+  "id": "75c10c15a7d741748968a93fa7e261da",
+  "title": "Serial Cleaners",
+  "description": "Serial Cleaners",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/96f4ce259e1b4845848399fc29c718fe/EGS_SerialCleaners_DrawDistanceSA_S1_2560x1440-7059a5d54039dbaedef2e6ec44685325",
+      "md5": "7059a5d54039dbaedef2e6ec44685325",
+      "width": 2560,
+      "height": 1440,
+      "size": 581319,
+      "uploadedDate": "2023-05-19T13:55:20.734Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/96f4ce259e1b4845848399fc29c718fe/EGS_SerialCleaners_DrawDistanceSA_S2_1200x1600-8d5b9cf164776a9625fa4f39024d1eea",
+      "md5": "8d5b9cf164776a9625fa4f39024d1eea",
+      "width": 1200,
+      "height": 1600,
+      "size": 933304,
+      "uploadedDate": "2023-05-19T13:55:25.147Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "96f4ce259e1b4845848399fc29c718fe",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-09T12:58:53.422Z",
+  "lastModifiedDate": "2023-05-23T22:44:01.731Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "96f4ce259e1b4845848399fc29c718fe"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/DrawDistance/SerialCleaners/Epic"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SerialCleaners"
+    }
+  },
+  "entitlementName": "75c10c15a7d741748968a93fa7e261da",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "068e11c0298341c193b3636c43527aab",
+      "appId": "b74faf21fd3248be924d946f747bd8c3",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,38 @@
+{
+  "id": "034ff57a88cb48c9abb3aea0d5abb7bf",
+  "title": "SodiumDigitalExtrasAudience",
+  "description": "SodiumDigitalExtrasAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "44471bc726304926b6f7da78722c7029",
+  "status": "ACTIVE",
+  "creationDate": "2021-10-27T00:28:46.368Z",
+  "lastModifiedDate": "2021-12-06T18:02:45.109Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "034ff57a88cb48c9abb3aea0d5abb7bf",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ec681ce01c354bcda4d6f9be13275b6c",
+  "title": "RubidiumGeneralAudience",
+  "description": "RubidiumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "05e091079c41495ab9df8b3200646085",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-25T17:20:13.195Z",
+  "lastModifiedDate": "2021-04-12T19:29:10.370Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ec681ce01c354bcda4d6f9be13275b6c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Plug In Digital SAS",
+  "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

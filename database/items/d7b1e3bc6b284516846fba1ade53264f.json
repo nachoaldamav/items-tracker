@@ -1,0 +1,86 @@
+{
+  "id": "d7b1e3bc6b284516846fba1ade53264f",
+  "title": "Realm Royale Reforged",
+  "description": "Realm Royale Reforged",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/5fcf6f3031c547f789e29c18b422ca67/RRR_Release_BoxArt_EGS_LandscapeImage_2560x1440_2560x1440-e03d07e9e8609a91fce2c02495853902",
+      "md5": "e03d07e9e8609a91fce2c02495853902",
+      "width": 2560,
+      "height": 1440,
+      "size": 281926,
+      "uploadedDate": "2023-05-15T15:21:54.043Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/5fcf6f3031c547f789e29c18b422ca67/RRR_Release_BoxArt_EGS_PortraitImage_860x1148_860x1148-6f6940d46fe30c28e6b1aa38e90ad7ea",
+      "md5": "6f6940d46fe30c28e6b1aa38e90ad7ea",
+      "width": 860,
+      "height": 1148,
+      "size": 377352,
+      "uploadedDate": "2023-05-15T15:22:00.497Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5fcf6f3031c547f789e29c18b422ca67",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-02T15:21:45.242Z",
+  "lastModifiedDate": "2023-05-17T12:06:11.337Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "realmroyalereforged"
+    }
+  },
+  "entitlementName": "d7b1e3bc6b284516846fba1ade53264f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "91c5851ef2d04587b1255686be63e47a",
+      "appId": "435a90db24d74aa39050dbbdcdd0613e",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2022-07-07T23:56:58.762Z"
+    }
+  ],
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567Zzz6CbYL7XLfZ5qfUhpfSqd1",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

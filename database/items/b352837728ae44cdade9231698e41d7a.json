@@ -1,0 +1,34 @@
+{
+  "id": "b352837728ae44cdade9231698e41d7a",
+  "title": "MarbleGeneralAudience",
+  "description": "MarbleGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "f7d5c4e850874d2c9fa043e9516a7a49",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-28T21:52:57.896Z",
+  "lastModifiedDate": "2020-12-01T14:30:53.690Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b352837728ae44cdade9231698e41d7a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "DONTNOD",
+  "developerId": "o-eysjucd4z2lxwlzrkttjmmjxcu26a3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

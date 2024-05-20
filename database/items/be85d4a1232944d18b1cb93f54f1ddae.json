@@ -1,0 +1,37 @@
+{
+  "id": "be85d4a1232944d18b1cb93f54f1ddae",
+  "title": "Project RA audience",
+  "description": "Project RA audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "6009be9994c2409099588cde6f3a5ed0",
+  "status": "ACTIVE",
+  "creationDate": "2022-10-19T02:49:19.222Z",
+  "lastModifiedDate": "2024-01-16T16:03:26.615Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "be85d4a1232944d18b1cb93f54f1ddae",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

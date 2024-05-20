@@ -1,0 +1,34 @@
+{
+  "id": "504aad2efa704da1a0c5644494031366",
+  "title": "ParinacotaGeneralAudience",
+  "description": "ParinacotaGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "d2d162953fec40e381867d7af8371362",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-30T16:52:05.374Z",
+  "lastModifiedDate": "2024-05-16T15:00:11.289Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "504aad2efa704da1a0c5644494031366",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "miHoYo Limited",
+  "developerId": "o-2g2utu2a6jpwemah96uyrf2l6jz2v2",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

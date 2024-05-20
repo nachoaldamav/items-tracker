@@ -1,0 +1,35 @@
+{
+  "id": "47b723ec923144a8800724d5109fbc38",
+  "title": "DahliaGeneralAudience",
+  "description": "DahliaGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "6fe830287e1244829c9bcdb4cef9fad5",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-08T23:59:22.744Z",
+  "lastModifiedDate": "2024-05-06T19:02:38.845Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "47b723ec923144a8800724d5109fbc38",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Offworld Industries",
+  "developerId": "o-ff2s24rywqcchllq89bl4uy957altp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

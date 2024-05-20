@@ -1,0 +1,34 @@
+{
+  "id": "311d868cb0744687b16e83a40b467cc1",
+  "title": "MetallicGoldGeneralAudience",
+  "description": "MetallicGoldGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "e560cd4bb151479394d0d634cabc9e49",
+  "status": "ACTIVE",
+  "creationDate": "2021-07-14T20:10:13.303Z",
+  "lastModifiedDate": "2021-09-23T00:30:49.425Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "311d868cb0744687b16e83a40b467cc1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "From South Games",
+  "developerId": "o-m9rkvpxykn5gnq55bbyymgsup62yzt",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

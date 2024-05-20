@@ -1,0 +1,34 @@
+{
+  "id": "b0c4de4204da464dad57b460a7bd40c2",
+  "title": "Gadwall Dev Nightly audience",
+  "description": "Gadwall Dev Nightly audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "3d2413f8de9e4e30b994b20b4eebb18c",
+  "status": "ACTIVE",
+  "creationDate": "2022-11-08T19:41:05.809Z",
+  "lastModifiedDate": "2022-11-08T19:41:05.919Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b0c4de4204da464dad57b460a7bd40c2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Rebellion",
+  "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

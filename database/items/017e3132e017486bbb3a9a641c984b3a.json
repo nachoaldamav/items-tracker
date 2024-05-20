@@ -1,0 +1,101 @@
+{
+  "id": "017e3132e017486bbb3a9a641c984b3a",
+  "title": "20XX",
+  "description": "20XX",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/4c7117cadb714722950338f02850fd8d/item/EGS_20XXHawkCharacterDLC_Batterystaple_AddOn_S1-2560x1440-32808983df5cca10375c4c2d20aafb7a.jpg",
+      "md5": "32808983df5cca10375c4c2d20aafb7a",
+      "width": 2560,
+      "height": 1440,
+      "size": 985758,
+      "uploadedDate": "2020-07-28T21:56:03.611Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/4c7117cadb714722950338f02850fd8d/item/EGS_20XXHawkCharacterDLC_Batterystaple_AddOn_S2-1200x1600-3a59b647af6ca43a378eaf0fce7a8ff5.jpg",
+      "md5": "3a59b647af6ca43a378eaf0fce7a8ff5",
+      "width": 1200,
+      "height": 1600,
+      "size": 698827,
+      "uploadedDate": "2020-07-28T21:56:15.899Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4c7117cadb714722950338f02850fd8d",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-12T18:15:44.465Z",
+  "lastModifiedDate": "2020-07-30T04:12:40.355Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "4c7117cadb714722950338f02850fd8d"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/20XX/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav,*.key,*.opt"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TwentyXX"
+    }
+  },
+  "entitlementName": "017e3132e017486bbb3a9a641c984b3a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c3a8900ad619457f9b2526fb2723770f",
+      "appId": "Quail",
+      "platform": [
+        "Windows",
+        "Win32"
+      ],
+      "dateAdded": "2019-10-07T00:00:00.000Z"
+    }
+  ],
+  "developer": "Batterystaple Games",
+  "developerId": "o-awffcfyn9p6246bc5np53dac5xa3mt",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567jmG7kJKZmDtY3KJKm7b6vVzB",
+  "unsearchable": true
+}

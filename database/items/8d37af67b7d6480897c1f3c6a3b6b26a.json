@@ -1,0 +1,35 @@
+{
+  "id": "8d37af67b7d6480897c1f3c6a3b6b26a",
+  "title": "ThorneGeneralAudience",
+  "description": "ThorneGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "942b65a56ff448f6be529cd07b407bb0",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-06T21:06:15.486Z",
+  "lastModifiedDate": "2020-10-27T13:50:33.487Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "8d37af67b7d6480897c1f3c6a3b6b26a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ab1c77dffceb4ac79b56c3f174b7c29c",
+  "title": "AmericanoGeneralAudience",
+  "description": "AmericanoGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/c0b9d91377a840718e6869f0cd780a55/item/ESRB_StarbaseStartopia-842x485-a43a21152862569c810bc0a08d315c99.png",
+      "md5": "a43a21152862569c810bc0a08d315c99",
+      "width": 842,
+      "height": 485,
+      "size": 78082,
+      "uploadedDate": "2021-02-03T19:40:24.518Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c0b9d91377a840718e6869f0cd780a55",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-03T19:49:37.652Z",
+  "lastModifiedDate": "2021-02-05T13:47:18.401Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ab1c77dffceb4ac79b56c3f174b7c29c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

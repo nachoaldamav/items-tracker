@@ -1,0 +1,94 @@
+{
+  "id": "9a8a170855694da7a868190aaae9f8f9",
+  "title": "Risk of Rain 2",
+  "description": "Risk of Rain 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/0dfcaeede0214b80b597f08fd7d64b1b/EGS_RiskofRain2_Wide_2560x1440-d4234b1ae266a3c111a537c877bbec99",
+      "md5": "d4234b1ae266a3c111a537c877bbec99",
+      "width": 2560,
+      "height": 1440,
+      "size": 680682,
+      "uploadedDate": "2022-04-19T15:49:11.809Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/0dfcaeede0214b80b597f08fd7d64b1b/EGS_RiskofRain2_Tall_1200x1600-6a7bab9dc5b674e0c6f6ea856c4c9649",
+      "md5": "6a7bab9dc5b674e0c6f6ea856c4c9649",
+      "width": 1200,
+      "height": 1600,
+      "size": 517410,
+      "uploadedDate": "2022-04-19T15:49:17.324Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0dfcaeede0214b80b597f08fd7d64b1b",
+  "status": "ACTIVE",
+  "creationDate": "2021-10-21T22:37:56.356Z",
+  "lastModifiedDate": "2024-01-15T15:38:03.601Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "0dfcaeede0214b80b597f08fd7d64b1b"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Risk of Rain 2_Data/UserProfiles/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RiskofRain2"
+    }
+  },
+  "entitlementName": "9a8a170855694da7a868190aaae9f8f9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "52be0bd8f7464c8faaeac6e8f640d100",
+      "appId": "4b3dcc5723454a47a9112d8fe8fd5f5c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Gearbox Publishing",
+  "developerId": "o-dcmk65hvycy3kndmqvfg3yn3up87jn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567HqufD74QL5Jq8W4LRxHrv2BR",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

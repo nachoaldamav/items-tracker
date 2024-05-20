@@ -1,0 +1,105 @@
+{
+  "id": "5729e4a7132e4e078cec459b281dae8e",
+  "title": "Frostpunk",
+  "description": "Frostpunk",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Frostpunk_11bitstudios_S2_1200x1600-c71dc27cfe505c6c662c49011b36a0c5",
+      "md5": "c71dc27cfe505c6c662c49011b36a0c5",
+      "width": 1200,
+      "height": 1600,
+      "size": 835884,
+      "uploadedDate": "2021-05-28T01:22:01.569Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Frostpunk_11bitstudios_S1_2560x1440-ef2f4d458120af0839dde35b1a022828",
+      "md5": "ef2f4d458120af0839dde35b1a022828",
+      "width": 2560,
+      "height": 1440,
+      "size": 890477,
+      "uploadedDate": "2021-05-28T01:22:07.384Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "be886d9db65047a89b24cd4317695f18",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-12T18:13:09.933Z",
+  "lastModifiedDate": "2021-06-14T16:28:55.628Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "be886d9db65047a89b24cd4317695f18"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/11bitstudios/Frostpunk/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "config.bin, iPhoneProfiles"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "5000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Frostpunk"
+    }
+  },
+  "entitlementName": "5729e4a7132e4e078cec459b281dae8e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "09f0280926e546599c459f3ebcff893d",
+      "appId": "b2e00fc16632475782a7730d1bd7cb60",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-07T00:00:00.000Z"
+    }
+  ],
+  "developer": "11 Bit Studios",
+  "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567DL9AT4gnxwfbNOQn0C3DZQDh",
+  "unsearchable": true
+}

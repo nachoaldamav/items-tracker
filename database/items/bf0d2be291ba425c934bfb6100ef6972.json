@@ -1,0 +1,37 @@
+{
+  "id": "bf0d2be291ba425c934bfb6100ef6972",
+  "title": "SteampunkBundle audience",
+  "description": "SteampunkBundle audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c4395ba88061417a8ac6bd3fdc7fba79",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-02T09:12:13.717Z",
+  "lastModifiedDate": "2024-02-09T16:02:09.636Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "bf0d2be291ba425c934bfb6100ef6972",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "PQube",
+  "developerId": "o-9l5q72cwxf99kwzprbq6f558383l2l",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

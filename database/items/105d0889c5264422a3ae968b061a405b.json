@@ -1,0 +1,89 @@
+{
+  "id": "105d0889c5264422a3ae968b061a405b",
+  "title": "PAYDAY 3",
+  "description": "PAYDAY 3",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/8962863aee2f4e7483fc37d4719c3f69/EGS_PAYDAY3wishlistonlysubmission_StarbreezeStudios_Editions_S2_1200x1600-25fe765b7de88abddc2c6e522e412d4c",
+      "md5": "25fe765b7de88abddc2c6e522e412d4c",
+      "width": 1200,
+      "height": 1600,
+      "size": 274609,
+      "uploadedDate": "2023-06-06T19:32:49.334Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/8962863aee2f4e7483fc37d4719c3f69/EGS_PAYDAY3wishlistonlysubmission_StarbreezeStudios_Editions_S1_2560x1440-b54adfda1e1e69f0c8e557ec18a6e7bc",
+      "md5": "b54adfda1e1e69f0c8e557ec18a6e7bc",
+      "width": 2560,
+      "height": 1440,
+      "size": 296257,
+      "uploadedDate": "2023-06-06T19:32:51.897Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8962863aee2f4e7483fc37d4719c3f69",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-02T20:27:03.802Z",
+  "lastModifiedDate": "2024-03-22T22:47:13.207Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "8962863aee2f4e7483fc37d4719c3f69"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PAYDAY3"
+    }
+  },
+  "entitlementName": "105d0889c5264422a3ae968b061a405b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3ab88eb332ee44e4a2ec7edc637b63b7",
+      "appId": "00afc6ee6c3b4f78a72b4d4472fef355",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Plaion",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567qpimi0wZq8YBXUpIH3E6OwHC",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

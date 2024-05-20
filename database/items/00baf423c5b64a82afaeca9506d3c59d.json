@@ -1,0 +1,35 @@
+{
+  "id": "00baf423c5b64a82afaeca9506d3c59d",
+  "title": "PlutoniumGeneralAudience",
+  "description": "PlutoniumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "3bb4afc31dd241c787bad056e9b8dbf9",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-19T02:13:53.273Z",
+  "lastModifiedDate": "2024-01-25T19:16:20.733Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "00baf423c5b64a82afaeca9506d3c59d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Akupara Games",
+  "developerId": "o-vzv8n7jse99sluj4vaa8522rh45cvg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

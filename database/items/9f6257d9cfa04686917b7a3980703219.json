@@ -1,0 +1,107 @@
+{
+  "id": "9f6257d9cfa04686917b7a3980703219",
+  "title": "Pathfinder Kingmaker - Enhanced Plus Edition",
+  "description": "Pathfinder: Kingmaker - Enhanced Plus Edition",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathfinderKingmakerEnhancedPlusEdition_OwlcatGames_S1_2560x1440-c4bf090dc58356921f9cfc3506ac020f",
+      "md5": "c4bf090dc58356921f9cfc3506ac020f",
+      "width": 2560,
+      "height": 1440,
+      "size": 848336,
+      "uploadedDate": "2021-04-21T18:02:32.335Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathfinderKingmakerEnhancedPlusEdition_OwlcatGames_S2_1200x1600-658b32789d83b26b8fabef95e51dc919",
+      "md5": "658b32789d83b26b8fabef95e51dc919",
+      "width": 1200,
+      "height": 1600,
+      "size": 409479,
+      "uploadedDate": "2021-04-21T18:02:44.976Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6daaf10529e94fccaa8ee43b66adbe4a",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-21T16:50:58.009Z",
+  "lastModifiedDate": "2022-09-19T18:02:56.218Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "6daaf10529e94fccaa8ee43b66adbe4a"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Owlcat Games/Pathfinder Kingmaker/Saved Games/"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Owlcat Games/Pathfinder Kingmaker/Saved Games/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "2000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PathfinderKingmaker"
+    }
+  },
+  "entitlementName": "9f6257d9cfa04686917b7a3980703219",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a4ae566e48ad48e8a6ac9fd4d0026b82",
+      "appId": "b21f394024ef4b75afc2f09c04f0b9f1",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-04-21T00:00:00.000Z"
+    }
+  ],
+  "developer": "Plaion",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567OpQuyuCHPl61Zf7G05Cf2I8E",
+  "unsearchable": true
+}

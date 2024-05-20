@@ -1,0 +1,38 @@
+{
+  "id": "db87207374694a59b538c54402d5daf0",
+  "title": "Starter Pack TEST audience",
+  "description": "Starter Pack TEST audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "f698d5d792654ac99f47d67e93916bef",
+  "status": "ACTIVE",
+  "creationDate": "2022-01-25T22:53:15.540Z",
+  "lastModifiedDate": "2022-02-14T22:25:58.372Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "db87207374694a59b538c54402d5daf0",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Playwing LTD",
+  "developerId": "o-z69v89gad8w2prqetqc35tegga56sx",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

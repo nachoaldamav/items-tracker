@@ -1,0 +1,35 @@
+{
+  "id": "6b9a7e3c5b84402fb2c582e39a23f46c",
+  "title": "GlazedStandardAudience",
+  "description": "GlazedStandardAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "bafe9fd9f4f24ebea94a70a1fb3043fe",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-21T13:40:58.016Z",
+  "lastModifiedDate": "2020-09-21T13:41:18.379Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "6b9a7e3c5b84402fb2c582e39a23f46c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "IO Interactive",
+  "developerId": "o-ank8fbh38u9uzqbag2a5yt5xexb4yr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

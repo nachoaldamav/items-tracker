@@ -1,0 +1,98 @@
+{
+  "id": "1953c554c23a4af1b2f63b3a67f322aa",
+  "title": "Barony",
+  "description": "Barony",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/b79cdb6e07ea4ce9a82c00a0fb079ca5/EGS_Barony_TurningWheelLLC_S1_2560x1440-539c98848af913bf34550c4a6816afc4",
+      "md5": "539c98848af913bf34550c4a6816afc4",
+      "width": 2560,
+      "height": 1440,
+      "size": 1023337,
+      "uploadedDate": "2022-11-17T15:04:10.085Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/b79cdb6e07ea4ce9a82c00a0fb079ca5/EGS_Barony_TurningWheelLLC_S2_1200x1600-e71ba57b3bc17f4aae5aab41d6830758",
+      "md5": "e71ba57b3bc17f4aae5aab41d6830758",
+      "width": 1200,
+      "height": 1600,
+      "size": 983574,
+      "uploadedDate": "2022-11-17T15:04:12.857Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b79cdb6e07ea4ce9a82c00a0fb079ca5",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-04T07:17:41.808Z",
+  "lastModifiedDate": "2023-03-02T08:20:54.525Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "b79cdb6e07ea4ce9a82c00a0fb079ca5"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/savegames/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Barony"
+    }
+  },
+  "entitlementName": "1953c554c23a4af1b2f63b3a67f322aa",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9f8f5ec791a64ee7b870e7616929e3b9",
+      "appId": "c98c4cd6d83a4524b4b22f13af95a104",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-04-30T00:00:00.000Z"
+    }
+  ],
+  "developer": "Turning Wheel LLC",
+  "developerId": "o-34s68auzg6nxnrh76es3ph7sgpuz96",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567vlBqfZlIP8pjR7744Pppd0OM",
+  "requiresSecureAccount": true,
+  "unsearchable": true
+}

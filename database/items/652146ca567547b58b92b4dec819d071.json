@@ -1,0 +1,90 @@
+{
+  "id": "652146ca567547b58b92b4dec819d071",
+  "title": "Disciples: Liberation",
+  "description": "Disciples: Liberation",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ff17044fb2804a4aa8066dde0626514d/item/EGS_DisciplesLiberation_FrimaStudio_S5-1920x1080-086be19be1cdd3a7d7dff101c827803a.jpg",
+      "md5": "086be19be1cdd3a7d7dff101c827803a",
+      "width": 1920,
+      "height": 1080,
+      "size": 367487,
+      "uploadedDate": "2021-03-25T17:54:47.941Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ff17044fb2804a4aa8066dde0626514d/item/EGS_DisciplesLiberation_FrimaStudio_S6-1200x1600-89473ab64a7d3d531e88c921340ed608.jpg",
+      "md5": "89473ab64a7d3d531e88c921340ed608",
+      "width": 1200,
+      "height": 1600,
+      "size": 398644,
+      "uploadedDate": "2021-03-25T17:54:58.469Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ff17044fb2804a4aa8066dde0626514d",
+  "status": "ACTIVE",
+  "creationDate": "2020-12-07T18:14:53.903Z",
+  "lastModifiedDate": "2021-10-21T15:54:39.760Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ff17044fb2804a4aa8066dde0626514d"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DisciplesLiberation"
+    }
+  },
+  "entitlementName": "652146ca567547b58b92b4dec819d071",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "610f1525947c402ea9a16e0c3ebe8021",
+      "appId": "97ccc4e607614ceabc82f880b0d41651",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-12-07T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567PfZsnBxAjdPX9Sxg4wf5Xd6k",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

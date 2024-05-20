@@ -1,0 +1,66 @@
+{
+  "id": "c501de6a80ce442ebc603e1f1bee3127",
+  "title": "Defend the Rook",
+  "description": "Defend the Rook",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DefendtheRook_OneUpPlus_S2_1200x1600-aa4c6d0c1d42191e8a6bd9a27fd9c5e2",
+      "md5": "aa4c6d0c1d42191e8a6bd9a27fd9c5e2",
+      "width": 1200,
+      "height": 1600,
+      "size": 419142,
+      "uploadedDate": "2021-11-11T15:20:06.428Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DefendtheRook_OneUpPlus_S1_2560x1440-09fdcaf083603556c79ac79eb2cbd019",
+      "md5": "09fdcaf083603556c79ac79eb2cbd019",
+      "width": 2560,
+      "height": 1440,
+      "size": 670579,
+      "uploadedDate": "2021-11-11T15:20:18.163Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ff9c7b46378a471a9b7291512b025f57",
+  "status": "ACTIVE",
+  "creationDate": "2021-07-20T00:33:19.050Z",
+  "lastModifiedDate": "2023-08-17T18:48:16.461Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/One Up Plus/Defend The Rook/SaveData.txt "
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DefendtheRook"
+    }
+  },
+  "entitlementName": "c501de6a80ce442ebc603e1f1bee3127",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Goblinz Studio SAS",
+  "developerId": "o-7jby5x5ez3xmyf5qhgur72hlye379e",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

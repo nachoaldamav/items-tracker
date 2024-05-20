@@ -1,0 +1,85 @@
+{
+  "id": "03b7e0d2a6b041c19ec09ebb15e8f3e4",
+  "title": "Hotel: A Resort Simulator",
+  "description": "Hotel: A Resort Simulator",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/b6a1a2bc8ab94b7fab473216aee35a3e/EGS_HotelAResortSimulator_RingZero_S1_2560x1440-4eceb389b6c8f7f36837b790339d897d",
+      "md5": "4eceb389b6c8f7f36837b790339d897d",
+      "width": 2560,
+      "height": 1440,
+      "size": 736643,
+      "uploadedDate": "2024-01-17T21:48:29.055Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/b6a1a2bc8ab94b7fab473216aee35a3e/EGS_HotelAResortSimulator_RingZero_S2_1200x1600-e9832c930e6c8d14ef42eae93b5a1955",
+      "md5": "e9832c930e6c8d14ef42eae93b5a1955",
+      "width": 1200,
+      "height": 1600,
+      "size": 745947,
+      "uploadedDate": "2024-01-17T21:48:33.429Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b6a1a2bc8ab94b7fab473216aee35a3e",
+  "status": "ACTIVE",
+  "creationDate": "2021-08-01T19:01:38.477Z",
+  "lastModifiedDate": "2024-01-23T18:49:57.436Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "b6a1a2bc8ab94b7fab473216aee35a3e"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HotelAResortSim"
+    }
+  },
+  "entitlementName": "03b7e0d2a6b041c19ec09ebb15e8f3e4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "491127234e434c7a80e818ee5d6fe1fd",
+      "appId": "654f1de002dc4476b53bc3967ca47e08",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Nacon",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi45678HBlX0yJexssyWtl2rNgaS1V",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

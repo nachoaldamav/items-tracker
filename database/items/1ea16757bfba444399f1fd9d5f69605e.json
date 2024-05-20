@@ -1,0 +1,35 @@
+{
+  "id": "1ea16757bfba444399f1fd9d5f69605e",
+  "title": "TerpsichoreGeneralAudience",
+  "description": "TerpsichoreGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "03fd634dc7f24662ac5545277b89a826",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-17T19:54:54.443Z",
+  "lastModifiedDate": "2024-04-19T07:43:29.063Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "1ea16757bfba444399f1fd9d5f69605e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Postmeta Games",
+  "developerId": "o-ptrc3tlq66gg7gsku56pwafjwzs23b",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

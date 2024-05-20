@@ -1,0 +1,38 @@
+{
+  "id": "739cb04421b5431689242f1636324bc2",
+  "title": "ElaraGeneralAudience",
+  "description": "ElaraGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2cb0f22cc9db4ecba89d0774512294ff",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-03T22:20:16.972Z",
+  "lastModifiedDate": "2023-10-04T16:02:20.458Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "739cb04421b5431689242f1636324bc2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Assemble Entertainment GmbH",
+  "developerId": "o-r4u88vbd2uqmsje42jg2uwtnqfd9tl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,37 @@
+{
+  "id": "0c003ed8c8df4f0cb026689540651ac8",
+  "title": "ChromiumDLC audience",
+  "description": "ChromiumDLC audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "efeffab890e0438abe36f643f5da5ca2",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-09T19:32:38.440Z",
+  "lastModifiedDate": "2024-04-23T15:35:49.295Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0c003ed8c8df4f0cb026689540651ac8",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Mode 7",
+  "developerId": "o-lkh7t5qntezpbc7y39r7hjpv8hg968",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

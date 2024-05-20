@@ -1,0 +1,37 @@
+{
+  "id": "95c62376d40a4778bd125a209d5907e4",
+  "title": "WarblerGeneralAudience",
+  "description": "WarblerGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "f541519f3d21457ba7dcf5b57f1014b2",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-27T22:05:04.372Z",
+  "lastModifiedDate": "2021-10-19T16:14:48.364Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "95c62376d40a4778bd125a209d5907e4",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Crytek GmbH",
+  "developerId": "o-3vwngp9neexv58akmmcd67srxym3a4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": true
+}

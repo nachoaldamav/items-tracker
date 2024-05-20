@@ -1,0 +1,88 @@
+{
+  "id": "21f28defae314f6682aaa71d4eaba7e3",
+  "title": "Sherlock Holmes The Awakened",
+  "description": "Sherlock Holmes The Awakened",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/f9bc208b965c4fb7afd0c842d764fc37/EGS_SherlockHolmesTheAwakened_Frogwares_S1_2560x1440-1478dec1467c4c12c7cf8b501e8e7d9b",
+      "md5": "1478dec1467c4c12c7cf8b501e8e7d9b",
+      "width": 2560,
+      "height": 1440,
+      "size": 310881,
+      "uploadedDate": "2023-02-28T14:35:35.088Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/f9bc208b965c4fb7afd0c842d764fc37/EGS_SherlockHolmesTheAwakened_Frogwares_S2_1200x1600-0ed490340fbe9567880c4751f6b9b10c",
+      "md5": "0ed490340fbe9567880c4751f6b9b10c",
+      "width": 1200,
+      "height": 1600,
+      "size": 664084,
+      "uploadedDate": "2023-02-28T14:35:44.259Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f9bc208b965c4fb7afd0c842d764fc37",
+  "status": "ACTIVE",
+  "creationDate": "2022-11-29T12:24:42.617Z",
+  "lastModifiedDate": "2024-05-20T09:25:38.279Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/SH3RE/Saved/SaveGames"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SherlockHolmesTA"
+    }
+  },
+  "entitlementName": "21f28defae314f6682aaa71d4eaba7e3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "741b06489de048b3bd1b83e085cd0e86",
+      "appId": "d0be91ce84ea4429adb1f794592c6b25",
+      "compatibleApps": [],
+      "platform": [],
+      "dateAdded": "2022-11-29T12:30:00.000Z"
+    }
+  ],
+  "developer": "Frogwares",
+  "developerId": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

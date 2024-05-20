@@ -1,0 +1,35 @@
+{
+  "id": "06151cd7961e4505b82018cdd1e7a53e",
+  "title": "BroccoliGeneralAudience",
+  "description": "BroccoliGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "cb6352a885e2466d900f4f1b737c295a",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-13T21:40:09.854Z",
+  "lastModifiedDate": "2020-12-17T15:32:47.800Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "06151cd7961e4505b82018cdd1e7a53e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "NIS America, Inc.",
+  "developerId": "o-24ec9efll733ggh8wybar3x8zetflu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

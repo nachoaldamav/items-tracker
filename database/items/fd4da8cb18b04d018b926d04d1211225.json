@@ -1,0 +1,38 @@
+{
+  "id": "fd4da8cb18b04d018b926d04d1211225",
+  "title": "Map Extension audience",
+  "description": "Map Extension audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2b09519576cb4276bfd8df52f5288e4a",
+  "status": "ACTIVE",
+  "creationDate": "2022-05-04T12:42:54.076Z",
+  "lastModifiedDate": "2023-05-16T14:30:02.042Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "fd4da8cb18b04d018b926d04d1211225",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Astragon Entertainment GmbH",
+  "developerId": "o-rq9c97g8tttn6czdh2kd9vubqbunvf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

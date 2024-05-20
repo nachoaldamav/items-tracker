@@ -1,0 +1,102 @@
+{
+  "id": "ee3c9b2831cf4e8c9a6dc407bcb2890a",
+  "title": "Cities Skylines",
+  "description": "Cities Skylines",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/item/EGS_CitiesSkylines_ColossalOrder_S2-1200x1600-753257537706de74735d2bc3eb656b67.jpg",
+      "md5": "753257537706de74735d2bc3eb656b67",
+      "width": 1200,
+      "height": 1600,
+      "size": 1008041,
+      "uploadedDate": "2020-12-02T07:54:17.379Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/item/EGS_CitiesSkylines_ColossalOrder_S3-2560x1440-14df106873c918591e49bd9604841e83.jpg",
+      "md5": "14df106873c918591e49bd9604841e83",
+      "width": 2560,
+      "height": 1440,
+      "size": 1006089,
+      "uploadedDate": "2020-12-02T07:54:34.149Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6009be9994c2409099588cde6f3a5ed0",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-29T19:25:33.189Z",
+  "lastModifiedDate": "2024-04-02T16:13:58.705Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "6009be9994c2409099588cde6f3a5ed0"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Colossal Order/Cities_Skylines/Saves/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "50000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CitiesSkylines"
+    }
+  },
+  "entitlementName": "ee3c9b2831cf4e8c9a6dc407bcb2890a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "01b27c353f5843ad830633032b7bb2c6",
+      "appId": "bcbc03d8812a44c18f41cf7d5f849265",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-03T00:00:00.000Z"
+    }
+  ],
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [
+    "(egstore && paradoxinteractive)"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567FRYA6nWZSLA5b15rjW1VpEUl",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

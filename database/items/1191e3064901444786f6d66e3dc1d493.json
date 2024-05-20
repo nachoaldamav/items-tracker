@@ -1,0 +1,37 @@
+{
+  "id": "1191e3064901444786f6d66e3dc1d493",
+  "title": "DimidiumGeneralAudience",
+  "description": "DimidiumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "8b2f4c9ee4e74d05b801565de8fd4500",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-16T18:31:18.920Z",
+  "lastModifiedDate": "2023-07-25T20:04:17.770Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "1191e3064901444786f6d66e3dc1d493",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "LCG Entertainment, Inc.",
+  "developerId": "o-w6l7l9e6c93j85x29twne9ae6su4jt",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

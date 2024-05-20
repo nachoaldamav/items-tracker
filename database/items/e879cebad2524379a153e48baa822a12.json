@@ -1,0 +1,37 @@
+{
+  "id": "e879cebad2524379a153e48baa822a12",
+  "title": "arion SB 4 audience_marker",
+  "description": "arion SB 4 audience_marker",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "03208f1f61764f5a8f6b7ea24c56edf1",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-23T09:57:57.324Z",
+  "lastModifiedDate": "2023-04-04T14:57:49.616Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e879cebad2524379a153e48baa822a12",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

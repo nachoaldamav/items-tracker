@@ -1,0 +1,34 @@
+{
+  "id": "54be332400c641e2bde800403ef8b1a2",
+  "title": "ViennaGeneralAudience",
+  "description": "ViennaGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "55b3157105b645dc8d26b39d3804944c",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-12T17:08:51.473Z",
+  "lastModifiedDate": "2021-11-04T17:17:56.746Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "54be332400c641e2bde800403ef8b1a2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Snowman",
+  "developerId": "o-z3ekfrqrj66t7w5jnrxdjhknzm826c",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

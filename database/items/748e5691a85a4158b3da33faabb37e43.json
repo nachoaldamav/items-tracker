@@ -1,0 +1,97 @@
+{
+  "id": "748e5691a85a4158b3da33faabb37e43",
+  "title": "Eximius: Seize the Frontline",
+  "description": "Eximius: Seize the Frontline",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/1c943de0163f4f0982f34dc0fc37dce9/EGS_EximiusSeizetheFrontline_AmmoboxStudios_S1_2560x1440-afd78f58327ae2bf5ae3e6f38ea0b6b3",
+      "md5": "afd78f58327ae2bf5ae3e6f38ea0b6b3",
+      "width": 2560,
+      "height": 1440,
+      "size": 970042,
+      "uploadedDate": "2022-12-30T15:30:23.030Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/1c943de0163f4f0982f34dc0fc37dce9/EGS_EximiusSeizetheFrontline_AmmoboxStudios_S2_1200x1600-24153e192f3e0c0d73cf90ce90f1741f",
+      "md5": "24153e192f3e0c0d73cf90ce90f1741f",
+      "width": 1200,
+      "height": 1600,
+      "size": 849295,
+      "uploadedDate": "2022-12-30T15:30:26.475Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1c943de0163f4f0982f34dc0fc37dce9",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-06T08:06:39.612Z",
+  "lastModifiedDate": "2022-12-30T15:30:32.379Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "1c943de0163f4f0982f34dc0fc37dce9"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/ProjectCombine/Saved/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.profile,*.sav"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EximiusSeizeTheFrontline"
+    }
+  },
+  "entitlementName": "748e5691a85a4158b3da33faabb37e43",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "38f41c3a3745433c999fa04d4412ce11",
+      "appId": "70f92598b33d42e290e411f07397aeee",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Ammobox Studios",
+  "developerId": "o-ra8f9wn37aqs6xhjtlykr3bzw4jjzh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567L22GTWr6RaWq3IqmL76crl0Y",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

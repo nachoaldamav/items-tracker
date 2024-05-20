@@ -1,0 +1,102 @@
+{
+  "id": "2562e55bc1f74683ba6b5180103775e1",
+  "title": "Prison Architect",
+  "description": "Prison Architect",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/3ffb410dab2d409aacd39a1abc6fcbba/EGS_PrisonArchitect_DoubleEleven_S2_1200x1600-414a3c16492da2d1500fc942fae1ef10",
+      "md5": "414a3c16492da2d1500fc942fae1ef10",
+      "width": 1200,
+      "height": 1600,
+      "size": 341489,
+      "uploadedDate": "2021-12-01T11:55:21.027Z"
+    },
+    {
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/item/3ffb410dab2d409aacd39a1abc6fcbba/EGS_PrisonArchitect_DoubleEleven_S1_2560x1440-032995cc5b2eefb8ce2b7b3b446a76ce",
+      "md5": "032995cc5b2eefb8ce2b7b3b446a76ce",
+      "width": 2560,
+      "height": 1440,
+      "size": 597335,
+      "uploadedDate": "2021-12-01T11:55:23.703Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/3ffb410dab2d409aacd39a1abc6fcbba/EGS_PrisonArchitect_DoubleEleven_S1_2560x1440-032995cc5b2eefb8ce2b7b3b446a76ce_2560x1440-032995cc5b2eefb8ce2b7b3b446a76ce",
+      "md5": "032995cc5b2eefb8ce2b7b3b446a76ce",
+      "width": 2560,
+      "height": 1440,
+      "size": 597335,
+      "uploadedDate": "2022-09-22T19:13:26.200Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3ffb410dab2d409aacd39a1abc6fcbba",
+  "status": "ACTIVE",
+  "creationDate": "2021-10-15T22:50:02.634Z",
+  "lastModifiedDate": "2024-04-02T16:22:18.338Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "3ffb410dab2d409aacd39a1abc6fcbba"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "eurekaPublic"
+    }
+  },
+  "entitlementName": "2562e55bc1f74683ba6b5180103775e1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0c84d72b46384475b339490266fcb3c9",
+      "appId": "668ffa8fce0847ef9f1c005995cee6df",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-12-08T16:40:00.000Z"
+    }
+  ],
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [
+    "(egstore && paradoxinteractive)"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567V07yC5H7ficsnXr1R1kb3QTU",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

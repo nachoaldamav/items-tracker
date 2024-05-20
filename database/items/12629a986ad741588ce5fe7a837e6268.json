@@ -1,0 +1,94 @@
+{
+  "id": "12629a986ad741588ce5fe7a837e6268",
+  "title": "Ironcast",
+  "description": "Ironcast",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/593cf912-972f-47e3-b135-fccf3f29d3df_1200x1600-22aef3da3e959fb2d715af7a0f6014f0",
+      "md5": "22aef3da3e959fb2d715af7a0f6014f0",
+      "width": 1200,
+      "height": 1600,
+      "size": 796684,
+      "uploadedDate": "2021-06-24T07:23:48.909Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/743ba10b-3846-411e-bc6e-d0398a94b9a9_2560x1440-37817b67478acbda7c7f709773cce0db",
+      "md5": "37817b67478acbda7c7f709773cce0db",
+      "width": 2560,
+      "height": 1440,
+      "size": 701607,
+      "uploadedDate": "2021-06-24T07:23:55.713Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8e56fc9fc0fb4f18af0592c74ad896ba",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-18T20:19:53.982Z",
+  "lastModifiedDate": "2021-07-02T15:05:01.479Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "8e56fc9fc0fb4f18af0592c74ad896ba"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Ironcast/0/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Ironcast"
+    }
+  },
+  "entitlementName": "12629a986ad741588ce5fe7a837e6268",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1abba2e536884d539a79f959656f0f36",
+      "appId": "ac8f20a7931e4d63a1db4dc1267ec3d1",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Ripstone Ltd",
+  "developerId": "o-fbx9l7z95axq9s73trhbttadbareuq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi45671YU0FV5i79Vkh1DWPU34Jyu4",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

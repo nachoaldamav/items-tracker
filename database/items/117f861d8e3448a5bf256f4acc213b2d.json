@@ -1,0 +1,91 @@
+{
+  "id": "117f861d8e3448a5bf256f4acc213b2d",
+  "title": "Warhammer 40,000: Rogue Trader",
+  "description": "Warhammer 40,000: Rogue Trader",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/cb88aea9aed742e4a911a65c4898d857/EGS_Warhammer40000RogueTrader_OwlcatGames_S1_2560x1440-fedc64deb9b50629ff1b2205b515f595",
+      "md5": "fedc64deb9b50629ff1b2205b515f595",
+      "width": 2560,
+      "height": 1440,
+      "size": 484286,
+      "uploadedDate": "2023-09-29T09:05:04.318Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/cb88aea9aed742e4a911a65c4898d857/EGS_Warhammer40000RogueTrader_OwlcatGames_S2_1200x1600-8dfa0d14d08a40975cdf58694a03f55e",
+      "md5": "8dfa0d14d08a40975cdf58694a03f55e",
+      "width": 1200,
+      "height": 1600,
+      "size": 343593,
+      "uploadedDate": "2023-09-29T09:05:09.493Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cb88aea9aed742e4a911a65c4898d857",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-03T16:56:13.393Z",
+  "lastModifiedDate": "2024-04-04T10:37:01.087Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "cb88aea9aed742e4a911a65c4898d857"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "NotarizedAndSigned": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Warhammer40kRogue"
+    }
+  },
+  "entitlementName": "117f861d8e3448a5bf256f4acc213b2d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ad8f8df93b664a99b6ae88a6f174293c",
+      "appId": "bd9a502222954e3c9db5050dae41426c",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Owlcat Games",
+  "developerId": "o-c6k6ayaqexs4ufuzfxhjmwlenpzkxk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

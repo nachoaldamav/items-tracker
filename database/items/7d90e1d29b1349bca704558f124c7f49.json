@@ -1,0 +1,92 @@
+{
+  "id": "7d90e1d29b1349bca704558f124c7f49",
+  "title": "mesa Demo Production audience",
+  "description": "Forspoken Demo",
+  "longDescription": "",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/item/a472b0f2f2a5493d960a941f01cf3393/EGS_Forspoken_LuminousProductions_S2_1200x1600-dd7b5d1f22cb04906377b7ed895779b8_1200x1600-dd7b5d1f22cb04906377b7ed895779b8",
+      "md5": "dd7b5d1f22cb04906377b7ed895779b8",
+      "width": 1200,
+      "height": 1600,
+      "size": 666006,
+      "uploadedDate": "2022-11-30T06:12:39.098Z"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/item/a472b0f2f2a5493d960a941f01cf3393/EGS_Forspoken_LuminousProductions_S2_1200x1600-dd7b5d1f22cb04906377b7ed895779b8_1200x1600-dd7b5d1f22cb04906377b7ed895779b8",
+      "md5": "dd7b5d1f22cb04906377b7ed895779b8",
+      "width": 1200,
+      "height": 1600,
+      "size": 666006,
+      "uploadedDate": "2022-11-30T06:13:07.983Z"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/item/a472b0f2f2a5493d960a941f01cf3393/EGS_Forspoken_LuminousProductions_S1_2560x1440-f2f99882e9d396b21fb65735d266385a_2560x1440-f2f99882e9d396b21fb65735d266385a",
+      "md5": "f2f99882e9d396b21fb65735d266385a",
+      "width": 2560,
+      "height": 1440,
+      "size": 953835,
+      "uploadedDate": "2022-11-30T06:13:26.777Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/item/a472b0f2f2a5493d960a941f01cf3393/EGS_Forspoken_LuminousProductions_S2_1200x1600-dd7b5d1f22cb04906377b7ed895779b8_1200x1600-dd7b5d1f22cb04906377b7ed895779b8",
+      "md5": "dd7b5d1f22cb04906377b7ed895779b8",
+      "width": 1200,
+      "height": 1600,
+      "size": 666006,
+      "uploadedDate": "2022-11-30T06:13:40.777Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "a472b0f2f2a5493d960a941f01cf3393",
+  "status": "ACTIVE",
+  "creationDate": "2022-11-30T06:04:51.661Z",
+  "lastModifiedDate": "2023-01-24T00:17:29.028Z",
+  "customAttributes": {
+    "com.epicgames.app.blacklist": {
+      "type": "STRING",
+      "value": "SA"
+    },
+    "publisherName": {
+      "type": "STRING",
+      "value": "Square Enix"
+    },
+    "developerName": {
+      "type": "STRING",
+      "value": "Luminous Productions"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    },
+    "com.epicgames.app.productSlug": {
+      "type": "STRING",
+      "value": "forspoken-demo"
+    }
+  },
+  "entitlementName": "7d90e1d29b1349bca704558f124c7f49",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Square Enix (Japan)",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,36 @@
+{
+  "id": "aea2e50438fd4d6b93a5270856de076b",
+  "title": "ThebeGeneralAudience",
+  "description": "ThebeGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "65ec90853bee4caebdf4608f808b1b61",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-08T18:06:51.840Z",
+  "lastModifiedDate": "2023-03-22T16:44:42.924Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "aea2e50438fd4d6b93a5270856de076b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games Publishing",
+  "developerId": "o-e2xslu4mlqqaavphzl6927vtjqamhj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": true
+}

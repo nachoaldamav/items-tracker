@@ -1,0 +1,37 @@
+{
+  "id": "b3de851bd82e46ca8fbe6fe379740b3d",
+  "title": "ChristmasBundle audience",
+  "description": "ChristmasBundle audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c4395ba88061417a8ac6bd3fdc7fba79",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-02T09:14:31.353Z",
+  "lastModifiedDate": "2024-02-09T16:02:45.271Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b3de851bd82e46ca8fbe6fe379740b3d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "PQube",
+  "developerId": "o-9l5q72cwxf99kwzprbq6f558383l2l",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

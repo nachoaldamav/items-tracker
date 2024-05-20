@@ -1,0 +1,34 @@
+{
+  "id": "b0e39838823c471e86bcdba53ff3e1b8",
+  "title": "LykoiGeneralAudience",
+  "description": "LykoiGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "8ff186a4415d4ce6b5a287ccfd11cf04",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-03T04:20:11.999Z",
+  "lastModifiedDate": "2022-07-12T15:40:24.038Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b0e39838823c471e86bcdba53ff3e1b8",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Manticore Games",
+  "developerId": "o-gef9apdv7sv2tr6vrvz6efgfv6p858",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

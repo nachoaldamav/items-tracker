@@ -1,0 +1,34 @@
+{
+  "id": "c3fbcdec34994c1c90e4e8b1a2e581a6",
+  "title": "MidnightGeneralAudience",
+  "description": "MidnightGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "7e8cbfe4588e471cbdc790da5250ff2d",
+  "status": "ACTIVE",
+  "creationDate": "2021-06-11T18:00:26.077Z",
+  "lastModifiedDate": "2021-06-24T02:15:22.880Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c3fbcdec34994c1c90e4e8b1a2e581a6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "SOEDESCO",
+  "developerId": "o-9uf2bsrkptwqbkpy867grcbj5jxrta",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

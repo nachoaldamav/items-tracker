@@ -1,0 +1,91 @@
+{
+  "id": "37b9d199c3684617bfbf8b63cc241a1c",
+  "title": "EVE Online",
+  "description": "EVE Online",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/de554cff12704db4a900032bbd194d7e/EGS_EVEOnline_CCPGames_S1_2560x1440-88d1b30e638dbadd242a41097974671f",
+      "md5": "88d1b30e638dbadd242a41097974671f",
+      "width": 2560,
+      "height": 1440,
+      "size": 690672,
+      "uploadedDate": "2023-06-12T16:05:10.484Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/de554cff12704db4a900032bbd194d7e/EGS_EVEOnline_CCPGames_S2_1200x1600-32b657964d72a2963a687968185caaa7",
+      "md5": "32b657964d72a2963a687968185caaa7",
+      "width": 1200,
+      "height": 1600,
+      "size": 466426,
+      "uploadedDate": "2023-11-23T12:48:16.444Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "de554cff12704db4a900032bbd194d7e",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-15T09:45:29.181Z",
+  "lastModifiedDate": "2024-04-16T11:00:43.657Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "de554cff12704db4a900032bbd194d7e"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EVEOnline"
+    }
+  },
+  "entitlementName": "37b9d199c3684617bfbf8b63cc241a1c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fd793748043d42bfb41ec51de6ae19a1",
+      "appId": "ab4fa312826b49c0b49a230bc4f5b415",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "CCP ehf",
+  "developerId": "o-npeclqytgz4z8zr328rr42cntnwqx9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi45679oAKt8Vv7ElkKBwFkMvgtA2A",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

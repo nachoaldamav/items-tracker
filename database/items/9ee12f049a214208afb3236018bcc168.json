@@ -1,0 +1,86 @@
+{
+  "id": "9ee12f049a214208afb3236018bcc168",
+  "title": "Deceive Inc",
+  "description": "Deceive Inc",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/eca9a86adffa4605b8250d383fc01098/EGS_DeceiveInc_SweetBanditsStudios_S1_2560x1440-3a1e885fd642564a44875bf005d8ffb3",
+      "md5": "3a1e885fd642564a44875bf005d8ffb3",
+      "width": 2560,
+      "height": 1440,
+      "size": 940739,
+      "uploadedDate": "2024-03-05T09:04:06.047Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/eca9a86adffa4605b8250d383fc01098/EGS_DeceiveInc_SweetBanditsStudios_S2_1200x1600-7b92243bc46b5d69987132bd4b3e8309",
+      "md5": "7b92243bc46b5d69987132bd4b3e8309",
+      "width": 1200,
+      "height": 1600,
+      "size": 678954,
+      "uploadedDate": "2024-03-05T09:04:09.170Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "eca9a86adffa4605b8250d383fc01098",
+  "status": "ACTIVE",
+  "creationDate": "2021-07-15T20:38:15.631Z",
+  "lastModifiedDate": "2024-03-05T09:04:11.193Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "eca9a86adffa4605b8250d383fc01098"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DeceiveInc"
+    }
+  },
+  "entitlementName": "9ee12f049a214208afb3236018bcc168",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7197be9e062d4ab9b12e234f881559ab",
+      "appId": "cccdbadd66124f609ba706a9c4c73756",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567tGWjhkhbP95m0ffrb2SbDeSB",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

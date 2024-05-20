@@ -1,0 +1,37 @@
+{
+  "id": "1e94d6eee0c44b069f17f67bf57e0451",
+  "title": "OFW audience",
+  "description": "OFW audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c4395ba88061417a8ac6bd3fdc7fba79",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-02T09:02:15.140Z",
+  "lastModifiedDate": "2023-12-20T22:09:15.608Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "1e94d6eee0c44b069f17f67bf57e0451",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "PQube",
+  "developerId": "o-9l5q72cwxf99kwzprbq6f558383l2l",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

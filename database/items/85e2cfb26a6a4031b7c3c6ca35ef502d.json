@@ -1,0 +1,34 @@
+{
+  "id": "85e2cfb26a6a4031b7c3c6ca35ef502d",
+  "title": "SpinelGeneralAudience",
+  "description": "SpinelGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ff8c96d781824ba1ae62d18d207fc52e",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-24T19:32:57.608Z",
+  "lastModifiedDate": "2023-05-24T16:06:32.431Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "85e2cfb26a6a4031b7c3c6ca35ef502d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Playstack",
+  "developerId": "o-fwcegrmgnhg9bjn597f2ywf3gvrvqw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

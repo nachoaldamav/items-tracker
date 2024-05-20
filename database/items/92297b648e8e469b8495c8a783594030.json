@@ -1,0 +1,102 @@
+{
+  "id": "92297b648e8e469b8495c8a783594030",
+  "title": "Roguebook",
+  "description": "Roguebook",
+  "longDescription": "Roguebook",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Roguebook_Abrakam_S1_2560x1440-5b01163b59ee533a076c26a22910daf8",
+      "md5": "5b01163b59ee533a076c26a22910daf8",
+      "width": 2560,
+      "height": 1440,
+      "size": 1020443,
+      "uploadedDate": "2021-10-12T13:48:28.717Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Roguebook_Abrakam_S2_1200x1600-bba267d06c7f134050211ee586516528",
+      "md5": "bba267d06c7f134050211ee586516528",
+      "width": 1200,
+      "height": 1600,
+      "size": 598673,
+      "uploadedDate": "2021-10-12T13:48:43.799Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ed58510215d54a33b89ea805e0d773d7",
+  "status": "ACTIVE",
+  "creationDate": "2021-08-01T18:51:22.327Z",
+  "lastModifiedDate": "2022-02-23T23:18:28.611Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ed58510215d54a33b89ea805e0d773d7"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Abrakam Entertainment SA/Roguebook/Saves/Epic_{EpicID}/"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Abrakam Entertainment SA/Roguebook/Saves/Epic_{EpicID}/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Roguebook"
+    }
+  },
+  "entitlementName": "92297b648e8e469b8495c8a783594030",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "526269de3b1748a19432f98c2a5913b1",
+      "appId": "72ff77e9c27a4bf3b5c387b7872a01d3",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-10-12T06:28:20.097Z"
+    }
+  ],
+  "developer": "Nacon",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567R0BiM9IKgJGrt1O4nFAmYxON",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,93 @@
+{
+  "id": "758ef61140a84027b80315f78bf8d223",
+  "title": "The Elder Scrolls V: Skyrim Special Edition",
+  "description": "The Elder Scrolls V: Skyrim Special Edition",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/c8738a4d1ead40368eab9688b3c7d737/SkyrimSEWide_2560x1440-dcf7c2839f4a13b0d921a8f146c8c922",
+      "md5": "dcf7c2839f4a13b0d921a8f146c8c922",
+      "width": 2560,
+      "height": 1440,
+      "size": 830751,
+      "uploadedDate": "2022-10-05T23:00:26.877Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/c8738a4d1ead40368eab9688b3c7d737/SkyrimSETall_1200x1600-ae5d13f6510e81460fe80aa1ca19cf4c",
+      "md5": "ae5d13f6510e81460fe80aa1ca19cf4c",
+      "width": 1200,
+      "height": 1600,
+      "size": 474148,
+      "uploadedDate": "2022-10-05T23:00:30.826Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c8738a4d1ead40368eab9688b3c7d737",
+  "status": "ACTIVE",
+  "creationDate": "2022-02-09T21:30:33.513Z",
+  "lastModifiedDate": "2023-03-06T06:22:08.087Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "c8738a4d1ead40368eab9688b3c7d737"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserProfile}/Documents/My Games/Skyrim Special Edition EPIC"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SkyrimSE"
+    }
+  },
+  "entitlementName": "758ef61140a84027b80315f78bf8d223",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c573797ca64840d68ca1a110a645f5ed",
+      "appId": "ac82db5035584c7f8a2c548d98c86b2c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "eulaIds": [
+    "(egstore && bethesda)"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,90 @@
+{
+  "id": "7db1863e24d246bea4bef601ee491cfd",
+  "title": "CONVERGENCE: A League of Legends Story™",
+  "description": "CONVERGENCE: A League of Legends Story™",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/8d26e33298454f97888010e66a681b93/Product Landscape Image_2560x1440-1e986bb3becbbe7f2cc8a618c3b9150e",
+      "md5": "1e986bb3becbbe7f2cc8a618c3b9150e",
+      "width": 2560,
+      "height": 1440,
+      "size": 788980,
+      "uploadedDate": "2021-11-16T05:58:55.511Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/8d26e33298454f97888010e66a681b93/Product Portrait Image_1200x1600-4b1f7602ae476a937f35a354df29330e",
+      "md5": "4b1f7602ae476a937f35a354df29330e",
+      "width": 1200,
+      "height": 1600,
+      "size": 816218,
+      "uploadedDate": "2021-11-16T05:59:01.873Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8d26e33298454f97888010e66a681b93",
+  "status": "ACTIVE",
+  "creationDate": "2021-10-07T16:24:21.300Z",
+  "lastModifiedDate": "2024-05-20T09:32:58.114Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "8d26e33298454f97888010e66a681b93"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CONVERGENCE"
+    }
+  },
+  "entitlementName": "7db1863e24d246bea4bef601ee491cfd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a431e5e4d35c45c3b809f82fbb0a2971",
+      "appId": "90c4a7da3f654df5a116ed39ee30f104",
+      "compatibleApps": [],
+      "platform": [],
+      "dateAdded": "2022-05-27T20:06:00.000Z"
+    }
+  ],
+  "developer": "Riot Forge",
+  "developerId": "o-ch65axjcvgpsutlhlcyvqkx3fkmk44",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567MOvdS0XqVJhenWSQPKF1mAnN",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

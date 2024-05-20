@@ -1,0 +1,96 @@
+{
+  "id": "d55ac4e170a14d1b9c840b7310bcf630",
+  "title": "Disgaea 6 Complete",
+  "description": "Disgaea 6 Complete",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/3ef2ef153b5649aaa8f0de5b5805dcce/EGS_Disgaea6Complete_NipponIchiSoftwareInc_S1_2560x1440-c6eaedcb0b488bc592823434bb9f5b02",
+      "md5": "c6eaedcb0b488bc592823434bb9f5b02",
+      "width": 2560,
+      "height": 1440,
+      "size": 976936,
+      "uploadedDate": "2022-02-09T23:36:11.186Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/3ef2ef153b5649aaa8f0de5b5805dcce/EGS_Disgaea6Complete_NipponIchiSoftwareInc_S2_1200x1600-16f3a21f582ad531a1b10acbbead66e9",
+      "md5": "16f3a21f582ad531a1b10acbbead66e9",
+      "width": 1200,
+      "height": 1600,
+      "size": 953545,
+      "uploadedDate": "2022-02-09T23:36:19.772Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3ef2ef153b5649aaa8f0de5b5805dcce",
+  "status": "ACTIVE",
+  "creationDate": "2022-02-09T18:45:32.890Z",
+  "lastModifiedDate": "2024-05-20T09:31:16.383Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "3ef2ef153b5649aaa8f0de5b5805dcce"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Nippon Ichi Software, Inc/Disgaea 6 Complete/{EpicId}/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "Setting.ini"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Disgaea6Complete"
+    }
+  },
+  "entitlementName": "d55ac4e170a14d1b9c840b7310bcf630",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5dcec57e82cf471da5b03f8f79609064",
+      "appId": "0d653383d9854587852508223e8f37e8",
+      "platform": []
+    }
+  ],
+  "developer": "NIS America, Inc.",
+  "developerId": "o-24ec9efll733ggh8wybar3x8zetflu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

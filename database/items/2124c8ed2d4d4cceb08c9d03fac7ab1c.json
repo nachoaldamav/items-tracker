@@ -1,0 +1,38 @@
+{
+  "id": "2124c8ed2d4d4cceb08c9d03fac7ab1c",
+  "title": "mellowyellow releasetest 01 audience",
+  "description": "mellowyellow releasetest 01 audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+  "status": "ACTIVE",
+  "creationDate": "2022-05-03T18:29:52.466Z",
+  "lastModifiedDate": "2022-08-23T16:37:16.671Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "2124c8ed2d4d4cceb08c9d03fac7ab1c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Bungie",
+  "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

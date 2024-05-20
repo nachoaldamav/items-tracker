@@ -1,0 +1,34 @@
+{
+  "id": "1b4e47c527cc4a96ae72477a0e6654ce",
+  "title": "GobyGeneralAudience",
+  "description": "GobyGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "51c19c28a7024793b9e38174d0e1634b",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-18T18:32:27.775Z",
+  "lastModifiedDate": "2020-03-19T14:23:42.315Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "1b4e47c527cc4a96ae72477a0e6654ce",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Raw Fury",
+  "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": true
+}

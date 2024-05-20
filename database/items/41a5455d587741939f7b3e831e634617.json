@@ -1,0 +1,106 @@
+{
+  "id": "41a5455d587741939f7b3e831e634617",
+  "title": "Northgard",
+  "description": "Northgard",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Northgard_Tall_1200x1600-d08076964e47b86e1a7e7114706c3d7a",
+      "md5": "d08076964e47b86e1a7e7114706c3d7a",
+      "width": 1200,
+      "height": 1600,
+      "size": 709543,
+      "uploadedDate": "2021-07-20T20:49:34.224Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Northgard_wide_1920x1080-c97efc7eef1c5110831098e6469847d2",
+      "md5": "c97efc7eef1c5110831098e6469847d2",
+      "width": 1920,
+      "height": 1080,
+      "size": 987087,
+      "uploadedDate": "2021-07-20T20:49:54.250Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9afbc4780d874152a1c66d5fec0967d4",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-28T12:25:37.606Z",
+  "lastModifiedDate": "2023-11-20T12:19:41.462Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "9afbc4780d874152a1c66d5fec0967d4"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/save/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.dat,*.sav"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "2000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Northgard"
+    }
+  },
+  "entitlementName": "41a5455d587741939f7b3e831e634617",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8684511fcd2e4cd389de05f8e7477992",
+      "appId": "4bea1128b2414ba4b3bbe877b0879199",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-28T00:00:00.000Z"
+    }
+  ],
+  "developer": "Shiro Games SAS",
+  "developerId": "o-ealhln64lfep9ww929uq9qcdmbyfn4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi45670unC7t0D300KAUUy1svSfH6m",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

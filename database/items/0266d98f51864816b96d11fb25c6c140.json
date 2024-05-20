@@ -1,0 +1,34 @@
+{
+  "id": "0266d98f51864816b96d11fb25c6c140",
+  "title": "SelR audience",
+  "description": "SelR audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-02T19:37:13.191Z",
+  "lastModifiedDate": "2024-05-08T16:12:46.755Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0266d98f51864816b96d11fb25c6c140",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Gameloft SE",
+  "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

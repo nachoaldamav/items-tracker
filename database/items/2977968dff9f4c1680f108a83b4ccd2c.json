@@ -1,0 +1,94 @@
+{
+  "id": "2977968dff9f4c1680f108a83b4ccd2c",
+  "title": "Chef Life - A Restaurant Simulator",
+  "description": "Chef Life - A Restaurant Simulator",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/item/04e9492e1c384d3283aa2c5b329af66c/EGS_ChefLifeARestaurantSimulator_CyanideStudio_S1_2560x1440-f639dcb881b524c2dde0096e961147f0",
+      "md5": "f639dcb881b524c2dde0096e961147f0",
+      "width": 2560,
+      "height": 1440,
+      "size": 958042,
+      "uploadedDate": "2022-03-14T20:25:44.265Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/04e9492e1c384d3283aa2c5b329af66c/EGS_ChefLifeARestaurantSimulator_CyanideStudio_S2_1200x1600-45453e5a15971eca241393aafe8aa85e",
+      "md5": "45453e5a15971eca241393aafe8aa85e",
+      "width": 1200,
+      "height": 1600,
+      "size": 793367,
+      "uploadedDate": "2022-03-14T20:25:47.349Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "04e9492e1c384d3283aa2c5b329af66c",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-01T19:29:45.982Z",
+  "lastModifiedDate": "2024-03-28T09:02:02.888Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "04e9492e1c384d3283aa2c5b329af66c"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Cyanide/Chef LIFE _ A Restaurant Simulator/saves/{EpicID}/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ChefLifeARS"
+    }
+  },
+  "entitlementName": "2977968dff9f4c1680f108a83b4ccd2c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1bc2754cc3c64cd3a2e2bfe53b4f8241",
+      "appId": "70cb4a8ec5c8456ab84feca36530b215",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Nacon",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567uoufeYcpG69ozsI26qt5jQLR",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

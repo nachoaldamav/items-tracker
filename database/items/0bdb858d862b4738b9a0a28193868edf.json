@@ -1,0 +1,38 @@
+{
+  "id": "0bdb858d862b4738b9a0a28193868edf",
+  "title": "LionSupporterPackAudience",
+  "description": "LionSupporterPackAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-17T19:40:13.007Z",
+  "lastModifiedDate": "2024-04-29T10:54:12.896Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0bdb858d862b4738b9a0a28193868edf",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Triternion",
+  "developerId": "o-tvu5xuu383665htjt4wez2tgl45exq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

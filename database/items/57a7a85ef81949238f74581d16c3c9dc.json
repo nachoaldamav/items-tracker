@@ -1,0 +1,36 @@
+{
+  "id": "57a7a85ef81949238f74581d16c3c9dc",
+  "title": "DiaGeneralAudience",
+  "description": "DiaGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "a47cb01bef994749ac731aa3366796e8",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-28T22:55:34.545Z",
+  "lastModifiedDate": "2022-09-20T16:29:45.179Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "57a7a85ef81949238f74581d16c3c9dc",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Plaion",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": true
+}

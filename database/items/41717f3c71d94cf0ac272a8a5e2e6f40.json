@@ -1,0 +1,90 @@
+{
+  "id": "41717f3c71d94cf0ac272a8a5e2e6f40",
+  "title": "First Class Trouble",
+  "description": "First Class Trouble",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-firstclasstrouble-invisiblewalls-s1-2560x1440-061767b6ed3f_2560x1440-5949bbfd7f9dd488810526905e93a0f1",
+      "md5": "5949bbfd7f9dd488810526905e93a0f1",
+      "width": 2560,
+      "height": 1440,
+      "size": 616467,
+      "uploadedDate": "2021-07-28T14:22:07.858Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-firstclasstrouble-invisiblewalls-s2-1200x1600-c19b5d5496b1_1200x1600-b5a83139d665f8f17bd3d052e2aa7bbf",
+      "md5": "b5a83139d665f8f17bd3d052e2aa7bbf",
+      "width": 1200,
+      "height": 1600,
+      "size": 406467,
+      "uploadedDate": "2021-07-28T14:22:03.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "27834480410d4000a987b32801e9abba",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-04T18:12:15.351Z",
+  "lastModifiedDate": "2022-09-22T16:31:27.453Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "27834480410d4000a987b32801e9abba"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FirstClassTrouble"
+    }
+  },
+  "entitlementName": "41717f3c71d94cf0ac272a8a5e2e6f40",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bf58287704cc45709661b44840a1e515",
+      "appId": "0c942b2c920149ff986af1ed93c92ddf",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Versus Evil",
+  "developerId": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567XPSJz9nxwGE7IDN7bclkJXla",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

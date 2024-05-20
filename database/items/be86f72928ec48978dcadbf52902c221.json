@@ -1,0 +1,35 @@
+{
+  "id": "be86f72928ec48978dcadbf52902c221",
+  "title": "CucumberGeneralAudience",
+  "description": "CucumberGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "04f58664c247401782ff01d9e245d778",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-14T20:26:31.279Z",
+  "lastModifiedDate": "2023-10-31T14:13:36.117Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "be86f72928ec48978dcadbf52902c221",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Nodding Heads Games",
+  "developerId": "o-63xb3dtq8myt7s574ubtp3twas8wf3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

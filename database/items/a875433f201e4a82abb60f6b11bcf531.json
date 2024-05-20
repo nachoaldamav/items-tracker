@@ -1,0 +1,48 @@
+{
+  "id": "a875433f201e4a82abb60f6b11bcf531",
+  "title": "SumacGeneralAudience",
+  "description": "SumacGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/7563789523404ae7ba52588adc99963a/item/ESRB_NextUpHero-842x485-ab1bf8a43c1ac2b3a8bdbd68533924bb.png",
+      "md5": "ab1bf8a43c1ac2b3a8bdbd68533924bb",
+      "width": 842,
+      "height": 485,
+      "size": 64739,
+      "uploadedDate": "2020-09-01T15:20:18.943Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "7563789523404ae7ba52588adc99963a",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-05T20:52:48.544Z",
+  "lastModifiedDate": "2023-05-25T20:24:53.807Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "a875433f201e4a82abb60f6b11bcf531",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Digital Continue",
+  "developerId": "o-qb7ry6eblsrnt28hxlcuw8w5j5t7y3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": true
+}

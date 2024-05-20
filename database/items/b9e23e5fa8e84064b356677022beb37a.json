@@ -1,0 +1,102 @@
+{
+  "id": "b9e23e5fa8e84064b356677022beb37a",
+  "title": "World of Warships",
+  "description": "World of Warships",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarships_WargamingGroupLimited_S1_2560x1440-aa4f854853097c62131af5b507df45d3",
+      "md5": "aa4f854853097c62131af5b507df45d3",
+      "width": 2560,
+      "height": 1440,
+      "size": 873479,
+      "uploadedDate": "2024-03-21T11:30:35.646Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarships_WargamingGroupLimited_S2_1200x1600-e07391b04d3ff15c7b2c99ad29095c96",
+      "md5": "e07391b04d3ff15c7b2c99ad29095c96",
+      "width": 1200,
+      "height": 1600,
+      "size": 576383,
+      "uploadedDate": "2024-03-21T11:30:40.815Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-11T22:24:57.892Z",
+  "lastModifiedDate": "2024-04-02T14:47:52.444Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "84c76746bce94effb8e1047fabfd7eb7"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "currentrealm.txt"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WorldofWarships"
+    }
+  },
+  "entitlementName": "b9e23e5fa8e84064b356677022beb37a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cca8c539543749dabef127404259b560",
+      "appId": "a79746038c6948558274065d24f3faa3",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "Wargaming Group Limited",
+  "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi45676XevNF6ageHXWwXpVLFVnBZS",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

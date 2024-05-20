@@ -1,0 +1,85 @@
+{
+  "id": "e9c47d47c2ac44f3a032e9d645096535",
+  "title": "The Last of Us™ Part I",
+  "description": "The Last of Us™ Part I",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/0c40923dd1174a768f732a3b013dcff2/EGS_TheLastofUsPartI_NaughtyDogLLC_S1_2560x1440-3659b5fe340f8fc073257975b20b7f84",
+      "md5": "3659b5fe340f8fc073257975b20b7f84",
+      "width": 2560,
+      "height": 1440,
+      "size": 1022350,
+      "uploadedDate": "2022-12-08T22:31:05.242Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/0c40923dd1174a768f732a3b013dcff2/EGS_TheLastofUsPartI_NaughtyDogLLC_S2_1200x1600-41d1b88814bea2ee8cb7986ec24713e0",
+      "md5": "41d1b88814bea2ee8cb7986ec24713e0",
+      "width": 1200,
+      "height": 1600,
+      "size": 1014913,
+      "uploadedDate": "2022-12-08T22:31:09.261Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0c40923dd1174a768f732a3b013dcff2",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-22T06:13:42.932Z",
+  "lastModifiedDate": "2023-04-10T18:51:13.765Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "0c40923dd1174a768f732a3b013dcff2"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheLastOfUsPartI"
+    }
+  },
+  "entitlementName": "e9c47d47c2ac44f3a032e9d645096535",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "772ada093cdc40ccb3c067a1bcef0006",
+      "appId": "7e988ba04889404197fdf06c994326ed",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi45671AB98gFwtcgIhM6q4QxLo3Hj",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

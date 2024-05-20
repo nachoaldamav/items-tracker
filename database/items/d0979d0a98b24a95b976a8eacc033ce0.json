@@ -1,0 +1,38 @@
+{
+  "id": "d0979d0a98b24a95b976a8eacc033ce0",
+  "title": "BuffGeneralAudience",
+  "description": "BuffGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "a79db01bab484eccafce8dfd151859f9",
+  "status": "ACTIVE",
+  "creationDate": "2021-05-13T21:25:43.363Z",
+  "lastModifiedDate": "2021-05-20T16:04:59.237Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d0979d0a98b24a95b976a8eacc033ce0",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

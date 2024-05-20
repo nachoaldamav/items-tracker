@@ -1,0 +1,38 @@
+{
+  "id": "eef11e791d9f460ba2a9b9d12ad25f6e",
+  "title": "MelonDemoAudience",
+  "description": "MelonDemoAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "528150dcd4a5462994608939eb783270",
+  "status": "ACTIVE",
+  "creationDate": "2021-08-31T12:54:32.448Z",
+  "lastModifiedDate": "2021-09-30T00:17:50.972Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "eef11e791d9f460ba2a9b9d12ad25f6e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Skystone Games",
+  "developerId": "o-wwzfgcpzmd2b2ymr5mwvlwfwbpl7ay",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

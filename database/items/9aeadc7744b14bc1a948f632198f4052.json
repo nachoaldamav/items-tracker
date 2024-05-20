@@ -1,0 +1,46 @@
+{
+  "id": "9aeadc7744b14bc1a948f632198f4052",
+  "title": "TurkeyGeneralAudience",
+  "description": "TurkeyGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/6110c92696a54f108c8e9002713ea5f9/item/EGS_BorderlandsThePreSequel_ESRB-378x200-c7ff44e41e9244bf42c97effef69a795.png",
+      "md5": "c7ff44e41e9244bf42c97effef69a795",
+      "width": 378,
+      "height": 200,
+      "size": 18560,
+      "uploadedDate": "2020-05-22T18:41:44.276Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "6110c92696a54f108c8e9002713ea5f9",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-10T15:34:04.580Z",
+  "lastModifiedDate": "2020-05-28T14:32:09.815Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9aeadc7744b14bc1a948f632198f4052",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "unsearchable": true
+}

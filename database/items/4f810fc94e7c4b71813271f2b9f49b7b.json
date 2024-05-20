@@ -1,0 +1,37 @@
+{
+  "id": "4f810fc94e7c4b71813271f2b9f49b7b",
+  "title": "Season Pass audience",
+  "description": "Season Pass audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2b09519576cb4276bfd8df52f5288e4a",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-19T02:38:09.594Z",
+  "lastModifiedDate": "2023-11-14T15:57:08.311Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4f810fc94e7c4b71813271f2b9f49b7b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Astragon Entertainment GmbH",
+  "developerId": "o-rq9c97g8tttn6czdh2kd9vubqbunvf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,69 @@
+{
+  "id": "ea6a3aae231d42f6a831a10730a12237",
+  "title": "The Lamplighters League",
+  "description": "The Lamplighters League",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/60845b3263d640efb3c6a458298088bd/EGS_TheLamplightersLeague_HarebrainedSchemes_S1_2560x1440-151ea50bd380b3804817adf0d35ee281",
+      "md5": "151ea50bd380b3804817adf0d35ee281",
+      "width": 2560,
+      "height": 1440,
+      "size": 775569,
+      "uploadedDate": "2023-02-23T17:54:54.425Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/60845b3263d640efb3c6a458298088bd/EGS_TheLamplightersLeague_HarebrainedSchemes_S2_1200x1600-21a6ee78796683f816b3fbc38b19c8a3",
+      "md5": "21a6ee78796683f816b3fbc38b19c8a3",
+      "width": 1200,
+      "height": 1600,
+      "size": 514058,
+      "uploadedDate": "2023-02-23T17:55:00.738Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "60845b3263d640efb3c6a458298088bd",
+  "status": "ACTIVE",
+  "creationDate": "2023-02-09T00:44:59.234Z",
+  "lastModifiedDate": "2024-04-02T16:33:55.519Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheLamplightersLeague"
+    }
+  },
+  "entitlementName": "ea6a3aae231d42f6a831a10730a12237",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "568d8ebdd6b04b53a68118a8c7ab4c9f",
+      "appId": "df210b1180844c3693bbff7f0b6369d8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [
+    "(egstore && paradoxinteractive)"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567koBxCXz9hGwquzFJgVaXsaYp",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,98 @@
+{
+  "id": "e963903069df461d93f0423f8f8b6865",
+  "title": "Session: Skate Sim",
+  "description": "Session: Skate Sim",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/e29e6ef093fd468db40b6fb505de6fa8/EGS_SessionSkateSim_creatureStudiosInc_S1_2560x1440-c0e8c2c5c35156c48ba37e7c8b26e928",
+      "md5": "c0e8c2c5c35156c48ba37e7c8b26e928",
+      "width": 2560,
+      "height": 1440,
+      "size": 575531,
+      "uploadedDate": "2023-12-12T00:26:03.882Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/e29e6ef093fd468db40b6fb505de6fa8/EGS_SessionSkateSim_creatureStudiosInc_S2_1200x1600-4c2098af727aa90d2f6e8620ce4a1e79",
+      "md5": "4c2098af727aa90d2f6e8620ce4a1e79",
+      "width": 1200,
+      "height": 1600,
+      "size": 645819,
+      "uploadedDate": "2023-12-12T00:26:08.331Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e29e6ef093fd468db40b6fb505de6fa8",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-04T18:16:21.876Z",
+  "lastModifiedDate": "2024-03-07T22:27:17.975Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "e29e6ef093fd468db40b6fb505de6fa8"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/SessionGame/Saved/SaveGames/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SessionSkateSim"
+    }
+  },
+  "entitlementName": "e963903069df461d93f0423f8f8b6865",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "86688616dbe04ac6a5932efb315eb39f",
+      "appId": "6c1001a19926456db77fd1b4dd705a79",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-04T00:00:00.000Z"
+    }
+  ],
+  "developer": "Nacon",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567NuOg0tB9ryMRHPik6sV08R5e",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

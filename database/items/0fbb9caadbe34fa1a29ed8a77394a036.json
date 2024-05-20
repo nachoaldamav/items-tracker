@@ -1,0 +1,93 @@
+{
+  "id": "0fbb9caadbe34fa1a29ed8a77394a036",
+  "title": "Mortal Kombat 1",
+  "description": "Mortal Kombat 1",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/fda0f2b4047f46ffb4e94d5595c1468e/EGS_MortalKombat1_NetherRealmStudios_S1_2560x1440-d88848c1f801863582d66c72af44e7af",
+      "md5": "d88848c1f801863582d66c72af44e7af",
+      "width": 2560,
+      "height": 1440,
+      "size": 920911,
+      "uploadedDate": "2023-05-18T22:34:22.860Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/fda0f2b4047f46ffb4e94d5595c1468e/EGS_MortalKombat1_NetherRealmStudios_S4_1200x1600-076e67292bb57f11ebb4465b7e74a65e",
+      "md5": "076e67292bb57f11ebb4465b7e74a65e",
+      "width": 1200,
+      "height": 1600,
+      "size": 412723,
+      "uploadedDate": "2023-05-18T22:34:26.940Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fda0f2b4047f46ffb4e94d5595c1468e",
+  "status": "ACTIVE",
+  "creationDate": "2022-05-13T21:18:16.538Z",
+  "lastModifiedDate": "2024-04-29T17:14:31.231Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/MK12/Saved/EOS/Cloud/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MortalKombat1"
+    }
+  },
+  "entitlementName": "0fbb9caadbe34fa1a29ed8a77394a036",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a33bd27f07264d89a47807ec10b11b2f",
+      "appId": "863510a2790144cabba5252fba4fd808",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

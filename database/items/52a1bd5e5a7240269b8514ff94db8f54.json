@@ -1,0 +1,115 @@
+{
+  "id": "52a1bd5e5a7240269b8514ff94db8f54",
+  "title": "The Sims™ 4",
+  "description": "The Sims™ 4",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/2a14cf8a83b149919a2399504e5686a6/EGS_TheSims4_Maxis_S1_2560x1440-330b00849edfdacc61578d1486f47b31",
+      "md5": "330b00849edfdacc61578d1486f47b31",
+      "width": 2560,
+      "height": 1440,
+      "size": 943513,
+      "uploadedDate": "2023-01-30T20:26:58.706Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/2a14cf8a83b149919a2399504e5686a6/EGS_TheSims4_Maxis_S2_1200x1600-ceadc3bd1e6f885ad64d9f115f51f5c0",
+      "md5": "ceadc3bd1e6f885ad64d9f115f51f5c0",
+      "width": 1200,
+      "height": 1600,
+      "size": 662137,
+      "uploadedDate": "2023-01-30T20:27:01.936Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2a14cf8a83b149919a2399504e5686a6",
+  "status": "ACTIVE",
+  "creationDate": "2022-08-29T22:37:45.592Z",
+  "lastModifiedDate": "2024-01-29T23:59:04.589Z",
+  "customAttributes": {
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "TS4_x64.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheSims4"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "2a14cf8a83b149919a2399504e5686a6"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Maxis\\The Sims 4"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "Origin"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "TS4_x64.exe, TS4.exe"
+    },
+    "RegistryLocation": {
+      "type": "STRING",
+      "value": "SOFTWARE\\Maxis\\The Sims 4\\Install Dir"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "52a1bd5e5a7240269b8514ff94db8f54",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c6eb89b9be344a98b4ddacec886024eb",
+      "appId": "huddle",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2022-08-29T23:13:30.414Z"
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

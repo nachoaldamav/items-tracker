@@ -1,0 +1,38 @@
+{
+  "id": "e299bf53204d4e7fb5e6351af08a0c5d",
+  "title": "MendeleviumGeneralAudience",
+  "description": "MendeleviumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "4046b000e6b0477ea639ee07e28db3d0",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-11T01:21:39.376Z",
+  "lastModifiedDate": "2022-04-06T22:23:07.297Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e299bf53204d4e7fb5e6351af08a0c5d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

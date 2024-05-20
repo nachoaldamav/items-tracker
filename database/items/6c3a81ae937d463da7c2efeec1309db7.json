@@ -1,0 +1,38 @@
+{
+  "id": "6c3a81ae937d463da7c2efeec1309db7",
+  "title": "OrangeGeneralAudience",
+  "description": "OrangeGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "75ec0c7498894d1a99a5c8f02f3e4c55",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-04T14:42:04.265Z",
+  "lastModifiedDate": "2022-10-24T15:17:07.943Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "6c3a81ae937d463da7c2efeec1309db7",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

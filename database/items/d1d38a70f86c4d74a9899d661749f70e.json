@@ -1,0 +1,35 @@
+{
+  "id": "d1d38a70f86c4d74a9899d661749f70e",
+  "title": "HeliumGeneralAudience",
+  "description": "HeliumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "768ec2d3b5114ac4a800631b12ee3f31",
+  "status": "ACTIVE",
+  "creationDate": "2020-12-17T02:11:11.849Z",
+  "lastModifiedDate": "2021-04-08T00:55:02.273Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d1d38a70f86c4d74a9899d661749f70e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Spry Fox LLC",
+  "developerId": "o-k4863wgz6fj9hdltmzvvx8pcfr5ftp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

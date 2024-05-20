@@ -1,0 +1,34 @@
+{
+  "id": "992d66bca7aa4319966e5c510df7bdcc",
+  "title": "LarkGeneralAudience",
+  "description": "LarkGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "e099f2abf3324d248054bf14c476fbc0",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-15T17:00:00.141Z",
+  "lastModifiedDate": "2021-11-30T12:44:20.107Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "992d66bca7aa4319966e5c510df7bdcc",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Oddworld Inhabitants Inc.",
+  "developerId": "o-wbsj4csbacqdc7e8xvdhkmmjpzm87v",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

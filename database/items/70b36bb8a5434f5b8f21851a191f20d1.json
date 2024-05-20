@@ -1,0 +1,50 @@
+{
+  "id": "70b36bb8a5434f5b8f21851a191f20d1",
+  "title": "ApatiteUltimateSurivorEditionAudience",
+  "description": "ApatiteUltimateSurivorEditionAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/ark/item/EGS_ARKSurvivalEvolved_StudioWildcard_RA1-401x200-c5255d56251641b939df2e6bebe10250.png",
+      "md5": "c5255d56251641b939df2e6bebe10250",
+      "width": 401,
+      "height": 200,
+      "size": 43418,
+      "uploadedDate": "2020-06-11T15:01:49.360Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ark",
+  "status": "ACTIVE",
+  "creationDate": "2021-05-26T03:11:45.769Z",
+  "lastModifiedDate": "2021-05-27T16:53:36.228Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "70b36bb8a5434f5b8f21851a191f20d1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Studio Wildcard",
+  "developerId": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

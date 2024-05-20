@@ -1,0 +1,35 @@
+{
+  "id": "05008ca5e12c44a49f7657829152b1ea",
+  "title": "CrystalDeluxeAudience",
+  "description": "CrystalDeluxeAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "50648c4c6f7f47e98a1b3756ed06cc4a",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-14T16:55:55.739Z",
+  "lastModifiedDate": "2021-09-09T15:57:14.741Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "05008ca5e12c44a49f7657829152b1ea",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

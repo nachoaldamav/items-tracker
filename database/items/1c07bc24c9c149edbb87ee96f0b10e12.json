@@ -1,0 +1,34 @@
+{
+  "id": "1c07bc24c9c149edbb87ee96f0b10e12",
+  "title": "MadridGeneralAudience",
+  "description": "MadridGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "21e3ba8638c14c6480b076b8eebf95ce",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-29T03:56:52.442Z",
+  "lastModifiedDate": "2020-07-29T14:53:17.385Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "1c07bc24c9c149edbb87ee96f0b10e12",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

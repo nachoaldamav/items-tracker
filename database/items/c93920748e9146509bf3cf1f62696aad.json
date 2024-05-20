@@ -1,0 +1,38 @@
+{
+  "id": "c93920748e9146509bf3cf1f62696aad",
+  "title": "FarmDLC audience",
+  "description": "FarmDLC audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "d5cbd232ad304c91aacc20f31849435c",
+  "status": "ACTIVE",
+  "creationDate": "2022-04-10T19:52:35.276Z",
+  "lastModifiedDate": "2023-05-18T15:49:36.569Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c93920748e9146509bf3cf1f62696aad",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Frozen District",
+  "developerId": "o-uwbdkl2k232jmhme72fmvat8vwlfwd",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

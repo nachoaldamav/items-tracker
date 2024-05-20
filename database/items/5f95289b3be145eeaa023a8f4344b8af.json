@@ -1,0 +1,38 @@
+{
+  "id": "5f95289b3be145eeaa023a8f4344b8af",
+  "title": "RingtailGeneralAudience",
+  "description": "RingtailGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-17T14:39:28.902Z",
+  "lastModifiedDate": "2022-02-24T15:57:59.729Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows, Mac"
+    }
+  },
+  "entitlementName": "5f95289b3be145eeaa023a8f4344b8af",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

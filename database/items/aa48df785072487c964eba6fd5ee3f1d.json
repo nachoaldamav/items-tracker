@@ -1,0 +1,37 @@
+{
+  "id": "aa48df785072487c964eba6fd5ee3f1d",
+  "title": "PipiteaDLC2 audience",
+  "description": "PipiteaDLC2 audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "267d05131d004e3494f952a9b1056562",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-12T13:40:58.965Z",
+  "lastModifiedDate": "2024-02-21T16:56:12.458Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "aa48df785072487c964eba6fd5ee3f1d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Riot Forge",
+  "developerId": "o-ch65axjcvgpsutlhlcyvqkx3fkmk44",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e2aee1fac23e49d980e0485b4b66a701",
+  "title": "FermiumGeneralAudience",
+  "description": "FermiumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "f1bbea1c0d694e95a8ba0f649a396352",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-11T01:02:24.135Z",
+  "lastModifiedDate": "2023-08-15T14:59:56.853Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e2aee1fac23e49d980e0485b4b66a701",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

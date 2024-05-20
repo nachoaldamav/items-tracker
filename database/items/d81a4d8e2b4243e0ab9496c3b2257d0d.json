@@ -1,0 +1,37 @@
+{
+  "id": "d81a4d8e2b4243e0ab9496c3b2257d0d",
+  "title": "Guardian Pack audience_redeemable",
+  "description": "Guardian Pack audience_redeemable",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "9bcf5a4dc1d54cb6ab1a42f3a70c5cf4",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-20T14:25:32.734Z",
+  "lastModifiedDate": "2023-10-26T23:56:34.255Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d81a4d8e2b4243e0ab9496c3b2257d0d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,37 @@
+{
+  "id": "a8db8a607490459ea7d50440eb8159f2",
+  "title": "SpatzleLaunchGeneralAudience",
+  "description": "SpatzleLaunchGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "8965024015f5467699f4a497c7c016e8",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-24T17:56:50.521Z",
+  "lastModifiedDate": "2022-09-21T23:16:15.119Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "a8db8a607490459ea7d50440eb8159f2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Nacon",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

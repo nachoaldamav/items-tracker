@@ -1,0 +1,92 @@
+{
+  "id": "808bf67626d4479b9a9ab9cb401436f2",
+  "title": "Wreckfest",
+  "description": "Wreckfest",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/8a574ca3cbfc46c69ea8d3491932e973/item/EGS_Wreckfest_Bugbear_S1-2560x1440-46b70ae5a65994aa21e6b0eda8171dcc.jpg",
+      "md5": "46b70ae5a65994aa21e6b0eda8171dcc",
+      "width": 2560,
+      "height": 1440,
+      "size": 627777,
+      "uploadedDate": "2020-11-11T19:50:11.815Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/8a574ca3cbfc46c69ea8d3491932e973/item/EGS_Wreckfest_Bugbear_S2-1200x1600-9ff32ee440228e6523a26cfb1a746987.jpg",
+      "md5": "9ff32ee440228e6523a26cfb1a746987",
+      "width": 1200,
+      "height": 1600,
+      "size": 410165,
+      "uploadedDate": "2020-11-11T19:50:18.461Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8a574ca3cbfc46c69ea8d3491932e973",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-19T18:01:49.803Z",
+  "lastModifiedDate": "2023-03-10T21:15:11.865Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "8a574ca3cbfc46c69ea8d3491932e973"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "wreckfest"
+    }
+  },
+  "entitlementName": "808bf67626d4479b9a9ab9cb401436f2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b3d6b37fae264a168a6585f861e44275",
+      "appId": "401f7b873ff042edabfe24af49e9043f",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-19T00:00:00.000Z"
+    }
+  ],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567JG5ajT6KU3qap4yNotNZuhHq",
+  "unsearchable": true
+}

@@ -1,0 +1,38 @@
+{
+  "id": "abf5cbe7e37d451fa7a3caf78f10d339",
+  "title": "PhosphorusGeneralAudience",
+  "description": "PhosphorusGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "8c7ed85dae4341d385919ee4d832eb1a",
+  "status": "ACTIVE",
+  "creationDate": "2020-12-16T16:08:53.577Z",
+  "lastModifiedDate": "2021-05-20T17:07:42.595Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "abf5cbe7e37d451fa7a3caf78f10d339",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Curve Digital",
+  "developerId": "o-ws89bsbfb8trgdl3zmerugg4rsuvvt",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

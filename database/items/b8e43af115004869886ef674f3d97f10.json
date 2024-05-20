@@ -1,0 +1,99 @@
+{
+  "id": "b8e43af115004869886ef674f3d97f10",
+  "title": "Skul: The Hero Slayer",
+  "description": "Skul: The Hero Slayer",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/6feac7e685174dd698e90ca9536e1299/EGS_SkulTheHeroSlayer_SOUTHPAWGAMES_S1_2560x1440-3d430ac16bd3fd2d43673ea1f027eba0",
+      "md5": "3d430ac16bd3fd2d43673ea1f027eba0",
+      "width": 2560,
+      "height": 1440,
+      "size": 911920,
+      "uploadedDate": "2023-11-08T19:11:14.001Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/6feac7e685174dd698e90ca9536e1299/EGS_SkulTheHeroSlayer_SOUTHPAWGAMES_S2_1200x1600-bf1e59b18948166c17da528a7c3728a1",
+      "md5": "bf1e59b18948166c17da528a7c3728a1",
+      "width": 1200,
+      "height": 1600,
+      "size": 731555,
+      "uploadedDate": "2023-11-08T19:11:17.573Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6feac7e685174dd698e90ca9536e1299",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-25T15:22:43.487Z",
+  "lastModifiedDate": "2024-05-20T01:24:37.293Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/com.SouthpawGames.Skul/Epic/"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "6feac7e685174dd698e90ca9536e1299"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Southpaw Games/Skul/Epic/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Skul"
+    }
+  },
+  "entitlementName": "b8e43af115004869886ef674f3d97f10",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "35f506e5267a4c81928c4e661f55f81e",
+      "appId": "dec246c71964468f94ef4d686f0802c3",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "NEOWIZ",
+  "developerId": "o-n6gxve5az3wluy688g5fcfnzbpeh5n",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567sjsFNxGD9LCtHUWV81U4URIH",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

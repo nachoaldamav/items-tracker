@@ -1,0 +1,38 @@
+{
+  "id": "e997bdc1d75146d194064f9553af3640",
+  "title": "RazorbillExpansionsOSTAudience",
+  "description": "RazorbillExpansionsOSTAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "be886d9db65047a89b24cd4317695f18",
+  "status": "ACTIVE",
+  "creationDate": "2021-05-14T22:01:54.402Z",
+  "lastModifiedDate": "2021-06-03T14:38:20.644Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e997bdc1d75146d194064f9553af3640",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "11 Bit Studios",
+  "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,34 @@
+{
+  "id": "783824731fc74f599bf039b6d2b12528",
+  "title": "ManxGeneralAudience",
+  "description": "ManxGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c660f57e1a164930a7196f1fd27ae45a",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T19:00:04.746Z",
+  "lastModifiedDate": "2020-10-15T14:02:16.345Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "783824731fc74f599bf039b6d2b12528",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Zift Interactive LLC",
+  "developerId": "o-b4r45mybu3j7upcwjuervxbjbnjfjr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

@@ -1,0 +1,89 @@
+{
+  "id": "aa08f7a5ec4246fcafd5d31638eb0845",
+  "title": "LEGO® 2K Drive",
+  "description": "LEGO® 2K Drive",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/130de7f2c9bd4d65bd7e52b8600aaad0/EGS_LEGO2KDrive_VisualConceptsEntertainment_S1_2560x1440-80c6a72c2fd0e440d98df519c86a5baa",
+      "md5": "80c6a72c2fd0e440d98df519c86a5baa",
+      "width": 2560,
+      "height": 1440,
+      "size": 1018633,
+      "uploadedDate": "2023-03-09T12:41:30.978Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/130de7f2c9bd4d65bd7e52b8600aaad0/EGS_LEGO2KDrive_VisualConceptsEntertainment_S2_1200x1600-a20702ad15c2a227715c014040d37776",
+      "md5": "a20702ad15c2a227715c014040d37776",
+      "width": 1200,
+      "height": 1600,
+      "size": 876686,
+      "uploadedDate": "2023-03-09T12:41:34.702Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "130de7f2c9bd4d65bd7e52b8600aaad0",
+  "status": "ACTIVE",
+  "creationDate": "2022-12-14T20:46:03.081Z",
+  "lastModifiedDate": "2024-03-13T16:56:02.872Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "130de7f2c9bd4d65bd7e52b8600aaad0"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Lego2KDrive"
+    }
+  },
+  "entitlementName": "aa08f7a5ec4246fcafd5d31638eb0845",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fbc10f7a49fd411e924ea1201993aa6b",
+      "appId": "86982262b877446db74928dce458c3e7",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567SqYffclOUI6zwYmIwh4CSAap",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

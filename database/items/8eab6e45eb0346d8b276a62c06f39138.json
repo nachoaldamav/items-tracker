@@ -1,0 +1,34 @@
+{
+  "id": "8eab6e45eb0346d8b276a62c06f39138",
+  "title": "AmetrineGeneralAudience",
+  "description": "AmetrineGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "8ad9396e01f046aaa784a33f7e60dfbe",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-13T22:17:12.080Z",
+  "lastModifiedDate": "2021-02-10T23:36:12.232Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "8eab6e45eb0346d8b276a62c06f39138",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

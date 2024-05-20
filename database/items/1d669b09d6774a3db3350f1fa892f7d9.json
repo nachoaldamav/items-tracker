@@ -1,0 +1,37 @@
+{
+  "id": "1d669b09d6774a3db3350f1fa892f7d9",
+  "title": "LCS audience",
+  "description": "LCS audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c4395ba88061417a8ac6bd3fdc7fba79",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-02T09:03:28.204Z",
+  "lastModifiedDate": "2023-12-20T22:09:15.608Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "1d669b09d6774a3db3350f1fa892f7d9",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "PQube",
+  "developerId": "o-9l5q72cwxf99kwzprbq6f558383l2l",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

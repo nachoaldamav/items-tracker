@@ -24,7 +24,7 @@
   "namespace": "3928fd8975b2437d894bbc5cd21de9a0",
   "status": "ACTIVE",
   "creationDate": "2019-08-15T17:09:28.420Z",
-  "lastModifiedDate": "2020-05-26T15:08:22.340Z",
+  "lastModifiedDate": "2023-10-04T14:59:01.770Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -34,14 +34,16 @@
   "entitlementName": "d60bc2d0c1874a7e94e42a513e8556c1",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "developer": "Koch Media",
+  "releaseInfo": [],
+  "developer": "Plaion",
   "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "esrbGameRatingValue": "MATURE",
   "ageGatings": {},
-  "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": true
 }

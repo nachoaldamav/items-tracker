@@ -1,0 +1,46 @@
+{
+  "id": "b4a9385a08914abea753a3545c1a9773",
+  "title": "ApatiteRagnarokAudience",
+  "description": "ApatiteRagnarokAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/ark/item/EGS_ARKSurvivalEvolved_StudioWildcard_RA1-401x200-c5255d56251641b939df2e6bebe10250.png",
+      "md5": "c5255d56251641b939df2e6bebe10250",
+      "width": 401,
+      "height": 200,
+      "size": 43418,
+      "uploadedDate": "2020-06-01T17:31:22.741Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ark",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-01T16:01:59.950Z",
+  "lastModifiedDate": "2020-06-11T14:27:52.868Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "b4a9385a08914abea753a3545c1a9773",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Studio Wildcard",
+  "developerId": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
+  "unsearchable": true
+}

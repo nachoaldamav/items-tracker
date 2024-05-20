@@ -1,0 +1,76 @@
+{
+  "id": "8077d89481064a9097dd4b8fe7bca090",
+  "title": "ARK ModKit (UE4)",
+  "description": "Flavored Editor for ARK Development",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/ark/EGS_ARKSurvivalEvolved_StudioWildcard_S1-2560x1440-c316afb7c33a9dfb892eef6b99169e43_2560x1440-c316afb7c33a9dfb892eef6b99169e43",
+      "md5": "c316afb7c33a9dfb892eef6b99169e43",
+      "width": 2560,
+      "height": 1440,
+      "size": 966339,
+      "uploadedDate": "2023-10-19T23:27:22.236Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/ark/EGS_ARKSurvivalEvolved_StudioWildcard_S2-1200x1600-5b58fdefea9f885c7426e894a1034921_1200x1600-5b58fdefea9f885c7426e894a1034921",
+      "md5": "5b58fdefea9f885c7426e894a1034921",
+      "width": 1200,
+      "height": 1600,
+      "size": 710510,
+      "uploadedDate": "2023-10-19T23:27:25.489Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "engines"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ark",
+  "status": "ACTIVE",
+  "creationDate": "2015-07-20T19:57:00.724Z",
+  "lastModifiedDate": "2023-10-19T23:35:46.837Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ARKEditor"
+    }
+  },
+  "entitlementName": "8077d89481064a9097dd4b8fe7bca090",
+  "entitlementType": "EXECUTABLE",
+  "entitlementStartDate": "2015-07-20T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0aa9149b87754f39925fa2f655924d1a",
+      "appId": "ARKDevKit",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2015-07-22T00:00:00.000Z"
+    }
+  ],
+  "developer": "Studio Wildcard",
+  "developerId": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+  "eulaIds": [
+    "(ark && unreal_engine)"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": true
+}

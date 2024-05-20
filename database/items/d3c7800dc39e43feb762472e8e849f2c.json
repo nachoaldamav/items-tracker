@@ -1,0 +1,49 @@
+{
+  "id": "d3c7800dc39e43feb762472e8e849f2c",
+  "title": "ZirconGeneralAudience",
+  "description": "ZirconGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/item/egs-remnantfromtheashes_rating-410x200-7413dc1504440c1045c70d14e18d29a4.png",
+      "md5": "7413dc1504440c1045c70d14e18d29a4",
+      "width": 410,
+      "height": 200,
+      "size": 14513,
+      "uploadedDate": "2020-08-06T14:25:23.479Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "663e521f2a444199be58152fd93fa66e",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-27T20:56:31.790Z",
+  "lastModifiedDate": "2024-04-12T06:08:43.450Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d3c7800dc39e43feb762472e8e849f2c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Arc Games",
+  "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": true
+}

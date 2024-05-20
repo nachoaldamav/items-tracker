@@ -1,0 +1,33 @@
+{
+  "id": "1d10926d926142399794ac3ec4119f52",
+  "title": "CarnelianGeneralAudience",
+  "description": "CarnelianGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "1109b87f323946e5b7883d724e6a22ba",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-11T21:42:34.221Z",
+  "lastModifiedDate": "2020-07-23T14:24:32.815Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "1d10926d926142399794ac3ec4119f52",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Capybara Games",
+  "developerId": "o-lbpf7js3rx6rhk4l4mkx2zph8a23zm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": true
+}

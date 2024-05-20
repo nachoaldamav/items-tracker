@@ -1,0 +1,47 @@
+{
+  "id": "04bc2679a41e4ddab989866b8478b5a6",
+  "title": "TealGeneralAudience",
+  "description": "TealGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/item/esrb-werewolf-842x404-ada4a7653183-842x404-d42fbb6417ac5db0630e58fc85c8ef8d.png",
+      "md5": "d42fbb6417ac5db0630e58fc85c8ef8d",
+      "width": 842,
+      "height": 404,
+      "size": 20912,
+      "uploadedDate": "2021-02-03T19:25:39.678Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "9c86694776c04893bec691f13f4b60fc",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-27T20:53:38.704Z",
+  "lastModifiedDate": "2021-02-05T17:14:02.027Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "04bc2679a41e4ddab989866b8478b5a6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Nacon",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

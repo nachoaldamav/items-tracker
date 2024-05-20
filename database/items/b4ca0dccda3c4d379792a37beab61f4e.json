@@ -1,0 +1,37 @@
+{
+  "id": "b4ca0dccda3c4d379792a37beab61f4e",
+  "title": "Stormraiser Starter Bundle audience",
+  "description": "Stormraiser Starter Bundle audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "f698d5d792654ac99f47d67e93916bef",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-27T20:37:33.120Z",
+  "lastModifiedDate": "2022-06-27T21:12:28.345Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b4ca0dccda3c4d379792a37beab61f4e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Playwing LTD",
+  "developerId": "o-z69v89gad8w2prqetqc35tegga56sx",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

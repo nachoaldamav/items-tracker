@@ -1,0 +1,47 @@
+{
+  "id": "9f6e3a7758fe468ab12187a1ead11829",
+  "title": "MtBlackburnGeneralAudience",
+  "description": "MtBlackburnGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/item/ESRB_T_Violence-840x403-5b53761ab1eff24381746101a5506d86.jpg",
+      "md5": "5b53761ab1eff24381746101a5506d86",
+      "width": 840,
+      "height": 403,
+      "size": 15333,
+      "uploadedDate": "2021-03-14T23:26:30.447Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-11T22:24:57.806Z",
+  "lastModifiedDate": "2021-03-18T00:55:11.419Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9f6e3a7758fe468ab12187a1ead11829",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Wargaming Group Limited",
+  "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

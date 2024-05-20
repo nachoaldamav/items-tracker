@@ -1,0 +1,34 @@
+{
+  "id": "2e1a392b0f0144418d3587f599ffd2d0",
+  "title": "Aurora Bundle audience",
+  "description": "Aurora Bundle audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "d613614e082c4f648835a32f15c1d29b",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-10T21:18:01.553Z",
+  "lastModifiedDate": "2023-12-13T18:33:59.064Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "2e1a392b0f0144418d3587f599ffd2d0",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Proxima Beta Europe B.V.",
+  "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,101 @@
+{
+  "id": "d0083c0713b140709d92ac02b179cbf2",
+  "title": "Ghostwire Tokyo",
+  "description": "Ghostwire Tokyo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/a93cd6111251461c953776a0c4ea4d80/ghostwire_wide_2560x1440-4bc1a83c819408d33e29e61f1a9d66e4",
+      "md5": "4bc1a83c819408d33e29e61f1a9d66e4",
+      "width": 2560,
+      "height": 1440,
+      "size": 1014513,
+      "uploadedDate": "2022-02-03T23:47:22.302Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/a93cd6111251461c953776a0c4ea4d80/ghostwire_tall_1200x1600-7b8a36d1dfe782ed625e6c6bba487df9",
+      "md5": "7b8a36d1dfe782ed625e6c6bba487df9",
+      "width": 1200,
+      "height": 1600,
+      "size": 580258,
+      "uploadedDate": "2022-02-03T23:47:33.415Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a93cd6111251461c953776a0c4ea4d80",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-27T20:09:48.302Z",
+  "lastModifiedDate": "2024-04-17T15:41:05.459Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "a93cd6111251461c953776a0c4ea4d80"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/TangoGameworks/GhostWire Tokyo (EGS)/Saved/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "Config/CrashReportClient/,Logs/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GhostwireTokyo"
+    }
+  },
+  "entitlementName": "d0083c0713b140709d92ac02b179cbf2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ff5eccc004124100a7130cd04997e655",
+      "appId": "007ff8f4e30845a687e66aa77eb3e965",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "eulaIds": [
+    "(egstore && ghostwiretokyo)"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi45674YWlfOOMopKMCbUmsfgfbZda",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

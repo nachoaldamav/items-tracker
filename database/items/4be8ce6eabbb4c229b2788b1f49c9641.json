@@ -1,0 +1,34 @@
+{
+  "id": "4be8ce6eabbb4c229b2788b1f49c9641",
+  "title": "WoWNHPack audience",
+  "description": "WoWNHPack audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+  "status": "ACTIVE",
+  "creationDate": "2024-02-01T15:08:45.639Z",
+  "lastModifiedDate": "2024-03-20T13:44:44.352Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4be8ce6eabbb4c229b2788b1f49c9641",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Wargaming Group Limited",
+  "developerId": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

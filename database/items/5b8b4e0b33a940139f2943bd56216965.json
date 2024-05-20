@@ -1,0 +1,91 @@
+{
+  "id": "5b8b4e0b33a940139f2943bd56216965",
+  "title": "Suicide Squad: Kill the Justice League",
+  "description": "Suicide Squad: Kill the Justice League",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/76cd63399a874c2b854fd74cda49a256/EGS_SuicideSquadKilltheJusticeLeague_RocksteadyStudios_S1_2560x1440-47933348a0228088e550cf861c2d01c9",
+      "md5": "47933348a0228088e550cf861c2d01c9",
+      "width": 2560,
+      "height": 1440,
+      "size": 828176,
+      "uploadedDate": "2023-11-09T23:53:18.969Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/76cd63399a874c2b854fd74cda49a256/EGS_SuicideSquadKilltheJusticeLeague_RocksteadyStudios_S2_1200x1600-de19e59d88cabce5d7767cbf12acf504",
+      "md5": "de19e59d88cabce5d7767cbf12acf504",
+      "width": 1200,
+      "height": 1600,
+      "size": 523055,
+      "uploadedDate": "2023-11-09T23:53:27.396Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "76cd63399a874c2b854fd74cda49a256",
+  "status": "ACTIVE",
+  "creationDate": "2022-04-08T18:19:21.938Z",
+  "lastModifiedDate": "2024-03-27T16:09:16.709Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SuicideSquadKTJL"
+    }
+  },
+  "entitlementName": "5b8b4e0b33a940139f2943bd56216965",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ed61b2d724ea4d8aa2bcf0a6c8fb6a5b",
+      "appId": "e3306721e7c64f1cbf71235bcb260d53",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2022-04-08T18:23:00.000Z"
+    }
+  ],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567xiKojoPeaF9R9IiLoGqFOoQy",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

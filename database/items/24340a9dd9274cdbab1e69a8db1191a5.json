@@ -1,0 +1,98 @@
+{
+  "id": "24340a9dd9274cdbab1e69a8db1191a5",
+  "title": "Forspoken",
+  "description": "Forspoken",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/a472b0f2f2a5493d960a941f01cf3393/EGS_Forspoken_LuminousProductions_S1_2560x1440-f2f99882e9d396b21fb65735d266385a",
+      "md5": "f2f99882e9d396b21fb65735d266385a",
+      "width": 2560,
+      "height": 1440,
+      "size": 953835,
+      "uploadedDate": "2022-03-07T23:11:50.448Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/a472b0f2f2a5493d960a941f01cf3393/EGS_Forspoken_LuminousProductions_S2_1200x1600-dd7b5d1f22cb04906377b7ed895779b8",
+      "md5": "dd7b5d1f22cb04906377b7ed895779b8",
+      "width": 1200,
+      "height": 1600,
+      "size": 666006,
+      "uploadedDate": "2022-03-07T23:11:43.862Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a472b0f2f2a5493d960a941f01cf3393",
+  "status": "ACTIVE",
+  "creationDate": "2021-10-06T16:06:05.086Z",
+  "lastModifiedDate": "2023-01-31T01:30:08.781Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "a472b0f2f2a5493d960a941f01cf3393"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/FORSPOKEN/EOS/{EpicID}/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Forspoken"
+    }
+  },
+  "entitlementName": "24340a9dd9274cdbab1e69a8db1191a5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "caa0456916934a849faad0631022eb48",
+      "appId": "b3ba6c87af684e31a33847156485f315",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Square Enix (Japan)",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "eulaIds": [
+    "(egstore && forspoken)"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi456788Ywb0hCastvfWPuiXUUpzeM",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

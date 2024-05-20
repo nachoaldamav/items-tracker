@@ -1,0 +1,50 @@
+{
+  "id": "8a257a3dc203464fad5cf96a48ac8831",
+  "title": "HushGeneralAudience",
+  "description": "HushGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_YsIXMonstrumNox_NihonFalcom_RA1_418x200-c813ce64c0771be1775e8e8f6a3f588f",
+      "md5": "c813ce64c0771be1775e8e8f6a3f588f",
+      "width": 418,
+      "height": 200,
+      "size": 33421,
+      "uploadedDate": "2021-07-06T17:11:21.667Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "e59da5b391d24c05ba6d9115b6e05459",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-15T21:18:29.555Z",
+  "lastModifiedDate": "2021-07-06T17:11:24.822Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "8a257a3dc203464fad5cf96a48ac8831",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "NIS America, Inc.",
+  "developerId": "o-24ec9efll733ggh8wybar3x8zetflu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

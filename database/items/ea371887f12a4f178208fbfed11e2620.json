@@ -1,0 +1,34 @@
+{
+  "id": "ea371887f12a4f178208fbfed11e2620",
+  "title": "MaizeGeneralAudience",
+  "description": "MaizeGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "a7cada234b3840b88336f028778ff162",
+  "status": "ACTIVE",
+  "creationDate": "2021-06-25T21:09:57.455Z",
+  "lastModifiedDate": "2024-04-18T16:20:57.605Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ea371887f12a4f178208fbfed11e2620",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Focus Entertainment Publishing",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

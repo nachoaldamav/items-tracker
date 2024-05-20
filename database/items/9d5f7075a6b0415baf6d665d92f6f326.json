@@ -1,0 +1,90 @@
+{
+  "id": "9d5f7075a6b0415baf6d665d92f6f326",
+  "title": "WRC 10 FIA World Rally Championship",
+  "description": "WRC 10 FIA World Rally Championship",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WRC10FIAWorldRallyChampionship_KTRacing_S1_2560x1440-dc491a3d734c4137a223f2c85f422ba7",
+      "md5": "dc491a3d734c4137a223f2c85f422ba7",
+      "width": 2560,
+      "height": 1440,
+      "size": 843876,
+      "uploadedDate": "2021-09-01T22:40:14.295Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WRC10FIAWorldRallyChampionship_KTRacing_S2_1200x1600-f1f76e27c255d020f2994932289b3a69",
+      "md5": "f1f76e27c255d020f2994932289b3a69",
+      "width": 1200,
+      "height": 1600,
+      "size": 973046,
+      "uploadedDate": "2021-09-01T22:40:21.627Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d4d0270b8219470ebfc720c18767aef9",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-01T20:59:12.190Z",
+  "lastModifiedDate": "2021-09-02T05:40:54.600Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "d4d0270b8219470ebfc720c18767aef9"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WRC10"
+    }
+  },
+  "entitlementName": "9d5f7075a6b0415baf6d665d92f6f326",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d083c28672a6458ea1786a8737ee7d62",
+      "appId": "de78d876e9044fe6ad069720cc035c95",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Nacon",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567C3RuHvcsjpezr0pi28M557hS",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,7 +1,27 @@
 {
   "id": "b4f9d81746a84e6c8600610786078699",
-  "title": "Korat",
-  "description": "Korat",
+  "title": "The Outlast Trials",
+  "description": "The Outlast Trials",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/6504cc61472e498796e0b4963a201438/EGS_TheOutlastTrials_RedBarrels_S2-1200x1600-c70676de7925195513fa7bc4bc2f1d9b_1200x1600-c70676de7925195513fa7bc4bc2f1d9b",
+      "md5": "c70676de7925195513fa7bc4bc2f1d9b",
+      "width": 1200,
+      "height": 1600,
+      "size": 433262,
+      "uploadedDate": "2023-05-16T15:40:56.254Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/6504cc61472e498796e0b4963a201438/EGS_TheOutlastTrials_RedBarrels_S1-2560x1440-94e9ca382991373a4a464665014a78d4_2560x1440-94e9ca382991373a4a464665014a78d4",
+      "md5": "94e9ca382991373a4a464665014a78d4",
+      "width": 2560,
+      "height": 1440,
+      "size": 822931,
+      "uploadedDate": "2023-05-16T15:40:58.627Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,7 +36,7 @@
   "namespace": "6504cc61472e498796e0b4963a201438",
   "status": "ACTIVE",
   "creationDate": "2020-06-13T17:06:58.414Z",
-  "lastModifiedDate": "2020-06-13T20:17:46.764Z",
+  "lastModifiedDate": "2024-03-05T14:45:25.379Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -30,6 +50,10 @@
       "type": "STRING",
       "value": "false"
     },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/OPP/Saved/SaveGames/"
+    },
     "UseAccessControl": {
       "type": "STRING",
       "value": "false"
@@ -38,13 +62,17 @@
       "type": "STRING",
       "value": "[]"
     },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Korat"
+      "value": "TheOutlastTrials"
     }
   },
   "entitlementName": "b4f9d81746a84e6c8600610786078699",
@@ -52,18 +80,21 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "3c955a0f7b134aef87fc55e3180d9362",
-      "appId": "Korat",
+      "id": "c5766a53d1ac4c63b8bb5ce5c378273b",
+      "appId": "a56b983521bd46cfa79969a5a7c9d0c8",
       "platform": [
         "Windows"
       ]
     }
   ],
-  "developer": "Red Barrels",
+  "developer": "Red Barrels Inc",
   "developerId": "o-43vl99bsbv9r5mtf76dv98b7um7kn4",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
-  "unsearchable": false
+  "ageGatings": {},
+  "applicationId": "fghi4567GAPeJHUz6K0FZFkNT4TFtRLq",
+  "unsearchable": true
 }

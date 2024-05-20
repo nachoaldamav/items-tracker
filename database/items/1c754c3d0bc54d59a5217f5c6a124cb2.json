@@ -1,0 +1,38 @@
+{
+  "id": "1c754c3d0bc54d59a5217f5c6a124cb2",
+  "title": "KokytosGeneralAudience",
+  "description": "KokytosGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "9afbc4780d874152a1c66d5fec0967d4",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-28T12:25:37.467Z",
+  "lastModifiedDate": "2021-07-20T21:11:02.043Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "1c754c3d0bc54d59a5217f5c6a124cb2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Shiro Games SAS",
+  "developerId": "o-ealhln64lfep9ww929uq9qcdmbyfn4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

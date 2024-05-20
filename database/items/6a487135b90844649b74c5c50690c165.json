@@ -1,0 +1,37 @@
+{
+  "id": "6a487135b90844649b74c5c50690c165",
+  "title": "OST 2 audience",
+  "description": "OST 2 audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "a93cd6111251461c953776a0c4ea4d80",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-21T09:04:28.819Z",
+  "lastModifiedDate": "2023-10-25T23:26:17.967Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "6a487135b90844649b74c5c50690c165",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

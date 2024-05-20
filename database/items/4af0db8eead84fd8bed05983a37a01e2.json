@@ -1,0 +1,37 @@
+{
+  "id": "4af0db8eead84fd8bed05983a37a01e2",
+  "title": "DublinGeneralAudience",
+  "description": "DublinGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "487df1dfd24b44c381a2a376fbf78946",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T17:10:12.015Z",
+  "lastModifiedDate": "2023-12-07T10:01:19.327Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4af0db8eead84fd8bed05983a37a01e2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Skystone Games",
+  "developerId": "o-wwzfgcpzmd2b2ymr5mwvlwfwbpl7ay",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": true
+}

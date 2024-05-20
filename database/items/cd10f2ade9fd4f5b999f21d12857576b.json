@@ -1,0 +1,35 @@
+{
+  "id": "cd10f2ade9fd4f5b999f21d12857576b",
+  "title": "PianoGeneralAudience",
+  "description": "PianoGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "df9dccc5ebe4449db2300af4c061615c",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-13T15:58:11.456Z",
+  "lastModifiedDate": "2021-01-28T14:40:01.118Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "cd10f2ade9fd4f5b999f21d12857576b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,35 @@
+{
+  "id": "55e4549f870f4dc881aae3937c7d1f79",
+  "title": "TitaniumGeneralAudience",
+  "description": "TitaniumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "21916c391ae4425d8f6cce2382aebd0c",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-21T00:49:56.967Z",
+  "lastModifiedDate": "2023-05-08T15:49:13.740Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "55e4549f870f4dc881aae3937c7d1f79",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Red Hook Studios",
+  "developerId": "o-w5yb6awebxmp362nvut3qd3xb4jmur",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

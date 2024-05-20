@@ -1,0 +1,35 @@
+{
+  "id": "443d24f21ecd494da7f3d4d98ba77ada",
+  "title": "PapayaGeneralAudience",
+  "description": "PapayaGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "cd03e75f3ded4772990049fb69ec4358",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-26T23:08:13.406Z",
+  "lastModifiedDate": "2020-09-22T14:53:14.085Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "443d24f21ecd494da7f3d4d98ba77ada",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Panic",
+  "developerId": "o-a62axwpwx275msq4yzhdhk9acaf8x3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

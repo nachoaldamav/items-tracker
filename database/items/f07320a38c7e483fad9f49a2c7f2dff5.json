@@ -1,0 +1,48 @@
+{
+  "id": "f07320a38c7e483fad9f49a2c7f2dff5",
+  "title": "LazuriteGeneralAudience",
+  "description": "LazuriteGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/58dfcd1952ee48c1a1fa31c6ace5fe3d/item/ESRB_TheLongDark-842x404-567618dab28f5815950a9a26a76257c3.png",
+      "md5": "567618dab28f5815950a9a26a76257c3",
+      "width": 842,
+      "height": 404,
+      "size": 47679,
+      "uploadedDate": "2020-12-18T19:20:01.405Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "58dfcd1952ee48c1a1fa31c6ace5fe3d",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-12T21:17:05.021Z",
+  "lastModifiedDate": "2022-12-05T21:54:28.822Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "f07320a38c7e483fad9f49a2c7f2dff5",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Hinterland Studio",
+  "developerId": "o-7defvk4pc8qgqudmkzts63kwttreyu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": true
+}

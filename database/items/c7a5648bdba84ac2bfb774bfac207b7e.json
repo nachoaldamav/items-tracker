@@ -1,0 +1,35 @@
+{
+  "id": "c7a5648bdba84ac2bfb774bfac207b7e",
+  "title": "CymricSeasonPassAudience_Redeemable",
+  "description": "CymricSeasonPassAudience_Redeemable",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "03ecca4e19a9483aa05b3d99948c43ce",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-11T15:35:51.168Z",
+  "lastModifiedDate": "2020-07-14T16:01:56.333Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c7a5648bdba84ac2bfb774bfac207b7e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

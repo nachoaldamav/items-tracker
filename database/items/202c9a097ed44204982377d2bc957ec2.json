@@ -1,0 +1,88 @@
+{
+  "id": "202c9a097ed44204982377d2bc957ec2",
+  "title": "KARDS - The WWII Card Game",
+  "description": "KARDS - The WWII Card Game",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/d34cf6aeceb94c579af0236fe1185b79/EGS_KARDSTheWWIICardGame_1939Games_S1_2560x1440-d1ab5576cc7af354ff628d13ef645fa9",
+      "md5": "d1ab5576cc7af354ff628d13ef645fa9",
+      "width": 2560,
+      "height": 1440,
+      "size": 990450,
+      "uploadedDate": "2022-10-14T23:48:54.518Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/d34cf6aeceb94c579af0236fe1185b79/EGS_KARDSTheWWIICardGame_1939Games_S2_1200x1600-5f69dc5efe9cac032cd113559a4765e1",
+      "md5": "5f69dc5efe9cac032cd113559a4765e1",
+      "width": 1200,
+      "height": 1600,
+      "size": 817664,
+      "uploadedDate": "2022-10-14T23:48:57.714Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d34cf6aeceb94c579af0236fe1185b79",
+  "status": "ACTIVE",
+  "creationDate": "2021-06-21T11:52:44.363Z",
+  "lastModifiedDate": "2024-05-20T09:34:36.100Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "d34cf6aeceb94c579af0236fe1185b79"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KARDS"
+    }
+  },
+  "entitlementName": "202c9a097ed44204982377d2bc957ec2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5dfbaaaf0a4b49bbafbef5794ecfe6ba",
+      "appId": "0abe90092fd744129152d5fe3d79a2ec",
+      "platform": []
+    }
+  ],
+  "developer": "1939 Games",
+  "developerId": "o-48w8whx3gtk4g452567d6vll4sfsxu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567VwIJP8V2DBPqFh9PYtWNzZyf",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

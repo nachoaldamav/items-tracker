@@ -1,0 +1,35 @@
+{
+  "id": "38297c3b36ad43fe848b31ccdf4c1133",
+  "title": "LassiGeneralAudience",
+  "description": "LassiGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "a6d63a4ae01549b3a4ddd838ff189f87",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-28T16:40:02.573Z",
+  "lastModifiedDate": "2020-10-08T16:01:18.993Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "38297c3b36ad43fe848b31ccdf4c1133",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

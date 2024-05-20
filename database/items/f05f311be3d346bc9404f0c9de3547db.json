@@ -1,0 +1,38 @@
+{
+  "id": "f05f311be3d346bc9404f0c9de3547db",
+  "title": "CancerGeneralAudience",
+  "description": "CancerGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "a7e2a2c51b9149c097b771926ed91877",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-24T01:54:32.953Z",
+  "lastModifiedDate": "2021-12-14T02:00:04.300Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f05f311be3d346bc9404f0c9de3547db",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Antiidelay",
+  "developerId": "o-8l37hwc5mnwkll22nf6carncee6w64",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

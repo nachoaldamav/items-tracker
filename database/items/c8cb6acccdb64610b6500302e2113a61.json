@@ -1,0 +1,97 @@
+{
+  "id": "c8cb6acccdb64610b6500302e2113a61",
+  "title": "Isonzo",
+  "description": "Isonzo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/30de69013f3b41b0ba594a8ef3b693ba/EGS_Isonzo_BlackMillGames_S1_2560x1440-a3e9fd6c07df8b5951fbb3e97c62e224",
+      "md5": "a3e9fd6c07df8b5951fbb3e97c62e224",
+      "width": 2560,
+      "height": 1440,
+      "size": 501430,
+      "uploadedDate": "2024-04-09T18:48:37.981Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/30de69013f3b41b0ba594a8ef3b693ba/EGS_Isonzo_BlackMillGames_S2_1200x1600-8f30452c6336c0a9f8c3b4722bba4206",
+      "md5": "8f30452c6336c0a9f8c3b4722bba4206",
+      "width": 1200,
+      "height": 1600,
+      "size": 347699,
+      "uploadedDate": "2024-04-09T18:48:45.176Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "30de69013f3b41b0ba594a8ef3b693ba",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-22T05:12:52.410Z",
+  "lastModifiedDate": "2024-04-10T13:00:10.818Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "30de69013f3b41b0ba594a8ef3b693ba"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/WW1 Game Series/Isonzo/Epic/{EpicID}"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "SaveData_User.dat,SaveData_User.dat.backup"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Isonzo"
+    }
+  },
+  "entitlementName": "c8cb6acccdb64610b6500302e2113a61",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ee94643a3ba9437b803285bad7ed2047",
+      "appId": "654a21e54b844324bb6a34e995f620bc",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2022-09-12T23:33:00.000Z"
+    }
+  ],
+  "developer": "BlackMill Games B.V.",
+  "developerId": "o-pqh887lztbpbmnnzvlmm79bps4an8w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi45673dXhMsgimeiM6POBKpJ1U3BG",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

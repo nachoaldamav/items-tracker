@@ -1,0 +1,38 @@
+{
+  "id": "13f00b1dd2ac4f5cbccd187f8d3616e7",
+  "title": "CustardGeneralAudience",
+  "description": "CustardGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "3a18db06dff0465b8a58308aa29020a0",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-14T15:10:58.203Z",
+  "lastModifiedDate": "2024-05-20T14:59:45.796Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "13f00b1dd2ac4f5cbccd187f8d3616e7",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Coffee Stain Publishing",
+  "developerId": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

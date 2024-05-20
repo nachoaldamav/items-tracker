@@ -1,0 +1,34 @@
+{
+  "id": "b33c8aa4b8a54e398559f4ad432fdcff",
+  "title": "HeliumDLC01 audience",
+  "description": "HeliumDLC01 audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "768ec2d3b5114ac4a800631b12ee3f31",
+  "status": "ACTIVE",
+  "creationDate": "2022-02-09T18:55:56.870Z",
+  "lastModifiedDate": "2022-04-25T19:46:01.021Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b33c8aa4b8a54e398559f4ad432fdcff",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Spry Fox LLC",
+  "developerId": "o-k4863wgz6fj9hdltmzvvx8pcfr5ftp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

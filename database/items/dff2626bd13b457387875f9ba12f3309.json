@@ -1,0 +1,90 @@
+{
+  "id": "dff2626bd13b457387875f9ba12f3309",
+  "title": "HOT WHEELS UNLEASHED™",
+  "description": "HOT WHEELS UNLEASHED™",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HOTWHEELSUNLEASHED_MilestoneSrl_S1_2560x1440-fcf8a60bb23c64a7f3d0b2ce81334087",
+      "md5": "fcf8a60bb23c64a7f3d0b2ce81334087",
+      "width": 2560,
+      "height": 1440,
+      "size": 500176,
+      "uploadedDate": "2021-09-29T23:55:02.059Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HOTWHEELSUNLEASHED_MilestoneSrl_S2_1200x1600-30ec276e4019296d3efd50d5b6ffe1bc",
+      "md5": "30ec276e4019296d3efd50d5b6ffe1bc",
+      "width": 1200,
+      "height": 1600,
+      "size": 501140,
+      "uploadedDate": "2021-09-29T23:55:07.153Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "71e6bd85af1841f598526da595f22a62",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-30T22:25:10.632Z",
+  "lastModifiedDate": "2023-07-20T13:36:27.924Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "71e6bd85af1841f598526da595f22a62"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HOTWHEELSUNLEASHED"
+    }
+  },
+  "entitlementName": "dff2626bd13b457387875f9ba12f3309",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b28d6f850ee140bb99e80194be836ff6",
+      "appId": "0006475a83f143ba807174654bc09d38",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Milestone Srl",
+  "developerId": "o-n7dnjfk8y2kzquszv8mfn55fg68f7a",
+  "eulaIds": [
+    "(egstore && Tango)"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567zPZ13kAKP1v8eqp66dUToALX",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

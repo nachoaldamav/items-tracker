@@ -1,0 +1,88 @@
+{
+  "id": "0cf19be6e48146b691370eeae4d4915f",
+  "title": "Farmer's Dynasty",
+  "description": "Farmer's Dynasty",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/a83aedcdb7304b51802d41c5ca308ef2/EGS_FarmersDynasty_UMEOStudios_S1_2560x1440-ea1cae5e32b3e5b222501c49fcdb39ab",
+      "md5": "ea1cae5e32b3e5b222501c49fcdb39ab",
+      "width": 2560,
+      "height": 1440,
+      "size": 851417,
+      "uploadedDate": "2022-01-07T21:06:01.400Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/a83aedcdb7304b51802d41c5ca308ef2/EGS_FarmersDynasty_UMEOStudios_S2_1200x1600-1d06135c700200fc9e763c1fd4625beb",
+      "md5": "1d06135c700200fc9e763c1fd4625beb",
+      "width": 1200,
+      "height": 1600,
+      "size": 491743,
+      "uploadedDate": "2022-01-07T21:06:05.917Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a83aedcdb7304b51802d41c5ca308ef2",
+  "status": "ACTIVE",
+  "creationDate": "2021-08-12T14:50:57.707Z",
+  "lastModifiedDate": "2024-05-20T09:33:40.567Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "a83aedcdb7304b51802d41c5ca308ef2"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FarmersDynasty"
+    }
+  },
+  "entitlementName": "0cf19be6e48146b691370eeae4d4915f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2f01db36627e4d9c9f8a2d7da5311ae7",
+      "appId": "9496b528903c47af9fd4483f825e3963",
+      "platform": []
+    }
+  ],
+  "developer": "Toplitz Productions GmbH",
+  "developerId": "o-5p7vmece7eqgvdyjqvene54arynxxh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567YHrVjHdqMMqCrjnY17bi6ypA",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

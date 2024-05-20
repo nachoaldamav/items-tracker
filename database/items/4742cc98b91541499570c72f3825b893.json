@@ -1,0 +1,105 @@
+{
+  "id": "4742cc98b91541499570c72f3825b893",
+  "title": "Tiny Tina's Wonderlands",
+  "description": "Tiny Tina's Wonderlands",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/c37115918ccc4969a57b6b1bdc28af4a/TTW_wide_2560x1440-698fba08f2bcd7cb08fc6cf1829b02d1",
+      "md5": "698fba08f2bcd7cb08fc6cf1829b02d1",
+      "width": 2560,
+      "height": 1440,
+      "size": 951114,
+      "uploadedDate": "2022-03-18T16:32:00.822Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/c37115918ccc4969a57b6b1bdc28af4a/TTWL_Tall_1200x1600-8881f33c487317d490f33085edec1100",
+      "md5": "8881f33c487317d490f33085edec1100",
+      "width": 1200,
+      "height": 1600,
+      "size": 896610,
+      "uploadedDate": "2022-03-18T16:32:06.027Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c37115918ccc4969a57b6b1bdc28af4a",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-04T23:20:16.657Z",
+  "lastModifiedDate": "2022-03-23T17:54:40.090Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "c37115918ccc4969a57b6b1bdc28af4a"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/Tiny Tina's Wonderlands/Saved/SaveGames/{EpicID}/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TinyTinasWonderlands"
+    }
+  },
+  "entitlementName": "4742cc98b91541499570c72f3825b893",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "adf91e3ff3ec419f9d3fce9d27189283",
+      "appId": "eb6ddfb245f647e2bb6902f52f38a535",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-04T23:34:28.364Z"
+    }
+  ],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567m8VayxPLlfaU2DOGG5u5CE1v",
+  "unsearchable": true
+}

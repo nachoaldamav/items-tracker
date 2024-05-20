@@ -1,0 +1,72 @@
+{
+  "id": "e70eeb7dcb354e9daaafc39251dcdbac",
+  "title": "lava Public",
+  "description": "lava Public",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c8d91ab60465466e9efeec824c3217db",
+  "status": "ACTIVE",
+  "creationDate": "2021-06-15T13:49:56.729Z",
+  "lastModifiedDate": "2021-08-07T00:55:43.119Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "c8d91ab60465466e9efeec824c3217db"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "lavaPublic"
+    }
+  },
+  "entitlementName": "e70eeb7dcb354e9daaafc39251dcdbac",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "080389d5d5c241539e0823bfb68d0990",
+      "appId": "4478694a2deb4ff29315cb829d83e4ef",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "applicationId": "fghi456755PtdRVVEyuHtM0LQDNd61eA",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

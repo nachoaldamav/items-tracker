@@ -1,0 +1,91 @@
+{
+  "id": "0085fd876db94b0cbf2b3ac46c2db99d",
+  "title": "Wargame: Red Dragon",
+  "description": "Wargame: Red Dragon",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/item/EGS_WargameRedDragon_EugenSystems_S1-2560x1440-300f7ef2c4b0f994757eddac0c1d7b8b.jpg",
+      "md5": "300f7ef2c4b0f994757eddac0c1d7b8b",
+      "width": 2560,
+      "height": 1440,
+      "size": 945614,
+      "uploadedDate": "2020-10-23T23:11:29.554Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/item/EGS_WargameRedDragon_EugenSystems_S2-1200x1600-7afd0dc5cde72330c4318d84ae9e07c4.jpg",
+      "md5": "7afd0dc5cde72330c4318d84ae9e07c4",
+      "width": 1200,
+      "height": 1600,
+      "size": 813218,
+      "uploadedDate": "2020-10-23T23:11:50.661Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d66c34349a054c3ea529726a5687520e",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-30T20:17:42.710Z",
+  "lastModifiedDate": "2021-03-04T15:50:47.080Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "d66c34349a054c3ea529726a5687520e"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WargameRedDragon"
+    }
+  },
+  "entitlementName": "0085fd876db94b0cbf2b3ac46c2db99d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a5fa4bb50b8a48c7afd0141239dfcefa",
+      "appId": "2cd446792405468e9e87f67649d864c2",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-04-30T00:00:00.000Z"
+    }
+  ],
+  "developer": "Eugen Systems",
+  "developerId": "o-dcl7pwxvcjx2f42g8sexmmbwjcx44t",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

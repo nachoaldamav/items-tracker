@@ -1,0 +1,104 @@
+{
+  "id": "5b2d14c165be4b9b829fb1bff9ce491c",
+  "title": "Songs of Conquest",
+  "description": "Songs of Conquest",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/3a18db06dff0465b8a58308aa29020a0/EGS_SongsofConquest_Lavapotion_S1_2560x1440-fa8ea8f7cebfc72538f205aab8649839",
+      "md5": "fa8ea8f7cebfc72538f205aab8649839",
+      "width": 2560,
+      "height": 1440,
+      "size": 756035,
+      "uploadedDate": "2024-05-14T16:46:23.016Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/3a18db06dff0465b8a58308aa29020a0/EGS_SongsofConquest_Lavapotion_S2_1200x1600-b35270b59f6a951b671e056b0f280f0d",
+      "md5": "b35270b59f6a951b671e056b0f280f0d",
+      "width": 1200,
+      "height": 1600,
+      "size": 467980,
+      "uploadedDate": "2024-05-14T16:46:30.981Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3a18db06dff0465b8a58308aa29020a0",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-14T15:10:58.307Z",
+  "lastModifiedDate": "2024-05-20T14:59:45.804Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Lavapotion/SongsOfConquest/"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "3a18db06dff0465b8a58308aa29020a0"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Lavapotion/SongsOfConquest/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Misc/,sts.lvp"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SongsOfConquest"
+    }
+  },
+  "entitlementName": "5b2d14c165be4b9b829fb1bff9ce491c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "de035060b9fb46e8aedfe273295f4eeb",
+      "appId": "537f7351f9fb4b67a2fea2273e9c8277",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2022-03-07T18:47:04.511Z"
+    }
+  ],
+  "developer": "Coffee Stain Publishing",
+  "developerId": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567p0FupyHl1AEISpm4sFM2uHlv",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

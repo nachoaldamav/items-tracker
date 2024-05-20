@@ -1,0 +1,34 @@
+{
+  "id": "105d7d97e6d64906844097840a3941de",
+  "title": "TestSDKDLCAudience audience",
+  "description": "TestSDKDLCAudience audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "573716176bd64e3d93fc6cbab520a9e0",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-01T22:09:07.410Z",
+  "lastModifiedDate": "2022-09-01T22:09:07.410Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "105d7d97e6d64906844097840a3941de",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "My Team MrRVK",
+  "developerId": "o-c25b7lqcyngkrhc47344etanhbxt84",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

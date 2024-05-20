@@ -1,0 +1,35 @@
+{
+  "id": "8b22b56f3c4748f4a5012559590ae4bf",
+  "title": "MaroniGeneralAudience",
+  "description": "MaroniGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "1c83fd721cf44f79b3b9902ea71a5a06",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-06T21:44:51.420Z",
+  "lastModifiedDate": "2020-10-07T00:29:31.109Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "8b22b56f3c4748f4a5012559590ae4bf",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

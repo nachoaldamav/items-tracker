@@ -1,0 +1,101 @@
+{
+  "id": "ec549727d7084801a2ff7f63eb0e5459",
+  "title": "Dying Light 2 Stay Human - Reloaded Edition",
+  "description": "Dying Light 2 Stay Human - Reloaded Edition",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanReloadedEdition_Techland_S1_2560x1440-98867399a3a85b1c0ec61f2333b00a32",
+      "md5": "98867399a3a85b1c0ec61f2333b00a32",
+      "width": 2560,
+      "height": 1440,
+      "size": 421265,
+      "uploadedDate": "2024-02-16T10:28:31.466Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanReloadedEdition_Techland_S2_1200x1600-76cef594ff94fbac64a8af1ebe4c7590",
+      "md5": "76cef594ff94fbac64a8af1ebe4c7590",
+      "width": 1200,
+      "height": 1600,
+      "size": 783950,
+      "uploadedDate": "2024-02-16T10:28:34.261Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "87b7846d2eba4bc49eead0854323aba8",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-23T20:31:39.322Z",
+  "lastModifiedDate": "2024-02-22T15:50:17.194Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "87b7846d2eba4bc49eead0854323aba8"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/dying light 2/out/storage/{EpicID}/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DyingLight2StayHuman"
+    }
+  },
+  "entitlementName": "ec549727d7084801a2ff7f63eb0e5459",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "864d50afeb234392b4a44883b229eebb",
+      "appId": "Redstart",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-28T00:00:00.000Z"
+    }
+  ],
+  "developer": "Techland",
+  "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi456729DgFYpxm5WhcXvZbHgSv670",
+  "unsearchable": true
+}

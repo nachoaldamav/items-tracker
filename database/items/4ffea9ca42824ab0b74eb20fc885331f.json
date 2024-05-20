@@ -1,0 +1,37 @@
+{
+  "id": "4ffea9ca42824ab0b74eb20fc885331f",
+  "title": "Metallica Deluxe audience",
+  "description": "Metallica Deluxe audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "76cd63399a874c2b854fd74cda49a256",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-07T20:11:31.510Z",
+  "lastModifiedDate": "2024-03-26T14:34:30.909Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4ffea9ca42824ab0b74eb20fc885331f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

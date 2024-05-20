@@ -1,0 +1,46 @@
+{
+  "id": "e02c37b347464e5db087f8890e14fd2c",
+  "title": "Champion of Gaia Edition Audience",
+  "description": "Champion of Gaia Edition Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/item/esrb-werewolf-842x404-ada4a7653183-842x404-d42fbb6417ac5db0630e58fc85c8ef8d.png",
+      "md5": "d42fbb6417ac5db0630e58fc85c8ef8d",
+      "width": 842,
+      "height": 404,
+      "size": 20912,
+      "uploadedDate": "2021-02-03T19:51:25.255Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "9c86694776c04893bec691f13f4b60fc",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-13T14:15:49.272Z",
+  "lastModifiedDate": "2021-02-04T12:54:17.510Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e02c37b347464e5db087f8890e14fd2c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "unsearchable": true
+}

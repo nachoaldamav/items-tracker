@@ -1,0 +1,101 @@
+{
+  "id": "c76ea7c47fd14e14bacc67943084eeca",
+  "title": "Football Manager 2022",
+  "description": "Football Manager 2022",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FootballManager2022_SportsInteractive_S1_2560x1440-b8b3816a89feb951b3c37da921ee57cd",
+      "md5": "b8b3816a89feb951b3c37da921ee57cd",
+      "width": 2560,
+      "height": 1440,
+      "size": 894863,
+      "uploadedDate": "2021-09-09T07:02:05.000Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FootballManager2022_SportsInteractive_S2_1200x1600-5377adfa5fd611bd6726995ece5b04ef",
+      "md5": "5377adfa5fd611bd6726995ece5b04ef",
+      "width": 1200,
+      "height": 1600,
+      "size": 830046,
+      "uploadedDate": "2021-09-09T07:02:08.476Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "97071dce4a98441d9c0b7f0df92f7b31",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-10T16:44:18.701Z",
+  "lastModifiedDate": "2023-08-06T16:31:26.778Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "97071dce4a98441d9c0b7f0df92f7b31"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "NotarizedAndSigned": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FootballManager2022"
+    }
+  },
+  "entitlementName": "c76ea7c47fd14e14bacc67943084eeca",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "aaf5db1db5b4475796a56b449d8e8080",
+      "appId": "29c30b4114b247678453c84ae156715d",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2021-09-13T15:54:08.177Z"
+    }
+  ],
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "(egstore && sega_of_europe)"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567mxG6bwbvyVD9oHddG9t8Zk53",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

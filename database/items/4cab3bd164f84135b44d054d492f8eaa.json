@@ -1,0 +1,35 @@
+{
+  "id": "4cab3bd164f84135b44d054d492f8eaa",
+  "title": "BerylliumGeneralAudience",
+  "description": "BerylliumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "aa7516565e79454f86801110761f8188",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-05T15:57:57.173Z",
+  "lastModifiedDate": "2021-07-28T23:30:07.448Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4cab3bd164f84135b44d054d492f8eaa",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Studio Inkyfox",
+  "developerId": "o-hphf93flug94xbx46d9nsfmks277ng",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

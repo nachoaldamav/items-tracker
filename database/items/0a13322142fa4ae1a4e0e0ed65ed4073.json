@@ -1,0 +1,50 @@
+{
+  "id": "0a13322142fa4ae1a4e0e0ed65ed4073",
+  "title": "LongsGeneralAudience",
+  "description": "LongsGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DokiDokiLiteratureClubPlus_TeamSalvato_RA1_200x107-c020cff552b3b12d73e9c85406d8b11d",
+      "md5": "c020cff552b3b12d73e9c85406d8b11d",
+      "width": 200,
+      "height": 107,
+      "size": 16836,
+      "uploadedDate": "2021-07-12T17:58:12.336Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "1311a5735ed844c0b3c47027cab321f0",
+  "status": "ACTIVE",
+  "creationDate": "2021-06-09T00:10:31.842Z",
+  "lastModifiedDate": "2021-07-12T17:58:16.671Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0a13322142fa4ae1a4e0e0ed65ed4073",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Serenity Forge",
+  "developerId": "o-256f2bc2a35049a39ceae0f57d01bb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

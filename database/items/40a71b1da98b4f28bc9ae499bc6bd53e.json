@@ -1,0 +1,47 @@
+{
+  "id": "40a71b1da98b4f28bc9ae499bc6bd53e",
+  "title": "ArtemisLetoGeneralAudience",
+  "description": "ArtemisLetoGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/3d4ea555f7954f06b48050b3b821d6d0/item/ESRB_FellSeal-842x404-7ccaa96874cf51439e918caa3683171a.png",
+      "md5": "7ccaa96874cf51439e918caa3683171a",
+      "width": 842,
+      "height": 404,
+      "size": 43706,
+      "uploadedDate": "2020-12-15T02:10:44.899Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "3d4ea555f7954f06b48050b3b821d6d0",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-20T22:18:01.901Z",
+  "lastModifiedDate": "2023-08-18T09:54:30.785Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "40a71b1da98b4f28bc9ae499bc6bd53e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Fulqrum Publishing Ltd.",
+  "developerId": "o-n4d8bf5e8fnr4kujuut9j6v4d29muc",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

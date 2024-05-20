@@ -1,0 +1,34 @@
+{
+  "id": "ada32295ec5b46a09605217955a39b1c",
+  "title": "FLSGeneralAudience",
+  "description": "FLSGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "64f6e25cee7441e9967524a50b08dddd",
+  "status": "ACTIVE",
+  "creationDate": "2022-01-19T19:48:28.923Z",
+  "lastModifiedDate": "2023-10-04T15:15:57.477Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ada32295ec5b46a09605217955a39b1c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Assemble Entertainment GmbH",
+  "developerId": "o-r4u88vbd2uqmsje42jg2uwtnqfd9tl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

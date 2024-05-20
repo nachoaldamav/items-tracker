@@ -1,0 +1,81 @@
+{
+  "id": "759b71b089fc4f61b048b11c9e2667b6",
+  "title": "Overpass 2",
+  "description": "Overpass 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/e7a7820e516744b88212c1f78aa895df/EGS_Overpass2_Neopica_S1_2560x1440-c1726081a3f7c416af029319dd4caad7",
+      "md5": "c1726081a3f7c416af029319dd4caad7",
+      "width": 2560,
+      "height": 1440,
+      "size": 461869,
+      "uploadedDate": "2023-09-20T22:08:15.285Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/e7a7820e516744b88212c1f78aa895df/EGS_Overpass2_Neopica_S2_1200x1600-6255a264b097b32392c1fd4aef3fcc9b",
+      "md5": "6255a264b097b32392c1fd4aef3fcc9b",
+      "width": 1200,
+      "height": 1600,
+      "size": 321676,
+      "uploadedDate": "2023-09-20T22:08:20.776Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e7a7820e516744b88212c1f78aa895df",
+  "status": "ACTIVE",
+  "creationDate": "2023-01-24T20:02:54.168Z",
+  "lastModifiedDate": "2024-01-12T01:08:33.517Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "e7a7820e516744b88212c1f78aa895df"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Overpass2"
+    }
+  },
+  "entitlementName": "759b71b089fc4f61b048b11c9e2667b6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "aba54a2ea0764abd8cf1d50138b84537",
+      "appId": "6438c785990d4453a28751f06ee3118c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Nacon",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567nWx5srskY7q7gxr9OOxFBSRD",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

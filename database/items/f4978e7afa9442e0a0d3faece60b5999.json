@@ -1,0 +1,36 @@
+{
+  "id": "f4978e7afa9442e0a0d3faece60b5999",
+  "title": "TitaniumDLC1Audience",
+  "description": "TitaniumDLC1Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "21916c391ae4425d8f6cce2382aebd0c",
+  "status": "ACTIVE",
+  "creationDate": "2020-12-15T02:16:13.294Z",
+  "lastModifiedDate": "2020-12-25T15:12:15.345Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f4978e7afa9442e0a0d3faece60b5999",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Red Hook Studios",
+  "developerId": "o-w5yb6awebxmp362nvut3qd3xb4jmur",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

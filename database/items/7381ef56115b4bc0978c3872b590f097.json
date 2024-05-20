@@ -1,0 +1,34 @@
+{
+  "id": "7381ef56115b4bc0978c3872b590f097",
+  "title": "HematiteGeneralAudience",
+  "description": "HematiteGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "107bd7324f39429ca4e7e9e44765d8cf",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-13T22:28:14.692Z",
+  "lastModifiedDate": "2021-02-08T20:52:34.536Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7381ef56115b4bc0978c3872b590f097",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

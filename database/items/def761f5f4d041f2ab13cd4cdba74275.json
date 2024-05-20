@@ -1,0 +1,89 @@
+{
+  "id": "def761f5f4d041f2ab13cd4cdba74275",
+  "title": "Age of Wonders 4",
+  "description": "Age of Wonders 4",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/61375e6a52534a1aa2d8ba6d46f9ee64/EGS_AgeofWonders4_TriumphStudios_S1_2560x1440-1320bec1672fe0554ee8c97ec5947ba3",
+      "md5": "1320bec1672fe0554ee8c97ec5947ba3",
+      "width": 2560,
+      "height": 1440,
+      "size": 699431,
+      "uploadedDate": "2023-01-09T16:38:39.541Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/61375e6a52534a1aa2d8ba6d46f9ee64/EGS_AgeofWonders4_TriumphStudios_S2_1200x1600-6753645ce36ddcfd00142d40143f3c46",
+      "md5": "6753645ce36ddcfd00142d40143f3c46",
+      "width": 1200,
+      "height": 1600,
+      "size": 431711,
+      "uploadedDate": "2023-01-09T16:38:41.719Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "61375e6a52534a1aa2d8ba6d46f9ee64",
+  "status": "ACTIVE",
+  "creationDate": "2023-01-05T21:32:40.739Z",
+  "lastModifiedDate": "2024-04-02T15:59:21.354Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "61375e6a52534a1aa2d8ba6d46f9ee64"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/Paradox Interactive/Age of Wonders 4/Storage"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AgeOfWonders4"
+    }
+  },
+  "entitlementName": "def761f5f4d041f2ab13cd4cdba74275",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "43926dddaaf645daab9579db301b0816",
+      "appId": "30500b7270014c7aaca099668dd1944b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [
+    "(egstore && paradoxinteractive)"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567yDevfal9f9oZcoJJBos5iykM",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

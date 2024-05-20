@@ -1,0 +1,94 @@
+{
+  "id": "59fd9ca3c8ac41f39713a3f28407d3d1",
+  "title": "Aven Colony",
+  "description": "Aven Colony",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AvenColony_MothershipEntertainmentLLC_S3_2560x1440-3276f29fde89052103f0b650420d256b",
+      "md5": "3276f29fde89052103f0b650420d256b",
+      "width": 2560,
+      "height": 1440,
+      "size": 957789,
+      "uploadedDate": "2021-09-16T14:09:47.972Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AvenColony_MothershipEntertainmentLLC_S4_1200x1600-2e6d5f94d466bc936c0b0d3f2a56a90d",
+      "md5": "2e6d5f94d466bc936c0b0d3f2a56a90d",
+      "width": 1200,
+      "height": 1600,
+      "size": 968119,
+      "uploadedDate": "2021-09-16T14:09:38.025Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "31bd7140ab344cd59a770e14b2afbcea",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-06T21:41:50.038Z",
+  "lastModifiedDate": "2021-10-28T14:13:10.093Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "31bd7140ab344cd59a770e14b2afbcea"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AvenColony"
+    }
+  },
+  "entitlementName": "59fd9ca3c8ac41f39713a3f28407d3d1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "67a80724fe4444c88047b2139b73dfd9",
+      "appId": "dc07b9ead8214591b8df6d2546d2a0e3",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-06T23:43:11.330Z"
+    }
+  ],
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567MZJACGYHxIeNLxV5tsLNGEgp",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

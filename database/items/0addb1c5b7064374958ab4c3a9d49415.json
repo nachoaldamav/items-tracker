@@ -1,0 +1,90 @@
+{
+  "id": "0addb1c5b7064374958ab4c3a9d49415",
+  "title": "RiMS Racing",
+  "description": "RiMS Racing",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/1ef3edbf3bf14defac0cdb42301e3d5e/EGS_RiMSRacing_RacewardStudio_S1_2560x1440-37da14c1de760fb517971a4f691ccaa3",
+      "md5": "37da14c1de760fb517971a4f691ccaa3",
+      "width": 2560,
+      "height": 1440,
+      "size": 528765,
+      "uploadedDate": "2021-11-04T04:38:03.994Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/1ef3edbf3bf14defac0cdb42301e3d5e/EGS_RiMSRacing_RacewardStudio_S2_1200x1600-249d07ee346663646e18e978c50df616",
+      "md5": "249d07ee346663646e18e978c50df616",
+      "width": 1200,
+      "height": 1600,
+      "size": 436674,
+      "uploadedDate": "2021-11-04T04:38:07.610Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1ef3edbf3bf14defac0cdb42301e3d5e",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-01T19:44:22.022Z",
+  "lastModifiedDate": "2021-11-04T05:22:17.402Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "1ef3edbf3bf14defac0cdb42301e3d5e"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RiMSRacing"
+    }
+  },
+  "entitlementName": "0addb1c5b7064374958ab4c3a9d49415",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fc822cc9858640fcb1d0528a12ee0552",
+      "appId": "c67664a6227d4ceca58c70562073990d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Nacon",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567mJhnR3p1oAVXoRWGdn4fjrBj",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

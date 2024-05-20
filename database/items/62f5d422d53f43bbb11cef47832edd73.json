@@ -1,0 +1,36 @@
+{
+  "id": "62f5d422d53f43bbb11cef47832edd73",
+  "title": "BoronDigitalSupporterEditionAudience",
+  "description": "BoronDigitalSupporterEditionAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c556d22537ed4a14a454813c9faedd3a",
+  "status": "ACTIVE",
+  "creationDate": "2020-12-10T15:24:20.384Z",
+  "lastModifiedDate": "2023-08-25T15:35:39.373Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "62f5d422d53f43bbb11cef47832edd73",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Toplitz Productions GmbH",
+  "developerId": "o-5p7vmece7eqgvdyjqvene54arynxxh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

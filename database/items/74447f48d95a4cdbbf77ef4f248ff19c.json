@@ -1,0 +1,93 @@
+{
+  "id": "74447f48d95a4cdbbf77ef4f248ff19c",
+  "title": "Redout 2",
+  "description": "Redout 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/05ae696a3c5f49af91a7433547460c21/EGS_Redout2_34BigThings_S1_2560x1440-15165db53ba987f704968f8c3e4c0f0b",
+      "md5": "15165db53ba987f704968f8c3e4c0f0b",
+      "width": 2560,
+      "height": 1440,
+      "size": 904714,
+      "uploadedDate": "2022-06-13T11:43:42.966Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/05ae696a3c5f49af91a7433547460c21/EGS_Redout2_34BigThings_S2_1200x1600-448c323c84902f4cbc64c1db23fb17bc",
+      "md5": "448c323c84902f4cbc64c1db23fb17bc",
+      "width": 1200,
+      "height": 1600,
+      "size": 650437,
+      "uploadedDate": "2022-06-13T11:44:08.975Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "05ae696a3c5f49af91a7433547460c21",
+  "status": "ACTIVE",
+  "creationDate": "2021-12-10T23:57:21.400Z",
+  "lastModifiedDate": "2022-09-02T18:56:05.961Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "05ae696a3c5f49af91a7433547460c21"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Redout2/Saved/SaveGames/Epic/{EpicID}/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Redout2"
+    }
+  },
+  "entitlementName": "74447f48d95a4cdbbf77ef4f248ff19c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c6843901734e47b98ff1b1e8d18a2964",
+      "appId": "16a37a0080e3414aafb30f1cc8390f6c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Saber Interactive",
+  "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi45676ar6shir4Sc8hCAMtbJTZdj4",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

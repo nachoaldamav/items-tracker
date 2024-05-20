@@ -1,0 +1,35 @@
+{
+  "id": "f5e1c72711d742f791334b638a772d84",
+  "title": "PapaGeneralAudience",
+  "description": "PapaGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "53ef2f4592684c4c97d6d32e40467274",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-18T21:09:14.226Z",
+  "lastModifiedDate": "2021-10-14T14:06:30.357Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f5e1c72711d742f791334b638a772d84",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Krillbite Studios AS",
+  "developerId": "o-j9a2hvwhlxthsd9tqnb75ksq2r3pw7",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

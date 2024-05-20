@@ -1,0 +1,89 @@
+{
+  "id": "fe90738ef51c4da39fb9efc8720b6a5a",
+  "title": "Dakar Desert Rally",
+  "description": "Dakar Desert Rally",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/ac98aa34584648f2b71152e509191c1c/dakarwide_2560x1440-ffccd2b231c717b9e1e7cd10049f84aa",
+      "md5": "ffccd2b231c717b9e1e7cd10049f84aa",
+      "width": 2560,
+      "height": 1440,
+      "size": 1021391,
+      "uploadedDate": "2022-10-24T15:03:01.677Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/ac98aa34584648f2b71152e509191c1c/dakartall_1200x1600-9b39c1ea860c6ed7bd704bf8768563fa",
+      "md5": "9b39c1ea860c6ed7bd704bf8768563fa",
+      "width": 1200,
+      "height": 1600,
+      "size": 1006685,
+      "uploadedDate": "2022-10-24T15:03:07.278Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ac98aa34584648f2b71152e509191c1c",
+  "status": "ACTIVE",
+  "creationDate": "2021-12-10T23:53:20.663Z",
+  "lastModifiedDate": "2023-11-16T12:00:07.715Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ac98aa34584648f2b71152e509191c1c"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DakarDesertRally"
+    }
+  },
+  "entitlementName": "fe90738ef51c4da39fb9efc8720b6a5a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a7fcca5a42b641b08f5396aaf17bb0bd",
+      "appId": "4aff63ad39cb4fe7a61720d59a4cebc6",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Saber Interactive",
+  "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

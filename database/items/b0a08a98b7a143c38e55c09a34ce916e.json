@@ -13,7 +13,7 @@
   "namespace": "308e79224dba4e078e44d603bc54c4db",
   "status": "ACTIVE",
   "creationDate": "2021-01-27T19:41:32.754Z",
-  "lastModifiedDate": "2021-03-09T14:53:10.005Z",
+  "lastModifiedDate": "2021-06-22T00:25:34.592Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +23,16 @@
   "entitlementName": "b0a08a98b7a143c38e55c09a34ce916e",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Nicalis",
   "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
-  "unsearchable": false
+  "unsearchable": true
 }

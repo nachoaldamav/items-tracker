@@ -1,0 +1,37 @@
+{
+  "id": "7ab4e489104d4e0090e51b43b70179e4",
+  "title": "RedstartGeneralAudience",
+  "description": "RedstartGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "87b7846d2eba4bc49eead0854323aba8",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-23T20:31:39.240Z",
+  "lastModifiedDate": "2024-02-22T15:50:17.189Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7ab4e489104d4e0090e51b43b70179e4",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Techland",
+  "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": true
+}

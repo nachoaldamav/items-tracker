@@ -1,0 +1,35 @@
+{
+  "id": "d088449a26c3473b9b182306015cc08d",
+  "title": "SamariumGeneralAudience",
+  "description": "SamariumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "dbf5337d024e457bac68f2059112da86",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-09T19:31:42.019Z",
+  "lastModifiedDate": "2021-03-31T07:02:12.805Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d088449a26c3473b9b182306015cc08d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

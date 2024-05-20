@@ -1,0 +1,94 @@
+{
+  "id": "bfa20ed2b7d9482cb5c766e604a8583d",
+  "title": "Blasphemous",
+  "description": "Blasphemous",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/eddb735dde6b47cda8193f2643cff886/EGS_Blasphemous_TheGameKitchen_S3_2560x1440-f1a83630b91b3f128e8f9dd58f3f8eed",
+      "md5": "f1a83630b91b3f128e8f9dd58f3f8eed",
+      "width": 2560,
+      "height": 1440,
+      "size": 921660,
+      "uploadedDate": "2022-10-07T15:25:40.348Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/eddb735dde6b47cda8193f2643cff886/EGS_Blasphemous_TheGameKitchen_S6_1200x1600-37265bbc691109595a2ff9b0c21ba8c7",
+      "md5": "37265bbc691109595a2ff9b0c21ba8c7",
+      "width": 1200,
+      "height": 1600,
+      "size": 524003,
+      "uploadedDate": "2022-10-07T15:25:36.278Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "eddb735dde6b47cda8193f2643cff886",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-05T17:53:25.533Z",
+  "lastModifiedDate": "2022-10-07T15:25:52.882Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "eddb735dde6b47cda8193f2643cff886"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/TheGameKitchen/Blasphemous/Saves/{EpicID}/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Blasphemous"
+    }
+  },
+  "entitlementName": "bfa20ed2b7d9482cb5c766e604a8583d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3e1a1c8824654b939c03ecabcdeecdf8",
+      "appId": "3bab502d95de4d62a8d04e7b033a33ab",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567B4Ax4cii0H7e9Oj6uWZbHP4R",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

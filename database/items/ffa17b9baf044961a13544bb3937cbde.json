@@ -1,0 +1,38 @@
+{
+  "id": "ffa17b9baf044961a13544bb3937cbde",
+  "title": "SuphalakGeneralAudience",
+  "description": "SuphalakGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "0f710ebf203f42e1a26a8bc5cb48709a",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-16T21:26:34.528Z",
+  "lastModifiedDate": "2022-04-28T14:23:32.943Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ffa17b9baf044961a13544bb3937cbde",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

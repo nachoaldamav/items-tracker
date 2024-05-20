@@ -1,0 +1,34 @@
+{
+  "id": "e55137f62c9c48bfa556c17ffb0b92af",
+  "title": "Founders Pack audience",
+  "description": "Founders Pack audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "d613614e082c4f648835a32f15c1d29b",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-24T22:09:55.356Z",
+  "lastModifiedDate": "2023-09-07T23:53:30.744Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e55137f62c9c48bfa556c17ffb0b92af",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Proxima Beta Europe B.V.",
+  "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,37 @@
+{
+  "id": "8a4f561fc0084518b056172f8b09c1b1",
+  "title": "MGHGeneralAudience",
+  "description": "MGHGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "964f58c4c2074404bf9c359483ab1a48",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-18T21:42:35.134Z",
+  "lastModifiedDate": "2024-03-23T00:02:18.555Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "8a4f561fc0084518b056172f8b09c1b1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Coffee Stain Publishing",
+  "developerId": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

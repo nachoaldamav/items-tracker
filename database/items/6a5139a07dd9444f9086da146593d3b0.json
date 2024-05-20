@@ -1,0 +1,94 @@
+{
+  "id": "6a5139a07dd9444f9086da146593d3b0",
+  "title": "Star Trek Online",
+  "description": "Star Trek Online",
+  "longDescription": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/06a97980aac14fdfb914ef603a113792/EGS_StarTrekOnline_CrypticStudios_S1_2560x1440-21dd56a0f32aa9c2b5bc2337f0554573",
+      "md5": "21dd56a0f32aa9c2b5bc2337f0554573",
+      "width": 2560,
+      "height": 1440,
+      "size": 697488,
+      "uploadedDate": "2024-01-23T17:03:19.948Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/06a97980aac14fdfb914ef603a113792/EGS_StarTrekOnline_CrypticStudios_S2_1200x1600-b5ae82e99aa37de0dd417995b8cea286",
+      "md5": "b5ae82e99aa37de0dd417995b8cea286",
+      "width": 1200,
+      "height": 1600,
+      "size": 423659,
+      "uploadedDate": "2024-01-23T17:03:32.631Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "06a97980aac14fdfb914ef603a113792",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T02:21:35.254Z",
+  "lastModifiedDate": "2024-05-10T10:34:26.082Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "06a97980aac14fdfb914ef603a113792"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "StarTrekOnline"
+    }
+  },
+  "entitlementName": "6a5139a07dd9444f9086da146593d3b0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8297d9d6fdc248fdbbe0affd99b296cc",
+      "appId": "0fb6e06aacd14e88b1aaea8f54dd8525",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-07-14T00:00:00.000Z"
+    }
+  ],
+  "developer": "Arc Games",
+  "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": true
+}

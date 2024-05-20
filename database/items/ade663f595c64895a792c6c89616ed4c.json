@@ -1,0 +1,101 @@
+{
+  "id": "ade663f595c64895a792c6c89616ed4c",
+  "title": "Total War: WARHAMMER III",
+  "description": "Total War: WARHAMMER III",
+  "technicalDetails": "RingtailRetail - public main build",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/dda64c2956b54f1ba3cd97f6aaee775f/item/EGS_TotalWarWARHAMMERIII_CreativeAssembly_S1-2560x1440-2560x1440-f2b9adc02c4aa5d6c61f03cb4b1ec9c2.jpg",
+      "md5": "f2b9adc02c4aa5d6c61f03cb4b1ec9c2",
+      "width": 2560,
+      "height": 1440,
+      "size": 1005950,
+      "uploadedDate": "2021-04-16T18:34:23.268Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/dda64c2956b54f1ba3cd97f6aaee775f/item/EGS_TotalWarWARHAMMERIII_CreativeAssembly_S2-1200x1600-1200x1600-bf935f14317eaf51f4906079a2888ced.jpg",
+      "md5": "bf935f14317eaf51f4906079a2888ced",
+      "width": 1200,
+      "height": 1600,
+      "size": 899607,
+      "uploadedDate": "2021-04-16T18:34:27.129Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-17T14:39:29.016Z",
+  "lastModifiedDate": "2024-04-22T13:07:03.048Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "dda64c2956b54f1ba3cd97f6aaee775f"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TotalWarWARHAMMERIII"
+    }
+  },
+  "entitlementName": "ade663f595c64895a792c6c89616ed4c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "164eacc7c7224775902ed7362463236d",
+      "appId": "37a618f3d198405ead9c48c7749b52e5",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-12-07T00:00:00.000Z"
+    }
+  ],
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "(egstore && sega_of_europe)"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567Y3rPT0HVCHjO3g4gQUbeHkKE",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

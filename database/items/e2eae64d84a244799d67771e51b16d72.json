@@ -1,0 +1,34 @@
+{
+  "id": "e2eae64d84a244799d67771e51b16d72",
+  "title": "iowa SP audience",
+  "description": "iowa SP audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-09T17:20:43.561Z",
+  "lastModifiedDate": "2023-12-21T19:40:18.104Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e2eae64d84a244799d67771e51b16d72",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Gameloft SE",
+  "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

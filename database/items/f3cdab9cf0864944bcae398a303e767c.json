@@ -1,0 +1,34 @@
+{
+  "id": "f3cdab9cf0864944bcae398a303e767c",
+  "title": "MarkabGeneralAudience",
+  "description": "MarkabGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "60e3b72c80a24bc2acefa354e4b71d9f",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-05T18:54:05.506Z",
+  "lastModifiedDate": "2022-05-03T23:22:06.445Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f3cdab9cf0864944bcae398a303e767c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Pyramid Games",
+  "developerId": "o-gyrnn9b37xweslpyn379gjqfne4bp5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

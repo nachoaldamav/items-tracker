@@ -1,0 +1,37 @@
+{
+  "id": "e6acf5e2ffae4daf84b1ab20727eac8b",
+  "title": "DiamondGeneralAudience",
+  "description": "DiamondGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "b79cdb6e07ea4ce9a82c00a0fb079ca5",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-04T07:17:41.608Z",
+  "lastModifiedDate": "2023-03-02T08:20:36.416Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e6acf5e2ffae4daf84b1ab20727eac8b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Turning Wheel LLC",
+  "developerId": "o-34s68auzg6nxnrh76es3ph7sgpuz96",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567vlBqfZlIP8pjR7744Pppd0OM",
+  "requiresSecureAccount": true,
+  "unsearchable": true
+}

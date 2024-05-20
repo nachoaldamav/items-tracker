@@ -1,0 +1,34 @@
+{
+  "id": "7ca00b31950245f0b300cfb4b7fc88b5",
+  "title": "GP audience",
+  "description": "GP audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-02T19:37:07.303Z",
+  "lastModifiedDate": "2024-04-05T15:38:46.533Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7ca00b31950245f0b300cfb4b7fc88b5",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Gameloft SE",
+  "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

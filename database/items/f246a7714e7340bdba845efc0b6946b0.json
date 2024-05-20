@@ -1,0 +1,38 @@
+{
+  "id": "f246a7714e7340bdba845efc0b6946b0",
+  "title": "DenaliGeneralAudience",
+  "description": "DenaliGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "109a4631336a475ca4e4a8a51cc6fe69",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-26T20:26:22.932Z",
+  "lastModifiedDate": "2023-03-09T03:06:45.454Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f246a7714e7340bdba845efc0b6946b0",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Bedtime Digital Games ApS",
+  "developerId": "o-bdq65kgy9hhkz5n4gkjlyt3uju86hw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

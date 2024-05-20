@@ -1,0 +1,102 @@
+{
+  "id": "b67ca97869ef424cadbd004974fba321",
+  "title": "Homeworld 3",
+  "description": "Homeworld 3",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/ef7baa6ce017413ab33e7f7e3f466a96/Homeworld3_wide_2560x1440-983f993cb4a722947ee3f404ded3ae95",
+      "md5": "983f993cb4a722947ee3f404ded3ae95",
+      "width": 2560,
+      "height": 1440,
+      "size": 323615,
+      "uploadedDate": "2021-12-09T22:58:42.618Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/ef7baa6ce017413ab33e7f7e3f466a96/Homeworld3_Tall_1200x1600-2080e2e3662c285b1c9efcb13f3a8d07",
+      "md5": "2080e2e3662c285b1c9efcb13f3a8d07",
+      "width": 1200,
+      "height": 1600,
+      "size": 157588,
+      "uploadedDate": "2021-12-09T22:58:48.580Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ef7baa6ce017413ab33e7f7e3f466a96",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-09T16:45:29.215Z",
+  "lastModifiedDate": "2024-05-13T15:30:37.298Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ef7baa6ce017413ab33e7f7e3f466a96"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Homeworld3/Saved/SaveGames/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav, *.hwsg"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Homeworld3"
+    }
+  },
+  "entitlementName": "b67ca97869ef424cadbd004974fba321",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d7cf8e2e308942f8b2d492b4ded4be49",
+      "appId": "ae07563e0f13482baef91da136c73213",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Gearbox Publishing",
+  "developerId": "o-dcmk65hvycy3kndmqvfg3yn3up87jn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567g7IWg9Ye9ZWbT41kZFKh7SiA",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

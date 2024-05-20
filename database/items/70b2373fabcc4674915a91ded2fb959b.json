@@ -1,0 +1,36 @@
+{
+  "id": "70b2373fabcc4674915a91ded2fb959b",
+  "title": "OsloGeneralAudience",
+  "description": "OsloGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "97f91a3e4a7449fa9f4505a09efe1645",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-27T01:18:53.902Z",
+  "lastModifiedDate": "2022-07-12T14:00:47.528Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "70b2373fabcc4674915a91ded2fb959b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": true
+}

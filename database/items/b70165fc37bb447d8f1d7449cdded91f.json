@@ -1,0 +1,34 @@
+{
+  "id": "b70165fc37bb447d8f1d7449cdded91f",
+  "title": "EclairGeneralAudience",
+  "description": "EclairGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "f4bbbc20a6b74295ac82b7c258739bff",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-23T02:44:32.173Z",
+  "lastModifiedDate": "2020-09-24T16:30:41.993Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b70165fc37bb447d8f1d7449cdded91f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Terrible Posture Games, Inc.",
+  "developerId": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

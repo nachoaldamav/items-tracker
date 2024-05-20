@@ -1,0 +1,33 @@
+{
+  "id": "9c5784802dc44fcb9d577bd67dd4b153",
+  "title": "DevGobyAudience",
+  "description": "DevGobyAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "51c19c28a7024793b9e38174d0e1634b",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-18T18:32:27.822Z",
+  "lastModifiedDate": "2020-03-19T14:23:42.315Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9c5784802dc44fcb9d577bd67dd4b153",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Raw Fury",
+  "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": true
+}

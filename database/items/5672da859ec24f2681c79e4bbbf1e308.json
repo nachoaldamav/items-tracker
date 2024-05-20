@@ -1,0 +1,93 @@
+{
+  "id": "5672da859ec24f2681c79e4bbbf1e308",
+  "title": "Frontier Hunter: Erza's Wheel of Fortune",
+  "description": "Frontier Hunter: Erza's Wheel of Fortune",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/f9af68c0b03e425999c18381eb45e5fb/EGS_FrontierHunterErzasWheelofFortune_IceSitruuna_S1_2560x1440-45bc75552049905dd65c03cf42f1f21b",
+      "md5": "45bc75552049905dd65c03cf42f1f21b",
+      "width": 2560,
+      "height": 1440,
+      "size": 982647,
+      "uploadedDate": "2023-02-17T19:50:48.638Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/f9af68c0b03e425999c18381eb45e5fb/EGS_FrontierHunterErzasWheelofFortune_IceSitruuna_S2_1200x1600-ea41f4cfb86cae0d929fae6185f6dd9d",
+      "md5": "ea41f4cfb86cae0d929fae6185f6dd9d",
+      "width": 1200,
+      "height": 1600,
+      "size": 645060,
+      "uploadedDate": "2023-02-17T19:50:52.032Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f9af68c0b03e425999c18381eb45e5fb",
+  "status": "ACTIVE",
+  "creationDate": "2021-08-11T18:41:07.164Z",
+  "lastModifiedDate": "2024-05-20T09:34:27.417Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "f9af68c0b03e425999c18381eb45e5fb"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/IceSitruuna/Frontier_Hunter/PlayerPrefs/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FrontierHunter"
+    }
+  },
+  "entitlementName": "5672da859ec24f2681c79e4bbbf1e308",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "da4ba09988be4830b554bf8997c5d1c4",
+      "appId": "50a44688f80743a8b7880b41ef69f489",
+      "compatibleApps": [],
+      "platform": [],
+      "dateAdded": "2021-08-30T22:18:00.000Z"
+    }
+  ],
+  "developer": "Chongqing Binghaixin Technology Co., Ltd.",
+  "developerId": "o-2jawwhrnz3hv5hslcp96ut2fhjkj63",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi45675naM49MpFhVS4NRpzsAJXU2y",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

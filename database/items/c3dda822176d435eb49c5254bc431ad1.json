@@ -1,0 +1,48 @@
+{
+  "id": "c3dda822176d435eb49c5254bc431ad1",
+  "title": "GanymedeGeneralAudience",
+  "description": "GanymedeGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/8a574ca3cbfc46c69ea8d3491932e973/item/ESRB_Wreckfest-842x485-6033b6ef575882556cd7540fca5690b4.png",
+      "md5": "6033b6ef575882556cd7540fca5690b4",
+      "width": 842,
+      "height": 485,
+      "size": 55190,
+      "uploadedDate": "2020-11-11T19:26:44.980Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "8a574ca3cbfc46c69ea8d3491932e973",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-19T18:01:49.719Z",
+  "lastModifiedDate": "2023-03-10T21:15:11.767Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c3dda822176d435eb49c5254bc431ad1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": true
+}

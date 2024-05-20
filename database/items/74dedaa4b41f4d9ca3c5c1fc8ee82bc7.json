@@ -1,0 +1,94 @@
+{
+  "id": "74dedaa4b41f4d9ca3c5c1fc8ee82bc7",
+  "title": "Sackboy™: A Big Adventure",
+  "description": "Sackboy™: A Big Adventure",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/1b60f39de33b4902a8d5fa543b1fb628/EGS_SackboyABigAdventure_SumoDigital_S1_2560x1440-6a435e8dec7bd8cdcf6a87d1b1ed0262",
+      "md5": "6a435e8dec7bd8cdcf6a87d1b1ed0262",
+      "width": 2560,
+      "height": 1440,
+      "size": 783234,
+      "uploadedDate": "2022-09-28T18:55:12.180Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/1b60f39de33b4902a8d5fa543b1fb628/EGS_SackboyABigAdventure_SumoDigital_S2_1200x1600-cc68022e4d17a383c8571dc43586353c",
+      "md5": "cc68022e4d17a383c8571dc43586353c",
+      "width": 1200,
+      "height": 1600,
+      "size": 775549,
+      "uploadedDate": "2022-09-28T18:55:16.164Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1b60f39de33b4902a8d5fa543b1fb628",
+  "status": "ACTIVE",
+  "creationDate": "2021-08-05T19:46:46.120Z",
+  "lastModifiedDate": "2022-12-02T16:55:23.469Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "1b60f39de33b4902a8d5fa543b1fb628"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/Sackboy/Epic/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SackboyABigAdventure"
+    }
+  },
+  "entitlementName": "74dedaa4b41f4d9ca3c5c1fc8ee82bc7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "996ed77b222841708914b162de6f270d",
+      "appId": "96128ded844a48048897463d495e625c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567MqJHv13JEl3yAO7WMlqunyJ6",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

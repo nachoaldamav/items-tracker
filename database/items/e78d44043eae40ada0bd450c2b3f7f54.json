@@ -1,0 +1,84 @@
+{
+  "id": "e78d44043eae40ada0bd450c2b3f7f54",
+  "title": "Honkai Impact 3rd",
+  "description": "Parinacota",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/d2d162953fec40e381867d7af8371362/EGS_HonkaiImpact3rd_miHoYoLimited_S1_2560x1440-960e15b4bc2cf890628fc3c77e4654c6",
+      "md5": "960e15b4bc2cf890628fc3c77e4654c6",
+      "width": 2560,
+      "height": 1440,
+      "size": 882767,
+      "uploadedDate": "2024-02-29T10:00:46.597Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/d2d162953fec40e381867d7af8371362/EGS_HonkaiImpact3rd_miHoYoLimited_S2_1200x1600-f903bff1bb3e05f92d9d605e9b43a5b7",
+      "md5": "f903bff1bb3e05f92d9d605e9b43a5b7",
+      "width": 1200,
+      "height": 1600,
+      "size": 566883,
+      "uploadedDate": "2024-02-29T10:00:49.662Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d2d162953fec40e381867d7af8371362",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-30T16:52:05.488Z",
+  "lastModifiedDate": "2024-05-16T15:00:11.289Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HonkaiImpact3"
+    }
+  },
+  "entitlementName": "e78d44043eae40ada0bd450c2b3f7f54",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a2ff5b493df547ff9e978a44d3785f96",
+      "appId": "0dc22b543a40440fab5a98d1e40c02c1",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "miHoYo Limited",
+  "developerId": "o-2g2utu2a6jpwemah96uyrf2l6jz2v2",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

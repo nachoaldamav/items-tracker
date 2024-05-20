@@ -1,0 +1,34 @@
+{
+  "id": "b5016a39e92a45279f2bc54d207fb097",
+  "title": "DewberryGeneralAudience",
+  "description": "DewberryGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
+  "status": "ACTIVE",
+  "creationDate": "2022-02-24T16:38:13.662Z",
+  "lastModifiedDate": "2022-08-18T14:10:16.372Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b5016a39e92a45279f2bc54d207fb097",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Humble Bundle",
+  "developerId": "o-pldxyabsslnt6jth2z634mmr2pw8lu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

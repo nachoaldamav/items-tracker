@@ -1,0 +1,46 @@
+{
+  "id": "db20fe07e3334020a0127b3cab733cc8",
+  "title": "OcicatGeneralAudience",
+  "description": "OcicatGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/9ce4c6f216cf43e7ba5eff1045b6e08d/item/egs-lifelessplanetpremieredition-stage2studios-418x200-5e12ff9e68a223a18ae0c8c661463752.png",
+      "md5": "5e12ff9e68a223a18ae0c8c661463752",
+      "width": 418,
+      "height": 200,
+      "size": 4597,
+      "uploadedDate": "2020-07-09T15:06:53.363Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "9ce4c6f216cf43e7ba5eff1045b6e08d",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-20T00:29:50.868Z",
+  "lastModifiedDate": "2020-07-09T15:06:56.273Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "db20fe07e3334020a0127b3cab733cc8",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Serenity Forge",
+  "developerId": "o-256f2bc2a35049a39ceae0f57d01bb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
+  "unsearchable": true
+}

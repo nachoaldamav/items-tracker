@@ -1,0 +1,94 @@
+{
+  "id": "2c6f697172264b44b37696c5f3f6d66b",
+  "title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+  "description": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_STRANGEROFPARADISEFINALFANTASYORIGIN_KOEITECMOGAMESCOLTD_S1_2560x1440-60ba34b4e6c919c9a1afd4cf4b8faeb8",
+      "md5": "60ba34b4e6c919c9a1afd4cf4b8faeb8",
+      "width": 2560,
+      "height": 1440,
+      "size": 946477,
+      "uploadedDate": "2021-09-30T20:44:35.391Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_STRANGEROFPARADISEFINALFANTASYORIGIN_KOEITECMOGAMESCOLTD_S2_1200x1600-5c21f5cf42dd7c4db1ce06bad4da3260",
+      "md5": "5c21f5cf42dd7c4db1ce06bad4da3260",
+      "width": 1200,
+      "height": 1600,
+      "size": 504228,
+      "uploadedDate": "2021-09-30T20:44:40.481Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d2b282a6b53e409a8f8329d3d3356f21",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-13T16:44:37.922Z",
+  "lastModifiedDate": "2023-02-10T22:46:08.786Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "d2b282a6b53e409a8f8329d3d3356f21"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/STRANGER OF PARADISE FINAL FANTASY ORIGIN/EOS/{EpicID}/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SOPFinalFantasyOrigin"
+    }
+  },
+  "entitlementName": "2c6f697172264b44b37696c5f3f6d66b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7faf8e9bb45b43b1bf1f82b46b9e25f3",
+      "appId": "4c37d03b5dcb46bf8f6b2cfe8b1a107a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Square Enix (Japan)",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "eulaIds": [
+    "(egstore && strangersofparadise)"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567EX9q9r5Zd3gUhMdTY4mtVdY8",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

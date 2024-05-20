@@ -1,7 +1,27 @@
 {
   "id": "549930da1bba428996738974c75c1cda",
-  "title": "PineappleGeneralAudience",
-  "description": "PineappleGeneralAudience",
+  "title": "pineapple general audience",
+  "description": "pineapple general audience",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/6f43ab8025ad42d18510aa91e9eb688b/EGS_FINALFANTASYVIIREMAKEINTERGRADE_SquareEnix_S2_1200x1600-e147110cf8dd1bc8c96810a5867b3475",
+      "md5": "e147110cf8dd1bc8c96810a5867b3475",
+      "width": 1200,
+      "height": 1600,
+      "size": 1005387,
+      "uploadedDate": "2021-11-05T12:36:15.487Z"
+    },
+    {
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/item/6f43ab8025ad42d18510aa91e9eb688b/EGS_FINALFANTASYVIIREMAKEINTERGRADE_SquareEnix_S1_2560x1440-85f829541a833442eaace75d02e0f07d",
+      "md5": "85f829541a833442eaace75d02e0f07d",
+      "width": 2560,
+      "height": 1440,
+      "size": 1000830,
+      "uploadedDate": "2021-11-05T12:36:19.685Z"
+    }
+  ],
   "categories": [
     {
       "path": "audience"
@@ -13,23 +33,21 @@
   "namespace": "6f43ab8025ad42d18510aa91e9eb688b",
   "status": "ACTIVE",
   "creationDate": "2020-11-30T20:17:17.296Z",
-  "lastModifiedDate": "2021-02-17T14:57:15.339Z",
-  "customAttributes": {
-    "SupportedPlatforms": {
-      "type": "STRING",
-      "value": "Windows"
-    }
-  },
+  "lastModifiedDate": "2021-12-10T04:12:31.834Z",
+  "customAttributes": {},
   "entitlementName": "549930da1bba428996738974c75c1cda",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Square Enix (Japan)",
   "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
-  "unsearchable": false
+  "unsearchable": true
 }

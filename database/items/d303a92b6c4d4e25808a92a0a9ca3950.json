@@ -1,0 +1,85 @@
+{
+  "id": "d303a92b6c4d4e25808a92a0a9ca3950",
+  "title": "Ghostrunner 2",
+  "description": "Ghostrunner 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2PrePurchase_OneMoreLevel_S1_2560x1440-15845148fae1d0cfd7f3e98c9b3ba6ba",
+      "md5": "15845148fae1d0cfd7f3e98c9b3ba6ba",
+      "width": 2560,
+      "height": 1440,
+      "size": 643092,
+      "uploadedDate": "2023-08-15T12:13:59.632Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2PrePurchase_OneMoreLevel_S2_1200x1600-12ae7597b946ad94ac75680eb735be07",
+      "md5": "12ae7597b946ad94ac75680eb735be07",
+      "width": 1200,
+      "height": 1600,
+      "size": 528476,
+      "uploadedDate": "2023-08-15T12:14:02.792Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "708f57aaa04b42ef885be16c8288f0ac",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-01T16:18:13.438Z",
+  "lastModifiedDate": "2024-02-08T15:29:00.277Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "708f57aaa04b42ef885be16c8288f0ac"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Ghostrunner2"
+    }
+  },
+  "entitlementName": "d303a92b6c4d4e25808a92a0a9ca3950",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cbabe5480a12406a9c3979f1921816d4",
+      "appId": "cc3213f280df4b428e85b771c09d1891",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567klSmLx06smfWZaFq8Btu2A2B",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

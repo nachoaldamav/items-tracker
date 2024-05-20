@@ -1,0 +1,88 @@
+{
+  "id": "76e9e2d0ad8a43e4b7135c4aca01db28",
+  "title": "Titan Quest Anniversary Edition",
+  "description": "Titan Quest Anniversary Edition",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/096d7313d4ae432f9327081a45db439d/EGS_TitanQuestAnniversaryEdition_IronLoreEntertainmentTHQNordic_S2_1200x1600-0a7aa9a28c2e334b0cae858ce19977a7",
+      "md5": "0a7aa9a28c2e334b0cae858ce19977a7",
+      "width": 1200,
+      "height": 1600,
+      "size": 606936,
+      "uploadedDate": "2021-11-30T16:18:21.583Z"
+    },
+    {
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/item/096d7313d4ae432f9327081a45db439d/EGS_TitanQuestAnniversaryEdition_IronLoreEntertainmentTHQNordic_S1_2560x1440-5a3f9bee3ae37e44791e7bb619ddb985",
+      "md5": "5a3f9bee3ae37e44791e7bb619ddb985",
+      "width": 2560,
+      "height": 1440,
+      "size": 865564,
+      "uploadedDate": "2021-11-30T16:18:25.134Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "096d7313d4ae432f9327081a45db439d",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-01T19:34:39.079Z",
+  "lastModifiedDate": "2024-05-20T09:32:42.009Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "096d7313d4ae432f9327081a45db439d"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TitanQuest"
+    }
+  },
+  "entitlementName": "76e9e2d0ad8a43e4b7135c4aca01db28",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "36f1fb63685745229feaf7aa59ba9f5a",
+      "appId": "7ef36735319b47d7980964b04070d678",
+      "platform": []
+    }
+  ],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

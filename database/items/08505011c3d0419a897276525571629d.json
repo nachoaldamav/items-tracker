@@ -1,0 +1,35 @@
+{
+  "id": "08505011c3d0419a897276525571629d",
+  "title": "BassoonGeneralAudience",
+  "description": "BassoonGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "362563bfd35c4188acdfda0ed6766683",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-22T19:40:18.877Z",
+  "lastModifiedDate": "2021-07-27T21:41:34.180Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "08505011c3d0419a897276525571629d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

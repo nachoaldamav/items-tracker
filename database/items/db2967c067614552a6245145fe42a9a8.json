@@ -1,0 +1,99 @@
+{
+  "id": "db2967c067614552a6245145fe42a9a8",
+  "title": "Pinball FX",
+  "description": "Pinball FX",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/c11f80fe3b674a2bbf60e4c46d588a54/EGS_PinballFX_ZenStudios_S2_1200x1600-2f1b7a78e6ed9701e96c49c6d082a8b9",
+      "md5": "2f1b7a78e6ed9701e96c49c6d082a8b9",
+      "width": 1200,
+      "height": 1600,
+      "size": 931004,
+      "uploadedDate": "2021-12-03T17:42:41.385Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/c11f80fe3b674a2bbf60e4c46d588a54/EGS_PinballFX_ZenStudios_S1_2560x1440-0b8bf2f7d2694932ea828c3f61162797",
+      "md5": "0b8bf2f7d2694932ea828c3f61162797",
+      "width": 2560,
+      "height": 1440,
+      "size": 472870,
+      "uploadedDate": "2022-05-23T14:30:33.873Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c11f80fe3b674a2bbf60e4c46d588a54",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-03T21:54:59.221Z",
+  "lastModifiedDate": "2024-04-18T07:01:16.274Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "c11f80fe3b674a2bbf60e4c46d588a54"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/PinballFX/Saved/SaveGames/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PinballFX"
+    }
+  },
+  "entitlementName": "db2967c067614552a6245145fe42a9a8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5ccba0196ad7423b82f9bf54552f89c7",
+      "appId": "56a31432931740cdb0112d237d7d65aa",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-11-01T20:41:41.631Z"
+    }
+  ],
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567I4RTxT9dg8l8oIpo5xIWtht6",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

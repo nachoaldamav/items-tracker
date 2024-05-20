@@ -1,0 +1,35 @@
+{
+  "id": "5bbcf77bf2344c9aad556dacdc56a281",
+  "title": "NitrogenGeneralAudience",
+  "description": "NitrogenGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "dd7c9906a9604b68af4ffe0405f51af5",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-24T00:28:32.932Z",
+  "lastModifiedDate": "2021-06-10T14:49:03.442Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5bbcf77bf2344c9aad556dacdc56a281",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

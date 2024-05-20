@@ -1,0 +1,36 @@
+{
+  "id": "099083bc5a99464aa1bccffb579222bf",
+  "title": "QuailOSTAudience",
+  "description": "QuailOSTAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "4c7117cadb714722950338f02850fd8d",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-28T22:00:10.088Z",
+  "lastModifiedDate": "2020-07-28T22:00:42.388Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "099083bc5a99464aa1bccffb579222bf",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Batterystaple Games",
+  "developerId": "o-awffcfyn9p6246bc5np53dac5xa3mt",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

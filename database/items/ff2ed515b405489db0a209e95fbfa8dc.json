@@ -1,0 +1,40 @@
+{
+  "id": "ff2ed515b405489db0a209e95fbfa8dc",
+  "title": "DevMtForakerAudience",
+  "description": "DevMtForakerAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    }
+  ],
+  "namespace": "bbb19a1dae4d4a46991533cfabd04383",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-24T13:56:31.464Z",
+  "lastModifiedDate": "2024-03-24T17:48:29.591Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ff2ed515b405489db0a209e95fbfa8dc",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Major League Baseball",
+  "developerId": "o-8pv5kd3ajhqts3vsxmekxpd754szgj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

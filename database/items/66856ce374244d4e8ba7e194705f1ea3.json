@@ -1,0 +1,72 @@
+{
+  "id": "66856ce374244d4e8ba7e194705f1ea3",
+  "title": "cavatelli Public",
+  "description": "cavatelli Public",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3ee6cb949927486a847f9d81e61ff644",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-09T14:07:00.326Z",
+  "lastModifiedDate": "2021-05-13T19:48:39.357Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "3ee6cb949927486a847f9d81e61ff644"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "cavatelliPublic"
+    }
+  },
+  "entitlementName": "66856ce374244d4e8ba7e194705f1ea3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3ba04cf6899e4c6ba634ab59b19e4863",
+      "appId": "0eb0d2b378c04d0c90036beeef854725",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "applicationId": "fghi4567YDAjkkL7btsCHoeP9iAd5F7v",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

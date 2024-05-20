@@ -1,0 +1,35 @@
+{
+  "id": "dc0ee4e0c43a409a8e47de4cb32dd7fc",
+  "title": "VirgoGeneralAudience",
+  "description": "VirgoGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "7ac3374a63524c509541e762348a4fb8",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-16T22:58:08.095Z",
+  "lastModifiedDate": "2021-06-25T14:04:51.206Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "dc0ee4e0c43a409a8e47de4cb32dd7fc",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Bad Fox Studios",
+  "developerId": "o-3uzwefdyr4ludvmhy9w5gua9v5fb72",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,106 @@
+{
+  "id": "c7397d2fcea94f0babca92475f52bbe3",
+  "title": "Marvel's Midnight Suns",
+  "description": "Marvel's Midnight Suns",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/ea73c08ac633414584e281f838b3a78c/EGS_MarvelsMidnightSuns_FiraxisGames_S1_2560x1440-2f3d597f3afd9e9fd4cea1df3394705e",
+      "md5": "2f3d597f3afd9e9fd4cea1df3394705e",
+      "width": 2560,
+      "height": 1440,
+      "size": 662942,
+      "uploadedDate": "2022-06-08T23:53:48.447Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/ea73c08ac633414584e281f838b3a78c/EGS_MarvelsMidnightSuns_FiraxisGames_S2_1200x1600-2bbbf1249898e7441527c7b5679b1dd2",
+      "md5": "2bbbf1249898e7441527c7b5679b1dd2",
+      "width": 1200,
+      "height": 1600,
+      "size": 321518,
+      "uploadedDate": "2022-06-08T23:53:52.046Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ea73c08ac633414584e281f838b3a78c",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-29T01:12:56.993Z",
+  "lastModifiedDate": "2022-12-02T02:25:42.977Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ea73c08ac633414584e281f838b3a78c"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/Marvel's Midnight Suns/Saved_Epic_{EpicID}"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav,*.jpg,*.midnightsuns"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "midnightsuns"
+    },
+    "BackgroundProcessNames": {
+      "type": "STRING",
+      "value": "LauncherPatcher.exe"
+    }
+  },
+  "entitlementName": "c7397d2fcea94f0babca92475f52bbe3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e92a6c3a36a642ed9e96ca1e281ba994",
+      "appId": "49550aa9fcd74552ae07c4e9f2c262fe",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567hfBQnhIlYUakk1y4jvOO7dgL",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,94 @@
+{
+  "id": "21ebcb50975d442ea52583fb78ff6248",
+  "title": "Blood Bowl 3",
+  "description": "Blood Bowl 3",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/73dc1fbd99ac40b0914b317dcbeae85f/EGS_BloodBowl3_Cyanide_S1_2560x1440-86c578c5f74ec3110a3f6d9eaae1dab4",
+      "md5": "86c578c5f74ec3110a3f6d9eaae1dab4",
+      "width": 2560,
+      "height": 1440,
+      "size": 976209,
+      "uploadedDate": "2023-10-13T18:00:59.455Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/73dc1fbd99ac40b0914b317dcbeae85f/EGS_BloodBowl3_Cyanide_S2_1200x1600-439f20182dec4e4be261709af464b395",
+      "md5": "439f20182dec4e4be261709af464b395",
+      "width": 1200,
+      "height": 1600,
+      "size": 988906,
+      "uploadedDate": "2023-10-13T18:01:03.979Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "73dc1fbd99ac40b0914b317dcbeae85f",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-04T18:13:15.167Z",
+  "lastModifiedDate": "2023-10-16T20:49:09.288Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "73dc1fbd99ac40b0914b317dcbeae85f"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/BB3/Saved/SaveGames/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BloodBowl3"
+    }
+  },
+  "entitlementName": "21ebcb50975d442ea52583fb78ff6248",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c126ea1ae43547e5aa135f6e237b0683",
+      "appId": "65c365b8a2b0470a8fc228378ab73b4d",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-03-04T19:20:25.513Z"
+    }
+  ],
+  "developer": "Nacon",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567ES21sKhvqgHJAv6WEW1mfCM4",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

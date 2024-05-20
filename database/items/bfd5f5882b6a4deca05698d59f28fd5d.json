@@ -1,0 +1,81 @@
+{
+  "id": "bfd5f5882b6a4deca05698d59f28fd5d",
+  "title": "Fae Farm",
+  "description": "Fae Farm",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/013ca9b88fa34b21b2de7fdbfcfc843b/EGS_FaeFarm_PhoenixLabs_S1_2560x1440-a78303bd5f79624e7089358bb91bd35d",
+      "md5": "a78303bd5f79624e7089358bb91bd35d",
+      "width": 2560,
+      "height": 1440,
+      "size": 962078,
+      "uploadedDate": "2023-06-07T19:04:42.720Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/013ca9b88fa34b21b2de7fdbfcfc843b/EGS_FaeFarm_PhoenixLabs_S2_1200x1600-24e878591cb6e7e4c9a30061a103196c",
+      "md5": "24e878591cb6e7e4c9a30061a103196c",
+      "width": 1200,
+      "height": 1600,
+      "size": 650054,
+      "uploadedDate": "2023-06-07T19:04:46.513Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "013ca9b88fa34b21b2de7fdbfcfc843b",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-01T21:54:23.321Z",
+  "lastModifiedDate": "2023-12-14T00:45:17.563Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "013ca9b88fa34b21b2de7fdbfcfc843b"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FaeFarm"
+    }
+  },
+  "entitlementName": "bfd5f5882b6a4deca05698d59f28fd5d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0d83b209b12144d9b55d6e1c94871a7c",
+      "appId": "5411cd9e7c624a7e9a323d0ac7462f35",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Phoenix Labs",
+  "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567nVx5FTNpvpZIVXVJncI2DW6K",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

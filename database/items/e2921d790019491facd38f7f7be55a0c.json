@@ -1,0 +1,47 @@
+{
+  "id": "e2921d790019491facd38f7f7be55a0c",
+  "title": "TelemannGeneralAudience",
+  "description": "TelemannGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/f0e736561b7d42d0bbd18c7ce039a151/item/EGS_CyanideHappinessFreakpocalypse_ExplosmSkeletonCrewStudios_RA1-200x97-1ee010a6debbb4777a905172654ca61f.png",
+      "md5": "1ee010a6debbb4777a905172654ca61f",
+      "width": 200,
+      "height": 97,
+      "size": 11411,
+      "uploadedDate": "2021-02-25T04:18:44.596Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "f0e736561b7d42d0bbd18c7ce039a151",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-25T03:11:56.413Z",
+  "lastModifiedDate": "2021-11-18T22:25:18.470Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e2921d790019491facd38f7f7be55a0c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Serenity Forge",
+  "developerId": "o-256f2bc2a35049a39ceae0f57d01bb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

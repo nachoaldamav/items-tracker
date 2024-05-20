@@ -1,0 +1,33 @@
+{
+  "id": "dd56e761516c4fcca84359a041a03efa",
+  "title": "BleakGeneralAudience",
+  "description": "BleakGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "68214aaaa6f94c81a18c99fc2dc208cf",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-29T01:09:17.292Z",
+  "lastModifiedDate": "2020-08-27T11:51:24.541Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "dd56e761516c4fcca84359a041a03efa",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Hello Games Ltd",
+  "developerId": "o-2a9xrdx8muystc7vrba6lbcluv62m8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": true
+}

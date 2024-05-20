@@ -1,0 +1,37 @@
+{
+  "id": "fe27bcfba76b4ac098c7dcff2bee281d",
+  "title": "Newbie Bundle audience",
+  "description": "Newbie Bundle audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "d613614e082c4f648835a32f15c1d29b",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-24T22:11:31.727Z",
+  "lastModifiedDate": "2023-09-07T23:53:30.750Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "fe27bcfba76b4ac098c7dcff2bee281d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Proxima Beta Europe B.V.",
+  "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

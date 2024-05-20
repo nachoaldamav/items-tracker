@@ -1,0 +1,38 @@
+{
+  "id": "36cf80e87c314e4299f058e36a4ab81e",
+  "title": "DKOGeneralAudience",
+  "description": "DKOGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "1200aeb2f87c48349594d96554e2833d",
+  "status": "ACTIVE",
+  "creationDate": "2022-01-06T02:10:08.058Z",
+  "lastModifiedDate": "2023-06-29T10:40:30.221Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "36cf80e87c314e4299f058e36a4ab81e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2ba194d11eb24831b69c9de7a9706945",
+  "title": "MtPrincetonGeneralAudience",
+  "description": "MtPrincetonGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/abd29ccc8c2a4a40a31f27de63cb0603/item/ESRB_NightInTheWoods-842x404-4a118e3d6e4433cd04a91e9806103ed6.png",
+      "md5": "4a118e3d6e4433cd04a91e9806103ed6",
+      "width": 842,
+      "height": 404,
+      "size": 61794,
+      "uploadedDate": "2020-12-18T03:01:15.578Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "abd29ccc8c2a4a40a31f27de63cb0603",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-09T21:25:45.156Z",
+  "lastModifiedDate": "2020-12-27T15:19:32.092Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac,Win32"
+    }
+  },
+  "entitlementName": "2ba194d11eb24831b69c9de7a9706945",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Finji LLC",
+  "developerId": "o-mlc3sx58k2v33qgucwt7nr9cvwc2y4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

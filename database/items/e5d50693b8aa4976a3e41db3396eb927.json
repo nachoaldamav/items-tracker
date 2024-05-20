@@ -1,0 +1,34 @@
+{
+  "id": "e5d50693b8aa4976a3e41db3396eb927",
+  "title": "BonytailGeneralAudience",
+  "description": "BonytailGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c42b08b655c04a64a0535331629d4b6d",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-29T20:59:18.051Z",
+  "lastModifiedDate": "2020-11-12T14:02:59.239Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "e5d50693b8aa4976a3e41db3396eb927",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Young Horses Games",
+  "developerId": "o-k56sdfrwfdbyv3dbp64sa6jpbvz8cy",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

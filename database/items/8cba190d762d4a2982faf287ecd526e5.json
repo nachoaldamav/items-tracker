@@ -1,0 +1,36 @@
+{
+  "id": "8cba190d762d4a2982faf287ecd526e5",
+  "title": "CyclopesDeluxeUpgradeAudience",
+  "description": "CyclopesDeluxeUpgradeAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "6009be9994c2409099588cde6f3a5ed0",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-03T22:49:46.193Z",
+  "lastModifiedDate": "2022-06-16T15:00:53.096Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "8cba190d762d4a2982faf287ecd526e5",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

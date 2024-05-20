@@ -1,0 +1,35 @@
+{
+  "id": "84f1fc413c064aeba7d35184fb15eafb",
+  "title": "PalladiumGeneralAudience",
+  "description": "PalladiumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2ccd3d825eff465393503a7a8ef7b5a0",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-13T07:23:22.357Z",
+  "lastModifiedDate": "2021-02-10T20:43:39.378Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows, Mac"
+    }
+  },
+  "entitlementName": "84f1fc413c064aeba7d35184fb15eafb",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "White Thorn Digital",
+  "developerId": "o-v7c8xq9bmhtqhakulz7lrptnz8b628",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

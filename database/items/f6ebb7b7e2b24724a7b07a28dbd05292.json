@@ -1,0 +1,34 @@
+{
+  "id": "f6ebb7b7e2b24724a7b07a28dbd05292",
+  "title": "newyorkGeneralAudience",
+  "description": "newyorkGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "e8bab5eae849405890fca0cd2d1f808e",
+  "status": "ACTIVE",
+  "creationDate": "2021-07-21T16:53:26.658Z",
+  "lastModifiedDate": "2022-08-10T13:17:07.150Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f6ebb7b7e2b24724a7b07a28dbd05292",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Lince Works",
+  "developerId": "o-rep9be9gyg4bl2unhx7e6cqxywz4kh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

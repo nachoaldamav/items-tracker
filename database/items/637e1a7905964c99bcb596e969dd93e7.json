@@ -1,0 +1,111 @@
+{
+  "id": "637e1a7905964c99bcb596e969dd93e7",
+  "title": "F1® 23",
+  "description": "F1® 23",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/b7773a08a6fa41e3a0fbc4c1e51c95a4/EGS_F123_Codemasters_S1_2560x1440-467b1cdd2c54eb2ecaa3d776351ca452",
+      "md5": "467b1cdd2c54eb2ecaa3d776351ca452",
+      "width": 2560,
+      "height": 1440,
+      "size": 846806,
+      "uploadedDate": "2023-12-04T20:52:59.464Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/b7773a08a6fa41e3a0fbc4c1e51c95a4/EGS_F123_Codemasters_S2_1200x1600-9ee0158a6d9f052deb753af836f9bd8d",
+      "md5": "9ee0158a6d9f052deb753af836f9bd8d",
+      "width": 1200,
+      "height": 1600,
+      "size": 797888,
+      "uploadedDate": "2023-12-04T20:53:03.455Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b7773a08a6fa41e3a0fbc4c1e51c95a4",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-30T21:32:34.165Z",
+  "lastModifiedDate": "2023-12-11T18:18:45.430Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "b7773a08a6fa41e3a0fbc4c1e51c95a4"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Codemasters\\F1_23"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "Origin"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "F1_23.exe"
+    },
+    "RegistryLocation": {
+      "type": "STRING",
+      "value": "SOFTWARE\\Codemasters\\F1_23\\Install Dir"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "F1_23.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "F123"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    }
+  },
+  "entitlementName": "637e1a7905964c99bcb596e969dd93e7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9fc8d14bdcc641e3bf1e6ab451527327",
+      "appId": "eridanus",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2023-04-03T23:47:22.506Z"
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

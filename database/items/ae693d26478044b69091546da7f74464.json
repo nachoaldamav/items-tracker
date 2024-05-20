@@ -1,0 +1,35 @@
+{
+  "id": "ae693d26478044b69091546da7f74464",
+  "title": "LemonGeneralAudience",
+  "description": "LemonGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "489c2ca47aaa4190b694184b979d3b23",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-18T21:24:49.570Z",
+  "lastModifiedDate": "2021-04-08T14:10:24.150Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "ae693d26478044b69091546da7f74464",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "David Wehle, LLC",
+  "developerId": "o-qq7pjsuevjj5zeqyl7pj97dtlvd62h",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

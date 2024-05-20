@@ -1,0 +1,38 @@
+{
+  "id": "feced4dc1bb24f969cfe099a262e59cf",
+  "title": "ScarlattiGeneralAudience",
+  "description": "ScarlattiGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ef02301060454cfd8345fae625743294",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-25T00:32:09.776Z",
+  "lastModifiedDate": "2023-10-19T21:26:32.249Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "feced4dc1bb24f969cfe099a262e59cf",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Freedom Games",
+  "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

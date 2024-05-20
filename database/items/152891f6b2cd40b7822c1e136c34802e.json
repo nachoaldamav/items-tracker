@@ -1,0 +1,35 @@
+{
+  "id": "152891f6b2cd40b7822c1e136c34802e",
+  "title": "AluminiumGeneralAudience",
+  "description": "AluminiumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2d831f372e6343cc85cceda5c9c808cf",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-19T17:52:44.012Z",
+  "lastModifiedDate": "2021-01-28T13:57:58.650Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "152891f6b2cd40b7822c1e136c34802e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "The Game Bakers",
+  "developerId": "o-xe5cwmfzsj4nrmn3uhfnzgmf3g6anj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

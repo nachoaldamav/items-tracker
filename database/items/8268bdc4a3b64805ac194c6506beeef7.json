@@ -1,0 +1,86 @@
+{
+  "id": "8268bdc4a3b64805ac194c6506beeef7",
+  "title": "Chimeraland",
+  "description": "Chimeraland",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/offer/0b595db2a0604a3c91d77847a59f5895/EGS_Chimeraland_PixelSoft_S1_2560x1440-e4d9c599a96f70821b0b439232aabf4a",
+      "md5": "e4d9c599a96f70821b0b439232aabf4a",
+      "width": 2560,
+      "height": 1440,
+      "size": 488042,
+      "uploadedDate": "2022-12-06T17:37:27.298Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/offer/0b595db2a0604a3c91d77847a59f5895/EGS_Chimeraland_PixelSoft_S2_1200x1600-d118db8331415a711a746f2a7781c27f",
+      "md5": "d118db8331415a711a746f2a7781c27f",
+      "width": 1200,
+      "height": 1600,
+      "size": 769526,
+      "uploadedDate": "2022-12-06T17:37:03.834Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0b595db2a0604a3c91d77847a59f5895",
+  "status": "ACTIVE",
+  "creationDate": "2022-08-31T17:16:42.024Z",
+  "lastModifiedDate": "2023-10-17T22:24:51.602Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Chimeraland"
+    }
+  },
+  "entitlementName": "8268bdc4a3b64805ac194c6506beeef7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "78da617b01ab4417999cb34c8ec093d1",
+      "appId": "e653be7ff19146c9ada904ae8a78f928",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2022-08-31T17:33:39.043Z"
+    }
+  ],
+  "developer": "Proxima Beta Europe B.V.",
+  "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

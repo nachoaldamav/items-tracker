@@ -1,0 +1,87 @@
+{
+  "id": "c4111084404c4f13b23f645aef415025",
+  "title": "Divine Knockout",
+  "description": "Divine Knockout",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/1200aeb2f87c48349594d96554e2833d/S1_DKO_1920x1080-725ebcd09d6cca173b6da05b7bcefd27",
+      "md5": "725ebcd09d6cca173b6da05b7bcefd27",
+      "width": 1920,
+      "height": 1080,
+      "size": 435084,
+      "uploadedDate": "2023-07-24T13:38:34.043Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/1200aeb2f87c48349594d96554e2833d/DKO_S2_1200x1600-6422e73e12274502a6cfae74daeab890",
+      "md5": "6422e73e12274502a6cfae74daeab890",
+      "width": 1200,
+      "height": 1600,
+      "size": 402822,
+      "uploadedDate": "2023-07-24T13:38:37.414Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1200aeb2f87c48349594d96554e2833d",
+  "status": "ACTIVE",
+  "creationDate": "2022-01-06T02:10:08.879Z",
+  "lastModifiedDate": "2023-07-24T13:38:48.081Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DivineKnockout"
+    }
+  },
+  "entitlementName": "c4111084404c4f13b23f645aef415025",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7c4e4906b338406cb3e99ae74f5e5d2f",
+      "appId": "2a7875f5060d4381af355104773ca649",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2022-01-06T02:12:58.661Z"
+    }
+  ],
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,34 @@
+{
+  "id": "f311d69ba7e247b09ddf11d2049e2bf3",
+  "title": "BreamGeneralAudience",
+  "description": "BreamGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "97590ba7ef144232b14093375c468032",
+  "status": "ACTIVE",
+  "creationDate": "2021-10-28T15:22:14.786Z",
+  "lastModifiedDate": "2022-02-09T18:05:47.430Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f311d69ba7e247b09ddf11d2049e2bf3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "LCG Entertainment, Inc.",
+  "developerId": "o-w6l7l9e6c93j85x29twne9ae6su4jt",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

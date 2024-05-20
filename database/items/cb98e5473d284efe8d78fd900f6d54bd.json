@@ -1,0 +1,53 @@
+{
+  "id": "cb98e5473d284efe8d78fd900f6d54bd",
+  "title": "HaddockBloodAudience",
+  "description": "HaddockBloodAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/item/M17_ESRB_TroyDLC-842x404-ae7a2909804d96414b049264244c56c6.png",
+      "md5": "ae7a2909804d96414b049264244c56c6",
+      "width": 842,
+      "height": 404,
+      "size": 58959,
+      "uploadedDate": "2020-10-28T17:24:30.196Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    },
+    {
+      "path": "addons"
+    }
+  ],
+  "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-19T14:20:24.546Z",
+  "lastModifiedDate": "2021-07-27T13:51:48.994Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows, Mac"
+    }
+  },
+  "entitlementName": "cb98e5473d284efe8d78fd900f6d54bd",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

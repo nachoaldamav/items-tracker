@@ -1,0 +1,35 @@
+{
+  "id": "c06f07608702467da20eb97172edd82b",
+  "title": "CarbonGeneralAudience",
+  "description": "CarbonGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "7d797218225d48ebbca608e9c214cf95",
+  "status": "ACTIVE",
+  "creationDate": "2020-12-02T01:08:11.328Z",
+  "lastModifiedDate": "2020-12-18T13:50:37.745Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c06f07608702467da20eb97172edd82b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Mi'pu'mi Games GmbH",
+  "developerId": "o-3e6wy7snyw5hqy5mdmkjcq7zbx65yf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

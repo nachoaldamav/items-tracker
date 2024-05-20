@@ -1,0 +1,47 @@
+{
+  "id": "d3e8c56676c24127a1b519dfdc4bc71d",
+  "title": "CherryGeneralAudience",
+  "description": "CherryGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/54090fbc182e44d79b2872f24994c190/item/ESRB_T_SplinterCell-398x190-02aa34304c871052547db49167091ed0.jpg",
+      "md5": "02aa34304c871052547db49167091ed0",
+      "width": 398,
+      "height": 190,
+      "size": 10017,
+      "uploadedDate": "2021-03-11T16:29:45.839Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "54090fbc182e44d79b2872f24994c190",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-06T15:50:13.832Z",
+  "lastModifiedDate": "2021-03-11T16:30:41.067Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d3e8c56676c24127a1b519dfdc4bc71d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

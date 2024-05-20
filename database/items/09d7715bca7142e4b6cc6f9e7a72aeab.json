@@ -1,0 +1,35 @@
+{
+  "id": "09d7715bca7142e4b6cc6f9e7a72aeab",
+  "title": "BobtailGeneralAudience",
+  "description": "BobtailGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "8de58df378c34407b6db0388e0470a45",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-27T18:47:58.184Z",
+  "lastModifiedDate": "2020-10-13T18:01:04.618Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac,Win32"
+    }
+  },
+  "entitlementName": "09d7715bca7142e4b6cc6f9e7a72aeab",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Frictional Games",
+  "developerId": "o-aclcw9pm582trqsqg66qfkfp9u9nw7",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

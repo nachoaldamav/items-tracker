@@ -1,0 +1,33 @@
+{
+  "id": "759c7a88825d44fcaff84e8f123d0502",
+  "title": "BurmeseGeneralAudience",
+  "description": "BurmeseGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "72688fa8862442c8867c8b22bd8957b6",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-30T23:23:07.492Z",
+  "lastModifiedDate": "2020-06-04T14:32:12.293Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "759c7a88825d44fcaff84e8f123d0502",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": true
+}

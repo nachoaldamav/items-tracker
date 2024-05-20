@@ -1,0 +1,37 @@
+{
+  "id": "3707262e67414c8db2ae6b1028794e5e",
+  "title": "FortSmith Demo audience",
+  "description": "FortSmith Demo audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "3840e423f39f45eab96aac124a46492a",
+  "status": "ACTIVE",
+  "creationDate": "2022-08-29T08:59:48.943Z",
+  "lastModifiedDate": "2022-10-03T14:34:04.807Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "3707262e67414c8db2ae6b1028794e5e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

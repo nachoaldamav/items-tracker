@@ -13,7 +13,7 @@
   "namespace": "fa0c74ef7780498fb222dcd099bf82a2",
   "status": "ACTIVE",
   "creationDate": "2019-08-27T19:15:43.744Z",
-  "lastModifiedDate": "2019-08-29T13:37:04.756Z",
+  "lastModifiedDate": "2021-09-01T22:11:34.779Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,11 +23,15 @@
   "entitlementName": "0db5ce1793674213a2e9d73a8f5dbdb6",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Good Shepherd Entertainment",
   "developerId": "o-v3fdwkgaukftabrpt9292vr5tcwj2p",
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
-  "unsearchable": false
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": true
 }

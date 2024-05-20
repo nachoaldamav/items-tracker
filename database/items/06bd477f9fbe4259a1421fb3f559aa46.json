@@ -1,0 +1,86 @@
+{
+  "id": "06bd477f9fbe4259a1421fb3f559aa46",
+  "title": "Destiny 2",
+  "description": "Destiny 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/428115def4ca4deea9d69c99c5a5a99e/d2_IntoTheLight_Boot-Image_MASTER_EPIC_Landscape_Offer_EN_2560x1440-40eba9b07abfa902ffdc2361ed5b264e",
+      "md5": "40eba9b07abfa902ffdc2361ed5b264e",
+      "width": 2560,
+      "height": 1440,
+      "size": 811528,
+      "uploadedDate": "2024-04-05T08:21:45.136Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/428115def4ca4deea9d69c99c5a5a99e/d2_IntoTheLight_Boot-Image_MASTER_EPIC_Portrait_Offer_EN_1200x1600-5d62ec3f341699882b406278ea0b142d",
+      "md5": "5d62ec3f341699882b406278ea0b142d",
+      "width": 1200,
+      "height": 1600,
+      "size": 451058,
+      "uploadedDate": "2024-04-05T08:21:48.249Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-12T23:12:54.718Z",
+  "lastModifiedDate": "2024-05-02T12:41:45.406Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "428115def4ca4deea9d69c99c5a5a99e"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Destiny2"
+    }
+  },
+  "entitlementName": "06bd477f9fbe4259a1421fb3f559aa46",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "856b3b4212494f3db3a38be77b8cb902",
+      "appId": "592c359fb0e0413fb46dee2d24448eb4",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Bungie",
+  "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567sgCbjmf8tW6NQHM0TalWIqRv",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

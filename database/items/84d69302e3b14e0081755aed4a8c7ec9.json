@@ -1,0 +1,34 @@
+{
+  "id": "84d69302e3b14e0081755aed4a8c7ec9",
+  "title": "NebraskaGeneralAudience",
+  "description": "NebraskaGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "eb815835951e4165854edf057dfbacdd",
+  "status": "ACTIVE",
+  "creationDate": "2021-07-27T19:02:08.164Z",
+  "lastModifiedDate": "2021-08-12T14:34:24.658Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "84d69302e3b14e0081755aed4a8c7ec9",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "No More Robots",
+  "developerId": "o-236t9erksuklvbpwrddx5953wndtps",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,35 @@
+{
+  "id": "cddb367ce13e4e109a2bc137368576aa",
+  "title": "MoremiGeneralAudience",
+  "description": "MoremiGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "5fd8f5ae809f46d4b33741cc80d3aef8",
+  "status": "ACTIVE",
+  "creationDate": "2020-12-09T11:25:21.174Z",
+  "lastModifiedDate": "2020-12-28T15:14:09.403Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "cddb367ce13e4e109a2bc137368576aa",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Beam Team Games",
+  "developerId": "o-jlpksq54hhq8rcwvlnl6mpctt82x5q",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,37 @@
+{
+  "id": "8316b5805de1482bae474a6e02978f05",
+  "title": "MinskGeneralAudience",
+  "description": "MinskGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "9eea232af06e4e60bb90f9bc5c2a4638",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-12T16:44:57.904Z",
+  "lastModifiedDate": "2021-05-06T14:57:42.118Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "8316b5805de1482bae474a6e02978f05",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Snowman",
+  "developerId": "o-z3ekfrqrj66t7w5jnrxdjhknzm826c",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": true
+}

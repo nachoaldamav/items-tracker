@@ -1,0 +1,35 @@
+{
+  "id": "9d9dee88093b4a86839f468352c1ff6f",
+  "title": "SingapuraUltimateAudience",
+  "description": "SingapuraUltimateAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "55d082ca99b64bd9bdb25754eb56a135",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-16T16:43:55.794Z",
+  "lastModifiedDate": "2020-08-25T14:58:02.713Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9d9dee88093b4a86839f468352c1ff6f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

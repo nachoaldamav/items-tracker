@@ -1,0 +1,103 @@
+{
+  "id": "864c7bc2c2394f7dbd1b534aa068ff56",
+  "title": "Hogwarts Legacy",
+  "description": "Hogwarts Legacy",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/e97659b501af4e3981d5430dad170911/EGS_HogwartsLegacy_AvalancheSoftware_S1_2560x1440-2baf3188eb3c1aa248bcc1af6a927b7e",
+      "md5": "2baf3188eb3c1aa248bcc1af6a927b7e",
+      "width": 2560,
+      "height": 1440,
+      "size": 947980,
+      "uploadedDate": "2022-06-27T17:27:00.339Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/e97659b501af4e3981d5430dad170911/EGS_HogwartsLegacy_AvalancheSoftware_S2_1200x1600-2bb94423bf1c7e2fca10577d9f2878b9",
+      "md5": "2bb94423bf1c7e2fca10577d9f2878b9",
+      "width": 1200,
+      "height": 1600,
+      "size": 938190,
+      "uploadedDate": "2022-06-27T17:27:03.708Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e97659b501af4e3981d5430dad170911",
+  "status": "ACTIVE",
+  "creationDate": "2022-01-21T19:15:43.152Z",
+  "lastModifiedDate": "2023-02-19T01:03:05.406Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/HogwartsLegacy/Saved/SaveGames/{EpicID}/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "-SaveToUserDir -UserDir=\"Hogwarts Legacy\""
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "2000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HogwartsLegacy"
+    }
+  },
+  "entitlementName": "864c7bc2c2394f7dbd1b534aa068ff56",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "197a2e14e3604707aff446925bb921ea",
+      "appId": "fa4240e57a3c46b39f169041b7811293",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2022-01-21T19:19:06.606Z"
+    }
+  ],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567miU20dtYQTvMX82rIvPSALxS",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

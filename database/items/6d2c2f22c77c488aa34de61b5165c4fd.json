@@ -1,0 +1,35 @@
+{
+  "id": "6d2c2f22c77c488aa34de61b5165c4fd",
+  "title": "AriesGeneralAudience",
+  "description": "AriesGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "8101d2b09984401fa28cecce4c867e71",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-25T23:22:34.735Z",
+  "lastModifiedDate": "2020-11-05T15:18:40.403Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "6d2c2f22c77c488aa34de61b5165c4fd",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Bloober Team",
+  "developerId": "o-8nzuqrvr3dvkn9l7dydvhkekqd3xa9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

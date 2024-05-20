@@ -1,0 +1,34 @@
+{
+  "id": "aa6f4db120364373b195a4c6c5a52fca",
+  "title": "cranberry Upgrade audience",
+  "description": "cranberry Upgrade audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "d84e1be6c7764408b3d0f610c84cb8ea",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-21T14:30:29.427Z",
+  "lastModifiedDate": "2024-04-05T19:40:36.711Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "aa6f4db120364373b195a4c6c5a52fca",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Frontier Developments",
+  "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

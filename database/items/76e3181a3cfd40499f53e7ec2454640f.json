@@ -1,0 +1,86 @@
+{
+  "id": "76e3181a3cfd40499f53e7ec2454640f",
+  "title": "Destroy All Humans! 2 - Reprobed",
+  "description": "Destroy All Humans! 2 - Reprobed",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/4d62b26703d24f6d919750b3d88b6d52/EGS_DestroyAllHumans2Reprobed_BlackForestGames_S1_2560x1440-49d09997d2f7f2c5c35a84e1bf89567b",
+      "md5": "49d09997d2f7f2c5c35a84e1bf89567b",
+      "width": 2560,
+      "height": 1440,
+      "size": 626138,
+      "uploadedDate": "2022-05-06T19:28:36.030Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/4d62b26703d24f6d919750b3d88b6d52/EGS_DestroyAllHumans2Reprobed_BlackForestGames_S2_1200x1600-89a721f3295fb318cf6d712ee501cb5f",
+      "md5": "89a721f3295fb318cf6d712ee501cb5f",
+      "width": 1200,
+      "height": 1600,
+      "size": 422890,
+      "uploadedDate": "2022-05-06T19:28:38.801Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4d62b26703d24f6d919750b3d88b6d52",
+  "status": "ACTIVE",
+  "creationDate": "2022-04-19T17:10:36.991Z",
+  "lastModifiedDate": "2024-04-03T16:02:15.907Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "4d62b26703d24f6d919750b3d88b6d52"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DAH2Reprobed"
+    }
+  },
+  "entitlementName": "76e3181a3cfd40499f53e7ec2454640f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b89a1fb2c1004a1792799b9d4961ea5b",
+      "appId": "bc4d80f8f2ee416890fb97a142fca955",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

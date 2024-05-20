@@ -1,0 +1,47 @@
+{
+  "id": "f16133bddffe4edfa02e401378062ce6",
+  "title": "CraneCompleteAudience",
+  "description": "CraneCompleteAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/4912067a5f4f4346b312aa226b2787ac/item/mmh3-esrb-398x190-1da205e458d9-398x190-a73357ee1b9abeef8a9999812367bd8f.png",
+      "md5": "a73357ee1b9abeef8a9999812367bd8f",
+      "width": 398,
+      "height": 190,
+      "size": 3271,
+      "uploadedDate": "2021-03-01T22:18:46.422Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "4912067a5f4f4346b312aa226b2787ac",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-24T22:03:08.742Z",
+  "lastModifiedDate": "2021-03-03T15:23:19.507Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f16133bddffe4edfa02e401378062ce6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

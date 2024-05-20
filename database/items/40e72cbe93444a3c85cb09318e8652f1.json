@@ -1,0 +1,50 @@
+{
+  "id": "40e72cbe93444a3c85cb09318e8652f1",
+  "title": "RazorbillGOTYAudience",
+  "description": "RazorbillGOTYAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/ESRB_Frostpunk_842x404-f56b367afc3525c7ff2c15e46fd82210",
+      "md5": "f56b367afc3525c7ff2c15e46fd82210",
+      "width": 842,
+      "height": 404,
+      "size": 71293,
+      "uploadedDate": "2021-06-03T15:16:23.548Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "be886d9db65047a89b24cd4317695f18",
+  "status": "ACTIVE",
+  "creationDate": "2021-05-13T17:11:18.831Z",
+  "lastModifiedDate": "2021-06-03T15:16:27.035Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "40e72cbe93444a3c85cb09318e8652f1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "11 Bit Studios",
+  "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

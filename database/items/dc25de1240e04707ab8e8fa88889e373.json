@@ -1,0 +1,37 @@
+{
+  "id": "dc25de1240e04707ab8e8fa88889e373",
+  "title": "BDB marker",
+  "description": "BDB marker",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "5fcf6f3031c547f789e29c18b422ca67",
+  "status": "ACTIVE",
+  "creationDate": "2022-07-11T17:08:28.889Z",
+  "lastModifiedDate": "2022-08-22T11:00:15.416Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "dc25de1240e04707ab8e8fa88889e373",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

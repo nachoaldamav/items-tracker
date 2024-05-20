@@ -1,0 +1,49 @@
+{
+  "id": "cd487143cd9148de964a4965b660e110",
+  "title": "ApatiteGenesisSPAudience",
+  "description": "ApatiteGenesisSPAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/ark/item/EGS_ARKSurvivalEvolved_StudioWildcard_RA1-401x200-c5255d56251641b939df2e6bebe10250.png",
+      "md5": "c5255d56251641b939df2e6bebe10250",
+      "width": 401,
+      "height": 200,
+      "size": 43418,
+      "uploadedDate": "2020-06-01T17:33:35.808Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ark",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-11T21:54:17.189Z",
+  "lastModifiedDate": "2021-05-27T16:53:14.958Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "cd487143cd9148de964a4965b660e110",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Studio Wildcard",
+  "developerId": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": true
+}

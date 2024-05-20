@@ -1,0 +1,88 @@
+{
+  "id": "52bf29cddef541aeaea4605f5d9f3123",
+  "title": "MORDHAU",
+  "description": "MORDHAU",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/2bda08f9230144a19e98373cc4a6ac2d/EGS_MORDHAU_Triterniondoo_S1_2560x1440-572876bb8bcb903e5c33235b7eba8797",
+      "md5": "572876bb8bcb903e5c33235b7eba8797",
+      "width": 2560,
+      "height": 1440,
+      "size": 868500,
+      "uploadedDate": "2023-01-27T10:45:19.196Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/2bda08f9230144a19e98373cc4a6ac2d/EGS_MORDHAU_Triterniondoo_S2_1200x1600-3c795e67d44f02e4127ed4df435560f3",
+      "md5": "3c795e67d44f02e4127ed4df435560f3",
+      "width": 1200,
+      "height": 1600,
+      "size": 712920,
+      "uploadedDate": "2023-01-27T10:45:21.654Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-24T16:05:42.759Z",
+  "lastModifiedDate": "2024-04-29T10:54:13.045Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "2bda08f9230144a19e98373cc4a6ac2d"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Mordhau"
+    }
+  },
+  "entitlementName": "52bf29cddef541aeaea4605f5d9f3123",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "df7a71c27c844bb9bb38d36704840340",
+      "appId": "2e26af55c1a146e7a939dcc1014fc9fd",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-04-24T16:07:57.578Z"
+    }
+  ],
+  "developer": "Triternion",
+  "developerId": "o-tvu5xuu383665htjt4wez2tgl45exq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi45675OKykah5dIsLCZt7vyauO7yC",
+  "unsearchable": true
+}

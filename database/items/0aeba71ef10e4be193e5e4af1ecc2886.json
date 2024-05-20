@@ -1,0 +1,35 @@
+{
+  "id": "0aeba71ef10e4be193e5e4af1ecc2886",
+  "title": "DevBoronAudience",
+  "description": "DevBoronAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "c556d22537ed4a14a454813c9faedd3a",
+  "status": "ACTIVE",
+  "creationDate": "2020-12-01T23:30:06.151Z",
+  "lastModifiedDate": "2021-09-23T00:38:19.139Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0aeba71ef10e4be193e5e4af1ecc2886",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Toplitz Productions GmbH",
+  "developerId": "o-5p7vmece7eqgvdyjqvene54arynxxh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

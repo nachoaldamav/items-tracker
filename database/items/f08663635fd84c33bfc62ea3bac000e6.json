@@ -1,0 +1,93 @@
+{
+  "id": "f08663635fd84c33bfc62ea3bac000e6",
+  "title": "Sonic Mania",
+  "description": "Sonic Mania",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SonicMania_Lab42_S5-1360x765-31b5379f91e2451e57e0273339bf68b8_1360x765-31b5379f91e2451e57e0273339bf68b8",
+      "md5": "31b5379f91e2451e57e0273339bf68b8",
+      "width": 1360,
+      "height": 765,
+      "size": 352113,
+      "uploadedDate": "2021-06-16T18:36:13.263Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SonicMania_Lab42_S6-510x680-b83646998d6a711b6997e076e091c015_510x680-b83646998d6a711b6997e076e091c015",
+      "md5": "b83646998d6a711b6997e076e091c015",
+      "width": 510,
+      "height": 680,
+      "size": 333330,
+      "uploadedDate": "2021-06-16T18:36:20.982Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "45e7cf3c49054f2fb20b673d9b0ae69e",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-26T01:32:51.186Z",
+  "lastModifiedDate": "2021-06-24T17:03:50.462Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "45e7cf3c49054f2fb20b673d9b0ae69e"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SonicMania"
+    }
+  },
+  "entitlementName": "f08663635fd84c33bfc62ea3bac000e6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fafa7f19fb00431b8d0fcee74012a7c2",
+      "appId": "818447bb519b46d48d365d5753362796",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-02-26T00:00:00.000Z"
+    }
+  ],
+  "developer": "Sega of America",
+  "developerId": "o-5gbgsfvsrt9wlx9gu868mrxmhq6dlv",
+  "eulaIds": [
+    "(egstore && soa)"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567FiiDJHPBza6terCIuWDkANuy",
+  "unsearchable": true
+}

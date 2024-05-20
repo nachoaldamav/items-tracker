@@ -1,0 +1,93 @@
+{
+  "id": "15e0453e73ea42e3bf6f1905cf048549",
+  "title": "Worms Rumble",
+  "description": "Worms Rumble",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WormsRumble_Tem17_S3_2560x1440-272fede85a58626f9ff4103438e69536",
+      "md5": "272fede85a58626f9ff4103438e69536",
+      "width": 2560,
+      "height": 1440,
+      "size": 413764,
+      "uploadedDate": "2021-06-23T15:55:16.758Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WormsRumble_Tem17_S4_1200x1600-1e1ae1286c7749d91e7fa205ee393b05",
+      "md5": "1e1ae1286c7749d91e7fa205ee393b05",
+      "width": 1200,
+      "height": 1600,
+      "size": 430961,
+      "uploadedDate": "2021-06-23T15:55:20.739Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2016da2363da487bbf78961d8faec81c",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-26T15:22:11.725Z",
+  "lastModifiedDate": "2021-06-23T16:11:44.323Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "2016da2363da487bbf78961d8faec81c"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WormsRumble"
+    }
+  },
+  "entitlementName": "15e0453e73ea42e3bf6f1905cf048549",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "04a0843cd80146239403324b3e53ccb1",
+      "appId": "3dfc1923383746ee9cd8fcf9955239dd",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-02-26T00:00:00.000Z"
+    }
+  ],
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567ARa6bhaw9q3qv2UGnW1jqnj1",
+  "unsearchable": true
+}

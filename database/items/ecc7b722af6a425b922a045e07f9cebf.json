@@ -1,0 +1,90 @@
+{
+  "id": "ecc7b722af6a425b922a045e07f9cebf",
+  "title": "Century: Age of Ashes",
+  "description": "Century: Age of Ashes",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/f698d5d792654ac99f47d67e93916bef/EGS_CenturyAgeofAshes_Playwing_S1_2560x1440-bfe7e7b0630017b5ab59ab400af65bca",
+      "md5": "bfe7e7b0630017b5ab59ab400af65bca",
+      "width": 2560,
+      "height": 1440,
+      "size": 493253,
+      "uploadedDate": "2024-05-02T08:51:18.782Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/f698d5d792654ac99f47d67e93916bef/EGS_CenturyAgeofAshes_Playwing_S2_1200x1600-cc60ad1f8803ebc3964fcaf08c1d2b3c",
+      "md5": "cc60ad1f8803ebc3964fcaf08c1d2b3c",
+      "width": 1200,
+      "height": 1600,
+      "size": 310603,
+      "uploadedDate": "2024-05-02T08:51:23.008Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f698d5d792654ac99f47d67e93916bef",
+  "status": "ACTIVE",
+  "creationDate": "2021-03-17T20:05:04.952Z",
+  "lastModifiedDate": "2024-05-02T08:52:33.246Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "f698d5d792654ac99f47d67e93916bef"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CenturyAgeofAshes"
+    }
+  },
+  "entitlementName": "ecc7b722af6a425b922a045e07f9cebf",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "08ed6c69662a4332b272b68ece9674d6",
+      "appId": "c40939566ad44585bde9302bdbe82734",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Playwing LTD",
+  "developerId": "o-z69v89gad8w2prqetqc35tegga56sx",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567wYSAkcWmTS0C5HZ5e9gNShhn",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

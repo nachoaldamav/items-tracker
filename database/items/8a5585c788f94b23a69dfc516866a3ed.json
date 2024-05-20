@@ -1,0 +1,34 @@
+{
+  "id": "8a5585c788f94b23a69dfc516866a3ed",
+  "title": "Phobetor audience",
+  "description": "Phobetor audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c9e358017d6f46a0adae80e19bdf6a56",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-19T18:05:57.037Z",
+  "lastModifiedDate": "2024-01-29T23:08:42.827Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "8a5585c788f94b23a69dfc516866a3ed",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Techland",
+  "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

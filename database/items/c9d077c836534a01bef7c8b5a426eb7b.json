@@ -1,0 +1,35 @@
+{
+  "id": "c9d077c836534a01bef7c8b5a426eb7b",
+  "title": "AntwrenGeneralAudience",
+  "description": "AntwrenGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "5e834b926aa547029903e0ae4f649a70",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-28T23:40:03.615Z",
+  "lastModifiedDate": "2021-08-11T18:54:45.175Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c9d077c836534a01bef7c8b5a426eb7b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Thomas Happ Games LLC",
+  "developerId": "o-4c6aeklnh4xk4m9h9gmr52tk5v2l8r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
