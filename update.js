@@ -237,19 +237,51 @@ class Main {
 
         this.namespaceOffersCache[namespace] = offersData;
 
-        // item[n].mainGameItem?.id
+        console.log(
+          offersData.elements.map((element) => element.id).join(', ')
+        );
+
+        // elements[n].item[n].mainGameItem?.id OR item[n].id
         const elements = offersData.elements
-          .map((element) => element.mainGameItem)
+          .flatMap((element) => {
+            const items = element.items.map((item) => {
+              return item.mainGameItem?.id || item.id;
+            });
+
+            return items;
+          })
           .filter((element) => element);
+
+        console.log(elements);
+
+        console.log(
+          `Found ${elements.length} items for namespace ${namespace}, fetching...`
+        );
+
         const items = [];
 
         for (const element of elements) {
-          console.log(`Fetching item ${element.id}...`);
-          if (element.id) {
-            const { data } = await this.launcher.http.sendGet(
-              `https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/${namespace}/items/${element.id}?country=${this.country}&locale=${this.language}`
+          if (element) {
+            console.log(
+              `Fetching item ${element} for namespace ${namespace}...`
             );
-            items.push(data);
+            const { data } = await this.launcher.http
+              .sendGet(
+                `https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/${namespace}/items/${element}`
+              )
+              .then((response) => response)
+              .catch((error) => {
+                console.error(`Error fetching item ${element}`);
+                return {
+                  data: null,
+                };
+              });
+
+            if (data) {
+              items.push(data);
+            }
+          } else {
+            console.log('Invalid element');
           }
         }
 
