@@ -1,0 +1,63 @@
+{
+  "id": "c4d8f15273ba46d0aae4b11387ee97f4",
+  "title": "AIMX",
+  "description": "AIMX",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/219e4c464b464ada85b445323a9732f4/aimx-10eux.png",
+      "md5": "b1994a16b5d48bc30bbb2f89a01c3bc8",
+      "width": 2560,
+      "height": 1440,
+      "size": 1146189,
+      "uploadedDate": "2023-10-16T13:52:08.687Z",
+      "alt": "AIMX Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/219e4c464b464ada85b445323a9732f4/aimx-1hevx.png",
+      "md5": "1e00f8f861a6f5728f98638aa4828f8c",
+      "width": 1200,
+      "height": 1600,
+      "size": 316029,
+      "uploadedDate": "2023-10-27T09:55:24.544Z",
+      "alt": "Download AIMX Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "dc7286948a8f4399ad19796b899e67d6",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-07T14:26:04.227Z",
+  "lastModifiedDate": "2023-11-21T14:02:54.758Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "AIMX"
+    }
+  },
+  "entitlementName": "c4d8f15273ba46d0aae4b11387ee97f4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "00e042cdaf0c40a3b99c1bede7db4605",
+      "appId": "9e077828bc564cb185595d7fb835b9cd",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "aimx sarl",
+  "developerId": "o-hw28unrje33698hvnwr8zdj8gp6r4x",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

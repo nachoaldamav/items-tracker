@@ -1,0 +1,63 @@
+{
+  "id": "03f99635d2ec404ca8c67327735cef15",
+  "title": "Master of Music",
+  "description": "Master of Music",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8786711fbbd7436bb8fc357547fed33b/master-of-music-1pkfd.png",
+      "md5": "b6cdf7b888f0bcdb2ed24e6ce61e731c",
+      "width": 2560,
+      "height": 1440,
+      "size": 148501,
+      "uploadedDate": "2023-09-12T15:57:27.450Z",
+      "alt": "Master of Music Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8786711fbbd7436bb8fc357547fed33b/master-of-music-1lthn.png",
+      "md5": "8f321dcd7f0f4f3466ee82c388be15fe",
+      "width": 1200,
+      "height": 1600,
+      "size": 1101891,
+      "uploadedDate": "2023-09-12T15:57:27.372Z",
+      "alt": "Download Master of Music Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7fdda6b99bc343a29aa49dd90395ae0a",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-18T02:52:04.694Z",
+  "lastModifiedDate": "2023-11-18T02:52:04.694Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "MasterofMusic"
+    }
+  },
+  "entitlementName": "03f99635d2ec404ca8c67327735cef15",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6a947f32304741628259be9517cc3df6",
+      "appId": "ef543e0436ef4c05b16044c37254ff22",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Catalyst Game Development",
+  "developerId": "o-jcr87j98nhyrzme5ebm57bb4c8m29v",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

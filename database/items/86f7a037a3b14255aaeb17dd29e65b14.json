@@ -1,0 +1,68 @@
+{
+  "id": "86f7a037a3b14255aaeb17dd29e65b14",
+  "title": "happiness market",
+  "description": "A simple simulation business game. Build different stores to earn money from passing customers.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e38d12968a0d4039bda7fed79f94cb52/happiness-market-df89j.png",
+      "md5": "4f9acf32afaec968ddc3cfb7838c81e9",
+      "width": 2560,
+      "height": 1440,
+      "size": 2391896,
+      "uploadedDate": "2024-03-20T15:53:04.967Z",
+      "alt": "happiness market Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e38d12968a0d4039bda7fed79f94cb52/happiness-market-k3kcz.png",
+      "md5": "8a187259859aff4a8c6204023a60b502",
+      "width": 1200,
+      "height": 1600,
+      "size": 1530020,
+      "uploadedDate": "2024-03-20T15:55:05.576Z",
+      "alt": "Download happiness market Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "301523940444454f809dd4d9122a4b3f",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-22T08:57:20.445Z",
+  "lastModifiedDate": "2024-04-18T00:35:38.200Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/www/save/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "happinessmarketENjMc"
+    }
+  },
+  "entitlementName": "86f7a037a3b14255aaeb17dd29e65b14",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "dabc2a2f2ebe4630b359c7823ad12df9",
+      "appId": "7fdc688e81b648e19755bb5c5a007220",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "luoeli",
+  "developerId": "o-b5kzwu7m7cvhgetk8prhrvtamqpcyl",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

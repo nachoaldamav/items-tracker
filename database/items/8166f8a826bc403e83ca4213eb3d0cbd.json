@@ -1,0 +1,89 @@
+{
+  "id": "8166f8a826bc403e83ca4213eb3d0cbd",
+  "title": "Need for Speed™ Deluxe Edition",
+  "description": "Ready to own the streets? Get behind the wheel of iconic cars and floor it through Ventura Bay, a sprawling urban playground.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/708e7b244f6e474d8448d21074f76968/need-for-speed-2016-ym3tg.jpg",
+      "md5": "eac9bcc34c160b58d4b2d53f252ed815",
+      "width": 2560,
+      "height": 1440,
+      "size": 916070,
+      "uploadedDate": "2024-03-08T01:40:24.064Z",
+      "alt": "Need For Speed 2016 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/708e7b244f6e474d8448d21074f76968/need-for-speed-2016-1oxvi.jpg",
+      "md5": "9c5bcebbe311f2a53b7272ccd2d845a8",
+      "width": 1200,
+      "height": 1600,
+      "size": 785363,
+      "uploadedDate": "2024-03-08T01:40:30.030Z",
+      "alt": "Download Need For Speed 2016 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "77961f9557a149a8bf1cf761220d9d24",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-04T15:39:49.636Z",
+  "lastModifiedDate": "2024-03-28T14:12:42.719Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\EA Games\\Need for Speed"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "NFS16.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "NFS16.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NeedForSpeed2016Z7LUr"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "8166f8a826bc403e83ca4213eb3d0cbd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9fe5601fb1ae433b89bd00b9bcdabe99",
+      "appId": "moorkop",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

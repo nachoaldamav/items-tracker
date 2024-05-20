@@ -1,0 +1,62 @@
+{
+  "id": "d3c054ddf4f143cf94de77bd16668d06",
+  "title": "Run A Cafe",
+  "description": "Run A Cafe",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d6c498b63d9c48cf8332ef5f11f95332/run-a-cafe-1avrm.png",
+      "md5": "9062f2901acd2b66ae974eb63fe97041",
+      "width": 2560,
+      "height": 1440,
+      "size": 1222214,
+      "uploadedDate": "2023-06-28T02:34:30.574Z",
+      "alt": "Run A Cafe Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d6c498b63d9c48cf8332ef5f11f95332/run-a-cafe-uvixk.png",
+      "md5": "8e2e066a1ebe75273281c08d29fa4920",
+      "width": 1200,
+      "height": 1600,
+      "size": 623584,
+      "uploadedDate": "2023-06-28T02:34:31.838Z",
+      "alt": "Download Run A Cafe Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "752a74d471e54cb79d4bf96d7e6b9cde",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-18T18:45:46.533Z",
+  "lastModifiedDate": "2023-07-11T17:18:13.960Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "RunACafezDnQg"
+    }
+  },
+  "entitlementName": "d3c054ddf4f143cf94de77bd16668d06",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d31ec229db8b4b0ba39c72864986d537",
+      "appId": "d85e010176514906b053407ef8bfd869",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "PixelRift Studios",
+  "developerId": "o-zbv3cwb8grt5f9bfbw63srk7l4nsbj",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

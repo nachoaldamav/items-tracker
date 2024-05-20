@@ -1,0 +1,73 @@
+{
+  "id": "5d67b5ea635649a3981bc87ff169656a",
+  "title": "Shinogi Chess Club",
+  "description": "Shinogi Chess Club",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/beac674f880e48d698b2261e4b7df0e0/shinogi-chess-club-1sx04.jpg",
+      "md5": "bd88d259777f4fa2d1da4d98d73065ad",
+      "width": 2560,
+      "height": 1440,
+      "size": 1311906,
+      "uploadedDate": "2023-03-15T22:43:27.765Z",
+      "alt": "Shinogi Chess Club Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/beac674f880e48d698b2261e4b7df0e0/shinogi-chess-club-dvhfy.jpg",
+      "md5": "e72c8230f3c6a0b40048a641ef59c7f0",
+      "width": 1200,
+      "height": 1600,
+      "size": 1070371,
+      "uploadedDate": "2023-03-15T22:43:32.555Z",
+      "alt": "Download Shinogi Chess Club Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "86bea31a21594ea3859c3cb3563a9b80",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-10T19:41:47.790Z",
+  "lastModifiedDate": "2023-03-21T03:08:10.965Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserDir}/RobProductions/Shinogi Chess Club/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserProfile}/Documents/RobProductions/Shinogi Chess Club/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ShinogiChessClub"
+    }
+  },
+  "entitlementName": "5d67b5ea635649a3981bc87ff169656a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "95d8e8c8d5b24553be1e9d8834dbfef1",
+      "appId": "c144ea8fba3644d5b1ed05a0357eaf43",
+      "platform": [
+        "Mac",
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "RobProductions",
+  "developerId": "o-e7w4jydc6n8kfbgajer9sd7q74xa4u",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

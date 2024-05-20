@@ -1,0 +1,67 @@
+{
+  "id": "b600f7479730415aa461911631c3cfba",
+  "title": "Puzzle Agent",
+  "description": "Puzzle Agent",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/cd6053c1c974413ea2b772900492fd23/puzzle-agent-h1t4u.png",
+      "md5": "5ed64d5feecbe1ae274a450f8aba6630",
+      "width": 2560,
+      "height": 1440,
+      "size": 2343076,
+      "uploadedDate": "2024-02-14T16:22:44.424Z",
+      "alt": "Puzzle Agent Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/cd6053c1c974413ea2b772900492fd23/puzzle-agent-di03m.png",
+      "md5": "1553e600d0ad1d0e45597aab0adb1dae",
+      "width": 1200,
+      "height": 1600,
+      "size": 1422039,
+      "uploadedDate": "2024-02-14T16:25:05.092Z",
+      "alt": "Download Puzzle Agent Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3726bbb2f39547989134d8ebaba10b3b",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-22T18:54:20.138Z",
+  "lastModifiedDate": "2024-04-22T18:54:20.138Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/Telltale Games/PuzzleAgentjVYHI/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PuzzleAgentjVYHI"
+    }
+  },
+  "entitlementName": "b600f7479730415aa461911631c3cfba",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "99ba5582cb0d4606a591671942bcdd77",
+      "appId": "180247672c724d4aa13e1eb577894349",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "LCG Entertainment, Inc.",
+  "developerId": "o-w6l7l9e6c93j85x29twne9ae6su4jt",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

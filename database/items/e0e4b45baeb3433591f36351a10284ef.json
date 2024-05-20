@@ -1,0 +1,68 @@
+{
+  "id": "e0e4b45baeb3433591f36351a10284ef",
+  "title": "Gray Dawn Demo",
+  "description": "Gray Dawn Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b1d55bd41bc447899437e2eb89456712/gray-dawn-ff298.jpg",
+      "md5": "e2dc1530431e635d55d1f14bb7788b6b",
+      "width": 2560,
+      "height": 1440,
+      "size": 1235064,
+      "uploadedDate": "2023-10-13T19:13:10.961Z",
+      "alt": "Gray Dawn Gray Dawn Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b1d55bd41bc447899437e2eb89456712/gray-dawn-1yhgt.jpg",
+      "md5": "8b6b36a1ebdcad85c8636bfd4d3524d4",
+      "width": 1200,
+      "height": 1600,
+      "size": 671110,
+      "uploadedDate": "2023-10-13T19:13:22.265Z",
+      "alt": "Download Gray Dawn Gray Dawn Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9704cc138a58450abe19bbb318866b1c",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-15T13:06:07.192Z",
+  "lastModifiedDate": "2023-10-15T13:06:07.192Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/GrayDawn/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GrayDawnDemo"
+    }
+  },
+  "entitlementName": "e0e4b45baeb3433591f36351a10284ef",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a04f4334718345f8b194274cc6528082",
+      "appId": "7e5807f530ed41bf81f8ff7fa2ae15f7",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Interactive Stone",
+  "developerId": "o-q23qlsa9jdlqrms9k45k7dr2c2fftu",
+  "endOfSupport": false,
+  "applicationId": "fghi4567PTjhZknLbXhdcdBlfJiXwPFs",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

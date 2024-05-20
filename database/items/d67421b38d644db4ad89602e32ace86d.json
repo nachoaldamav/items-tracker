@@ -1,0 +1,71 @@
+{
+  "id": "d67421b38d644db4ad89602e32ace86d",
+  "title": "Russian Village Simulator",
+  "description": "This is a simulator of life in the Russian countryside, where the player will be engaged in the garden, picking mushrooms and berries, collect firewood, hunting and fishing, brew moonshine and much, much more.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/363bc1de43a44e7abb8bdd125d7dd8dd/russian-village-simulator-w751l.png",
+      "md5": "8b6f3409f78f3e9094a76f7004eee90e",
+      "width": 2560,
+      "height": 1440,
+      "size": 3083806,
+      "uploadedDate": "2024-04-29T12:50:07.166Z",
+      "alt": "Russian Village Simulator Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/363bc1de43a44e7abb8bdd125d7dd8dd/russian-village-simulator-1kuqh.png",
+      "md5": "93c944479d3f385e5522caa62f250107",
+      "width": 1200,
+      "height": 1600,
+      "size": 1747158,
+      "uploadedDate": "2024-04-29T12:50:08.187Z",
+      "alt": "Download Russian Village Simulator Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c0faeee2598f4fcba5696d4fdda7d718",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-02T02:58:09.316Z",
+  "lastModifiedDate": "2024-05-02T02:58:09.316Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/RussianVillageSimulator/RussianVillage/Saved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RussianVillageSimulator"
+    }
+  },
+  "entitlementName": "d67421b38d644db4ad89602e32ace86d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4206cc2efdbd43e796f86bb100979406",
+      "appId": "c3a56c63f0304cddb9fc745b5e08dfc4",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "VD Games",
+  "developerId": "o-mp6lk39fh6kbrajmvheqwd5huhrczz",
+  "endOfSupport": false,
+  "applicationId": "fghi4567kNe3uoPWqowoYfzMLevxvsfQ",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

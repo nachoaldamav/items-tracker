@@ -1,0 +1,76 @@
+{
+  "id": "fa120c1282b44d0cafe6e3e343cefc1b",
+  "title": "Poi",
+  "description": "Poi is a 3D platformer featuring two kids on a grand adventure to unravel the mysteries of the Milky Way Globe. Explore uncharted lands, compete in challenge levels, meet quirky characters and defeat comical creatures on a journey to become a Master Explorer.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5016e6a57ef14c9ca2b36c8287624985/poi-1yh1o.png",
+      "md5": "dc5362e2fdb563c40f716b776d783d30",
+      "width": 2560,
+      "height": 1440,
+      "size": 2309402,
+      "uploadedDate": "2023-04-14T06:24:26.097Z",
+      "alt": "Poi Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5016e6a57ef14c9ca2b36c8287624985/poi-1p2dm.png",
+      "md5": "8215e408e45f7d5e1a10558d4d008021",
+      "width": 1200,
+      "height": 1600,
+      "size": 1267769,
+      "uploadedDate": "2023-03-16T06:43:15.656Z",
+      "alt": "Download Poi Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ed0abf2ea33d4c76ad24ee0aad5f1430",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-10T05:54:30.224Z",
+  "lastModifiedDate": "2023-05-29T22:13:56.585Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/unity.PolyKid.Poi/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/PolyKid/Poi/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "epic-*.dat"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Poi"
+    }
+  },
+  "entitlementName": "fa120c1282b44d0cafe6e3e343cefc1b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bbc556f6153e4e2db6331963d196feb7",
+      "appId": "bd9424f7a64d46c58298338861e6ec22",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "PolyKid",
+  "developerId": "o-qbrlvnqd4a7h9zj2wmltqsq4wsevbr",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,62 @@
+{
+  "id": "e990395ea67a4df5b551cb107dac07ad",
+  "title": "Jawbreaker Demo",
+  "description": "Jawbreaker Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/352aaac3dd1c4c01a1a0ffea9818eda0/jawbreaker-davo4.jpg",
+      "md5": "4d0564ee2b95e419294e4fdec069f79c",
+      "width": 2560,
+      "height": 1440,
+      "size": 1083241,
+      "uploadedDate": "2023-03-22T05:27:07.822Z",
+      "alt": "Jawbreaker Jawbreaker Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/352aaac3dd1c4c01a1a0ffea9818eda0/jawbreaker-k4gy0.png",
+      "md5": "4fd3d6c38093eb626a3b34f5d23bee0d",
+      "width": 1200,
+      "height": 1600,
+      "size": 1663722,
+      "uploadedDate": "2023-03-22T05:27:21.914Z",
+      "alt": "Download Jawbreaker Jawbreaker Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "25dc90a6e7c34e03a72007bc4777a254",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-22T03:26:34.691Z",
+  "lastModifiedDate": "2023-03-22T16:03:22.849Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DemoJawbreaker58bfa"
+    }
+  },
+  "entitlementName": "e990395ea67a4df5b551cb107dac07ad",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fcde058ecf224ecea19b6c955f9e59e7",
+      "appId": "5008a40bf9e04212a4084ad7fb8c9ced",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Vincent Lade",
+  "developerId": "o-c2f88bj6zk6shq27n9yh2ktuysdue6",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

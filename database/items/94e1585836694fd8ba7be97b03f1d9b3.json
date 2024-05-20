@@ -1,0 +1,63 @@
+{
+  "id": "94e1585836694fd8ba7be97b03f1d9b3",
+  "title": "Dark and Darker",
+  "description": "Dark and Darker",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/dc77f1f941e14360b61093b761cb34ba/dark-and-darker-2ufsk.jpg",
+      "md5": "a84c196cc9793af621146ff57a71c1bf",
+      "width": 2560,
+      "height": 1440,
+      "size": 595086,
+      "uploadedDate": "2023-04-05T06:20:22.635Z",
+      "alt": "Dark and Darker Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/dc77f1f941e14360b61093b761cb34ba/dark-and-darker-miwuf.jpg",
+      "md5": "7732edd0d327adec09cd4e7cc4e5782c",
+      "width": 1200,
+      "height": 1600,
+      "size": 302171,
+      "uploadedDate": "2023-04-05T06:20:24.765Z",
+      "alt": "Download Dark and Darker Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "91b15e9ef6c94b1694d87639beb8cbad",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-28T07:25:43.123Z",
+  "lastModifiedDate": "2024-03-19T05:14:56.023Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DarkandDarker"
+    }
+  },
+  "entitlementName": "94e1585836694fd8ba7be97b03f1d9b3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f453bedd3110497bad9c7af5d9e8ab25",
+      "appId": "273854fd9c764c42a8e0f5c59aef343a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "IRONMACE",
+  "developerId": "o-f63alxkwu8qdltfg5dp9qwjwztz6kw",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

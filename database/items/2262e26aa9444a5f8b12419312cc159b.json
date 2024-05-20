@@ -1,0 +1,63 @@
+{
+  "id": "2262e26aa9444a5f8b12419312cc159b",
+  "title": "Cat Billiards",
+  "description": "Cat Billiards",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/984cfbd834a14315983bbca9e3c4524a/cat-billiards-19w4f.jpg",
+      "md5": "f9142a5188ec39e0ed08842c6e73352a",
+      "width": 2560,
+      "height": 1440,
+      "size": 2445544,
+      "uploadedDate": "2024-01-28T17:04:09.899Z",
+      "alt": "Cat Billiards Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/984cfbd834a14315983bbca9e3c4524a/cat-billiards-r9sbq.jpg",
+      "md5": "3ba4e72c67299a9533ed14bd94b340e0",
+      "width": 1200,
+      "height": 1600,
+      "size": 1514517,
+      "uploadedDate": "2024-01-28T17:04:09.564Z",
+      "alt": "Download Cat Billiards Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "af1bc981716d44a4a2e6e6bec2fef194",
+  "status": "ACTIVE",
+  "creationDate": "2024-01-31T15:10:56.449Z",
+  "lastModifiedDate": "2024-01-31T15:10:56.449Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "CatBilliards"
+    }
+  },
+  "entitlementName": "2262e26aa9444a5f8b12419312cc159b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7c4b3b36bad34ba8bd7bb51869c518ea",
+      "appId": "0fbfcd0031a94570b05664d8fdb29068",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "bidmei",
+  "developerId": "o-y8gfhwuus77esfj7hgzuxnrcn9b5a6",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

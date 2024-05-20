@@ -1,0 +1,63 @@
+{
+  "id": "c0b326cc387644b391ec7792fe7b0663",
+  "title": "Target",
+  "description": "Target",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0c96351e277846efab8c568eda0b117b/target-cu0x5.png",
+      "md5": "0c939eaf20245eaba766272b23e444e0",
+      "width": 2560,
+      "height": 1440,
+      "size": 4157267,
+      "uploadedDate": "2023-05-06T21:55:20.716Z",
+      "alt": "Target Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0c96351e277846efab8c568eda0b117b/target-12u44.png",
+      "md5": "d764a447c9ce1144ac579c07aafce09f",
+      "width": 1200,
+      "height": 1600,
+      "size": 78562,
+      "uploadedDate": "2023-05-06T22:04:43.550Z",
+      "alt": "Download Target Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a78e1834dd0f43839f18750e0234f820",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-06T12:32:08.344Z",
+  "lastModifiedDate": "2024-02-27T21:20:50.344Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Target"
+    }
+  },
+  "entitlementName": "c0b326cc387644b391ec7792fe7b0663",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c0a9c4d5b34743759fa5c9bdc147eef7",
+      "appId": "193f389e59a64024b8c43f1caa18add6",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Target",
+  "developerId": "o-aywqvgvc9zsuzclpuyvhktkd3jt78j",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

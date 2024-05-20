@@ -1,0 +1,62 @@
+{
+  "id": "51158013ed3144c1b2937c4bc568bae1",
+  "title": "Nick Quest",
+  "description": "Nick Quest",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/589e72ff6b6e4c5c872732ad4c43497d/nick-quest-yk533.png",
+      "md5": "f3230eed3a0a0065688d2510cd73b533",
+      "width": 2560,
+      "height": 1440,
+      "size": 2148157,
+      "uploadedDate": "2023-05-11T07:00:00.348Z",
+      "alt": "Nick Quest Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/589e72ff6b6e4c5c872732ad4c43497d/nick-quest-3vt7v.png",
+      "md5": "4778bd7ede0c79951571c1d136bc7138",
+      "width": 1200,
+      "height": 1600,
+      "size": 1202361,
+      "uploadedDate": "2023-05-14T16:19:05.980Z",
+      "alt": "Download Nick Quest Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4fa4796b3d9842a79980112c9dc17562",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-11T02:50:34.508Z",
+  "lastModifiedDate": "2023-05-30T01:04:09.327Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "NickQuestFZbJO"
+    }
+  },
+  "entitlementName": "51158013ed3144c1b2937c4bc568bae1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "04b81a3a857a4d288c83fc662027ce6c",
+      "appId": "e4c3dec175724094b7f5eeb081b1889c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "TheLordBaeron",
+  "developerId": "o-f5khr8drnmr9x8sxh3e7c47sutj8aj",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

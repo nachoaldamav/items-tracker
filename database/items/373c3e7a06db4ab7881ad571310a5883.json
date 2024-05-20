@@ -1,0 +1,68 @@
+{
+  "id": "373c3e7a06db4ab7881ad571310a5883",
+  "title": "Outcore - Desktop Adventure",
+  "description": "Outcore - Desktop Adventure",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6adefbc606a9437c95bdcbc81d7b8ef5/outcore--desktop-adventure-9r3tn.jpg",
+      "md5": "dd5caeb93e0110bf9a30a3ae0c70a46b",
+      "width": 2560,
+      "height": 1440,
+      "size": 1534622,
+      "uploadedDate": "2023-03-09T21:15:02.175Z",
+      "alt": "Outcore - Desktop Adventure Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6adefbc606a9437c95bdcbc81d7b8ef5/outcore--desktop-adventure-w1zgj.jpg",
+      "md5": "85f81cef3f3e884ba43a7d43cca671b6",
+      "width": 1200,
+      "height": 1600,
+      "size": 814452,
+      "uploadedDate": "2023-03-09T21:14:58.796Z",
+      "alt": "Download Outcore - Desktop Adventure Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "da1f78693e5f4a6888297c9362b1144e",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-09T19:23:44.595Z",
+  "lastModifiedDate": "2023-05-06T12:54:38.424Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/DoctorShinobi/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Outcore"
+    }
+  },
+  "entitlementName": "373c3e7a06db4ab7881ad571310a5883",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4e61d51648f043288a88c2aa2c26bf43",
+      "appId": "dd4435a49aba4387a7d2249a02c37beb",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Doctor Shinobi",
+  "developerId": "o-krbmkjlhwnnc65htraf22rb949s5lb",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

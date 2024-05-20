@@ -1,0 +1,63 @@
+{
+  "id": "21a9ff998beb4ce8961c8a2d63488cb4",
+  "title": "Unescape?",
+  "description": "Unescape?",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/fab36ad23ed2431fa9bc615c1db83f60/unescape-1700t.png",
+      "md5": "578a1b40c6816532346991da4f406ef6",
+      "width": 2560,
+      "height": 1440,
+      "size": 2826328,
+      "uploadedDate": "2024-04-15T19:38:34.935Z",
+      "alt": "Unescape Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/fab36ad23ed2431fa9bc615c1db83f60/unescape-10yt5.png",
+      "md5": "5ee1132ba8cf1e5337f91e7489735eb5",
+      "width": 1200,
+      "height": 1600,
+      "size": 1354086,
+      "uploadedDate": "2024-04-15T19:38:35.150Z",
+      "alt": "Download Unescape Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b2883057687b4323bef2f2619f95b52c",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-18T04:05:44.810Z",
+  "lastModifiedDate": "2024-05-01T22:28:39.565Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Unescape"
+    }
+  },
+  "entitlementName": "21a9ff998beb4ce8961c8a2d63488cb4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "50058680b66347c88108d245a4ff34f5",
+      "appId": "ebf6a529a5ec453db1c103cb79cb0f8b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Catalyst Game Development",
+  "developerId": "o-jcr87j98nhyrzme5ebm57bb4c8m29v",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

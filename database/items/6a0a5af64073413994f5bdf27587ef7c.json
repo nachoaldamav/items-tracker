@@ -1,0 +1,63 @@
+{
+  "id": "6a0a5af64073413994f5bdf27587ef7c",
+  "title": "Trivia King",
+  "description": "Have fun challenging yourself in Trivia King or challenge friends and family with you in Party Mode (Up to 4 Players). Includes 8 of the most popular trivia categories. Fun for all ages. So what are you waiting for? Prove you're the King of Trivia! (disclaimer: or Queen!)",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c6fe981977f8473c95b02527ac0bc866/trivia-king-1eg5w.png",
+      "md5": "9718253db73b5e3a8336a98e8415fa14",
+      "width": 2560,
+      "height": 1440,
+      "size": 528756,
+      "uploadedDate": "2023-04-24T03:31:11.346Z",
+      "alt": "Trivia King Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c6fe981977f8473c95b02527ac0bc866/trivia-king-1kqkw.png",
+      "md5": "fc5fe6a20573b3f3f093af3eb2c67a31",
+      "width": 1200,
+      "height": 1600,
+      "size": 339546,
+      "uploadedDate": "2023-04-24T03:31:11.166Z",
+      "alt": "Download Trivia King Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "590fecfbde11448f8aa3334449fc7465",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-23T18:56:41.894Z",
+  "lastModifiedDate": "2023-05-25T16:47:44.530Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TriviaKingPnRwc"
+    }
+  },
+  "entitlementName": "6a0a5af64073413994f5bdf27587ef7c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "26470a1cef0b4185a977eb70a406ed2b",
+      "appId": "591b951f4466471c9a4ea8f22cb9cfb5",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "LoadUpGames",
+  "developerId": "o-jkvkgwultjz23rvv2cpzpgdd799uu9",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

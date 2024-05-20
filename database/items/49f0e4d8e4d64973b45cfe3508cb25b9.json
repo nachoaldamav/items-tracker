@@ -1,0 +1,64 @@
+{
+  "id": "49f0e4d8e4d64973b45cfe3508cb25b9",
+  "title": "Unveiling",
+  "description": "Unveiling",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/598c88338a1742928af8d53d90c069e7/unveiling-1b6sp.png",
+      "md5": "4c2e4546e93d6b56af054d94e8034458",
+      "width": 2560,
+      "height": 1440,
+      "size": 3223217,
+      "uploadedDate": "2024-03-15T08:23:48.978Z",
+      "alt": "Unveiling Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/598c88338a1742928af8d53d90c069e7/unveiling-7uiur.png",
+      "md5": "bab2a0b778653df10ebafee234fe42c2",
+      "width": 1200,
+      "height": 1600,
+      "size": 1733061,
+      "uploadedDate": "2024-03-15T08:23:48.454Z",
+      "alt": "Download Unveiling Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2320bcb2f9f3493bb15518639c01ad49",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-13T08:40:59.297Z",
+  "lastModifiedDate": "2024-04-10T08:55:43.370Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Unveiling"
+    }
+  },
+  "entitlementName": "49f0e4d8e4d64973b45cfe3508cb25b9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "06851d5e20ac44a4beb351dc4dc5cc63",
+      "appId": "5556d0fdf14d4721976da96c5df777b7",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "CHARK",
+  "developerId": "o-xrzn9sj39mcbhydqpn397a78qm6lch",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "d9006c8981104513aa8bee89e07a44d4",
+  "title": "Another World",
+  "description": "Another World",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/89cda62ad6704cd9b76bad72981bdc15/another-world-1l7nk.png",
+      "md5": "f187fe4cc5b2ebbacc4e00a602ea402e",
+      "width": 2560,
+      "height": 1440,
+      "size": 1695347,
+      "uploadedDate": "2023-03-10T19:09:57.810Z",
+      "alt": "Another World Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/89cda62ad6704cd9b76bad72981bdc15/another-world-x96yw.png",
+      "md5": "096f0f029d5136a37e3630e3543750d6",
+      "width": 1200,
+      "height": 1600,
+      "size": 1180775,
+      "uploadedDate": "2023-03-10T19:39:41.576Z",
+      "alt": "Download Another World Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4c209f89f2b64535aa82d5828426353d",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-09T19:22:18.466Z",
+  "lastModifiedDate": "2023-04-21T04:56:39.659Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "AnotherWorldGG"
+    }
+  },
+  "entitlementName": "d9006c8981104513aa8bee89e07a44d4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0228499be4784cf78b9c2abebeae50c8",
+      "appId": "303f203a8287466c84b846d45e6aa1bf",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "ScienceVR Inc.",
+  "developerId": "o-6d5qswz8ypwys499u4h9frq6lzp4m4",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "61f9930245104cd0a3fcf97acbed9bec",
+  "title": "Crowded Mysteries",
+  "description": "Crowded Mysteries",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/be8c50e226f44a85b6644a23b9f49b89/crowded-mysteries-mwwmq.png",
+      "md5": "edd6170d3cb73a3909b0f7c19732f545",
+      "width": 2560,
+      "height": 1440,
+      "size": 3236165,
+      "uploadedDate": "2024-02-02T12:21:42.367Z",
+      "alt": "Crowded Mysteries Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/be8c50e226f44a85b6644a23b9f49b89/crowded-mysteries-cyutk.png",
+      "md5": "1311f0ce39ac5a57cfe6ef8dea1ac2fb",
+      "width": 1200,
+      "height": 1600,
+      "size": 717985,
+      "uploadedDate": "2024-02-02T12:21:42.485Z",
+      "alt": "Download Crowded Mysteries Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "53eee523face4bcfb716fe0caf9c67b0",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-27T08:48:58.011Z",
+  "lastModifiedDate": "2024-03-27T08:48:58.011Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "CrowdedMysteriesHse12"
+    }
+  },
+  "entitlementName": "61f9930245104cd0a3fcf97acbed9bec",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "61770c86ad2b47e9900cb7a2dc7d280d",
+      "appId": "da3785f1960d44a9b5a2edb5ad4f7692",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Trela Games",
+  "developerId": "o-fh42lv94p6vsnk9zctv74ruq6qcr2l",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

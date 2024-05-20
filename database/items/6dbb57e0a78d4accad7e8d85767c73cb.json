@@ -1,0 +1,75 @@
+{
+  "id": "6dbb57e0a78d4accad7e8d85767c73cb",
+  "title": "Bottle: Pilgrim Redux",
+  "description": "Bottle: Pilgrim Redux",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/395ea3565218431f9d4782d83b792b6d/bottle-pilgrim-redux-pn6yr.jpg",
+      "md5": "1c64749e6a7f101e21cb3070c6993a5d",
+      "width": 2560,
+      "height": 1440,
+      "size": 997618,
+      "uploadedDate": "2023-03-11T14:13:21.691Z",
+      "alt": "Bottle Pilgrim Redux Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/395ea3565218431f9d4782d83b792b6d/bottle-pilgrim-redux-wbo2p.jpg",
+      "md5": "d9dd017be446f5a176dab84bf21caad3",
+      "width": 1200,
+      "height": 1600,
+      "size": 383034,
+      "uploadedDate": "2023-03-11T14:13:21.175Z",
+      "alt": "Download Bottle Pilgrim Redux Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d5f88a2d15f2400db1c116d6651e7c9e",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-11T12:59:39.622Z",
+  "lastModifiedDate": "2023-10-11T16:01:44.210Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/BottlePilgrim/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Level.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BottlePilgrimReduxrGqRb"
+    }
+  },
+  "entitlementName": "6dbb57e0a78d4accad7e8d85767c73cb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e9cda4c76c4c4e1292dae1f33a043f45",
+      "appId": "800301b39fb345a382c61e5f40dd5ef5",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Tonguc Bodur",
+  "developerId": "o-y48vtl8n5kv7et6tjxyvbwscg4z3sy",
+  "endOfSupport": false,
+  "applicationId": "fghi4567pZLHkNFg6ABZy9UQfPVQi2ZU",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

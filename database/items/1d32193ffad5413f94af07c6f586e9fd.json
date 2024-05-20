@@ -1,0 +1,67 @@
+{
+  "id": "1d32193ffad5413f94af07c6f586e9fd",
+  "title": "Land of the Vikings",
+  "description": "Land of the Vikings",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/bc249a4105b742309bcb3c0c483c4d15/land-of-the-vikings-2y5z9.jpg",
+      "md5": "1279a47f218e57ef0529d1cc813fe664",
+      "width": 2560,
+      "height": 1440,
+      "size": 285528,
+      "uploadedDate": "2023-10-04T09:32:48.521Z",
+      "alt": "Land of the Vikings Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/bc249a4105b742309bcb3c0c483c4d15/land-of-the-vikings-19idv.jpg",
+      "md5": "f3c59dbf87588c314c5d1d1f25050fd0",
+      "width": 1200,
+      "height": 1600,
+      "size": 256489,
+      "uploadedDate": "2023-10-04T09:32:08.486Z",
+      "alt": "Download Land of the Vikings Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fabf1b610a0c43dcb8c5b7550f92980c",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-25T14:52:33.541Z",
+  "lastModifiedDate": "2023-10-25T14:52:33.541Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/VikingOyunu/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LandoftheVikingsSM90M"
+    }
+  },
+  "entitlementName": "1d32193ffad5413f94af07c6f586e9fd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e480ffb233ad4da6b58590c8aaee737f",
+      "appId": "4e8192354ec54616b299133abeac4a9b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Iceberg Interactive",
+  "developerId": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,65 @@
+{
+  "id": "e5862395e7e7427da0e94135a289a6e6",
+  "title": "Rooted",
+  "description": "Rooted",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/471539d383244142953b156ab331b8c2/rooted-koait.jpg",
+      "md5": "316208c635a8f2fe76dcc5df5e7c2403",
+      "width": 2560,
+      "height": 1440,
+      "size": 705288,
+      "uploadedDate": "2023-06-16T15:47:06.032Z",
+      "alt": "Rooted Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/471539d383244142953b156ab331b8c2/rooted-sk9kd.jpg",
+      "md5": "ce0900c4a1f8d25681ddd07ca5ca1a1d",
+      "width": 1200,
+      "height": 1600,
+      "size": 337043,
+      "uploadedDate": "2023-06-16T15:47:05.846Z",
+      "alt": "Download Rooted Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0c0ddf9e73d7480cb81033411e840dd1",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-27T09:32:39.417Z",
+  "lastModifiedDate": "2023-06-27T09:32:39.417Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/saves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Rooted"
+    }
+  },
+  "entitlementName": "e5862395e7e7427da0e94135a289a6e6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "35767b2410ff4d5285e843b0a843725f",
+      "appId": "b21c317b7f7e4615a0d5ce4d5b38781d",
+      "platform": []
+    }
+  ],
+  "developer": "Mathieu Pascal",
+  "developerId": "o-2bn345a7ndt6tl75v98kupq9y9rpzb",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

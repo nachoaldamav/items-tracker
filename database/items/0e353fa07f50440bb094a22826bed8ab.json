@@ -1,0 +1,75 @@
+{
+  "id": "0e353fa07f50440bb094a22826bed8ab",
+  "title": "Anime vs Evil: Apocalypse",
+  "description": "Anime vs Evil: Apocalypse",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5b43bd20a1054f0b84522a6edc08ed38/anime-vs-evil-apocalypse-11ejf.png",
+      "md5": "e15673778960d1febf5af3a8249c7dd9",
+      "width": 2560,
+      "height": 1440,
+      "size": 3516126,
+      "uploadedDate": "2023-09-21T14:26:27.067Z",
+      "alt": "Anime vs Evil Apocalypse Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5b43bd20a1054f0b84522a6edc08ed38/anime-vs-evil-apocalypse-1mwgr.png",
+      "md5": "e8b4b792f9e4fa663f044cda19b2a32f",
+      "width": 1200,
+      "height": 1600,
+      "size": 2196785,
+      "uploadedDate": "2023-09-21T14:26:28.778Z",
+      "alt": "Download Anime vs Evil Apocalypse Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "988ce7aae48b438fa5cc17de4136e237",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-18T17:39:15.084Z",
+  "lastModifiedDate": "2023-12-27T19:34:46.804Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/HVE_2_Apocalypse/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*SavedGameData*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AnimeVsEvil_Apocalypse"
+    }
+  },
+  "entitlementName": "0e353fa07f50440bb094a22826bed8ab",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "acebfc31cb9b407b93a17c7206d667de",
+      "appId": "f81268224b284a19a983380f90805db8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Axyos Games",
+  "developerId": "o-e7r3cs9ek22z62qnjudsb4uubnrmax",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

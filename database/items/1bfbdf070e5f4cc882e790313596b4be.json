@@ -1,0 +1,75 @@
+{
+  "id": "1bfbdf070e5f4cc882e790313596b4be",
+  "title": "Super Hydorah",
+  "description": "Super Hydorah is a nonlinear shoot 'em up designed to offer a challenging experience, sublimating the richness of traditional shmup classics. Face the menace of the Meroptians aboard the Delta Lance, alone or with your friends in this game with direct action and nostalgic art.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5bdab23e99274b68b6835430979a4748/super-hydorah-10xfs.png",
+      "md5": "94b1aac649de98c4cfcbce9a46b7c4f0",
+      "width": 2560,
+      "height": 1440,
+      "size": 3795646,
+      "uploadedDate": "2022-11-04T08:31:57.696Z",
+      "alt": "Super Hydorah Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5bdab23e99274b68b6835430979a4748/super-hydorah-11cug.png",
+      "md5": "6964f6c36293bb07d1f3eda6b3c9516a",
+      "width": 1200,
+      "height": 1600,
+      "size": 2263147,
+      "uploadedDate": "2022-11-04T08:31:57.107Z",
+      "alt": "Download Super Hydorah Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0a17427d84184578bd1bc06a2f410a58",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-22T17:13:27.318Z",
+  "lastModifiedDate": "2023-09-22T17:13:27.318Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Super_Hydorah/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "super_hydorah_epic.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SuperHydorah"
+    }
+  },
+  "entitlementName": "1bfbdf070e5f4cc882e790313596b4be",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8195cefc82fd438f9a4685679cfc9493",
+      "appId": "cecb925ae6344d258c43f2cfbcfc7e3f",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Abylight Studios",
+  "developerId": "o-r7nadjgnbxlzduxumycu5jm6jj2veq",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

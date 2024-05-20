@@ -1,0 +1,69 @@
+{
+  "id": "1337a105ed094375b091ebeede12ef84",
+  "title": "The Sorrowvirus",
+  "description": "The Sorrowvirus",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0a999cbc1b4c46b28da4373204934ec1/the-sorrowvirus-1n2dv.jpg",
+      "md5": "a71b923972c98cfd4c977921ce954cfd",
+      "width": 2560,
+      "height": 1440,
+      "size": 1778073,
+      "uploadedDate": "2023-03-13T16:47:18.721Z",
+      "alt": "The Sorrowvirus Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0a999cbc1b4c46b28da4373204934ec1/the-sorrowvirus-13op9.jpg",
+      "md5": "a1a15d5412fa522998fea6b622b18437",
+      "width": 1200,
+      "height": 1600,
+      "size": 892047,
+      "uploadedDate": "2023-03-13T16:51:44.109Z",
+      "alt": "Download The Sorrowvirus Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3be9c58c47024ef6831863206833a1b1",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-06T10:36:07.736Z",
+  "lastModifiedDate": "2023-08-17T18:46:49.389Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Faceless/Saved/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheSorrowvirusLyBkE"
+    }
+  },
+  "entitlementName": "1337a105ed094375b091ebeede12ef84",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cecc5a99da5d44ad9221b061bfa5dbe3",
+      "appId": "94669294a49a4220958e45f318499bcb",
+      "platform": []
+    }
+  ],
+  "developer": "Adam Sklar",
+  "developerId": "o-d22ah9awqst7ssx8zngl6z66eyny2f",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

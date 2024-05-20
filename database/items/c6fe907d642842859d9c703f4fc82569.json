@@ -1,0 +1,62 @@
+{
+  "id": "c6fe907d642842859d9c703f4fc82569",
+  "title": "Only Wish",
+  "description": "Only Wish",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e37a2e7b30dd4001b7519173508e6315/only-wish-5g143.png",
+      "md5": "e947f68cd0917b9b3eb2a126f4571226",
+      "width": 2560,
+      "height": 1440,
+      "size": 1712628,
+      "uploadedDate": "2023-11-23T16:59:46.472Z",
+      "alt": "Only Wish Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e37a2e7b30dd4001b7519173508e6315/only-wish-l0xwv.png",
+      "md5": "c641ca403536f760440e361909567a18",
+      "width": 1200,
+      "height": 1600,
+      "size": 2681754,
+      "uploadedDate": "2023-11-23T16:09:25.069Z",
+      "alt": "Download Only Wish Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4f5cc3b8a27e440b8dd861df167148c5",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-12T12:24:05.130Z",
+  "lastModifiedDate": "2023-11-23T22:32:54.194Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "OnlyWishLx6Bw"
+    }
+  },
+  "entitlementName": "c6fe907d642842859d9c703f4fc82569",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6773fd22361f4e8985c8ed6c15b3496e",
+      "appId": "df72aeb94eeb47669c22e89cf807f179",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Victor's Game Venture",
+  "developerId": "o-nrwtkzawljgqha6ulds7c9m34c5bsn",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

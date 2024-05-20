@@ -1,0 +1,62 @@
+{
+  "id": "1d0c1c6374584ab7afe132ee58d348b1",
+  "title": "Mimic",
+  "description": "Mimic",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/34c344b7a9cc4fa38980648f1ffed573/mimic-1b0rb.png",
+      "md5": "e6bf3b5179afb3b0770a48ab81cf95ff",
+      "width": 2560,
+      "height": 1440,
+      "size": 3302825,
+      "uploadedDate": "2024-03-25T18:23:28.036Z",
+      "alt": "Mimic Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/34c344b7a9cc4fa38980648f1ffed573/mimic-lxey4.png",
+      "md5": "59eec2da80f3a3974b26891f8080a22e",
+      "width": 1200,
+      "height": 1600,
+      "size": 1662852,
+      "uploadedDate": "2024-03-25T18:23:27.151Z",
+      "alt": "Download Mimic Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2483b3cc6cc0474eadf938933d0b5929",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-26T21:02:44.576Z",
+  "lastModifiedDate": "2024-04-01T00:43:28.519Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "MimiccFa6Z"
+    }
+  },
+  "entitlementName": "1d0c1c6374584ab7afe132ee58d348b1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8f48d06e4ee1442cb6a11c46eddc4730",
+      "appId": "0553d4cb553b4e2093771a6f7e1de58d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Ryan Laley Games",
+  "developerId": "o-gpe29gdda4lsk4lzaxstpqwryxmyau",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

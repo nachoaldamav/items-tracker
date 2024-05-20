@@ -1,0 +1,59 @@
+{
+  "id": "514e168e3b7c41dea389edce3ea267ae",
+  "title": "Happy Time",
+  "description": "Happy Time",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6017c25bc10c4ff5904781a37a9a843a/happy-time-1aak1.png",
+      "md5": "534ef06f70eb1ee505062de417a9747e",
+      "width": 2560,
+      "height": 1440,
+      "size": 2413597,
+      "uploadedDate": "2023-12-11T13:58:20.572Z",
+      "alt": "Happy Time Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6017c25bc10c4ff5904781a37a9a843a/happy-time-mvutj.png",
+      "md5": "34e98f5d8d286f6ade5cbeb11a158a4a",
+      "width": 1200,
+      "height": 1600,
+      "size": 1081808,
+      "uploadedDate": "2023-12-11T13:58:25.365Z",
+      "alt": "Download Happy Time Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0c3400dec5ec47399810c08113c09958",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-12T14:16:03.964Z",
+  "lastModifiedDate": "2023-12-12T14:16:03.964Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "HappyTimeFh4Rm"
+    }
+  },
+  "entitlementName": "514e168e3b7c41dea389edce3ea267ae",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a47fee1548a34b4782192df081085cd8",
+      "appId": "706d8120ec8d4affb4a74c9ad559036e"
+    }
+  ],
+  "developer": "Happy Time Studio",
+  "developerId": "o-2ng5hpkntb35xntgf5atbh8ursl8f3",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,64 @@
+{
+  "id": "600e1d5787fd44aa93a83a13dc9fd9b2",
+  "title": "Rytmos",
+  "description": "Rytmos",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/92befda7b46a4e8aa8a2e524cc1ebc98/rytmos-3uhsb.png",
+      "md5": "2dee1786715c43c90b44447aeffa931b",
+      "width": 2560,
+      "height": 1440,
+      "size": 2307767,
+      "uploadedDate": "2023-01-19T14:20:59.264Z",
+      "alt": "Rytmos Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/92befda7b46a4e8aa8a2e524cc1ebc98/rytmos-19ot8.png",
+      "md5": "2bba60e9252e500bb3901b79607ec2c4",
+      "width": 1200,
+      "height": 1600,
+      "size": 1220632,
+      "uploadedDate": "2023-01-19T14:20:55.494Z",
+      "alt": "Download Rytmos Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4208ed074a8a41a691358c1939e15c75",
+  "status": "ACTIVE",
+  "creationDate": "2023-01-24T15:06:55.976Z",
+  "lastModifiedDate": "2023-01-24T15:06:55.976Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "RytmosTsLBS"
+    }
+  },
+  "entitlementName": "600e1d5787fd44aa93a83a13dc9fd9b2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "eb99e3cd87714f18840a21948ffe32fe",
+      "appId": "10052fe24d034bbbb09a276752392b1c",
+      "platform": [
+        "Mac",
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Floppy Club",
+  "developerId": "o-dww8wq8awajppjn556nvcuypc5rdv5",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

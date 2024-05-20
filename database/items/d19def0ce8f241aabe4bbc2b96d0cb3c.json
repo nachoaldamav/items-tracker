@@ -1,0 +1,65 @@
+{
+  "id": "d19def0ce8f241aabe4bbc2b96d0cb3c",
+  "title": "SAE",
+  "description": "SAE takes you to a dreamlike but dangerous tropical island chain in the South Pacific. Survive the natural dangers, collect resources and find your way back to civilization.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7f03d3c3b84344608936ed41207b44c2/sae-1mwhv.jpg",
+      "md5": "c247419872272f699c0e66bda1d2f1fa",
+      "width": 2560,
+      "height": 1440,
+      "size": 826331,
+      "uploadedDate": "2024-03-22T22:34:26.816Z",
+      "alt": "SAE Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7f03d3c3b84344608936ed41207b44c2/sae-8stmq.jpg",
+      "md5": "f2c4c62f8f3db7d171f18b540044743a",
+      "width": 1200,
+      "height": 1600,
+      "size": 400364,
+      "uploadedDate": "2024-03-22T22:34:25.486Z",
+      "alt": "Download SAE Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "686efc1d997044d9ad89f3601f859f68",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-24T23:53:00.849Z",
+  "lastModifiedDate": "2024-03-26T13:06:29.401Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/SAE/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SAEWRl4L"
+    }
+  },
+  "entitlementName": "d19def0ce8f241aabe4bbc2b96d0cb3c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "31a14b08005b49cca890af24121a7219",
+      "appId": "93c1d976ed214a84b739882a55bd76c7",
+      "platform": []
+    }
+  ],
+  "developer": "SAE GAMES",
+  "developerId": "o-dvlbgpm59ganmqpgsm7hzbxmjm5z62",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

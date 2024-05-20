@@ -1,0 +1,73 @@
+{
+  "id": "8ef1db250244492c860fb7192889cc3c",
+  "title": "Damn Zombies",
+  "description": "Damn Zombies",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d236736a83a84aa8aec60b5f00a6ebff/damn-zombies-vm1v2.jpg",
+      "md5": "6e10b5148ff0815d1843916ac20896c5",
+      "width": 2560,
+      "height": 1440,
+      "size": 437612,
+      "uploadedDate": "2023-04-20T09:40:28.919Z",
+      "alt": "Damn Zombies Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d236736a83a84aa8aec60b5f00a6ebff/damn-zombies-qgx65.jpg",
+      "md5": "f86e5ba858d9cfeaaddcb63f48054c70",
+      "width": 1200,
+      "height": 1600,
+      "size": 1189553,
+      "uploadedDate": "2023-04-20T09:40:31.175Z",
+      "alt": "Download Damn Zombies Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a26ff1db5a6648c68a235f86013da7d7",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-25T13:52:10.086Z",
+  "lastModifiedDate": "2023-04-25T13:52:10.086Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Save/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Save/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Zoneoffear1vmif"
+    }
+  },
+  "entitlementName": "8ef1db250244492c860fb7192889cc3c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c65edc28044a42f7be84b048f77a81e4",
+      "appId": "6079a92b64a74e98a5facf229cec200e",
+      "platform": []
+    }
+  ],
+  "developer": "lva games",
+  "developerId": "o-3vnhwlstatu8g98hpu8ah8m8rbvmq5",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "216bc9a86be54d00a5488797cb602504",
+  "title": "Cryptmaster",
+  "description": "Cryptmaster",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b8c3ee409b2a4610a2d48552a31a011d/cryptmaster-fru3s.jpg",
+      "md5": "c8b9be474d77ec0bd1cc44eb08ee41c1",
+      "width": 2560,
+      "height": 1440,
+      "size": 1035589,
+      "uploadedDate": "2024-04-25T22:17:46.492Z",
+      "alt": "Cryptmaster Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b8c3ee409b2a4610a2d48552a31a011d/cryptmaster-6c83n.jpg",
+      "md5": "d24f544d4457671c18d0cf96f0f3be00",
+      "width": 1200,
+      "height": 1600,
+      "size": 356247,
+      "uploadedDate": "2024-04-25T22:17:46.589Z",
+      "alt": "Download Cryptmaster Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ff039999d57e4e44bcd1359987e46d51",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-09T19:22:46.536Z",
+  "lastModifiedDate": "2024-05-08T20:25:28.485Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "CryptmasterdEduC"
+    }
+  },
+  "entitlementName": "216bc9a86be54d00a5488797cb602504",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0952a50b90384bf68fb8d824069dc672",
+      "appId": "c5d16b6f7b174d08ae25559fc55d2225",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Akupara Games",
+  "developerId": "o-vzv8n7jse99sluj4vaa8522rh45cvg",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

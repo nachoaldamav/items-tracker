@@ -1,0 +1,78 @@
+{
+  "id": "f22c66fb13e542c89acb588dcd67753c",
+  "title": "Kingdom Rush Vengeance",
+  "description": "It's payback time! Lead your mighty dark army and make the Kingdom tremble with every step. Build powerful towers, choose your arsenal for destruction, and find the deadliest combination - train legendary heroes and lead them to victory!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/eb770c24d8694501ac48f29f4eb4b342/kingdom-rush-vengeance-ohohs.png",
+      "md5": "68ed7a0ac1c3b9d2671db0f6187476b4",
+      "width": 2560,
+      "height": 1440,
+      "size": 3164801,
+      "uploadedDate": "2023-09-11T17:44:06.297Z",
+      "alt": "Kingdom Rush Vengeance Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/eb770c24d8694501ac48f29f4eb4b342/kingdom-rush-vengeance-g3k3b.jpg",
+      "md5": "6fb3909f79d18257835f5e83afce7d80",
+      "width": 1200,
+      "height": 1600,
+      "size": 1098824,
+      "uploadedDate": "2023-09-11T17:44:00.910Z",
+      "alt": "Download Kingdom Rush Vengeance Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c0d2e8a180624787be1c4c6386493796",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-28T14:01:42.639Z",
+  "lastModifiedDate": "2023-12-01T22:12:57.821Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserDir}/Kingdom Rush Vengeance/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Kingdom Rush Vengeance/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "slot_1.plist,slot_2.plist,slot_3.plist"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KingdomRushVengeance"
+    }
+  },
+  "entitlementName": "f22c66fb13e542c89acb588dcd67753c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4d6e04b270eb415a8bd7a45a0500a1ab",
+      "appId": "5fec9a9c9f764e239ec0420d2c9e6a9d",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Ironhide S.A.",
+  "developerId": "o-w7u3tv3dectarmrsac745y54mwm2rw",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi456710NTAsKXvWatt8yPPtlL72Cm",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

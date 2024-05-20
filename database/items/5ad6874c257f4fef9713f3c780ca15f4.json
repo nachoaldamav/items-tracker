@@ -1,0 +1,75 @@
+{
+  "id": "5ad6874c257f4fef9713f3c780ca15f4",
+  "title": "Scribble It!",
+  "description": "Scribble It! is a multiplayer drawing and guessing game. Get in a lobby with up to 16 players and choose from thousands of official words, packaged in a variety of high-quality themes and 3 multiplayer game modes. Perfect for game nights, parties or just hanging out with friends.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f209aaddc8784ca9ab1662caafd4e7b3/scribble-it-1it14.jpg",
+      "md5": "6d6313ed8bb5de854b50e1fde4f7cca2",
+      "width": 2560,
+      "height": 1440,
+      "size": 1200505,
+      "uploadedDate": "2023-04-20T09:57:36.769Z",
+      "alt": "Scribble It! Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f209aaddc8784ca9ab1662caafd4e7b3/scribble-it-z3qtt.png",
+      "md5": "45fa4d888c3294a43a2a5f252e276cda",
+      "width": 1200,
+      "height": 1600,
+      "size": 1100651,
+      "uploadedDate": "2023-04-20T09:57:41.506Z",
+      "alt": "Download Scribble It! Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "dc989527f6684c218eb8f5992e85cfea",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-19T20:07:09.532Z",
+  "lastModifiedDate": "2023-11-01T10:16:58.741Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/ScribbleIt/Artworks/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/ScribbleIt/Artworks/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "*/History/*"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ScribbleIt"
+    }
+  },
+  "entitlementName": "5ad6874c257f4fef9713f3c780ca15f4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0e77d80d68bf40a2b7a5d3f0896e571a",
+      "appId": "510ed0b0fb6c4ab8b8730f27aa266674",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Detach Entertainment",
+  "developerId": "o-7568b06090fd42d4bbd6c8fa8c178f",
+  "endOfSupport": false,
+  "applicationId": "fghi4567lgLeqzC6SxBGdGtUrh0oUwK8",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

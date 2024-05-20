@@ -1,0 +1,63 @@
+{
+  "id": "422d53d0f2254e1d92cfedcb2b6cc140",
+  "title": "Danger Scavenger",
+  "description": "Danger Scavenger",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2943d0ddbf8b4d86ab201f50ae086431/danger-scavenger-offer-1fw2o.png",
+      "md5": "866db0044e68807b5dac6e2e0c353b6e",
+      "width": 2560,
+      "height": 1440,
+      "size": 1196156,
+      "uploadedDate": "2022-08-25T14:33:19.886Z",
+      "alt": "Danger Scavenger Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2943d0ddbf8b4d86ab201f50ae086431/download-danger-scavenger-offer-y7xy8.png",
+      "md5": "71cd8e2e95e4aaef336a6c774a0ddb4e",
+      "width": 1200,
+      "height": 1600,
+      "size": 3076654,
+      "uploadedDate": "2022-08-25T09:36:46.853Z",
+      "alt": "Download Danger Scavenger Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "53ab8bb7c3674b058a39a5ae550fc74b",
+  "status": "ACTIVE",
+  "creationDate": "2022-05-20T10:11:25.631Z",
+  "lastModifiedDate": "2023-08-18T09:56:07.729Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DangerScavenger"
+    }
+  },
+  "entitlementName": "422d53d0f2254e1d92cfedcb2b6cc140",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "98bab31009464cca806958e480760264",
+      "appId": "0c1e0702c0be4d82af497496ccbe30a6",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Star Drifters Sp. z o.o.",
+  "developerId": "o-7w45tf6k43agxrkgwbxxx6hac9qlak",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

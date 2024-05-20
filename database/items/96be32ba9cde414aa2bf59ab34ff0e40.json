@@ -1,0 +1,67 @@
+{
+  "id": "96be32ba9cde414aa2bf59ab34ff0e40",
+  "title": "Heim",
+  "description": "Heim",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/48497bf861d9414d8fa5a8ba94c05591/heim-15qul.png",
+      "md5": "14b63204b090a656c02a5bd1d0abfadc",
+      "width": 2560,
+      "height": 1440,
+      "size": 3128262,
+      "uploadedDate": "2023-03-09T20:10:50.080Z",
+      "alt": "Heim Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/48497bf861d9414d8fa5a8ba94c05591/heim-ykmtx.png",
+      "md5": "ab9ce81c01e2be90440ea5d2fe4db683",
+      "width": 1200,
+      "height": 1600,
+      "size": 1870157,
+      "uploadedDate": "2023-03-09T20:10:52.562Z",
+      "alt": "Download Heim Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2764f237b9b5410f94cde83f81f52cb4",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-17T16:00:03.366Z",
+  "lastModifiedDate": "2023-03-17T16:00:03.366Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Heim/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Heim"
+    }
+  },
+  "entitlementName": "96be32ba9cde414aa2bf59ab34ff0e40",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "eb539ce33d17431e9fa840ef94180492",
+      "appId": "dc5dc6993cc54acfab239184f7a11ab2",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Tom Ryckeboer",
+  "developerId": "o-tbvfmlxvrww8gdpnwrryzz3ueudz98",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

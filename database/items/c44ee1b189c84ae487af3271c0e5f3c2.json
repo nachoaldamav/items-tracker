@@ -1,0 +1,68 @@
+{
+  "id": "c44ee1b189c84ae487af3271c0e5f3c2",
+  "title": "The Lost Village",
+  "description": "Description is not set",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7a8643df35a24a1fb3970e4020aa8cf1/the-lost-village-1o8bu.png",
+      "md5": "3babdb8b83c0c30bd5bb043a88af6a5b",
+      "width": 2560,
+      "height": 1440,
+      "size": 1219872,
+      "uploadedDate": "2023-03-29T09:14:28.365Z",
+      "alt": "The Lost Village Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7a8643df35a24a1fb3970e4020aa8cf1/the-lost-village-1hku6.png",
+      "md5": "8d39c7160d9675f004dca0061c0011c0",
+      "width": 1200,
+      "height": 1600,
+      "size": 2287385,
+      "uploadedDate": "2023-03-29T07:43:54.588Z",
+      "alt": "Download The Lost Village Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1c84e433f7ee4f21bce4c8f8600472f2",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-10T01:37:32.474Z",
+  "lastModifiedDate": "2023-06-08T09:23:13.315Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/TheLostVillage/Saved/SaveGames/{}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheLostVillage2tPIO"
+    }
+  },
+  "entitlementName": "c44ee1b189c84ae487af3271c0e5f3c2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "255133eef9594e10a0597dc327d84294",
+      "appId": "33a2bec201c548418f5db94738a7eb78",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "FunYoo Games",
+  "developerId": "o-pqqvspvwum2yasy8zsemwlmz6r22uc",
+  "endOfSupport": false,
+  "applicationId": "fghi4567jvSwcWXHTpl140xs814pWIWo",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

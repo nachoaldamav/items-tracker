@@ -1,0 +1,72 @@
+{
+  "id": "3f63bd072214413296f40af0414ad5a8",
+  "title": "Haven's Compass",
+  "description": "Haven's Compass",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a4df33095fe8412190e17f23de9440f5/havens-compass-9g42z.png",
+      "md5": "3e80d795dac7574392dceb28ddf5fbac",
+      "width": 2560,
+      "height": 1440,
+      "size": 2565785,
+      "uploadedDate": "2024-02-08T11:04:04.669Z",
+      "alt": "Haven's Compass Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a4df33095fe8412190e17f23de9440f5/havens-compass-1ju8m.png",
+      "md5": "8d6e8f091a772967e83ffe34a6d2f211",
+      "width": 1200,
+      "height": 1600,
+      "size": 2270730,
+      "uploadedDate": "2024-02-08T10:55:49.704Z",
+      "alt": "Download Haven's Compass Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "da744ab3564a4d2dac8b942a86d5aad9",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-05T15:58:03.201Z",
+  "lastModifiedDate": "2024-02-09T20:05:36.751Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/HavensCompass/Saved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "5000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HavensCompassxHgXk"
+    }
+  },
+  "entitlementName": "3f63bd072214413296f40af0414ad5a8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8b2e658491f641de91bce69af8c9050b",
+      "appId": "d1f5c7276fa547409c122fbc38cec114",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Ghost Ivy Development Studio AG",
+  "developerId": "o-fghnvqdrsllyswhh9p9qb6lbzl633k",
+  "endOfSupport": false,
+  "applicationId": "fghi4567yhapOwHenLIle6GiRZs0yGAO",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,76 @@
+{
+  "id": "ea9ff541c6244d3ba9fd18284832e503",
+  "title": "Thunder Ray",
+  "description": "Thunder Ray",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1aa8ad55661a412aa5a877d9e2ce3370/thunder-ray-192j9.jpg",
+      "md5": "305360185660917c766e478b2b97b5b0",
+      "width": 2560,
+      "height": 1440,
+      "size": 853798,
+      "uploadedDate": "2023-08-23T16:40:07.313Z",
+      "alt": "Thunder Ray Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1aa8ad55661a412aa5a877d9e2ce3370/thunder-ray-10siz.jpg",
+      "md5": "d095d546e4c24623da6f95c9a58ff44c",
+      "width": 1200,
+      "height": 1600,
+      "size": 390295,
+      "uploadedDate": "2023-08-23T16:40:05.163Z",
+      "alt": "Download Thunder Ray Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3c59565688c94fa2807baaa19ed62478",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-01T23:42:45.114Z",
+  "lastModifiedDate": "2023-09-01T23:42:45.114Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/MyGames/Documents/{EpicID}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "save"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "256"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ThunderRayNIGXq"
+    }
+  },
+  "entitlementName": "ea9ff541c6244d3ba9fd18284832e503",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e6a9c718d573470dadaed92ad2a9a90e",
+      "appId": "6141bf17fc4a4aeba4a1f4208ba4b1ea",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Purple Tree S R L",
+  "developerId": "o-4342zuayv2l45dpyd5l82t564n73uj",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

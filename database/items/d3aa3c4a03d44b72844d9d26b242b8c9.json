@@ -1,0 +1,62 @@
+{
+  "id": "d3aa3c4a03d44b72844d9d26b242b8c9",
+  "title": "Skirmish",
+  "description": "Skirmish",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c4b79c4ac08846e5a89282e92681fb3e/skirmish-er5s3.jpg",
+      "md5": "69cc0c3c49b2877ecf731673dbe40654",
+      "width": 2560,
+      "height": 1440,
+      "size": 1385544,
+      "uploadedDate": "2023-11-17T19:14:12.640Z",
+      "alt": "Skirmish Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c4b79c4ac08846e5a89282e92681fb3e/skirmish-129mx.jpg",
+      "md5": "dc68b0ad32f9fdfaf33af6179635f9ea",
+      "width": 1200,
+      "height": 1600,
+      "size": 795520,
+      "uploadedDate": "2023-11-17T19:14:12.292Z",
+      "alt": "Download Skirmish Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5e33d47a65444d1b9de9bd2734d781a2",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-10T16:38:57.835Z",
+  "lastModifiedDate": "2023-11-19T22:11:14.052Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SkirmishldzsB"
+    }
+  },
+  "entitlementName": "d3aa3c4a03d44b72844d9d26b242b8c9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5daedf1507d8484784e59f4b60ac1e1c",
+      "appId": "bc9bc3dd29f84fd48939550814d634b4",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Skirmish_game",
+  "developerId": "o-mwgxy6wxxj4wg5abee99szcrnb5hbr",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

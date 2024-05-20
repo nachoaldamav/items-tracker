@@ -1,0 +1,75 @@
+{
+  "id": "b873e9e6a8bb4801b700dda4cc33078c",
+  "title": "Wuthering Waves",
+  "description": "Wuthering Waves is a story-rich open-world action RPG with a high degree of freedom. You wake from your slumber as Rover, joined by a vibrant cast of Resonators on a journey to reclaim your lost memories and surmount the Lament.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c1586295960b46f88bbfeec32c199e0e/wuthering-waves-ewfe1.jpg",
+      "md5": "579d74c4466fea8e455c4a176aa404a4",
+      "width": 2560,
+      "height": 1440,
+      "size": 2633733,
+      "uploadedDate": "2024-02-21T04:35:16.353Z",
+      "alt": "Wuthering Waves Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c1586295960b46f88bbfeec32c199e0e/wuthering-waves-vkvys.jpg",
+      "md5": "3ba8ff09739c6d9ab991141ad3119e5c",
+      "width": 1200,
+      "height": 1600,
+      "size": 2015882,
+      "uploadedDate": "2024-02-21T04:34:46.251Z",
+      "alt": "Download Wuthering Waves Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e885327ce4414509bff4c10757f88334",
+  "status": "ACTIVE",
+  "creationDate": "2023-08-09T02:50:08.596Z",
+  "lastModifiedDate": "2024-05-16T02:02:00.092Z",
+  "customAttributes": {
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "Wuthering Waves Game/Wuthering Waves.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "launcher.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WutheringWavesj3oFh"
+    },
+    "BackgroundProcessNames": {
+      "type": "STRING",
+      "value": "launcher.exe"
+    }
+  },
+  "entitlementName": "b873e9e6a8bb4801b700dda4cc33078c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c36f72725dd3428d81f482f763e6e8d2",
+      "appId": "a5faf668dbaf499c8dc2917bf1c346e5",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "KURO GAMES",
+  "developerId": "o-kgagnzp5bwjukrf6vktbu9d2mklzpe",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

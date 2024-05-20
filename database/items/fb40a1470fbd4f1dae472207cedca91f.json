@@ -1,0 +1,63 @@
+{
+  "id": "fb40a1470fbd4f1dae472207cedca91f",
+  "title": "Wall World",
+  "description": "Explore the mysterious Wall World on your giant robospider: mine for valuable resources, upgrade your equipment to fight off hordes of monsters, and discover exotic biomes in-between attacks. Will you be able to survive and learn the secrets of the Wall World?",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/06a3c07b05fb47179884edf947be9c3d/wall-world-1xs4y.png",
+      "md5": "5c55f3c8fa876e8a438971dbb399fc11",
+      "width": 2560,
+      "height": 1440,
+      "size": 1435546,
+      "uploadedDate": "2023-01-09T11:28:49.788Z",
+      "alt": "Wall World Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/06a3c07b05fb47179884edf947be9c3d/wall-world-77615.png",
+      "md5": "6c101f4e4df31abddbc6c7e1b601c447",
+      "width": 1200,
+      "height": 1600,
+      "size": 2713337,
+      "uploadedDate": "2023-01-09T11:29:17.806Z",
+      "alt": "Download Wall World Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "98bcea8e884042acb6a356c774f7af1a",
+  "status": "ACTIVE",
+  "creationDate": "2023-01-09T05:46:44.672Z",
+  "lastModifiedDate": "2023-08-28T05:30:33.873Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "WallWorld"
+    }
+  },
+  "entitlementName": "fb40a1470fbd4f1dae472207cedca91f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0a3cebaeb9074ba998945b8b7dfcc814",
+      "appId": "40f27da42a2b4a2694ed96d280194b9c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Alawar Entertainment, Inc",
+  "developerId": "o-cy5ukscnzvb2vbehcxv5rrrnky995c",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

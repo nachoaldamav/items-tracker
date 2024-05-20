@@ -1,0 +1,64 @@
+{
+  "id": "aa628aad0f3240e8a61f0dbb7ea6b955",
+  "title": "Urban Warriors",
+  "description": "Urban Warriors",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/09aeaebdc8a44b2794d26d4ce0a508b8/urban-warriors-193gz.png",
+      "md5": "9bb544590b6f0f8883252c56a2c2aa8b",
+      "width": 2560,
+      "height": 1440,
+      "size": 2992338,
+      "uploadedDate": "2024-02-20T23:53:41.873Z",
+      "alt": "Urban Warriors Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/09aeaebdc8a44b2794d26d4ce0a508b8/urban-warriors-l8bdi.png",
+      "md5": "83594a8206dae95d5ce32a430f7830bf",
+      "width": 1200,
+      "height": 1600,
+      "size": 1595520,
+      "uploadedDate": "2024-02-20T23:53:41.982Z",
+      "alt": "Download Urban Warriors Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "449a5d1081b14ff6bf2068ddfc8352f3",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-11T14:09:22.142Z",
+  "lastModifiedDate": "2024-04-11T14:09:22.142Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "UrbanWarriors"
+    }
+  },
+  "entitlementName": "aa628aad0f3240e8a61f0dbb7ea6b955",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e5db5600ff9443f1b749ae1f741adc91",
+      "appId": "ddc106dee86b47afb310be57e1334889",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Chaotix",
+  "developerId": "o-dgx59pt6bvnadnujt8bphv5mwqh2mv",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

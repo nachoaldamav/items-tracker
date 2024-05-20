@@ -1,0 +1,71 @@
+{
+  "id": "0756f181ed29463199258c099c7f8b46",
+  "title": "Indoor Kickball",
+  "description": "Indoor Kickball",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d637515f663d41cc9cf94b2480cbf1b8/indoor-kickball-1kr3d.jpg",
+      "md5": "9acd6e5c152928e3b825383075970f4b",
+      "width": 2560,
+      "height": 1440,
+      "size": 265775,
+      "uploadedDate": "2023-03-17T16:28:59.509Z",
+      "alt": "Indoor Kickball Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d637515f663d41cc9cf94b2480cbf1b8/indoor-kickball-pcsl0.png",
+      "md5": "ceb6b54d19e776c21af8e6fdb50645f8",
+      "width": 1200,
+      "height": 1600,
+      "size": 2722628,
+      "uploadedDate": "2023-03-17T20:24:26.671Z",
+      "alt": "Download Indoor Kickball Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "966985c3df584749946cdae64509bb85",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-10T02:08:53.153Z",
+  "lastModifiedDate": "2023-05-26T19:57:54.919Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Snow Day Software/Indoor Kickball/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "IndoorKickball"
+    }
+  },
+  "entitlementName": "0756f181ed29463199258c099c7f8b46",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "630e53c9037647e39acb13f124e07a22",
+      "appId": "55edbade645d47dbb3a3882759261ec1",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Snow Day Software LLC",
+  "developerId": "o-2lvs7kugd4b8uauvzd6dzt39b2lek7",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

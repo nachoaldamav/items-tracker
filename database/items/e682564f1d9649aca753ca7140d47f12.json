@@ -1,0 +1,63 @@
+{
+  "id": "e682564f1d9649aca753ca7140d47f12",
+  "title": "Exovoid",
+  "description": "Exovoid",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c5ddd08a1e4440d78083b9132f6720fa/exovoid-1fhwa.jpg",
+      "md5": "70c7b438d2713b9347c46e014b8cf784",
+      "width": 2560,
+      "height": 1440,
+      "size": 2840817,
+      "uploadedDate": "2023-12-22T22:38:17.208Z",
+      "alt": "Exovoid Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c5ddd08a1e4440d78083b9132f6720fa/exovoid-v1pq0.jpg",
+      "md5": "9fc931b885932ac59f438a4b558f0dca",
+      "width": 1200,
+      "height": 1600,
+      "size": 1929266,
+      "uploadedDate": "2023-12-22T22:38:18.310Z",
+      "alt": "Download Exovoid Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "328e727b886d48ecbc8e00f79e858653",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-10T16:00:32.835Z",
+  "lastModifiedDate": "2024-02-12T15:59:21.016Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Exovoid"
+    }
+  },
+  "entitlementName": "e682564f1d9649aca753ca7140d47f12",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5f41d40876d74032a3fa7c35c8139f5e",
+      "appId": "e16fa564187a40cba74daf3ec85737b9",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Man Up Time",
+  "developerId": "o-242qr64jctzwdw73dgcpqlvdl8zgwm",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

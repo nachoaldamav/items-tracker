@@ -1,0 +1,65 @@
+{
+  "id": "2a565eb8b03a4d06b0716a837f29e89e",
+  "title": "Shattered Steel",
+  "description": "Shattered Steel",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/638a997602eb44b2b96425eb5186d48d/shattered-steel-offer-tvtp6.jpg",
+      "md5": "ea88eb5b24c96618d4ddf1c33cf63b75",
+      "width": 2560,
+      "height": 1440,
+      "size": 729596,
+      "uploadedDate": "2022-03-17T16:09:03.821Z",
+      "alt": "Shattered Steel Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/638a997602eb44b2b96425eb5186d48d/download-shattered-steel-offer-1qnms.jpg",
+      "md5": "43caa9bf2be906398708cedf064cc023",
+      "width": 1200,
+      "height": 1600,
+      "size": 381614,
+      "uploadedDate": "2022-03-17T16:09:03.649Z",
+      "alt": "Download Shattered Steel Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "28193b122bff4748a4467ef61d9985f7",
+  "status": "ACTIVE",
+  "creationDate": "2022-07-01T20:07:22.547Z",
+  "lastModifiedDate": "2022-07-01T20:07:22.547Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ShatteredSteel"
+    }
+  },
+  "entitlementName": "2a565eb8b03a4d06b0716a837f29e89e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6b361e6db18241a1a17d85603962e914",
+      "appId": "fe8357a172b344c18e10197b6e3fb4ce",
+      "platform": [
+        "Windows",
+        "Win32",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Interplay Entertainment Corp.",
+  "developerId": "o-ebvwv4fmqxbw48yz3rx65fmxxqfk35",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "e5fcb8c43f1549a4b59974fed0bae258",
+  "title": "Dwerve",
+  "description": "An epic action-adventure with tower defense combat! Dungeon crawl through a ruined kingdom, fending off hordes with turrets and traps! Punch them into pits! Pull them into spinblades! Zap and burn them!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1fd1129934b843d89e658ef9537b3847/dwerve-1skr8.png",
+      "md5": "8a50832166191ccd1d47513bdbffcf11",
+      "width": 2560,
+      "height": 1440,
+      "size": 3340693,
+      "uploadedDate": "2023-08-08T21:09:34.848Z",
+      "alt": "Dwerve Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1fd1129934b843d89e658ef9537b3847/dwerve-9nbjt.png",
+      "md5": "4bd39c3c1aa68b7c568d10c3ad67372d",
+      "width": 1200,
+      "height": 1600,
+      "size": 2219519,
+      "uploadedDate": "2023-08-08T21:11:45.198Z",
+      "alt": "Download Dwerve Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5c5879f971c54d49a584be96ac0f4b49",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-28T15:00:38.192Z",
+  "lastModifiedDate": "2023-09-28T15:00:38.192Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DwerveiuMZO"
+    }
+  },
+  "entitlementName": "e5fcb8c43f1549a4b59974fed0bae258",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2a11a621b2ed43d3b149e970b475bbbf",
+      "appId": "0fa41bc6c24f47f190a138140f29abaa",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Half Human Games, Inc.",
+  "developerId": "o-qwljfvuc7dvpeqfvudns2fvl43spzr",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,62 @@
+{
+  "id": "697110aef54240c4bab4a51352f9e2be",
+  "title": "Monster Harvest",
+  "description": "Monster Harvest",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5f1eb1585c6049199a499059c2326087/monster-harvest-offer-19f8k.jpg",
+      "md5": "2185da7781a9b38ff2002186f4563cd6",
+      "width": 2560,
+      "height": 1440,
+      "size": 860425,
+      "uploadedDate": "2022-09-15T14:49:03.666Z",
+      "alt": "Monster Harvest Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5f1eb1585c6049199a499059c2326087/download-monster-harvest-offer-idy8y.jpg",
+      "md5": "3bdbb384c5a73eddfba6a3ae4a8af9db",
+      "width": 1200,
+      "height": 1600,
+      "size": 1101918,
+      "uploadedDate": "2022-09-15T14:44:45.920Z",
+      "alt": "Download Monster Harvest Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5c744d37f3a24e81aaee7eac20e19f0d",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-13T15:12:16.128Z",
+  "lastModifiedDate": "2022-10-24T14:04:40.759Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "MonsterHarvestJOdof"
+    }
+  },
+  "entitlementName": "697110aef54240c4bab4a51352f9e2be",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "be276d619db14032aa31e9a6d2e760d4",
+      "appId": "f0c0868c860f4eb7a150d980e037e1c6",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Merge Games",
+  "developerId": "o-a48yz3k54qmrtbupltgrvubuprkf3x",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

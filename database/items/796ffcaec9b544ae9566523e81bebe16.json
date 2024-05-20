@@ -1,0 +1,62 @@
+{
+  "id": "796ffcaec9b544ae9566523e81bebe16",
+  "title": "FusyFox",
+  "description": "FusyFox",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d148e3a0b41746a19b99e148906aa990/fusyfox-mhrxo.jpg",
+      "md5": "bebed582a549238fe6f2608d144b9140",
+      "width": 2560,
+      "height": 1440,
+      "size": 2750749,
+      "uploadedDate": "2024-04-09T04:48:31.050Z",
+      "alt": "FusyFox Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d148e3a0b41746a19b99e148906aa990/fusyfox-19bop.png",
+      "md5": "ccebc8ce2a0e609c8d9050539bff87b4",
+      "width": 1200,
+      "height": 1600,
+      "size": 1305634,
+      "uploadedDate": "2024-04-09T04:48:01.205Z",
+      "alt": "Download FusyFox Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6308f89d537b47ea96dc02fb5a07518c",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-03T02:06:20.135Z",
+  "lastModifiedDate": "2024-04-28T18:52:31.698Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "FusyFoxR5Mui"
+    }
+  },
+  "entitlementName": "796ffcaec9b544ae9566523e81bebe16",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ea77beec4b4746f1ad50211844595280",
+      "appId": "51f62e3ef6034ce29500310393dedc62",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "FusyFox",
+  "developerId": "o-exnd7dwuc8zpxr87xcyv6jmzsu9n9m",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

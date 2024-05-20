@@ -1,0 +1,62 @@
+{
+  "id": "13e60093cc854d6d8cd7dc35f86183aa",
+  "title": "Lamoneo",
+  "description": "Lamoneo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9a30c69655464d608270a722f7d25c03/lamoneo-8ef1g.jpg",
+      "md5": "015897cb96f8a27ca449c9789fb3b230",
+      "width": 2560,
+      "height": 1440,
+      "size": 240942,
+      "uploadedDate": "2023-04-10T22:05:04.483Z",
+      "alt": "Lamoneo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9a30c69655464d608270a722f7d25c03/lamoneo-zh6pe.png",
+      "md5": "0a4042e18050a4f91a7336a656c12c66",
+      "width": 1200,
+      "height": 1600,
+      "size": 1799473,
+      "uploadedDate": "2023-04-18T18:47:26.492Z",
+      "alt": "Download Lamoneo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fe6352acc6b54dc28c6041c6442f86b5",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-15T23:36:14.235Z",
+  "lastModifiedDate": "2023-04-18T18:47:27.358Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "LamoneoLjkAi"
+    }
+  },
+  "entitlementName": "13e60093cc854d6d8cd7dc35f86183aa",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ce093ad664de48268cd2e7ff790c82bb",
+      "appId": "ea0fe0603c214e3ea805f852b34985f2",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Young M. Kim",
+  "developerId": "o-2lrrv8d9tz7ud2c2anqxsq8kprlqlh",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,75 @@
+{
+  "id": "e7f64a28dd284789807a14482b1abfd8",
+  "title": "Manor Lords",
+  "description": "Manor Lords is a medieval strategy game featuring in-depth city building, large-scale tactical battles, and complex economic and social simulations. Rule your lands as a medieval lord -- the seasons pass, the weather changes, and cities rise and fall.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9618212ee65745f8b61c932898b151dd/manor-lords-1glei.jpg",
+      "md5": "8c2ae9468cc5e30830184d8d54787a6c",
+      "width": 2560,
+      "height": 1440,
+      "size": 699238,
+      "uploadedDate": "2024-04-02T11:06:27.836Z",
+      "alt": "Manor Lords Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9618212ee65745f8b61c932898b151dd/manor-lords-95r52.jpg",
+      "md5": "b83a22273e8e7ad7f79f5fb002d0456e",
+      "width": 1200,
+      "height": 1600,
+      "size": 789886,
+      "uploadedDate": "2024-04-02T11:06:28.527Z",
+      "alt": "Download Manor Lords Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "463a22f831094e00aac58492b5c10b45",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-02T07:16:28.425Z",
+  "lastModifiedDate": "2024-05-08T09:00:45.559Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/ManorLords/Saved/SaveGames/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "steam_autocloud.vdf"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ManorLords"
+    }
+  },
+  "entitlementName": "e7f64a28dd284789807a14482b1abfd8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "925204e2d48a4f419bc9966ffeff1214",
+      "appId": "8a5e1dedaa0e4f4e8b2ac2c00e849111",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Hooded Horse Inc.",
+  "developerId": "o-4ftedygtvtsgp7tbaf49mpm7lt6u2e",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,67 @@
+{
+  "id": "e953ba11cd9e4f50ac4faea4c399fea0",
+  "title": "Burst Hero",
+  "description": "Burst Hero is a pixel roguelike shooting survival game. You can choose heroes with different abilities and use various weapons to resist a steady stream of enemies. In the battle, you can customize your build by weapons bullets and cards.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0bdabf177bb644dbafe20103a91d68e9/burst-hero-law37.png",
+      "md5": "e13967c321ed36bce3cd2c169bc3e843",
+      "width": 2560,
+      "height": 1440,
+      "size": 1433140,
+      "uploadedDate": "2023-11-07T12:39:23.575Z",
+      "alt": "Burst Hero Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0bdabf177bb644dbafe20103a91d68e9/burst-hero-1l78l.png",
+      "md5": "83b9b033b3826da17aa47fd84f79f73f",
+      "width": 1200,
+      "height": 1600,
+      "size": 410004,
+      "uploadedDate": "2023-11-07T12:39:10.650Z",
+      "alt": "Download Burst Hero Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c923cc91073d4405bd8d2f356066bfbd",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-10T08:45:05.881Z",
+  "lastModifiedDate": "2023-12-26T14:05:30.229Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/YaYaGame/Burst Hero/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BurstHero"
+    }
+  },
+  "entitlementName": "e953ba11cd9e4f50ac4faea4c399fea0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e4902600878e4adfb6c31fb949b82f3d",
+      "appId": "2dc91601d7d8486ba57ebb28d8b31f95",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "YaYa Game",
+  "developerId": "o-xd2h4pmjzwnd8bpexnh7v8lagh37by",
+  "endOfSupport": false,
+  "applicationId": "fghi4567mEMOR7YoQrkuRGjUH3a4RiAm",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

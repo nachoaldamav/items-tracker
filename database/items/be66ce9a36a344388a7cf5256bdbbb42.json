@@ -1,0 +1,75 @@
+{
+  "id": "be66ce9a36a344388a7cf5256bdbbb42",
+  "title": "Soda Story - Brewing Tycoon",
+  "description": "Soda Story - Brewing Tycoon is an adventurous casual management game in which you take on the challenge of running a Soda brewing operation. All while participating in the current season of the hit reality TV show “Prisoneers.”",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/775b0657d7b443d5ba1f8e770585d4eb/soda-story--brewing-tycoon-1416e.png",
+      "md5": "c45e5aa05c1db3046aa00ad9f9db0566",
+      "width": 2560,
+      "height": 1440,
+      "size": 962011,
+      "uploadedDate": "2023-03-13T05:16:07.659Z",
+      "alt": "Soda Story - Brewing Tycoon Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/775b0657d7b443d5ba1f8e770585d4eb/soda-story--brewing-tycoon-1v0ze.png",
+      "md5": "b59c0f4d35d53bff7e7d67e00364e54c",
+      "width": 1200,
+      "height": 1600,
+      "size": 679189,
+      "uploadedDate": "2023-03-13T05:07:28.365Z",
+      "alt": "Download Soda Story - Brewing Tycoon Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3f1644a69af740258cc57a938284017b",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-10T09:30:08.995Z",
+  "lastModifiedDate": "2023-11-10T09:33:56.251Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Upper Class Walrus/Soda Story - Brewing Tycoon/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.save"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SodaStoryBrewingTycoon"
+    }
+  },
+  "entitlementName": "be66ce9a36a344388a7cf5256bdbbb42",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "086b5cd5e58740e1abb59de32aa84724",
+      "appId": "e17ba36886824182ac9c47eef1a34f0e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Upper Class Walrus",
+  "developerId": "o-gs9a2b9vtst924numarklmanepran6",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

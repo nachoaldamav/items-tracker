@@ -1,0 +1,68 @@
+{
+  "id": "4747fc6310fa45a394f391819633c4ec",
+  "title": "Never Synth",
+  "description": "NeverSynth is a 3rd person game that is a rhythm driving simulator. This game is a dynamic action game in which you have to drive a car to rhythmic music and collect beats. The more beats you collect, the more game points you earn.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/82abfaedc6cc402cae8835753f017c4e/never-synth-gqo2j.jpg",
+      "md5": "636233df8e95e094e80094a116d90079",
+      "width": 2560,
+      "height": 1440,
+      "size": 2307997,
+      "uploadedDate": "2024-02-27T19:05:47.773Z",
+      "alt": "Never Synth Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/82abfaedc6cc402cae8835753f017c4e/never-synth-389rs.jpg",
+      "md5": "bc917692abaedb31a2e5a6b842ef15ee",
+      "width": 1200,
+      "height": 1600,
+      "size": 1212438,
+      "uploadedDate": "2024-02-27T19:05:48.507Z",
+      "alt": "Download Never Synth Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "371b823a2db44deea5ad6467a114abe0",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-03T06:39:21.987Z",
+  "lastModifiedDate": "2024-03-03T06:39:21.987Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/NeverSynth/CloudSave/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NeverSynth"
+    }
+  },
+  "entitlementName": "4747fc6310fa45a394f391819633c4ec",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "945ac93f1d0b4da4b37e9ca1eff9127a",
+      "appId": "75254c0fc5ef44de9633c559aa6f52f8",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Whale Rock Games LLC",
+  "developerId": "o-z8ex63yvz4ye54cfgwhdu3zxz4tpja",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

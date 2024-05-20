@@ -1,0 +1,63 @@
+{
+  "id": "1418b5f2ab8349698df08e3cf364a4e1",
+  "title": "Heist Force",
+  "description": "Single-player 3rdPerson action heist game. Infiltrate banks, outmaneuver enemies, execute high-stakes heists. Can you become a Heist Master?",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ad7389c44fb849c8b52ead89f5402322/heist-force-4b9ib.png",
+      "md5": "a0a68cad345f8e311670c896b0694341",
+      "width": 2560,
+      "height": 1440,
+      "size": 2918472,
+      "uploadedDate": "2023-07-20T12:26:02.096Z",
+      "alt": "Heist Force Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ad7389c44fb849c8b52ead89f5402322/heist-force-xgbfv.png",
+      "md5": "207ed2d32c97815c4b960c9d1b40642c",
+      "width": 1200,
+      "height": 1600,
+      "size": 1729911,
+      "uploadedDate": "2023-07-20T07:42:28.984Z",
+      "alt": "Download Heist Force Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a6bd7700389b4389ad7d4c344ea2ce81",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-26T15:27:36.602Z",
+  "lastModifiedDate": "2023-07-26T15:27:36.602Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "HeistForceDefault"
+    }
+  },
+  "entitlementName": "1418b5f2ab8349698df08e3cf364a4e1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0e603150b887452e916f1781f49d64b6",
+      "appId": "7036be086cec4c98bb9097a097c1220f",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "AGE Games",
+  "developerId": "o-j4zs7xc9mc2ycsppfky47v6pdxbwbs",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

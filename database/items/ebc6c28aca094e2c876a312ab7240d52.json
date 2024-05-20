@@ -1,0 +1,65 @@
+{
+  "id": "ebc6c28aca094e2c876a312ab7240d52",
+  "title": "Cubzh",
+  "description": "Cubzh",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2f38fc2fd2274876b11ee18bd1a5ae53/cubzh-1t7w0.png",
+      "md5": "1bfe99a8f20f9708de68637bcb830c88",
+      "width": 2560,
+      "height": 1440,
+      "size": 1468332,
+      "uploadedDate": "2023-08-28T08:52:57.953Z",
+      "alt": "Cubzh Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2f38fc2fd2274876b11ee18bd1a5ae53/cubzh-mjxah.png",
+      "md5": "59003598f00cdc5f3cb1fd8a8fa427f5",
+      "width": 1200,
+      "height": 1600,
+      "size": 687112,
+      "uploadedDate": "2023-08-28T08:53:05.261Z",
+      "alt": "Download Cubzh Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ea05789b6cc5497ea43b674a7e3a06d2",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-11T14:30:09.185Z",
+  "lastModifiedDate": "2023-12-18T16:47:17.913Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Cubzh"
+    }
+  },
+  "entitlementName": "ebc6c28aca094e2c876a312ab7240d52",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "43fc57f9ee944299aa2f1887ed3e52ba",
+      "appId": "ac8a49471d274661bc6e72ab92d6700e",
+      "platform": [
+        "Mac",
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Cubzh",
+  "developerId": "o-uxfwu4ljcpv8ez3uscthykbmvupw4v",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

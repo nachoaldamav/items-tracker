@@ -1,0 +1,75 @@
+{
+  "id": "09b759d04f2b4479923131c08c6501ca",
+  "title": "RedRaptor",
+  "description": "RedRaptor",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0ec4bc7a3cb84615920b8dd6ed60beaa/redraptor-ahrel.jpg",
+      "md5": "553b69117a0cfaa51aad2ba0c686c55d",
+      "width": 2560,
+      "height": 1440,
+      "size": 2791300,
+      "uploadedDate": "2023-05-05T22:41:10.489Z",
+      "alt": "RedRaptor Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0ec4bc7a3cb84615920b8dd6ed60beaa/redraptor-1ic4g.jpg",
+      "md5": "588fcb42e070d8b21885eac7416c93f0",
+      "width": 1200,
+      "height": 1600,
+      "size": 2350689,
+      "uploadedDate": "2023-05-05T22:41:10.013Z",
+      "alt": "Download RedRaptor Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7a4e0cde9aaa4708bdebbe5a3943b140",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-18T14:32:04.865Z",
+  "lastModifiedDate": "2023-09-18T14:32:04.865Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Eastasiasoft Limited/RedRaptor/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "savedata.bin"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RedRaptor"
+    }
+  },
+  "entitlementName": "09b759d04f2b4479923131c08c6501ca",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bf9c35b77a3d4638a47089432fbdd80a",
+      "appId": "97e93ec635064c3dae3e2b5c98c082ae",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Eastasiasoft Limited",
+  "developerId": "o-j9vh8fdxraq8nr63nwvqa8xeegkezy",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

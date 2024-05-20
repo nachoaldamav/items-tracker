@@ -1,0 +1,62 @@
+{
+  "id": "93d1635b798e493797b1f02368a1d6fc",
+  "title": "Fly Corp Demo",
+  "description": "Control the passenger flow! Open new routes, buy new planes and upgrade them, increase capacity of the airports!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/087738d5c5e54afba36a522452409129/fly-corp-vdl1e.png",
+      "md5": "5e34e254128f5601118ea8adc6bc50a4",
+      "width": 2560,
+      "height": 1440,
+      "size": 2245424,
+      "uploadedDate": "2023-07-04T06:01:30.841Z",
+      "alt": "Fly Corp Fly Corp Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/087738d5c5e54afba36a522452409129/fly-corp-sne2r.png",
+      "md5": "406215ab91903202f0f556f52fc02f18",
+      "width": 1200,
+      "height": 1600,
+      "size": 2218271,
+      "uploadedDate": "2023-07-04T06:01:28.356Z",
+      "alt": "Download Fly Corp Fly Corp Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3bb63a39c60c4459a5a526eb6a4b08b5",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-27T06:10:44.224Z",
+  "lastModifiedDate": "2023-07-26T04:10:09.760Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DemoFlyCorp59a1f"
+    }
+  },
+  "entitlementName": "93d1635b798e493797b1f02368a1d6fc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5149d966321c4aacbfe7f16f7092cad8",
+      "appId": "803a34bda3584e6b9082d713fb0d516d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Kirill Shcherbakov",
+  "developerId": "o-k7syqsje4w45y8m5d4turmgu72hqze",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,89 @@
+{
+  "id": "55f0b166a17448aca5190331135bd51b",
+  "title": "Fe",
+  "description": "Run, climb and glide your way through a dark Nordic forest and explore its living, breathing ecosystem filled with secrets and mystical creatures. Become Fe and discover a world that you will never want to leave.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e857413c13a8479aa8fd91e16d7e189c/fe-1h53p.jpg",
+      "md5": "cabcdb5a6796e5142f319c2b1f945b78",
+      "width": 2560,
+      "height": 1440,
+      "size": 761006,
+      "uploadedDate": "2024-04-12T20:29:00.465Z",
+      "alt": "Fe Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e857413c13a8479aa8fd91e16d7e189c/fe-1x47t.jpg",
+      "md5": "ad9c81b5b031958e667d2264748849d2",
+      "width": 1200,
+      "height": 1600,
+      "size": 568890,
+      "uploadedDate": "2024-04-12T20:29:09.171Z",
+      "alt": "Download Fe Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d2b1bb39f6a84a05af0b90e502a7e480",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-02T19:09:19.273Z",
+  "lastModifiedDate": "2024-05-02T19:09:19.273Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Zoink\\Fe"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "Fe.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "Fe.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FeEPzk6"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "55f0b166a17448aca5190331135bd51b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "17399cb1fd6542e6b5fdc3ef37ca6246",
+      "appId": "pionono",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

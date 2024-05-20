@@ -1,0 +1,89 @@
+{
+  "id": "d72d6ec471ef4d43807f942395a17020",
+  "title": "Need For Speed: Hot Pursuit Remastered",
+  "description": "Feel the thrill of the chase and the rush of escape behind the wheels of the world’s hottest high-performance cars in Need for Speed™ Hot Pursuit Remastered.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9738b3b3a78a43f796d0b131a37d0cd2/need-for-speed-hot-pursuit-remastered-1lp8s.jpg",
+      "md5": "3dba1096bae144846b2cd183029b37df",
+      "width": 2560,
+      "height": 1440,
+      "size": 1748388,
+      "uploadedDate": "2024-03-08T21:04:51.572Z",
+      "alt": "Need For Speed: Hot Pursuit Remastered Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9738b3b3a78a43f796d0b131a37d0cd2/need-for-speed-hot-pursuit-remastered-1ie52.jpg",
+      "md5": "7a1abef024a99ffe36cbaeb4c974b9ac",
+      "width": 1200,
+      "height": 1600,
+      "size": 726971,
+      "uploadedDate": "2024-03-08T21:04:59.376Z",
+      "alt": "Download Need For Speed: Hot Pursuit Remastered Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1b5b9d7b995d437c9933b053d2ba41f2",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-04T15:42:49.540Z",
+  "lastModifiedDate": "2024-03-28T14:12:27.534Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\EA Games\\Need For Speed Hot Pursuit Remastered"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "NFS11Remastered.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "NFS11Remastered.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NeedForSpeedHotPursuz9Fu3"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "d72d6ec471ef4d43807f942395a17020",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d4aa350d523f40f49a3720a363a291cc",
+      "appId": "pastizz",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

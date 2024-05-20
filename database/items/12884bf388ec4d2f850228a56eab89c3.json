@@ -1,0 +1,71 @@
+{
+  "id": "12884bf388ec4d2f850228a56eab89c3",
+  "title": "Strange House",
+  "description": "Keep an eye on the residents of the neighboring house and figure out what strange events are happening there.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c8eb20bfbdf4485395c3545b5d598a6f/strange-house-1ly4b.jpg",
+      "md5": "45b3919189fd6d7cf4bf872f8858278a",
+      "width": 2560,
+      "height": 1440,
+      "size": 957628,
+      "uploadedDate": "2023-04-14T16:24:29.467Z",
+      "alt": "Strange House Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c8eb20bfbdf4485395c3545b5d598a6f/strange-house-1g0v2.jpg",
+      "md5": "3b679efd2b4f27af0e171462d52b5f6b",
+      "width": 1200,
+      "height": 1600,
+      "size": 1013813,
+      "uploadedDate": "2023-04-14T16:24:30.072Z",
+      "alt": "Download Strange House Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e65306b6830641a68e3b76e5b1bc2dfd",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-13T21:01:30.463Z",
+  "lastModifiedDate": "2023-11-23T10:20:22.968Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/StrangeHouse/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "StrangeHouse"
+    }
+  },
+  "entitlementName": "12884bf388ec4d2f850228a56eab89c3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9176ad1bbe4045539022f1bc729285b0",
+      "appId": "ab394f16cb2b4d77a55cb93fc07b0d5c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Games4Wonders",
+  "developerId": "o-2ngazyp4pgjzcuqw8gn3vvphdkd44y",
+  "endOfSupport": false,
+  "applicationId": "fghi4567fjXa6dgHKIVQLSXrlEo13Px4",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

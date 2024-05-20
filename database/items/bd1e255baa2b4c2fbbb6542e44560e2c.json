@@ -1,0 +1,63 @@
+{
+  "id": "bd1e255baa2b4c2fbbb6542e44560e2c",
+  "title": "County Hospital",
+  "description": "County Hospital",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8100b1e68f9f4e95a21231f978c9037c/county-hospital-hmzoq.jpg",
+      "md5": "60fcda049a06f9613c160083e183dc5f",
+      "width": 2560,
+      "height": 1440,
+      "size": 129120,
+      "uploadedDate": "2023-03-21T13:41:17.982Z",
+      "alt": "County Hospital Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8100b1e68f9f4e95a21231f978c9037c/county-hospital-77jiy.jpg",
+      "md5": "b475cd9378f461277adf1645ce9c3fd3",
+      "width": 1200,
+      "height": 1600,
+      "size": 543146,
+      "uploadedDate": "2023-03-21T13:40:48.216Z",
+      "alt": "Download County Hospital Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0f84bd6618d24d929b3c3ae8b6154223",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-09T15:54:20.864Z",
+  "lastModifiedDate": "2023-09-07T12:10:15.552Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "CountyHospitalLr5V6"
+    }
+  },
+  "entitlementName": "bd1e255baa2b4c2fbbb6542e44560e2c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2b8cd40e36754881ae02147013afb31c",
+      "appId": "0abac454c5174db99c9628c838a632a1",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "LFR games",
+  "developerId": "o-p97a6u7u83b4zaxc8h3hz3lzb2nz4t",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

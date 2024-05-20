@@ -1,0 +1,64 @@
+{
+  "id": "8b985bacbc704fe0b7d35cfee17e2fed",
+  "title": "Dros",
+  "description": "Dros",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1e217553e90d4af19f76881cc6c87eaf/dros-bq27v.png",
+      "md5": "6deffaba3410cc61d37fc204ca109ada",
+      "width": 2560,
+      "height": 1440,
+      "size": 2857017,
+      "uploadedDate": "2023-06-27T08:17:45.834Z",
+      "alt": "Dros Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1e217553e90d4af19f76881cc6c87eaf/dros-1em4j.png",
+      "md5": "95566c598e1d8de19396f388de165a7d",
+      "width": 1200,
+      "height": 1600,
+      "size": 1357545,
+      "uploadedDate": "2023-06-27T08:17:43.831Z",
+      "alt": "Download Dros Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a46cade12846436281c910ddc51411f3",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-15T05:35:21.600Z",
+  "lastModifiedDate": "2023-11-20T21:22:47.904Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Dros"
+    }
+  },
+  "entitlementName": "8b985bacbc704fe0b7d35cfee17e2fed",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "718c337b693c47caacbb71658696b242",
+      "appId": "ff5d71ebaa8d43d5bb62b0f203fe4f98",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "EMERGEWORLDS PTY LTD",
+  "developerId": "o-uzpjlqc9fpa8dfwgc9eteaj4p43ug8",
+  "endOfSupport": false,
+  "applicationId": "fghi4567wHVVIjb4UqtB4UO6gAo4MW0m",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

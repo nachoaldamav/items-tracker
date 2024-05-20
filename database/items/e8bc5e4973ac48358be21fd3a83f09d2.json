@@ -1,0 +1,63 @@
+{
+  "id": "e8bc5e4973ac48358be21fd3a83f09d2",
+  "title": "Moonray",
+  "description": "Moonray",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8fa1f804cc8c4a038f869af3b6788cb5/moonray-1680z.jpg",
+      "md5": "08764bc063b3f2a4bdeb3bc221ecef9b",
+      "width": 2560,
+      "height": 1440,
+      "size": 4081394,
+      "uploadedDate": "2024-04-26T17:42:12.829Z",
+      "alt": "Moonray Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8fa1f804cc8c4a038f869af3b6788cb5/moonray-257k8.png",
+      "md5": "7ae8f9d23d43e4798fb210d916464473",
+      "width": 1200,
+      "height": 1600,
+      "size": 3820949,
+      "uploadedDate": "2024-04-28T11:13:59.450Z",
+      "alt": "Download Moonray Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1972d7d943d144318403545b8ae517ed",
+  "status": "ACTIVE",
+  "creationDate": "2023-08-10T17:14:05.311Z",
+  "lastModifiedDate": "2024-04-29T12:57:29.429Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Moonray"
+    }
+  },
+  "entitlementName": "e8bc5e4973ac48358be21fd3a83f09d2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a70e0fa4209b490e899b38d2b4c6bfca",
+      "appId": "fa5b05a86f9641b7aa1fbef604d59567",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Moonray PBC",
+  "developerId": "o-3zepxed8tgfubcu8yvk3d9vvyp2czb",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

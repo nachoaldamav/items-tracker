@@ -1,0 +1,62 @@
+{
+  "id": "54a7d24c1b514112993c851e4a3269f1",
+  "title": "Dizzy Fight",
+  "description": "Dizzy Fight",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3c60ba1d367041b8af21b5e2f8e3a57d/dizzy-fight-hsmqf.png",
+      "md5": "718d2d065f09c7d7f17a39bbf83e9594",
+      "width": 2560,
+      "height": 1440,
+      "size": 1558091,
+      "uploadedDate": "2023-10-29T19:40:06.394Z",
+      "alt": "Dizzy Fight Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3c60ba1d367041b8af21b5e2f8e3a57d/dizzy-fight-1osy5.png",
+      "md5": "6153fce48dc147f67342fa992560c57d",
+      "width": 1200,
+      "height": 1600,
+      "size": 2404371,
+      "uploadedDate": "2023-10-29T19:40:07.126Z",
+      "alt": "Download Dizzy Fight Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0e75b2d3188d42378ba82dccbfa48891",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-30T20:18:08.269Z",
+  "lastModifiedDate": "2023-12-03T14:54:06.791Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DizzyFightEBaxd"
+    }
+  },
+  "entitlementName": "54a7d24c1b514112993c851e4a3269f1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1d8be8a8411c41f2b9d33451b4dbbae4",
+      "appId": "51e9065b0f06454a89a1a48e9d0c24a9",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SoerGameStudio",
+  "developerId": "o-5d8ptw3mvr8q7xttp27q62ja5d4ueh",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

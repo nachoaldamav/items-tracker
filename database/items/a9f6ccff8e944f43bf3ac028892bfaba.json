@@ -1,0 +1,62 @@
+{
+  "id": "a9f6ccff8e944f43bf3ac028892bfaba",
+  "title": "Homeseek",
+  "description": "Homeseek",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8528762aa5e14211a5375f70741a71a0/homeseek-11cm9.png",
+      "md5": "d4e342ed20f2506062df2f3af281dab1",
+      "width": 2560,
+      "height": 1440,
+      "size": 2860417,
+      "uploadedDate": "2023-08-22T08:29:22.281Z",
+      "alt": "Homeseek Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8528762aa5e14211a5375f70741a71a0/homeseek-2n4yi.png",
+      "md5": "f8923d9faa58a77c713fd60485ba7826",
+      "width": 1200,
+      "height": 1600,
+      "size": 2202707,
+      "uploadedDate": "2023-08-22T08:29:18.374Z",
+      "alt": "Download Homeseek Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4d38b523f0ef409d9cc79af313643ec9",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-13T10:00:42.934Z",
+  "lastModifiedDate": "2023-09-15T05:35:25.295Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "HomeseekJBjSC"
+    }
+  },
+  "entitlementName": "a9f6ccff8e944f43bf3ac028892bfaba",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4597b8a44ea3489eabcbc81d0c150190",
+      "appId": "7d4516ceee0e4ad1b9df03628189f2d1",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "The Iterative Collective",
+  "developerId": "o-ea9m9jpbnbq9lp2r75ws8zbgawqv23",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

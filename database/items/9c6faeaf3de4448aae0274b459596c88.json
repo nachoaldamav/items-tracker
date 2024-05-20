@@ -1,0 +1,76 @@
+{
+  "id": "9c6faeaf3de4448aae0274b459596c88",
+  "title": "Revans",
+  "description": "Revans",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/644b69046dfb443bad480bb5bd33b734/revans-1qlgt.jpg",
+      "md5": "b0bc347f6fdfd863355d63f80dd217e7",
+      "width": 2560,
+      "height": 1440,
+      "size": 1453931,
+      "uploadedDate": "2023-06-28T18:02:32.803Z",
+      "alt": "Revans Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/644b69046dfb443bad480bb5bd33b734/revans-1d1tg.jpg",
+      "md5": "73beadb78e6ab3e0a4823a8f0ea27ab4",
+      "width": 1200,
+      "height": 1600,
+      "size": 1758715,
+      "uploadedDate": "2023-06-28T17:53:00.883Z",
+      "alt": "Download Revans Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "dc5c7673e02543d6b57e9579d970702f",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-22T15:57:39.395Z",
+  "lastModifiedDate": "2023-09-22T15:57:39.395Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Format lib_ _s/Revans/{EpicID}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "RevansSave"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RevansfauqW"
+    }
+  },
+  "entitlementName": "9c6faeaf3de4448aae0274b459596c88",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "865a7cbf35714f5ca974f59ee6f78b8a",
+      "appId": "5b042170cd7147bf93e022027f07b5a9",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Vogix4 Kft.",
+  "developerId": "o-wdue2smae97dfld4shhrldvx5583r9",
+  "endOfSupport": false,
+  "applicationId": "fghi4567zeGR6IPGjwMXXLf9IzKEbbJu",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

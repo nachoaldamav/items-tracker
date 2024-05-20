@@ -1,0 +1,64 @@
+{
+  "id": "dee3904fe0174f6c9f4bd2cd57c64116",
+  "title": "Submarine Titans",
+  "description": "Submarine Titans",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/80200c34e8884135a1618ce5bc083266/submarine-titans-1wa29.png",
+      "md5": "d4e16eb55901b78f60274bee757715a9",
+      "width": 2560,
+      "height": 1440,
+      "size": 3169518,
+      "uploadedDate": "2022-10-22T01:47:18.540Z",
+      "alt": "Submarine Titans Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/80200c34e8884135a1618ce5bc083266/submarine-titans-o5zoo.png",
+      "md5": "886e7a628e668a3fe21cda161a5c55e2",
+      "width": 1200,
+      "height": 1600,
+      "size": 1754699,
+      "uploadedDate": "2022-10-22T01:47:19.271Z",
+      "alt": "Download Submarine Titans Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d3ec9db2529b4b6bb350789d32959112",
+  "status": "ACTIVE",
+  "creationDate": "2022-10-21T17:32:47.064Z",
+  "lastModifiedDate": "2022-11-28T23:41:32.465Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SubmarineTitans"
+    }
+  },
+  "entitlementName": "dee3904fe0174f6c9f4bd2cd57c64116",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c4464a2739a04c2699e9aa9e6d68711e",
+      "appId": "71a43817678048dba7a0a31f9004f273",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Strategy First",
+  "developerId": "o-a3vefcg43bn6j4lwc7qs8n5y38jm7k",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,69 @@
+{
+  "id": "cfe399d64e54407cbdc959f9755b05fc",
+  "title": "Planet Cube - Edge",
+  "description": "Planet Cube is being invaded! Prepare to run, gun, jump and dash in this high-speed adventure set in a hand-crafted pixel art world, filled with precision platforming and thrills.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/76b811ca6b4a4ab997881ffd8b71fe17/planet-cube--edge-1oid0.png",
+      "md5": "498f644eb9218890de4f64137ab01afe",
+      "width": 2560,
+      "height": 1440,
+      "size": 2887827,
+      "uploadedDate": "2023-01-31T10:40:42.509Z",
+      "alt": "Planet Cube - Edge Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/76b811ca6b4a4ab997881ffd8b71fe17/planet-cube--edge-16aka.png",
+      "md5": "022f33e66b2735d7b718a21de36d7983",
+      "width": 1200,
+      "height": 1600,
+      "size": 2034777,
+      "uploadedDate": "2023-01-31T10:40:45.029Z",
+      "alt": "Download Planet Cube - Edge Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cc920a7236ce4cd9ba347651be651e5e",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-13T10:14:39.227Z",
+  "lastModifiedDate": "2023-03-13T10:14:39.227Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/PCEData/SyncSaves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PlanetCubeEdge08QiP"
+    }
+  },
+  "entitlementName": "cfe399d64e54407cbdc959f9755b05fc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "32fc478f4f89403a85f26883d4d4ba67",
+      "appId": "46736730a4ef4671a27189434b978045",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Firestoke",
+  "developerId": "o-dndzawzjm53jd66sydycz6gxmr6k5c",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

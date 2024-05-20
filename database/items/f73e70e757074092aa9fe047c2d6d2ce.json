@@ -1,0 +1,75 @@
+{
+  "id": "f73e70e757074092aa9fe047c2d6d2ce",
+  "title": "Gambit Shifter",
+  "description": "Gambit Shifter is a relaxing, minimalist puzzle game for chess experts and beginners alike! Take control of a single piece, solve your way through 80+ hand-crafted levels and lose yourself in the zen atmosphere as you advance.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/57724a0cbc064cd0907d9f23d0671589/gambit-shifter-zd99f.png",
+      "md5": "b2a68ca03108c03b6eaaa5b171f36d6d",
+      "width": 2560,
+      "height": 1440,
+      "size": 880920,
+      "uploadedDate": "2024-01-04T08:40:21.646Z",
+      "alt": "Gambit Shifter Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/57724a0cbc064cd0907d9f23d0671589/gambit-shifter-15z4h.png",
+      "md5": "90d70271638ec09324f95cc42394c167",
+      "width": 1200,
+      "height": 1600,
+      "size": 337417,
+      "uploadedDate": "2024-01-04T08:40:24.496Z",
+      "alt": "Download Gambit Shifter Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ba3fea8881d54b1a805074c89f03874f",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-28T10:47:45.136Z",
+  "lastModifiedDate": "2024-02-21T14:39:06.688Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/unity.Volcanite Games.Gambit Shifter/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Volcanite Games/Gambit Shifter/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GambitShifter"
+    }
+  },
+  "entitlementName": "f73e70e757074092aa9fe047c2d6d2ce",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7b7cc0c82a1d440bb729df857ef420d4",
+      "appId": "dd81a55a4f824bd5bcf73c448eb9d04f",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Volcanite Games",
+  "developerId": "o-8lfew2jflh4kvbqlfh45ebkzfq4h56",
+  "endOfSupport": false,
+  "applicationId": "fghi4567MaDrSO1PRGPfXk60MJ2VtDDM",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

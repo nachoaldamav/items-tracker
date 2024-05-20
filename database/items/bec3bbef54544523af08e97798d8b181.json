@@ -1,0 +1,72 @@
+{
+  "id": "bec3bbef54544523af08e97798d8b181",
+  "title": "Learning Factory",
+  "description": "Build and manage production systems to craft and sell goods to cats and finally achieve Catopia where all the systems are operating at peak efficiency. Machine Learning for sales, multi-layered generated maps, thoughtful complex gameplay, and a relaxing atmosphere are included.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-csuty.jpg",
+      "md5": "1cad827976e74aba73d8b07c57460abf",
+      "width": 2560,
+      "height": 1440,
+      "size": 2086758,
+      "uploadedDate": "2022-10-13T17:26:50.950Z",
+      "alt": "Learning Factory Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-ed0ju.jpg",
+      "md5": "87879b8f88aa9f82f33e407e08a0053c",
+      "width": 1200,
+      "height": 1600,
+      "size": 1135880,
+      "uploadedDate": "2022-10-13T17:26:41.289Z",
+      "alt": "Download Learning Factory Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ef82c088018242d6b9936356b732088a",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-29T14:09:10.698Z",
+  "lastModifiedDate": "2023-02-08T09:51:27.052Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/com.ludenio.a5/Saves/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Saves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LearningFactory"
+    }
+  },
+  "entitlementName": "bec3bbef54544523af08e97798d8b181",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5bcc01c84f95482d9d0f90821e378b22",
+      "appId": "b483cc75ed4d40d5a942b395723679f5",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Luden.io",
+  "developerId": "o-8rm6bp8gfgek7t6xdh7wkgvguac4jm",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

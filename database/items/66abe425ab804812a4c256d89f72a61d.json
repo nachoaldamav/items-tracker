@@ -1,0 +1,68 @@
+{
+  "id": "66abe425ab804812a4c256d89f72a61d",
+  "title": "REZ PLZ",
+  "description": "A puzzle platformer with a new twist on co-op and single player gameplay. Solve puzzles, platforming challenges, and encounter dangerous monsters and traps that require you to KILL and resurrect your brother to advance! Death is just part of the adventure.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/979848f3eb5d46668f6574544f1d8914/rez-plz-offer-vy9xv.png",
+      "md5": "1135507d4914443854e85849f4e1fc7c",
+      "width": 2560,
+      "height": 1440,
+      "size": 3121687,
+      "uploadedDate": "2022-08-10T17:50:02.804Z",
+      "alt": "REZ PLZ Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/979848f3eb5d46668f6574544f1d8914/download-rez-plz-offer-rsare.png",
+      "md5": "29ec4d3c8827ac64314fb9be32a62760",
+      "width": 1200,
+      "height": 1600,
+      "size": 2056531,
+      "uploadedDate": "2022-08-10T17:49:59.567Z",
+      "alt": "Download REZ PLZ Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a44efc703f1845c685975b5f0c251dba",
+  "status": "ACTIVE",
+  "creationDate": "2022-08-22T15:46:58.754Z",
+  "lastModifiedDate": "2022-08-22T15:46:58.754Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Long Neck Games/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "REZPLZNYRTV"
+    }
+  },
+  "entitlementName": "66abe425ab804812a4c256d89f72a61d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fdf38743cb464f4d98ed711f01280cd0",
+      "appId": "e2cefa21106245a3ba78e9e96d5b3203",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Graffiti Games",
+  "developerId": "o-87c748zl24r2zsfe7t98b49ghm86kr",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

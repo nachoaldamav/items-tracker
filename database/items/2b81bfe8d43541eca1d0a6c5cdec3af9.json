@@ -1,0 +1,67 @@
+{
+  "id": "2b81bfe8d43541eca1d0a6c5cdec3af9",
+  "title": "Island Cities",
+  "description": "Arrange the town islands and see them come to life. Just swap the blocks of a 3D jigsaw puzzle.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a03945afa17640e8b4188841d93b9a1f/island-cities-kxwc3.jpg",
+      "md5": "d526f906801787c06a25cb9b44be6819",
+      "width": 2560,
+      "height": 1440,
+      "size": 623095,
+      "uploadedDate": "2023-03-30T21:14:11.426Z",
+      "alt": "Island Cities Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a03945afa17640e8b4188841d93b9a1f/island-cities-awt16.jpg",
+      "md5": "87d97c9e165f9b84358e3517607f3ae2",
+      "width": 1200,
+      "height": 1600,
+      "size": 437841,
+      "uploadedDate": "2023-03-30T21:14:11.212Z",
+      "alt": "Download Island Cities Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "405a48516fba4540bd8cc17c53085ab2",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-10T14:29:55.198Z",
+  "lastModifiedDate": "2023-04-27T00:44:16.782Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Mens Sana Interactive/Island Cities/Savesdir/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "IslandCitiesXLopo"
+    }
+  },
+  "entitlementName": "2b81bfe8d43541eca1d0a6c5cdec3af9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9b4dc80bb549425aaeae3773531331f1",
+      "appId": "a4342dd5f25a4820baec11dbcabf1175",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Mens Sana Interactive",
+  "developerId": "o-psnaah85vj9uynvnehzkc2nr63hdyp",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

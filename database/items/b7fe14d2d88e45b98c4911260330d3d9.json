@@ -1,0 +1,64 @@
+{
+  "id": "b7fe14d2d88e45b98c4911260330d3d9",
+  "title": "Secret of Dream",
+  "description": "Secret of Dream",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d3df9c2b65334459a20bf2769d5e01fd/secret-of-dream-vuyre.png",
+      "md5": "351a2f0fb1e5fe39edb0482e3288d7ef",
+      "width": 2560,
+      "height": 1440,
+      "size": 3987434,
+      "uploadedDate": "2022-12-17T22:25:01.289Z",
+      "alt": "Secret of Dream Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d3df9c2b65334459a20bf2769d5e01fd/secret-of-dream-fdozp.png",
+      "md5": "bf1035a2dde56ca2b08daf5caaf87204",
+      "width": 1200,
+      "height": 1600,
+      "size": 1472677,
+      "uploadedDate": "2022-12-17T22:24:58.761Z",
+      "alt": "Download Secret of Dream Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b753e2a9d4ee43e694de063a55b247e2",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-25T17:39:30.047Z",
+  "lastModifiedDate": "2023-03-25T17:39:30.047Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SecretofDream"
+    }
+  },
+  "entitlementName": "b7fe14d2d88e45b98c4911260330d3d9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ebf5a16daf6743ee82c6a05ba9acd3dc",
+      "appId": "d02cc9b24283422389965f1fe165b95e",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Strategy First",
+  "developerId": "o-a3vefcg43bn6j4lwc7qs8n5y38jm7k",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

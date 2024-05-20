@@ -1,0 +1,76 @@
+{
+  "id": "76366c37b57646ecafa8c12519caefce",
+  "title": "Marble It Up! Ultra",
+  "description": "Roll, bounce, boost, and blast your way to victory in Marble It Up! Ultra - the ultimate marble platformer. Chase the records of your friends and the world's best players through a vast campaign - or face them head-on in thrilling multiplayer mayhem. Get ready to roll!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3f8c49b5b2c84de096ec663cda07a059/marble-it-up-ultra-1ccfl.jpg",
+      "md5": "63532a5aa1740606a0133e485054347b",
+      "width": 2560,
+      "height": 1440,
+      "size": 1002899,
+      "uploadedDate": "2023-04-06T16:12:18.947Z",
+      "alt": "Marble It Up Ultra Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3f8c49b5b2c84de096ec663cda07a059/marble-it-up-ultra-wxdw9.jpg",
+      "md5": "baa9eeef1578c1e24f784ab4ee3de48e",
+      "width": 1200,
+      "height": 1600,
+      "size": 1022141,
+      "uploadedDate": "2023-04-06T16:12:18.730Z",
+      "alt": "Download Marble It Up Ultra Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "267b56359a8c45ee9154861187de210b",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-09T20:10:44.053Z",
+  "lastModifiedDate": "2023-10-25T23:07:38.487Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Bad Habit/MarbleItUpUltra/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Bad Habit/MarbleItUpUltra/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.mp"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MarbleItUpUltra"
+    }
+  },
+  "entitlementName": "76366c37b57646ecafa8c12519caefce",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "dce8561ab3fb4caf81774e291b0200b7",
+      "appId": "c546fa1c86d94fffb78e235f3ff0601f",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Marble It Up LLC",
+  "developerId": "o-m68hfns8u6zb97cyegyfzmxc2yrch7",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,74 @@
+{
+  "id": "94b93a2383074407ac706d6580664cab",
+  "title": "Mask of the Rose",
+  "description": "Mask of the Rose",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/aca6aa32bf9f4e31b74cd800e0a85bf2/mask-of-the-rose-zq8xv.png",
+      "md5": "7510c2ca650df9ff4b5f6ff8786f3019",
+      "width": 2560,
+      "height": 1440,
+      "size": 3268391,
+      "uploadedDate": "2022-09-28T15:58:24.809Z",
+      "alt": "Mask of the Rose Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/aca6aa32bf9f4e31b74cd800e0a85bf2/mask-of-the-rose-1ir4o.png",
+      "md5": "e3c48e5821644abca00149ea26d7d6d3",
+      "width": 1200,
+      "height": 1600,
+      "size": 1724520,
+      "uploadedDate": "2022-09-28T15:58:24.352Z",
+      "alt": "Download Mask of the Rose Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cd4a7839ad21465cab08d6742093d2a0",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-16T18:15:58.053Z",
+  "lastModifiedDate": "2024-02-26T18:30:04.148Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Failbetter Games/Mask of the Rose/saves/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Failbetter Games/Mask of the Rose/saves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MaskOfTheRose"
+    }
+  },
+  "entitlementName": "94b93a2383074407ac706d6580664cab",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6c106aed36244c5bada8ab4e65926844",
+      "appId": "93f2fcd24d0349ecb539afab340385f7",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Failbetter Games",
+  "developerId": "o-rtt3u6nfx2dlvv3zuwr53utk9gjz82",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567TOEFaAn3o2keSrDMopDtn6sq",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

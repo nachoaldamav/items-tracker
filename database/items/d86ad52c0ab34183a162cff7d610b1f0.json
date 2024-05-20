@@ -1,0 +1,59 @@
+{
+  "id": "d86ad52c0ab34183a162cff7d610b1f0",
+  "title": "MetaDOS",
+  "description": "MetaDOS",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5fd70b4a75124ef6aca4b359d09aecc2/metados-2r8p4.jpg",
+      "md5": "f5d7c0fab2c0bf5b4422f786bfa49d15",
+      "width": 2560,
+      "height": 1440,
+      "size": 1945916,
+      "uploadedDate": "2024-03-20T07:49:33.895Z",
+      "alt": "MetaDOS Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5fd70b4a75124ef6aca4b359d09aecc2/metados-nw4l1.png",
+      "md5": "366266010144ea3ccd233b85d6dcb6fc",
+      "width": 1200,
+      "height": 1600,
+      "size": 2373122,
+      "uploadedDate": "2024-03-20T07:48:28.483Z",
+      "alt": "Download MetaDOS Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c93d58631e5841a89a75dd2dce81add9",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-30T01:58:05.381Z",
+  "lastModifiedDate": "2024-03-30T01:58:05.381Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "MetaDOSuBWu2"
+    }
+  },
+  "entitlementName": "d86ad52c0ab34183a162cff7d610b1f0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5930fd205c3c471dbdb089a9f07739ab",
+      "appId": "ac027204d0704715a0468e9ee345bba7"
+    }
+  ],
+  "developer": "DOS",
+  "developerId": "o-mv6p2wkk88tt8b4vwq47q9g76cppe2",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

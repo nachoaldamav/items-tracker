@@ -1,0 +1,64 @@
+{
+  "id": "869a7d64f6894fcf8fc9ede60e02b8fc",
+  "title": "Contraption Maker",
+  "description": "Contraption Maker",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4c8e50481f054f7790f703bdf6288267/contraption-maker-14xry.jpg",
+      "md5": "3f7cc15cb57a12dd0248415ccb96cc2b",
+      "width": 2560,
+      "height": 1440,
+      "size": 1256706,
+      "uploadedDate": "2023-07-28T18:50:30.850Z",
+      "alt": "Contraption Maker Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4c8e50481f054f7790f703bdf6288267/contraption-maker-f1vem.jpg",
+      "md5": "ec4db0f14c990e89f0795f11c73356c4",
+      "width": 1200,
+      "height": 1600,
+      "size": 1004459,
+      "uploadedDate": "2023-07-28T18:50:33.074Z",
+      "alt": "Download Contraption Maker Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fafd1bf30a1e489e819444377e309999",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-10T01:03:38.639Z",
+  "lastModifiedDate": "2024-01-14T20:37:59.429Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ContraptionMaker"
+    }
+  },
+  "entitlementName": "869a7d64f6894fcf8fc9ede60e02b8fc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2e8644c637284495a0baea7c39cf246a",
+      "appId": "1e6a8d99ee8c4b0cbf689ac591a64583",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Top Meadow Inc",
+  "developerId": "o-ps8556u5crq9xyxkt93bkqrtgngtux",
+  "endOfSupport": false,
+  "applicationId": "fghi4567f1pyAQdIdn5Unlryx9w8hM7r",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

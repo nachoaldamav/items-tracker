@@ -1,0 +1,63 @@
+{
+  "id": "26dd2d2c44a44d4f99960e3e4088fb04",
+  "title": "Back Then",
+  "description": "Back Then",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/22a4793d8e56416988043db962086c14/back-then-1ggn0.png",
+      "md5": "42d2ecb07924044923d31564a83889ad",
+      "width": 2560,
+      "height": 1440,
+      "size": 3952074,
+      "uploadedDate": "2023-11-06T13:45:38.060Z",
+      "alt": "Back Then Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/22a4793d8e56416988043db962086c14/back-then-1xpdp.png",
+      "md5": "e89f1676d3c707030304e7c9c2c372dd",
+      "width": 1200,
+      "height": 1600,
+      "size": 3368983,
+      "uploadedDate": "2023-11-06T21:30:44.910Z",
+      "alt": "Download Back Then Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d963b8630aac4e98b8b2f83dd394f350",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-07T15:17:48.502Z",
+  "lastModifiedDate": "2023-12-07T15:17:48.502Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BackThenGame"
+    }
+  },
+  "entitlementName": "26dd2d2c44a44d4f99960e3e4088fb04",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c6d87c7c18854f09b0f93bebb68095d9",
+      "appId": "aa8397ebf9224f86b7286432d8a11a6b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Octopus Embrace LDA",
+  "developerId": "o-sjmafjdwdmmf9rcfjme3qpls2339wt",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,67 @@
+{
+  "id": "3e32a5729c6b484e94d8a5de8590c866",
+  "title": "Noch",
+  "description": "Noch",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a1d655a6cf894ed09f0acaf3f632dea9/noch-17zen.png",
+      "md5": "164c973e12e976831961395f27f3573c",
+      "width": 2560,
+      "height": 1440,
+      "size": 1564578,
+      "uploadedDate": "2023-04-12T12:30:50.382Z",
+      "alt": "Noch Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a1d655a6cf894ed09f0acaf3f632dea9/noch-1rdd6.png",
+      "md5": "c9a57f556389bfcdd9d6d73b89f51051",
+      "width": 1200,
+      "height": 1600,
+      "size": 806212,
+      "uploadedDate": "2023-04-12T12:30:51.096Z",
+      "alt": "Download Noch Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7eaefaa491c24dfab7520e3ddd24f5ad",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-16T09:17:57.443Z",
+  "lastModifiedDate": "2023-10-16T09:17:57.443Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Noch/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NochK2KTo"
+    }
+  },
+  "entitlementName": "3e32a5729c6b484e94d8a5de8590c866",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9a2b0480a12d4e0a96ef2212aabe6b4e",
+      "appId": "1d9c3eb030274c3c97651f387eac6621",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Fair Games studio",
+  "developerId": "o-smyywdhjagutrzw6pnn23wwp7sy3es",
+  "endOfSupport": false,
+  "applicationId": "fghi4567BfjzHzK4fZSuY5JYNmKQelMO",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,68 @@
+{
+  "id": "760ef30ed3f74aa59e2b87c234fa7cdc",
+  "title": "Pirates Outlaws",
+  "description": "Pirates Outlaws",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/336b51b9924443bd9510af2e8bd040c7/pirates-outlaws-offer-1em4c.jpg",
+      "md5": "1c140fe9cf2a40eba75461d5e3300e99",
+      "width": 2560,
+      "height": 1440,
+      "size": 851469,
+      "uploadedDate": "2022-04-06T02:39:06.446Z",
+      "alt": "Pirates Outlaws Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/336b51b9924443bd9510af2e8bd040c7/download-pirates-outlaws-offer-10t5k.jpg",
+      "md5": "aed3b3351067e128f4af903eab4a993e",
+      "width": 1200,
+      "height": 1600,
+      "size": 545164,
+      "uploadedDate": "2022-04-06T02:39:07.493Z",
+      "alt": "Download Pirates Outlaws Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c281373e4f7f45d2981dc4072c571173",
+  "status": "ACTIVE",
+  "creationDate": "2022-02-15T08:18:44.315Z",
+  "lastModifiedDate": "2023-08-18T09:55:55.446Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/fabledgame/Pirates Outlaws/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PiratesOutlaws1qViR"
+    }
+  },
+  "entitlementName": "760ef30ed3f74aa59e2b87c234fa7cdc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ffd9b4f23f904ff3b3bcad01bab27d5b",
+      "appId": "c8952be93d5c458d8fe5599b196a635b",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Fabled Game Limited",
+  "developerId": "o-nh7lgnpqcr66v6qumld35twy3n2cur",
+  "endOfSupport": false,
+  "applicationId": "fghi45676nVGnKILuopNuicaBGLKnjWb",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,77 @@
+{
+  "id": "57ae3d5ad526481897b28e5e4d1ccb3d",
+  "title": "THE IMPOSSIBLE",
+  "description": "THE IMPOSSIBLE",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0bf7da0ff8784bdba6e8a3aa43b2b7b2/the-impossible-zpzo1.png",
+      "md5": "278a9e8aa50bca9ff62f085c826f69b8",
+      "width": 2560,
+      "height": 1440,
+      "size": 1374074,
+      "uploadedDate": "2023-06-02T04:31:45.966Z",
+      "alt": "THE IMPOSSIBLE Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0bf7da0ff8784bdba6e8a3aa43b2b7b2/the-impossible-gls7x.png",
+      "md5": "acf7ee288f5dcd3daae0d40ffb8dd77e",
+      "width": 1200,
+      "height": 1600,
+      "size": 906686,
+      "uploadedDate": "2023-06-02T04:31:45.584Z",
+      "alt": "Download THE IMPOSSIBLE Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2010b387d2964690a42249ff8c4f9ee4",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-01T09:37:51.620Z",
+  "lastModifiedDate": "2024-04-20T18:53:34.147Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/THE IMPOSSIBLE/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/THE IMPOSSIBLE/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "THEIMPOSSIBLEBQpxu"
+    }
+  },
+  "entitlementName": "57ae3d5ad526481897b28e5e4d1ccb3d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "90c421f3e7dd4c91aab8542f24071f6d",
+      "appId": "aaaa0b40e05d4b87bd53d1bbf7982e7a",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Airem",
+  "developerId": "o-wndrw4cwfttmgjzmh3fk38euecp7hf",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

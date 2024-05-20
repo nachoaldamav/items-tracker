@@ -1,0 +1,63 @@
+{
+  "id": "a99cf8b96196434994052e342e1a0f86",
+  "title": "CyVenge",
+  "description": "CyVenge",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/52094603bafa4cc9aed2c92208733dc5/cyvenge-b8g23.png",
+      "md5": "8fb2470f20498f8f954ee8db4c2daa43",
+      "width": 2560,
+      "height": 1440,
+      "size": 1606258,
+      "uploadedDate": "2023-12-10T10:55:51.246Z",
+      "alt": "CyVenge Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/52094603bafa4cc9aed2c92208733dc5/cyvenge-1f6a7.png",
+      "md5": "c0b7ea18e82786eeddeb68c089ba336e",
+      "width": 1200,
+      "height": 1600,
+      "size": 707460,
+      "uploadedDate": "2023-12-10T10:57:18.493Z",
+      "alt": "Download CyVenge Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1afacdeac732490287b58dc04a7ff100",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-16T11:15:32.581Z",
+  "lastModifiedDate": "2023-12-11T19:16:47.149Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "CyVenge39R8X"
+    }
+  },
+  "entitlementName": "a99cf8b96196434994052e342e1a0f86",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "58d3b20097ba4663b93f28044e2f9685",
+      "appId": "7fd29bd657df49a49e044ad4370c8c68",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Cave Beer Entertainment",
+  "developerId": "o-lzmnve5qt5et8j6gdpgzcxnlfbxkv5",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,71 @@
+{
+  "id": "fdef6b0004cc42f692c65dafc0c45619",
+  "title": "SPINGUN",
+  "description": "SPINGUN",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7d8a276af1cf4d09be7337cc7f34ee2a/spingun-1u87f.png",
+      "md5": "4eaf1fd3846828741005dcad33b2d0a1",
+      "width": 2560,
+      "height": 1440,
+      "size": 258651,
+      "uploadedDate": "2023-05-20T07:20:18.235Z",
+      "alt": "SPINGUN Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7d8a276af1cf4d09be7337cc7f34ee2a/spingun-1hp69.png",
+      "md5": "8dab0928d0cc823d25279da70f56c0f8",
+      "width": 1200,
+      "height": 1600,
+      "size": 160176,
+      "uploadedDate": "2023-05-20T07:20:20.240Z",
+      "alt": "Download SPINGUN Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c5fe11872c2c407baee53f1a1a9131ed",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-02T20:27:09.287Z",
+  "lastModifiedDate": "2023-06-02T20:27:09.287Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/SPINGUN8/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "save.ini"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SPINGUN"
+    }
+  },
+  "entitlementName": "fdef6b0004cc42f692c65dafc0c45619",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "341ddb7c0ba846d49f21bbaf543d3536",
+      "appId": "f6dfbbf5a2054bc1a6a388e5fdf7d9ee",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Fermenter Games",
+  "developerId": "o-9ftgwgez3dmjtatqz4jt9vbuxfen47",
+  "endOfSupport": false,
+  "applicationId": "fghi4567TqaL3TJzsS5PGWkib7SZe6Xw",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

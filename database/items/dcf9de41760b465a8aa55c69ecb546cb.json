@@ -1,0 +1,76 @@
+{
+  "id": "dcf9de41760b465a8aa55c69ecb546cb",
+  "title": "ATOM RPG Trudograd",
+  "description": "ATOM RPG Trudograd",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7c44e3f090b443aa9df71123419f2f74/atom-rpg-trudograd-offer-1cvfv.jpg",
+      "md5": "403c9dcb00303bb274008b648be1f015",
+      "width": 2560,
+      "height": 1440,
+      "size": 743463,
+      "uploadedDate": "2021-10-18T13:59:07.341Z",
+      "alt": "ATOM RPG Trudograd Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7c44e3f090b443aa9df71123419f2f74/download-atom-rpg-trudograd-offer-1dtf0.png",
+      "md5": "f6a61a31ea15ff0fb9c8939312541539",
+      "width": 1200,
+      "height": 1600,
+      "size": 1567727,
+      "uploadedDate": "2021-10-18T13:59:10.372Z",
+      "alt": "Download ATOM RPG Trudograd Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "41591febb4a74d7faa39819d5788f7d0",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-30T21:18:18.489Z",
+  "lastModifiedDate": "2023-05-10T18:10:02.545Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/unity.AtomTeam.Atom_Trudograd/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/AtomTeam/Atom_Trudograd/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.as"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ATOMRPGTrudograd"
+    }
+  },
+  "entitlementName": "dcf9de41760b465a8aa55c69ecb546cb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1edb6c2eeadb4b0aa3cd32cde19de1b0",
+      "appId": "6a36b7e2209c4513b483382b52800680",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "ATENT GAMES LTD",
+  "developerId": "o-2lap2qxjkr2g5pp9la5ese5t8akcy5",
+  "endOfSupport": false,
+  "applicationId": "fghi4567dNA62g0eHVXvoGlCvIuTAspE",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

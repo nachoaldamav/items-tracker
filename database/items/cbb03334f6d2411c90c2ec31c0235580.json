@@ -1,0 +1,89 @@
+{
+  "id": "cbb03334f6d2411c90c2ec31c0235580",
+  "title": "Titanfall® 2: Ultimate Edition",
+  "description": "Call down your Titan and get ready for an exhilarating first-person shooter experience in Titanfall® 2!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d8cb51d98f734380af671f14ff5ef4fc/titanfall-2-f86d7.jpg",
+      "md5": "26d3f5d58fbf2100f221a9abdb16029d",
+      "width": 2560,
+      "height": 1440,
+      "size": 604651,
+      "uploadedDate": "2024-02-15T12:23:19.497Z",
+      "alt": "Titanfall 2 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d8cb51d98f734380af671f14ff5ef4fc/titanfall-2-1ug6x.jpg",
+      "md5": "2327f6c5565481844d1535e5a663f7ff",
+      "width": 1200,
+      "height": 1600,
+      "size": 639354,
+      "uploadedDate": "2024-02-15T12:23:32.759Z",
+      "alt": "Download Titanfall 2 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0af9f54fedd4457aa7c8d23566036bdb",
+  "status": "ACTIVE",
+  "creationDate": "2024-02-09T18:59:37.402Z",
+  "lastModifiedDate": "2024-04-04T13:57:26.534Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Respawn\\Titanfall2"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "Titanfall2.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "Titanfall2.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Titanfall2wfJv8"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "cbb03334f6d2411c90c2ec31c0235580",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a8cb3b55d6c14952bff424ae1786121a",
+      "appId": "creamhorn",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

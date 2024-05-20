@@ -1,0 +1,63 @@
+{
+  "id": "4e8538faef9a45b7a29a5aed70148238",
+  "title": "Mashed",
+  "description": "Mashed",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b447041b930440eb83a7e285d57520d7/mashed-18q46.png",
+      "md5": "63f00148bebd99936a1e0dd8ac1dbdfa",
+      "width": 2560,
+      "height": 1440,
+      "size": 1796661,
+      "uploadedDate": "2022-10-09T14:26:43.837Z",
+      "alt": "Mashed Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b447041b930440eb83a7e285d57520d7/mashed-wgoyv.png",
+      "md5": "d243c3ac57878531b44c0fd224891896",
+      "width": 1200,
+      "height": 1600,
+      "size": 1124303,
+      "uploadedDate": "2022-10-09T14:26:36.242Z",
+      "alt": "Download Mashed Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ca2939a60db9448ebe1187451112604a",
+  "status": "ACTIVE",
+  "creationDate": "2022-10-09T01:15:49.514Z",
+  "lastModifiedDate": "2022-10-20T18:44:18.801Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "MashedEXWLg"
+    }
+  },
+  "entitlementName": "4e8538faef9a45b7a29a5aed70148238",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4712dbbae2e74065b207185b6f803826",
+      "appId": "eda754f1efbd45a5a2e1014ca6b13231",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Strategy First",
+  "developerId": "o-a3vefcg43bn6j4lwc7qs8n5y38jm7k",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,113 @@
+{
+  "id": "da045b62035640ec9f276031596981ca",
+  "title": "Tom Clancy's Ghost Recon",
+  "description": "Tom Clancy's Ghost Recon",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/acf914daf6034292a207051e3287f1c0/GRT_StoreLandscape_2560x1440_2560x1440-f79268e269a2b1e99eeb9934e18d3053",
+      "md5": "f79268e269a2b1e99eeb9934e18d3053",
+      "width": 2560,
+      "height": 1440,
+      "size": 1385884,
+      "uploadedDate": "2023-02-27T14:32:17.365Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/acf914daf6034292a207051e3287f1c0/GRT_StorePortrait_1200x1600_1200x1600-d93f07d7827c8cf1827e12b5d01529d5",
+      "md5": "d93f07d7827c8cf1827e12b5d01529d5",
+      "width": 1200,
+      "height": 1600,
+      "size": 887639,
+      "uploadedDate": "2023-02-27T14:32:33.677Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "acf914daf6034292a207051e3287f1c0",
+  "status": "ACTIVE",
+  "creationDate": "2022-10-10T17:21:41.950Z",
+  "lastModifiedDate": "2024-04-30T20:33:00.046Z",
+  "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "f256f70163cc4ebf8f8c6ce4cafd5df7"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GhostRecon"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "acf914daf6034292a207051e3287f1c0"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\2297"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "2297"
+    }
+  },
+  "entitlementName": "da045b62035640ec9f276031596981ca",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "72592690965e41caab779831a6ee9e49",
+      "appId": "1247db18599940f4bc89306a9c3a64a4",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "bed07b225e88437ca64dc4b8ac6cf95f",
+  "title": "Battle Ram",
+  "description": "Battle Ram",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/94a192c43a40421c942c57c99e005fcf/battle-ram-13dc6.png",
+      "md5": "465b466faa47c94d4514f0e510020f96",
+      "width": 2560,
+      "height": 1440,
+      "size": 2026359,
+      "uploadedDate": "2023-03-11T13:45:27.515Z",
+      "alt": "Battle Ram Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/94a192c43a40421c942c57c99e005fcf/battle-ram-1hj29.png",
+      "md5": "8dadb75505aae94b54bf2376eaf24d64",
+      "width": 1200,
+      "height": 1600,
+      "size": 1029901,
+      "uploadedDate": "2023-03-11T13:45:28.796Z",
+      "alt": "Download Battle Ram Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "40d23c079971446b87a1ea27232317f2",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-10T13:52:31.522Z",
+  "lastModifiedDate": "2024-01-27T10:29:19.365Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BattleRamtPN89"
+    }
+  },
+  "entitlementName": "bed07b225e88437ca64dc4b8ac6cf95f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d957001c466947faa7c6e1a9d49ae937",
+      "appId": "bc61316f54c04726b8c516a0509e0d1b",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "khukhrovr",
+  "developerId": "o-qgeep2l6rk3xldw5nf53u2td7daajh",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

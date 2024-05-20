@@ -1,0 +1,68 @@
+{
+  "id": "baa40437c2bb4024a6f8b28b3bfe377d",
+  "title": "Seal of Evil",
+  "description": "Seal of Evil",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0819dd1fca674f0b88e5963148a27c48/seal-of-evil-offer-jdv5l.png",
+      "md5": "f7fef2864ab92d61c4b4b55ddd73d8fc",
+      "width": 2560,
+      "height": 1440,
+      "size": 2095814,
+      "uploadedDate": "2022-07-02T04:07:56.665Z",
+      "alt": "Seal of Evil Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0819dd1fca674f0b88e5963148a27c48/seal-of-evil-k7pp7.png",
+      "md5": "33bcd103f0fa5801fc2e7b12081387ab",
+      "width": 1200,
+      "height": 1600,
+      "size": 4085783,
+      "uploadedDate": "2024-02-28T08:48:10.491Z",
+      "alt": "Download Seal of Evil Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "adff171404fb4af7b4c0991d0fcc5458",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-01T00:13:15.174Z",
+  "lastModifiedDate": "2024-02-29T08:26:21.497Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/System/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SealofEvil"
+    }
+  },
+  "entitlementName": "baa40437c2bb4024a6f8b28b3bfe377d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "eb6beb5df40c4f6bb9aab84e25b139d9",
+      "appId": "30574a5eb28640cf859504491b7d8e21",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Strategy First",
+  "developerId": "o-a3vefcg43bn6j4lwc7qs8n5y38jm7k",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

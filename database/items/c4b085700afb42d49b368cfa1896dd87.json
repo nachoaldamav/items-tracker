@@ -1,0 +1,64 @@
+{
+  "id": "c4b085700afb42d49b368cfa1896dd87",
+  "title": "Gas Station Simulator",
+  "description": "Gas Station Simulator",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e48463d2c1fc4e17a3860fbbc8e54edc/gas-station-simulator-1badm.jpg",
+      "md5": "33f8acaff996d98c4a3aa095dcbd7674",
+      "width": 2560,
+      "height": 1440,
+      "size": 1412232,
+      "uploadedDate": "2023-05-10T09:40:38.886Z",
+      "alt": "Gas Station Simulator Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e48463d2c1fc4e17a3860fbbc8e54edc/gas-station-simulator-180e9.jpg",
+      "md5": "5659be390013ebf8a2afa86c19993ae1",
+      "width": 1200,
+      "height": 1600,
+      "size": 723779,
+      "uploadedDate": "2023-05-10T09:40:32.252Z",
+      "alt": "Download Gas Station Simulator Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d3f97f301cb746d5b6e15424edb28afc",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-21T15:33:42.827Z",
+  "lastModifiedDate": "2024-03-21T15:57:06.920Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "GasStationSimulator"
+    }
+  },
+  "entitlementName": "c4b085700afb42d49b368cfa1896dd87",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "810fd876013a423480289db3e1813932",
+      "appId": "ba0ad8b38e5642fc8de85d2017a3d70b",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "DRAGO Entertainment S.A.",
+  "developerId": "o-s87dv6zwtwkl5lx5jhj8nvskhyj5u9",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

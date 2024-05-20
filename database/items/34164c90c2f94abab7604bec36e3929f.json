@@ -1,0 +1,75 @@
+{
+  "id": "34164c90c2f94abab7604bec36e3929f",
+  "title": "Paquerette Down the Bunburrows",
+  "description": "The buns... you HAVE to capture them!! Think outside the bunburrow or get outsmarted by bunnies in this cute pathfinding-based puzzle game!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b9472e91e58a44a7ad63886240841865/paquerette-down-the-bunburrows-tax28.jpg",
+      "md5": "c4dc443522150d237b5e14edfe2a943a",
+      "width": 2560,
+      "height": 1440,
+      "size": 168396,
+      "uploadedDate": "2023-07-24T15:17:55.449Z",
+      "alt": "Paquerette Down the Bunburrows Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b9472e91e58a44a7ad63886240841865/paquerette-down-the-bunburrows-7mys3.png",
+      "md5": "60e930adde86993de0dda286253fd3f0",
+      "width": 1200,
+      "height": 1600,
+      "size": 670586,
+      "uploadedDate": "2023-07-24T15:17:55.608Z",
+      "alt": "Download Paquerette Down the Bunburrows Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3c8f3297965d4326b0b16a6aeb968b5d",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-18T10:02:16.177Z",
+  "lastModifiedDate": "2023-08-02T14:13:33.907Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Bunstack/Paquerette Down the Bunburrows/{EpicID}/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Bunstack/Paquerette Down the Bunburrows/{EpicID}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.bunny"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PaqueretteDowntheBun"
+    }
+  },
+  "entitlementName": "34164c90c2f94abab7604bec36e3929f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cce4382ff3ea46a4a127e2d8da79e878",
+      "appId": "280b22dbb7e24f7bada5520e9d38d3a2",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Plug In Digital SAS",
+  "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

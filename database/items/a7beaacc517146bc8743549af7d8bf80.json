@@ -1,0 +1,71 @@
+{
+  "id": "a7beaacc517146bc8743549af7d8bf80",
+  "title": "Spiderbro 2",
+  "description": "Spiderbro 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b116ec72975e4abdb82cd81c048b0c89/spiderbro-2-1esf3.png",
+      "md5": "d2d07c8cc46f940066a75afb9d171123",
+      "width": 2560,
+      "height": 1440,
+      "size": 354885,
+      "uploadedDate": "2024-02-01T10:29:15.362Z",
+      "alt": "Spiderbro 2 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b116ec72975e4abdb82cd81c048b0c89/spiderbro-2-1sl8m.png",
+      "md5": "6327163aacd2bd8e75fc5a571df933fa",
+      "width": 1200,
+      "height": 1600,
+      "size": 444981,
+      "uploadedDate": "2024-02-01T10:29:15.565Z",
+      "alt": "Download Spiderbro 2 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "250201ee43c848db8a634a87a827d370",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-20T14:41:40.456Z",
+  "lastModifiedDate": "2024-04-21T12:18:14.693Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/data/saves\\/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "savedata.ddf, options.ddf, *.old"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Spiderbro2dYKUq"
+    }
+  },
+  "entitlementName": "a7beaacc517146bc8743549af7d8bf80",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d65e53a9821b4d419cb58c16bf10a9c9",
+      "appId": "b66cfddd145a48159c573d11a5291d0c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Studio Pond",
+  "developerId": "o-zd9dgbsswswpcgbw9k6luhstlu2rds",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

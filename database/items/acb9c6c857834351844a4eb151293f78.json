@@ -1,0 +1,62 @@
+{
+  "id": "acb9c6c857834351844a4eb151293f78",
+  "title": "RPG Survivors",
+  "description": "This game involves continuously defeating generated enemies to survive.\n\nWhen you defeat enemies, you have a chance to obtain gems, coins, or boxes.\n\nAccumulating gems allows you to level up, and upon leveling up, you can randomly acquire weapons or skills.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f15b5830641d40b48c26788e812ce9df/rpg-survivors-cp4fz.png",
+      "md5": "b34d7f33a08b74fbbd775f146fe774c5",
+      "width": 2560,
+      "height": 1440,
+      "size": 2309225,
+      "uploadedDate": "2024-01-16T04:34:25.208Z",
+      "alt": "RPG Survivors Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f15b5830641d40b48c26788e812ce9df/rpg-survivors-tjflm.png",
+      "md5": "d564500b07d6dd5854d2742b76e94ba1",
+      "width": 1200,
+      "height": 1600,
+      "size": 1135644,
+      "uploadedDate": "2024-01-16T04:34:22.912Z",
+      "alt": "Download RPG Survivors Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "acf4beaa800f4dbcb007623d83634582",
+  "status": "ACTIVE",
+  "creationDate": "2024-01-02T14:59:34.336Z",
+  "lastModifiedDate": "2024-01-26T02:53:28.191Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "RPGSurvivorsXLKeq"
+    }
+  },
+  "entitlementName": "acb9c6c857834351844a4eb151293f78",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ef78981ca9584c07bd548d0551186cc9",
+      "appId": "e4d33c2981d948ca86fa34b7553cca04",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "ILGDev",
+  "developerId": "o-jjkh2ejz6d4zn25hw47ad9wx2v24qk",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

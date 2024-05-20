@@ -1,0 +1,63 @@
+{
+  "id": "50833d0a1e164d5fbc81e130061b7837",
+  "title": "Moto",
+  "description": "Get on a futuristic motorcycle and go to infinity, maneuvering through traffic, to cyberpunk music.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/550c1eaffb324d34a261e9514b6c5c47/moto-691tq.jpg",
+      "md5": "8297818b6a6884dbc00210283e4f1882",
+      "width": 2560,
+      "height": 1440,
+      "size": 758462,
+      "uploadedDate": "2023-06-05T05:01:52.685Z",
+      "alt": "Moto Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/550c1eaffb324d34a261e9514b6c5c47/moto-nkvh4.jpeg",
+      "md5": "a187099134f99d0f01da265272bb6454",
+      "width": 1200,
+      "height": 1600,
+      "size": 558342,
+      "uploadedDate": "2023-06-05T04:52:23.407Z",
+      "alt": "Download Moto Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d1332913f13a4ec1a74ae177a67be056",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-03T03:22:50.647Z",
+  "lastModifiedDate": "2023-06-08T11:28:41.499Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Moto"
+    }
+  },
+  "entitlementName": "50833d0a1e164d5fbc81e130061b7837",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "86a6d977b19c481dbb6fb7afd4f920d8",
+      "appId": "36e7624922c74a618b81b0b67be42100",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Fullbrutal",
+  "developerId": "o-gbrw7jzwtded2hnr4c2gvhl25rfn7q",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

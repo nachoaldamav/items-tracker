@@ -1,0 +1,71 @@
+{
+  "id": "b00a2ae6428a4e12b42bbf3cde5c5abc",
+  "title": "Lil' Guardsman",
+  "description": "Lil' Guardsman",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b1bf5c6593c7452ea007b11259184904/lil-guardsman-yqu6q.jpg",
+      "md5": "693c08133963ddac62cb18cb3246d646",
+      "width": 2560,
+      "height": 1440,
+      "size": 277779,
+      "uploadedDate": "2023-12-08T17:30:39.725Z",
+      "alt": "Lil' Guardsman Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b1bf5c6593c7452ea007b11259184904/lil-guardsman-1u5c0.jpg",
+      "md5": "b20badab309fb868323075f0030a7af4",
+      "width": 1200,
+      "height": 1600,
+      "size": 207935,
+      "uploadedDate": "2023-12-08T17:30:39.595Z",
+      "alt": "Download Lil' Guardsman Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "33fcce6151b249118a2b7d79c1dfe6b1",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-28T16:28:55.978Z",
+  "lastModifiedDate": "2024-04-16T15:49:06.108Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/LilGuardsman_Data/SaveData/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "50"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LilGuardsmanFAkEr"
+    }
+  },
+  "entitlementName": "b00a2ae6428a4e12b42bbf3cde5c5abc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "caf053b601ed4882876bebf6fdb803af",
+      "appId": "b1716637c12b4398a53c7ca1e62f6261",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Versus Evil",
+  "developerId": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,89 @@
+{
+  "id": "06b741740cc5459baec9028693d38545",
+  "title": "Need for Speed™ Payback - Deluxe Edition",
+  "description": "The Need for Speed™ Payback Deluxe Edition gives you an edge over the competition. Stand out from the crowd with exclusive customization items and receive in-game discounts, Rep bonuses and five shipments to get your adventure started.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/00d69100f090489d9a8cd2db75ad9d8e/need-for-speed-payback-77777.jpg",
+      "md5": "708d3abf1a0cff67ab3202b16e6c7f4b",
+      "width": 2560,
+      "height": 1440,
+      "size": 764653,
+      "uploadedDate": "2024-03-09T00:28:51.781Z",
+      "alt": "Need For Speed: Payback Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/00d69100f090489d9a8cd2db75ad9d8e/need-for-speed-payback-50re7.jpg",
+      "md5": "4ec767d9dca8c82d6e47188ee86321af",
+      "width": 1200,
+      "height": 1600,
+      "size": 872689,
+      "uploadedDate": "2024-03-09T00:29:04.057Z",
+      "alt": "Download Need For Speed: Payback Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "319f44ad1aa041e58a0c8b4bed868adb",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-04T15:43:42.023Z",
+  "lastModifiedDate": "2024-03-28T14:12:10.886Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\EA Games\\Need for Speed Payback"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "NeedForSpeedPayback.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "NeedForSpeedPayback.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NeedForSpeedPayback7fA6t"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "06b741740cc5459baec9028693d38545",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ccb13c4fac314f9f8d38fba97b150f56",
+      "appId": "utap",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

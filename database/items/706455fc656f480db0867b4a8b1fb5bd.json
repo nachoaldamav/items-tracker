@@ -1,0 +1,71 @@
+{
+  "id": "706455fc656f480db0867b4a8b1fb5bd",
+  "title": "Yodanji",
+  "description": "A coffee-break roguelike themed after Japanese folklore tales. Get the ability to summon and trap yokai spirits. Admire them, and put them in the brutal ever-changing dungeon to summon even more yokai with spooky cute graphic!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9072c7a0068f438095b9548e4da048d3/yodanji-1eldp.png",
+      "md5": "1da04846e19c4ed022c6a940eb7ed549",
+      "width": 2560,
+      "height": 1440,
+      "size": 3255951,
+      "uploadedDate": "2023-04-13T05:55:12.754Z",
+      "alt": "Yodanji Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9072c7a0068f438095b9548e4da048d3/yodanji-9xiy3.png",
+      "md5": "dbb291b41c9d13a9daff556992b5d5ad",
+      "width": 1200,
+      "height": 1600,
+      "size": 2225786,
+      "uploadedDate": "2023-04-13T05:55:08.748Z",
+      "alt": "Download Yodanji Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cc91867fe9ed4055b45b10fe161771bb",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-17T04:36:54.688Z",
+  "lastModifiedDate": "2023-05-24T11:16:46.460Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/KEMCO/Yodanji/{EpicID}/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Yodanji"
+    }
+  },
+  "entitlementName": "706455fc656f480db0867b4a8b1fb5bd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e0256f58da8f44d8a68e85fedda53fd2",
+      "appId": "be40d41e3d2044adb7a9cd500ddb18db",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "KEMCO",
+  "developerId": "o-kw88hjuh6qsedxgpef9bwd3vfe6ypd",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

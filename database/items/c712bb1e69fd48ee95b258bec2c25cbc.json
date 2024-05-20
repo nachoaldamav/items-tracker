@@ -1,0 +1,61 @@
+{
+  "id": "c712bb1e69fd48ee95b258bec2c25cbc",
+  "title": "Star★Vaders",
+  "description": "Star★Vaders",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/428005aaa3c7494786425d181aeac94c/starvaders-kdu82.png",
+      "md5": "210c84493d905bc05f290b01348f8d3e",
+      "width": 2560,
+      "height": 1440,
+      "size": 3575136,
+      "uploadedDate": "2023-03-09T22:40:02.939Z",
+      "alt": "StarVaders Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/428005aaa3c7494786425d181aeac94c/starvaders-1hqd5.png",
+      "md5": "ead5bb0abddf79b99356d4cf4011a74b",
+      "width": 1200,
+      "height": 1600,
+      "size": 1805732,
+      "uploadedDate": "2023-03-09T22:40:02.274Z",
+      "alt": "Download StarVaders Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fedf1e38d23f4652894f73bc4c28122d",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-15T01:14:28.039Z",
+  "lastModifiedDate": "2023-03-15T01:14:28.039Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "StarVadersIPKXr"
+    }
+  },
+  "entitlementName": "c712bb1e69fd48ee95b258bec2c25cbc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "75e3a3d7ecb94b03ad594ce321e3fc7a",
+      "appId": "c7cc08c9625e45ce911a5312d037b3ce",
+      "platform": []
+    }
+  ],
+  "developer": "StarVaders Games",
+  "developerId": "o-afyqkx45zuxrnvf2amhn9jhqbzf5mf",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

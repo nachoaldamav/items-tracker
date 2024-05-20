@@ -1,0 +1,63 @@
+{
+  "id": "6b456eb4b5b04ffbbb884246e400dbd4",
+  "title": "field peas~Sayaendou~",
+  "description": "field peas~Sayaendou~",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5957f113beb1415ba809ac3b10e63c38/test-8qeio.png",
+      "md5": "9ae877cd2cd10b512c481c443ca988a5",
+      "width": 2560,
+      "height": 1440,
+      "size": 1329530,
+      "uploadedDate": "2023-06-29T13:08:39.856Z",
+      "alt": "test Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5957f113beb1415ba809ac3b10e63c38/test-wcfrt.png",
+      "md5": "3056d67a2a7b0b7dc8bd0aa56766a9c6",
+      "width": 1200,
+      "height": 1600,
+      "size": 899012,
+      "uploadedDate": "2023-06-29T13:08:42.636Z",
+      "alt": "Download test Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3ce6af86146c4e46b97aff18292fb25b",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-27T05:09:53.608Z",
+  "lastModifiedDate": "2023-11-24T00:54:50.744Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Sayaendou"
+    }
+  },
+  "entitlementName": "6b456eb4b5b04ffbbb884246e400dbd4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7161259c820248ec8d66daeccd7f1ac4",
+      "appId": "200ea0dcf4254e70b97a4dc84b261eda",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Takahasi",
+  "developerId": "o-y4wnp7b3s4upbepr9fzcy8wj9bgpvp",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

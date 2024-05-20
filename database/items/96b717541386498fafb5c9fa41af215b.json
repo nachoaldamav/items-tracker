@@ -1,0 +1,81 @@
+{
+  "id": "96b717541386498fafb5c9fa41af215b",
+  "title": "Dungeons 4",
+  "description": "Build a cozy and comfortable Dungeon to suit your creatures’ needs and rule over them, then send them out into the Overworld to kindly remind the good people living there that the Absolute Evil rules over their lands.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/03e531531e934f959b6d0e9763f9a0cc/dungeons-4-9pe64.jpg",
+      "md5": "9b9637917e2b5a2f42068df5aaa8a180",
+      "width": 2560,
+      "height": 1440,
+      "size": 2412021,
+      "uploadedDate": "2023-04-28T13:05:26.588Z",
+      "alt": "Dungeons 4 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/03e531531e934f959b6d0e9763f9a0cc/dungeons-4-1xpyd.png",
+      "md5": "013c628af25fbe3c1726d015bf4b7634",
+      "width": 1200,
+      "height": 1600,
+      "size": 3025485,
+      "uploadedDate": "2023-04-28T13:05:40.715Z",
+      "alt": "Download Dungeons 4 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "63afbcc46a714796af53032c2b3ed4b3",
+  "status": "ACTIVE",
+  "creationDate": "2022-08-16T07:16:24.067Z",
+  "lastModifiedDate": "2023-12-04T11:22:03.903Z",
+  "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Kalypso Media/Dungeons 4/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "savegames/*.d4,config-*.cfg"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Dungeons4"
+    },
+    "BackgroundProcessNames": {
+      "type": "STRING",
+      "value": "d4.exe,KalypsoLauncher.exe"
+    }
+  },
+  "entitlementName": "96b717541386498fafb5c9fa41af215b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "581a9af16d8341b992f32b6bb3e4d5fb",
+      "appId": "0006ee1d2caf4f91af5300c7020af3b4",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567wd6EQUhLhwfO7smustg1CDGj",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

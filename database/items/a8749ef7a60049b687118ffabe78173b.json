@@ -1,0 +1,71 @@
+{
+  "id": "a8749ef7a60049b687118ffabe78173b",
+  "title": "The Future Project",
+  "description": "The Future Project",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7a99daae4b474296a8a8e741c5da6b5d/the-future-project-12ltk.png",
+      "md5": "ae3abf9a8c5e99328cbc1a67f33049f5",
+      "width": 2560,
+      "height": 1440,
+      "size": 1513207,
+      "uploadedDate": "2023-05-08T23:47:14.374Z",
+      "alt": "The Future Project Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7a99daae4b474296a8a8e741c5da6b5d/the-future-project-q3fz5.png",
+      "md5": "9851598b8381090a72513bf027ea7fe4",
+      "width": 1200,
+      "height": 1600,
+      "size": 1202617,
+      "uploadedDate": "2023-05-08T23:47:14.738Z",
+      "alt": "Download The Future Project Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1846202a6db1495189ceefd84672b545",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-29T23:59:52.072Z",
+  "lastModifiedDate": "2023-09-05T13:09:00.134Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/FutureProject/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "AudioData.sav,SAVE SLOT 1.sav,SAVE SLOT 2.sav,SAVE SLOT 3.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheFutureProjectIb2tr"
+    }
+  },
+  "entitlementName": "a8749ef7a60049b687118ffabe78173b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8018c4f5aca54b7e9de29918855266c2",
+      "appId": "868e7425174147738e8de677779cab18",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Infinite Level",
+  "developerId": "o-cjqzp6kwsfj5f9exbgpe2bm7s7zp2k",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

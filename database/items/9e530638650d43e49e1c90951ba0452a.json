@@ -1,0 +1,67 @@
+{
+  "id": "9e530638650d43e49e1c90951ba0452a",
+  "title": "Mountaincore",
+  "description": "Mountaincore",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/dc4547eedc0d450eb22bf89c192117cd/mountaincore-1yjd6.png",
+      "md5": "76b6033be09e6e1a18a7327237eb5bf6",
+      "width": 2560,
+      "height": 1440,
+      "size": 513101,
+      "uploadedDate": "2023-04-17T12:37:37.336Z",
+      "alt": "Mountaincore Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/dc4547eedc0d450eb22bf89c192117cd/mountaincore-1tpel.png",
+      "md5": "74f54f562e08a984b5905dcd585f1014",
+      "width": 1200,
+      "height": 1600,
+      "size": 1587947,
+      "uploadedDate": "2023-04-17T12:37:38.305Z",
+      "alt": "Download Mountaincore Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bfc0ef61b6464adaac79f6b04840cc9a",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-29T10:23:48.468Z",
+  "lastModifiedDate": "2023-05-18T08:59:48.091Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/Mountaincore/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Mountaincore"
+    }
+  },
+  "entitlementName": "9e530638650d43e49e1c90951ba0452a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fed1488caae24436ad90dddb9046f412",
+      "appId": "0d16fe61e67745a3a4d3e39076e39d21",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Rocket Jump Technology",
+  "developerId": "o-9wdpdvs2cxr8wmqdmwwaqclav8gbec",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,75 @@
+{
+  "id": "5dc721927fb0445593a241c64b80c99e",
+  "title": "Golfing in Aether",
+  "description": "Minigolf for up to 16 players online, or 4 players via split screen. Features randomized course layout allowing you to experience something different every time you play.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8e81a73a7f844da182b23e4db3ee4ac6/golfing-in-aether-ga351.JPG",
+      "md5": "5d6e6c35383fbab3b96c6dc43d63bc78",
+      "width": 2560,
+      "height": 1440,
+      "size": 546733,
+      "uploadedDate": "2023-08-20T01:00:07.381Z",
+      "alt": "Golfing in Aether Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8e81a73a7f844da182b23e4db3ee4ac6/golfing-in-aether-1b7ht.JPG",
+      "md5": "0ba8df29eb62246cbbb317072f945186",
+      "width": 1200,
+      "height": 1600,
+      "size": 420032,
+      "uploadedDate": "2023-08-20T01:56:30.852Z",
+      "alt": "Download Golfing in Aether Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "40f6e4beb45a4bbfb77fdb6774331e83",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-25T20:56:59.864Z",
+  "lastModifiedDate": "2023-10-19T04:06:50.515Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/GolfingInAether/Saved\\SaveGames/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "System.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GolfingInAether"
+    }
+  },
+  "entitlementName": "5dc721927fb0445593a241c64b80c99e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6bf2e60e28924213908a5dfcec43a5e1",
+      "appId": "907e1d147ca94a70891c1f7f0bb6dd84",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Vetron",
+  "developerId": "o-u9jr7lamvsx3u7ruz4jlpqrq5xycxg",
+  "endOfSupport": false,
+  "applicationId": "fghi45678HRQ5qJI7T1leUMIfbOVLtQU",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

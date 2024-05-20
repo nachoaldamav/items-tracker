@@ -1,0 +1,69 @@
+{
+  "id": "c1ee0462c8c54d1e99dfd5d57de050b7",
+  "title": "Epsylon",
+  "description": "Epsylon",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c60e6e13e6624cd99f80b21aba865506/epsylon-15jsg.jpg",
+      "md5": "880bb7b5d96a2a44a9671f252d90bf35",
+      "width": 2560,
+      "height": 1440,
+      "size": 3118949,
+      "uploadedDate": "2023-12-09T18:50:14.445Z",
+      "alt": "epsylon Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c60e6e13e6624cd99f80b21aba865506/epsylon-vfipk.jpg",
+      "md5": "37056549856d38edc2b6a08edd777c97",
+      "width": 1200,
+      "height": 1600,
+      "size": 1937850,
+      "uploadedDate": "2023-12-09T18:50:09.521Z",
+      "alt": "Download epsylon Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4b9bf181ec404f99bf552046c6b25ca0",
+  "status": "ACTIVE",
+  "creationDate": "2024-02-08T17:00:05.735Z",
+  "lastModifiedDate": "2024-02-08T17:00:05.735Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/DELaunchers/Config/games/2fb42dd9-f250-4b80-ae87-f12b0a49af1b/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "config/*,capture/*"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "epsylonK4GmK"
+    }
+  },
+  "entitlementName": "c1ee0462c8c54d1e99dfd5d57de050b7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b3ed8f597ef242dfa2ed0eacbd29bf87",
+      "appId": "076b7ca2590349d7bbc73a55524778d7",
+      "platform": []
+    }
+  ],
+  "developer": "DragonDreams GmbH",
+  "developerId": "o-bnm4spuy8aq82arvejdd4s2235ykj2",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

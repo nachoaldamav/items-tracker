@@ -1,0 +1,59 @@
+{
+  "id": "8e549f4508804b3f83c9b726d6c894b8",
+  "title": "Mara's Quest",
+  "description": "Mara's Quest",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c62048d6f0b246dba09adbd0e1669a7f/maras-quest-fohv2.png",
+      "md5": "52a149992e43c4641bd86bed9e7e1c31",
+      "width": 2560,
+      "height": 1440,
+      "size": 2284395,
+      "uploadedDate": "2023-04-07T18:15:49.180Z",
+      "alt": "Mara's Quest Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c62048d6f0b246dba09adbd0e1669a7f/maras-quest-mwjnj.png",
+      "md5": "6451b9636bf00cbe5e380f5161fd7601",
+      "width": 1200,
+      "height": 1600,
+      "size": 1399877,
+      "uploadedDate": "2023-04-07T18:15:51.244Z",
+      "alt": "Download Mara's Quest Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "297c38d4f1954616870953b2d3ce1963",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-27T04:20:56.928Z",
+  "lastModifiedDate": "2023-04-27T04:20:56.928Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "MarasQuestrcVKh"
+    }
+  },
+  "entitlementName": "8e549f4508804b3f83c9b726d6c894b8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3101cf43ecca4cc5a5c90a67d8d18a1f",
+      "appId": "bae9d9d67ece49daaeb2d73d1a3160b5"
+    }
+  ],
+  "developer": "Drunken Dart Studios",
+  "developerId": "o-npb55fbcrkrjyu2q697u8bc36be22n",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

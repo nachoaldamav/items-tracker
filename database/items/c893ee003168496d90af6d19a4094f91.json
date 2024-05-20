@@ -1,0 +1,71 @@
+{
+  "id": "c893ee003168496d90af6d19a4094f91",
+  "title": "The Chronos Event",
+  "description": "The Chronos Event",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a847ec7c26854cb98c8a70c845366a28/the-chronos-event-1whw3.png",
+      "md5": "513fcf8fa8613f9227d634ecf2f03b60",
+      "width": 2560,
+      "height": 1440,
+      "size": 2537867,
+      "uploadedDate": "2023-09-06T02:46:04.101Z",
+      "alt": "The Chronos Event Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a847ec7c26854cb98c8a70c845366a28/the-chronos-event-1337c.png",
+      "md5": "2383862441f1a1eb427a340b78a81bd5",
+      "width": 1200,
+      "height": 1600,
+      "size": 1671612,
+      "uploadedDate": "2023-09-06T03:23:22.951Z",
+      "alt": "Download The Chronos Event Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b08609c40a8b465ea288d96ba71b2088",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-07T12:11:00.587Z",
+  "lastModifiedDate": "2023-09-07T12:11:00.587Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/ChronosEvent/Saved/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav,*Input.ini"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheChronosEvent"
+    }
+  },
+  "entitlementName": "c893ee003168496d90af6d19a4094f91",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8926b0c78b744d6d8ea1ea7e3f918791",
+      "appId": "5678e54de9db45d2b861858ec4397744",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Superjump Games, LLC",
+  "developerId": "o-pdsuxgpwuqnhpe65d4slbp3uhpxw94",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

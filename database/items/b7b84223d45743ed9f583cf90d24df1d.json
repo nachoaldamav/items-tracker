@@ -1,0 +1,68 @@
+{
+  "id": "b7b84223d45743ed9f583cf90d24df1d",
+  "title": "The Wraith of the Galaxy",
+  "description": "The Wraith of the Galaxy is a third-person space combat game. Aliens have taken over outer space in order to conduct experiments on entire planets. Destroy them or they will destroy you.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e5d29db02adc4286a6c812fe063a41c2/the-wraith-of-the-galaxy-155vm.png",
+      "md5": "d8cfdca1c1ee3457f9b80b03e8a01315",
+      "width": 2560,
+      "height": 1440,
+      "size": 2377889,
+      "uploadedDate": "2024-03-11T21:28:32.944Z",
+      "alt": "The Wraith of the Galaxy Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e5d29db02adc4286a6c812fe063a41c2/the-wraith-of-the-galaxy-1n9mq.png",
+      "md5": "f819458eaf1786bff51d574094567132",
+      "width": 1200,
+      "height": 1600,
+      "size": 1197972,
+      "uploadedDate": "2024-03-11T21:28:31.887Z",
+      "alt": "Download The Wraith of the Galaxy Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "daed3ae775ab4986a0ce9ec1c3daab83",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-13T23:22:44.127Z",
+  "lastModifiedDate": "2024-03-13T23:22:44.127Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/TheWraithoftheGalaxy/CloudSave/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheWraithoftheGalaxy"
+    }
+  },
+  "entitlementName": "b7b84223d45743ed9f583cf90d24df1d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "534334f235594832b8a2de7260f81c02",
+      "appId": "17db0b4399d041cb8ad91cc4da466585",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Whale Rock Games LLC",
+  "developerId": "o-z8ex63yvz4ye54cfgwhdu3zxz4tpja",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

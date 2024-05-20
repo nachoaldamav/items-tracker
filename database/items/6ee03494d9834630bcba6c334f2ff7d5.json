@@ -1,0 +1,73 @@
+{
+  "id": "6ee03494d9834630bcba6c334f2ff7d5",
+  "title": "KARJALA",
+  "description": "KARJALA",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f9c24f10d3594c408605d64ec0af6b1f/karjala-19h5t.png",
+      "md5": "7c76da0cf66ff44b00e7cc4e19d0ef3b",
+      "width": 2560,
+      "height": 1440,
+      "size": 3540982,
+      "uploadedDate": "2024-03-12T09:39:42.671Z",
+      "alt": "KARJALA Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f9c24f10d3594c408605d64ec0af6b1f/karjala-1h1gw.png",
+      "md5": "b3f2f7a7c491bce2e4f6800f998cfd51",
+      "width": 1200,
+      "height": 1600,
+      "size": 1725687,
+      "uploadedDate": "2024-03-12T09:39:41.155Z",
+      "alt": "Download KARJALA Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "72aad6a073a644afb21d0966e2737c42",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-11T08:34:09.030Z",
+  "lastModifiedDate": "2024-03-12T13:38:31.723Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserDir}/SCP_HS2_save/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/SCP_HS2_save/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KARJALA"
+    }
+  },
+  "entitlementName": "6ee03494d9834630bcba6c334f2ff7d5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "94cdd105e7d2458297c3bdbda43123e0",
+      "appId": "3f0c550192d143749831e0cb5b323bd0",
+      "platform": []
+    }
+  ],
+  "developer": "Advance Studio Games",
+  "developerId": "o-hrtpkawrvkrwsldwmjk5lmfslfqfqu",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

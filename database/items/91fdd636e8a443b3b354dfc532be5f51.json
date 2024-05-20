@@ -1,0 +1,63 @@
+{
+  "id": "91fdd636e8a443b3b354dfc532be5f51",
+  "title": "Backpack Hero",
+  "description": "The inventory management roguelike! Collect rare items, organize your backpack, and vanquish your foes!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/da842a6b6e324c39b54b16910856bdb3/backpack-hero-1jin1.jpg",
+      "md5": "6a7301d957067ce9bff02a5aa0a28a50",
+      "width": 2560,
+      "height": 1440,
+      "size": 1204386,
+      "uploadedDate": "2023-11-06T16:57:14.540Z",
+      "alt": "Backpack Hero Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/da842a6b6e324c39b54b16910856bdb3/backpack-hero-mad3o.png",
+      "md5": "54a8686d67c86ab6fbb53fc6932ed084",
+      "width": 1200,
+      "height": 1600,
+      "size": 2557059,
+      "uploadedDate": "2023-11-06T16:57:19.224Z",
+      "alt": "Download Backpack Hero Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0dc17d69dbfa4dd7b4eeb480d3adad6d",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-10T15:00:11.691Z",
+  "lastModifiedDate": "2023-12-08T11:08:16.344Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BackpackHerog4I7F"
+    }
+  },
+  "entitlementName": "91fdd636e8a443b3b354dfc532be5f51",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7c6fa6e8a7b6498dbb017d8e2f0d93fb",
+      "appId": "c2568782280f414aa8476c9fba8bfd60",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Different Tales S.A.",
+  "developerId": "o-j8dsgh9bnmwgkjuyts7cyffpkfc3yk",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

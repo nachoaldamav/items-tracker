@@ -1,0 +1,61 @@
+{
+  "id": "0bfe2cd1c80f458ba5c4ea6ab7aa04eb",
+  "title": "Venatur",
+  "description": "Venatur",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/afe2b362d9c147088fc2bd931adb0de4/venatur-1362w.png",
+      "md5": "aee4ac81e81d5fed65df0d41528764f7",
+      "width": 2560,
+      "height": 1440,
+      "size": 1307623,
+      "uploadedDate": "2023-09-27T09:47:49.144Z",
+      "alt": "Venatur Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/afe2b362d9c147088fc2bd931adb0de4/venatur-43wg9.png",
+      "md5": "35fc261df0b2db102b25d93610cfd05b",
+      "width": 1200,
+      "height": 1600,
+      "size": 629387,
+      "uploadedDate": "2023-10-16T22:19:44.589Z",
+      "alt": "Download Venatur Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ac4ba4393ede46f1960596d753b6222c",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-30T23:58:19.096Z",
+  "lastModifiedDate": "2023-12-15T22:46:29.910Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Venatur"
+    }
+  },
+  "entitlementName": "0bfe2cd1c80f458ba5c4ea6ab7aa04eb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4d80cfca9e0447e4aff8e5c90f5237ff",
+      "appId": "e15e332a30a54110bb9cbea5d89d52e8",
+      "platform": []
+    }
+  ],
+  "developer": "Siba Games srls",
+  "developerId": "o-d7apkx65hll3ybusp3rtyk9etyphqy",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

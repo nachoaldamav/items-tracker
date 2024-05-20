@@ -1,0 +1,61 @@
+{
+  "id": "8cdd0709f122420d8ac802d11484b0b6",
+  "title": "Nyan Heroes",
+  "description": "Nyan Heroes is a team-based hero shooter featuring cats piloting mechs. Master unique abilities and advanced feline movement. Customize your mech loadout with weapons and mods. Even after your mech falls in combat, your cat skills can still turn the tide of battle for your team!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/64502ad36cbc499399e9b795922446a4/nyan-heroes-1k8s8.png",
+      "md5": "542e39898c7b7ceb86cfbf8d3d047221",
+      "width": 2560,
+      "height": 1440,
+      "size": 3423195,
+      "uploadedDate": "2023-12-13T09:01:00.164Z",
+      "alt": "Nyan Heroes Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/64502ad36cbc499399e9b795922446a4/nyan-heroes-1v55s.png",
+      "md5": "bb8c771d4375878d71c414e8355eecc9",
+      "width": 1200,
+      "height": 1600,
+      "size": 2304226,
+      "uploadedDate": "2023-12-13T09:29:18.387Z",
+      "alt": "Download Nyan Heroes Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8e8c6752bd704123adc71241c92e7bce",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-13T21:03:35.356Z",
+  "lastModifiedDate": "2024-03-15T18:27:07.936Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "NyanHeroes"
+    }
+  },
+  "entitlementName": "8cdd0709f122420d8ac802d11484b0b6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "100361543f074632b33b11991989d74c",
+      "appId": "fb43a8cb445643589094ed1c30a0741e",
+      "platform": []
+    }
+  ],
+  "developer": "9 Lives Interactive",
+  "developerId": "o-kexxctktpcz9wpbd4zy86mf7qg8zft",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

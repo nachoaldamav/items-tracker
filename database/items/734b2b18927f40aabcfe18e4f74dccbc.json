@@ -1,0 +1,63 @@
+{
+  "id": "734b2b18927f40aabcfe18e4f74dccbc",
+  "title": "HELIX",
+  "description": "HELIX",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/48795fef9fae402c87bc5a0304de4e01/helix-metaverse-bcxhr.png",
+      "md5": "f098db3fab7a38c910af0b1922cc0d6c",
+      "width": 2560,
+      "height": 1440,
+      "size": 1192402,
+      "uploadedDate": "2023-06-27T23:43:48.716Z",
+      "alt": "HELIX Metaverse Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/48795fef9fae402c87bc5a0304de4e01/helix-metaverse-oqsbl.png",
+      "md5": "6e10090a66d499a05043903264902eaf",
+      "width": 1200,
+      "height": 1600,
+      "size": 2059455,
+      "uploadedDate": "2023-06-27T23:43:50.303Z",
+      "alt": "Download HELIX Metaverse Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bfaeb968e658400db8cc48fd4bae1081",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-09T23:37:36.844Z",
+  "lastModifiedDate": "2024-02-24T01:08:56.078Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "HELIX"
+    }
+  },
+  "entitlementName": "734b2b18927f40aabcfe18e4f74dccbc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "663e36ee41494b16986f85d4656bf760",
+      "appId": "ffee67fbbaee44a7b2005123aa0942ca",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Hypersonic Laboratories",
+  "developerId": "o-judldp9qz8x6w4rkwu5tf4xspqehys",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "163c4373207c493981d6b7733e8f6b17",
+  "title": "GarbageGame",
+  "description": "GarbageGame",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/87c91f4ce6b649359d84d3b9a2f57e34/garbagegame-sqtqm.png",
+      "md5": "06285693abdc24178c8bee4c3e591701",
+      "width": 2560,
+      "height": 1440,
+      "size": 61057,
+      "uploadedDate": "2023-08-22T01:05:57.645Z",
+      "alt": "GarbageGame Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/87c91f4ce6b649359d84d3b9a2f57e34/garbagegame-aytjp.png",
+      "md5": "a8a0446825b45d23772f9942bafebf24",
+      "width": 1200,
+      "height": 1600,
+      "size": 62825,
+      "uploadedDate": "2023-08-22T01:06:00.493Z",
+      "alt": "Download GarbageGame Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9a3d7a156a6f48b4820ba163ef684b12",
+  "status": "ACTIVE",
+  "creationDate": "2023-08-29T15:26:09.621Z",
+  "lastModifiedDate": "2023-08-29T15:26:09.621Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "GarbageGame"
+    }
+  },
+  "entitlementName": "163c4373207c493981d6b7733e8f6b17",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "436efe617abd47db8f3d5c765b15918f",
+      "appId": "baf74aaf00424c9d9e6804980a415625",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Alocasia",
+  "developerId": "o-r3lmghdrqjpdutcjuut8av4hbyhc59",
+  "endOfSupport": false,
+  "applicationId": "fghi4567qM157ccvNXjH53tkUshp6u0i",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

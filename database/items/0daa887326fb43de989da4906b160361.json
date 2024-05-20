@@ -1,0 +1,61 @@
+{
+  "id": "0daa887326fb43de989da4906b160361",
+  "title": "Arco",
+  "description": "Arco",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/66f3d92493f447ba97a2c4ae9baec62e/arco-1pbzq.jpg",
+      "md5": "470d81445cff0d2b99a426621924d34c",
+      "width": 2560,
+      "height": 1440,
+      "size": 741618,
+      "uploadedDate": "2023-08-07T20:25:53.851Z",
+      "alt": "Arco Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/66f3d92493f447ba97a2c4ae9baec62e/arco-rgblz.jpg",
+      "md5": "22245f975ce28649443a273f697772f4",
+      "width": 1200,
+      "height": 1600,
+      "size": 429463,
+      "uploadedDate": "2023-08-07T20:25:59.745Z",
+      "alt": "Download Arco Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1d34bec4cdd44038b6568636855d07eb",
+  "status": "ACTIVE",
+  "creationDate": "2023-08-29T17:00:35.633Z",
+  "lastModifiedDate": "2023-08-29T17:00:35.633Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Arco"
+    }
+  },
+  "entitlementName": "0daa887326fb43de989da4906b160361",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "96f4529ca6d34c06b359b687dc1cdf88",
+      "appId": "2d3f5097053b458f9dcc0b1797f6c5e0",
+      "platform": []
+    }
+  ],
+  "developer": "Panic",
+  "developerId": "o-a62axwpwx275msq4yzhdhk9acaf8x3",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

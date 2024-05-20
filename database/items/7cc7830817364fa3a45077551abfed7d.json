@@ -1,0 +1,68 @@
+{
+  "id": "7cc7830817364fa3a45077551abfed7d",
+  "title": "Metal Mind",
+  "description": "Description is not set",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7a89e61918a941289b86034a42ffaf96/metal-mind-f8ylv.jpg",
+      "md5": "d0a8808df54f64553088576404d46f50",
+      "width": 2560,
+      "height": 1440,
+      "size": 1836717,
+      "uploadedDate": "2024-01-29T07:20:53.795Z",
+      "alt": "Metal Mind Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7a89e61918a941289b86034a42ffaf96/metal-mind-kx158.jpg",
+      "md5": "c776b5018c3bc24bde0d236a07c66dcc",
+      "width": 1200,
+      "height": 1600,
+      "size": 991570,
+      "uploadedDate": "2024-01-29T07:20:57.827Z",
+      "alt": "Download Metal Mind Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "973ea9bd62374be5bb84ef2c8d096c56",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-20T06:35:16.119Z",
+  "lastModifiedDate": "2024-02-27T08:38:39.263Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/HammondProject/MetalMind/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MetalMindcIdBO"
+    }
+  },
+  "entitlementName": "7cc7830817364fa3a45077551abfed7d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2e0c5411e9ab47178311bc42464a57a3",
+      "appId": "3dfbad801fd44759ad0db540cb797997",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Hong Kong Gamease Technology",
+  "developerId": "o-u8cmhbewvprua5lcknwahxs43ner79",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

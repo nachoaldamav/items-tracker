@@ -1,0 +1,62 @@
+{
+  "id": "b82bc0170c8a4dc785531356a72dbe25",
+  "title": "United Football",
+  "description": "United Football",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e715059f8f5d4313bd37c184004de198/united-football-t1g12.png",
+      "md5": "de57fb601903076c0b47e9e0473ac551",
+      "width": 2560,
+      "height": 1440,
+      "size": 2915549,
+      "uploadedDate": "2023-11-11T10:12:01.007Z",
+      "alt": "United Football Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e715059f8f5d4313bd37c184004de198/united-football-1a7u9.png",
+      "md5": "94ba6925b84d473377183cff9dc0d205",
+      "width": 1200,
+      "height": 1600,
+      "size": 1143323,
+      "uploadedDate": "2023-11-11T10:12:22.441Z",
+      "alt": "Download United Football Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1d310592736346c7a93dc20b92a394d2",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-27T12:26:04.483Z",
+  "lastModifiedDate": "2023-11-15T18:09:11.814Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "UnitedFootball9wvVu"
+    }
+  },
+  "entitlementName": "b82bc0170c8a4dc785531356a72dbe25",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8e07f3f69d3a4c559e48b2d746275ef5",
+      "appId": "d0c8c97f071e40b09237d331fd38e14d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "MetaverseME Ltd",
+  "developerId": "o-ptb5ahvdv2ts38kbhmt2ljuh8mbcsy",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,62 @@
+{
+  "id": "9eb26b3443ea488193cd7dce8add9f60",
+  "title": "Eden's Lair",
+  "description": "Eden's Lair",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/733a661b34c944638cf1fd066578f063/edens-lair-17eqs.png",
+      "md5": "4a52457ad3a0d01f679a4a2cd470c344",
+      "width": 2560,
+      "height": 1440,
+      "size": 2804193,
+      "uploadedDate": "2024-04-20T00:12:44.697Z",
+      "alt": "Eden's Lair Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/733a661b34c944638cf1fd066578f063/edens-lair-1lp8o.png",
+      "md5": "5f825d58f636836228522c43d6b5fbae",
+      "width": 1200,
+      "height": 1600,
+      "size": 1217831,
+      "uploadedDate": "2024-04-22T21:25:06.716Z",
+      "alt": "Download Eden's Lair Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ccd6a64f13f64c37a00d6160331cdecd",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-23T23:00:11.332Z",
+  "lastModifiedDate": "2024-04-23T23:00:11.332Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "EdensLairF2IQT"
+    }
+  },
+  "entitlementName": "9eb26b3443ea488193cd7dce8add9f60",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "502a1a4cfec14495baf89cb7b50cd32e",
+      "appId": "24e2417fb1e842529d3412b467bdc25a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Hallowed-Gin",
+  "developerId": "o-rnr5h9m8b644ud9dusa7ydra2wsbmz",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

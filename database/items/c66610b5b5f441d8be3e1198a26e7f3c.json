@@ -1,0 +1,64 @@
+{
+  "id": "c66610b5b5f441d8be3e1198a26e7f3c",
+  "title": "Falling Out",
+  "description": "FALLING OUT is a light-hearted roguelite platformer where you take control of an oddball couple who are on a holiday from hell. Work together as you navigate randomly generated temples all whilst dodging traps, slaying enemies and crafting weapons to escape before the flood!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6e98b0702bf24d2eac88a5a8981337a9/falling-out-1fqnj.jpg",
+      "md5": "44cdb4b4ad5ece7eef3493e0b31ac008",
+      "width": 2560,
+      "height": 1440,
+      "size": 751986,
+      "uploadedDate": "2023-03-03T14:26:42.999Z",
+      "alt": "Falling Out Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6e98b0702bf24d2eac88a5a8981337a9/falling-out-paxtq.png",
+      "md5": "8877b1a7a639c4116f1fe65032564112",
+      "width": 1200,
+      "height": 1600,
+      "size": 2906752,
+      "uploadedDate": "2023-03-03T14:26:52.665Z",
+      "alt": "Download Falling Out Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ed6176b67a4e415db5e35e645d4e3ac8",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-13T10:13:33.635Z",
+  "lastModifiedDate": "2023-09-07T12:12:31.906Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "FallingOut"
+    }
+  },
+  "entitlementName": "c66610b5b5f441d8be3e1198a26e7f3c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ab32b36b1e4840a9a7610979564dd702",
+      "appId": "a6c25b5f5ccc4aebb368e23a497c3c9d",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Firestoke",
+  "developerId": "o-dndzawzjm53jd66sydycz6gxmr6k5c",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

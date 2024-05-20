@@ -1,0 +1,63 @@
+{
+  "id": "dc14e8c0abf1493498cf65ff9a5e9b36",
+  "title": "Arkanoid - Eternal Battle",
+  "description": "Arkanoid - Eternal Battle",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/973f4aae211b472c9cb766f47d88d8d0/arkanoid--eternal-battle-offer-nolqy.jpg",
+      "md5": "248e2d48ace6d6ca0697859d78df2d68",
+      "width": 2560,
+      "height": 1440,
+      "size": 1680812,
+      "uploadedDate": "2022-08-25T08:24:16.673Z",
+      "alt": "Arkanoid - Eternal Battle Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/973f4aae211b472c9cb766f47d88d8d0/download-arkanoid--eternal-battle-offer-115pt.jpg",
+      "md5": "c7321c3dd8629c016d7b89955bced513",
+      "width": 1200,
+      "height": 1600,
+      "size": 880653,
+      "uploadedDate": "2022-08-25T08:24:18.348Z",
+      "alt": "Download Arkanoid - Eternal Battle Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "935f1f4777c84a1c8c9d8cd995deb6e7",
+  "status": "ACTIVE",
+  "creationDate": "2022-08-11T08:23:26.834Z",
+  "lastModifiedDate": "2024-03-29T09:00:20.080Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ArkanoidEternalBattle"
+    }
+  },
+  "entitlementName": "dc14e8c0abf1493498cf65ff9a5e9b36",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7209a8f8e5ba446ca885725fda2ff258",
+      "appId": "c80b2ad68f934e2680f77b178f9e5981",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Microids",
+  "developerId": "o-lyvtyhgthgebq7jdg4wu6km9lyjp2h",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

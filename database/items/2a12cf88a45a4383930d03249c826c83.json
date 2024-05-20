@@ -1,0 +1,71 @@
+{
+  "id": "2a12cf88a45a4383930d03249c826c83",
+  "title": "Volley Pals",
+  "description": "A chaotic, cartoon style arcade volleyball game with local multiplayer for up to 4 people. It's designed as a party game with each level featuring different themes and mechanics.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a74c2de08cb649aeb2d25c9caf909607/volley-pals-1hwk5.png",
+      "md5": "347adc00dccf87b96018144878a4110c",
+      "width": 2560,
+      "height": 1440,
+      "size": 3398839,
+      "uploadedDate": "2023-03-24T05:11:54.316Z",
+      "alt": "Volley Pals Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a74c2de08cb649aeb2d25c9caf909607/volley-pals-gw9k8.png",
+      "md5": "1c7a81d3cb8e82d2dbc2c5a9e7d41164",
+      "width": 1200,
+      "height": 1600,
+      "size": 2224682,
+      "uploadedDate": "2023-03-24T05:11:54.630Z",
+      "alt": "Download Volley Pals Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "18ba5ade23ee4b49a65d84712ef4c895",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-14T19:39:54.919Z",
+  "lastModifiedDate": "2023-07-23T09:36:33.980Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/NAISU/Volley Pals/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "5"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "VolleyPals8ql6H"
+    }
+  },
+  "entitlementName": "2a12cf88a45a4383930d03249c826c83",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b18ac1aec7b64f668be9af32bfeeccef",
+      "appId": "b913aaf7bb5c4d77beeafc28a6c2d47d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "NAISU",
+  "developerId": "o-v73y7hsuy6ac4bj4nthzecrgpup96p",
+  "endOfSupport": false,
+  "applicationId": "fghi4567vZK3Erp7z5ijOaoKrGEyJ1XH",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

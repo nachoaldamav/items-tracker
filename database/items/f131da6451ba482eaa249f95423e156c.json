@@ -1,0 +1,75 @@
+{
+  "id": "f131da6451ba482eaa249f95423e156c",
+  "title": "Stone Guardian",
+  "description": "Stone Guardian",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/cd421764c6dc45e1983b92ef47f67013/stone-guardian-p3ohu.png",
+      "md5": "902717a6fc22c3dd9fed55922911e02b",
+      "width": 2560,
+      "height": 1440,
+      "size": 766201,
+      "uploadedDate": "2023-11-22T09:21:30.847Z",
+      "alt": "Stone Guardian Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/cd421764c6dc45e1983b92ef47f67013/stone-guardian-urtls.png",
+      "md5": "9d7859984bf4b6c7304ddd0302e2f7eb",
+      "width": 1200,
+      "height": 1600,
+      "size": 596600,
+      "uploadedDate": "2023-11-22T09:16:56.502Z",
+      "alt": "Download Stone Guardian Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "97e89a0da1004cdfb0661afb798fc495",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-17T13:44:57.113Z",
+  "lastModifiedDate": "2023-12-06T19:59:12.226Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Kristapsmadeapp/Stone Guardian/SaveData/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "progress.stn,audio.stn,keybindings.stn"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "5"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "StoneGuardian8sXuR"
+    }
+  },
+  "entitlementName": "f131da6451ba482eaa249f95423e156c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "266784db0ed4445f8c447737a9c8f747",
+      "appId": "bf788e25cb6c49cd809fd394c1b306da",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Kristapsmadeapp",
+  "developerId": "o-6frrkesx3p7qqz2stskdpgw7ghekm4",
+  "endOfSupport": false,
+  "applicationId": "fghi4567mxni053BXWTSdrKfqqDHNric",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

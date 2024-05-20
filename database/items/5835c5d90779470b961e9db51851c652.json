@@ -1,0 +1,63 @@
+{
+  "id": "5835c5d90779470b961e9db51851c652",
+  "title": "My Pet Hooligan",
+  "description": "My Pet Hooligan",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-2pdte.jpg",
+      "md5": "d13ac0389dadd1a26b97898d72498bd8",
+      "width": 2560,
+      "height": 1440,
+      "size": 1316678,
+      "uploadedDate": "2023-06-15T23:06:17.908Z",
+      "alt": "My Pet Hooligan Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-1t7n4.png",
+      "md5": "10067611c61e28b61b0b928a80eb9c75",
+      "width": 1200,
+      "height": 1600,
+      "size": 2315385,
+      "uploadedDate": "2023-06-15T23:06:18.147Z",
+      "alt": "Download My Pet Hooligan Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ef233d1e2619445a887f0380266aa4b5",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-05T21:17:36.909Z",
+  "lastModifiedDate": "2024-04-10T01:50:37.560Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "MyPetHooligan"
+    }
+  },
+  "entitlementName": "5835c5d90779470b961e9db51851c652",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cf02d149459a4eb3b9a96bc5e2f3f101",
+      "appId": "0ddc48f6812b447e9834bd7a474b627b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "AMGI Animation",
+  "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+  "endOfSupport": false,
+  "applicationId": "fghi4567iDBsecRTDnm9cVimdt1r7T4m",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

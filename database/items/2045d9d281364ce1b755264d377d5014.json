@@ -1,0 +1,63 @@
+{
+  "id": "2045d9d281364ce1b755264d377d5014",
+  "title": "BoxR",
+  "description": "BoxR",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1d9a4913a9de4febbe838de9660931b1/boxr-ey9ac.png",
+      "md5": "bb017c0673dd71a1e08e87d1807aa03f",
+      "width": 2560,
+      "height": 1440,
+      "size": 37531,
+      "uploadedDate": "2023-04-05T01:57:12.055Z",
+      "alt": "boxr Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1d9a4913a9de4febbe838de9660931b1/boxr-1q58x.png",
+      "md5": "8179fe7ee0430fd01a0c50f0c2013362",
+      "width": 1200,
+      "height": 1600,
+      "size": 30310,
+      "uploadedDate": "2023-04-05T01:57:12.147Z",
+      "alt": "Download boxr Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "149c9c27b21f41d59b124443042dbfb4",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-03T01:25:10.655Z",
+  "lastModifiedDate": "2023-04-05T01:57:22.579Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "boxrzpJcU"
+    }
+  },
+  "entitlementName": "2045d9d281364ce1b755264d377d5014",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5edc82d3a5a344f2b7c4441861a47033",
+      "appId": "ff9d689ab7c742888d681c23975b53d2",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Bartimus",
+  "developerId": "o-6h8k7p7uhtyn6snee9tz5ladzez3tg",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

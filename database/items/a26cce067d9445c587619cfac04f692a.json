@@ -1,0 +1,71 @@
+{
+  "id": "a26cce067d9445c587619cfac04f692a",
+  "title": "Match Village",
+  "description": "Match Village is a minimalist puzzle and strategy experience about matching buildings to build villages on colorful islands.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7b5f207bd1b54f8480e0c87f499b4072/match-village-1bq3u.png",
+      "md5": "7f6d5ed21e9f9207563dea2ff5be69a4",
+      "width": 2560,
+      "height": 1440,
+      "size": 2222742,
+      "uploadedDate": "2023-05-11T11:53:13.675Z",
+      "alt": "Match Village Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7b5f207bd1b54f8480e0c87f499b4072/match-village-gmgac.png",
+      "md5": "68b6149cbfbfd5fa1b0741c30079f3a6",
+      "width": 1200,
+      "height": 1600,
+      "size": 1574239,
+      "uploadedDate": "2023-05-11T11:53:13.863Z",
+      "alt": "Download Match Village Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "09508f70d8d44e108e89ebcc7114ec4f",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-11T14:59:48.759Z",
+  "lastModifiedDate": "2023-05-24T12:57:52.581Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Match Village_Data/Saves/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MatchVillage"
+    }
+  },
+  "entitlementName": "a26cce067d9445c587619cfac04f692a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3052c327d0ad406a90659334ababdc67",
+      "appId": "a21f1041cc5e4b84a064169b43530ad6",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "MORAES TECNOLOGIA LTDA",
+  "developerId": "o-sqf2zdxs76c6u7v97pb89992nn2cq3",
+  "endOfSupport": false,
+  "applicationId": "fghi4567Ivt5P1124eNDvl0CbTyNzT3H",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

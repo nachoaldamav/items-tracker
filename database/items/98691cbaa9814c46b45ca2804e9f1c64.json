@@ -1,0 +1,59 @@
+{
+  "id": "98691cbaa9814c46b45ca2804e9f1c64",
+  "title": "Everholm",
+  "description": "Everholm",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/aae47d5475b44e96a0a75ffc2995a7d1/everholm-1etwr.png",
+      "md5": "12b17b0a06be7345e3874193d9925253",
+      "width": 2560,
+      "height": 1440,
+      "size": 2968471,
+      "uploadedDate": "2023-04-26T18:50:56.824Z",
+      "alt": "Everholm Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/aae47d5475b44e96a0a75ffc2995a7d1/everholm-1c3ue.png",
+      "md5": "7afb2b43a6fd4e9f3dfc7832aaae3944",
+      "width": 1200,
+      "height": 1600,
+      "size": 1178441,
+      "uploadedDate": "2023-04-26T18:50:56.445Z",
+      "alt": "Download Everholm Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8d4761cc7fe34e45b15831b4ea5f0ffb",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-27T19:33:30.268Z",
+  "lastModifiedDate": "2023-04-27T19:33:30.268Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "EverholmIHrac"
+    }
+  },
+  "entitlementName": "98691cbaa9814c46b45ca2804e9f1c64",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "404a223472164ebe9ec31c49214e8dd5",
+      "appId": "339f2e70288d4be6b72aa8123315f08e"
+    }
+  ],
+  "developer": "Freedom Games",
+  "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

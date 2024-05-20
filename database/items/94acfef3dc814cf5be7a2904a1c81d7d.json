@@ -1,0 +1,72 @@
+{
+  "id": "94acfef3dc814cf5be7a2904a1c81d7d",
+  "title": "Shadow Vault",
+  "description": "Shadow Vault",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/15b096dfc729465b8af8d6b2fd466f14/shadow-vault-17pmf.png",
+      "md5": "6b104e49bbd56377a561d742ef68dbe8",
+      "width": 2560,
+      "height": 1440,
+      "size": 2827246,
+      "uploadedDate": "2023-12-20T15:11:14.700Z",
+      "alt": "Shadow Vault Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/15b096dfc729465b8af8d6b2fd466f14/shadow-vault-1cajl.png",
+      "md5": "60abe1e3dc250ad39418c347b280ceae",
+      "width": 1200,
+      "height": 1600,
+      "size": 2417278,
+      "uploadedDate": "2023-12-20T15:11:15.767Z",
+      "alt": "Download Shadow Vault Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5bf37e261d7b4db5b76ecef630c0d855",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-14T14:53:16.474Z",
+  "lastModifiedDate": "2024-01-09T13:27:11.402Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/GameData/Save/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ShadowVaultOmgyS"
+    }
+  },
+  "entitlementName": "94acfef3dc814cf5be7a2904a1c81d7d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b689134d516f4e0caa6e29f7d6619590",
+      "appId": "3193f6a18d0f4f7f8c7c269c73d02b51",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Strategy First",
+  "developerId": "o-a3vefcg43bn6j4lwc7qs8n5y38jm7k",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

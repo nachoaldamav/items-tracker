@@ -1,0 +1,65 @@
+{
+  "id": "e51b0a656ae4475ca650acf875b85c08",
+  "title": "Castles",
+  "description": "Castles",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5b0ff5566a7d4202bdfc127150f9419f/castles-offer-1vftl.jpg",
+      "md5": "e0eef25a635de5543573aaec74e20fdf",
+      "width": 2560,
+      "height": 1440,
+      "size": 879378,
+      "uploadedDate": "2022-02-17T18:12:20.956Z",
+      "alt": "Castles Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5b0ff5566a7d4202bdfc127150f9419f/download-castles-offer-zs3li.jpg",
+      "md5": "71a19da6b820e24397080af79ea2cc77",
+      "width": 1200,
+      "height": 1600,
+      "size": 528532,
+      "uploadedDate": "2022-02-17T18:12:24.655Z",
+      "alt": "Download Castles Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7574ed79527c4eca912f0fce19780804",
+  "status": "ACTIVE",
+  "creationDate": "2022-07-01T20:11:26.985Z",
+  "lastModifiedDate": "2022-07-01T20:11:26.985Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Castles"
+    }
+  },
+  "entitlementName": "e51b0a656ae4475ca650acf875b85c08",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "00bc8021b3094bfa80cf44baf9d699e1",
+      "appId": "50961970c72941f78f3d37cad16cbee7",
+      "platform": [
+        "Windows",
+        "Win32",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Interplay Entertainment Corp.",
+  "developerId": "o-ebvwv4fmqxbw48yz3rx65fmxxqfk35",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

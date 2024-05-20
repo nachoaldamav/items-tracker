@@ -1,0 +1,64 @@
+{
+  "id": "c83e0ad2d3d9476cba55458f40e0d754",
+  "title": "Starheim",
+  "description": "Starheim",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/baa8de6d2bec474d840547e5ecb60e48/starheim-alyhc.jpg",
+      "md5": "1dda1e5421d83293abcce5210c10a8c8",
+      "width": 2560,
+      "height": 1440,
+      "size": 1473126,
+      "uploadedDate": "2023-10-03T04:28:29.568Z",
+      "alt": "Starheim Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/baa8de6d2bec474d840547e5ecb60e48/starheim-mihdi.jpg",
+      "md5": "b555a5328dcd7e106950d6648cdc823b",
+      "width": 1200,
+      "height": 1600,
+      "size": 1179665,
+      "uploadedDate": "2023-10-03T04:28:43.574Z",
+      "alt": "Download Starheim Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e326d787414d442a94c2f4e427d5bb2a",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-03T02:21:23.628Z",
+  "lastModifiedDate": "2023-11-05T20:00:05.709Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Starheim"
+    }
+  },
+  "entitlementName": "c83e0ad2d3d9476cba55458f40e0d754",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "18dcfaa5fbbd422a8e0ffc83df20f34b",
+      "appId": "379fbfa6eba34f46ac2bacad2224d9a6",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Null Reference Games",
+  "developerId": "o-zy67zmrxsez84u2aw2ja2bsvz8ru73",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

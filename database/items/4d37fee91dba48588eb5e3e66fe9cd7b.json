@@ -1,0 +1,67 @@
+{
+  "id": "4d37fee91dba48588eb5e3e66fe9cd7b",
+  "title": "Vaudeville",
+  "description": "Vaudeville",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/cbf8929c11b64fccaa04d09ce99aa8a0/vaudeville-1xlwg.png",
+      "md5": "3c8e49784a771870026a5851ffa2c29a",
+      "width": 2560,
+      "height": 1440,
+      "size": 1561221,
+      "uploadedDate": "2023-06-20T15:09:36.791Z",
+      "alt": "Vaudeville Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/cbf8929c11b64fccaa04d09ce99aa8a0/vaudeville-3pf47.png",
+      "md5": "0a84c35e5f0d93210c1d35dd35bddb14",
+      "width": 1200,
+      "height": 1600,
+      "size": 2370024,
+      "uploadedDate": "2023-06-20T15:09:42.926Z",
+      "alt": "Download Vaudeville Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2b5e1a8f075848f29b2617c7dca5d01a",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-20T10:45:03.927Z",
+  "lastModifiedDate": "2023-10-14T01:31:12.183Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Bumblebee Studios/Vaudeville/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "VaudevilleOJ8Xu"
+    }
+  },
+  "entitlementName": "4d37fee91dba48588eb5e3e66fe9cd7b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3d5e37344a0e4dc29a20dc1819906b55",
+      "appId": "2491ef52bc3c459199c070b235dca4e7",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "BBS Games AB",
+  "developerId": "o-g6gu3wl4z2gsl36usyz59yy3pfecds",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,61 @@
+{
+  "id": "b5dcf6b8b9e44eadaa6cc34367e750cb",
+  "title": "Capes",
+  "description": "Capes",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/01ad6b7f2b8b4b2b800f21b2cce68b9b/capes-163ol.jpg",
+      "md5": "94d9355bab872f65779fba2e54b7f867",
+      "width": 2560,
+      "height": 1440,
+      "size": 648772,
+      "uploadedDate": "2022-09-28T23:53:46.709Z",
+      "alt": "Capes Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/01ad6b7f2b8b4b2b800f21b2cce68b9b/capes-1fpyc.jpg",
+      "md5": "aa6fca77c4739e75c8a09fc8f3e36bb7",
+      "width": 1200,
+      "height": 1600,
+      "size": 487742,
+      "uploadedDate": "2022-09-28T23:53:46.077Z",
+      "alt": "Download Capes Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "18ebe75ea3164c309f95bc6bd0fc18d6",
+  "status": "ACTIVE",
+  "creationDate": "2022-10-17T11:34:46.335Z",
+  "lastModifiedDate": "2022-10-17T11:34:46.335Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Capes"
+    }
+  },
+  "entitlementName": "b5dcf6b8b9e44eadaa6cc34367e750cb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5e141db87a3a4e73a1f1e2fdc09f8d9f",
+      "appId": "bbbd8814b74c49c98d7d5dcfb0828d65",
+      "platform": []
+    }
+  ],
+  "developer": "Defiant Development PTY LTD",
+  "developerId": "o-263x4kmewy3sltg46p3ccce2aqmypf",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

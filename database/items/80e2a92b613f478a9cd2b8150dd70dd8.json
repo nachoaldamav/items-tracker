@@ -1,0 +1,71 @@
+{
+  "id": "80e2a92b613f478a9cd2b8150dd70dd8",
+  "title": "Forest Grove",
+  "description": "In Forest Grove, a teenage heiress has gone missing. Foul play is suspected. Uncover a cast of characters, collect evidence, and find the truth in this futuristic detective game!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/82130773705c4b85b0618e87837d9cf6/forest-grove-1oebp.png",
+      "md5": "dcb1aa163acdc9c47e0716f74575a37c",
+      "width": 2560,
+      "height": 1440,
+      "size": 2447453,
+      "uploadedDate": "2023-05-26T00:58:15.195Z",
+      "alt": "Forest Grove Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/82130773705c4b85b0618e87837d9cf6/forest-grove-lqn2f.png",
+      "md5": "7076b72382a3f641d237d44454cb60a9",
+      "width": 1200,
+      "height": 1600,
+      "size": 2022032,
+      "uploadedDate": "2023-09-11T04:49:35.248Z",
+      "alt": "Download Forest Grove Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "172112126caf448aa6e069b16a9f0118",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-25T00:38:04.184Z",
+  "lastModifiedDate": "2023-11-30T02:41:47.619Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Blowfish Studios/Forest Grove/Saves/Synced/{EpicID}/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ForestGroveqrFzL"
+    }
+  },
+  "entitlementName": "80e2a92b613f478a9cd2b8150dd70dd8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "00486f28d555475ebf6709bc586327eb",
+      "appId": "0ea33265d21a46a78c77cb867ea84b85",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Blowfish Studios",
+  "developerId": "o-7uadnw4zmaekx44cdsgvw2jmlne83c",
+  "endOfSupport": false,
+  "applicationId": "fghi45672uJjWpTGq2p5jHSF0GgXLcNP",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

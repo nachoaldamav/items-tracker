@@ -1,0 +1,89 @@
+{
+  "id": "a0f3ec19e45249cf83f9af6c1661ba06",
+  "title": "Battlefield™ Hardline Ultimate Edition",
+  "description": "Strategy. Speed. Story. These are the core pillars of Battlefield™ Hardline, a cops vs. criminals experience unlike any other.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6dbbae033487487e90e3144e4918018b/battlefield-hardline-tmbs7.jpg",
+      "md5": "53ed65f14cb2516db9e50df6df500e97",
+      "width": 2560,
+      "height": 1440,
+      "size": 788014,
+      "uploadedDate": "2024-03-06T21:37:44.707Z",
+      "alt": "Battlefield Hardline Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6dbbae033487487e90e3144e4918018b/battlefield-hardline-15p83.jpg",
+      "md5": "cccd33ff3a2f9e48a577f00281f0ebb3",
+      "width": 1200,
+      "height": 1600,
+      "size": 752752,
+      "uploadedDate": "2024-03-06T21:37:56.871Z",
+      "alt": "Download Battlefield Hardline Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d0328a2bc8e04364b1fff1253a986174",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-04T15:38:47.933Z",
+  "lastModifiedDate": "2024-03-28T14:20:20.548Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\EA Games\\BFH"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "bfh.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "bfh.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BattlefieldHardline"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "a0f3ec19e45249cf83f9af6c1661ba06",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8f2f77c14fb14a0db8099673923f3850",
+      "appId": "briouat",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

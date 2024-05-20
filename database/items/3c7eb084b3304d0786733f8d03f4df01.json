@@ -1,0 +1,63 @@
+{
+  "id": "3c7eb084b3304d0786733f8d03f4df01",
+  "title": "Gods Unchained",
+  "description": "Gods Unchained",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0668c386b36843ee816eccaa027005a8/gods-unchained-mhnk2.jpg",
+      "md5": "5a7f2feafe31793baab4e558af044323",
+      "width": 2560,
+      "height": 1440,
+      "size": 1655375,
+      "uploadedDate": "2023-06-22T00:50:43.572Z",
+      "alt": "Gods Unchained Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0668c386b36843ee816eccaa027005a8/gods-unchained-1ovsk.png",
+      "md5": "d2985183af6b306e019b67660d3beffb",
+      "width": 1200,
+      "height": 1600,
+      "size": 2307619,
+      "uploadedDate": "2023-06-08T23:26:11.073Z",
+      "alt": "Download Gods Unchained Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "749a943da8ca4937883c195aea8b2652",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-03T03:21:16.580Z",
+  "lastModifiedDate": "2023-12-19T21:12:52.618Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "GodsUnchainedHCGjb"
+    }
+  },
+  "entitlementName": "3c7eb084b3304d0786733f8d03f4df01",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "52b04d4f36294103bf7a4d207bb555bb",
+      "appId": "4615367538f243daac6585e40b03a456",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Immutable",
+  "developerId": "o-y8euh5l86sxkub5gpjszjn6yjl3zsy",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

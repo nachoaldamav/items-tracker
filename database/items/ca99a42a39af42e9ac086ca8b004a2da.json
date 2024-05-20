@@ -1,0 +1,67 @@
+{
+  "id": "ca99a42a39af42e9ac086ca8b004a2da",
+  "title": "Howl Demo",
+  "description": "Howl is a turn-based tactical folktale set in a world of living ink. Rid the lands of the beastly plague using your weapons and your wits, planning every move up to six steps in advance. Some think prophecy is carved in stone – write your own in ink and blood.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/890897d6a468494fa823c28e4d75c061/howl-tx5z7.jpg",
+      "md5": "e903f08b8734c353ce96403e7e961f54",
+      "width": 2560,
+      "height": 1440,
+      "size": 3321947,
+      "uploadedDate": "2022-11-24T17:52:05.635Z",
+      "alt": "Howl Howl Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/890897d6a468494fa823c28e4d75c061/howl-1ytsy.png",
+      "md5": "d0e979c74f6a84911f75f510826b6690",
+      "width": 1200,
+      "height": 1600,
+      "size": 3005358,
+      "uploadedDate": "2022-11-24T17:52:04.880Z",
+      "alt": "Download Howl Howl Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "045461d8f98f474da9bd32cd727548e0",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-27T15:58:56.815Z",
+  "lastModifiedDate": "2023-11-27T15:58:56.815Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Mi'pu'mi Games GmbH/HowlDemo/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DemoHowlc5b32"
+    }
+  },
+  "entitlementName": "ca99a42a39af42e9ac086ca8b004a2da",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "de3dbea42b5b48b894757542936cb6ae",
+      "appId": "0f4d5114728f4372980ea3d848a8f38c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Astragon Entertainment GmbH",
+  "developerId": "o-rq9c97g8tttn6czdh2kd9vubqbunvf",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

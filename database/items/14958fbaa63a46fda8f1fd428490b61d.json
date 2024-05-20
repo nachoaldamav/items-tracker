@@ -1,0 +1,76 @@
+{
+  "id": "14958fbaa63a46fda8f1fd428490b61d",
+  "title": "Watch Over Christmas",
+  "description": "Santa has been kidnapped and Holidays are at stake. Watch Over Christmas is a unique Christmassy game that tells the story of a 12-year-old boy, Cisco, who is called upon to save everyone’s most beloved holiday. Believe in the Magic and save Santa!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7517c9a17ed841e3a55f8f77c53c91e9/watch-over-christmas-1uk1b.jpg",
+      "md5": "291f3d7436fde5016427d0d1d0fd022e",
+      "width": 2560,
+      "height": 1440,
+      "size": 1028305,
+      "uploadedDate": "2023-05-07T19:23:12.246Z",
+      "alt": "Watch Over Christmas Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7517c9a17ed841e3a55f8f77c53c91e9/watch-over-christmas-3moo7.jpg",
+      "md5": "d294cc7873ef952439c62d72da187dc1",
+      "width": 1200,
+      "height": 1600,
+      "size": 656292,
+      "uploadedDate": "2023-05-07T19:19:50.575Z",
+      "alt": "Download Watch Over Christmas Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "263f654a1236484397892332888256aa",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-10T08:23:04.731Z",
+  "lastModifiedDate": "2023-08-29T14:24:57.985Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Dionous Games/Watch Over Christmas/Savegames/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Dionous Games/Watch Over Christmas/Savegames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WatchOverChristmas1VQlO"
+    }
+  },
+  "entitlementName": "14958fbaa63a46fda8f1fd428490b61d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "042b62b81b224393ba9cd2725ead86ef",
+      "appId": "37c8ad088009411f8bb51b0d5253a0e5",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Dionous Games",
+  "developerId": "o-a2gq3hywd5ztrnumlxukwzgz58ddhk",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

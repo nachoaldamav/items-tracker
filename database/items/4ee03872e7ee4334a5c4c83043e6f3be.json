@@ -1,0 +1,65 @@
+{
+  "id": "4ee03872e7ee4334a5c4c83043e6f3be",
+  "title": "Melatonin",
+  "description": "Melatonin",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/07109b840b8446d089419a84742c9239/melatonin-16yiy.png",
+      "md5": "cc1f8293642abcc9b871912831ad58e9",
+      "width": 2560,
+      "height": 1440,
+      "size": 976914,
+      "uploadedDate": "2022-12-04T00:10:24.064Z",
+      "alt": "Melatonin Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/07109b840b8446d089419a84742c9239/melatonin-9mkx0.png",
+      "md5": "cd5c0348a1498e4efe2f6af3b20ef2f3",
+      "width": 1200,
+      "height": 1600,
+      "size": 725516,
+      "uploadedDate": "2022-12-04T00:10:24.627Z",
+      "alt": "Download Melatonin Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e42a1909bc4a46b88ad8435441817b56",
+  "status": "ACTIVE",
+  "creationDate": "2022-12-03T23:26:36.609Z",
+  "lastModifiedDate": "2023-01-20T20:40:52.490Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Melatonin"
+    }
+  },
+  "entitlementName": "4ee03872e7ee4334a5c4c83043e6f3be",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d2e216dcd80f43f7bd0ccc704a9c0278",
+      "appId": "058aea0c970942f18beb767f7e62c52b",
+      "platform": [
+        "Win32",
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Half Asleep Games Ltd.",
+  "developerId": "o-rel2rq9t7s72elaannnfqkhtaap3gz",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

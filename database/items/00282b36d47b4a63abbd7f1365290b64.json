@@ -1,0 +1,62 @@
+{
+  "id": "00282b36d47b4a63abbd7f1365290b64",
+  "title": "Midnight Legends",
+  "description": "Midnight Legends",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d628f770ec2d4d879c79ac05dd030307/midnight-legends-offer-b2i73.png",
+      "md5": "821adf9afe1f026816f24687ae83980e",
+      "width": 2560,
+      "height": 1440,
+      "size": 1116989,
+      "uploadedDate": "2022-09-07T16:16:15.900Z",
+      "alt": "Midnight Legends Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d628f770ec2d4d879c79ac05dd030307/download-midnight-legends-offer-11567.png",
+      "md5": "2ddba569c913b6398e97b5a100e2566a",
+      "width": 1200,
+      "height": 1600,
+      "size": 1944634,
+      "uploadedDate": "2022-09-07T16:16:16.652Z",
+      "alt": "Download Midnight Legends Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "17df9723d7c248139a9f187a5ce693ed",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-07T15:26:26.359Z",
+  "lastModifiedDate": "2023-06-30T15:36:41.406Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "MidnightLegendsNXJgx"
+    }
+  },
+  "entitlementName": "00282b36d47b4a63abbd7f1365290b64",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b6665b977dea4d4a8d544593ff614616",
+      "appId": "4a5e44b8d5e7438d93b0909176b59d3b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Meridian4",
+  "developerId": "o-lk3h3v3ddypmx7zferz37x5l86w54p",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,67 @@
+{
+  "id": "3ca7278610c4486688a3de3c297e5374",
+  "title": "Chain Crisis",
+  "description": "Chain Crisis",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/afc32686c8a04f1da5efdbabc7af43e0/chain-crisis-1v3nn.jpg",
+      "md5": "d9d6595970cd0eff71ef7a35ccfcc932",
+      "width": 2560,
+      "height": 1440,
+      "size": 2676969,
+      "uploadedDate": "2024-04-30T15:23:34.568Z",
+      "alt": "Chain Crisis Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/afc32686c8a04f1da5efdbabc7af43e0/chain-crisis-15h63.jpg",
+      "md5": "10ab53d61f35b4ac6863ae17fc84b3ed",
+      "width": 1200,
+      "height": 1600,
+      "size": 1394424,
+      "uploadedDate": "2024-04-30T15:24:20.561Z",
+      "alt": "Download Chain Crisis Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "181df30b672e4037a677b3819b17362c",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-22T05:53:29.666Z",
+  "lastModifiedDate": "2024-05-01T05:46:59.497Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserProfile}/My Games/Documents/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ChainCrisis"
+    }
+  },
+  "entitlementName": "3ca7278610c4486688a3de3c297e5374",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "72e0dfb8bd8c4f36ae720c97fc4250c6",
+      "appId": "c9fc1c0f68ee4680b841366328938e25",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Warpgate Technologies Corp",
+  "developerId": "o-98qx4hdt8g2qy43ypz5ulc943lg3zl",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

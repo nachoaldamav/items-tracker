@@ -1,0 +1,65 @@
+{
+  "id": "3dd1bd4ca7944a43b38876800e74b3fd",
+  "title": "Descent",
+  "description": "Descent",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ed392be2c58447ffa9d72fffa68fa946/descent-offer-1ktbu.jpg",
+      "md5": "dc8647eed5c53edfbd279f88750a2b81",
+      "width": 2560,
+      "height": 1440,
+      "size": 116281,
+      "uploadedDate": "2022-02-17T22:47:46.334Z",
+      "alt": "Descent Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ed392be2c58447ffa9d72fffa68fa946/download-descent-offer-1xkyz.jpg",
+      "md5": "1e702823ec8b884b4ddecf79fa65e540",
+      "width": 1200,
+      "height": 1600,
+      "size": 95733,
+      "uploadedDate": "2022-02-17T22:47:46.653Z",
+      "alt": "Download Descent Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c41f8e09bb6b407c9c500170676435c1",
+  "status": "ACTIVE",
+  "creationDate": "2022-07-01T22:35:22.430Z",
+  "lastModifiedDate": "2022-07-01T22:35:22.430Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Descent"
+    }
+  },
+  "entitlementName": "3dd1bd4ca7944a43b38876800e74b3fd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2b251e99f5c144cba29950d79159c651",
+      "appId": "c6e0cb437dac44739911f59b0dc18480",
+      "platform": [
+        "Windows",
+        "Win32",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Interplay Entertainment Corp.",
+  "developerId": "o-ebvwv4fmqxbw48yz3rx65fmxxqfk35",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

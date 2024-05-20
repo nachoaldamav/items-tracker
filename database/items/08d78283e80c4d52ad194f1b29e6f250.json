@@ -1,0 +1,68 @@
+{
+  "id": "08d78283e80c4d52ad194f1b29e6f250",
+  "title": "Farsiders",
+  "description": "Farsiders",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3e3bcad8e1a74534bfb98c61d1dd8cb0/farsiders-orr2q.png",
+      "md5": "c31124dda6b96e851dcb2b5e30e2eaae",
+      "width": 2560,
+      "height": 1440,
+      "size": 3140501,
+      "uploadedDate": "2023-09-11T04:58:23.182Z",
+      "alt": "Farsiders Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3e3bcad8e1a74534bfb98c61d1dd8cb0/farsiders-l6h6k.png",
+      "md5": "abeea83f5de4f568d2e273d7a911e909",
+      "width": 1200,
+      "height": 1600,
+      "size": 1791136,
+      "uploadedDate": "2023-09-11T04:58:20.101Z",
+      "alt": "Download Farsiders Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "37e2496ba00443bab160c048cf92d80e",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-17T06:58:18.756Z",
+  "lastModifiedDate": "2023-10-13T08:12:28.189Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Gambit Ghost/Farsiders/Save/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FarsidersjaUDb"
+    }
+  },
+  "entitlementName": "08d78283e80c4d52ad194f1b29e6f250",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9cca787501ab43598343a8a33d3e7379",
+      "appId": "6fd92bb95e6b4ee68d4846a3021c947b",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Gambitghost Studio co., Ltd.",
+  "developerId": "o-gceh4btfbeb7j42rzquza5zrlqydtq",
+  "endOfSupport": false,
+  "applicationId": "fghi4567nbZXoWJWwkGKXjDclsZ11fUO",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

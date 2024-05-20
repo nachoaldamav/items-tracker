@@ -1,0 +1,65 @@
+{
+  "id": "16582442b361433887cf177d174d05e6",
+  "title": "Fireside",
+  "description": "Fireside is an uplifting narrative experience about a journey, and the breaks that follow it. Make friends, trade and chat at the campfire, weave connections, and explore a serene magic-filled world.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/dcc80b2ce8114ce48fcdbb15c4d08c6d/fireside-h7uad.jpg",
+      "md5": "5dbadb3d4ee235c0a49ed80ff5eca1ed",
+      "width": 2560,
+      "height": 1440,
+      "size": 637340,
+      "uploadedDate": "2023-12-20T11:59:42.969Z",
+      "alt": "Fireside Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/dcc80b2ce8114ce48fcdbb15c4d08c6d/fireside-1d5mn.png",
+      "md5": "f302bf54b45bcc797546519ddaa5d3c8",
+      "width": 1200,
+      "height": 1600,
+      "size": 2894152,
+      "uploadedDate": "2023-12-20T11:59:43.523Z",
+      "alt": "Download Fireside Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "206c851f04544725af8abb022128dd0d",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-19T13:24:49.802Z",
+  "lastModifiedDate": "2024-05-09T14:01:10.574Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Fireside/fireside/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Fireside"
+    }
+  },
+  "entitlementName": "16582442b361433887cf177d174d05e6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "78ccf882929b45dd892d3ec58b6bdfd1",
+      "appId": "12441416f787484c9df97cb254a70a74",
+      "platform": []
+    }
+  ],
+  "developer": "UAB Nordcurrent Group",
+  "developerId": "o-q6cdbfpcbjub728pzlab6wedbt6btq",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,88 @@
+{
+  "id": "84686da593b24598803ffbe7f9b1bb5e",
+  "title": "Kerbal Space Program",
+  "description": "Kerbal Space Program",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/ca0530b485754032be50cb6f27be0c2c/EGS_KerbalSpaceProgram_Squad_S1_2560x1440-380681e19358cb3d1e1162ce755e5e01",
+      "md5": "380681e19358cb3d1e1162ce755e5e01",
+      "width": 2560,
+      "height": 1440,
+      "size": 481692,
+      "uploadedDate": "2022-12-06T12:04:09.811Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/ca0530b485754032be50cb6f27be0c2c/EGS_KerbalSpaceProgram_Squad_S2_1200x1600-7442f5c8047e6ef3d062ea731b60f443",
+      "md5": "7442f5c8047e6ef3d062ea731b60f443",
+      "width": 1200,
+      "height": 1600,
+      "size": 297622,
+      "uploadedDate": "2022-12-06T12:04:13.432Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ca0530b485754032be50cb6f27be0c2c",
+  "status": "ACTIVE",
+  "creationDate": "2022-08-31T17:32:52.208Z",
+  "lastModifiedDate": "2023-02-09T17:26:20.704Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ca0530b485754032be50cb6f27be0c2c"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KerbalSpaceProgram"
+    }
+  },
+  "entitlementName": "84686da593b24598803ffbe7f9b1bb5e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d35a15b3d9654c92b137fd88e02a3f9d",
+      "appId": "a1e2ce30defe4a9187ebc14fc9d2bd8b",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2022-11-17T04:51:12.030Z"
+    }
+  ],
+  "developer": "Private Division",
+  "developerId": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+  "eulaIds": [
+    "(egstore && ksp)"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

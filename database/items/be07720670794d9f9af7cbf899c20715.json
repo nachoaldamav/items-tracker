@@ -1,0 +1,63 @@
+{
+  "id": "be07720670794d9f9af7cbf899c20715",
+  "title": "Tribu",
+  "description": "Tribu",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0643a975c5c84f0b82ee8c021ae586ae/tribu-37whe.png",
+      "md5": "a06308ef04874102c61d5218c99168f3",
+      "width": 2560,
+      "height": 1440,
+      "size": 3058829,
+      "uploadedDate": "2023-09-14T16:01:57.054Z",
+      "alt": "Tribu Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0643a975c5c84f0b82ee8c021ae586ae/tribu-1d8ru.png",
+      "md5": "5a1ca8dba2197c45a0c19d94cab3ffe3",
+      "width": 1200,
+      "height": 1600,
+      "size": 1561580,
+      "uploadedDate": "2023-09-14T16:01:57.674Z",
+      "alt": "Download Tribu Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e7b4e081597b4c148f26d6e8d6866efd",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-14T14:16:40.395Z",
+  "lastModifiedDate": "2024-03-20T11:02:12.314Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Tribu"
+    }
+  },
+  "entitlementName": "be07720670794d9f9af7cbf899c20715",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "51d5699f00684d909409e569c1be28e6",
+      "appId": "a988a9d67e494753ababe7ad675bc87f",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Iron Lizard Games",
+  "developerId": "o-3aqzsg7flq4kspgdjfh2tqrxwzpvjs",
+  "endOfSupport": false,
+  "applicationId": "fghi45672PIunnGDmNshJpFST3u9cUUt",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "7fc6057495754e038fb5107a431371b3",
+  "title": "FUR Squadron",
+  "description": "FUR Squadron",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3fa4933eca54491b87b8708b346cf4ec/fur-squadron-1nszh.png",
+      "md5": "2768c14e13b630b627a17d4bbb7f109e",
+      "width": 2560,
+      "height": 1440,
+      "size": 3005126,
+      "uploadedDate": "2023-04-07T16:49:49.174Z",
+      "alt": "FUR Squadron Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3fa4933eca54491b87b8708b346cf4ec/fur-squadron-slums.png",
+      "md5": "8771d767f0e1a1e72422c8d48cf65bd8",
+      "width": 1200,
+      "height": 1600,
+      "size": 1509970,
+      "uploadedDate": "2023-04-07T16:47:12.276Z",
+      "alt": "Download FUR Squadron Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1f48927b60c5460dbca66555584a80cf",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-24T16:14:47.645Z",
+  "lastModifiedDate": "2023-05-01T07:04:03.346Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "FURSquadronW1oRE"
+    }
+  },
+  "entitlementName": "7fc6057495754e038fb5107a431371b3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "10821e311cd44be184d910c86e6b15d3",
+      "appId": "253e85a887d644e2a8856ec2507cf2c3",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Raptor Claw",
+  "developerId": "o-dccnzk4gdlgwwnsnvub26mhqzhrntz",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

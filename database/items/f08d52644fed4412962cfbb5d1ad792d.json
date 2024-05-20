@@ -1,0 +1,63 @@
+{
+  "id": "f08d52644fed4412962cfbb5d1ad792d",
+  "title": "Bread and Fred",
+  "description": "Bread and Fred",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-3l6k1.jpg",
+      "md5": "671e4370adfbfe8f85bb516d11eaa5a9",
+      "width": 2560,
+      "height": 1440,
+      "size": 1493991,
+      "uploadedDate": "2023-04-18T15:59:59.225Z",
+      "alt": "Bread and Fred Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-s8mjx.jpg",
+      "md5": "bf56e1af316351f3f4023d116240f399",
+      "width": 1200,
+      "height": 1600,
+      "size": 427858,
+      "uploadedDate": "2023-04-15T02:07:07.103Z",
+      "alt": "Download Bread and Fred Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7e95faaa77054b80828dd7d64bbeb4ff",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-15T17:25:58.991Z",
+  "lastModifiedDate": "2023-06-15T17:25:58.991Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BreadandFredy2rZ4"
+    }
+  },
+  "entitlementName": "f08d52644fed4412962cfbb5d1ad792d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d3f59735d2fa49d08eb9f4b1fd3d72f3",
+      "appId": "2a86a842f0fa46d38228b590b9ea3dc5",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Apogee Entertainment",
+  "developerId": "o-xh5dj82gy56frdyzfntt85yf5clm2c",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "b9520e1a2c9d456baad98c2b54a0411b",
+  "title": "Creatura",
+  "description": "Creatura",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/29991489d07949f38471582fe008cfb4/creatura-1dqot.jpg",
+      "md5": "0e15a7720a86400aebcc2f6f2cc89fe2",
+      "width": 2560,
+      "height": 1440,
+      "size": 540971,
+      "uploadedDate": "2023-07-19T19:24:40.633Z",
+      "alt": "Creatura Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/29991489d07949f38471582fe008cfb4/creatura-1bv5k.jpg",
+      "md5": "1cb85afd7e48be0080a3b3b8f08bd2ce",
+      "width": 1200,
+      "height": 1600,
+      "size": 323236,
+      "uploadedDate": "2023-07-19T19:24:40.414Z",
+      "alt": "Download Creatura Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1c0a8b3f4f0b4899ac5a8231dc7f4621",
+  "status": "ACTIVE",
+  "creationDate": "2023-01-26T17:37:44.756Z",
+  "lastModifiedDate": "2023-09-08T07:27:42.051Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "CreaturaI8TP9"
+    }
+  },
+  "entitlementName": "b9520e1a2c9d456baad98c2b54a0411b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6a6c8323880b4d74898e437a6458d72b",
+      "appId": "28449aca55d34345b0a6956450bf84b7",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "FreeMind S.A.",
+  "developerId": "o-lffr7a7ecb6z63clxv2v83efwfsf4s",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

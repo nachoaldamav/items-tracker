@@ -1,0 +1,68 @@
+{
+  "id": "37c54ce1ad0e4e01bc59d4e62afb3ee0",
+  "title": "Shrommzzz",
+  "description": "Shrommzzz",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/67adb6e83c0e4ddbb4557be9e3d2ee84/shrommzzz-oslu4.png",
+      "md5": "d60d7988c7e6dcba005540392aed40c0",
+      "width": 2560,
+      "height": 1440,
+      "size": 1947978,
+      "uploadedDate": "2023-11-23T14:11:35.760Z",
+      "alt": "Shrommzzz Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/67adb6e83c0e4ddbb4557be9e3d2ee84/shrommzzz-562it.png",
+      "md5": "3b58561a9803db546a2d14a6dc4e9d74",
+      "width": 1200,
+      "height": 1600,
+      "size": 1134141,
+      "uploadedDate": "2023-11-23T14:05:40.352Z",
+      "alt": "Download Shrommzzz Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4db2dc09cc0b4051ac65216312c90a5b",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-27T11:40:17.068Z",
+  "lastModifiedDate": "2023-12-07T14:37:08.754Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/shromzzzTest/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ShrommzzzUGWo7"
+    }
+  },
+  "entitlementName": "37c54ce1ad0e4e01bc59d4e62afb3ee0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "59b1c5487acf4ba6924909eebb23089b",
+      "appId": "d6f9700d27e74712ad5e0840a9c03002",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Space Pigeon Studios",
+  "developerId": "o-a4zq7t2vrwnyx7c7kvhyszrluzruef",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

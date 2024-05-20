@@ -1,0 +1,72 @@
+{
+  "id": "b1b64a1eff4240ea9332c065e0c5ff60",
+  "title": "Shadow Gangs",
+  "description": "Shadow Gangs",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/83d9828ba36d4c23a6f2b749f2409191/shadow-gangs-6v0oa.jpg",
+      "md5": "d810038ff170110db6c1866acb1f8d0d",
+      "width": 2560,
+      "height": 1440,
+      "size": 831470,
+      "uploadedDate": "2023-03-21T22:43:11.519Z",
+      "alt": "Shadow Gangs Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/83d9828ba36d4c23a6f2b749f2409191/shadow-gangs-our8b.jpg",
+      "md5": "6bc4cabcc49a8ab0b51a991db811a9c5",
+      "width": 1200,
+      "height": 1600,
+      "size": 584829,
+      "uploadedDate": "2023-03-21T22:43:11.351Z",
+      "alt": "Download Shadow Gangs Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "252244fbdca142948592127c2249498f",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-12T20:54:11.452Z",
+  "lastModifiedDate": "2023-09-07T12:08:43.642Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Save/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ShadowGangsv7tYA"
+    }
+  },
+  "entitlementName": "b1b64a1eff4240ea9332c065e0c5ff60",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3407775751074cc98b81d4b1746c7c84",
+      "appId": "225e38d832884be6b2807efd2a0df555",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "JKM Corp",
+  "developerId": "o-jj7r9vcmxautpm6eqqsfs7ustprmf3",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

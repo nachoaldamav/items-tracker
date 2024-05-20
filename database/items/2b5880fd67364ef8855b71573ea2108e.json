@@ -1,0 +1,76 @@
+{
+  "id": "2b5880fd67364ef8855b71573ea2108e",
+  "title": "Hush Hush",
+  "description": "Hush Hush",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/390f168328304e4eb9476f03e76122e2/hush-hush-1rclf.png",
+      "md5": "7cd75a3a5443c5e25d9eb71ab2c75180",
+      "width": 2560,
+      "height": 1440,
+      "size": 3153244,
+      "uploadedDate": "2023-06-11T17:57:56.081Z",
+      "alt": "Hush Hush Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/390f168328304e4eb9476f03e76122e2/hush-hush-1rnay.png",
+      "md5": "7a5729f29bddb2529a0b14249026313d",
+      "width": 1200,
+      "height": 1600,
+      "size": 1872430,
+      "uploadedDate": "2023-06-11T17:57:56.450Z",
+      "alt": "Download Hush Hush Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "56faf2396f304e6886e66c492ee22a0e",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-11T15:55:13.165Z",
+  "lastModifiedDate": "2023-07-14T17:35:11.188Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/SadPandaStudios_HushHush/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/saves/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "64"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HushHushxd67R"
+    }
+  },
+  "entitlementName": "2b5880fd67364ef8855b71573ea2108e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2b367e80bf1245debe7cfb031e2d3a4d",
+      "appId": "60813e52495a4f69af51cb12d3646a14",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Sad Panda Studios Ltd",
+  "developerId": "o-7kumk7bc3djyz5v7c2a4b9z527kvcx",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

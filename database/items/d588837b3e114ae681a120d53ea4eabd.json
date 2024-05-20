@@ -1,0 +1,72 @@
+{
+  "id": "d588837b3e114ae681a120d53ea4eabd",
+  "title": "Camp Canyonwood",
+  "description": "Camp Canyonwood",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3caf928c1aaa4eb0b250dbd64ddf588b/camp-canyonwood-18zui.png",
+      "md5": "2c7db4b79da4863f264c28813b42d968",
+      "width": 2560,
+      "height": 1440,
+      "size": 1912216,
+      "uploadedDate": "2023-09-25T22:34:58.470Z",
+      "alt": "Camp Canyonwood Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3caf928c1aaa4eb0b250dbd64ddf588b/camp-canyonwood-wxtu0.png",
+      "md5": "48fc48667ad74698295e93fc774d3806",
+      "width": 1200,
+      "height": 1600,
+      "size": 1041581,
+      "uploadedDate": "2023-09-25T22:34:58.622Z",
+      "alt": "Download Camp Canyonwood Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "760df178070b4dcbbfbe498b07b5d1a8",
+  "status": "ACTIVE",
+  "creationDate": "2022-01-20T18:35:49.458Z",
+  "lastModifiedDate": "2024-02-08T17:52:59.983Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Deli Interactive LLC/Camp Canyonwood/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CampCanyonwoodScc8a"
+    }
+  },
+  "entitlementName": "d588837b3e114ae681a120d53ea4eabd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "46b26e33d6fa43b58f663a9d4d1459b8",
+      "appId": "650c34237c654e81a7dc4994219398f2",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Graffiti Games",
+  "developerId": "o-87c748zl24r2zsfe7t98b49ghm86kr",
+  "endOfSupport": false,
+  "applicationId": "fghi45679ZDcXaPFnVv8YELcPQS9NX4S",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

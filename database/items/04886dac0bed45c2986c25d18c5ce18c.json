@@ -1,0 +1,71 @@
+{
+  "id": "04886dac0bed45c2986c25d18c5ce18c",
+  "title": "The Entropy Centre",
+  "description": "The Entropy Centre",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0c6f7cd9e76249bea03d568c4db16dc9/the-entropy-centre-y9si3.jpg",
+      "md5": "884041b2f7d0ca4ff8fdeef2827c081b",
+      "width": 2560,
+      "height": 1440,
+      "size": 2676668,
+      "uploadedDate": "2022-10-20T17:01:17.269Z",
+      "alt": "The Entropy Centre Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0c6f7cd9e76249bea03d568c4db16dc9/the-entropy-centre-n18b0.jpg",
+      "md5": "b5fe4d17f55bdd84a1943f4415562117",
+      "width": 1200,
+      "height": 1600,
+      "size": 1327561,
+      "uploadedDate": "2022-10-20T17:01:17.709Z",
+      "alt": "Download The Entropy Centre Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3658d3b2ab274e47baf9da3225ad128e",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-20T15:59:43.316Z",
+  "lastModifiedDate": "2023-05-24T16:06:32.765Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Project_Kilo/Saved/SaveGames/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "steam_autocloud.vdf"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheEntropyCentreV3gij"
+    }
+  },
+  "entitlementName": "04886dac0bed45c2986c25d18c5ce18c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "61354e7fdc8d409fac18b7e96149e80e",
+      "appId": "923e1095c735439f9acb4dace9af6a9a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Playstack",
+  "developerId": "o-fwcegrmgnhg9bjn597f2ywf3gvrvqw",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

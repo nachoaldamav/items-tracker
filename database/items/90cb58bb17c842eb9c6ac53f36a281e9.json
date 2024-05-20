@@ -1,0 +1,62 @@
+{
+  "id": "90cb58bb17c842eb9c6ac53f36a281e9",
+  "title": "Redline",
+  "description": "Redline",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/72c8b2f7ea394329990c979a4c134b16/redline-19qtm.png",
+      "md5": "b2f01c405ba36751c367244713ab07fd",
+      "width": 2560,
+      "height": 1440,
+      "size": 653031,
+      "uploadedDate": "2024-03-29T09:56:19.708Z",
+      "alt": "Redline Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/72c8b2f7ea394329990c979a4c134b16/redline-1ln4e.png",
+      "md5": "3c10b6fa045a5eece2a899ba44a82b52",
+      "width": 1200,
+      "height": 1600,
+      "size": 352063,
+      "uploadedDate": "2024-03-29T09:56:21.708Z",
+      "alt": "Download Redline Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "605a466d713147fdaa8c06d008d31101",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-28T16:40:06.771Z",
+  "lastModifiedDate": "2024-05-02T20:56:54.847Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "RedlineJLoxY"
+    }
+  },
+  "entitlementName": "90cb58bb17c842eb9c6ac53f36a281e9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ebfdd4303d964819b15923823c130699",
+      "appId": "0ae6ce56dd02460eaf7fc685ad89519c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "QChain Game Studio",
+  "developerId": "o-hbj7v436b4myl7f47sjzp3edz7hv4b",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

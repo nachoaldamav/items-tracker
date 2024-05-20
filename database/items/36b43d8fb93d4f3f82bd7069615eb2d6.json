@@ -1,0 +1,71 @@
+{
+  "id": "36b43d8fb93d4f3f82bd7069615eb2d6",
+  "title": "Sea Horizon",
+  "description": "《Sea Horizon》 is a Roguelike turn-based RPG. You can explore the world by choosing different characters. Every journey can be unique and legendary. But don’t forget the darkness is lurking. Choose your path wisely because every single step is essential.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3f76f4e8bf3044a38bf8d5631e13260d/sea-horizon-14ffb.png",
+      "md5": "1a794899e6cae75535232a31a387c568",
+      "width": 2560,
+      "height": 1440,
+      "size": 2948870,
+      "uploadedDate": "2023-08-09T08:42:44.332Z",
+      "alt": "Sea Horizon Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3f76f4e8bf3044a38bf8d5631e13260d/sea-horizon-19iu8.png",
+      "md5": "65f67076deddea849fa3a0a86307a7f5",
+      "width": 1200,
+      "height": 1600,
+      "size": 1738537,
+      "uploadedDate": "2023-08-09T08:42:44.810Z",
+      "alt": "Download Sea Horizon Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bcd479d96de045fa8805f2bf4962475e",
+  "status": "ACTIVE",
+  "creationDate": "2023-08-04T06:09:13.506Z",
+  "lastModifiedDate": "2023-09-15T02:28:58.131Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/SeaHorizon/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Game*.sav, GameSettingsSave.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SeaHorizonEZXGk"
+    }
+  },
+  "entitlementName": "36b43d8fb93d4f3f82bd7069615eb2d6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ad6779b78df948ae9fafe44cb57bf8de",
+      "appId": "920f451c93ba4675bc75a60e2892a457",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SOFTSTAR",
+  "developerId": "o-w6dyggsutfeyjn8zr67cr6w4w9bdam",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

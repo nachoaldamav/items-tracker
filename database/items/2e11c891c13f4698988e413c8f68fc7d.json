@@ -1,0 +1,65 @@
+{
+  "id": "2e11c891c13f4698988e413c8f68fc7d",
+  "title": "Castaway Station",
+  "description": "Castaway Station",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/81a59857a5ee483bab346159ff70e6ea/castaway-station-1o7vb.png",
+      "md5": "fdd2f28a6023e75662466a9d5027f12f",
+      "width": 2560,
+      "height": 1440,
+      "size": 1322032,
+      "uploadedDate": "2023-10-19T20:01:00.791Z",
+      "alt": "Castaway Station Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/81a59857a5ee483bab346159ff70e6ea/castaway-station-1j1ga.png",
+      "md5": "17fa492fe77da7c2cb3ec7e17131513b",
+      "width": 1200,
+      "height": 1600,
+      "size": 4030268,
+      "uploadedDate": "2023-10-19T19:59:45.732Z",
+      "alt": "Download Castaway Station Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f81f6b9e39a54c2294a939f175bed52b",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-02T20:47:26.892Z",
+  "lastModifiedDate": "2024-01-29T20:03:57.506Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "CastawayStation"
+    }
+  },
+  "entitlementName": "2e11c891c13f4698988e413c8f68fc7d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "84d3d4e43dde4c90a6bab986a1600469",
+      "appId": "2f11797efacc45f4a9fa5ba13e3208cf",
+      "platform": [
+        "Mac",
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Bad Zombie Games",
+  "developerId": "o-vrc3mspzfce7v664dz2wqrvhc5eebx",
+  "endOfSupport": false,
+  "applicationId": "fghi4567hiQhhQO801D3sQ5hebgJh3Ym",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

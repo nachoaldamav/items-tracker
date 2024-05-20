@@ -1,0 +1,62 @@
+{
+  "id": "de2f4205de72498a874985e74c719fa7",
+  "title": "Never Alone",
+  "description": "Never Alone",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/48ae11326bd54b6587563f10fd07a538/never-alone-1q79a.jpg",
+      "md5": "46f9ad8bb529cfa72673443b2e8c92c5",
+      "width": 2560,
+      "height": 1440,
+      "size": 89251,
+      "uploadedDate": "2023-10-20T00:02:32.374Z",
+      "alt": "Never Alone Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/48ae11326bd54b6587563f10fd07a538/never-alone-hl9zz.jpg",
+      "md5": "cd9107497c1255d7b4489f62518798ef",
+      "width": 1200,
+      "height": 1600,
+      "size": 43391,
+      "uploadedDate": "2023-10-20T00:05:43.057Z",
+      "alt": "Download Never Alone Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e578f95e616d4dc29a70d0f7be01ebb5",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-21T21:45:31.959Z",
+  "lastModifiedDate": "2023-10-21T21:45:31.959Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "NeverAloneRh04X"
+    }
+  },
+  "entitlementName": "de2f4205de72498a874985e74c719fa7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1509e27f2bd6438bb749ec80dfb8459f",
+      "appId": "a39f0febb1d64054bfd00b4cef7ba5a6",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Marquis",
+  "developerId": "o-34yz4m4mx5l4uwy5rverzk425lkr49",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

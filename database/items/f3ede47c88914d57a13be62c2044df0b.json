@@ -1,0 +1,75 @@
+{
+  "id": "f3ede47c88914d57a13be62c2044df0b",
+  "title": "Arena Survivors",
+  "description": "Arena Survivors",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c68f8c6d18894a6d84555b6c9723236a/arena-survivors-1j84x.png",
+      "md5": "f7b5bc6d55d3ad4458b2ced1b6388417",
+      "width": 2560,
+      "height": 1440,
+      "size": 3849266,
+      "uploadedDate": "2024-02-25T12:25:11.075Z",
+      "alt": "Arena Survivors Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c68f8c6d18894a6d84555b6c9723236a/arena-survivors-et1w4.png",
+      "md5": "a9c667b8b62aa4bf5d0bf0a67c1358b5",
+      "width": 1200,
+      "height": 1600,
+      "size": 2045906,
+      "uploadedDate": "2024-02-25T12:25:12.017Z",
+      "alt": "Download Arena Survivors Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "eb28b370b2f1435a94303a70bd2142b7",
+  "status": "ACTIVE",
+  "creationDate": "2024-02-14T18:36:27.706Z",
+  "lastModifiedDate": "2024-04-02T17:07:09.712Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/ArenaSurvivors/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "GameData.sav,GameData.bak.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ArenaSurvivors"
+    }
+  },
+  "entitlementName": "f3ede47c88914d57a13be62c2044df0b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a1e8292f1b3344edbb994de36d0ade4f",
+      "appId": "dc777cc4453a4f7ab50c9085f8c0caea",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "2kblater",
+  "developerId": "o-zswxgwh8w9yycxmfkfh3fg9cy43kb5",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

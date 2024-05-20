@@ -1,0 +1,62 @@
+{
+  "id": "c9814aacc9d94944ba898df639b1d43e",
+  "title": "RichBroker Demo",
+  "description": "RichBroker Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/802edb67498649159806f7d9c71b267b/richbroker-kjh21.png",
+      "md5": "5ce4cba5f65abbe7a3ee0de002711b5a",
+      "width": 2560,
+      "height": 1440,
+      "size": 497466,
+      "uploadedDate": "2023-04-14T10:02:20.013Z",
+      "alt": "RichBroker RichBroker Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/802edb67498649159806f7d9c71b267b/richbroker-pr5rp.png",
+      "md5": "074869760deacb98e77f8d48de10446c",
+      "width": 1200,
+      "height": 1600,
+      "size": 301846,
+      "uploadedDate": "2023-04-14T10:02:18.769Z",
+      "alt": "Download RichBroker RichBroker Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c01c0a9b79094e8c91164d2e1f50b131",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-29T11:29:24.755Z",
+  "lastModifiedDate": "2023-11-17T09:31:11.845Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DemoRichBrokerf52e2"
+    }
+  },
+  "entitlementName": "c9814aacc9d94944ba898df639b1d43e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b908ea6820da49ada68825cfd8844cbd",
+      "appId": "8f2248f47f8841aca529bf83694edfb2",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Take It Forward AB",
+  "developerId": "o-7j5ed6k9bljs6qm56tyckfasgzv8q8",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

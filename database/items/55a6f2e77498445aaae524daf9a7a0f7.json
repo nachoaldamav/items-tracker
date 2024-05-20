@@ -1,0 +1,63 @@
+{
+  "id": "55a6f2e77498445aaae524daf9a7a0f7",
+  "title": "Farmer's Life",
+  "description": "Farmer's Life",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ebe3ff6b616245d5a14de9cd96c34a17/farmers-life-1icd6.png",
+      "md5": "d2165892c42045c0f30d0d206d12b424",
+      "width": 2560,
+      "height": 1440,
+      "size": 3568708,
+      "uploadedDate": "2023-08-30T16:48:34.878Z",
+      "alt": "Farmer's Life Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ebe3ff6b616245d5a14de9cd96c34a17/farmers-life-1ov5w.png",
+      "md5": "9884a3178cbd9258ea1cb529512d64f7",
+      "width": 1200,
+      "height": 1600,
+      "size": 2332384,
+      "uploadedDate": "2023-08-30T16:48:35.687Z",
+      "alt": "Download Farmer's Life Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6bf555a702044de0aab81d9e3e6427e4",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-20T12:11:15.951Z",
+  "lastModifiedDate": "2023-10-20T12:11:15.951Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "FarmersLife"
+    }
+  },
+  "entitlementName": "55a6f2e77498445aaae524daf9a7a0f7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5207d135efdf4028a530054fb30754cb",
+      "appId": "8878ad983e2f4347be6479f35c46eb31",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "FreeMind S.A.",
+  "developerId": "o-lffr7a7ecb6z63clxv2v83efwfsf4s",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

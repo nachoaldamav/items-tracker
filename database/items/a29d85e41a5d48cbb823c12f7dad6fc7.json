@@ -1,0 +1,63 @@
+{
+  "id": "a29d85e41a5d48cbb823c12f7dad6fc7",
+  "title": "Forest Fire",
+  "description": "Forest Fire",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3e1d24cd916b43c7a86c35de1618c952/forest-fire-bbmsc.png",
+      "md5": "920a9d108a81d47f6370a0a92f54d59c",
+      "width": 2560,
+      "height": 1440,
+      "size": 1387574,
+      "uploadedDate": "2023-06-27T00:16:49.932Z",
+      "alt": "Forest Fire Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3e1d24cd916b43c7a86c35de1618c952/forest-fire-p1br5.png",
+      "md5": "8e8b4f85703fd2a24b61939c20b8e51e",
+      "width": 1200,
+      "height": 1600,
+      "size": 1298933,
+      "uploadedDate": "2023-06-27T00:16:48.930Z",
+      "alt": "Download Forest Fire Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6a249c368e9a4ad99bbdfe23997f26ba",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-17T23:29:23.023Z",
+  "lastModifiedDate": "2023-07-17T23:29:23.023Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ForestFireMlKH8"
+    }
+  },
+  "entitlementName": "a29d85e41a5d48cbb823c12f7dad6fc7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a358ce1832ad47a095f4ba1dbe6de146",
+      "appId": "9143f77d1b64448e9474f580138ff815",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Chute Apps",
+  "developerId": "o-f2wjc7q47v7cpp7xl4bkmr2x8duv2m",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,62 @@
+{
+  "id": "36e2d6b2dac849d5aa5da7773a1219dd",
+  "title": "Kana Quest",
+  "description": "Kana Quest",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/72c403bccc214cdebc30a43b3d3fbcdc/kana-quest-3en5y.png",
+      "md5": "2360c365bd29f8ba168135c033919ab5",
+      "width": 2560,
+      "height": 1440,
+      "size": 931213,
+      "uploadedDate": "2023-02-03T21:47:30.528Z",
+      "alt": "Kana Quest Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/72c403bccc214cdebc30a43b3d3fbcdc/kana-quest-106to.png",
+      "md5": "cbdd6edb99c9afc278c996ef7a9708b0",
+      "width": 1200,
+      "height": 1600,
+      "size": 376802,
+      "uploadedDate": "2023-02-03T21:47:30.359Z",
+      "alt": "Download Kana Quest Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "76463b8839d042bfadc9fddcc8d1f591",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-28T15:41:56.653Z",
+  "lastModifiedDate": "2023-03-28T15:41:56.653Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "KanaQuest2GvFF"
+    }
+  },
+  "entitlementName": "36e2d6b2dac849d5aa5da7773a1219dd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0b9c0ae6bd1243d58e9a9e5548bd9585",
+      "appId": "d951077416914958b832f1a61afa5af0",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "White Thorn Digital",
+  "developerId": "o-v7c8xq9bmhtqhakulz7lrptnz8b628",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,64 @@
+{
+  "id": "4ff263384e214a9f85abce1528b68128",
+  "title": "Book of Demons",
+  "description": "Book of Demons",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c16e7bcfe3a64579916dc554d74db65a/book-of-demons-offer-d5lk1.jpg",
+      "md5": "450ca7fa68f4266ba661786dfe59764f",
+      "width": 2560,
+      "height": 1440,
+      "size": 2326388,
+      "uploadedDate": "2022-06-03T20:53:57.988Z",
+      "alt": "Book of Demons Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c16e7bcfe3a64579916dc554d74db65a/download-book-of-demons-offer-o0juh.jpg",
+      "md5": "27fa49c8d03fc5b8448361e86c474e5f",
+      "width": 1200,
+      "height": 1600,
+      "size": 1489673,
+      "uploadedDate": "2022-06-03T20:53:57.448Z",
+      "alt": "Download Book of Demons Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "70154859be3c47bca7eef7f37b1a9f6a",
+  "status": "ACTIVE",
+  "creationDate": "2022-05-12T08:52:59.175Z",
+  "lastModifiedDate": "2022-12-20T13:42:56.704Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BookofDemonsXMZtL"
+    }
+  },
+  "entitlementName": "4ff263384e214a9f85abce1528b68128",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1ccc70425de244149271f926e47636fe",
+      "appId": "0e6f625f9ff64dea8428d72e9784cade",
+      "platform": [
+        "Mac",
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Thing Trunk Sp. z o. o. Sp. k.",
+  "developerId": "o-urr37u5svgyxgfkd4lxzq2ykakdsnp",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

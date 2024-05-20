@@ -1,0 +1,87 @@
+{
+  "id": "37c7e08fa5a5423cac5fbd906700d81d",
+  "title": "Champions Ascension",
+  "description": "Champions Ascension",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6bd1e66b670a40998eed50abb8641aed/champions-ascension-suzxa.jpg",
+      "md5": "edccfcc5f6e8be3ffeb7844c7b93a2c5",
+      "width": 2560,
+      "height": 1440,
+      "size": 1347231,
+      "uploadedDate": "2023-09-15T16:50:45.229Z",
+      "alt": "Champions Ascension Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6bd1e66b670a40998eed50abb8641aed/champions-ascension-1chwr.png",
+      "md5": "1dc25c2f8d789eb2ace30f7227dfdef9",
+      "width": 1200,
+      "height": 1600,
+      "size": 3046733,
+      "uploadedDate": "2023-09-15T16:50:48.375Z",
+      "alt": "Download Champions Ascension Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a3499df604cc40488fdba44d01acd1fd",
+  "status": "ACTIVE",
+  "creationDate": "2023-08-16T18:28:10.505Z",
+  "lastModifiedDate": "2024-04-24T14:00:29.283Z",
+  "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "SkipAutoInstallDlc": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "Champions_PC.exe,Booter.exe"
+    },
+    "NotarizedAndSigned": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "Champions_Launcher.exe"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ChampionsAscensionLMNLA"
+    }
+  },
+  "entitlementName": "37c7e08fa5a5423cac5fbd906700d81d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "dd12a9159a1645f5bd91657b122d8700",
+      "appId": "e69be334a8e84bd187620307fff65774",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Rough House Games Inc.",
+  "developerId": "o-q3h3anevt7hmtg786sl95h4wxspjcs",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

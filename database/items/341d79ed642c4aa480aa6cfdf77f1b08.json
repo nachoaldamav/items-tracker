@@ -1,0 +1,71 @@
+{
+  "id": "341d79ed642c4aa480aa6cfdf77f1b08",
+  "title": "Magnetism",
+  "description": "Magnetism",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0732a7f4d797490482f953cbafb99123/magnetism-1b2r9.png",
+      "md5": "3f1d0894444b77930b231ac1e7e0a017",
+      "width": 2560,
+      "height": 1440,
+      "size": 4162266,
+      "uploadedDate": "2023-03-12T16:40:41.649Z",
+      "alt": "Magnetism Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0732a7f4d797490482f953cbafb99123/magnetism-130z8.png",
+      "md5": "43dbcbcf8030c86b42a6d9153de3bb46",
+      "width": 1200,
+      "height": 1600,
+      "size": 2029130,
+      "uploadedDate": "2023-03-12T16:39:36.963Z",
+      "alt": "Download Magnetism Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1f5c217a910f4c00aaee91c20b34bb46",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-21T14:24:32.573Z",
+  "lastModifiedDate": "2023-11-21T14:24:32.573Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/My Games/Documents/MagnetismGame/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Magnetism"
+    }
+  },
+  "entitlementName": "341d79ed642c4aa480aa6cfdf77f1b08",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "53504dca63dc4301a282b38e54a1047f",
+      "appId": "5c0328975307402785fc1c3181be5b61",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Tail House",
+  "developerId": "o-jlch55gz285mseu2xftpgmsubtpf5v",
+  "endOfSupport": false,
+  "applicationId": "fghi4567jLucsVXkkKtwnJkk4FFArsgD",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

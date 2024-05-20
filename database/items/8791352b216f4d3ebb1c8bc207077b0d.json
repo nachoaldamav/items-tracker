@@ -1,0 +1,81 @@
+{
+  "id": "8791352b216f4d3ebb1c8bc207077b0d",
+  "title": "Eigengrau",
+  "description": "A twist at every turn! Explore a colorful shoot 'em up with varied and diverse gameplay beyond the familiar shooting and dodging. Every situation, every enemy, and every boss offers a different handcrafted experience.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7dd83e44b6984bd0b92c5b6a1850a9cb/eigengrau-14sqo.jpg",
+      "md5": "4cba9d12abadd8d63d511d8daa37b2b9",
+      "width": 2560,
+      "height": 1440,
+      "size": 268012,
+      "uploadedDate": "2023-07-12T13:35:27.140Z",
+      "alt": "Eigengrau Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7dd83e44b6984bd0b92c5b6a1850a9cb/eigengrau-16a2k.jpg",
+      "md5": "1c7b2404f6c4cd2c624e7802feaae9c4",
+      "width": 1200,
+      "height": 1600,
+      "size": 202972,
+      "uploadedDate": "2023-07-12T13:35:26.934Z",
+      "alt": "Download Eigengrau Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d683ed3004f1479abdf2fc4bcfdc615d",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-09T20:38:39.614Z",
+  "lastModifiedDate": "2023-09-24T19:05:43.782Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Eigengrau/user_{EpicID}/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Eigengrau/user_{EpicID}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.backup, *.p1sv, *.p1hs, *.p1rp"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Eigengrau"
+    }
+  },
+  "entitlementName": "8791352b216f4d3ebb1c8bc207077b0d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4938d87524a0452183ddb7bcd78ff103",
+      "appId": "6aaa7548a4b04c11aa46047e1b9d5a24",
+      "platform": [
+        "Mac",
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Martin Mauersics",
+  "developerId": "o-7afnt5ppkzasfrm9ruzwx75hmpbrxt",
+  "endOfSupport": false,
+  "applicationId": "fghi4567SGiXWdKV4No1ikpiHOGB3TjB",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

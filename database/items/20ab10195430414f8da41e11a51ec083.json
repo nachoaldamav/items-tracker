@@ -1,0 +1,64 @@
+{
+  "id": "20ab10195430414f8da41e11a51ec083",
+  "title": "Warrior Kings",
+  "description": "Warrior Kings",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8c54f12f3330405c87d022b6941a7b06/warrior-kings-8jyhv.png",
+      "md5": "fa4ff9d81135d07c1401950af86b9149",
+      "width": 2560,
+      "height": 1440,
+      "size": 2088641,
+      "uploadedDate": "2022-10-26T23:33:46.035Z",
+      "alt": "Warrior Kings Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8c54f12f3330405c87d022b6941a7b06/warrior-kings-vb18n.png",
+      "md5": "c9c32ba62df79e6f1093d179e5d89005",
+      "width": 1200,
+      "height": 1600,
+      "size": 2504722,
+      "uploadedDate": "2022-10-26T23:33:45.660Z",
+      "alt": "Download Warrior Kings Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "21799c9b5fa34894b0a1e9e515983fee",
+  "status": "ACTIVE",
+  "creationDate": "2022-10-20T20:07:19.477Z",
+  "lastModifiedDate": "2022-10-30T11:27:03.916Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "WarriorKings"
+    }
+  },
+  "entitlementName": "20ab10195430414f8da41e11a51ec083",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b16c4c0e7cb2465aa718d4284635119c",
+      "appId": "c8ecda4d7d094eacabaac51cc904453e",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Strategy First",
+  "developerId": "o-a3vefcg43bn6j4lwc7qs8n5y38jm7k",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

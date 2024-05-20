@@ -1,0 +1,71 @@
+{
+  "id": "9bce0debb4634464b4ac6b0881d351ae",
+  "title": "PERISH",
+  "description": "PERISH is a stylish four-player FPS with a cross to bear. Slay hordes of creatures on the black sands of Purgatory and sell their gold-stained corpses to craven priests. Kill magnificent bosses and use the proceeds to gain entrance to Elysium, a place of cosmic revelations.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b2001a2ae34f4e5bb1028805045780f0/perish-1lj51.jpg",
+      "md5": "5b54aa6a10d8d176907590c568aa55f9",
+      "width": 2560,
+      "height": 1440,
+      "size": 2586464,
+      "uploadedDate": "2023-11-14T12:46:50.466Z",
+      "alt": "PERISH Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b2001a2ae34f4e5bb1028805045780f0/perish-dfihx.png",
+      "md5": "bb8b563a9b1688a8e95d9d03ce64e10b",
+      "width": 1200,
+      "height": 1600,
+      "size": 3637413,
+      "uploadedDate": "2023-11-14T12:46:50.754Z",
+      "alt": "Download PERISH Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b589bb7fbc204ee59d363b9fb4ef0a41",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-08T13:36:16.381Z",
+  "lastModifiedDate": "2023-12-19T10:32:27.331Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/PERISH/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "PERISH_Save.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PERISH"
+    }
+  },
+  "entitlementName": "9bce0debb4634464b4ac6b0881d351ae",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "38f6d16980194208937f73b2b5dab455",
+      "appId": "2e0f4b4f198f46be9a523ecc214d32ff",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Handy Games",
+  "developerId": "o-ekk92wx8mesnmsvbseequvnt38mzu6",
+  "endOfSupport": false,
+  "applicationId": "fghi4567c6O0AdLFfjeB1H2xUhYkGLlM",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,76 @@
+{
+  "id": "59c33540c2464ee28d813be0801cffe5",
+  "title": "Night Run",
+  "description": "Night Run",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/69319b4c02474716b0f75d8da63fed24/night-run-3lorg.png",
+      "md5": "7c3df2ed4e8cc69fbb8c84c422728118",
+      "width": 2560,
+      "height": 1440,
+      "size": 3018172,
+      "uploadedDate": "2023-07-31T16:51:15.761Z",
+      "alt": "Night Run Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/69319b4c02474716b0f75d8da63fed24/night-run-f2x8x.png",
+      "md5": "ca8701178e4093db1c90cde0ec4afb8f",
+      "width": 1200,
+      "height": 1600,
+      "size": 2082716,
+      "uploadedDate": "2023-07-31T16:51:53.130Z",
+      "alt": "Download Night Run Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c9340fb1d3984f4f8f5bbafaa0ea066d",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-29T14:09:26.613Z",
+  "lastModifiedDate": "2024-01-12T13:52:14.939Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/ThousandAnt/NightRun/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/ThousandAnt/NightRun/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.nrg"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NightRun3d2GW"
+    }
+  },
+  "entitlementName": "59c33540c2464ee28d813be0801cffe5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "134395b16f764fefa279b98f47fac5f7",
+      "appId": "b1517d7dab9e4342921b2650c18e984b",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Thousand Ant LLC",
+  "developerId": "o-y8r7986jmht43tchl2ua6cs8jvwu52",
+  "endOfSupport": false,
+  "applicationId": "fghi4567pf1rlfCdJbsLIROgGsvRy0mt",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

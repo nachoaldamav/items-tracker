@@ -1,0 +1,89 @@
+{
+  "id": "9d8f5d768f4c4bebb2aa950c2955fc51",
+  "title": "Alice: Madness Returns™",
+  "description": "Alice: Madness Returns is a third-person, single-player, action adventure platformer. Visit the grim reality of Victorian London and travel to the beautiful yet ghastly Wonderland to uncover the root of Alice's madness.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/189ce8a793f944a9b47d15f52775173d/alice-madness-returns-1iqgw.jpg",
+      "md5": "2565381b088a6d7cb675083fe2e3beeb",
+      "width": 2560,
+      "height": 1440,
+      "size": 802599,
+      "uploadedDate": "2024-04-19T14:35:53.713Z",
+      "alt": "Alice: Madness Returns Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/189ce8a793f944a9b47d15f52775173d/alice-madness-returns-30dl1.jpg",
+      "md5": "9d7c9f03491c8649fd417fb23a7383f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 830830,
+      "uploadedDate": "2024-04-19T14:35:56.639Z",
+      "alt": "Download Alice: Madness Returns Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0ffb3b0800b947fc84a8734004467797",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-02T00:01:09.262Z",
+  "lastModifiedDate": "2024-05-02T00:01:09.262Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\EA Games\\Alice Madness Returns"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "alicemadnessreturns.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "alicemadnessreturns.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AliceMadnessReturnsseyLC"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "9d8f5d768f4c4bebb2aa950c2955fc51",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2b12a8f2722a4772bd32fec66f2c2625",
+      "appId": "vivaldi",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

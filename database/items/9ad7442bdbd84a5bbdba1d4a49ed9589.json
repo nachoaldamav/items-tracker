@@ -1,0 +1,75 @@
+{
+  "id": "9ad7442bdbd84a5bbdba1d4a49ed9589",
+  "title": "Die Again",
+  "description": "Die Again is an innovative top-down shooter game filled with action and strategy. If you die, you can possess the closest enemy's body to keep playing. But be careful: if no one is near you, game over!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/56026b7396c04c3f934de1a3f0d23168/die-again-rgrsy.jpg",
+      "md5": "fa08a9def1e65fe518cd586d794667b9",
+      "width": 2560,
+      "height": 1440,
+      "size": 2453426,
+      "uploadedDate": "2024-01-26T10:41:58.727Z",
+      "alt": "Die Again Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/56026b7396c04c3f934de1a3f0d23168/die-again-1wxb8.png",
+      "md5": "fc38cc349a1fde87dac99449fdbd1d26",
+      "width": 1200,
+      "height": 1600,
+      "size": 3344519,
+      "uploadedDate": "2024-01-26T10:41:59.371Z",
+      "alt": "Download Die Again Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a3d688525a954efa8afc49bfe5464c80",
+  "status": "ACTIVE",
+  "creationDate": "2024-01-22T13:39:01.569Z",
+  "lastModifiedDate": "2024-03-20T11:02:15.869Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/{EpicID}/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/{EpicID}/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "30"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DieAgain_Game"
+    }
+  },
+  "entitlementName": "9ad7442bdbd84a5bbdba1d4a49ed9589",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "874569cc60c24659b1ca1e6f7e19838b",
+      "appId": "4a1cae3f48114118885055b11fbc766b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Catness Game Studios",
+  "developerId": "o-wc7ex43ujth2dba3zbaxhe7nqe96ca",
+  "endOfSupport": false,
+  "applicationId": "fghi4567Vx1xeicOkVZ2G9z5WUnr5gJh",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

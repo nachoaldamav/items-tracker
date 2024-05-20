@@ -1,0 +1,89 @@
+{
+  "id": "f3cbd9d65aa8410f819c0521394f7869",
+  "title": "Battlefield 4™ Premium Edition",
+  "description": "Embrace unrivaled destruction in Battlefield 4™. Revel in the glorious chaos of all-out war packed with rewarding, tactical challenges in an interactive environment.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8141dd49fe39421989a02983a3bbdb00/battlefield-4-1dncy.jpg",
+      "md5": "65cb26d746bd21c7bfceedb0d27ea857",
+      "width": 2560,
+      "height": 1440,
+      "size": 805581,
+      "uploadedDate": "2024-03-06T18:10:37.329Z",
+      "alt": "Battlefield 4 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8141dd49fe39421989a02983a3bbdb00/battlefield-4-2bdgl.jpg",
+      "md5": "71f9dc05961946867adc75a2e561794e",
+      "width": 1200,
+      "height": 1600,
+      "size": 863496,
+      "uploadedDate": "2024-03-06T18:10:42.081Z",
+      "alt": "Download Battlefield 4 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0a541deb1bbb42c987cb48d695431e18",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-04T15:38:26.252Z",
+  "lastModifiedDate": "2024-03-28T14:12:59.425Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\EA Games\\Battlefield 4"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "bf4.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "bf4.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Battlefield4"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "f3cbd9d65aa8410f819c0521394f7869",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1a8029490bc4480485b4008a8ffb85c9",
+      "appId": "gibanica",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "de972917187041e8a25fe270f7513e88",
+  "title": "My Island",
+  "description": "My Island",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c8ed6729a99f4052adc1479016e1929f/my-island-13ps9.jpg",
+      "md5": "29b43221b49623bcc1f4eeb216db95d1",
+      "width": 2560,
+      "height": 1440,
+      "size": 1616508,
+      "uploadedDate": "2024-01-11T17:38:52.746Z",
+      "alt": "My Island Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c8ed6729a99f4052adc1479016e1929f/my-island-1a85s.jpg",
+      "md5": "19e4ff817042af76e978cab708b40e92",
+      "width": 1200,
+      "height": 1600,
+      "size": 681819,
+      "uploadedDate": "2024-01-11T17:38:52.417Z",
+      "alt": "Download My Island Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8b87d2245d254bfc83415d4001b42a92",
+  "status": "ACTIVE",
+  "creationDate": "2024-01-03T04:56:15.359Z",
+  "lastModifiedDate": "2024-01-15T06:19:11.410Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "MyIsland"
+    }
+  },
+  "entitlementName": "de972917187041e8a25fe270f7513e88",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "24a265d553b649c98ad91799d7769bf6",
+      "appId": "483f14d3385b409d962ee2b8a45ca010",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SnowBabyGames",
+  "developerId": "o-2pzfwf8l7zk3bgha48huvuub3ag8ue",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

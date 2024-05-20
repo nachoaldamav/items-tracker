@@ -1,0 +1,63 @@
+{
+  "id": "c349f60c63024d08a1c2c387816e8ca4",
+  "title": "Void Prison",
+  "description": "Void Prison",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/26be8664e4ba4bfbb5234e7694eae092/void-prison-6dsno.jpg",
+      "md5": "cabdf0bcec0bc3f40ab3b7ff2283cfcd",
+      "width": 2560,
+      "height": 1440,
+      "size": 2433466,
+      "uploadedDate": "2023-03-28T12:44:46.853Z",
+      "alt": "Void Prison Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/26be8664e4ba4bfbb5234e7694eae092/void-prison-y42jk.jpg",
+      "md5": "5fc792584a950b3e20e9cfea50148175",
+      "width": 1200,
+      "height": 1600,
+      "size": 1302154,
+      "uploadedDate": "2023-03-28T12:45:21.411Z",
+      "alt": "Download Void Prison Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e8f68f559c424bb595657875ed90131a",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-30T07:00:30.354Z",
+  "lastModifiedDate": "2023-03-30T07:00:30.354Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "VoidPrisonZpsD0"
+    }
+  },
+  "entitlementName": "c349f60c63024d08a1c2c387816e8ca4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "94d37a9e503648fda0ee94e45089581f",
+      "appId": "983f2a538b6d43f9907bd9e937d19f5b",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "SneakyBox UAB",
+  "developerId": "o-x5zd26s55tpm852ee5bx2ptqr8t8pu",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

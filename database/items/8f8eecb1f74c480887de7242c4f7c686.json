@@ -1,0 +1,68 @@
+{
+  "id": "8f8eecb1f74c480887de7242c4f7c686",
+  "title": "Greak: Memories of Azur",
+  "description": "Greak: Memories of Azur is a side scrolling single-player game with hand-drawn animations. You'll take the role of three siblings: Greak, Adara and Raydel to guide them through Azur. Alternate control between them and use their unique abilities to escape from the Urlag invasion.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/382217441b8a4513bbebc2abcfca6df5/greak-memories-of-azur-zm872.png",
+      "md5": "50430c6edf5fbd5ca575e676ad233d31",
+      "width": 2560,
+      "height": 1440,
+      "size": 3908784,
+      "uploadedDate": "2023-09-07T00:12:07.947Z",
+      "alt": "Greak Memories of Azur Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/382217441b8a4513bbebc2abcfca6df5/greak-memories-of-azur-r93kf.png",
+      "md5": "aca96188c9c4086138e819b1b4879657",
+      "width": 1200,
+      "height": 1600,
+      "size": 2285252,
+      "uploadedDate": "2023-09-07T00:12:07.225Z",
+      "alt": "Download Greak Memories of Azur Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d79ece5d96db4e96b95ba4e1cfb050c2",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-10T11:00:02.637Z",
+  "lastModifiedDate": "2023-11-10T11:00:02.637Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Greak Memories of Azur_Data/Data/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Greak_MemoriesofAzur"
+    }
+  },
+  "entitlementName": "8f8eecb1f74c480887de7242c4f7c686",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ed731e8503844573a17ddb05d11d13f8",
+      "appId": "ac17cdea951849a2a72fca8a72cbcb11",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

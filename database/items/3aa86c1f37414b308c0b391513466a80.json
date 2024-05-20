@@ -1,0 +1,63 @@
+{
+  "id": "3aa86c1f37414b308c0b391513466a80",
+  "title": "3D City: Metaverse",
+  "description": "3D City: Metaverse",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ecc3d079fae84c089473da1960a1822f/3d-city-mlfml.png",
+      "md5": "7047975d30e34e7b650979b175ddec3c",
+      "width": 2560,
+      "height": 1440,
+      "size": 2324806,
+      "uploadedDate": "2023-10-05T10:23:52.459Z",
+      "alt": "3D City Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ecc3d079fae84c089473da1960a1822f/3d-city-1q137.png",
+      "md5": "798536e598b344bc049e45d7de41e832",
+      "width": 1200,
+      "height": 1600,
+      "size": 2887988,
+      "uploadedDate": "2023-10-05T10:37:38.185Z",
+      "alt": "Download 3D City Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "832915a6cdbc4da1889092021da40df2",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-11T13:43:27.613Z",
+  "lastModifiedDate": "2024-03-07T13:56:55.728Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "CityMetaverse"
+    }
+  },
+  "entitlementName": "3aa86c1f37414b308c0b391513466a80",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "17ebf24eb966439fabae9a44d3a235db",
+      "appId": "06d4958b0207414c807af21f47941e80",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "3D Studio",
+  "developerId": "o-3kg75rustzr4mrf2wn4y4dtvpfxlhv",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

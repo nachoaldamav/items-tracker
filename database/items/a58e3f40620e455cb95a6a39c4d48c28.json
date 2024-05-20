@@ -1,0 +1,62 @@
+{
+  "id": "a58e3f40620e455cb95a6a39c4d48c28",
+  "title": "Thomas' Tales",
+  "description": "Thomas' Tales",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/02868ea8c9e34a13b06957afdae7d021/thomas-tales-zd480.png",
+      "md5": "499d08aeacda985b3b8310cf98deecc0",
+      "width": 2560,
+      "height": 1440,
+      "size": 3593039,
+      "uploadedDate": "2023-04-21T18:10:10.453Z",
+      "alt": "Thomas' Tales Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/02868ea8c9e34a13b06957afdae7d021/thomas-tales-1vv5x.jpg",
+      "md5": "96b80779c4dc51525e84d0ddec8fa6b4",
+      "width": 1200,
+      "height": 1600,
+      "size": 204977,
+      "uploadedDate": "2023-04-21T18:10:08.989Z",
+      "alt": "Download Thomas' Tales Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b4b9992b61e5413496ca934dbacdb129",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-25T03:49:29.334Z",
+  "lastModifiedDate": "2023-04-25T03:49:29.334Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ThomasTalescrPUS"
+    }
+  },
+  "entitlementName": "a58e3f40620e455cb95a6a39c4d48c28",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "69998544cf1b4a96bbc346f6bc83cd2c",
+      "appId": "34f5ab82d0ba48ae867e87399b7c10f0",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "TOODOO STUDIO LLC",
+  "developerId": "o-dtlmh3mur439zjpwmzrvxs8vpgv467",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

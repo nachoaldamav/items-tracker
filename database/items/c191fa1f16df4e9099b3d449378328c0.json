@@ -1,0 +1,64 @@
+{
+  "id": "c191fa1f16df4e9099b3d449378328c0",
+  "title": "The Last Tater",
+  "description": "The Last Tater",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/505e8999e1954207a1801b707cf58c03/the-last-tater-6qnn0.png",
+      "md5": "bd8f3ba919880b85f6f7c2b1eddefa56",
+      "width": 2560,
+      "height": 1440,
+      "size": 2438472,
+      "uploadedDate": "2023-03-16T13:10:09.608Z",
+      "alt": "The Last Tater Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/505e8999e1954207a1801b707cf58c03/the-last-tater-1f2h9.png",
+      "md5": "1af7e971709d76b8d0c3c627ceeb498f",
+      "width": 1200,
+      "height": 1600,
+      "size": 1446994,
+      "uploadedDate": "2023-03-16T13:10:05.730Z",
+      "alt": "Download The Last Tater Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6b5f8a664b494764919f6aadb3e2a9d0",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-20T13:00:23.916Z",
+  "lastModifiedDate": "2023-03-20T13:00:23.916Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheLastTater"
+    }
+  },
+  "entitlementName": "c191fa1f16df4e9099b3d449378328c0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "57eb40673202473d912998c84f2f3e46",
+      "appId": "14fb3d831bf7486798754d0496dcd2f9",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Russpuppy LLC",
+  "developerId": "o-4ejldkvszzbrcdn3y7vaf9p3px3xj4",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

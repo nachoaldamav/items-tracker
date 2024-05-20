@@ -1,0 +1,76 @@
+{
+  "id": "59fdf842adb843c1a07d714c410e107d",
+  "title": "Astro Duel 2",
+  "description": "Astro Duel 2 is a sci-fi combat game combining top-down space dog fights with up-close platforming action. Whether versus or co-op, battle through space and on foot at the same time! Strike within the fully-destructible arenas or just nuke ‘em from orbit.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3251b927449a471c883aab00c076d63c/astro-duel-2-1y34f.png",
+      "md5": "878f1dab0304e8faa0d6454c7fe2b2d4",
+      "width": 2560,
+      "height": 1440,
+      "size": 3169923,
+      "uploadedDate": "2023-12-08T21:22:38.647Z",
+      "alt": "Astro Duel 2 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3251b927449a471c883aab00c076d63c/astro-duel-2-1hv9q.png",
+      "md5": "adcedda7f658a0ad2036c9eb82ba59fb",
+      "width": 1200,
+      "height": 1600,
+      "size": 1840889,
+      "uploadedDate": "2023-12-08T21:22:40.926Z",
+      "alt": "Download Astro Duel 2 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4a681a809a094e2c8dcc68353c68fed6",
+  "status": "ACTIVE",
+  "creationDate": "2022-05-24T13:34:45.500Z",
+  "lastModifiedDate": "2024-02-12T17:03:51.912Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Astro Duel 2 EOS/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/AstroDuel2_EOS/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "ad2_eos_save.xml"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AstroDuel2"
+    }
+  },
+  "entitlementName": "59fdf842adb843c1a07d714c410e107d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "913c00c2d2ae47c6b32a5a5735ba61da",
+      "appId": "e3c0d11648554383b33da58d075fd101",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Wild Rooster",
+  "developerId": "o-bkftz4vh5gcrv3aks6zkrtkulrgctm",
+  "endOfSupport": false,
+  "applicationId": "fghi4567JwpTWhUQFy96iuyOI6WPqjZC",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

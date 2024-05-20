@@ -1,0 +1,72 @@
+{
+  "id": "89deef911413455f8b6f1110436c24e0",
+  "title": "Kaze and the Wild Masks",
+  "description": "Go on a journey as Kaze in this 90’s classics inspired platformer. When the Crystal Islands get cursed, Kaze needs to save her friend Hogo while facing enraged living vegetables. Find the Wild Masks to unleash the powers of the legendary guardians and master land, sky and sea.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/834996d652f343dead5ac2465d8000d4/kaze-and-the-wild-masks-2d5mg.jpg",
+      "md5": "26b6f6f232a36ec93d169d0012a85739",
+      "width": 2560,
+      "height": 1440,
+      "size": 1130553,
+      "uploadedDate": "2023-11-02T14:23:40.102Z",
+      "alt": "Kaze and the Wild Masks Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/834996d652f343dead5ac2465d8000d4/kaze-and-the-wild-masks-1mjuj.png",
+      "md5": "721a29e2b5537e7a730e03af16ac2ffe",
+      "width": 1200,
+      "height": 1600,
+      "size": 2733324,
+      "uploadedDate": "2023-11-02T14:23:41.884Z",
+      "alt": "Download Kaze and the Wild Masks Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "87b2e2971d6b485085001a91c73a9718",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-20T14:18:18.261Z",
+  "lastModifiedDate": "2023-11-20T14:18:18.261Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/PixelHive Game Studio/Kaze and the Wild Masks/Save/{EpicID}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "saveFile.kaz"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KazeandtheWildMasks"
+    }
+  },
+  "entitlementName": "89deef911413455f8b6f1110436c24e0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a6d9aaadb32046c8b378ccf02f4662de",
+      "appId": "dd1dc1461cb94171a14ddd9ec184229d",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "SOEDESCO",
+  "developerId": "o-9uf2bsrkptwqbkpy867grcbj5jxrta",
+  "endOfSupport": false,
+  "applicationId": "fghi45676mk5wHGnfevDAMdj3ZH1S4Wq",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

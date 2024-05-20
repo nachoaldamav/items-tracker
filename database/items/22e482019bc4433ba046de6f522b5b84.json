@@ -1,0 +1,63 @@
+{
+  "id": "22e482019bc4433ba046de6f522b5b84",
+  "title": "WARSHIFT",
+  "description": "WARSHIFT",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/90f12665d33f403d8d2f9e951a6af108/warshift-1smu6.jpg",
+      "md5": "6c89efa8390628344c73c4ff07923714",
+      "width": 2560,
+      "height": 1440,
+      "size": 743548,
+      "uploadedDate": "2023-10-25T14:46:01.170Z",
+      "alt": "WARSHIFT Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/90f12665d33f403d8d2f9e951a6af108/warshift-1rq4v.jpg",
+      "md5": "a915da3a5d87056238be026ba63c2901",
+      "width": 1200,
+      "height": 1600,
+      "size": 448199,
+      "uploadedDate": "2023-10-25T14:46:00.948Z",
+      "alt": "Download WARSHIFT Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d59d2460487f408d8d26e89165ff7fec",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-09T15:43:48.598Z",
+  "lastModifiedDate": "2023-11-09T15:43:48.598Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "WARSHIFT"
+    }
+  },
+  "entitlementName": "22e482019bc4433ba046de6f522b5b84",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fa29d1d2e8a24d3a99ca39d755efb5b3",
+      "appId": "0d53888e8f574d4c80e52e2defaeaf00",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Nominia",
+  "developerId": "o-megvghu9m5t85u3rd899l53v92sb3m",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,68 @@
+{
+  "id": "1e7de6ddb8614be78c931e4a934dfd81",
+  "title": "Golazo2",
+  "description": "Golazo2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/cabe2e59ee3449e398ff21c07d35c579/golazo-2-3bnmt.png",
+      "md5": "df07de7e63d4427997439363d4020afc",
+      "width": 2560,
+      "height": 1440,
+      "size": 3534109,
+      "uploadedDate": "2022-12-12T19:52:08.372Z",
+      "alt": "Golazo 2 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/cabe2e59ee3449e398ff21c07d35c579/golazo-2-5ek57.png",
+      "md5": "fc195c04c836a7437995270972c5d6f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 1709885,
+      "uploadedDate": "2022-12-12T19:52:09.697Z",
+      "alt": "Download Golazo 2 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9d663979369b4467bafbaadac1b569b6",
+  "status": "ACTIVE",
+  "creationDate": "2022-08-19T18:59:23.372Z",
+  "lastModifiedDate": "2022-12-12T19:52:38.755Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/My Games/Documents/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Golazo2mkk4b"
+    }
+  },
+  "entitlementName": "1e7de6ddb8614be78c931e4a934dfd81",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e925977b76ea45eab09fb5b04a0b617f",
+      "appId": "3648d2390bdf4644926acffb8708ac45",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Purple Tree S R L",
+  "developerId": "o-4342zuayv2l45dpyd5l82t564n73uj",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "2b453028dd4a421e84c5612fbef8cb42",
+  "title": "Arcanium",
+  "description": "Arcanium",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/38adf9378a0f4fd5895cc4e29d7cf1a6/arcanium-1cbl6.jpg",
+      "md5": "c76f3ac73aeda6f47f77f5a64be16828",
+      "width": 2560,
+      "height": 1440,
+      "size": 2208457,
+      "uploadedDate": "2022-12-13T06:40:56.541Z",
+      "alt": "Arcanium Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/38adf9378a0f4fd5895cc4e29d7cf1a6/arcanium-1hdpn.jpg",
+      "md5": "3044fd5580690e45c2432da95f569603",
+      "width": 1200,
+      "height": 1600,
+      "size": 1142825,
+      "uploadedDate": "2022-12-13T06:40:58.526Z",
+      "alt": "Download Arcanium Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "164204939e7f4c9aae8349a62355befe",
+  "status": "ACTIVE",
+  "creationDate": "2022-10-05T20:16:54.842Z",
+  "lastModifiedDate": "2023-06-14T02:15:25.805Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ArcaniumzNdR4"
+    }
+  },
+  "entitlementName": "2b453028dd4a421e84c5612fbef8cb42",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ab696cd3638e4951a743ae11388fef32",
+      "appId": "a836b17221094cc885de10b33184aa01",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Rogue Games, Inc.",
+  "developerId": "o-uf2lr9jar96m9qssppdgmal3j6alyq",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

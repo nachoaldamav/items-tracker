@@ -1,0 +1,72 @@
+{
+  "id": "dcfb450ce57b413f8ca24927c450aab6",
+  "title": "Universe Has No Favorites DEMO",
+  "description": "Universe Has No Favorites DEMO",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ff549245a1da48a7b60f865c9a36665e/universe-has-no-favorites-8hxx9.png",
+      "md5": "1009cc27c6ec686855bee23394cd199d",
+      "width": 2560,
+      "height": 1440,
+      "size": 2605389,
+      "uploadedDate": "2024-01-06T09:15:27.237Z",
+      "alt": "Universe Has No Favorites Universe Has No Favorites DEMO Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ff549245a1da48a7b60f865c9a36665e/universe-has-no-favorites-a9h9x.png",
+      "md5": "7d9044953da7bd31876df6c9ce0bd80d",
+      "width": 1200,
+      "height": 1600,
+      "size": 1485235,
+      "uploadedDate": "2024-01-06T09:15:27.653Z",
+      "alt": "Download Universe Has No Favorites Universe Has No Favorites DEMO Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fbce8614801c4fb7bf5900270c5b47d8",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-29T15:30:45.710Z",
+  "lastModifiedDate": "2024-04-07T07:54:26.330Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/dsisoftworks/uhnfdemo/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/dsisoftworks/uhnfdemo/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DemoUniverseHasNo3c057"
+    }
+  },
+  "entitlementName": "dcfb450ce57b413f8ca24927c450aab6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c33bd8880c4941e1be4a84006b367722",
+      "appId": "9e9f5c0d23804994906eae2fd37f05a6",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Walker & Volf",
+  "developerId": "o-ucnjrtwgf3uasf8tgbahp6dcdex5ru",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "94c616ad06684ec4997f3ce91c886982",
+  "title": "The Ecdysis",
+  "description": "The Ecdysis",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/103e7f7047354233b8fefb342b38d6f3/the-ecdysis-15254.jpg",
+      "md5": "49c587a22891a5da103503a8fd01efaf",
+      "width": 2560,
+      "height": 1440,
+      "size": 3029250,
+      "uploadedDate": "2023-09-02T22:29:36.792Z",
+      "alt": "The Ecdysis Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/103e7f7047354233b8fefb342b38d6f3/the-ecdysis-7obzu.jpg",
+      "md5": "a8fbb55607a96d00cb5d5dafb4f041a5",
+      "width": 1200,
+      "height": 1600,
+      "size": 954651,
+      "uploadedDate": "2023-09-02T22:29:35.117Z",
+      "alt": "Download The Ecdysis Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "824dd71739cf45fba9d997979856c5a9",
+  "status": "ACTIVE",
+  "creationDate": "2023-08-01T05:31:03.539Z",
+  "lastModifiedDate": "2023-11-23T05:50:08.473Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheEcdysis"
+    }
+  },
+  "entitlementName": "94c616ad06684ec4997f3ce91c886982",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e21abc17cc16414a9b8e187159fae535",
+      "appId": "045109b19bc44d68ab39029ad22e4cfc",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Hari prasath",
+  "developerId": "o-j3nfv7yaznza3rdcgvxs96zyqeurk7",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

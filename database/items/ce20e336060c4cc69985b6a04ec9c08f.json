@@ -1,0 +1,63 @@
+{
+  "id": "ce20e336060c4cc69985b6a04ec9c08f",
+  "title": "John Mambo",
+  "description": "John Mambo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f419fc4d9f6b4310ba264b60b68fb418/john-mambo-k1gq9.jpg",
+      "md5": "a06d2df4f0e15132add557a3a5afa04d",
+      "width": 2560,
+      "height": 1440,
+      "size": 957794,
+      "uploadedDate": "2024-01-11T14:06:03.219Z",
+      "alt": "John Mambo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f419fc4d9f6b4310ba264b60b68fb418/john-mambo-1m2je.jpg",
+      "md5": "88fc0da0ae680d0997b4bf1edb02852f",
+      "width": 1200,
+      "height": 1600,
+      "size": 535045,
+      "uploadedDate": "2024-01-11T14:06:02.616Z",
+      "alt": "Download John Mambo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fa0a56fac4a44c1d9288fa257d4a9681",
+  "status": "ACTIVE",
+  "creationDate": "2024-01-11T13:47:21.997Z",
+  "lastModifiedDate": "2024-01-19T15:51:49.491Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "JohnMambo"
+    }
+  },
+  "entitlementName": "ce20e336060c4cc69985b6a04ec9c08f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3df94de821e341ab99724350112cd40b",
+      "appId": "233c4248f2ad47d2a619c92c9dc704d7",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Plug In Digital SAS",
+  "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "d5063d1575714ff6b8304a09f17a572e",
+  "title": "Aftertime",
+  "description": "Aftertime",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/95197fd8a99e41b29467f3552aad92dd/aftertime-18wnb.jpg",
+      "md5": "70125ea927d9e5479f47d4d9738dbda6",
+      "width": 2560,
+      "height": 1440,
+      "size": 2565630,
+      "uploadedDate": "2023-04-06T02:57:47.230Z",
+      "alt": "Aftertime Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/95197fd8a99e41b29467f3552aad92dd/aftertime-1jjjn.jpg",
+      "md5": "8e53f4a4d9903d1c5992c35a39cb809f",
+      "width": 1200,
+      "height": 1600,
+      "size": 1389225,
+      "uploadedDate": "2023-04-06T02:56:49.899Z",
+      "alt": "Download Aftertime Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "126fb75a76e04d59bf74f05b31810901",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-16T01:37:19.691Z",
+  "lastModifiedDate": "2023-04-28T06:21:01.680Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Aftertime"
+    }
+  },
+  "entitlementName": "d5063d1575714ff6b8304a09f17a572e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b41bd8f54c8d4956b5d8a62c370015c6",
+      "appId": "d728b3cf52ae4a329f57561846898c46",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Dazzling Divine",
+  "developerId": "o-5467j4fzdjrvplrcwdd36dh6x3jvsg",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

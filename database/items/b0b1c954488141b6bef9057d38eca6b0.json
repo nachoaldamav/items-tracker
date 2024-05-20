@@ -1,0 +1,63 @@
+{
+  "id": "b0b1c954488141b6bef9057d38eca6b0",
+  "title": "Voodolls",
+  "description": "Voodolls",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b0c2a5ac06f64ce08f5e99da631dae2b/voodolls-1q255.png",
+      "md5": "5fe6f3eba78fcea136cecba2a7f7524c",
+      "width": 2560,
+      "height": 1440,
+      "size": 4153881,
+      "uploadedDate": "2023-02-23T14:11:13.396Z",
+      "alt": "Voodolls Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b0c2a5ac06f64ce08f5e99da631dae2b/voodolls-1nzjx.png",
+      "md5": "6e7e4ff80d0c881b187095128d992c71",
+      "width": 1200,
+      "height": 1600,
+      "size": 2642132,
+      "uploadedDate": "2023-02-23T14:10:50.908Z",
+      "alt": "Download Voodolls Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d476c7561c7b47a3a615000986bade16",
+  "status": "ACTIVE",
+  "creationDate": "2023-01-12T10:38:34.724Z",
+  "lastModifiedDate": "2023-05-09T07:25:11.550Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Voodolls"
+    }
+  },
+  "entitlementName": "b0b1c954488141b6bef9057d38eca6b0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c728bdcba90e4bf1a2e3cc461edc2ba3",
+      "appId": "29607c382d2d4e2aae128a1280d4cc9f",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Tate Multimedia",
+  "developerId": "o-jryv47hwccq9qf7cya65lg9wz4sk33",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

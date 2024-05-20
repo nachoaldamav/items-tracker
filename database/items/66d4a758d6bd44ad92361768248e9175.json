@@ -1,0 +1,80 @@
+{
+  "id": "66d4a758d6bd44ad92361768248e9175",
+  "title": "Saviorless",
+  "description": "Saviorless is a stylish dark fantasy action-platformer with beautiful hand-drawn art and animation, featuring two distinctive main characters on their quest to escape from a cursed land known as the Smiling Islands.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8365783825ad413896b1bb5f7a52e5ee/saviorless-offer-1m5bi.jpg",
+      "md5": "13a43d800b7717961234310b24d5032c",
+      "width": 2560,
+      "height": 1440,
+      "size": 503434,
+      "uploadedDate": "2022-08-11T15:28:55.929Z",
+      "alt": "Saviorless Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8365783825ad413896b1bb5f7a52e5ee/saviorless-7ltbg.png",
+      "md5": "ab0565ac0eaaec96b76ba7bd46c48565",
+      "width": 1200,
+      "height": 1600,
+      "size": 2757729,
+      "uploadedDate": "2024-02-09T00:19:25.483Z",
+      "alt": "Download Saviorless Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2ec76fb6f3d545fab65e06a4bfb628dc",
+  "status": "ACTIVE",
+  "creationDate": "2022-08-11T10:24:08.403Z",
+  "lastModifiedDate": "2024-03-22T10:33:50.374Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/EmptyHeadGames/Saviorless/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/EmptyHeadGames/Saviorless/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.json"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SaviorlessBXuq4"
+    }
+  },
+  "entitlementName": "66d4a758d6bd44ad92361768248e9175",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "eaf3ad92c4e34c56bdc04ef9101fe209",
+      "appId": "fc2983d857a04255a8fb5147288a96de",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Plug In Digital SAS",
+  "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

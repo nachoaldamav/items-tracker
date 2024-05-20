@@ -1,0 +1,63 @@
+{
+  "id": "ae119499a7134e338f06a082ba7e3cdf",
+  "title": "Kredolis",
+  "description": "Kredolis",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/039149b080b9425d9cc027d2749007c3/kredolis-offer-1cdix.jpg",
+      "md5": "f0e5f2dd909d8f9dfeffbf03872c9518",
+      "width": 2560,
+      "height": 1440,
+      "size": 1079220,
+      "uploadedDate": "2022-09-22T11:49:08.383Z",
+      "alt": "Kredolis Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/039149b080b9425d9cc027d2749007c3/download-kredolis-offer-1ys13.jpg",
+      "md5": "403ac854a9712ca502373a2c763e167a",
+      "width": 1200,
+      "height": 1600,
+      "size": 524038,
+      "uploadedDate": "2022-09-22T11:49:07.652Z",
+      "alt": "Download Kredolis Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "88cd0bb7736b4e7a9a11083f48f94ee4",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-22T10:10:32.004Z",
+  "lastModifiedDate": "2022-09-29T20:55:33.539Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "KredolisTgbIU"
+    }
+  },
+  "entitlementName": "ae119499a7134e338f06a082ba7e3cdf",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c3f890e05d3e48d48aca2e5ac19c63a1",
+      "appId": "3eaf08e299f544bd8f789d2bebcfb725",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Pharos Interactive",
+  "developerId": "o-la66q8zry5uevf4z3yh7atwgyqkf5m",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

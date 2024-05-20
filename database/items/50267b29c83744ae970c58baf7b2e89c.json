@@ -1,0 +1,63 @@
+{
+  "id": "50267b29c83744ae970c58baf7b2e89c",
+  "title": "Zeeverse",
+  "description": "Zeeverse",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6124ac616544470e8400561a04115210/zeeverse-stvyw.jpg",
+      "md5": "b341274eb1b4b715a27a9a9654f226f7",
+      "width": 2560,
+      "height": 1440,
+      "size": 810595,
+      "uploadedDate": "2023-12-05T15:29:34.586Z",
+      "alt": "Zeeverse Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6124ac616544470e8400561a04115210/zeeverse-1rw2h.jpg",
+      "md5": "26f912da9d1a99eb086fa5edb829f315",
+      "width": 1200,
+      "height": 1600,
+      "size": 612272,
+      "uploadedDate": "2023-12-05T15:32:26.431Z",
+      "alt": "Download Zeeverse Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a99f555b20ad4e49a077ae50ebbd1238",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-08T21:05:35.212Z",
+  "lastModifiedDate": "2024-04-04T08:24:31.413Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ZeeverseSEpYE"
+    }
+  },
+  "entitlementName": "50267b29c83744ae970c58baf7b2e89c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c5be6f549a5b41bcb16262564d72f571",
+      "appId": "2e9167c2a0854da0882b8d72deb63628",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Zeeverse",
+  "developerId": "o-29kdj7vl7dmrvj4v39mh8zduq4lwb2",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

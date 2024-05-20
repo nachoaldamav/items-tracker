@@ -1,0 +1,76 @@
+{
+  "id": "1217e928f64544b083f2edf7098f71bc",
+  "title": "Play with Me - Escape Room",
+  "description": "Play with Me - Escape Room",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d9977d49d9cc49b9a5765e371ed9bacb/play-with-me--escape-room-1i44w.png",
+      "md5": "f123895fdb44f3f1863cfe29c55e47ff",
+      "width": 2560,
+      "height": 1440,
+      "size": 4115450,
+      "uploadedDate": "2023-06-27T13:54:16.586Z",
+      "alt": "Play with Me - Escape Room Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d9977d49d9cc49b9a5765e371ed9bacb/play-with-me--escape-room-19fkf.png",
+      "md5": "0471174ee4b46c8e4b157472bc228e75",
+      "width": 1200,
+      "height": 1600,
+      "size": 2696936,
+      "uploadedDate": "2023-06-27T13:53:04.379Z",
+      "alt": "Download Play with Me - Escape Room Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c3e57c64bb4a468f8261f4038f3e903e",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-25T18:37:26.543Z",
+  "lastModifiedDate": "2024-04-20T18:53:16.899Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Play with Me/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Play with Me/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PlaywithMeEscapeRoomBkXZU"
+    }
+  },
+  "entitlementName": "1217e928f64544b083f2edf7098f71bc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bdf0d8282346487583bb9cc355a7c6d4",
+      "appId": "14369cb69338449d85aa9fbc714dba5c",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Airem",
+  "developerId": "o-wndrw4cwfttmgjzmh3fk38euecp7hf",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

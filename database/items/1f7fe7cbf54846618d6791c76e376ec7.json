@@ -1,0 +1,65 @@
+{
+  "id": "1f7fe7cbf54846618d6791c76e376ec7",
+  "title": "IHAS",
+  "description": "IHAS",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/484db605806242d1bb54944f53fc6839/ihas-gs7a4.png",
+      "md5": "42af95daaab997e2f9726d9bba7b5814",
+      "width": 2560,
+      "height": 1440,
+      "size": 1584308,
+      "uploadedDate": "2023-11-04T16:31:55.091Z",
+      "alt": "IHAS Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/484db605806242d1bb54944f53fc6839/ihas-1lpfm.png",
+      "md5": "3efafc5aa45363d1ed3b3971c85f2fa4",
+      "width": 1200,
+      "height": 1600,
+      "size": 971759,
+      "uploadedDate": "2023-11-04T16:31:54.232Z",
+      "alt": "Download IHAS Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "306a3dc5437a43d29e58661fc6f391f2",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-11T15:38:38.447Z",
+  "lastModifiedDate": "2024-01-24T18:44:43.452Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/IHAS/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "IHAS"
+    }
+  },
+  "entitlementName": "1f7fe7cbf54846618d6791c76e376ec7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "43959d93561b44e0834b640dfd61d043",
+      "appId": "f206ec8cd26f4fdf9ce6d0f5c9b6235c",
+      "platform": []
+    }
+  ],
+  "developer": "The Difference Studio",
+  "developerId": "o-7xurz2s8tb85xt6bq56fuv6mmp3np7",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

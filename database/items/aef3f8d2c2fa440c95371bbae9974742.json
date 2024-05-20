@@ -1,0 +1,67 @@
+{
+  "id": "aef3f8d2c2fa440c95371bbae9974742",
+  "title": "DeadPoly",
+  "description": "DeadPoly",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7d8d27e8188e49918e26b76ebe56077e/deadpoly-1fcs8.jpg",
+      "md5": "45d2b0bc2e8906554b7a090ea4733257",
+      "width": 2560,
+      "height": 1440,
+      "size": 313362,
+      "uploadedDate": "2024-02-24T07:36:14.954Z",
+      "alt": "DeadPoly Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7d8d27e8188e49918e26b76ebe56077e/deadpoly-xa0yl.jpg",
+      "md5": "abafb247b54b9ea7b0cc83a9de389033",
+      "width": 1200,
+      "height": 1600,
+      "size": 222306,
+      "uploadedDate": "2024-02-24T07:36:14.902Z",
+      "alt": "Download DeadPoly Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "70de45f56cbe43b3ae198624dd9f032f",
+  "status": "ACTIVE",
+  "creationDate": "2024-02-26T15:58:39.898Z",
+  "lastModifiedDate": "2024-02-26T15:58:39.898Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/DeadPoly/Saved\\SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DeadPoly"
+    }
+  },
+  "entitlementName": "aef3f8d2c2fa440c95371bbae9974742",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "70b50949ed52491caa618899e090e6fa",
+      "appId": "c99467c28c2a4aabb17e16ddf5b7282e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "My Team Coupixel",
+  "developerId": "o-atqcn8ncl5vqhk58w4szh27lju39cs",
+  "endOfSupport": false,
+  "applicationId": "fghi4567orCjLvaLB4QN2HRJKzybHIEH",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

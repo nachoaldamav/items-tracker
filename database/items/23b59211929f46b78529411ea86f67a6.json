@@ -1,0 +1,64 @@
+{
+  "id": "23b59211929f46b78529411ea86f67a6",
+  "title": "I Love Finding Cats",
+  "description": "I Love Finding Cats",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0604447ae26f4326b69a7ad683ffa074/i-love-finding-cats-idz6d.png",
+      "md5": "3a156ab049e98d27c4ed23ba520a3afc",
+      "width": 2560,
+      "height": 1440,
+      "size": 3309596,
+      "uploadedDate": "2023-06-02T07:42:59.218Z",
+      "alt": "I Love Finding Cats Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0604447ae26f4326b69a7ad683ffa074/i-love-finding-cats-11xz2.png",
+      "md5": "9543772d4bd84f40aea20d38b16e726c",
+      "width": 1200,
+      "height": 1600,
+      "size": 2720582,
+      "uploadedDate": "2023-06-02T08:00:46.348Z",
+      "alt": "Download I Love Finding Cats Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "22d7d08b02de4ce79b0316ced5064741",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-26T04:22:10.394Z",
+  "lastModifiedDate": "2023-11-08T20:30:51.875Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ILoveFindingCatsRn4Ju"
+    }
+  },
+  "entitlementName": "23b59211929f46b78529411ea86f67a6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b397ad4681d3476fbb68642c513bbc2e",
+      "appId": "4d1307e086ca4fdfab081a1aa51a3971",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Boomzap Inc.",
+  "developerId": "o-ptg5z8kghdkblj5x6m2ns9mc8lpt4d",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

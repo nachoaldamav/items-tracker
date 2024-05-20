@@ -1,0 +1,64 @@
+{
+  "id": "6f6518e87aee46ffb3b229166890407f",
+  "title": "Fireburst",
+  "description": "Fireburst",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f65180b5fb004885aeb2044c9530bdc8/fireburst-offer-nqy7e.png",
+      "md5": "6451cfe4f83828f68a7adc75c8b47623",
+      "width": 2560,
+      "height": 1440,
+      "size": 2089867,
+      "uploadedDate": "2022-08-12T00:52:18.902Z",
+      "alt": "Fireburst Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f65180b5fb004885aeb2044c9530bdc8/download-fireburst-offer-er8w9.png",
+      "md5": "d9603b53358671bf5c9c5039b7abe49e",
+      "width": 1200,
+      "height": 1600,
+      "size": 2764535,
+      "uploadedDate": "2022-08-12T00:52:18.031Z",
+      "alt": "Download Fireburst Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "89512c1a466c41eb9ed2b172f2478806",
+  "status": "ACTIVE",
+  "creationDate": "2022-07-30T14:30:56.357Z",
+  "lastModifiedDate": "2024-04-02T00:14:24.364Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Fireburst"
+    }
+  },
+  "entitlementName": "6f6518e87aee46ffb3b229166890407f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4155c44a779a4c4c83c77c105026118a",
+      "appId": "d7d80d76338c462ca13ef488ecd8ec1f",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Strategy First",
+  "developerId": "o-a3vefcg43bn6j4lwc7qs8n5y38jm7k",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

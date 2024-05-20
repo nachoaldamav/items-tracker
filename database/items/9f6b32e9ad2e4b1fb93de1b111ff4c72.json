@@ -1,0 +1,63 @@
+{
+  "id": "9f6b32e9ad2e4b1fb93de1b111ff4c72",
+  "title": "Clockwork Survivors",
+  "description": "Clockwork Survivors",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9fed198cdda04fd7beda8e25ad797a70/clockwork-survivors-195cc.png",
+      "md5": "722d414eda8b57bff9dbf70eb46d4eae",
+      "width": 2560,
+      "height": 1440,
+      "size": 2423316,
+      "uploadedDate": "2023-03-14T08:23:16.688Z",
+      "alt": "Clockwork Survivors Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9fed198cdda04fd7beda8e25ad797a70/clockwork-survivors-laq3d.png",
+      "md5": "69b13584ef3ef673bb40bea9df336656",
+      "width": 1200,
+      "height": 1600,
+      "size": 1427527,
+      "uploadedDate": "2023-03-14T08:23:15.780Z",
+      "alt": "Download Clockwork Survivors Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7b159d99691f4460b5060b771344cc25",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-13T08:05:05.869Z",
+  "lastModifiedDate": "2023-03-23T08:30:27.595Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ClockworkSurvivors8L72u"
+    }
+  },
+  "entitlementName": "9f6b32e9ad2e4b1fb93de1b111ff4c72",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d66e7106a2f940968fb51dc5931f51bd",
+      "appId": "08bbddd53db6462095c656f7711d5eff",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Cool Smithy Games",
+  "developerId": "o-6xn635bxw2m2mfdfbndh55s84erfr3",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

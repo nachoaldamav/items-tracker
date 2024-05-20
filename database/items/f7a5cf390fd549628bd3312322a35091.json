@@ -1,0 +1,67 @@
+{
+  "id": "f7a5cf390fd549628bd3312322a35091",
+  "title": "Reyna Darkness",
+  "description": "Reyna Darkness",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6ce1bf288e114d22ab86840514b8bca1/reyna-darkness-1uv6l.jpg",
+      "md5": "82a65eba1732e5638334b5ef285a53b1",
+      "width": 2560,
+      "height": 1440,
+      "size": 1140490,
+      "uploadedDate": "2023-05-24T13:34:04.020Z",
+      "alt": "Reyna Darkness Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6ce1bf288e114d22ab86840514b8bca1/reyna-darkness-1kbhq.jpg",
+      "md5": "b8af0508c2e6b09cee0649aee76398ab",
+      "width": 1200,
+      "height": 1600,
+      "size": 671150,
+      "uploadedDate": "2023-05-24T13:53:27.691Z",
+      "alt": "Download Reyna Darkness Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f23600737cfe43d0a3c807c938c5e94b",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-15T20:14:53.411Z",
+  "lastModifiedDate": "2024-03-01T23:09:46.108Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/ReynaDarkness/Saved/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ReynaDarkness"
+    }
+  },
+  "entitlementName": "f7a5cf390fd549628bd3312322a35091",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4e29b25f04324be08bdb78d38967661e",
+      "appId": "1a20b8e8509b4c2b96cb10d2495c005d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Playhabits",
+  "developerId": "o-qcycglwsz73h944c6rwak99br3h485",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

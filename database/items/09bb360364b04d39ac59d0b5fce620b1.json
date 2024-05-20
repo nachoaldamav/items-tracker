@@ -1,0 +1,67 @@
+{
+  "id": "09bb360364b04d39ac59d0b5fce620b1",
+  "title": "Aron's Adventure: Magic Reborn",
+  "description": "Aron's Adventure: Magic Reborn",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e8f32d8c16cc4b469a8c2090b106e92e/arons-adventure-15ns7.jpg",
+      "md5": "e54839022b04d638d20eed5056fdf14d",
+      "width": 2560,
+      "height": 1440,
+      "size": 2483523,
+      "uploadedDate": "2023-10-17T08:21:25.471Z",
+      "alt": "Aron's Adventure Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e8f32d8c16cc4b469a8c2090b106e92e/arons-adventure-l0npm.jpg",
+      "md5": "4a08a5a6dc14be5548cfa07515a34bba",
+      "width": 1200,
+      "height": 1600,
+      "size": 1395565,
+      "uploadedDate": "2023-10-17T08:19:16.343Z",
+      "alt": "Download Aron's Adventure Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9b5a9569674e4d08afe18dc20a697e0e",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-25T19:40:53.503Z",
+  "lastModifiedDate": "2023-10-25T19:40:53.503Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/AronsAdventure/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AronsAdventure"
+    }
+  },
+  "entitlementName": "09bb360364b04d39ac59d0b5fce620b1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a73883f4346e4fe8be4e13ba4d8876f5",
+      "appId": "dd9115cbe48347c6b22abb3df654715f",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Tim van Kan",
+  "developerId": "o-tqc4r64ykwv47eshfnja4l4h6dvpmp",
+  "endOfSupport": false,
+  "applicationId": "fghi456785GdI3xmKwzDbVhs0tmmsqLQ",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

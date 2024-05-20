@@ -1,0 +1,67 @@
+{
+  "id": "759cbe84099f4227bc53e61ec2f6380a",
+  "title": "Pilgrims",
+  "description": "Roam the land as you please and make new friends, share a laugh with your fellow travelers and help them complete their little stories, your way. How many different solutions can you find?",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-1pqa1.png",
+      "md5": "53755699388256f6872a5beb482fda40",
+      "width": 2560,
+      "height": 1440,
+      "size": 3572363,
+      "uploadedDate": "2023-04-03T12:36:49.934Z",
+      "alt": "Pilgrims Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-crj7i.jpg",
+      "md5": "16f2c29947c880f877fdd1ac19d21076",
+      "width": 1200,
+      "height": 1600,
+      "size": 169554,
+      "uploadedDate": "2023-04-03T12:36:48.197Z",
+      "alt": "Download Pilgrims Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0693e8391e49492096424712a5595484",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-12T16:17:43.233Z",
+  "lastModifiedDate": "2023-06-14T11:11:29.822Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Saves/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Pilgrims8sfR2"
+    }
+  },
+  "entitlementName": "759cbe84099f4227bc53e61ec2f6380a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4e5d29160c744a88b0b3715180f5032b",
+      "appId": "956ee1dc4d5846648dc0666d7994284f",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Amanita Design s.r.o.",
+  "developerId": "o-9yx3b8bxbr9g2r3z7ahpmgphp2d5kh",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

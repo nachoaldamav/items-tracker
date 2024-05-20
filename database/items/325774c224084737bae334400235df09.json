@@ -1,0 +1,76 @@
+{
+  "id": "325774c224084737bae334400235df09",
+  "title": "Cat Slide Tiles",
+  "description": "Description is not set",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/fee7f0ed839c4cdd9b99eddb3128b543/cat-slide-tiles-3lcco.png",
+      "md5": "e26b17d46fb8cdccf94084d05b77d207",
+      "width": 2560,
+      "height": 1440,
+      "size": 774177,
+      "uploadedDate": "2024-02-11T18:33:09.466Z",
+      "alt": "Cat Slide Tiles Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/fee7f0ed839c4cdd9b99eddb3128b543/cat-slide-tiles-1d0ly.png",
+      "md5": "852c25f3b4cca9a6281fedf3b241886c",
+      "width": 1200,
+      "height": 1600,
+      "size": 622413,
+      "uploadedDate": "2024-02-11T18:33:12.574Z",
+      "alt": "Download Cat Slide Tiles Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "344d0216bb1f4f5ca084a7a613478efa",
+  "status": "ACTIVE",
+  "creationDate": "2024-02-14T18:07:11.813Z",
+  "lastModifiedDate": "2024-02-14T18:07:11.813Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Minicactus Games/Cat Slide Tiles/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "saveDataEpic.txt"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "5"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CatSlideTiles"
+    }
+  },
+  "entitlementName": "325774c224084737bae334400235df09",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bba4b3a870c242cbaf5c9ac7d54b4123",
+      "appId": "d781fb2e4965499e9c8c8f1df95cb579",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Minicactus Games",
+  "developerId": "o-j4k6bjah98lttukljv4vfqn3883sbv",
+  "endOfSupport": false,
+  "applicationId": "fghi456736J9lQ375vHBEoNGCQp32w2c",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

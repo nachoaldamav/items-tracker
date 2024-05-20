@@ -1,0 +1,67 @@
+{
+  "id": "0bdda5a6319447d2b3fdb62d1f915834",
+  "title": "It's a Wrap! Demo",
+  "description": "It's a Wrap! is a challenging puzzle game about making movies in 1980s Hollywood. Figure out the perfect timing of props, actors, and special effects as the Director. Then jump into the scene as the movie's star in a traditional 2D platformer.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/cc4126a76cc748dba8d4dfb28cae05e8/its-a-wrap-vy03o.jpg",
+      "md5": "c87a6f1c2ba924f1c6baae431bfc8768",
+      "width": 2560,
+      "height": 1440,
+      "size": 3104911,
+      "uploadedDate": "2023-07-02T15:04:20.015Z",
+      "alt": "It's a Wrap It's a Wrap! Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/cc4126a76cc748dba8d4dfb28cae05e8/its-a-wrap-1nkx6.jpg",
+      "md5": "de5345f0ec920fe611af32711b886e9f",
+      "width": 1200,
+      "height": 1600,
+      "size": 1757604,
+      "uploadedDate": "2023-07-02T15:04:19.764Z",
+      "alt": "Download It's a Wrap It's a Wrap! Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "810797d6d1c640068ce75d45b85d2423",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-30T16:42:12.671Z",
+  "lastModifiedDate": "2023-11-01T22:34:13.382Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/data/sync/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DemoItsaWraped57d"
+    }
+  },
+  "entitlementName": "0bdda5a6319447d2b3fdb62d1f915834",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6cc0ba841899412abe8c3eef9ff6f069",
+      "appId": "d7225d990bcf4bd9a0b823938af5de0d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Rainbow Media Holdings LLC",
+  "developerId": "o-4kwkamcyebp2rxbm775wbpkbl4fqky",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

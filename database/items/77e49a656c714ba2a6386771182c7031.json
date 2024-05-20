@@ -1,0 +1,63 @@
+{
+  "id": "77e49a656c714ba2a6386771182c7031",
+  "title": "Akane",
+  "description": "Akane is an Arena Arcade-Slash where you kill your enemies with only 1 hit. The objective of the game is simple, to kill as many enemies as possible.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/00aac1e2c50f46569003e6b12bd8d049/akane-1lyjx.jpg",
+      "md5": "cff05cdee71869a2dfc61d44490b5226",
+      "width": 2560,
+      "height": 1440,
+      "size": 257376,
+      "uploadedDate": "2022-11-04T18:39:53.073Z",
+      "alt": "Akane Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/00aac1e2c50f46569003e6b12bd8d049/akane-bmr8w.jpg",
+      "md5": "58079d6175fd3ca2d26e211ef4af1991",
+      "width": 1200,
+      "height": 1600,
+      "size": 194382,
+      "uploadedDate": "2022-11-04T18:39:52.782Z",
+      "alt": "Download Akane Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9b6a60b53e524c47903be459aaef729a",
+  "status": "ACTIVE",
+  "creationDate": "2022-10-23T13:44:17.154Z",
+  "lastModifiedDate": "2023-08-18T09:56:43.448Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Akane"
+    }
+  },
+  "entitlementName": "77e49a656c714ba2a6386771182c7031",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "91470114f6ec45caba21fd7b73c1d9d7",
+      "appId": "870fbe4ecb6744909c99301ab086eca0",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "DX Gameworks LLC",
+  "developerId": "o-7vrxgulzgkeedwweudtk6wc6pgsyy3",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

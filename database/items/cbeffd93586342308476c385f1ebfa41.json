@@ -1,0 +1,63 @@
+{
+  "id": "cbeffd93586342308476c385f1ebfa41",
+  "title": "GRUNND",
+  "description": "GRUNND",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/14c320aa3a874f9cb179d1f43d7ae82b/grunnd-1k3rg.jpg",
+      "md5": "e1e6a0ace782fb34729d8df9e77d964b",
+      "width": 2560,
+      "height": 1440,
+      "size": 1103756,
+      "uploadedDate": "2024-03-21T11:19:44.522Z",
+      "alt": "GRUNND Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/14c320aa3a874f9cb179d1f43d7ae82b/grunnd-1b2c0.jpg",
+      "md5": "4c2ae8756bbea400c7fdb9663a4f9817",
+      "width": 1200,
+      "height": 1600,
+      "size": 718919,
+      "uploadedDate": "2024-03-21T11:19:44.994Z",
+      "alt": "Download GRUNND Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b2618d3261e14430b9c338bbd6631018",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-15T08:04:52.258Z",
+  "lastModifiedDate": "2024-04-15T08:04:52.258Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "GRUNND_build"
+    }
+  },
+  "entitlementName": "cbeffd93586342308476c385f1ebfa41",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "686c369b9645419896e059ac2321113d",
+      "appId": "ca53173ec459481692e85542c211d95d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Bright Gambit",
+  "developerId": "o-2dmt4fs9mr4svxqsbymdrjlm7se3an",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

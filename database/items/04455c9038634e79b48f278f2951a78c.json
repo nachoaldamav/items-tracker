@@ -1,0 +1,63 @@
+{
+  "id": "04455c9038634e79b48f278f2951a78c",
+  "title": "Shrimp.io",
+  "description": "Shrimp.io",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/88357b8acee2468da3698a821b5575ac/shrimpio-1ivr2.png",
+      "md5": "b010f80b7602194635bad86897442247",
+      "width": 2560,
+      "height": 1440,
+      "size": 74351,
+      "uploadedDate": "2024-03-12T22:57:28.065Z",
+      "alt": "Shrimp.io Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/88357b8acee2468da3698a821b5575ac/shrimpio-j0xr7.png",
+      "md5": "6f884362e394129028031f95840caaef",
+      "width": 1200,
+      "height": 1600,
+      "size": 47720,
+      "uploadedDate": "2024-03-12T22:57:29.680Z",
+      "alt": "Download Shrimp.io Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "475a45d75d3c47819dea0e5bffcfdd4b",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-14T14:14:07.360Z",
+  "lastModifiedDate": "2024-03-14T14:14:07.360Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Shrimpio"
+    }
+  },
+  "entitlementName": "04455c9038634e79b48f278f2951a78c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d26d32ae748443d6b68b13645a6a14ec",
+      "appId": "598fca3fdef1459caded16399de606b6",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "VuVuu Inc.",
+  "developerId": "o-rzk5mqywhymbke8cw77nzlb95afrfw",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

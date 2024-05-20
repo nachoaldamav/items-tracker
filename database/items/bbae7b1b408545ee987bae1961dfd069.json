@@ -1,0 +1,72 @@
+{
+  "id": "bbae7b1b408545ee987bae1961dfd069",
+  "title": "Prince of Qin",
+  "description": "Prince of Qin",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e4445a41a3ca493496ef0336b0bc24a3/prince-of-qin-offer-327nz.png",
+      "md5": "a0b2a90309161cd078f18690c4e061fd",
+      "width": 2560,
+      "height": 1440,
+      "size": 2232802,
+      "uploadedDate": "2022-07-02T03:47:07.326Z",
+      "alt": "Prince of Qin Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e4445a41a3ca493496ef0336b0bc24a3/prince-of-qin-yypzc.jpg",
+      "md5": "2a0e19752feb0364dd4aa4c8bc890ffa",
+      "width": 1200,
+      "height": 1600,
+      "size": 2547758,
+      "uploadedDate": "2024-02-28T08:50:59.831Z",
+      "alt": "Download Prince of Qin Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "de84807123c34a4c92e902b95970f1f6",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-01T19:06:37.892Z",
+  "lastModifiedDate": "2024-02-29T08:26:18.153Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "english/System/*,russian/System/*"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PrinceofQinnjkrG"
+    }
+  },
+  "entitlementName": "bbae7b1b408545ee987bae1961dfd069",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ead06be300f14cfc9ee7958be67d3a7a",
+      "appId": "fb8ad04d7cc547efb31a475ac5dfb6ae",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Strategy First",
+  "developerId": "o-a3vefcg43bn6j4lwc7qs8n5y38jm7k",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

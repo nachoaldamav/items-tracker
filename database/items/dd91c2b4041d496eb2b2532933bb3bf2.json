@@ -1,0 +1,62 @@
+{
+  "id": "dd91c2b4041d496eb2b2532933bb3bf2",
+  "title": "Relic Space",
+  "description": "Relic Space",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/04fa25bd177f408a865afebef7482767/relic-space-1fxnx.jpg",
+      "md5": "cf2de5b5c7d5794733dd50964180c0ad",
+      "width": 2560,
+      "height": 1440,
+      "size": 528887,
+      "uploadedDate": "2023-03-11T23:08:37.506Z",
+      "alt": "Relic Space Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/04fa25bd177f408a865afebef7482767/relic-space-ajjis.jpg",
+      "md5": "46de65fe2c0761f63fd0d6bf522fe0c2",
+      "width": 1200,
+      "height": 1600,
+      "size": 329191,
+      "uploadedDate": "2023-03-11T23:08:36.866Z",
+      "alt": "Download Relic Space Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "762620e1a84643389a80b324badbf826",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-10T14:30:09.605Z",
+  "lastModifiedDate": "2023-03-12T20:32:35.233Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "RelicSpacewOKGP"
+    }
+  },
+  "entitlementName": "dd91c2b4041d496eb2b2532933bb3bf2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d25d585766694687874c517f790be50c",
+      "appId": "4bb115782c1b433b9905c3ae266ddee9",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Fourfold Games",
+  "developerId": "o-uq7t8vqf3tpq2yufk3x8dlvlrbn3e2",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

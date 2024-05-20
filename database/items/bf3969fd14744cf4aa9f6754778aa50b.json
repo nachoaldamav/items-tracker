@@ -1,0 +1,71 @@
+{
+  "id": "bf3969fd14744cf4aa9f6754778aa50b",
+  "title": "SOULVARS",
+  "description": "Burn your SOUL!\nSOULVARS is a pixel art turn-based deckbuilding RPG where your party of Soulbearers face off against invading Dominators\nin dynamic high-speed battles.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7c00881be93843a6aaf982a3a31528c1/soulvars-xx6oh.png",
+      "md5": "4cad397bf8d4b50714bbcbe8bf89e7fe",
+      "width": 2560,
+      "height": 1440,
+      "size": 3648635,
+      "uploadedDate": "2023-01-26T07:48:09.559Z",
+      "alt": "SOULVARS Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7c00881be93843a6aaf982a3a31528c1/soulvars-1k094.png",
+      "md5": "f2502f27a9fa7063c2feb8d8b5fa31ed",
+      "width": 1200,
+      "height": 1600,
+      "size": 2148516,
+      "uploadedDate": "2023-01-26T07:48:13.913Z",
+      "alt": "Download SOULVARS Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "188fb42582e24d20b0a876ed817efd69",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-20T10:00:34.207Z",
+  "lastModifiedDate": "2023-05-20T10:00:34.207Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/SHUEISHA GAMES/soulvars/epic/savedata/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "20"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SOULVARS2Kbcs"
+    }
+  },
+  "entitlementName": "bf3969fd14744cf4aa9f6754778aa50b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "da53eed3ff904b56a0549a7857b8dae7",
+      "appId": "bbde6656852f4f7d9ef25d465336bfdd",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": " SHUEISHA GAMES Inc.",
+  "developerId": "o-zdv5ysy8rqaj4jt4l56mdwslvtxst3",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

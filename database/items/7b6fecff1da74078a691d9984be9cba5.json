@@ -1,0 +1,63 @@
+{
+  "id": "7b6fecff1da74078a691d9984be9cba5",
+  "title": "Turbo Overkill",
+  "description": "Turbo Overkill",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/fac7914ca7684ae2883a9592edbfa605/turbo-overkill-1ne0x.jpg",
+      "md5": "c812ece64cc523f0628cd7aaad13afef",
+      "width": 2560,
+      "height": 1440,
+      "size": 1109336,
+      "uploadedDate": "2023-08-11T01:57:13.064Z",
+      "alt": "Turbo Overkill Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/fac7914ca7684ae2883a9592edbfa605/turbo-overkill-u5oz1.png",
+      "md5": "6df467c4cbaec5db5ca722b936a61354",
+      "width": 1200,
+      "height": 1600,
+      "size": 3797765,
+      "uploadedDate": "2023-08-11T00:11:18.705Z",
+      "alt": "Download Turbo Overkill Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d9a3694cb88144e8931cc5bd8bceb436",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-03T22:45:16.109Z",
+  "lastModifiedDate": "2023-08-18T20:16:58.648Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TurboOverkill"
+    }
+  },
+  "entitlementName": "7b6fecff1da74078a691d9984be9cba5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3a865a9d1489484db353490def528094",
+      "appId": "116fdb3d13dd4d0484dc92819cf68386",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Apogee Entertainment",
+  "developerId": "o-xh5dj82gy56frdyzfntt85yf5clm2c",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

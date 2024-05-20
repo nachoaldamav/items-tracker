@@ -1,0 +1,63 @@
+{
+  "id": "be058b642a9c4e50bced6ea154b882f6",
+  "title": "Sipher Odyssey",
+  "description": "Sipher Odyssey",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/34334e1775164df6973dbb046db3484d/sipher-odyssey-3kts6.jpg",
+      "md5": "119045382e3c083b230f65223e419b2e",
+      "width": 2560,
+      "height": 1440,
+      "size": 463214,
+      "uploadedDate": "2023-12-16T06:44:22.152Z",
+      "alt": "Sipher Odyssey Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/34334e1775164df6973dbb046db3484d/sipher-odyssey-ktu93.jpg",
+      "md5": "dfd2c38972c03a3b5d3d708f389b4649",
+      "width": 1200,
+      "height": 1600,
+      "size": 178731,
+      "uploadedDate": "2023-12-16T06:46:02.915Z",
+      "alt": "Download Sipher Odyssey Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "64ece5ee89d84cb99ddd8929fa957a30",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-08T07:29:03.523Z",
+  "lastModifiedDate": "2024-01-07T04:07:20.720Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SipherOdysseyHDNUN"
+    }
+  },
+  "entitlementName": "be058b642a9c4e50bced6ea154b882f6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ea483b296f6249b7a175068621bbd47f",
+      "appId": "9685ea2175454e72a41f1b5a1b5f2818",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "AtherLabs Inc.",
+  "developerId": "o-7pp5fn7fbfapjk95m8whwjw89rrxfh",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

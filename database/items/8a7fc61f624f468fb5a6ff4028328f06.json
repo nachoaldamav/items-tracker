@@ -1,0 +1,71 @@
+{
+  "id": "8a7fc61f624f468fb5a6ff4028328f06",
+  "title": "Oddsparks: An Automation Adventure",
+  "description": "Design automated workshops for your odd and adorable Sparks to carry and craft everything, including more of themselves! Lead your squad of Sparks into combat. Explore a strange fantasy world, in single player or online co-op. Unearth the ancient mystery of the Sparks!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f09aaab3f10e4c18a2948a5b829bd84d/oddsparks-an-automation-adventure-9o2he.jpg",
+      "md5": "a984070835bcdeffc5f3b93ee66e2e54",
+      "width": 2560,
+      "height": 1440,
+      "size": 696872,
+      "uploadedDate": "2024-04-17T09:51:37.091Z",
+      "alt": "Oddsparks An Automation Adventure Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f09aaab3f10e4c18a2948a5b829bd84d/oddsparks-an-automation-adventure-rmwqy.jpg",
+      "md5": "f06b2f2d87066104c4c5baf26dc6642c",
+      "width": 1200,
+      "height": 1600,
+      "size": 445500,
+      "uploadedDate": "2024-04-17T09:51:41.705Z",
+      "alt": "Download Oddsparks An Automation Adventure Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "77c83b36cd1047f7aceeef2e5f84ab85",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-26T07:59:20.830Z",
+  "lastModifiedDate": "2024-04-24T21:02:35.603Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Oddsparks/Game/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OddSparks"
+    }
+  },
+  "entitlementName": "8a7fc61f624f468fb5a6ff4028328f06",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "58df3eabd2b84557b872b9ea20ee560e",
+      "appId": "c2bbe19e0cfd4ae09a10d17c83f1c02a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Handy Games",
+  "developerId": "o-ekk92wx8mesnmsvbseequvnt38mzu6",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

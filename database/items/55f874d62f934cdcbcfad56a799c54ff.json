@@ -1,0 +1,68 @@
+{
+  "id": "55f874d62f934cdcbcfad56a799c54ff",
+  "title": "Samorost 1",
+  "description": "Explore the beginnings of the Samorost series in the space gnome’s original bite-sized adventure, formerly released in 2003. Now with remastered sounds, enhanced graphics, and new music by Floex.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b4ab9d15b90a4d349a6a08989ce70eef/samorost-1-11lst.png",
+      "md5": "00e3a4f9b9f709610f4dc1fc45c35fc4",
+      "width": 2560,
+      "height": 1440,
+      "size": 3763127,
+      "uploadedDate": "2023-06-01T09:28:27.760Z",
+      "alt": "Samorost 1 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b4ab9d15b90a4d349a6a08989ce70eef/samorost-1-1wgly.jpg",
+      "md5": "d668c9ea9e07c5edd6a4cb758f822b1c",
+      "width": 1200,
+      "height": 1600,
+      "size": 365290,
+      "uploadedDate": "2023-06-01T09:28:27.005Z",
+      "alt": "Download Samorost 1 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "966b40d2d476458294d4fa6709a10533",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-30T13:00:39.178Z",
+  "lastModifiedDate": "2023-06-30T13:00:39.178Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/amanitadesign.samorost1/Local Store/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Samorost1"
+    }
+  },
+  "entitlementName": "55f874d62f934cdcbcfad56a799c54ff",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d761cf9265214429a46eda606c6620e3",
+      "appId": "2d3b662f7d444d8b96da43344e9a3588",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Amanita Design s.r.o.",
+  "developerId": "o-9yx3b8bxbr9g2r3z7ahpmgphp2d5kh",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

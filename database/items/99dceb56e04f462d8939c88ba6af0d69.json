@@ -1,0 +1,63 @@
+{
+  "id": "99dceb56e04f462d8939c88ba6af0d69",
+  "title": "Quest Room",
+  "description": "The quest room is a location from which you need to get out by interacting with objects and using various clues. But be careful, you are not alone in this room.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c1b69bfd72f2497abac2d8a01afdab91/quest-room-1cj7s.jpg",
+      "md5": "5ae00932af3e2d707f54fd2061147539",
+      "width": 2560,
+      "height": 1440,
+      "size": 285435,
+      "uploadedDate": "2024-04-17T21:44:11.540Z",
+      "alt": "Quest Room Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c1b69bfd72f2497abac2d8a01afdab91/quest-room-w3wil.jpg",
+      "md5": "d7f5b0c9ea3d22eccfcc3a13a5e389c7",
+      "width": 1200,
+      "height": 1600,
+      "size": 602713,
+      "uploadedDate": "2024-04-17T21:44:11.222Z",
+      "alt": "Download Quest Room Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8b0f65a8a3c94a918eb954c2cac7102c",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-25T19:26:05.848Z",
+  "lastModifiedDate": "2024-04-25T19:26:05.848Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "QuestRoom"
+    }
+  },
+  "entitlementName": "99dceb56e04f462d8939c88ba6af0d69",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fdfb5feca9354539bae0e19aea9a6212",
+      "appId": "e6bbfa7d3b174215813d18d6b246ef1e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "My Team Flaksa",
+  "developerId": "o-lh6y6a63pv9xjyt3ymd6nwcd4wa3wk",
+  "endOfSupport": false,
+  "applicationId": "fghi4567KJwxB9TTd5mDWwk4YJknKQIi",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

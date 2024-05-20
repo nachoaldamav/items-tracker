@@ -1,0 +1,62 @@
+{
+  "id": "2ef41c223767475a83cd81a7ff9035ab",
+  "title": "LightBear",
+  "description": "LightBear",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/cd4b1889618e4fa280543331f0fc5850/lightbear-q41hv.png",
+      "md5": "466e70fda6016b8bdc154445680c90e3",
+      "width": 2560,
+      "height": 1440,
+      "size": 4122350,
+      "uploadedDate": "2023-09-28T18:32:45.439Z",
+      "alt": "LightBear Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/cd4b1889618e4fa280543331f0fc5850/lightbear-1sdtl.png",
+      "md5": "a2fd28210ae03149ce088cc9580babaa",
+      "width": 1200,
+      "height": 1600,
+      "size": 2392452,
+      "uploadedDate": "2023-09-27T22:38:17.103Z",
+      "alt": "Download LightBear Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fedab10441d74c6ba206fd112d6049e2",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-14T18:54:48.490Z",
+  "lastModifiedDate": "2023-09-29T21:33:39.640Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "LightBeargeONw"
+    }
+  },
+  "entitlementName": "2ef41c223767475a83cd81a7ff9035ab",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2da8613416c44c6b96b21dcc9df4aa69",
+      "appId": "a285eb96429846a48a4e3baa8d5c573c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "LightBear Software Inc.",
+  "developerId": "o-ncv8bhr5uurjcy3wcg3h2mlydx5qg6",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

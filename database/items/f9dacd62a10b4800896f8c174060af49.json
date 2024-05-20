@@ -1,0 +1,76 @@
+{
+  "id": "f9dacd62a10b4800896f8c174060af49",
+  "title": "Backbeat",
+  "description": "A mashup of puzzle and strategy games. Manipulate four threads of time to guide your band through sokoban-style puzzles. Manage squad resources over a set of limited turns. Experience a homage to 1990s ensemble dramedies. Customize the dynamic soundtrack with audio effects.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a91243f3a1214b0ab2e9dee60c66ce50/backbeat-1srss.png",
+      "md5": "dffb9b1a23fcf00df86b6de8e8915895",
+      "width": 2560,
+      "height": 1440,
+      "size": 3205076,
+      "uploadedDate": "2023-03-14T19:12:31.934Z",
+      "alt": "Backbeat Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a91243f3a1214b0ab2e9dee60c66ce50/backbeat-11243.png",
+      "md5": "5a6bd887c55026f28b5f0bbe03c18235",
+      "width": 1200,
+      "height": 1600,
+      "size": 2385266,
+      "uploadedDate": "2023-03-14T19:20:08.457Z",
+      "alt": "Download Backbeat Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "67581da4189f450e88ed8ba027f3dd08",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-14T06:46:05.270Z",
+  "lastModifiedDate": "2023-05-22T06:30:10.585Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Ichigoichie AB/Backbeat/egs/{EpicID}/savedata/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Ichigoichie AB/Backbeat/egs/{EpicID}/savedata/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "50"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Backbeat"
+    }
+  },
+  "entitlementName": "f9dacd62a10b4800896f8c174060af49",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "be8c4c097bab4c66a914c0a0fda11a15",
+      "appId": "f94e3cfd49a24f24882d9973d76b5ce6",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Ichigoichie AB",
+  "developerId": "o-a4vt8wyzs92z26mmtccvh4hushp5vu",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

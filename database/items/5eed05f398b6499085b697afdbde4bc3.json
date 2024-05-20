@@ -1,0 +1,64 @@
+{
+  "id": "5eed05f398b6499085b697afdbde4bc3",
+  "title": "Wizened Dream",
+  "description": "Withered Dream is a 2D story exploration game based on card stacking and limited-time operation.\nBy modifying the stacking relationship between the cards, new cards can be generated and the story can be advanced.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8f5712f35332449c9d2393417e10c7ed/wizened-dream-4ezvj.png",
+      "md5": "4d01773631ac94a69be1e8c3fdaea7fa",
+      "width": 2560,
+      "height": 1440,
+      "size": 1277224,
+      "uploadedDate": "2024-02-13T02:16:11.322Z",
+      "alt": "Wizened Dream Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8f5712f35332449c9d2393417e10c7ed/wizened-dream-1dp89.png",
+      "md5": "5842118ee5db23c04b0058069be6f308",
+      "width": 1200,
+      "height": 1600,
+      "size": 1237334,
+      "uploadedDate": "2024-02-13T02:16:10.115Z",
+      "alt": "Download Wizened Dream Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3b5e4301fa6c47c0b139115468ea6088",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-14T06:34:49.324Z",
+  "lastModifiedDate": "2024-05-04T15:43:55.564Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "WizenedDream"
+    }
+  },
+  "entitlementName": "5eed05f398b6499085b697afdbde4bc3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4dbc110bd15b4b8996c2b0bb3fe5b998",
+      "appId": "33f0d74cecdb48c193c1d7f5333a4bb1",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "ZhangHuan",
+  "developerId": "o-tpklvzn744ha4cd3le6f74ruwds72j",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

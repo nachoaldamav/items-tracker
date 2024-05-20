@@ -1,0 +1,63 @@
+{
+  "id": "55882948cdf642ffbcb1fa63a500fb7c",
+  "title": "Tiny Jump",
+  "description": "Tiny Jump",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/eb59a4ef71e74e99b0e5823b056e9187/tiny-jump-1235k.png",
+      "md5": "b99d2240673843678fc8a63179c320c9",
+      "width": 2560,
+      "height": 1440,
+      "size": 3754728,
+      "uploadedDate": "2023-11-30T14:17:04.021Z",
+      "alt": "Tiny Jump Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/eb59a4ef71e74e99b0e5823b056e9187/tiny-jump-1lcae.png",
+      "md5": "fb86a540cf308d2a225203714ec9aba8",
+      "width": 1200,
+      "height": 1600,
+      "size": 2046424,
+      "uploadedDate": "2023-11-30T14:17:14.385Z",
+      "alt": "Download Tiny Jump Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "08d22307c66c4923ae6fab7edfa6e227",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-28T20:09:01.280Z",
+  "lastModifiedDate": "2024-01-09T06:26:54.835Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TinyJump"
+    }
+  },
+  "entitlementName": "55882948cdf642ffbcb1fa63a500fb7c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5c3e1b7da8e54b14884b6e000d3c987f",
+      "appId": "7bf904e09e874caba87d4f391a06d000",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Kanawati",
+  "developerId": "o-eb7bfb3pkj6dzmmb6clc5md8wm28r9",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

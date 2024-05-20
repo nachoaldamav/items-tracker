@@ -1,0 +1,64 @@
+{
+  "id": "1e6a0293f6804c92a9162ea6cfb5d55f",
+  "title": "Zi",
+  "description": "Zi",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/46bc436a0a2144edbc86b1c43024eaed/zi-1ldak.jpg",
+      "md5": "b77ecb9701380a483b45292e12623abc",
+      "width": 2560,
+      "height": 1440,
+      "size": 2499137,
+      "uploadedDate": "2023-11-25T17:34:52.121Z",
+      "alt": "Zi Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/46bc436a0a2144edbc86b1c43024eaed/zi-ffn8o.png",
+      "md5": "e804e51e954808fd9ae661e368be8335",
+      "width": 1200,
+      "height": 1600,
+      "size": 2638759,
+      "uploadedDate": "2023-11-25T16:19:12.101Z",
+      "alt": "Download Zi Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9824e1bd7ad44702a573bf07f0822bfa",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-26T18:42:46.704Z",
+  "lastModifiedDate": "2023-11-26T18:42:46.704Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Zi_game"
+    }
+  },
+  "entitlementName": "1e6a0293f6804c92a9162ea6cfb5d55f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0ace42954c7f4a46a9bbeb45063dc230",
+      "appId": "6426be696b1b4be8accee908d3be81e1",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "LK narrative",
+  "developerId": "o-88mkllvcpmr6p46g7w7t3wrc6n8x3u",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

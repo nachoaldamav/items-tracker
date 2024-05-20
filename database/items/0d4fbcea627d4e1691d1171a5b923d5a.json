@@ -1,0 +1,63 @@
+{
+  "id": "0d4fbcea627d4e1691d1171a5b923d5a",
+  "title": "KunKunBeauty",
+  "description": "Game background: The story of Brother Chicken and Ms. Chao on the day of 520.\nGame status: Continuously updating.\nThis story is purely fictitious and any similarity is purely coincidental.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ada42ba5200f4d42bf2cc34cbfee8221/chickenbeauty-5dn8r.png",
+      "md5": "2c4c49a30e3187204235eb5267b11630",
+      "width": 2560,
+      "height": 1440,
+      "size": 4009599,
+      "uploadedDate": "2023-12-12T22:43:58.836Z",
+      "alt": "ChickenBeauty Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ada42ba5200f4d42bf2cc34cbfee8221/chickenbeauty-bif6j.png",
+      "md5": "732920278cfc5bffbdd44261b8d023e3",
+      "width": 1200,
+      "height": 1600,
+      "size": 1292990,
+      "uploadedDate": "2023-12-13T19:48:21.980Z",
+      "alt": "Download ChickenBeauty Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "af444610040a42bcb06c7be325a4e32b",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-01T07:19:53.130Z",
+  "lastModifiedDate": "2023-12-26T09:06:43.508Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "KunKunBeauty"
+    }
+  },
+  "entitlementName": "0d4fbcea627d4e1691d1171a5b923d5a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8e5a7f932f8142f2ad53053b4c88a833",
+      "appId": "95207a2d932f4ae08f6700aea9aed70c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "GameOfLife",
+  "developerId": "o-mpgnzn3abnbsqlrg6sql595u4q3v25",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

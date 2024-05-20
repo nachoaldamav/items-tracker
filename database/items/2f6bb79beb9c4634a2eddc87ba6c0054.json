@@ -1,0 +1,71 @@
+{
+  "id": "2f6bb79beb9c4634a2eddc87ba6c0054",
+  "title": "TAGLINE",
+  "description": "TAGLINE",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3bd6717bd0a44f85940cdaaeb9e94d4e/tagline-o49mn.jpg",
+      "md5": "54c5382a58b5e6732d1a5d7828382524",
+      "width": 2560,
+      "height": 1440,
+      "size": 1260454,
+      "uploadedDate": "2023-09-23T18:24:59.598Z",
+      "alt": "TAGLINE Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3bd6717bd0a44f85940cdaaeb9e94d4e/tagline-1p9ta.jpg",
+      "md5": "c874e3e6a72da17160f119ce7799876e",
+      "width": 1200,
+      "height": 1600,
+      "size": 1198061,
+      "uploadedDate": "2023-09-23T18:21:33.884Z",
+      "alt": "Download TAGLINE Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bab1afea00da4a519ff7d3925bd99f89",
+  "status": "ACTIVE",
+  "creationDate": "2024-01-12T16:48:41.369Z",
+  "lastModifiedDate": "2024-01-12T16:48:41.369Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Tagline/Saved/SaveGames/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Tagline/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TAGLINE"
+    }
+  },
+  "entitlementName": "2f6bb79beb9c4634a2eddc87ba6c0054",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e84ab1bc2e6a40dd997b662d2d51b0c1",
+      "appId": "32db9f2167b64b74b58af6386ad6e763",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "NOTH",
+  "developerId": "o-teshs255dfny25nzf4sett667v8nxf",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

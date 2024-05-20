@@ -1,0 +1,64 @@
+{
+  "id": "53e3bd0f010847e6a1545e6d080cca01",
+  "title": "Urban Tale",
+  "description": "Urban Tale",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a572234d148649d684220448bf5fed25/urban-tale-1uwuv.jpg",
+      "md5": "08ca70357412fe16b798526e8f87eeb8",
+      "width": 2560,
+      "height": 1440,
+      "size": 1743352,
+      "uploadedDate": "2023-03-13T13:45:59.997Z",
+      "alt": "Urban Tale Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a572234d148649d684220448bf5fed25/urban-tale-1asiz.jpg",
+      "md5": "478adc7e900288143464bc7a5d3859b0",
+      "width": 1200,
+      "height": 1600,
+      "size": 1122401,
+      "uploadedDate": "2023-03-13T13:45:59.588Z",
+      "alt": "Download Urban Tale Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8c72bb5636fe45c5af03d5f53ab25d9a",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-13T12:27:40.783Z",
+  "lastModifiedDate": "2023-11-15T05:57:09.508Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "UrbanTale"
+    }
+  },
+  "entitlementName": "53e3bd0f010847e6a1545e6d080cca01",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "44ffee24c8604f3e838daeaf9be05ca8",
+      "appId": "ecd964d55b3d4c5694fc1cbf73f24790",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "WASD Games",
+  "developerId": "o-yzdx7qa8sxvlklgrpa2ehhptrnvs7a",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

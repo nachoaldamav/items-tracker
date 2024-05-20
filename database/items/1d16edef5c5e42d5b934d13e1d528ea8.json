@@ -1,0 +1,89 @@
+{
+  "id": "1d16edef5c5e42d5b934d13e1d528ea8",
+  "title": "Dead Space™ 3",
+  "description": "Journey across space to the icy planet of Tau Volantis with Isaac Clarke and Sgt. John Carver to discover and destroy the source of the Necromorph outbreak.\nt",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3db6a38ba9bc42d98dc1bc9c47f9e221/dead-space-3-175tp.jpg",
+      "md5": "2b100017f7021b7cd46d18e1fa5974b0",
+      "width": 2560,
+      "height": 1440,
+      "size": 948251,
+      "uploadedDate": "2024-03-09T05:17:32.801Z",
+      "alt": "Dead Space 3 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3db6a38ba9bc42d98dc1bc9c47f9e221/dead-space-3-1vyz8.jpg",
+      "md5": "bc41dbd172fa00fd9d86cab6488ae47a",
+      "width": 1200,
+      "height": 1600,
+      "size": 700922,
+      "uploadedDate": "2024-03-09T05:17:33.109Z",
+      "alt": "Download Dead Space 3 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a8b1e0df5fc847da9b7971d5821ee6f6",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-04T15:39:08.812Z",
+  "lastModifiedDate": "2024-04-01T19:51:39.973Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Electronic Arts\\Dead Space 3"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "Deadspace3.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "Deadspace3.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DeadSpace3"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "1d16edef5c5e42d5b934d13e1d528ea8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a3d2228441b94ef9bda1b40accad895c",
+      "appId": "croline",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

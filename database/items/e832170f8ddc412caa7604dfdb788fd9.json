@@ -1,0 +1,64 @@
+{
+  "id": "e832170f8ddc412caa7604dfdb788fd9",
+  "title": "Aviatrix",
+  "description": "Aviatrix",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/68df58aa55f242f4b7014093c67d4309/aviatrix-official-j5r41.png",
+      "md5": "39fc66154c7b18aaa787b56bfe9c9870",
+      "width": 2560,
+      "height": 1440,
+      "size": 1574745,
+      "uploadedDate": "2023-11-22T06:11:49.083Z",
+      "alt": "Aviatrix Official Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/68df58aa55f242f4b7014093c67d4309/aviatrix-official-tahjh.png",
+      "md5": "b9812c08d8249b11891b79e735bd1a8f",
+      "width": 1200,
+      "height": 1600,
+      "size": 1483252,
+      "uploadedDate": "2023-11-22T06:18:38.346Z",
+      "alt": "Download Aviatrix Official Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "79312789a26f41dd99cd05ee30e5c524",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-18T03:55:37.557Z",
+  "lastModifiedDate": "2023-12-13T00:41:29.287Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "AvigAVfa"
+    }
+  },
+  "entitlementName": "e832170f8ddc412caa7604dfdb788fd9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b92da7dbc04048c3b436888b3520f17d",
+      "appId": "af8deebf24234c528a2194f4ddf354b6",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Space Falcon",
+  "developerId": "o-mmqn3y64m44fljjzktandapccae4ll",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

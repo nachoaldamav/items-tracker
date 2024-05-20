@@ -1,0 +1,63 @@
+{
+  "id": "21fff4b29c2a49e8acc5e97a9017725b",
+  "title": "Grieve",
+  "description": "Grieve",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/197889fc3dfa43feb89069b8fdd2e9e0/grieve-15vlx.png",
+      "md5": "17f3e5f2c7ac8ab54ae8658ad1ae09df",
+      "width": 2560,
+      "height": 1440,
+      "size": 1807061,
+      "uploadedDate": "2024-01-15T17:10:01.029Z",
+      "alt": "Grieve Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/197889fc3dfa43feb89069b8fdd2e9e0/grieve-18zow.png",
+      "md5": "220e4fc94bc31e8914f5bc166390b135",
+      "width": 1200,
+      "height": 1600,
+      "size": 1573340,
+      "uploadedDate": "2024-01-12T21:15:27.598Z",
+      "alt": "Download Grieve Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "33d6300ac8394fd48337c934f52c71cc",
+  "status": "ACTIVE",
+  "creationDate": "2024-01-04T08:18:51.128Z",
+  "lastModifiedDate": "2024-05-06T21:50:19.372Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Grieve"
+    }
+  },
+  "entitlementName": "21fff4b29c2a49e8acc5e97a9017725b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "eff1c5b990704852aaa67a21c8b94734",
+      "appId": "477f7e1550874e28b567a7c639605418",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "My Team jos7081",
+  "developerId": "o-9uze5k6qq3qba8pxxzu87btqn8gkuc",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

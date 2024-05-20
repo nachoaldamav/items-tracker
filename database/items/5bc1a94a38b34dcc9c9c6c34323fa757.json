@@ -1,0 +1,68 @@
+{
+  "id": "5bc1a94a38b34dcc9c9c6c34323fa757",
+  "title": "Ragnarok Survivors Valhalla",
+  "description": "Ragnarok Survivors Valhalla",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ab5014ff0a334013ba47137a3f2a43a4/ragnarok-survivors-valhalla-1eyoe.png",
+      "md5": "5ea8cefd0bc2bc4d9208ca813f4f11df",
+      "width": 2560,
+      "height": 1440,
+      "size": 1111802,
+      "uploadedDate": "2023-09-14T17:06:21.657Z",
+      "alt": "Ragnarok Survivors Valhalla Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ab5014ff0a334013ba47137a3f2a43a4/ragnarok-survivors-valhalla-yjvdn.png",
+      "md5": "5787a9f60a79b4b9d7b2cbe620683842",
+      "width": 1200,
+      "height": 1600,
+      "size": 190084,
+      "uploadedDate": "2023-09-14T17:06:21.176Z",
+      "alt": "Download Ragnarok Survivors Valhalla Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "377c7afca797475bb73be258c94f82ea",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-26T16:33:35.661Z",
+  "lastModifiedDate": "2023-09-26T16:33:35.661Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/.SaveGame/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RagnarokSurvivorsValhalla"
+    }
+  },
+  "entitlementName": "5bc1a94a38b34dcc9c9c6c34323fa757",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "324eeaf8bd4841c38107a474b82f099d",
+      "appId": "c1211d70f0804e1aa523e7116faf1070",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "DKIT AS",
+  "developerId": "o-748t4q849lbyjfpb5hhzeks9bfpzek",
+  "endOfSupport": false,
+  "applicationId": "fghi4567W6kRZnCw3Faf5Ylype9F2EIa",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

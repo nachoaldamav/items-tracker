@@ -1,0 +1,72 @@
+{
+  "id": "0f38108b7e9f422f845f57010d3d3e95",
+  "title": "EchoBlade",
+  "description": "EchoBlade",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6608320304e74c349b9f405df850bb06/echoblade-1cbw3.png",
+      "md5": "4e2913ad3b10d81c2782d7a97215941a",
+      "width": 2560,
+      "height": 1440,
+      "size": 1211617,
+      "uploadedDate": "2023-07-30T03:15:43.124Z",
+      "alt": "EchoBlade Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6608320304e74c349b9f405df850bb06/echoblade-96s0t.png",
+      "md5": "709bcdb3a13b05ff7137f64f2fe9a46b",
+      "width": 1200,
+      "height": 1600,
+      "size": 720118,
+      "uploadedDate": "2023-07-30T03:15:44.741Z",
+      "alt": "Download EchoBlade Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4db5e019410f4f4d8988365718d54588",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-21T14:08:46.215Z",
+  "lastModifiedDate": "2023-09-21T14:08:46.215Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Echolocation/Saved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "80000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EchoBladeCswaF"
+    }
+  },
+  "entitlementName": "0f38108b7e9f422f845f57010d3d3e95",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3440830b277f4025870a3574a6091c38",
+      "appId": "a0ca402f13a54b1785e5e7586524e543",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Sunset Arctic Games LLC",
+  "developerId": "o-88aazf9ufakvsyrchp2faysxbhmbyf",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

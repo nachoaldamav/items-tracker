@@ -1,0 +1,65 @@
+{
+  "id": "c4f9fa83b31e46a7a6b2cb67599f8362",
+  "title": "Midnight Pufferfish Show",
+  "description": "Midnight Pufferfish Show",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/287f4414c354471d87661b44b4410bd4/midnight-pufferfish-show-12h5u.png",
+      "md5": "5f36a441ee721ebe16452501654686b3",
+      "width": 2560,
+      "height": 1440,
+      "size": 2975945,
+      "uploadedDate": "2023-05-05T21:08:16.907Z",
+      "alt": "Midnight Pufferfish Show Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/287f4414c354471d87661b44b4410bd4/midnight-pufferfish-show-1aufo.png",
+      "md5": "9be5f99bff40a6017560e3bea4f18088",
+      "width": 1200,
+      "height": 1600,
+      "size": 1693354,
+      "uploadedDate": "2023-05-05T21:08:19.137Z",
+      "alt": "Download Midnight Pufferfish Show Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4019249f7e6b41f8b063d7a3b36840dd",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-21T13:54:44.099Z",
+  "lastModifiedDate": "2023-06-01T19:36:17.587Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "pufferfishshow"
+    }
+  },
+  "entitlementName": "c4f9fa83b31e46a7a6b2cb67599f8362",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4a883664cf7a42d8bf8f2254ddbba62a",
+      "appId": "c84d092a4fe04ed7bb78b05d5e013bb7",
+      "platform": [
+        "Windows",
+        "Win32",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Phyrexi Inc",
+  "developerId": "o-qb4c4u4tjwl668xmcejju77xfgrtjj",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

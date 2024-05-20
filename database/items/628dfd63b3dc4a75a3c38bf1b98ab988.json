@@ -1,0 +1,63 @@
+{
+  "id": "628dfd63b3dc4a75a3c38bf1b98ab988",
+  "title": "Perfect Plan",
+  "description": "Perfect Plan",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6ab5e394304c4916a4cc49ad8d1a4f39/perfect-plan-4j07s.png",
+      "md5": "45827e4f6a064e86bf91ed189b2e330e",
+      "width": 2560,
+      "height": 1440,
+      "size": 3232521,
+      "uploadedDate": "2023-11-10T09:39:35.183Z",
+      "alt": "Perfect Plan Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6ab5e394304c4916a4cc49ad8d1a4f39/perfect-plan-6hdh7.png",
+      "md5": "a8821b06dc7d3fd2f08c305c37e71d79",
+      "width": 1200,
+      "height": 1600,
+      "size": 1661310,
+      "uploadedDate": "2023-11-10T09:39:33.976Z",
+      "alt": "Download Perfect Plan Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "940b0294778e4db2bec01cc908fda18a",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-06T12:00:30.814Z",
+  "lastModifiedDate": "2023-11-29T05:02:39.466Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "PerfectPlan"
+    }
+  },
+  "entitlementName": "628dfd63b3dc4a75a3c38bf1b98ab988",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "879bf9a017b246538f9fccc3009b3757",
+      "appId": "5c96c1da8faf4b0aa10cc564c5f14277",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "DIGITAL UPTHRUST",
+  "developerId": "o-yebuqc4kapnwlgqvn8fdads7lnqej5",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

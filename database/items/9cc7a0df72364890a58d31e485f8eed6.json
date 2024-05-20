@@ -1,0 +1,62 @@
+{
+  "id": "9cc7a0df72364890a58d31e485f8eed6",
+  "title": "IRA",
+  "description": "IRA",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f64c391157e4461f8174f77674fa7d16/ira-offer-1pbos.jpg",
+      "md5": "1fbf0b1a0aa8d8d6ddecf11c6c0078e3",
+      "width": 2560,
+      "height": 1440,
+      "size": 677403,
+      "uploadedDate": "2022-08-29T23:31:27.821Z",
+      "alt": "IRA Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f64c391157e4461f8174f77674fa7d16/download-ira-offer-1mces.jpg",
+      "md5": "5cf70a5b33633fb1e184962c36ac46a3",
+      "width": 1200,
+      "height": 1600,
+      "size": 719371,
+      "uploadedDate": "2022-08-29T23:31:28.341Z",
+      "alt": "Download IRA Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0d5a986ba8e94cccbf633ee244aec017",
+  "status": "ACTIVE",
+  "creationDate": "2022-08-08T23:26:49.606Z",
+  "lastModifiedDate": "2023-10-04T21:00:25.554Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "IRAU0EZM"
+    }
+  },
+  "entitlementName": "9cc7a0df72364890a58d31e485f8eed6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "31354702b7e54246a46c2114437ccb81",
+      "appId": "b4b62911b348461fae51350479901af1",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

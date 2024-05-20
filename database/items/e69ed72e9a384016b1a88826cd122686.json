@@ -1,0 +1,63 @@
+{
+  "id": "e69ed72e9a384016b1a88826cd122686",
+  "title": "System Purge",
+  "description": "Trapped in a buried, forgotten facility, you must reach the core of an ancient machine to rescue your lost lover. System Purge is a challenging, atmospheric 2D platformer.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d53f364ea59045d5922012822521d010/system-purge-offer-wsi0q.png",
+      "md5": "82d58d5290209fc7cb1bd3a5c2be731f",
+      "width": 2560,
+      "height": 1440,
+      "size": 155401,
+      "uploadedDate": "2022-09-19T16:32:39.656Z",
+      "alt": "System Purge Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d53f364ea59045d5922012822521d010/download-system-purge-offer-1f06r.png",
+      "md5": "70b06ae04b8071f20ade29e43191427e",
+      "width": 1200,
+      "height": 1600,
+      "size": 101425,
+      "uploadedDate": "2022-09-19T16:34:36.958Z",
+      "alt": "Download System Purge Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0212045e373b4c729b07f8aa369d8191",
+  "status": "ACTIVE",
+  "creationDate": "2022-04-21T20:04:39.297Z",
+  "lastModifiedDate": "2022-09-23T16:40:32.623Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SystemPurge"
+    }
+  },
+  "entitlementName": "e69ed72e9a384016b1a88826cd122686",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d551c08a69684d2a860271f211d41b4e",
+      "appId": "90607ac60b6c43f7bbc386a9156d04da",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Actual Nerds",
+  "developerId": "o-9ujhmdnedclukubjzguwf5zftkmfeq",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

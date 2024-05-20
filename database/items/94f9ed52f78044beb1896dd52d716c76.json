@@ -1,0 +1,68 @@
+{
+  "id": "94f9ed52f78044beb1896dd52d716c76",
+  "title": "Space Accident",
+  "description": "Your hero is Andy Freeman, a technical engineer of the Zeus-M700 spacecraft, sent on an expedition to the satellite of Jupiter to colonize it. However, what is conceived does not always go according to plan…",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7451ab26385d48f29331e8857b619e4d/space-accident-q3rq9.png",
+      "md5": "d51118f0b59e5cf88999f7933dfaedca",
+      "width": 2560,
+      "height": 1440,
+      "size": 1249767,
+      "uploadedDate": "2024-03-27T11:47:07.070Z",
+      "alt": "Space Accident Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7451ab26385d48f29331e8857b619e4d/space-accident-17gbb.png",
+      "md5": "2249f3370c1641889ea8ef64dbbea74c",
+      "width": 1200,
+      "height": 1600,
+      "size": 2620433,
+      "uploadedDate": "2024-03-27T11:47:09.372Z",
+      "alt": "Download Space Accident Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "18efd480ed4549688383b6036df07bc2",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-01T12:21:42.682Z",
+  "lastModifiedDate": "2024-05-01T12:21:42.682Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/SpaceAccident/CloudSave/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SpaceAccident"
+    }
+  },
+  "entitlementName": "94f9ed52f78044beb1896dd52d716c76",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "42c39d39acae4cbba278f3d753eeab19",
+      "appId": "04bb11f716ba40149f946c47b4b3f44d",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Whale Rock Games LLC",
+  "developerId": "o-z8ex63yvz4ye54cfgwhdu3zxz4tpja",
+  "endOfSupport": false,
+  "applicationId": "fghi4567U2ckgdEs0a1Hn9gTLg9Q2ZgO",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

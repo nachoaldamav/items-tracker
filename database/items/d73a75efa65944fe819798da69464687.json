@@ -1,0 +1,62 @@
+{
+  "id": "d73a75efa65944fe819798da69464687",
+  "title": "Skystead Ranch",
+  "description": "Skystead Ranch",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/796d86745a404abe8c6159a2ea304152/skystead-ranch-q5xiz.png",
+      "md5": "60140d58b169603234f242e81ffea831",
+      "width": 2560,
+      "height": 1440,
+      "size": 3138020,
+      "uploadedDate": "2024-03-01T15:57:29.517Z",
+      "alt": "Skystead Ranch Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/796d86745a404abe8c6159a2ea304152/skystead-ranch-19929.png",
+      "md5": "e7bb9caa44218a743c9722c497669846",
+      "width": 1200,
+      "height": 1600,
+      "size": 1652693,
+      "uploadedDate": "2024-03-01T15:57:28.008Z",
+      "alt": "Download Skystead Ranch Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5df8e058035b4f1ab1522b584a0142f3",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-03T18:41:01.230Z",
+  "lastModifiedDate": "2024-03-03T18:41:01.230Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SkysteadRanchuMcFx"
+    }
+  },
+  "entitlementName": "d73a75efa65944fe819798da69464687",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f17988070cd34859bc2fda7835267b36",
+      "appId": "7ad85ce0dbce4280a02ed94790fedbc8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "ToastieLabs Ltd",
+  "developerId": "o-9bf3y9nefnylbmlklynq2ya3pbd9bk",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

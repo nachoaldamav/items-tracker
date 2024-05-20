@@ -1,0 +1,63 @@
+{
+  "id": "e54bb37f04154838afad22897e24329f",
+  "title": "Shotgun Farmers",
+  "description": "Shotgun Farmers",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3b39f56617434a07be290091e2458357/shotgun-farmers-1sqvc.png",
+      "md5": "f3501537326ae2107c124bdce31723c7",
+      "width": 2560,
+      "height": 1440,
+      "size": 3203777,
+      "uploadedDate": "2023-04-12T15:55:57.757Z",
+      "alt": "Shotgun Farmers Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3b39f56617434a07be290091e2458357/shotgun-farmers-1upcg.png",
+      "md5": "7fd716be2d3f428ae08f13f3d9299628",
+      "width": 1200,
+      "height": 1600,
+      "size": 1745152,
+      "uploadedDate": "2023-04-12T15:55:54.667Z",
+      "alt": "Download Shotgun Farmers Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5eb9d01d608e46a7ac42a673a27f7888",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-09T22:29:25.059Z",
+  "lastModifiedDate": "2023-05-01T13:27:01.795Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ShotgunFarmers"
+    }
+  },
+  "entitlementName": "e54bb37f04154838afad22897e24329f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "863f35c3bfdd4875bbd1c64848fc7ae0",
+      "appId": "fb395f52c987402c8930b3ddd8411181",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Megastorm Games",
+  "developerId": "o-n49qzmsjbarqmy4fjyndscdw8tkfym",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

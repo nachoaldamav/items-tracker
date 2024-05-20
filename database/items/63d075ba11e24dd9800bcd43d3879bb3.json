@@ -1,0 +1,75 @@
+{
+  "id": "63d075ba11e24dd9800bcd43d3879bb3",
+  "title": "The Unexpected Quest (Demo)",
+  "description": "The demo version of the game only contains the first four chapters: three short tutorials and one full chapter.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/687621aaf42443afbdf9f8143196ba29/the-unexpected-quest-dbfbb.jpg",
+      "md5": "c0266add3a1a4b5ea2c220a1d7843cff",
+      "width": 2560,
+      "height": 1440,
+      "size": 606986,
+      "uploadedDate": "2024-02-21T12:08:28.514Z",
+      "alt": "The Unexpected Quest The Unexpected Quest (Demo) Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/687621aaf42443afbdf9f8143196ba29/the-unexpected-quest-9uc9n.jpg",
+      "md5": "53c5cec4a20d7266c58f47c65a2473bb",
+      "width": 1200,
+      "height": 1600,
+      "size": 364079,
+      "uploadedDate": "2024-02-21T12:08:28.976Z",
+      "alt": "Download The Unexpected Quest The Unexpected Quest (Demo) Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d2ad3196483f4a8ea6e1a43de9400bbb",
+  "status": "ACTIVE",
+  "creationDate": "2024-02-21T08:44:38.150Z",
+  "lastModifiedDate": "2024-04-15T08:25:01.636Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/MedievalTales/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheUnexpectedQuest_Demo"
+    }
+  },
+  "entitlementName": "63d075ba11e24dd9800bcd43d3879bb3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "08b60f40676a4a2c9c3f0ac71854e66a",
+      "appId": "517ceeec62f04603911b1c2b25a20903",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Tishkov Andrei Nikolaevich",
+  "developerId": "o-fsz7w5mtk4lwpatkkkxhq7llrf2u8w",
+  "endOfSupport": false,
+  "applicationId": "fghi4567HNoCAxHQ2j43M7gXcVJcMpCl",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

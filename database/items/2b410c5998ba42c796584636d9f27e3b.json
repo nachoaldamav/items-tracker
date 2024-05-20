@@ -1,0 +1,62 @@
+{
+  "id": "2b410c5998ba42c796584636d9f27e3b",
+  "title": "Sleengster",
+  "description": "Sleengster",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/54c5e4c590504128aeb3bc67344d2159/sleengster-1o18m.jpg",
+      "md5": "7e1d7e94cf3183f39de492201d1c61f8",
+      "width": 2560,
+      "height": 1440,
+      "size": 1755042,
+      "uploadedDate": "2023-06-21T08:50:42.202Z",
+      "alt": "Sleengster Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/54c5e4c590504128aeb3bc67344d2159/sleengster-1wx47.jpg",
+      "md5": "bab35d32fc4b45eba69de6a4db41a6bc",
+      "width": 1200,
+      "height": 1600,
+      "size": 1205519,
+      "uploadedDate": "2023-06-21T08:50:45.507Z",
+      "alt": "Download Sleengster Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1573f526f4ae4d3b89c6aa09e0020c1b",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-23T01:15:18.024Z",
+  "lastModifiedDate": "2023-06-23T01:15:18.024Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SleengsterZOkrC"
+    }
+  },
+  "entitlementName": "2b410c5998ba42c796584636d9f27e3b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a0269bb54a774f5384056e978d377a12",
+      "appId": "613a6ed7c66f4a9cabb8a816ab6db894",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Bearbones Crew",
+  "developerId": "o-zag4jw84ryky26jswltnbuur4qyvva",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

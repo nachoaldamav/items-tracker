@@ -1,0 +1,63 @@
+{
+  "id": "5fe50584312641db85129bd6ed281278",
+  "title": "Wyvia",
+  "description": "Wyvia",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/35ad22ace75748328df4edba44922733/wyvia-s5y60.png",
+      "md5": "8a6abdebeab2cbab4c06e1d7995f017a",
+      "width": 2560,
+      "height": 1440,
+      "size": 3199473,
+      "uploadedDate": "2023-07-17T22:40:13.534Z",
+      "alt": "Wyvia Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/35ad22ace75748328df4edba44922733/wyvia-192tz.png",
+      "md5": "ff1dec53622380010d24c3370e9f02d6",
+      "width": 1200,
+      "height": 1600,
+      "size": 1801145,
+      "uploadedDate": "2023-07-17T22:40:12.894Z",
+      "alt": "Download Wyvia Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f8746c4784114e1b9d000187539201f4",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-22T00:11:33.560Z",
+  "lastModifiedDate": "2023-10-20T06:33:47.067Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "WyviaRwwo9"
+    }
+  },
+  "entitlementName": "5fe50584312641db85129bd6ed281278",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3f620a253c6a46e4bee05405b7e66f97",
+      "appId": "7d21a0feaadf4b979efdf07a40f5511e",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Blast Programming",
+  "developerId": "o-xj7xb23n9a9s2xqk7tbhqrs7mqfwru",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

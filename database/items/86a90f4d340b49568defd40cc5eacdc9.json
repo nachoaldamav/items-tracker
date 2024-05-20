@@ -1,0 +1,65 @@
+{
+  "id": "86a90f4d340b49568defd40cc5eacdc9",
+  "title": "Rise of Jericho",
+  "description": "Rise of Jericho",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e1328016c54c4ce7865f67ea2922f833/rise-of-jericho-rz88y.png",
+      "md5": "3cd823a6e5366621b9047ea3246f1a21",
+      "width": 2560,
+      "height": 1440,
+      "size": 81368,
+      "uploadedDate": "2023-04-06T19:55:09.821Z",
+      "alt": "Rise of Jericho Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e1328016c54c4ce7865f67ea2922f833/rise-of-jericho-1avim.png",
+      "md5": "967115d1e74e4d757eee81333b0c71ab",
+      "width": 1200,
+      "height": 1600,
+      "size": 41853,
+      "uploadedDate": "2023-04-06T19:55:10.818Z",
+      "alt": "Download Rise of Jericho Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "05257e63ac474814a1282b6e364a4b19",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-20T22:51:42.166Z",
+  "lastModifiedDate": "2024-03-24T13:23:42.168Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "RiseofJericho"
+    }
+  },
+  "entitlementName": "86a90f4d340b49568defd40cc5eacdc9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d291c3897fe44f21b8ed615c37b50ef7",
+      "appId": "2cb9476063294f08bfcb8f0a22cf80e6",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Starseed Forest",
+  "developerId": "o-j82394w82n24xpwbb83h6p9tjycfmn",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,65 @@
+{
+  "id": "e2129000988c43ba941addf2060aad5e",
+  "title": "KibaGames",
+  "description": "KibaGames",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/449917d71b654dc2a385f3244d152445/kibagames-1ohsj.png",
+      "md5": "82b1f27199b987ff2e928a74f0c527a1",
+      "width": 2560,
+      "height": 1440,
+      "size": 3453052,
+      "uploadedDate": "2023-03-21T13:20:45.756Z",
+      "alt": "KibaGames Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/449917d71b654dc2a385f3244d152445/kibagames-qmu64.png",
+      "md5": "b4c2c5ab1e7851b95963714162017a4d",
+      "width": 1200,
+      "height": 1600,
+      "size": 2555338,
+      "uploadedDate": "2023-03-21T14:38:57.983Z",
+      "alt": "Download KibaGames Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d9dec92aafc5427699be1f9a259dba83",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-21T11:32:18.992Z",
+  "lastModifiedDate": "2024-01-01T13:56:23.047Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "KibaGames"
+    }
+  },
+  "entitlementName": "e2129000988c43ba941addf2060aad5e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2c31b1a7b0ef4c91bd55b2593427a544",
+      "appId": "f624574ccf9a41f8b6051fa20b822b88",
+      "platform": [
+        "Windows",
+        "Win32",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Kiba Inu",
+  "developerId": "o-mj7y9nyxmagr262dueaythzsf7c3xu",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

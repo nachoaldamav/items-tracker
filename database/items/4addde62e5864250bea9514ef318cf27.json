@@ -1,0 +1,63 @@
+{
+  "id": "4addde62e5864250bea9514ef318cf27",
+  "title": "Wild Animal Sports Day",
+  "description": "Wild Animal Sports Day",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e6b1c9f601b040709f459e17323d0765/wild-animal-sports-day-1v3sh.png",
+      "md5": "e44ab95838f12d2c6355476005cafcdb",
+      "width": 2560,
+      "height": 1440,
+      "size": 2213615,
+      "uploadedDate": "2023-03-15T11:53:00.389Z",
+      "alt": "Wild Animal Sports Day Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e6b1c9f601b040709f459e17323d0765/wild-animal-sports-day-7yryz.png",
+      "md5": "84164f393a2602fa16db48e55b265694",
+      "width": 1200,
+      "height": 1600,
+      "size": 3638473,
+      "uploadedDate": "2023-03-15T11:53:05.162Z",
+      "alt": "Download Wild Animal Sports Day Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "088a84adb8e34fd881e77cd4f3c23ba8",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-13T06:27:44.958Z",
+  "lastModifiedDate": "2023-03-25T20:52:14.668Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "WildAnimalSportsDayIyvII"
+    }
+  },
+  "entitlementName": "4addde62e5864250bea9514ef318cf27",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ed21b66f1fab4fb68e2928b6c1b155e4",
+      "appId": "6d2fa18b4034456187e2901b097c984e",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Marjupi Games",
+  "developerId": "o-p38r9zrz2qpvtp4ncz3s7b3d4fdsv8",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

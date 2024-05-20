@@ -1,0 +1,89 @@
+{
+  "id": "531da5b384524a08baa02cedb927b617",
+  "title": "Plants vs. Zombies™ Game of the Year Edition",
+  "description": "Zombies are invading your home, and the only defense is your arsenal of plants! You'll need to think fast and plant faster to stop dozens of types of zombies dead in their tracks.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ad2540cf00354bbeae912066c7357803/plants-vs-zombies-game-of-the-year-edition-19hbk.jpg",
+      "md5": "479fb5ce47b55292cd6b4b4462ca4474",
+      "width": 2560,
+      "height": 1440,
+      "size": 835759,
+      "uploadedDate": "2024-04-19T14:09:52.771Z",
+      "alt": "Plants vs. Zombies Game of the Year Edition Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ad2540cf00354bbeae912066c7357803/plants-vs-zombies-game-of-the-year-edition-152ck.jpg",
+      "md5": "c5d65da296c06ceff4d73435bc7db7fb",
+      "width": 1200,
+      "height": 1600,
+      "size": 932361,
+      "uploadedDate": "2024-04-19T14:10:01.416Z",
+      "alt": "Download Plants vs. Zombies Game of the Year Edition Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c7f4f01a250d409ebf0a47677b1b4896",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-02T00:01:29.670Z",
+  "lastModifiedDate": "2024-05-02T00:01:29.670Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\PopCap\\PlantsvsZombies"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "PlantsVsZombies.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "PlantsVsZombies.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PlantsvsZombiesGameoKg1e6"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "531da5b384524a08baa02cedb927b617",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b1ae0a5980654558bca7375734bf3346",
+      "appId": "zimmer",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

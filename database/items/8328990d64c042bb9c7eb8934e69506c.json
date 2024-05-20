@@ -1,0 +1,75 @@
+{
+  "id": "8328990d64c042bb9c7eb8934e69506c",
+  "title": "Airhead",
+  "description": "Torn apart by a machine of unknown origin, a symbiotic being must get his separated head and body to work together to overcome the challenges of the cave. In this Metroidvania-style world, challenging puzzles must be solved to find the key to Head's survival - and perhaps more!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/62f539fc56014335afebe35adec8260d/airhead-offer-1bhnp.jpg",
+      "md5": "6a828960b684900dce471a9dd89fcf8e",
+      "width": 2560,
+      "height": 1440,
+      "size": 554300,
+      "uploadedDate": "2022-08-09T13:40:41.281Z",
+      "alt": "Airhead Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/62f539fc56014335afebe35adec8260d/download-airhead-offer-10ijp.jpg",
+      "md5": "30c3d833c39734d493aa292a53924116",
+      "width": 1200,
+      "height": 1600,
+      "size": 955787,
+      "uploadedDate": "2022-08-09T13:40:42.006Z",
+      "alt": "Download Airhead Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4107042361cf49c582f6f307cdc2c88e",
+  "status": "ACTIVE",
+  "creationDate": "2021-10-26T14:05:06.510Z",
+  "lastModifiedDate": "2024-01-25T14:07:04.114Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Octato/Airhead/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav, *.met, bindings.cfg"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Airhead"
+    }
+  },
+  "entitlementName": "8328990d64c042bb9c7eb8934e69506c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "672ac2bc8777495e95cbf084d6b9491d",
+      "appId": "6c2049f71c484082b3f045a615e2ef05",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Handy Games",
+  "developerId": "o-ekk92wx8mesnmsvbseequvnt38mzu6",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

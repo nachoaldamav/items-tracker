@@ -1,0 +1,68 @@
+{
+  "id": "c59d52181af7401a85f215a22f1a216b",
+  "title": "Death Crown",
+  "description": "Death Crown",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ebbfa395323a40c4b09192ca6193d845/death-crown-1chx1.png",
+      "md5": "337c281ac23ae4e2a7ce16ce48054e41",
+      "width": 2560,
+      "height": 1440,
+      "size": 990605,
+      "uploadedDate": "2023-08-07T11:44:11.494Z",
+      "alt": "Death Crown Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ebbfa395323a40c4b09192ca6193d845/death-crown-1l5hg.png",
+      "md5": "a6b3d55a0c2fa375fc5714e00ed2aabc",
+      "width": 1200,
+      "height": 1600,
+      "size": 757678,
+      "uploadedDate": "2023-08-07T11:44:14.410Z",
+      "alt": "Download Death Crown Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "36c80652a9de4ac28ab9f990034dc847",
+  "status": "ACTIVE",
+  "creationDate": "2023-08-23T13:34:38.283Z",
+  "lastModifiedDate": "2023-08-23T13:34:38.938Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/5wordTeam/Death Crown/NewDeathCrownSaves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DeathCrownSlrFD"
+    }
+  },
+  "entitlementName": "c59d52181af7401a85f215a22f1a216b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bcafac1f93494309a0b78f6c6d3edab4",
+      "appId": "355b9ae701834946a99fed5d629ac57c",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "5WORD TEAM",
+  "developerId": "o-7r7apss935q7gbz548dw7rgj8sx37a",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

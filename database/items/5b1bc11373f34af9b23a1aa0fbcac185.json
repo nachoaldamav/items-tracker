@@ -1,0 +1,59 @@
+{
+  "id": "5b1bc11373f34af9b23a1aa0fbcac185",
+  "title": "SCP",
+  "description": "SCP",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/899f44ad4bea47e9a4da9d93baeb55a5/scp-136nl.png",
+      "md5": "e41c86242a2141c34ca80f2d38b6d1ae",
+      "width": 2560,
+      "height": 1440,
+      "size": 619241,
+      "uploadedDate": "2024-05-07T19:18:12.818Z",
+      "alt": "SCP Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/899f44ad4bea47e9a4da9d93baeb55a5/scp-1wsx0.png",
+      "md5": "1b18d456b604f7a773a1307b0a075b44",
+      "width": 1200,
+      "height": 1600,
+      "size": 195558,
+      "uploadedDate": "2024-05-07T19:21:22.212Z",
+      "alt": "Download SCP Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "17b1aeb9e01545d58c8b5c58d02369fe",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-09T14:38:50.238Z",
+  "lastModifiedDate": "2024-05-09T14:38:50.238Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SCPZhr3r"
+    }
+  },
+  "entitlementName": "5b1bc11373f34af9b23a1aa0fbcac185",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f972255dcffd453c9017c23210bfec87",
+      "appId": "eb73131907d046e69f1a6b7c615d9c77"
+    }
+  ],
+  "developer": "Molance Games",
+  "developerId": "o-h7ab8bjms2xan6aygpujwrxsfcpg8z",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

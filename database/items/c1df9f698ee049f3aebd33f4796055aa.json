@@ -1,0 +1,65 @@
+{
+  "id": "c1df9f698ee049f3aebd33f4796055aa",
+  "title": "Time Commando",
+  "description": "Time Commando",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/64d6982a748840e98747e4da00dde539/time-commando-1tz4k.png",
+      "md5": "8ff683f2577aa59676cfb07bff56d7a4",
+      "width": 2560,
+      "height": 1440,
+      "size": 3247335,
+      "uploadedDate": "2023-10-12T08:50:05.102Z",
+      "alt": "Time Commando Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/64d6982a748840e98747e4da00dde539/time-commando-1202k.png",
+      "md5": "ba98b070dcee788f97c11190cbed242c",
+      "width": 1200,
+      "height": 1600,
+      "size": 1559165,
+      "uploadedDate": "2023-10-12T08:49:59.604Z",
+      "alt": "Download Time Commando Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ba12e8eb6a7f4f2d803a2bd73dd7efde",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-12T08:09:09.555Z",
+  "lastModifiedDate": "2023-10-16T07:15:15.184Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TimeCommando"
+    }
+  },
+  "entitlementName": "c1df9f698ee049f3aebd33f4796055aa",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4f2c260c8ef14acda3a7c5845d1f7a22",
+      "appId": "eb412e4fdddc4cefb0b2904439054f61",
+      "platform": [
+        "Windows",
+        "Win32",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "2.21",
+  "developerId": "o-j6ps8agfnnq2lxj3cwvbjvr56y4r2s",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

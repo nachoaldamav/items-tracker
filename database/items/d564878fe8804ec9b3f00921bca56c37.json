@@ -1,0 +1,62 @@
+{
+  "id": "d564878fe8804ec9b3f00921bca56c37",
+  "title": "Wizordum Demo",
+  "description": "Wizordum Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f13dbde16d88485bb148363c92b733d3/wizordum-1fzzi.png",
+      "md5": "c49c34898c126987f8eb2ea8d8a78060",
+      "width": 2560,
+      "height": 1440,
+      "size": 2045888,
+      "uploadedDate": "2023-09-29T18:40:18.885Z",
+      "alt": "Wizordum Wizordum Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f13dbde16d88485bb148363c92b733d3/wizordum-kyf7p.png",
+      "md5": "774bd03989ff1b630a84b9dea20f6deb",
+      "width": 1200,
+      "height": 1600,
+      "size": 3503818,
+      "uploadedDate": "2023-09-29T18:40:16.325Z",
+      "alt": "Download Wizordum Wizordum Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "45af1465cda34fa2ba13ba42cec4ce76",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-13T19:23:25.111Z",
+  "lastModifiedDate": "2023-10-10T21:07:08.644Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DemoWizordum024ee"
+    }
+  },
+  "entitlementName": "d564878fe8804ec9b3f00921bca56c37",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7beae7c45ea648d9b103bc03afaa81ea",
+      "appId": "d11d089748f740bab00282ac29bf21d8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Apogee Entertainment",
+  "developerId": "o-xh5dj82gy56frdyzfntt85yf5clm2c",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "25bc111f23f942a4aeea3308ee22e05a",
+  "title": "Chainmonsters",
+  "description": "Chainmonsters",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/aacf77ed60ba4e11997347066988542f/chainmonsters-xjgan.png",
+      "md5": "b3a22dec7db192b2b38316d1c3466e57",
+      "width": 2560,
+      "height": 1440,
+      "size": 1934609,
+      "uploadedDate": "2023-02-03T10:48:36.073Z",
+      "alt": "Chainmonsters Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/aacf77ed60ba4e11997347066988542f/chainmonsters-1fbqy.png",
+      "md5": "e302bb908435844d71f1c92a5dde65c4",
+      "width": 1200,
+      "height": 1600,
+      "size": 1492731,
+      "uploadedDate": "2023-02-03T10:47:52.629Z",
+      "alt": "Download Chainmonsters Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f38ace8ec02445d7a0262a886b90bd40",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-20T12:27:57.336Z",
+  "lastModifiedDate": "2023-03-11T00:07:54.876Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Chainmonsters"
+    }
+  },
+  "entitlementName": "25bc111f23f942a4aeea3308ee22e05a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ce789504764341a28ebeb8819abdbd36",
+      "appId": "4da4b6a3db2f44fab26e276e9581b9b4",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "B-Side Games",
+  "developerId": "o-uyp3kf86q2r77jnv2uvrarf8s34q89",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

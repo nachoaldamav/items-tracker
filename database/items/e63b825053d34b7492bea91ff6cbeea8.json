@@ -1,0 +1,80 @@
+{
+  "id": "e63b825053d34b7492bea91ff6cbeea8",
+  "title": "REVEIL",
+  "description": "REVEIL",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/866e81d955ae438b88867aa88b508dbc/reveil-tyezq.jpg",
+      "md5": "3bf4deea3c36ee9bab354fe760a180a6",
+      "width": 2560,
+      "height": 1440,
+      "size": 1018057,
+      "uploadedDate": "2024-02-26T15:42:17.127Z",
+      "alt": "REVEIL Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/866e81d955ae438b88867aa88b508dbc/reveil-1yeu4.png",
+      "md5": "db11555cb57db94a548f38461159a0c5",
+      "width": 1200,
+      "height": 1600,
+      "size": 3515035,
+      "uploadedDate": "2024-02-26T15:42:28.021Z",
+      "alt": "Download REVEIL Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c95731cf37314e239f348c0559df8c56",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-03T12:08:33.555Z",
+  "lastModifiedDate": "2024-03-06T16:44:12.103Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Pixelsplit/REVEIL/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Pixelsplit/REVEIL/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Meta, Collectables, *.save"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "REVEIL"
+    }
+  },
+  "entitlementName": "e63b825053d34b7492bea91ff6cbeea8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c2891c38ce624cf89405bc5a08859fee",
+      "appId": "13d3aaaae9d44b2b8664b74f45e58b56",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "endOfSupport": false,
+  "applicationId": "fghi4567IVfBHN4fW5UCqUerexRo0XXH",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

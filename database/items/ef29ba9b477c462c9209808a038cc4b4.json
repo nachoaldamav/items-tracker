@@ -1,0 +1,64 @@
+{
+  "id": "ef29ba9b477c462c9209808a038cc4b4",
+  "title": "Men of War",
+  "description": "Men of War",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0486931600364eb6bd987d2ccf0f948b/men-of-war-1w5fv.jpg",
+      "md5": "81b678825627fb3c9c2dfe1f977f0e1f",
+      "width": 2560,
+      "height": 1440,
+      "size": 945579,
+      "uploadedDate": "2022-11-21T16:20:26.371Z",
+      "alt": "Men of War Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0486931600364eb6bd987d2ccf0f948b/men-of-war-ppzt3.jpg",
+      "md5": "6dc4f369188daa76d51092564ff98c2f",
+      "width": 1200,
+      "height": 1600,
+      "size": 733104,
+      "uploadedDate": "2022-11-21T16:20:25.847Z",
+      "alt": "Download Men of War Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8b234aeb354e4688b000853a2085fd71",
+  "status": "ACTIVE",
+  "creationDate": "2022-11-14T09:55:18.587Z",
+  "lastModifiedDate": "2023-08-18T09:54:33.313Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "MenofWar"
+    }
+  },
+  "entitlementName": "ef29ba9b477c462c9209808a038cc4b4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2baf1cf8ab2540deaa15ae46c6af8d45",
+      "appId": "c27c4e548d7540efb9d8ec4ac95bce84",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Fulqrum Publishing Ltd.",
+  "developerId": "o-n4d8bf5e8fnr4kujuut9j6v4d29muc",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "f2533a2dc48442f7aefefc8b7887de1e",
+  "title": "Iragon Prologue",
+  "description": "Iragon Prologue",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7a823627d805406ea42e894368827dc2/iragon-prologue-bh61e.png",
+      "md5": "eda72b927ffe348c1fae795230ccb534",
+      "width": 2560,
+      "height": 1440,
+      "size": 4192773,
+      "uploadedDate": "2024-03-07T13:07:42.588Z",
+      "alt": "Iragon Prologue Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7a823627d805406ea42e894368827dc2/iragon-prologue-15vvu.png",
+      "md5": "d088b0fe56d836487da489df5cbbcfdb",
+      "width": 1200,
+      "height": 1600,
+      "size": 2362136,
+      "uploadedDate": "2024-03-07T13:07:43.385Z",
+      "alt": "Download Iragon Prologue Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b9c30d1a484f4f93987022333f68a842",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-21T07:35:44.257Z",
+  "lastModifiedDate": "2024-03-07T15:54:32.023Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "IragonPrologue"
+    }
+  },
+  "entitlementName": "f2533a2dc48442f7aefefc8b7887de1e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9dbe0f2ab5804695b2c957c678ffbc9a",
+      "appId": "9791c621bb5a4769b9a2ebea4174ebe3",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Repulse",
+  "developerId": "o-apxlrs7cs3ybhpf5rntp9h57qajbbm",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

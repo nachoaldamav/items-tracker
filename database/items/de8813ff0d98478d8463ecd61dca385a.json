@@ -1,0 +1,89 @@
+{
+  "id": "de8813ff0d98478d8463ecd61dca385a",
+  "title": "Need for Speed™ Heat Deluxe Edition",
+  "description": "Hustle by day and risk it all at night in Need for Speed™ Heat, a thrilling race experience that pits you against a city’s rogue police force as you battle your way into street racing’s elite.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f4241a8649244c5693450ebda42f935b/need-for-speed-heat-ijzv5.jpg",
+      "md5": "cc2eb210d99217232ba271d1de44fb7d",
+      "width": 2560,
+      "height": 1440,
+      "size": 809642,
+      "uploadedDate": "2024-03-08T09:36:55.683Z",
+      "alt": "Need For Speed: Heat Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f4241a8649244c5693450ebda42f935b/need-for-speed-heat-125b0.jpg",
+      "md5": "31a5b719806171912246ef32ef123fb1",
+      "width": 1200,
+      "height": 1600,
+      "size": 822354,
+      "uploadedDate": "2024-03-08T09:37:14.046Z",
+      "alt": "Download Need For Speed: Heat Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bdefe348a0ae441e84687addee74fd10",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-04T15:42:20.495Z",
+  "lastModifiedDate": "2024-03-28T14:12:37.443Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\EA Games\\Need for Speed Heat"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "NeedForSpeedHeat.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "NeedForSpeedHeat.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NeedForSpeedHeat2wRf2"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "de8813ff0d98478d8463ecd61dca385a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d7c0f4196189448ebc7989a021a7e1e4",
+      "appId": "nunt",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

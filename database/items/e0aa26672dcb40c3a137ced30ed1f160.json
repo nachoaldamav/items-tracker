@@ -1,0 +1,72 @@
+{
+  "id": "e0aa26672dcb40c3a137ced30ed1f160",
+  "title": "Firestone Online Idle RPG",
+  "description": "Firestone: Online Idle RPG is a multiplayer fantasy game with idle rpg mechanics. Collect heroes🧙‍♂️, upgrade their gear & skills, and sent them in AFK battles or go on an incremental clicker frenzy to beat monstrous bosses! Chat with guild friends or engage in PVP⚔️.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1mdcp.png",
+      "md5": "dc4d2032e31d2307313c3a53e3da8a98",
+      "width": 2560,
+      "height": 1440,
+      "size": 1425890,
+      "uploadedDate": "2024-04-30T22:23:54.231Z",
+      "alt": "Firestone Online Idle RPG Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-l99f5.png",
+      "md5": "729dfd63c51991e949270e74ec145c0b",
+      "width": 1200,
+      "height": 1600,
+      "size": 1494758,
+      "uploadedDate": "2023-05-22T10:56:59.284Z",
+      "alt": "Download Firestone Online Idle RPG Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bda8d2133655435982b9118972792328",
+  "status": "ACTIVE",
+  "creationDate": "2022-11-18T16:04:55.829Z",
+  "lastModifiedDate": "2024-05-04T08:45:17.032Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/EpicGames/{EpicID}/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/EpicGames/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FirestoneOnlineIdleRPG"
+    }
+  },
+  "entitlementName": "e0aa26672dcb40c3a137ced30ed1f160",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0c16ba19d6424d07abf407983f7beb71",
+      "appId": "43d4ef20fcb94eb39a864d13164fe3ca",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "AM Holyday Studios Ltd",
+  "developerId": "o-eg5kffqlkqfqx99eqtwhnvj2p524dv",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

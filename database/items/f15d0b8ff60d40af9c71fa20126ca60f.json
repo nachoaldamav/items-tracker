@@ -1,0 +1,64 @@
+{
+  "id": "f15d0b8ff60d40af9c71fa20126ca60f",
+  "title": "Ubersoldier",
+  "description": "Ubersoldier",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f2a73e5bbfdc4cb19e6d6e6f22ce6c83/ubersoldier-oglyr.png",
+      "md5": "bb9811a71b13e6b4ae641a90ab275273",
+      "width": 2560,
+      "height": 1440,
+      "size": 2038046,
+      "uploadedDate": "2024-01-30T19:01:43.166Z",
+      "alt": "Ubersoldier Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f2a73e5bbfdc4cb19e6d6e6f22ce6c83/ubersoldier-zo6c7.png",
+      "md5": "484512d8a58b79637b2c2aeecbf7890f",
+      "width": 1200,
+      "height": 1600,
+      "size": 1216219,
+      "uploadedDate": "2024-01-30T19:01:42.194Z",
+      "alt": "Download Ubersoldier Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a3def65eb16d4cc4993a7d7f626bc42f",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-30T02:32:53.187Z",
+  "lastModifiedDate": "2024-03-30T02:32:53.187Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Ubersoldier"
+    }
+  },
+  "entitlementName": "f15d0b8ff60d40af9c71fa20126ca60f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d5ef2ee42624463ab8db5f463ca6cb62",
+      "appId": "5eaba5b162414d8991d20a57674d0df2",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Strategy First",
+  "developerId": "o-a3vefcg43bn6j4lwc7qs8n5y38jm7k",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,68 @@
+{
+  "id": "4098d96bb85b4cc9bba9b2840fc4c236",
+  "title": "Frogurai",
+  "description": "Frogurai",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7d1c6fc61be84bcd986e0467ce1284fb/frogurai-1176u.png",
+      "md5": "16d089c7e44501145495cb1440bdd3eb",
+      "width": 2560,
+      "height": 1440,
+      "size": 4060118,
+      "uploadedDate": "2023-03-15T13:22:29.606Z",
+      "alt": "Frogurai Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7d1c6fc61be84bcd986e0467ce1284fb/frogurai-aztp9.png",
+      "md5": "ea1228d0dbda4a6a745bf4313cff6ca6",
+      "width": 1200,
+      "height": 1600,
+      "size": 2168114,
+      "uploadedDate": "2023-03-15T13:22:29.135Z",
+      "alt": "Download Frogurai Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9814b5f0d1a44f839e6f94d3dd9aa9d2",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-15T06:50:17.618Z",
+  "lastModifiedDate": "2023-03-21T23:49:43.234Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Frogurai/User Data\\Default\\IndexedDB/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FroguraiScQ3T"
+    }
+  },
+  "entitlementName": "4098d96bb85b4cc9bba9b2840fc4c236",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ef01ecd8794e455fba357206495236f1",
+      "appId": "1e42651515914a28b450fc799f847648",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "NIBB TECNOLOGIA LTDA",
+  "developerId": "o-lknwzq4vt4emkx8aw8x6c6k4w3g23h",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

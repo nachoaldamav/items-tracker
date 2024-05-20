@@ -1,0 +1,64 @@
+{
+  "id": "fa63c4a0163447e199c133cc95f161e7",
+  "title": "Faces of War",
+  "description": "Faces of War",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2c688adf384543678239405e5b632ca2/faces-of-war-10p60.jpg",
+      "md5": "f3e9c8b2bb9ffc753f927ab3ba03fc9c",
+      "width": 2560,
+      "height": 1440,
+      "size": 973282,
+      "uploadedDate": "2022-11-22T11:07:25.958Z",
+      "alt": "Faces of War Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2c688adf384543678239405e5b632ca2/faces-of-war-huztz.jpg",
+      "md5": "31d62f12f916c583972a9be9bba0a0c6",
+      "width": 1200,
+      "height": 1600,
+      "size": 658060,
+      "uploadedDate": "2022-11-22T11:07:22.044Z",
+      "alt": "Download Faces of War Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9e68f096a3d543c49b5066aa6525b738",
+  "status": "ACTIVE",
+  "creationDate": "2022-11-14T11:48:15.851Z",
+  "lastModifiedDate": "2023-08-18T09:54:33.397Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "FacesofWar"
+    }
+  },
+  "entitlementName": "fa63c4a0163447e199c133cc95f161e7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a1eb2641f5fe406c87b4c14fe18a44c2",
+      "appId": "8783ab350a694f9db83a7724d920544e",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Fulqrum Publishing Ltd.",
+  "developerId": "o-n4d8bf5e8fnr4kujuut9j6v4d29muc",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,62 @@
+{
+  "id": "59f02a9292b949c7b0894c27cbf1cff2",
+  "title": "Lemon Cake",
+  "description": "Lemon Cake",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4236fdee7efd4dcf9945f791a162d2c7/lemon-cake-offer-b7zfg.jpg",
+      "md5": "d68fe69dc77ea7f86ef3ffbafd5242c8",
+      "width": 2560,
+      "height": 1440,
+      "size": 689103,
+      "uploadedDate": "2022-06-07T14:29:50.717Z",
+      "alt": "Lemon Cake Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4236fdee7efd4dcf9945f791a162d2c7/download-lemon-cake-offer-1qgj0.jpg",
+      "md5": "a2a3b65a26dc8f266f59d1d524c96a5f",
+      "width": 1200,
+      "height": 1600,
+      "size": 353953,
+      "uploadedDate": "2022-06-07T14:29:55.752Z",
+      "alt": "Download Lemon Cake Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3eae9135a71f43a288f3b683fe83bc11",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-27T07:14:00.923Z",
+  "lastModifiedDate": "2022-09-27T07:14:00.923Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "LemonCakeGDqCl"
+    }
+  },
+  "entitlementName": "59f02a9292b949c7b0894c27cbf1cff2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9aa61b2ef1bd488dba079bb0c35fb1c6",
+      "appId": "38669037185f4e5f841a14599eb3d80e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SOEDESCO",
+  "developerId": "o-9uf2bsrkptwqbkpy867grcbj5jxrta",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

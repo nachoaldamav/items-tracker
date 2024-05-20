@@ -1,0 +1,89 @@
+{
+  "id": "3d6aec628f0b4bb3a874ee25010bfe99",
+  "title": "Dead Space™ (2008)",
+  "description": "You are Isaac Clarke, an engineer on the spacecraft USG Ishimura. You're not a warrior. You're not a soldier. You are, however, the last line of defense for the remaining living crew.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/561519f67a624ff9b235797a5a67f6d4/dead-space-2008-1i4l0.jpg",
+      "md5": "23cc6db24ecaa4fd854d192b8770b229",
+      "width": 2560,
+      "height": 1440,
+      "size": 656249,
+      "uploadedDate": "2024-02-23T22:20:59.480Z",
+      "alt": "Dead Space 2008 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/561519f67a624ff9b235797a5a67f6d4/dead-space-2008-1i0rh.jpg",
+      "md5": "6ef3feb096549e358b83c53e01c2ebf3",
+      "width": 1200,
+      "height": 1600,
+      "size": 709396,
+      "uploadedDate": "2024-02-23T22:20:59.396Z",
+      "alt": "Download Dead Space 2008 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e56a1ce3e32f4cfa84864646a9ea212e",
+  "status": "ACTIVE",
+  "creationDate": "2024-02-23T00:31:53.390Z",
+  "lastModifiedDate": "2024-03-28T14:14:43.401Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Electronic Arts\\Dead Space"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "Dead Space.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "Dead Space.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DeadSpace2008"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "3d6aec628f0b4bb3a874ee25010bfe99",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cff4f6fe996d4f2dafee8060adae8d8a",
+      "appId": "bundevara",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

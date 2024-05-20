@@ -1,0 +1,72 @@
+{
+  "id": "a137ab34e77643a8b8af8aeaca844e64",
+  "title": "Who's Your Daddy?!",
+  "description": "Who's Your Daddy?!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3bfea71eab404708bf290800970faf14/whos-your-daddy-al0im.png",
+      "md5": "d3c21aca1c25fdc67cfed313bf1e51f6",
+      "width": 2560,
+      "height": 1440,
+      "size": 2820546,
+      "uploadedDate": "2023-10-11T20:27:05.690Z",
+      "alt": "Who's Your Daddy Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3bfea71eab404708bf290800970faf14/whos-your-daddy-srlmm.png",
+      "md5": "40dae5047f7aa7cf7a70a53c2964ca7c",
+      "width": 1200,
+      "height": 1600,
+      "size": 2064332,
+      "uploadedDate": "2023-10-11T20:20:21.856Z",
+      "alt": "Download Who's Your Daddy Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "63d0293742c943d68b88af4173b1a5d0",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-04T18:02:52.684Z",
+  "lastModifiedDate": "2024-05-01T20:03:08.468Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/WhosYourDaddy/{EpicID}/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/WhosYourDaddy/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WhosYourDaddymEvGb"
+    }
+  },
+  "entitlementName": "a137ab34e77643a8b8af8aeaca844e64",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4143d1f4019841f2ba9f508015b7b417",
+      "appId": "36eaafd5ae2d42f98fcf45cc02dc4481",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Evil Tortilla Games Incorporated",
+  "developerId": "o-nfky8pn9r723trjsn7n3t25rn9x7pz",
+  "endOfSupport": false,
+  "applicationId": "fghi4567SfR0zNuUUpIPDkdIqCMTvVkb",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "a01d846767aa43d0bbb285548d59817d",
+  "title": "Witch It",
+  "description": "Witch It",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/03887d7e03fd460eb1c3074d1de865dd/witch-it-1h1bk.jpg",
+      "md5": "a59a8ef10eccc412912ff96f21a483f6",
+      "width": 2560,
+      "height": 1440,
+      "size": 1158400,
+      "uploadedDate": "2024-01-19T10:33:05.770Z",
+      "alt": "Witch It Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/03887d7e03fd460eb1c3074d1de865dd/witch-it-3y04i.png",
+      "md5": "acd58b3580ded12ff257116f39fa17e3",
+      "width": 1200,
+      "height": 1600,
+      "size": 2220134,
+      "uploadedDate": "2024-03-25T16:28:10.282Z",
+      "alt": "Download Witch It Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b9e6e3d5a4474a8ead248c62bfdf08b7",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-05T21:17:11.582Z",
+  "lastModifiedDate": "2024-03-25T20:49:18.498Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "WitchIt"
+    }
+  },
+  "entitlementName": "a01d846767aa43d0bbb285548d59817d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f7a9b15e8002408ca98a486cc575ece2",
+      "appId": "fdbd9987b8344d2ead326c7f18d6da0e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Barrel Roll Games GmbH & Co. KG",
+  "developerId": "o-ur7c9fhlj4tk5quljfy7znqz9qz2t3",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

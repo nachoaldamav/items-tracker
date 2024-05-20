@@ -1,0 +1,63 @@
+{
+  "id": "292b51221056432ea15ca08170310ade",
+  "title": "Dead By Murder",
+  "description": "Dead By Murder",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/03a8ab0cd64744cd8a4877530058bb09/dead-by-murder-1nlbf.png",
+      "md5": "3cc52c012aab6d19e6319f1ddc33d57e",
+      "width": 2560,
+      "height": 1440,
+      "size": 1593836,
+      "uploadedDate": "2023-10-22T21:16:52.299Z",
+      "alt": "Dead By Murder Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/03a8ab0cd64744cd8a4877530058bb09/dead-by-murder-1i25m.png",
+      "md5": "573f68e0343c615e5b791a9419565ee5",
+      "width": 1200,
+      "height": 1600,
+      "size": 806018,
+      "uploadedDate": "2023-10-22T19:34:11.334Z",
+      "alt": "Download Dead By Murder Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d1a966320cca4315888baf5acd3ab932",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-30T23:14:36.225Z",
+  "lastModifiedDate": "2023-10-30T23:14:36.225Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DeadByMurder"
+    }
+  },
+  "entitlementName": "292b51221056432ea15ca08170310ade",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "615c5795a46c498b8ed920076d775a26",
+      "appId": "628049c288c243d09787ff8f5271b093",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Strategy First",
+  "developerId": "o-a3vefcg43bn6j4lwc7qs8n5y38jm7k",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

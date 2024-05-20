@@ -1,0 +1,71 @@
+{
+  "id": "371f6854b0c4460fb201362a35c56ba9",
+  "title": "Monster Coming",
+  "description": "Monster Coming",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/79bf357ea0744e4185933ad06f036465/monster-tide-fgufn.png",
+      "md5": "d28929f779d0a0aa96ce20eedd462eaa",
+      "width": 2560,
+      "height": 1440,
+      "size": 1371977,
+      "uploadedDate": "2023-10-18T10:11:03.008Z",
+      "alt": "Monster Tide Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/79bf357ea0744e4185933ad06f036465/monster-tide-ir8v7.png",
+      "md5": "99d241b0eac9ef0c06db35cc4504d93f",
+      "width": 1200,
+      "height": 1600,
+      "size": 982912,
+      "uploadedDate": "2023-10-18T10:11:12.202Z",
+      "alt": "Download Monster Tide Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "36b8a835391149e7b9a755fb3eb21f61",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-27T06:27:23.087Z",
+  "lastModifiedDate": "2024-04-25T22:00:20.418Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/ongmaker/Monster Coming\\File/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MonsterTideCJS6D"
+    }
+  },
+  "entitlementName": "371f6854b0c4460fb201362a35c56ba9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "32ec0c3edada40a3aa5079ba87e06f5b",
+      "appId": "fa5086be17774ca0acda14a50bd5b7b6",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Future TV Co. Ltd",
+  "developerId": "o-y96gmjq7usbx434fwj4cyms7mbntgy",
+  "endOfSupport": false,
+  "applicationId": "fghi4567wnyfCLaOs3sishUKTIrs17in",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

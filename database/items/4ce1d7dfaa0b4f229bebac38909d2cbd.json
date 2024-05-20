@@ -1,0 +1,63 @@
+{
+  "id": "4ce1d7dfaa0b4f229bebac38909d2cbd",
+  "title": "Carnage Chase",
+  "description": "Carnage Chase",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d4436575316349dc825839be4ec3847b/carnage-chase-1w0ns.png",
+      "md5": "63f7dac7d32cbc999d7e4d36ecc6959a",
+      "width": 2560,
+      "height": 1440,
+      "size": 29212,
+      "uploadedDate": "2023-12-28T23:22:27.992Z",
+      "alt": "Carnage Chase Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d4436575316349dc825839be4ec3847b/carnage-chase-160rf.png",
+      "md5": "7c68e96bf2cecb90b66409e1198336c5",
+      "width": 1200,
+      "height": 1600,
+      "size": 20400,
+      "uploadedDate": "2023-12-28T23:14:08.418Z",
+      "alt": "Download Carnage Chase Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fbe32f5aded6419aa99ef9ed8c719426",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-30T09:43:14.354Z",
+  "lastModifiedDate": "2024-03-04T15:15:52.905Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "CarnageChase"
+    }
+  },
+  "entitlementName": "4ce1d7dfaa0b4f229bebac38909d2cbd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2f20e7fc4f4a46eba360fa13f9afd40d",
+      "appId": "5a8294223aea473d852d192a6480adc9",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Amotsun",
+  "developerId": "o-c7hsx6m4n4nc52wztkjk5q45myhaym",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

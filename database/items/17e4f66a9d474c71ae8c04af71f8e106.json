@@ -1,0 +1,63 @@
+{
+  "id": "17e4f66a9d474c71ae8c04af71f8e106",
+  "title": "The Abbey",
+  "description": "The Abbey",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b25f8af6c17f489ab7926a658e7648de/the-abbey-18l1l.png",
+      "md5": "778a3be5a313f5ffd1923687b2a58a97",
+      "width": 2560,
+      "height": 1440,
+      "size": 3914320,
+      "uploadedDate": "2022-10-20T18:09:13.105Z",
+      "alt": "The Abbey Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b25f8af6c17f489ab7926a658e7648de/the-abbey-1dqri.png",
+      "md5": "b42f97c9d5f62b285021c681ce24197f",
+      "width": 1200,
+      "height": 1600,
+      "size": 1295347,
+      "uploadedDate": "2022-10-20T18:09:01.463Z",
+      "alt": "Download The Abbey Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e1b25c47966441e2971f57523a29756e",
+  "status": "ACTIVE",
+  "creationDate": "2022-10-24T22:46:05.364Z",
+  "lastModifiedDate": "2022-10-24T22:46:05.364Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheAbbeyl0ZBK"
+    }
+  },
+  "entitlementName": "17e4f66a9d474c71ae8c04af71f8e106",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e66600b0ebf14c8c965e479b94c1b9b7",
+      "appId": "4229e6bac3214d4c9a6d667565d63643",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Strategy First",
+  "developerId": "o-a3vefcg43bn6j4lwc7qs8n5y38jm7k",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

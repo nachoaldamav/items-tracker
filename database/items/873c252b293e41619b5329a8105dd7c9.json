@@ -1,0 +1,63 @@
+{
+  "id": "873c252b293e41619b5329a8105dd7c9",
+  "title": "Haunted House",
+  "description": "Haunted House",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a960220196d14864a31b3e9b6d13cfe2/haunted-house-17fou.jpg",
+      "md5": "554d7221f8d365b7ff86f7fc3f5af66c",
+      "width": 2560,
+      "height": 1440,
+      "size": 2031342,
+      "uploadedDate": "2023-09-25T14:12:14.793Z",
+      "alt": "Haunted House Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a960220196d14864a31b3e9b6d13cfe2/haunted-house-n18ig.jpg",
+      "md5": "17b58d38eb95a781d059597da259a8f9",
+      "width": 1200,
+      "height": 1600,
+      "size": 1250333,
+      "uploadedDate": "2023-09-25T14:12:15.025Z",
+      "alt": "Download Haunted House Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "81970ccb964d4720adccf2e2244fe754",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-27T16:23:15.284Z",
+  "lastModifiedDate": "2023-09-27T16:23:15.284Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "HauntedHouseskiMK"
+    }
+  },
+  "entitlementName": "873c252b293e41619b5329a8105dd7c9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "832c011c2e884015898c250fb590ee53",
+      "appId": "bd65786a914045f2bc707ea39e7d4d87",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Atari",
+  "developerId": "o-bhpk86rgthezed539g3hb5avacecqt",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

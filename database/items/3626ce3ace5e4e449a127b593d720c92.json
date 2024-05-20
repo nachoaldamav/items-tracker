@@ -1,0 +1,76 @@
+{
+  "id": "3626ce3ace5e4e449a127b593d720c92",
+  "title": "Boxville",
+  "description": "Boxville is an adventure puzzle game about speechless cans living in the city of boxes and drawing doodles on cardboards to tell the stories.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a686dfdb0a04473eaf8d82ef4045effb/boxville-o452c.png",
+      "md5": "065361a64a66c765af007465805c279d",
+      "width": 2560,
+      "height": 1440,
+      "size": 2452193,
+      "uploadedDate": "2023-03-14T16:39:23.515Z",
+      "alt": "Boxville Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a686dfdb0a04473eaf8d82ef4045effb/boxville-82krr.png",
+      "md5": "33aade99adf7113a73068624f24b3c6b",
+      "width": 1200,
+      "height": 1600,
+      "size": 2353663,
+      "uploadedDate": "2023-03-14T16:39:24.484Z",
+      "alt": "Download Boxville Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7e305f850a5749b3b16599d737e500c8",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-11T09:14:42.159Z",
+  "lastModifiedDate": "2024-01-08T19:00:29.536Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Triomatica Games/Boxville/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Triomatica Games/Boxville/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Boxville"
+    }
+  },
+  "entitlementName": "3626ce3ace5e4e449a127b593d720c92",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "719ad52973c74b80a3177c8c97af0ba2",
+      "appId": "0c45a624e2d14259b5c5ca35fa4799c2",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Triomatica Games",
+  "developerId": "o-sxvy9hfj86hbqk6vbdyza7veh8bfju",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

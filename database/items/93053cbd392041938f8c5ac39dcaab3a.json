@@ -1,0 +1,71 @@
+{
+  "id": "93053cbd392041938f8c5ac39dcaab3a",
+  "title": "The Story Goes On",
+  "description": "The Story Goes On",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/014eb02a8a2943a9b45fa61690c7bc34/the-story-goes-on-1c9j6.png",
+      "md5": "ee27687104cf7badc336092f7f89b1e9",
+      "width": 2560,
+      "height": 1440,
+      "size": 3055125,
+      "uploadedDate": "2023-12-16T02:37:53.108Z",
+      "alt": "The Story Goes On Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/014eb02a8a2943a9b45fa61690c7bc34/the-story-goes-on-mg7ib.png",
+      "md5": "9dc7f80753d6c55b737c76aec4098b23",
+      "width": 1200,
+      "height": 1600,
+      "size": 2473537,
+      "uploadedDate": "2023-12-16T02:38:07.915Z",
+      "alt": "Download The Story Goes On Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d3242d8296924a93a4d235e702f2e4ed",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-20T02:31:50.848Z",
+  "lastModifiedDate": "2024-01-27T01:46:37.428Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/com.scarecrowarts.thestorygoeson/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/TSGO/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheStoryGoesOn"
+    }
+  },
+  "entitlementName": "93053cbd392041938f8c5ac39dcaab3a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2748b1ee88704473a857597f8195c9c0",
+      "appId": "e35e16124a96448e827c1d719d3787f5",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Scarecrow Arts LLC",
+  "developerId": "o-fdg63q8xg8hvy7lusmkmmafnfnfrf6",
+  "endOfSupport": false,
+  "applicationId": "fghi4567XHitCfi4MrHs9mqmtMSOSA0a",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

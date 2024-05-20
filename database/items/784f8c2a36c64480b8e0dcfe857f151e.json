@@ -1,0 +1,71 @@
+{
+  "id": "784f8c2a36c64480b8e0dcfe857f151e",
+  "title": "Warrior Lords",
+  "description": "Warrior Lords",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7a1d39222293459f97a01673777da455/warrior-lords-a9il0.png",
+      "md5": "f66faf2b4cf2aee325a0a1e31446770d",
+      "width": 2560,
+      "height": 1440,
+      "size": 3335934,
+      "uploadedDate": "2024-04-01T16:13:37.635Z",
+      "alt": "Warrior Lords Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7a1d39222293459f97a01673777da455/warrior-lords-1pkar.png",
+      "md5": "036d8c566435fa61bbf18b5e8a4f6496",
+      "width": 1200,
+      "height": 1600,
+      "size": 2089016,
+      "uploadedDate": "2024-04-01T16:15:47.264Z",
+      "alt": "Download Warrior Lords Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "32a3518d649740a98e1ea26d6f887038",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-21T11:15:47.819Z",
+  "lastModifiedDate": "2024-04-21T12:02:54.998Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/MedievalWar/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Campaign.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WarriorLords"
+    }
+  },
+  "entitlementName": "784f8c2a36c64480b8e0dcfe857f151e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "72147700cbc34eaab71b9452278434c2",
+      "appId": "8a56c30d2f974477a468d99b7518ca7a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Future Minimalism",
+  "developerId": "o-z5h9xsvpcguukyam3wv3w7fkjl58q5",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

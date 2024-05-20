@@ -1,0 +1,64 @@
+{
+  "id": "a8f501b82989428687bf7762f31acf8d",
+  "title": "Backbeat Demo Tape",
+  "description": "Backbeat Demo Tape",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a91243f3a1214b0ab2e9dee60c66ce50/backbeat-1cfm3.png",
+      "md5": "d59c625fa860415f84030d30ebc2fe5f",
+      "width": 2560,
+      "height": 1440,
+      "size": 2494701,
+      "uploadedDate": "2023-05-04T14:15:20.581Z",
+      "alt": "Backbeat Backbeat Demo Tape Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a91243f3a1214b0ab2e9dee60c66ce50/backbeat-tnfg3.png",
+      "md5": "fce849718d16538b0cc0adca24e5e27d",
+      "width": 1200,
+      "height": 1600,
+      "size": 2094754,
+      "uploadedDate": "2023-05-04T14:15:14.862Z",
+      "alt": "Download Backbeat Backbeat Demo Tape Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "67581da4189f450e88ed8ba027f3dd08",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-19T07:15:38.778Z",
+  "lastModifiedDate": "2023-05-19T07:15:38.778Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BackbeatDemo"
+    }
+  },
+  "entitlementName": "a8f501b82989428687bf7762f31acf8d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d65dbee004de4905bfa4758f1e493ebe",
+      "appId": "d9e2d225deb14729ab7de8e3ad2e7a8d",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Ichigoichie AB",
+  "developerId": "o-a4vt8wyzs92z26mmtccvh4hushp5vu",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

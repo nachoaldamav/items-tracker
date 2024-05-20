@@ -1,0 +1,75 @@
+{
+  "id": "04203a00e2524834af5e2a81418c6d4c",
+  "title": "Alekon",
+  "description": "Alekon",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a08a9af193514ecdbcffec6b4dd05df6/alekon-2f0o8.jpg",
+      "md5": "af265dffa7718f33bff9c999e92ca0f5",
+      "width": 2560,
+      "height": 1440,
+      "size": 2962464,
+      "uploadedDate": "2023-04-18T17:23:50.570Z",
+      "alt": "Alekon Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a08a9af193514ecdbcffec6b4dd05df6/alekon-1qv4o.png",
+      "md5": "dae7974e0bb48704cd59a8b30fae804f",
+      "width": 1200,
+      "height": 1600,
+      "size": 3966854,
+      "uploadedDate": "2023-04-18T17:23:50.195Z",
+      "alt": "Download Alekon Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "947753e35eda434f9eafba17afa8f570",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-13T21:03:50.606Z",
+  "lastModifiedDate": "2023-05-09T14:57:32.951Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Alekon/Saved/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "SaveGame/*,Config/WindowsNoEditor/Game.ini"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "2500"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Alekon"
+    }
+  },
+  "entitlementName": "04203a00e2524834af5e2a81418c6d4c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e2963fa656164907b1187ec6bc1dfbae",
+      "appId": "194e4353a1b44713b905997aa25f55e5",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "The Alekon Company",
+  "developerId": "o-wq8xbtllfwu726szc4dqpfgaxlt7te",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,76 @@
+{
+  "id": "99f240ef7b9b4e1393d99e5e7a444099",
+  "title": "Anna's Quest",
+  "description": "Anna's Quest is a point&click adventure full of dark humor and creative puzzles. With her telekinesis, unorthodox use of torture instruments, a knack for improvisation and the help of a shady fox she makes her way from the peaks of Glass Mountain to the deepest dungeon.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4af7d1e0e04543e6a02ee19ccc48d55f/annas-quest-14spr.jpg",
+      "md5": "8816edfee84aa83818a0a2b03ac701bc",
+      "width": 2560,
+      "height": 1440,
+      "size": 914302,
+      "uploadedDate": "2023-01-25T16:37:04.666Z",
+      "alt": "Anna's Quest Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4af7d1e0e04543e6a02ee19ccc48d55f/annas-quest-xbxpx.png",
+      "md5": "abb195f7cbb8c3ebfc08f673a7294f3d",
+      "width": 1200,
+      "height": 1600,
+      "size": 3188107,
+      "uploadedDate": "2023-01-25T16:37:05.615Z",
+      "alt": "Download Anna's Quest Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "77b68249bf3a4088bbbb54dd35341718",
+  "status": "ACTIVE",
+  "creationDate": "2021-12-13T10:35:29.881Z",
+  "lastModifiedDate": "2023-02-06T11:13:06.195Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Daedalic Entertainment GmbH/Anna's Quest\\Savegames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.dat"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AnnasQuest"
+    }
+  },
+  "entitlementName": "99f240ef7b9b4e1393d99e5e7a444099",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0ba2f6d233b7471db3943545d06d4a1e",
+      "appId": "a12e8c16d6c8458d97df5373978a6f2e",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "endOfSupport": false,
+  "applicationId": "fghi4567X54GRAd7yBJcID0YddjLqjpK",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

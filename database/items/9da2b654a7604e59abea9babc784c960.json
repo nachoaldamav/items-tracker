@@ -1,0 +1,71 @@
+{
+  "id": "9da2b654a7604e59abea9babc784c960",
+  "title": "Evil Seal",
+  "description": "Evil Seal: Action horror inspired by Apocalypse of Saint John. Play as ex-marine Adam, save wife from demonic forces. Solve puzzles, face hordes of monsters. Story mode: 7 hours. Survivor mode: kill monsters for high scores. First/third-person mode. Unlockable difficulty levels.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e7b26eff30d040c193716587730af26b/evil-seal-u9upa.png",
+      "md5": "7ff2bd8b37abcd0530347583ffb7f66a",
+      "width": 2560,
+      "height": 1440,
+      "size": 4181678,
+      "uploadedDate": "2024-03-03T21:05:30.780Z",
+      "alt": "Evil Seal Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e7b26eff30d040c193716587730af26b/evil-seal-1v83x.jpg",
+      "md5": "90218a6228503051d2979fda0571003c",
+      "width": 1200,
+      "height": 1600,
+      "size": 1260206,
+      "uploadedDate": "2024-03-03T21:05:33.097Z",
+      "alt": "Download Evil Seal Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6b627f8704ae454aaec3b576eb965d76",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-03T15:50:36.269Z",
+  "lastModifiedDate": "2024-04-17T06:54:06.230Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/EvilSeal/Saved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EvilSeal"
+    }
+  },
+  "entitlementName": "9da2b654a7604e59abea9babc784c960",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8837955c10ac43c9bd9319d30a44fb2c",
+      "appId": "d870945b7b7e494ea6f8d5be4f2b751b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Mandese Games",
+  "developerId": "o-zrj6zs3usk3wjzyp83hxace4em2h5f",
+  "endOfSupport": false,
+  "applicationId": "fghi456733OLnKJWGtipUytnN8ObeLXr",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

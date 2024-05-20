@@ -1,0 +1,75 @@
+{
+  "id": "991e4784ec744a35b0c6889754192b25",
+  "title": "Sengoku Dynasty",
+  "description": "Build and manage villages in an open-world feudal Japan. Survive, explore, meet unique characters, and establish your legacy. Play solo or in co-op multiplayer.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-z16iq.jpg",
+      "md5": "a414ca151747c121ca311899313c04c7",
+      "width": 2560,
+      "height": 1440,
+      "size": 657220,
+      "uploadedDate": "2023-08-01T13:05:56.302Z",
+      "alt": "Sengoku Dynasty Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-hc5xh.jpg",
+      "md5": "562b64d1b510c6caf555f95833cbefc4",
+      "width": 1200,
+      "height": 1600,
+      "size": 585764,
+      "uploadedDate": "2023-08-01T13:05:43.200Z",
+      "alt": "Download Sengoku Dynasty Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "696f412c815b40089807922419188f43",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-31T20:02:19.978Z",
+  "lastModifiedDate": "2023-08-10T19:54:41.378Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/SengokuDynasty/Saved/SaveGames/GameSaves/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "2000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Sengoku_Dynasty"
+    }
+  },
+  "entitlementName": "991e4784ec744a35b0c6889754192b25",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f8be005741894382a8cad165c2611cef",
+      "appId": "c675f7a6cd6642009a31f2702ee7a073",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Toplitz Productions GmbH",
+  "developerId": "o-5p7vmece7eqgvdyjqvene54arynxxh",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

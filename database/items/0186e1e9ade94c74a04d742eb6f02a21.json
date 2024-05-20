@@ -1,0 +1,63 @@
+{
+  "id": "0186e1e9ade94c74a04d742eb6f02a21",
+  "title": "Cookie Cutter",
+  "description": "Cookie Cutter",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/476aefd10e5846cfa31f387b53a8af80/cookie-cutter-18ttp.jpg",
+      "md5": "1dae74061e1f7fadd242865ddb342125",
+      "width": 2560,
+      "height": 1440,
+      "size": 2809904,
+      "uploadedDate": "2022-12-13T06:30:20.705Z",
+      "alt": "Cookie Cutter Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/476aefd10e5846cfa31f387b53a8af80/cookie-cutter-6eszd.jpg",
+      "md5": "52cb3eeb1d6be566a2cf0cc90bcfab86",
+      "width": 1200,
+      "height": 1600,
+      "size": 1529207,
+      "uploadedDate": "2022-12-13T06:30:15.751Z",
+      "alt": "Download Cookie Cutter Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "027598a2a0144763b922b5249f784929",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-06T17:44:03.304Z",
+  "lastModifiedDate": "2023-12-07T19:00:07.448Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "CookieCutter"
+    }
+  },
+  "entitlementName": "0186e1e9ade94c74a04d742eb6f02a21",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ab63c19fa67643009b6bb77bd0cef706",
+      "appId": "fe6c63a213b4413a8500ddccfbaf7db8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Rogue Games, Inc.",
+  "developerId": "o-uf2lr9jar96m9qssppdgmal3j6alyq",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,64 @@
+{
+  "id": "ff3441646daa4bb9aac0ae01beca6275",
+  "title": "River City Girls",
+  "description": "River City Girls",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a6eec1ad46bc4515be5731b22f274ef7/river-city-girls-1g4nd.jpg",
+      "md5": "cd18b1f03ee235c82f66182c7ed58144",
+      "width": 2560,
+      "height": 1440,
+      "size": 1724034,
+      "uploadedDate": "2023-11-06T20:52:52.156Z",
+      "alt": "River City Girls Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a6eec1ad46bc4515be5731b22f274ef7/river-city-girls-1wozh.jpg",
+      "md5": "1a4deeda045cec91b5d6db1a0d3dc048",
+      "width": 1200,
+      "height": 1600,
+      "size": 822064,
+      "uploadedDate": "2023-11-06T20:52:53.637Z",
+      "alt": "Download River City Girls Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a02304688fb3406192a3491b4281bee7",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-09T00:36:17.412Z",
+  "lastModifiedDate": "2024-01-22T18:44:55.042Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "RiverCityGirls"
+    }
+  },
+  "entitlementName": "ff3441646daa4bb9aac0ae01beca6275",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1fb1d119bccc4368ab02619ac0eadf61",
+      "appId": "588cec64448242d8b61188205d97f887",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "WayForward",
+  "developerId": "o-t9vdtu8kntlubnxnh64w4tnrfzatkx",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

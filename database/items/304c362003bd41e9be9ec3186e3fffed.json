@@ -1,0 +1,75 @@
+{
+  "id": "304c362003bd41e9be9ec3186e3fffed",
+  "title": "Song Of The Prairie",
+  "description": "Song of The Prairie is a 3D relaxing farm game. A hero who defeat the demon begins a rural life. Experiencing the fun of exploration to the town. Harvesting giant crops. Taking care fantastic animals. Dating with someone you like. Just enjoy the farming life only belongs to you!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c35afcd26d8e4cf3aba64faebfda8f21/song-of-the-prairie-odaat.jpg",
+      "md5": "c51b2b427f7c74d8ff33530836a9e463",
+      "width": 2560,
+      "height": 1440,
+      "size": 2774479,
+      "uploadedDate": "2023-09-04T07:37:34.975Z",
+      "alt": "Song Of The Prairie Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c35afcd26d8e4cf3aba64faebfda8f21/song-of-the-prairie-1ri0j.jpg",
+      "md5": "69e1a68f2ba7cc332bd5d5328151eeba",
+      "width": 1200,
+      "height": 1600,
+      "size": 1438723,
+      "uploadedDate": "2023-09-04T07:37:37.280Z",
+      "alt": "Download Song Of The Prairie Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "679f1dc6ccf2496fb76ce7ecd2324a09",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-16T02:35:42.817Z",
+  "lastModifiedDate": "2023-09-18T05:40:38.961Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserProfile}/Funalter/SoP/{EpicID}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.encrypt,Input.json"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SongOfThePrairieJubF4"
+    }
+  },
+  "entitlementName": "304c362003bd41e9be9ec3186e3fffed",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6f3d38978b9d426ba86fa5325bb10162",
+      "appId": "25d3fa3d098246888de742879a35f2d8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "AOE PLUS",
+  "developerId": "o-5r79ep3fc27d4ehzsp9jnwhwull5ee",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

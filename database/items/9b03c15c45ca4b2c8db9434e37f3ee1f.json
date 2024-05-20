@@ -1,0 +1,72 @@
+{
+  "id": "9b03c15c45ca4b2c8db9434e37f3ee1f",
+  "title": "The Outforce",
+  "description": "The Outforce",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9cd4dcdb64fb40859eb1a0f64fcc4c50/the-outforce-1363z.png",
+      "md5": "96e576fa7f4320ff912d4d81b60fcf49",
+      "width": 2560,
+      "height": 1440,
+      "size": 1939767,
+      "uploadedDate": "2023-12-20T14:48:51.042Z",
+      "alt": "The Outforce Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9cd4dcdb64fb40859eb1a0f64fcc4c50/the-outforce-1xxux.png",
+      "md5": "88d752156c8da20a231632ef4a7f698e",
+      "width": 1200,
+      "height": 1600,
+      "size": 2264822,
+      "uploadedDate": "2023-12-20T14:48:53.103Z",
+      "alt": "Download The Outforce Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d2c6f5756ece4c8ab2ddd396c76af68d",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-14T14:54:22.662Z",
+  "lastModifiedDate": "2024-01-09T13:28:23.410Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "English/Outforce/Save/*,German/Outforce/Save/*,Polish/Outforce/Save/*,Russian/Outforce/Save/*"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheOutforce"
+    }
+  },
+  "entitlementName": "9b03c15c45ca4b2c8db9434e37f3ee1f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "499eee0b889043bfa41ac08a138820f8",
+      "appId": "e68f1e14fec240e389ad43b9c1835b5b",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Strategy First",
+  "developerId": "o-a3vefcg43bn6j4lwc7qs8n5y38jm7k",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "2c0ff11bdc1d4df0ad6659f6af7e93d3",
+  "title": "Picklock",
+  "description": "Picklock",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/887f19d028ec44fca175453b99794a5e/picklock-1h0bn.png",
+      "md5": "c2e0452c008647b725444d28531f0eba",
+      "width": 2560,
+      "height": 1440,
+      "size": 2449336,
+      "uploadedDate": "2023-09-01T23:51:00.178Z",
+      "alt": "Picklock Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/887f19d028ec44fca175453b99794a5e/picklock-c1k0o.png",
+      "md5": "28c4a3c0b39d0e87d27cb20fcf49dedd",
+      "width": 1200,
+      "height": 1600,
+      "size": 949174,
+      "uploadedDate": "2023-09-01T23:50:58.826Z",
+      "alt": "Download Picklock Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0904b974619a436ebc70ec7a374572d8",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-15T15:49:21.324Z",
+  "lastModifiedDate": "2023-10-23T21:48:47.703Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Picklockm20lb"
+    }
+  },
+  "entitlementName": "2c0ff11bdc1d4df0ad6659f6af7e93d3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c5d8820fc84b4262b6f56e4d586be280",
+      "appId": "badab8f713454268ac27f60a130722cb",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Meridian4",
+  "developerId": "o-lk3h3v3ddypmx7zferz37x5l86w54p",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

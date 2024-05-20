@@ -1,0 +1,63 @@
+{
+  "id": "908f80d680c44572bd2db20d033d38ce",
+  "title": "Remains",
+  "description": "Remains",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/bcc21065d1cb475895f5870159b5698c/remains-m7wdo.png",
+      "md5": "84a3b56db8642ab7ebbc03eace45815d",
+      "width": 2560,
+      "height": 1440,
+      "size": 1751156,
+      "uploadedDate": "2023-03-15T13:17:48.752Z",
+      "alt": "Remains Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/bcc21065d1cb475895f5870159b5698c/remains-9ba2q.png",
+      "md5": "3638d1be28276e691e24dd1adc9de227",
+      "width": 1200,
+      "height": 1600,
+      "size": 1049140,
+      "uploadedDate": "2023-03-15T13:17:47.666Z",
+      "alt": "Download Remains Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e9f8d704869e4bd1a2d4e065c8c86f6e",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-14T11:10:39.050Z",
+  "lastModifiedDate": "2024-04-16T14:48:44.992Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Remains"
+    }
+  },
+  "entitlementName": "908f80d680c44572bd2db20d033d38ce",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a6d686a0be2049ddb964b4f8432b5f1a",
+      "appId": "f338d831cc76418088bef71997d0997d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SoloQ Inc.",
+  "developerId": "o-rjufe5yzhb5c8scnx4guwsjakt666u",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

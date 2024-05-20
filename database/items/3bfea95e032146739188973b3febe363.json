@@ -1,0 +1,67 @@
+{
+  "id": "3bfea95e032146739188973b3febe363",
+  "title": "SPIRITUS",
+  "description": "SPIRITUS",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/afb4e9e9ef144161b3df495364c28997/spiritus-6fzbs.png",
+      "md5": "dfb5148d17b8a1439f813bddb2fe91e2",
+      "width": 2560,
+      "height": 1440,
+      "size": 2026790,
+      "uploadedDate": "2023-11-02T21:46:05.438Z",
+      "alt": "SPIRITUS Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/afb4e9e9ef144161b3df495364c28997/spiritus-crcxa.png",
+      "md5": "45ef110e14fe58a4eb48f42f58300b48",
+      "width": 1200,
+      "height": 1600,
+      "size": 1126511,
+      "uploadedDate": "2023-11-02T21:46:05.633Z",
+      "alt": "Download SPIRITUS Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2b96380a243e4883bb007b67b78b18c1",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-30T19:58:21.577Z",
+  "lastModifiedDate": "2023-11-05T16:23:55.473Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Spacefarer Games/SPIRITUS/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SPIRITUS"
+    }
+  },
+  "entitlementName": "3bfea95e032146739188973b3febe363",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7585c0a170834eb997a64d38ec75e29f",
+      "appId": "695f46ad9823434f9a8a898e9177801e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Spacefarer Games Ltd",
+  "developerId": "o-wt5nzca4b9a9n4mr725faxuyyauxrg",
+  "endOfSupport": false,
+  "applicationId": "fghi45672uD5qWfX59sEF3HqtpOUDfNp",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,71 @@
+{
+  "id": "e5abbc65943146f59aae5ade5f40ef9c",
+  "title": "ΔV: Rings of Saturn",
+  "description": "ΔV: Rings of Saturn",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/72a3347802a34c3db2903d5b29df7737/deltav-rings-of-saturn-11bar.jpg",
+      "md5": "4b613bb20b9b6b3289af7a1f7e36cbaa",
+      "width": 2560,
+      "height": 1440,
+      "size": 1196735,
+      "uploadedDate": "2023-04-16T12:34:39.640Z",
+      "alt": "Delta-V Rings of Saturn Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/72a3347802a34c3db2903d5b29df7737/deltav-rings-of-saturn-13vva.jpg",
+      "md5": "17829eaa680e32825537e0cbdf15456b",
+      "width": 1200,
+      "height": 1600,
+      "size": 689782,
+      "uploadedDate": "2023-04-20T15:47:38.787Z",
+      "alt": "Download Delta-V Rings of Saturn Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d4d1678e97e64a62bcf819fe19016703",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-24T10:26:10.405Z",
+  "lastModifiedDate": "2023-07-21T15:46:51.499Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/dV/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/dV/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "dV"
+    }
+  },
+  "entitlementName": "e5abbc65943146f59aae5ade5f40ef9c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7bd2adac62ce4859b371b3f5a5f025a2",
+      "appId": "42b9fda99fe7430da92e8851231cf94a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Kodera Software",
+  "developerId": "o-fdjjj2xdvq92qpr3dhpa5ktezkv3cg",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

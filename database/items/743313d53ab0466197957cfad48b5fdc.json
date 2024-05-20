@@ -1,0 +1,89 @@
+{
+  "id": "743313d53ab0466197957cfad48b5fdc",
+  "title": "A Way Out",
+  "description": "A Way Out is an exclusively co-op adventure where you play the role of one of two prisoners making their daring escape from prison.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a037fc78ee9d47b98466f17b44c46288/a-way-out-1pqif.jpg",
+      "md5": "1fdc7509d8fd20017e04534129e0a4aa",
+      "width": 2560,
+      "height": 1440,
+      "size": 836192,
+      "uploadedDate": "2024-04-08T13:39:31.720Z",
+      "alt": "A Way Out Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a037fc78ee9d47b98466f17b44c46288/a-way-out-f6ylq.jpg",
+      "md5": "2226a749f2b7bf86a0a2602ff7aa3665",
+      "width": 1200,
+      "height": 1600,
+      "size": 870563,
+      "uploadedDate": "2024-04-08T13:39:36.129Z",
+      "alt": "Download A Way Out Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4090664cbdc2403c8e3331989bc8c072",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-09T15:54:34.307Z",
+  "lastModifiedDate": "2024-05-09T15:54:34.307Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Hazelight\\AWayOut"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "AWayOut.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "AWayOut.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AWayOutoV3lU"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "743313d53ab0466197957cfad48b5fdc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "78dfde5fdf9a42eeb385203de32730eb",
+      "appId": "mozart",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

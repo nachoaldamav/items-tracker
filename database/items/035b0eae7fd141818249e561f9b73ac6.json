@@ -1,0 +1,59 @@
+{
+  "id": "035b0eae7fd141818249e561f9b73ac6",
+  "title": "Ememe",
+  "description": "Ememe",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7ddf6ad9647d46789e80c202dd96894a/ememe-ldjry.jpg",
+      "md5": "7693174369bee83a946086de45f50298",
+      "width": 2560,
+      "height": 1440,
+      "size": 1985017,
+      "uploadedDate": "2023-11-26T11:15:01.856Z",
+      "alt": "Ememe Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7ddf6ad9647d46789e80c202dd96894a/ememe-1qf8l.jpg",
+      "md5": "98fed8e10e65a27a00e6822382894702",
+      "width": 1200,
+      "height": 1600,
+      "size": 1199226,
+      "uploadedDate": "2023-11-26T11:15:00.676Z",
+      "alt": "Download Ememe Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2a5c8c9ac1d54eb39a5df0bce74cc66e",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-12T14:25:56.343Z",
+  "lastModifiedDate": "2023-12-12T14:25:56.343Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "EmemeDYiBn"
+    }
+  },
+  "entitlementName": "035b0eae7fd141818249e561f9b73ac6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ff85656bb29b4ec69fce54f47a1db2c9",
+      "appId": "f628c4a1ba124a599934bf058f8ea769"
+    }
+  ],
+  "developer": "Ememe Inc.",
+  "developerId": "o-dmy5g39tqhn5r3pac8tfyxjcd5yqzn",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

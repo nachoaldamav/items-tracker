@@ -1,0 +1,62 @@
+{
+  "id": "891e70f52bc743a186f0680135a7f27a",
+  "title": "Story Craft",
+  "description": "Story Craft is a story-writing simulation game using ChatGPT API.\nRegister your friends as characters and create your own story!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f7799707126243bbb87ff71e7cd811cf/story-craft-d4ug6.png",
+      "md5": "2e841766102ce6d4b94c1bb009b315da",
+      "width": 2560,
+      "height": 1440,
+      "size": 3720385,
+      "uploadedDate": "2023-09-26T00:18:10.386Z",
+      "alt": "Story Craft Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f7799707126243bbb87ff71e7cd811cf/story-craft-14i4n.png",
+      "md5": "62e98d94704a441716f1e54fc8fffe9d",
+      "width": 1200,
+      "height": 1600,
+      "size": 2649133,
+      "uploadedDate": "2023-09-26T00:18:18.366Z",
+      "alt": "Download Story Craft Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e95dc1b8a78849878fa0489ce01d1792",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-21T16:53:37.578Z",
+  "lastModifiedDate": "2023-10-22T01:58:24.236Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "StoryCraftKTtfr"
+    }
+  },
+  "entitlementName": "891e70f52bc743a186f0680135a7f27a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "05f71f21a7614fd4bc4a891e1a4f9fae",
+      "appId": "1f501cc116c04e10b1587ad2ff9f49da",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "PROMPT",
+  "developerId": "o-5pvhts7qcytuvnqvrp9e6yapl2nnys",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

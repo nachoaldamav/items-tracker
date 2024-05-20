@@ -1,0 +1,62 @@
+{
+  "id": "2fd48862a39b45c6bbddd4e918034386",
+  "title": "MechDefender",
+  "description": "MechDefender",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/39bd2356cbee433cbb43b1d89ffd4634/mechdefender-11rdf.jpg",
+      "md5": "174ed4bea2200dc1e006ae8a8b90026e",
+      "width": 2560,
+      "height": 1440,
+      "size": 1745796,
+      "uploadedDate": "2023-08-25T08:30:41.397Z",
+      "alt": "MechDefender Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/39bd2356cbee433cbb43b1d89ffd4634/mechdefender-jqp5d.jpg",
+      "md5": "781d6157d128f8c65f9312ffb5971d95",
+      "width": 1200,
+      "height": 1600,
+      "size": 914072,
+      "uploadedDate": "2023-08-25T08:30:42.963Z",
+      "alt": "Download MechDefender Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f02d6ce12fbc4230853a8b067e7e7278",
+  "status": "ACTIVE",
+  "creationDate": "2023-08-28T19:03:39.392Z",
+  "lastModifiedDate": "2023-08-28T19:03:39.392Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "MechDefender4a1OZ"
+    }
+  },
+  "entitlementName": "2fd48862a39b45c6bbddd4e918034386",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "083179f7e58a4871b9f64a0845c52385",
+      "appId": "f27e3eaba01f4264b2cac9658c0839f6",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Atomic Fabrik",
+  "developerId": "o-zejr7w3wpnqtvlbug6r56mn53csnwj",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

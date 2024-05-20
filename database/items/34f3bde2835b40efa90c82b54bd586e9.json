@@ -1,0 +1,71 @@
+{
+  "id": "34f3bde2835b40efa90c82b54bd586e9",
+  "title": "Echo Of The Horizon",
+  "description": "Echo Of The Horizon",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7e39868966a642b0bed242b1b13530e9/echo-of-the-horizon-9332z.png",
+      "md5": "ea24ad0d2cb08a80582559190ffa8b0b",
+      "width": 2560,
+      "height": 1440,
+      "size": 4156543,
+      "uploadedDate": "2024-02-16T23:04:43.201Z",
+      "alt": "Echo Of The Horizon Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7e39868966a642b0bed242b1b13530e9/echo-of-the-horizon-fn1q8.png",
+      "md5": "638825e9546c50f97ae31b387cba3f88",
+      "width": 1200,
+      "height": 1600,
+      "size": 1251039,
+      "uploadedDate": "2024-02-16T23:04:55.362Z",
+      "alt": "Download Echo Of The Horizon Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1eb1a02f78034cb39087bc575adff07d",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-30T20:14:26.441Z",
+  "lastModifiedDate": "2024-04-26T16:10:59.409Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Echo Of The Horizon-Saved Games/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/Echo Of The Horizon-Saved Games/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EchoOfTheHorizonARTIFACT"
+    }
+  },
+  "entitlementName": "34f3bde2835b40efa90c82b54bd586e9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e4d6235cc582444fbfb95c99ac418b7b",
+      "appId": "a5056fa0a49344fea5b3328ffe128d3b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "ECHO OF THE HORIZON For Online Gaming Services CO. L.L.C",
+  "developerId": "o-75rlthju6lwezhs5lazegv9vwab86z",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

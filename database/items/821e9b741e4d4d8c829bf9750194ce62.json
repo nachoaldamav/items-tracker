@@ -1,0 +1,62 @@
+{
+  "id": "821e9b741e4d4d8c829bf9750194ce62",
+  "title": "Tall Poppy",
+  "description": "Tall Poppy",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/01ddb5078e53406da4ac21eb68fc1715/tall-poppy-9f28x.jpg",
+      "md5": "6c7330da591f9a98a809d76863477b2e",
+      "width": 2560,
+      "height": 1440,
+      "size": 243487,
+      "uploadedDate": "2023-03-10T18:31:51.104Z",
+      "alt": "Tall Poppy Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/01ddb5078e53406da4ac21eb68fc1715/tall-poppy-12nur.jpg",
+      "md5": "5e293909668cf6bb5fc2c3d05da4d4de",
+      "width": 1200,
+      "height": 1600,
+      "size": 162174,
+      "uploadedDate": "2023-03-10T18:31:48.378Z",
+      "alt": "Download Tall Poppy Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6fba4fc1c7364a4d80337a2b8ab0badf",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-09T22:03:38.573Z",
+  "lastModifiedDate": "2023-03-10T22:06:32.960Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TallPoppytiXwY"
+    }
+  },
+  "entitlementName": "821e9b741e4d4d8c829bf9750194ce62",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7795a41e7c7d4f0aa40661f1f3e3398c",
+      "appId": "7a8eec31d6f648468408ce159cf3900d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Attainable Entertainment Inc.",
+  "developerId": "o-dj9y58z7eku7ylecxj38vyd36mpujg",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

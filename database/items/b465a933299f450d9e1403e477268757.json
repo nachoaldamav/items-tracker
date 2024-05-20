@@ -1,0 +1,71 @@
+{
+  "id": "b465a933299f450d9e1403e477268757",
+  "title": "Commandos 3",
+  "description": "Commandos 3",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/be51f461972a47ee824e1a4e549fb2e6/commandos-3-offer-p90a0.jpg",
+      "md5": "bbca38a051bbdf48d83ad689bb83a7b5",
+      "width": 2560,
+      "height": 1440,
+      "size": 992161,
+      "uploadedDate": "2022-04-11T15:54:02.790Z",
+      "alt": "Commandos 3 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/be51f461972a47ee824e1a4e549fb2e6/download-commandos-3-offer-1i1sq.jpg",
+      "md5": "c8b02850bf1b8a8c2ea8a202554747bd",
+      "width": 1200,
+      "height": 1600,
+      "size": 960206,
+      "uploadedDate": "2022-04-11T15:53:59.833Z",
+      "alt": "Download Commandos 3 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ffcff8b4d613467b8e83ca8d15f78dbc",
+  "status": "ACTIVE",
+  "creationDate": "2021-10-11T21:54:02.303Z",
+  "lastModifiedDate": "2023-09-29T13:39:22.902Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/Commandos 3 - HD Remaster/{EpicID}/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "256"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Commandos3HDRemaster"
+    }
+  },
+  "entitlementName": "b465a933299f450d9e1403e477268757",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bebb7b759da84affb3248b6d9957a05f",
+      "appId": "cff4f37bb070426d9139f7fed38c3912",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

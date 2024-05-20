@@ -1,0 +1,71 @@
+{
+  "id": "b14e51e86ecb4fee8177a754e0912504",
+  "title": "Bio Inc. Redemption",
+  "description": "Bio Inc. Redemption",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9404a0946042422fbb4c9174691b7d4f/bio-inc-redemption-1bvax.jpg",
+      "md5": "a97663698580e16207ba92877dbea6a9",
+      "width": 2560,
+      "height": 1440,
+      "size": 1898816,
+      "uploadedDate": "2023-12-06T18:36:38.256Z",
+      "alt": "Bio Inc. Redemption Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9404a0946042422fbb4c9174691b7d4f/bio-inc-redemption-7sukg.jpg",
+      "md5": "a37450c800dbc03b871e7c6c293a41ba",
+      "width": 1200,
+      "height": 1600,
+      "size": 754969,
+      "uploadedDate": "2023-12-06T18:52:59.444Z",
+      "alt": "Download Bio Inc. Redemption Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f00f2d0ae4f04fc987d4218d9355f026",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-12T03:14:23.462Z",
+  "lastModifiedDate": "2023-12-12T03:14:23.462Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/DryGin Studios/BioIncRedemption/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "UserProfile.dat,input.dat"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BioIncRedemptionmdWRn"
+    }
+  },
+  "entitlementName": "b14e51e86ecb4fee8177a754e0912504",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d93d6ecd5b9f4037a2566e938a6a8a3c",
+      "appId": "d62f75cfaa0640579b510281f9984ffd",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "DryGin Studios",
+  "developerId": "o-jllbag6c8njqwlcgamejg8we3gxk64",
+  "endOfSupport": false,
+  "applicationId": "fghi4567qY37gFSQsXPHNi0ExRa50x74",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

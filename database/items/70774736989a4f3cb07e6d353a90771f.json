@@ -1,0 +1,69 @@
+{
+  "id": "70774736989a4f3cb07e6d353a90771f",
+  "title": "ACL Pro Cornhole",
+  "description": "ACL Pro Cornhole",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6a035cbeff7e4cf5b923ac1325f8793c/acl-pro-cornhole-orq7e.png",
+      "md5": "2f0886454c96bfacf1cb4ee28f8422fe",
+      "width": 2560,
+      "height": 1440,
+      "size": 3227324,
+      "uploadedDate": "2023-06-21T21:19:09.894Z",
+      "alt": "ACL Pro Cornhole Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6a035cbeff7e4cf5b923ac1325f8793c/acl-pro-cornhole-5h9bo.png",
+      "md5": "7ce1a6382b9163f9c3dc6632c3e53d65",
+      "width": 1200,
+      "height": 1600,
+      "size": 2113742,
+      "uploadedDate": "2023-06-21T21:19:10.670Z",
+      "alt": "Download ACL Pro Cornhole Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "91bf18cde18b4357807b5c3e964b7e56",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-17T14:00:20.131Z",
+  "lastModifiedDate": "2023-07-17T14:00:20.131Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Cornhole/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ACLProCornholehcHSL"
+    }
+  },
+  "entitlementName": "70774736989a4f3cb07e6d353a90771f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "30986cf2dd0b4d1a8a363d59d3b158cf",
+      "appId": "754c4b9323db4162ae24d283264f1bdf",
+      "platform": [
+        "Mac",
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "FarSight Studios, Inc.",
+  "developerId": "o-64dd75f7730448929ee2a984f93673",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

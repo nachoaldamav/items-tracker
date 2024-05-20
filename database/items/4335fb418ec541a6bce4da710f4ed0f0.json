@@ -1,0 +1,72 @@
+{
+  "id": "4335fb418ec541a6bce4da710f4ed0f0",
+  "title": "Oirbo",
+  "description": "Oirbo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2d4f1465e9254425b5b03c8a429d4d9b/oirbo-gwxwz.png",
+      "md5": "f5504a99019cce8bc080c543de3ef9ef",
+      "width": 2560,
+      "height": 1440,
+      "size": 4112500,
+      "uploadedDate": "2024-03-13T15:13:07.455Z",
+      "alt": "Oirbo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2d4f1465e9254425b5b03c8a429d4d9b/oirbo-p1cxz.png",
+      "md5": "07e7240b1ed09b6926701b89fe39ffb5",
+      "width": 1200,
+      "height": 1600,
+      "size": 2290684,
+      "uploadedDate": "2024-03-13T15:18:09.249Z",
+      "alt": "Download Oirbo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e1963d929f33401d91ebc2f564ebe094",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-09T16:29:00.651Z",
+  "lastModifiedDate": "2024-03-14T09:30:56.381Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/ImaginationOverflow/Oirbo/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Oirbol42AY"
+    }
+  },
+  "entitlementName": "4335fb418ec541a6bce4da710f4ed0f0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9d6cccbfb4a64b1594115eaece8c9fb3",
+      "appId": "8959763187114c6eba5c5b2b742e5040",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "ImaginationOverflow",
+  "developerId": "o-pms4ejh8pvmu98gknzzpctuvr2tgtb",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

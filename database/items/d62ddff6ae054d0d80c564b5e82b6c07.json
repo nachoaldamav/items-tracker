@@ -1,0 +1,62 @@
+{
+  "id": "d62ddff6ae054d0d80c564b5e82b6c07",
+  "title": "3D Chess Online",
+  "description": "3D Chess Online",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b8e3fce5d2f0477281045f56496d9192/3d-chess-online-2rmzq.png",
+      "md5": "e6f5af682fb875a6576873dedb6cb483",
+      "width": 2560,
+      "height": 1440,
+      "size": 1404347,
+      "uploadedDate": "2023-09-04T20:08:01.422Z",
+      "alt": "3D Chess Online Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b8e3fce5d2f0477281045f56496d9192/3d-chess-online-c8a53.png",
+      "md5": "a801d52cdcfaba1ce58634598a9511d2",
+      "width": 1200,
+      "height": 1600,
+      "size": 2042303,
+      "uploadedDate": "2023-09-04T20:08:02.413Z",
+      "alt": "Download 3D Chess Online Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f23bd6cc1f594bdb94d3b0cc5d2fbf03",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-26T12:54:56.452Z",
+  "lastModifiedDate": "2023-09-26T12:54:56.452Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DChessOnlineGZaSq"
+    }
+  },
+  "entitlementName": "d62ddff6ae054d0d80c564b5e82b6c07",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bc1ad4b83c154a1b8517115b519aa020",
+      "appId": "0405e5594f6b4665a043dcd81c3ada45",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Inspector Studios",
+  "developerId": "o-bhbt8vdvsqad3nvby29xmmwltyuex5",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,71 @@
+{
+  "id": "c2345a186fc6414ba582a90c488a9f66",
+  "title": "Starvin Martian",
+  "description": "Starvin Martian",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0dce69a01a9f4f0b9276c31881fc3587/starvin-martian-1fnio.png",
+      "md5": "9aa6231f5e1c10f58fadf7a1d4ce0213",
+      "width": 2560,
+      "height": 1440,
+      "size": 3200673,
+      "uploadedDate": "2023-11-13T02:21:29.891Z",
+      "alt": "Starvin Martian Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0dce69a01a9f4f0b9276c31881fc3587/starvin-martian-tc8ax.png",
+      "md5": "f8b6b226da2343a7fe09217f65789575",
+      "width": 1200,
+      "height": 1600,
+      "size": 1866825,
+      "uploadedDate": "2023-11-13T02:22:51.705Z",
+      "alt": "Download Starvin Martian Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1255e14898d542979c0257aa9763649c",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-23T04:01:29.984Z",
+  "lastModifiedDate": "2023-12-06T00:12:14.453Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Playa3ull/Starvin Martian/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Playa3ull/Starvin Martian/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "StarvinMartianStgedAlpha"
+    }
+  },
+  "entitlementName": "c2345a186fc6414ba582a90c488a9f66",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c99f379c0f524324b29d7a91e4b3bd1f",
+      "appId": "365b8ca5d9ff469babd978d9bbfdcb8b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "PLAYA3ULL GAMES",
+  "developerId": "o-yc23mmglewv45x8tx5eq2eryfgntrd",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

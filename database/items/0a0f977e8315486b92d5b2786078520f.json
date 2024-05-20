@@ -1,0 +1,80 @@
+{
+  "id": "0a0f977e8315486b92d5b2786078520f",
+  "title": "Voicemod",
+  "description": "Voicemod",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/38067a54208046c09015dbe45d4114a1/voicemod-ffpo7.png",
+      "md5": "d23ce0d12430f158cc1405fea8870d86",
+      "width": 2560,
+      "height": 1440,
+      "size": 3060798,
+      "uploadedDate": "2023-12-01T07:35:34.166Z",
+      "alt": "Voicemod Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/38067a54208046c09015dbe45d4114a1/voicemod-11myx.png",
+      "md5": "f050a39975d991cc46e30760925e8149",
+      "width": 1200,
+      "height": 1600,
+      "size": 1743181,
+      "uploadedDate": "2023-12-01T07:35:31.931Z",
+      "alt": "Download Voicemod Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "software"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7fbd16994e824faaaec5c98c752ae617",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-27T09:13:33.315Z",
+  "lastModifiedDate": "2023-12-27T09:13:33.315Z",
+  "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "TRUE"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "VoicemodDesktop.exe"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "VoicemodDesktop"
+    }
+  },
+  "entitlementName": "0a0f977e8315486b92d5b2786078520f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0c1dc118c1a443329e8acfb8f79baa4c",
+      "appId": "95ca406dc1f74b68b86a2efe105f9521",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Voicemod_test",
+  "developerId": "o-f2t37zlrl2qg8jfqk2rn7jumwgktgn",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

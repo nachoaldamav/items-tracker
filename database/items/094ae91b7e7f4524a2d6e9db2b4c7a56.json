@@ -1,0 +1,71 @@
+{
+  "id": "094ae91b7e7f4524a2d6e9db2b4c7a56",
+  "title": "Power Vacuum",
+  "description": "Power Vacuum is a fast-paced, competitive strategy game.\nIt aims for minimalism, stripping away all the unnecessary detail to let you play as fast as you can.\nPower Vacuum features a “play against your past self” system that automatically records the games you play.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3cb056b7e5e04b4c8dbedee5d183aa4c/power-vacuum-h55hy.png",
+      "md5": "619da6e745a6db4d262c7505aa2fe70b",
+      "width": 2560,
+      "height": 1440,
+      "size": 913336,
+      "uploadedDate": "2023-05-16T09:57:33.528Z",
+      "alt": "Power Vacuum Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3cb056b7e5e04b4c8dbedee5d183aa4c/power-vacuum-o6jjh.png",
+      "md5": "46dd24b275064656eb83ff14f6acee3b",
+      "width": 1200,
+      "height": 1600,
+      "size": 516863,
+      "uploadedDate": "2023-05-16T09:57:32.503Z",
+      "alt": "Download Power Vacuum Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "80d6afef34fc4d3ea8a72c7820743fb8",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-16T08:47:00.359Z",
+  "lastModifiedDate": "2023-06-16T09:34:44.763Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/moves/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PowerVacuumGlo79"
+    }
+  },
+  "entitlementName": "094ae91b7e7f4524a2d6e9db2b4c7a56",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "47c259fd8a80445e8163ce90e6f598a5",
+      "appId": "bdde38a220c8428f86a6e95ac5fb296d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Delicious Lines",
+  "developerId": "o-y6nnkpaxh9xf5akcs3wpnln57m2scw",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

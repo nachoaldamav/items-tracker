@@ -1,0 +1,72 @@
+{
+  "id": "f7c1ed60aefb42e88b55703d64022053",
+  "title": "Rails Across America",
+  "description": "Rails Across America",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9ae457f1f7bd4e44ad5f191a89f3c544/rails-across-america-qywkj.png",
+      "md5": "d82284f2dc5f3464239089236d23e979",
+      "width": 2560,
+      "height": 1440,
+      "size": 2518985,
+      "uploadedDate": "2023-12-20T14:55:15.666Z",
+      "alt": "Rails Across America Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9ae457f1f7bd4e44ad5f191a89f3c544/rails-across-america-o98gr.png",
+      "md5": "685d755251cda645f8037b922be72dc8",
+      "width": 1200,
+      "height": 1600,
+      "size": 2505157,
+      "uploadedDate": "2023-12-18T14:52:26.945Z",
+      "alt": "Download Rails Across America Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8797ed433a424908b26ff4a89f08cc65",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-14T14:53:45.949Z",
+  "lastModifiedDate": "2024-01-09T13:29:15.956Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "english/save/*.svg,russian/save/*.svg"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RailsAcrossAmerica"
+    }
+  },
+  "entitlementName": "f7c1ed60aefb42e88b55703d64022053",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "03f867b26cce412bb6217b61ff93f32b",
+      "appId": "1ee12e3f88af4126836861683f0c1f11",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Strategy First",
+  "developerId": "o-a3vefcg43bn6j4lwc7qs8n5y38jm7k",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

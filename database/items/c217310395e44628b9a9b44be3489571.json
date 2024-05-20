@@ -1,0 +1,75 @@
+{
+  "id": "c217310395e44628b9a9b44be3489571",
+  "title": "Wavecade",
+  "description": "Wavecade",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/24bac7f6da7c4903aec3b8711e01ddfc/wavecade-h7vpd.jpg",
+      "md5": "dc2d25eae8eb655d5138f0571c0f41db",
+      "width": 2560,
+      "height": 1440,
+      "size": 1054184,
+      "uploadedDate": "2024-01-18T00:45:25.232Z",
+      "alt": "Wavecade Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/24bac7f6da7c4903aec3b8711e01ddfc/wavecade-1x0m9.png",
+      "md5": "7f43d41531f1ed51375cae3851b9ed3b",
+      "width": 1200,
+      "height": 1600,
+      "size": 2105144,
+      "uploadedDate": "2024-01-14T08:23:31.099Z",
+      "alt": "Download Wavecade Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8e8e69a4f240487d89727df7761c5362",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-16T12:50:16.759Z",
+  "lastModifiedDate": "2024-02-22T23:37:26.722Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Spalato Bros/Wavecade/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Player.dat,Settings.dat,Session.dat,carnage-report.json"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Wavecade"
+    }
+  },
+  "entitlementName": "c217310395e44628b9a9b44be3489571",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ef5801e88ddc458db7ff74b0e778416f",
+      "appId": "0155f74e97494c42ab3c06b59dd2e7b3",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Spalato Bros",
+  "developerId": "o-6zr2gfhx95qfp67rpcntzlexgwxaaf",
+  "endOfSupport": false,
+  "applicationId": "fghi4567DXzZz3flaraLSJfCwYbLKWXi",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

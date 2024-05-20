@@ -1,0 +1,62 @@
+{
+  "id": "e777054f1a934a7b86fa344eef35c086",
+  "title": "Starless",
+  "description": "Starless",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e807c97d367542cb9953a80bb6485e32/starless-awzk2.png",
+      "md5": "0b613dbd437132eb4c432c13c5b493c0",
+      "width": 2560,
+      "height": 1440,
+      "size": 3194809,
+      "uploadedDate": "2022-12-19T21:49:52.834Z",
+      "alt": "Starless Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e807c97d367542cb9953a80bb6485e32/starless-37zi3.png",
+      "md5": "5606fa1824bf9fd2562c4b9259d46a7f",
+      "width": 1200,
+      "height": 1600,
+      "size": 1435932,
+      "uploadedDate": "2022-12-19T21:49:51.814Z",
+      "alt": "Download Starless Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9cac50a837da4b6f9d655ea65b9d2cc6",
+  "status": "ACTIVE",
+  "creationDate": "2022-12-19T21:18:44.266Z",
+  "lastModifiedDate": "2023-01-16T20:09:40.675Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "StarlessJF9Qn"
+    }
+  },
+  "entitlementName": "e777054f1a934a7b86fa344eef35c086",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8b8c0cdfe7214af1a15202fee2cebae2",
+      "appId": "8f8d27bb7170419fb98e1a0c29f57bb8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Meridian4",
+  "developerId": "o-lk3h3v3ddypmx7zferz37x5l86w54p",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "b7a4fde704b848ccb6aee6fa4d699108",
+  "title": "DinoDash",
+  "description": "DinoDash",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/15da86a026f8474499306ca4ec57abd0/dinodashgame-1s0z4.png",
+      "md5": "c7fe0f9b81aae973922111edb64c7aec",
+      "width": 2560,
+      "height": 1440,
+      "size": 2306654,
+      "uploadedDate": "2023-05-02T03:37:03.094Z",
+      "alt": "DinoDashGame Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/15da86a026f8474499306ca4ec57abd0/dinodashgame-1lx4c.png",
+      "md5": "2e661c9bb4dbead4dd2f67c53788cc0f",
+      "width": 1200,
+      "height": 1600,
+      "size": 3413718,
+      "uploadedDate": "2023-05-02T03:57:30.504Z",
+      "alt": "Download DinoDashGame Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3411919497ef47359de5d9a67a7225fb",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-29T15:47:50.468Z",
+  "lastModifiedDate": "2023-06-29T15:47:50.468Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DinoDashGame3lT2d"
+    }
+  },
+  "entitlementName": "b7a4fde704b848ccb6aee6fa4d699108",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fe98d181d8b743a99483193864d708ab",
+      "appId": "9a01e3c240024d048ff75e641c02a6a4",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Alphack Studios LLC",
+  "developerId": "o-5emys8av99jxlr36xk3eb8a4au25hn",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

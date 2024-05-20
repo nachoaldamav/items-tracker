@@ -1,0 +1,64 @@
+{
+  "id": "8020295c67d94d719d4d664646fd32a5",
+  "title": "Life of Delta",
+  "description": "Life of Delta is a point-and-click adventure game set in a post-apocalyptic world.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/39afb308699243968326a20ebf733046/life-of-delta-dw70k.png",
+      "md5": "e79bcdaaef49d484e530997c6d2518fc",
+      "width": 2560,
+      "height": 1440,
+      "size": 2176027,
+      "uploadedDate": "2023-03-07T21:52:44.692Z",
+      "alt": "Life of Delta Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/39afb308699243968326a20ebf733046/life-of-delta-7u6je.jpg",
+      "md5": "c20a119c3c43c468cc125c387d5fcfcb",
+      "width": 1200,
+      "height": 1600,
+      "size": 871483,
+      "uploadedDate": "2023-03-07T21:52:45.388Z",
+      "alt": "Download Life of Delta Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4c509e1dc0584230b9c88d9d13059c63",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-22T23:58:16.119Z",
+  "lastModifiedDate": "2023-03-13T20:46:51.895Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "LifeofDelta"
+    }
+  },
+  "entitlementName": "8020295c67d94d719d4d664646fd32a5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fba9c0dd48b140d18e0eb764896c7bde",
+      "appId": "fd761f703d2249d1a8ef7f8f9a4597b9",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "endOfSupport": false,
+  "applicationId": "fghi4567qEjoXoXtMr535Xwk0DJJrbFY",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

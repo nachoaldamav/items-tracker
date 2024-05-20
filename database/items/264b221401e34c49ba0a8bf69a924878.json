@@ -1,0 +1,73 @@
+{
+  "id": "264b221401e34c49ba0a8bf69a924878",
+  "title": "Dismay",
+  "description": "Dismay",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4d505408336c426099104dc021b9c12b/dismay-1arlt.jpg",
+      "md5": "b3b6d7c58f07b8224edaff445f0836d3",
+      "width": 2560,
+      "height": 1440,
+      "size": 1661520,
+      "uploadedDate": "2024-02-17T13:06:06.610Z",
+      "alt": "Dismay Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4d505408336c426099104dc021b9c12b/dismay-jaxzq.jpg",
+      "md5": "005f4a2179c2dbbb27562e9f4fc11811",
+      "width": 1200,
+      "height": 1600,
+      "size": 325818,
+      "uploadedDate": "2024-02-17T13:06:05.435Z",
+      "alt": "Download Dismay Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "237a72dc34e44a67b1f33ae865ad7e21",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-16T09:41:17.389Z",
+  "lastModifiedDate": "2024-02-20T17:29:34.497Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Dismay/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "21474"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Dismay"
+    }
+  },
+  "entitlementName": "264b221401e34c49ba0a8bf69a924878",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9f30f29bf17641bb9ffd4ea7269f14bc",
+      "appId": "1085bbb40b304c59a2f5b4091916b3b4",
+      "platform": []
+    }
+  ],
+  "developer": "Reeryte",
+  "developerId": "o-vvuqh64kw7hw7hffv7uvywsmqdpajp",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

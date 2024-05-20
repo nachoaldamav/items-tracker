@@ -1,0 +1,93 @@
+{
+  "id": "437c7de64799423285072ba97bdb2e69",
+  "title": "Battlefield™ 1 Revolution",
+  "description": "Battlefield™ 1 takes you back to The Great War, WW1, where new technology and worldwide conflict changed the face of warfare forever.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/18822837ee7344a68c0270c2f450f768/battlefield-1-1jfsg.jpg",
+      "md5": "0d10b90844e68d20f10f5b73ddd07672",
+      "width": 2560,
+      "height": 1440,
+      "size": 874289,
+      "uploadedDate": "2024-03-05T23:33:07.308Z",
+      "alt": "Battlefield 1 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/18822837ee7344a68c0270c2f450f768/battlefield-1-1hf9x.jpg",
+      "md5": "488c7f6322295550a59a77924cf0a237",
+      "width": 1200,
+      "height": 1600,
+      "size": 861750,
+      "uploadedDate": "2024-03-05T23:33:18.461Z",
+      "alt": "Download Battlefield 1 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a71ff65b058146b88b2562ef447f9fc2",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-04T15:37:07.251Z",
+  "lastModifiedDate": "2024-03-28T14:14:35.468Z",
+  "customAttributes": {
+    "MainWindowsProcessName": {
+      "type": "STRING",
+      "value": "bf1.exe"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\EA Games\\Battlefield 1"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "bf1.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "bf1.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Battlefield11v6S4"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "437c7de64799423285072ba97bdb2e69",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "098dc5b219a5445793df1856914b4a7a",
+      "appId": "vetkoek",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

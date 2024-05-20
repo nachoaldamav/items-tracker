@@ -1,0 +1,61 @@
+{
+  "id": "ee3000e9ef574772a7c6d9c8b6a53846",
+  "title": "Crowncity",
+  "description": "Crowncity",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3807dbc313fd4a4c956b2e07528fe8a6/crowncity-11iiz.jpg",
+      "md5": "00499fd20b7956ec3fba0afda687e7e7",
+      "width": 2560,
+      "height": 1440,
+      "size": 2275965,
+      "uploadedDate": "2023-12-30T17:27:42.202Z",
+      "alt": "Crowncity Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3807dbc313fd4a4c956b2e07528fe8a6/crowncity-1vpxo.png",
+      "md5": "5dac93732b64f1197231fe74de1d8356",
+      "width": 1200,
+      "height": 1600,
+      "size": 2641600,
+      "uploadedDate": "2023-12-30T17:27:43.408Z",
+      "alt": "Download Crowncity Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8a9e2e0b21af45119ff2ada4a39be1a1",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-31T16:36:25.491Z",
+  "lastModifiedDate": "2023-12-31T16:36:25.491Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "CrowncityArts"
+    }
+  },
+  "entitlementName": "ee3000e9ef574772a7c6d9c8b6a53846",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bbd81eece4e64982b0947500125c6fd4",
+      "appId": "2ce11cf79f7041afa8b2b1756cd63ce0",
+      "platform": []
+    }
+  ],
+  "developer": "Haon Games",
+  "developerId": "o-jg7lssg2clrrslpjz6rsxxvmtez3lz",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

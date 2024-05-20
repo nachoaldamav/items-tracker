@@ -1,0 +1,71 @@
+{
+  "id": "5ca4b0de70d0424c961d668d05fc0b36",
+  "title": "Placid Plastic Duck Simulator",
+  "description": "Placid Plastic Duck Simulator",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9f8dc3993c9e45ac8204f93849010d60/placid-plastic-duck-simulator-32ajt.png",
+      "md5": "8f80b3b9353b53d0e76e762160c5a4b2",
+      "width": 2560,
+      "height": 1440,
+      "size": 4130619,
+      "uploadedDate": "2023-04-14T10:44:58.250Z",
+      "alt": "Placid Plastic Duck Simulator Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9f8dc3993c9e45ac8204f93849010d60/placid-plastic-duck-simulator-18oxs.png",
+      "md5": "0a96a64de6032fc7e89ebb9b0bec8465",
+      "width": 1200,
+      "height": 1600,
+      "size": 1921981,
+      "uploadedDate": "2023-04-14T10:45:04.011Z",
+      "alt": "Download Placid Plastic Duck Simulator Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fc3184cec5eb463ea33412294a05fca2",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-11T18:50:16.535Z",
+  "lastModifiedDate": "2023-06-30T09:45:04.973Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Turbolento Games/Placid Plastic Duck Simulator/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PlacidPlasticDuckSimlZC3F"
+    }
+  },
+  "entitlementName": "5ca4b0de70d0424c961d668d05fc0b36",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2dde66d86fdf406899101385439eedba",
+      "appId": "8341ed6649824856a8580ac4079ec9cf",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Tunnel Vision",
+  "developerId": "o-t6e3rw6fftmq8udha3l6lx9zegyzcv",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

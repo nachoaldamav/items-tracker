@@ -1,0 +1,64 @@
+{
+  "id": "fdab7b4029a74941bb3d0f2926843fb7",
+  "title": "Spaceport Trading Company",
+  "description": "Spaceport Trading Company",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3e96c8e2f6844228aee0e3669d6df142/spaceport-trading-company-1wo0r.jpg",
+      "md5": "bcd1a631af5af60e083c851d605a6cca",
+      "width": 2560,
+      "height": 1440,
+      "size": 1161094,
+      "uploadedDate": "2023-12-06T14:54:56.922Z",
+      "alt": "Spaceport Trading Company Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3e96c8e2f6844228aee0e3669d6df142/spaceport-trading-company-1kwlt.png",
+      "md5": "91d9973473f5c56f0b0b38d61b4c095e",
+      "width": 1200,
+      "height": 1600,
+      "size": 2844573,
+      "uploadedDate": "2023-12-07T15:25:00.621Z",
+      "alt": "Download Spaceport Trading Company Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e561c551144744fab8cb66b0ec26af70",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-05T17:42:33.291Z",
+  "lastModifiedDate": "2024-04-04T16:00:36.651Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "StarportTradingCompany"
+    }
+  },
+  "entitlementName": "fdab7b4029a74941bb3d0f2926843fb7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "07091603e7704e51ba6a0459ee2b05e0",
+      "appId": "f4b9549156274762996377b0b01fcad4",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Digital Tectonics, LLC",
+  "developerId": "o-dqzcfxn62zkktpt79sy3w8aenser8p",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,73 @@
+{
+  "id": "1bc0dfe93dc447169703ca8848bd5237",
+  "title": "Maiden Cops",
+  "description": "Maiden Cops",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/dbdc035e6a83411281fec15971c7b1a3/maiden-cops-oxflp.png",
+      "md5": "0132fd459307cff39989d632db3468fc",
+      "width": 2560,
+      "height": 1440,
+      "size": 3361504,
+      "uploadedDate": "2023-08-19T04:45:05.312Z",
+      "alt": "Maiden Cops Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/dbdc035e6a83411281fec15971c7b1a3/maiden-cops-uugkz.png",
+      "md5": "fc83046f3c07b09fe82fff47ef71b019",
+      "width": 1200,
+      "height": 1600,
+      "size": 2255649,
+      "uploadedDate": "2023-08-19T04:45:20.339Z",
+      "alt": "Download Maiden Cops Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0a78a5cb65ab4aaa84a75188ac6eb765",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-12T21:38:40.003Z",
+  "lastModifiedDate": "2023-10-01T20:13:54.429Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Pippin Games/Maiden Cops/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Pippin Games/Maiden Cops/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.save"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MaidenCops"
+    }
+  },
+  "entitlementName": "1bc0dfe93dc447169703ca8848bd5237",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "020c7e3245d749609519faf447f720df",
+      "appId": "6bf16fb8813c4fe9a3e4a2eb37797c39",
+      "platform": []
+    }
+  ],
+  "developer": "Pippin Games",
+  "developerId": "o-fu4wrkzwjhrqwcz8j6w7dqasrnjw5d",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

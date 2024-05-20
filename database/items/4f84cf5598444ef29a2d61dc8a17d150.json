@@ -1,0 +1,87 @@
+{
+  "id": "4f84cf5598444ef29a2d61dc8a17d150",
+  "title": "King of Avalon",
+  "description": "King of Avalon",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/af5bf2402b714a468e9b44d914d105f1/king-of-avalon-1ibtz.png",
+      "md5": "9b20432eda484a073108ca3234fabfaa",
+      "width": 2560,
+      "height": 1440,
+      "size": 3953989,
+      "uploadedDate": "2023-09-13T07:51:12.020Z",
+      "alt": "King of Avalon Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/af5bf2402b714a468e9b44d914d105f1/king-of-avalon-is1k7.png",
+      "md5": "9f801a67bd75ba8e45f6f8c2b2e5c8ca",
+      "width": 1200,
+      "height": 1600,
+      "size": 2860414,
+      "uploadedDate": "2023-09-13T14:20:58.070Z",
+      "alt": "Download King of Avalon Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "61f59d5d7e054ba7964ba6364772a31c",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-06T06:08:49.521Z",
+  "lastModifiedDate": "2023-12-06T06:08:49.521Z",
+  "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "SkipAutoInstalIDlc": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "KingofAvalon.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "PC-Launcher.exe"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KingofAvalonKL8nB"
+    },
+    "BackgroundProcessNames": {
+      "type": "STRING",
+      "value": "UacLauncher.exe,7za.exe"
+    }
+  },
+  "entitlementName": "4f84cf5598444ef29a2d61dc8a17d150",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0c5186036f794ef8aff265da9e6eb1c8",
+      "appId": "ae33b24ea6bb40e8997d937bd3cd96c8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Funplus International",
+  "developerId": "o-kqt248e59yf4582wv8xy4kzhbqtm6a",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

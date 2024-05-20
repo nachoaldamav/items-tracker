@@ -1,0 +1,63 @@
+{
+  "id": "9c38499e4f534f9ba3f2d3665893319f",
+  "title": "REPLIKATOR",
+  "description": "REPLIKATOR",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5af4d4b62e774348bb9d8c42b17f2523/replikator-offer-6zd6g.png",
+      "md5": "f7e4b3b5ec4d114e4b84cec98f52aa6f",
+      "width": 2560,
+      "height": 1440,
+      "size": 2569961,
+      "uploadedDate": "2022-08-08T20:36:18.062Z",
+      "alt": "REPLIKATOR Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5af4d4b62e774348bb9d8c42b17f2523/download-replikator-offer-gn8j1.png",
+      "md5": "6b53cf5713a6217b7f1086f1402ed78b",
+      "width": 1200,
+      "height": 1600,
+      "size": 1071622,
+      "uploadedDate": "2022-08-08T20:36:20.313Z",
+      "alt": "Download REPLIKATOR Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "db15036add63431c85815502bd8e384b",
+  "status": "ACTIVE",
+  "creationDate": "2022-08-08T15:33:10.829Z",
+  "lastModifiedDate": "2022-09-19T09:55:35.734Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "REPLIKATOR"
+    }
+  },
+  "entitlementName": "9c38499e4f534f9ba3f2d3665893319f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6ab97743ea30480f90dd8d7804732ea7",
+      "appId": "527e8c6060f449d4a419f47ca52fbcaf",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Meridian4",
+  "developerId": "o-lk3h3v3ddypmx7zferz37x5l86w54p",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

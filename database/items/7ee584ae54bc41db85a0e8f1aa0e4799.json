@@ -1,0 +1,67 @@
+{
+  "id": "7ee584ae54bc41db85a0e8f1aa0e4799",
+  "title": "Title_Pending",
+  "description": "Title_Pending",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0f86a191099f44498e7a5861bd1dbbd8/title_pending-7aus3.png",
+      "md5": "05d96008c1e0184e95b39de7aa136327",
+      "width": 2560,
+      "height": 1440,
+      "size": 1832291,
+      "uploadedDate": "2024-01-05T02:02:49.228Z",
+      "alt": "Title_Pending Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0f86a191099f44498e7a5861bd1dbbd8/title_pending-i6ykl.png",
+      "md5": "5e4a422b88441561df07e212a37fbf43",
+      "width": 1200,
+      "height": 1600,
+      "size": 1290039,
+      "uploadedDate": "2024-01-05T01:35:41.062Z",
+      "alt": "Download Title_Pending Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a9b4829f53a54f098c57c87bd1ff791e",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-11T06:01:29.608Z",
+  "lastModifiedDate": "2024-01-18T17:08:09.917Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Title_Pending/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TitlePending"
+    }
+  },
+  "entitlementName": "7ee584ae54bc41db85a0e8f1aa0e4799",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4bf623780757416aad819a1e4ac998e6",
+      "appId": "add895d99e00441fbb65882dcd189b08",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "DEVBEEF",
+  "developerId": "o-e9tgebs6yt2tpyruhtd3mta3cp6w9t",
+  "endOfSupport": false,
+  "applicationId": "fghi45677zvc56RkOUgs9Hx7CH775wJU",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

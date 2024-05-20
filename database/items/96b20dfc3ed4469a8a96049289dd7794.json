@@ -1,0 +1,64 @@
+{
+  "id": "96b20dfc3ed4469a8a96049289dd7794",
+  "title": "Providence",
+  "description": "Providence",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/22af9e1663e34d8ead808163753c3c6d/providence-18crc.jpg",
+      "md5": "2e8c87d0595f60fda6e81b041de90fbe",
+      "width": 2560,
+      "height": 1440,
+      "size": 2811409,
+      "uploadedDate": "2023-10-17T08:58:46.166Z",
+      "alt": "Providence Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/22af9e1663e34d8ead808163753c3c6d/providence-1m58s.jpg",
+      "md5": "76258f349e75d1cb553ba2182e79f24f",
+      "width": 1200,
+      "height": 1600,
+      "size": 1367053,
+      "uploadedDate": "2023-12-01T15:17:15.648Z",
+      "alt": "Download Providence Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "46ddbd5e69374a07839e584a4bc8e8b2",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-03T11:58:25.937Z",
+  "lastModifiedDate": "2024-04-18T09:56:48.431Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Providence"
+    }
+  },
+  "entitlementName": "96b20dfc3ed4469a8a96049289dd7794",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ae070f6410a543118f448e5eddb17df5",
+      "appId": "54737979d9554dbbadcd173b14284099",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Dynasty Studios Inc",
+  "developerId": "o-k59yv683mm2y4vltf3rag74sh4ep9j",
+  "endOfSupport": false,
+  "applicationId": "fghi4567CE5RsjSbWCftaYwzTF36Sxp0",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

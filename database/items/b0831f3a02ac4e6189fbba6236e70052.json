@@ -1,0 +1,77 @@
+{
+  "id": "b0831f3a02ac4e6189fbba6236e70052",
+  "title": "Capes",
+  "description": "Capes",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/44edf8a5dfbe4729a171631066bbd6b3/capes-xqf0n.jpg",
+      "md5": "4e6a057991b649c3a1d851a8ec326d92",
+      "width": 2560,
+      "height": 1440,
+      "size": 863344,
+      "uploadedDate": "2024-04-04T12:42:35.773Z",
+      "alt": "Capes Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/44edf8a5dfbe4729a171631066bbd6b3/capes-elcla.png",
+      "md5": "68b01b66cd1a67f282488bc3e4359573",
+      "width": 1200,
+      "height": 1600,
+      "size": 2167202,
+      "uploadedDate": "2024-04-04T12:42:35.406Z",
+      "alt": "Download Capes Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "41354424d5e74b579fc22def2cd1df6c",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-17T14:35:43.516Z",
+  "lastModifiedDate": "2024-04-17T14:35:43.836Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Daedalic Entertainment GmbH/Capes/Saved/SaveGames/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Daedalic Entertainment GmbH/Capes/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "80"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Capes"
+    }
+  },
+  "entitlementName": "b0831f3a02ac4e6189fbba6236e70052",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fe0379b8f70749218dc65d1b50e3653a",
+      "appId": "794b61e5fcf846a8a6ad1c91d7eb526e",
+      "platform": []
+    }
+  ],
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

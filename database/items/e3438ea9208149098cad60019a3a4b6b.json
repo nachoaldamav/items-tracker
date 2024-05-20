@@ -1,0 +1,63 @@
+{
+  "id": "e3438ea9208149098cad60019a3a4b6b",
+  "title": "Truck",
+  "description": "Truck",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9ac2732a45154cc585d37e90846c8e48/truck-x1nfn.png",
+      "md5": "2b919ffd489ae8a4dceba9a609df8acf",
+      "width": 2560,
+      "height": 1440,
+      "size": 579233,
+      "uploadedDate": "2024-05-10T06:44:11.058Z",
+      "alt": "Truck Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9ac2732a45154cc585d37e90846c8e48/truck-6j44f.png",
+      "md5": "cb8278e7b25efd20ace586d8f531aad5",
+      "width": 1200,
+      "height": 1600,
+      "size": 282199,
+      "uploadedDate": "2024-05-10T06:44:15.577Z",
+      "alt": "Download Truck Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c33afcc65c264c81aa8e2537b7580690",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-10T05:58:18.838Z",
+  "lastModifiedDate": "2024-05-12T15:51:05.174Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TruckR2AH2"
+    }
+  },
+  "entitlementName": "e3438ea9208149098cad60019a3a4b6b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "756cc5a86d4443e297eb525fed72187a",
+      "appId": "234362925c974370a0224a193425dbe5",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Molance Games",
+  "developerId": "o-h7ab8bjms2xan6aygpujwrxsfcpg8z",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

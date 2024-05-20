@@ -1,0 +1,77 @@
+{
+  "id": "1b8bb0233cea4f41b54ac83c8d003d71",
+  "title": "CATAIRE",
+  "description": "CATAIRE",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1534195d18cc4f0fb2262c353339d478/cataire-dm9pd.png",
+      "md5": "e9a98697e1e52f71ea19a895369f2694",
+      "width": 2560,
+      "height": 1440,
+      "size": 236982,
+      "uploadedDate": "2023-09-07T16:12:17.641Z",
+      "alt": "CATAIRE Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1534195d18cc4f0fb2262c353339d478/cataire-zlrgg.png",
+      "md5": "5eb08303024e35e29e208b0d9525147c",
+      "width": 1200,
+      "height": 1600,
+      "size": 116692,
+      "uploadedDate": "2023-09-07T16:12:30.585Z",
+      "alt": "Download CATAIRE Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "be657c5da1ad4bb48cb458c8db67b45e",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-07T13:57:00.119Z",
+  "lastModifiedDate": "2024-04-22T16:05:17.916Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/CATAIRE/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/CATAIRE/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CATAIRE7L1k4"
+    }
+  },
+  "entitlementName": "1b8bb0233cea4f41b54ac83c8d003d71",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9213cc0bb50c49499a1fd3fe3094b18e",
+      "appId": "e80d0c2895d14f28aabf8639b7e9f53c",
+      "platform": [
+        "Win32",
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Airem",
+  "developerId": "o-wndrw4cwfttmgjzmh3fk38euecp7hf",
+  "endOfSupport": false,
+  "applicationId": "fghi45672SbXTSTbTtJEQOVcThfpDdEy",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

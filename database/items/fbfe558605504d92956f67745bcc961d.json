@@ -1,0 +1,59 @@
+{
+  "id": "fbfe558605504d92956f67745bcc961d",
+  "title": "Acceptance",
+  "description": "Acceptance",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/155c98887fb44f19ae21c3346aeeea9b/acceptance-dr502.jpg",
+      "md5": "90abe9fadf0bc9b1888a4d2276ed7be8",
+      "width": 2560,
+      "height": 1440,
+      "size": 719280,
+      "uploadedDate": "2023-04-01T14:37:15.933Z",
+      "alt": "Acceptance Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/155c98887fb44f19ae21c3346aeeea9b/acceptance-1fazl.png",
+      "md5": "cb7f7fbbb842ab55d1974a2ba06d3b55",
+      "width": 1200,
+      "height": 1600,
+      "size": 2828245,
+      "uploadedDate": "2023-04-01T14:37:22.527Z",
+      "alt": "Download Acceptance Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bff2cecb631446d395112f4179ce8d0a",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-06T10:02:24.847Z",
+  "lastModifiedDate": "2023-04-06T10:02:24.847Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "AcceptanceOM1pG"
+    }
+  },
+  "entitlementName": "fbfe558605504d92956f67745bcc961d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e32121c5b3b746eca7152d2acd78dd87",
+      "appId": "aff82b61ef694b46ac319fab0ab32a4d"
+    }
+  ],
+  "developer": "Ratalaika Games S.L.",
+  "developerId": "o-5r5xf5kfclz5zgp9eds3asp792s2vp",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

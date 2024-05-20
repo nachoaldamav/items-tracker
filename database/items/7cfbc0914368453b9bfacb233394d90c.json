@@ -1,0 +1,63 @@
+{
+  "id": "7cfbc0914368453b9bfacb233394d90c",
+  "title": "Frightence",
+  "description": "Frightence",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/46b20740582b499098708c81b4679dd2/frightence-1jquh.jpg",
+      "md5": "ad17afa0622f7878b626388685b2c9ea",
+      "width": 2560,
+      "height": 1440,
+      "size": 773691,
+      "uploadedDate": "2023-05-24T05:59:25.006Z",
+      "alt": "Frightence Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/46b20740582b499098708c81b4679dd2/frightence-1ksb8.jpg",
+      "md5": "fadc51684ef90f1913abe70414c4e70c",
+      "width": 1200,
+      "height": 1600,
+      "size": 408546,
+      "uploadedDate": "2023-05-24T05:59:23.051Z",
+      "alt": "Download Frightence Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "00f00dd1769a46568868a5fdb61748d4",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-22T04:06:39.975Z",
+  "lastModifiedDate": "2023-06-22T04:06:39.975Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Frightence3h5oE"
+    }
+  },
+  "entitlementName": "7cfbc0914368453b9bfacb233394d90c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "80153e2241b8482880e8f7c8b9c3173c",
+      "appId": "94609985c1fa4d9ba2081420f83410c1",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "PulseTense Games",
+  "developerId": "o-3tgxkwtvm6uhfxkszl5wzn9dkbudnb",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

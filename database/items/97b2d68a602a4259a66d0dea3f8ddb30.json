@@ -1,0 +1,75 @@
+{
+  "id": "97b2d68a602a4259a66d0dea3f8ddb30",
+  "title": "Barotrauma",
+  "description": "Barotrauma",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2ff3a988723d4a80a33102eb23ae2525/barotrauma-1lkps.jpg",
+      "md5": "7986725ac615c1eee4f8e1859f1967f7",
+      "width": 2560,
+      "height": 1440,
+      "size": 1721421,
+      "uploadedDate": "2023-11-22T14:41:30.981Z",
+      "alt": "Barotrauma Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2ff3a988723d4a80a33102eb23ae2525/barotrauma-16k36.jpg",
+      "md5": "3ec6e484d8b66ff5e15bf38c9a0e2a47",
+      "width": 1200,
+      "height": 1600,
+      "size": 994148,
+      "uploadedDate": "2023-11-22T14:41:31.633Z",
+      "alt": "Download Barotrauma Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d7faf8a687fb46d498c6aeeb6ee7f898",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-22T23:57:07.015Z",
+  "lastModifiedDate": "2024-03-28T14:46:47.782Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Daedalic Entertainment GmbH/Barotrauma/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Daedalic Entertainment GmbH/Barotrauma/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Barotrauma"
+    }
+  },
+  "entitlementName": "97b2d68a602a4259a66d0dea3f8ddb30",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e6c5a3e054a34a24a6fdd7bd7bd5abcb",
+      "appId": "ae7fe758bdf44f7c91d0c91b7fdb586e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "endOfSupport": false,
+  "applicationId": "fghi4567zqPvqqih2QarrrnLivO2cBBd",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

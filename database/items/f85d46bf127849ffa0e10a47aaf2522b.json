@@ -1,0 +1,62 @@
+{
+  "id": "f85d46bf127849ffa0e10a47aaf2522b",
+  "title": "Bloxs",
+  "description": "Bloxs",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0a07a110e27644c1be7f9783f72a8b56/bloxs-14piq.png",
+      "md5": "a336002e4bb685c39484951cc0264f27",
+      "width": 2560,
+      "height": 1440,
+      "size": 3241600,
+      "uploadedDate": "2023-04-03T23:13:04.876Z",
+      "alt": "Bloxs Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0a07a110e27644c1be7f9783f72a8b56/bloxs-17tqy.png",
+      "md5": "6718490ac78f4da0a6fdd314100f2756",
+      "width": 1200,
+      "height": 1600,
+      "size": 1720948,
+      "uploadedDate": "2023-04-03T23:15:29.455Z",
+      "alt": "Download Bloxs Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e782994b72d74937907a2952fcdeba0d",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-28T15:03:10.315Z",
+  "lastModifiedDate": "2023-07-24T15:08:11.794Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BloxsGuRGk"
+    }
+  },
+  "entitlementName": "f85d46bf127849ffa0e10a47aaf2522b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "dc8cc44273474fc488196cb84ea96ed4",
+      "appId": "2ede836334f84b019d0603ea2601ae7a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Landmark Digital Productions",
+  "developerId": "o-yv94yb365hzmydet5lswxdzufp3u5z",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

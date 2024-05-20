@@ -1,0 +1,71 @@
+{
+  "id": "80e635ba71324e1abfc99269f231de50",
+  "title": "Dawn of Defiance",
+  "description": "Dawn of Defiance",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa9d7f5267c54a8cab501a5bcc9f93a8/defiant-immortals-b9zyt.jpg",
+      "md5": "679b3e7a14e6c093462d01c0294efeeb",
+      "width": 2560,
+      "height": 1440,
+      "size": 843605,
+      "uploadedDate": "2024-04-23T15:27:42.053Z",
+      "alt": "Defiant Immortals Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa9d7f5267c54a8cab501a5bcc9f93a8/defiant-immortals-195zh.jpg",
+      "md5": "7a64c2d6b2af3abb5cf81f1f1971fb77",
+      "width": 1200,
+      "height": 1600,
+      "size": 477025,
+      "uploadedDate": "2024-04-23T15:27:42.120Z",
+      "alt": "Download Defiant Immortals Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "39ad2a543d7a40d89813c5ef64c861d9",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-08T13:33:32.538Z",
+  "lastModifiedDate": "2024-05-08T13:33:32.538Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/DefiantImmortals/Saved/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DefiantImmortals02f37"
+    }
+  },
+  "entitlementName": "80e635ba71324e1abfc99269f231de50",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9229a42d1ad64fd0b0fc3b500a6dea3c",
+      "appId": "066f5b60b0a541e7a83f0ce33b0fba4f",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Traega Entertainment, LLC",
+  "developerId": "o-p9q9ylz2atxwc5hx2uhw2jrjd62jtk",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,65 @@
+{
+  "id": "bcc0482a6be640c197c1c44b7419f1d7",
+  "title": "Gridiron",
+  "description": "Gridiron",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/21d54a3560314b4392acdf10629f7765/gridiron-1ot6y.png",
+      "md5": "8315758863785f5ee513cd8297e95f8a",
+      "width": 2560,
+      "height": 1440,
+      "size": 1192709,
+      "uploadedDate": "2023-03-29T19:08:46.977Z",
+      "alt": "Gridiron Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/21d54a3560314b4392acdf10629f7765/gridiron-11ali.png",
+      "md5": "2fcf4d12e4825a31b9743238243b30ff",
+      "width": 1200,
+      "height": 1600,
+      "size": 1823411,
+      "uploadedDate": "2023-03-29T19:03:10.567Z",
+      "alt": "Download Gridiron Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d23b008fda0444588998e65e0de39871",
+  "status": "ACTIVE",
+  "creationDate": "2023-02-02T20:52:14.637Z",
+  "lastModifiedDate": "2023-08-15T21:01:30.501Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Gridiron"
+    }
+  },
+  "entitlementName": "bcc0482a6be640c197c1c44b7419f1d7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "661f102232fe4c7d9231bf4b1639e396",
+      "appId": "9ef9fb86c72747a381a5c6d252cf5fe8",
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "1336 Studios",
+  "developerId": "o-7htgh23pflmnazsrux5u8geejf3xqq",
+  "endOfSupport": false,
+  "applicationId": "fghi45671FBLpupShwzGkrez89yMd5ZD",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

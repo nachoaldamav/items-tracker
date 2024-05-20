@@ -1,0 +1,63 @@
+{
+  "id": "7f89aaeff9fc446aa8de7a55e4b4ef2e",
+  "title": "Myth & Mirage",
+  "description": "Myth & Mirage",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d589047046744d95a8b37b50a9f918a0/bgrpg-1hbl4.jpg",
+      "md5": "569b2d7bab4e37caa5d0e32c3857d9b3",
+      "width": 2560,
+      "height": 1440,
+      "size": 2606355,
+      "uploadedDate": "2023-09-05T07:33:04.908Z",
+      "alt": "BGRPG Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d589047046744d95a8b37b50a9f918a0/bgrpg-1u480.png",
+      "md5": "cfb9ba161aa05ea39f9edd03f2772ee3",
+      "width": 1200,
+      "height": 1600,
+      "size": 2618193,
+      "uploadedDate": "2023-09-07T08:04:40.302Z",
+      "alt": "Download BGRPG Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5180c8d470c54875b18e52723630fdbb",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-23T17:27:58.416Z",
+  "lastModifiedDate": "2024-04-23T17:27:58.741Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "MythAndMirage"
+    }
+  },
+  "entitlementName": "7f89aaeff9fc446aa8de7a55e4b4ef2e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "94e5162afaa34f3f94941398f9eedca8",
+      "appId": "925ae10277624ad69bd1ce65df4295e2",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Eliphx",
+  "developerId": "o-heb2z5plssr4cag865rxle378qqvum",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

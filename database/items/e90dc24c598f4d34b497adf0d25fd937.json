@@ -1,0 +1,67 @@
+{
+  "id": "e90dc24c598f4d34b497adf0d25fd937",
+  "title": "Lifespace Traveler",
+  "description": "Lifespace Traveler",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/cac738aad39247ab9773a935fa249a7a/lifespace-traveler-1l0vn.png",
+      "md5": "5727cf28138434dfc6484ba47e346cb9",
+      "width": 2560,
+      "height": 1440,
+      "size": 3591928,
+      "uploadedDate": "2023-06-03T12:53:09.319Z",
+      "alt": "Lifespace Traveler Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/cac738aad39247ab9773a935fa249a7a/lifespace-traveler-l9ce0.png",
+      "md5": "1ac9d74d51ec5801148892770630f2ff",
+      "width": 1200,
+      "height": 1600,
+      "size": 1906214,
+      "uploadedDate": "2023-06-03T12:56:19.901Z",
+      "alt": "Download Lifespace Traveler Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "77631a5827eb4a8ea16cf1ded0b24131",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-09T15:57:35.928Z",
+  "lastModifiedDate": "2024-05-10T21:44:40.530Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/LifespaceTraveler/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LifespaceTraveler"
+    }
+  },
+  "entitlementName": "e90dc24c598f4d34b497adf0d25fd937",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fbe5f4dfa19d46b9a507ad06d9b0e064",
+      "appId": "84956b2f54a5457d83740cf267e69d41",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Dino Trnka",
+  "developerId": "o-e34xl29cv5qcsddf8bgx5zf6av47x7",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

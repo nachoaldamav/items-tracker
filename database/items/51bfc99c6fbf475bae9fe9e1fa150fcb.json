@@ -1,0 +1,67 @@
+{
+  "id": "51bfc99c6fbf475bae9fe9e1fa150fcb",
+  "title": "Project XSTING",
+  "description": "Project XSTING",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5d7e2714048d403ab2f0a24f6e74b1b2/project-xsting-1173r.jpg",
+      "md5": "4d2118673d4790f5a08ccb8013ede342",
+      "width": 2560,
+      "height": 1440,
+      "size": 1191434,
+      "uploadedDate": "2023-12-02T15:42:10.585Z",
+      "alt": "Project XSTING Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5d7e2714048d403ab2f0a24f6e74b1b2/project-xsting-fnw2v.jpg",
+      "md5": "02680ef7340275471d9d74335fc3cb25",
+      "width": 1200,
+      "height": 1600,
+      "size": 890891,
+      "uploadedDate": "2023-12-02T15:36:49.072Z",
+      "alt": "Download Project XSTING Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "23742f73e6594075a1f74e57ed7a6d5b",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-18T12:21:57.100Z",
+  "lastModifiedDate": "2024-01-04T11:34:33.454Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Saucy Melon/Project XSTING/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ProjectXSTING"
+    }
+  },
+  "entitlementName": "51bfc99c6fbf475bae9fe9e1fa150fcb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "07520cd84b90459a8acec3452531c380",
+      "appId": "f78681a3e18f4b70808b45ff315965db",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SaucyMelon",
+  "developerId": "o-9yh86m9p9gr986d3jqgt79wbbr6rgb",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

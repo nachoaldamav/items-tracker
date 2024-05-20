@@ -1,0 +1,68 @@
+{
+  "id": "f7aeacf05c96464586fb936cf6dfa7b5",
+  "title": "Brand New World",
+  "description": "Brand New World",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7d18acebc9bf4ef9ba734ae07c53d002/brand-new-world-pgw2q.png",
+      "md5": "cbfe8c059addd4c38eccd7e18e76c60e",
+      "width": 2560,
+      "height": 1440,
+      "size": 2573704,
+      "uploadedDate": "2024-01-26T22:20:33.205Z",
+      "alt": "Brand New World Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7d18acebc9bf4ef9ba734ae07c53d002/brand-new-world-1qhak.png",
+      "md5": "baf40950b133255044d4dc7371626822",
+      "width": 1200,
+      "height": 1600,
+      "size": 1325151,
+      "uploadedDate": "2024-01-26T22:19:20.747Z",
+      "alt": "Download Brand New World Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7198c1ccb7b64bbbb1a7d0112a75c9a5",
+  "status": "ACTIVE",
+  "creationDate": "2024-01-22T17:15:10.570Z",
+  "lastModifiedDate": "2024-04-18T15:05:07.512Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/BrandNewWorld/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BrandNewWorld"
+    }
+  },
+  "entitlementName": "f7aeacf05c96464586fb936cf6dfa7b5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "34d555b0212f4bccbb391420127e1cff",
+      "appId": "7789b2e4d44a4a7ea45378c81d109d7e",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "LandS Studio",
+  "developerId": "o-tklp6ywnuf4ffq8gvvxfmgqajjn5q7",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

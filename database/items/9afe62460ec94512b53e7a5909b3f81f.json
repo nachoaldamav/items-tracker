@@ -1,0 +1,71 @@
+{
+  "id": "9afe62460ec94512b53e7a5909b3f81f",
+  "title": "Loretta",
+  "description": "Loretta",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0c1f490df3cb4f34aaa9b1a8271eae55/loretta-wmrpu.png",
+      "md5": "ddcb0cf08465fa96a9d191f81e968a2a",
+      "width": 2560,
+      "height": 1440,
+      "size": 3063635,
+      "uploadedDate": "2023-01-23T05:44:55.249Z",
+      "alt": "Loretta Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0c1f490df3cb4f34aaa9b1a8271eae55/loretta-szce4.png",
+      "md5": "2be5bc54320ce453096a1b4086088028",
+      "width": 1200,
+      "height": 1600,
+      "size": 2124501,
+      "uploadedDate": "2023-01-23T05:44:57.296Z",
+      "alt": "Download Loretta Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7793682d55cc49469f13879ea241460e",
+  "status": "ACTIVE",
+  "creationDate": "2023-01-23T04:04:10.016Z",
+  "lastModifiedDate": "2023-03-01T09:12:21.936Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Loretta_EGS/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Loretta_EGS/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Loretta7ee0R"
+    }
+  },
+  "entitlementName": "9afe62460ec94512b53e7a5909b3f81f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ae154226ef0548b888170908a0d3db84",
+      "appId": "d405138ebb6d4048adaa193901ae6aee",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "DANGEN Entertainment",
+  "developerId": "o-q2thmxrkzmaxl69f7ql8qm65nruu8u",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

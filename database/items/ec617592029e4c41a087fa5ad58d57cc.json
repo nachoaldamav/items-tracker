@@ -1,0 +1,63 @@
+{
+  "id": "ec617592029e4c41a087fa5ad58d57cc",
+  "title": "The Evolving Forest",
+  "description": "The Evolving Forest",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/265c9c9ed2c7405088c2833e22128090/the-evolving-forest-vume4.png",
+      "md5": "0edafdd577b543fe5fac066fe9793620",
+      "width": 2560,
+      "height": 1440,
+      "size": 3290923,
+      "uploadedDate": "2023-05-09T06:41:04.410Z",
+      "alt": "The Evolving Forest Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/265c9c9ed2c7405088c2833e22128090/the-evolving-forest-esies.png",
+      "md5": "f20a992d1b2253547939750287302db9",
+      "width": 1200,
+      "height": 1600,
+      "size": 2557559,
+      "uploadedDate": "2023-05-09T06:41:10.086Z",
+      "alt": "Download The Evolving Forest Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6e80378d8a1444cf94e8221bee233464",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-12T01:53:35.773Z",
+  "lastModifiedDate": "2023-06-12T06:47:24.061Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheEvolvingForest"
+    }
+  },
+  "entitlementName": "ec617592029e4c41a087fa5ad58d57cc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c7e3b1369379467791081d2b8e695964",
+      "appId": "6eeeed68f1bc46449d8584952ba1d36d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Humble Sage Games Pty Ltd",
+  "developerId": "o-tgckyaktabpj3egekq6xpxcu683u5p",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

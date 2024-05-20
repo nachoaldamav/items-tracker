@@ -1,0 +1,65 @@
+{
+  "id": "26b3d59b7acc44a1b765a89841d74636",
+  "title": "Quest Master Demo",
+  "description": "Quest Master Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f3bda9203d904158a4b9f0b32a11f9e8/quest-master-1rusy.png",
+      "md5": "803a371e1d5fe651ffe5c779260115b2",
+      "width": 2560,
+      "height": 1440,
+      "size": 1738660,
+      "uploadedDate": "2023-08-25T22:40:11.743Z",
+      "alt": "Quest Master Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f3bda9203d904158a4b9f0b32a11f9e8/quest-master-1hsay.jpg",
+      "md5": "e8eaa7a6485294c819516c7eb319b1af",
+      "width": 1200,
+      "height": 1600,
+      "size": 974822,
+      "uploadedDate": "2023-08-25T22:39:54.275Z",
+      "alt": "Download Quest Master Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9e2b675e684a484997fa4794a6ede505",
+  "status": "ACTIVE",
+  "creationDate": "2023-08-23T02:59:53.773Z",
+  "lastModifiedDate": "2023-09-07T20:04:24.225Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DemoQuestMaster22297"
+    }
+  },
+  "entitlementName": "26b3d59b7acc44a1b765a89841d74636",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c52b92897e124cf3bb84273e5176dc50",
+      "appId": "1048eae6aa7240adb0818ebfce964c4d",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Apogee Entertainment",
+  "developerId": "o-xh5dj82gy56frdyzfntt85yf5clm2c",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

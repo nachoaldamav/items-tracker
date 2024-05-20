@@ -1,0 +1,72 @@
+{
+  "id": "c5e15fd2da4647d59ab4da31b5777406",
+  "title": "STARS ERA: ABYSS FRONTIER",
+  "description": "STARS ERA: ABYSS FRONTIER is a level-breaking game that combines SLG and rogue elements. Through battles and choices, you can make your team stronger, defeat the twisted monsters and former comrades who have fallen into madness, and gradually move forward. Towards victory.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/28f6246750f74a67ac1186ce5b532de1/stareraabyss-border-ujtyf.png",
+      "md5": "07fa696e48886829cf42a184e024b34f",
+      "width": 2560,
+      "height": 1440,
+      "size": 1989000,
+      "uploadedDate": "2024-02-21T01:57:25.623Z",
+      "alt": "StarEra:Abyss Border Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/28f6246750f74a67ac1186ce5b532de1/stareraabyss-border-158xg.png",
+      "md5": "ca7ecb1e31e8493d1e7ac4bd62040cba",
+      "width": 1200,
+      "height": 1600,
+      "size": 1783497,
+      "uploadedDate": "2023-12-26T08:38:33.949Z",
+      "alt": "Download StarEra:Abyss Border Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b085dfb22bd245798b59eefeb2dead97",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-26T05:36:41.268Z",
+  "lastModifiedDate": "2024-03-15T01:37:23.894Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/MainGame/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ABYSSFRONTIER"
+    }
+  },
+  "entitlementName": "c5e15fd2da4647d59ab4da31b5777406",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a676608afb8843e68486ee4c19faefb8",
+      "appId": "bb4c6cdca3dd4d9b9f85bd64225a057a",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "AnimicGame",
+  "developerId": "o-whsgmj7yct93es5498xunf2bf8nrhz",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,68 @@
+{
+  "id": "28f729652cd141bcb5e0339d62881eb8",
+  "title": "Reef Escape",
+  "description": "Reef Escape",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b8c72e682e6342a997eb664fe1fd8777/reef-escape-el7v3.jpg",
+      "md5": "fa1060a85d4ebd263f97a2f2d4d62028",
+      "width": 2560,
+      "height": 1440,
+      "size": 1023219,
+      "uploadedDate": "2023-10-14T04:09:10.088Z",
+      "alt": "Reef Escape Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b8c72e682e6342a997eb664fe1fd8777/reef-escape-1x2j1.jpg",
+      "md5": "81db716c70474dabf0a90f40afaa5493",
+      "width": 1200,
+      "height": 1600,
+      "size": 1873655,
+      "uploadedDate": "2023-10-12T06:46:33.723Z",
+      "alt": "Download Reef Escape Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7ade7703a409412db76c76d96b1ed225",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-05T05:22:09.347Z",
+  "lastModifiedDate": "2023-12-06T23:02:03.298Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/Reef Escape/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ReefEscapeMDNm5"
+    }
+  },
+  "entitlementName": "28f729652cd141bcb5e0339d62881eb8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4236e40c04f84b1b8ded391b09b4d731",
+      "appId": "630a3cf6111943deb735f6041a9648b0",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "8bit Bosses LLC",
+  "developerId": "o-7sewlzlp8m5jfyuvdhym63wzqa49va",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

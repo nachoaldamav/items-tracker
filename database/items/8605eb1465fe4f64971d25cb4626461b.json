@@ -1,0 +1,62 @@
+{
+  "id": "8605eb1465fe4f64971d25cb4626461b",
+  "title": "Towerful",
+  "description": "Towerful",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4f7ea3b692ce4d86a9519089fcf6d895/towerful-1t7zd.jpg",
+      "md5": "2cde19943c181693a38237c5281daa1a",
+      "width": 2560,
+      "height": 1440,
+      "size": 1181817,
+      "uploadedDate": "2023-07-27T15:22:46.091Z",
+      "alt": "Towerful Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4f7ea3b692ce4d86a9519089fcf6d895/towerful-1e4e5.jpg",
+      "md5": "662c486e3e7b921a59947be169bbabaa",
+      "width": 1200,
+      "height": 1600,
+      "size": 831095,
+      "uploadedDate": "2023-07-27T15:22:48.007Z",
+      "alt": "Download Towerful Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5b453822aeeb42a2a7472eeaadda459a",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-29T03:38:30.706Z",
+  "lastModifiedDate": "2023-07-29T03:38:30.706Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Towerfulsyvsp"
+    }
+  },
+  "entitlementName": "8605eb1465fe4f64971d25cb4626461b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "95c7cb1dd3784672a4f9f3e5c82a11f1",
+      "appId": "c5c90cae3a57481695838533eb771d78",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Bearbones Crew",
+  "developerId": "o-zag4jw84ryky26jswltnbuur4qyvva",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

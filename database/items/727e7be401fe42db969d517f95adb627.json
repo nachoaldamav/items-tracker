@@ -1,0 +1,75 @@
+{
+  "id": "727e7be401fe42db969d517f95adb627",
+  "title": "Astronite",
+  "description": "Astronite",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/275dbc9531164b5f9cb5c419b6b6060d/astronite-yowmc.png",
+      "md5": "78c4f0ae8ba96579b86ff3dcc41e8353",
+      "width": 2560,
+      "height": 1440,
+      "size": 1850895,
+      "uploadedDate": "2023-04-13T07:21:06.870Z",
+      "alt": "Astronite Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/275dbc9531164b5f9cb5c419b6b6060d/astronite-148xc.png",
+      "md5": "6278543a0e457aa96cf76ee361626a2f",
+      "width": 1200,
+      "height": 1600,
+      "size": 1064422,
+      "uploadedDate": "2023-04-13T07:21:03.188Z",
+      "alt": "Download Astronite Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a6f0804f960a472c95e3bae2e0543bb0",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-22T10:15:00.259Z",
+  "lastModifiedDate": "2023-05-22T10:15:00.259Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Astronite/Astronite/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.dat"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AstroniteHpKWz"
+    }
+  },
+  "entitlementName": "727e7be401fe42db969d517f95adb627",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0a8c5585715d42b08c0993730b634dd0",
+      "appId": "ce0d2ff4a3a24df488595585899ad9f3",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "JanduSoft",
+  "developerId": "o-errxej8vbv6kmaybwwydjpv76erx5t",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

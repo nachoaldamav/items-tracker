@@ -1,0 +1,64 @@
+{
+  "id": "4b100293728240718f841164d6855909",
+  "title": "Bezogia",
+  "description": "Bezogia",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b7d5dfb6e9b4428994b898a8c9b14dfb/bezogia-w96dh.png",
+      "md5": "4b42c122c2a05ecbb892f4f0c2e7c14a",
+      "width": 2560,
+      "height": 1440,
+      "size": 3280713,
+      "uploadedDate": "2023-11-09T09:35:50.976Z",
+      "alt": "Bezogia Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b7d5dfb6e9b4428994b898a8c9b14dfb/bezogia-ssg2l.png",
+      "md5": "787956fe30bbedecd00bc74876f877b7",
+      "width": 1200,
+      "height": 1600,
+      "size": 1932593,
+      "uploadedDate": "2023-11-09T09:35:39.820Z",
+      "alt": "Download Bezogia Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9e7863a09f664d5fa0ea38fac753b7da",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-22T06:45:54.999Z",
+  "lastModifiedDate": "2023-12-11T16:01:22.960Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Bezogia"
+    }
+  },
+  "entitlementName": "4b100293728240718f841164d6855909",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3747410238d04bf6ba5168ef05572351",
+      "appId": "a86c971243ee46d793c89a9b46805f63",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Zogi Labs",
+  "developerId": "o-mha8nebcpm5f7a9dlljmedpjdbs89e",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "c821d98b60314c1eb73b993d2cbf5f3a",
+  "title": "Kugle",
+  "description": "Kugle",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/34893839b1b74009a5fc0aa2a2989b96/kugle-1ucig.png",
+      "md5": "5a04164f684e0b33ed65f2808b2c62da",
+      "width": 2560,
+      "height": 1440,
+      "size": 3767204,
+      "uploadedDate": "2023-10-17T12:54:59.272Z",
+      "alt": "Kugle Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/34893839b1b74009a5fc0aa2a2989b96/kugle-17hcd.png",
+      "md5": "ee74a6ec20688c80ec5797aa739d999e",
+      "width": 1200,
+      "height": 1600,
+      "size": 1396697,
+      "uploadedDate": "2023-10-17T13:30:27.457Z",
+      "alt": "Download Kugle Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5b14619578434ff7b6cde619be141d38",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-24T11:33:21.118Z",
+  "lastModifiedDate": "2023-10-29T21:04:30.114Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "KuglekMWkM"
+    }
+  },
+  "entitlementName": "c821d98b60314c1eb73b993d2cbf5f3a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "108ab8651790497984d7f76fc7ca72fc",
+      "appId": "bbbf6313409644b586f2fba27fb29ea7",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Kugle",
+  "developerId": "o-an4mjs55kp6mmkkv8v4jcngyb6r88m",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,64 @@
+{
+  "id": "3b823b658efc4246bdc6d1c8e0ea44f2",
+  "title": "Airport CEO",
+  "description": "Airport CEO",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d6e49ebff91f4719a2f7361cfded642d/airport-ceo-rn8zl.png",
+      "md5": "9aab7136b91f43d15d8e7e440b8fe4c7",
+      "width": 2560,
+      "height": 1440,
+      "size": 596819,
+      "uploadedDate": "2023-07-03T12:30:24.902Z",
+      "alt": "Airport CEO Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d6e49ebff91f4719a2f7361cfded642d/airport-ceo-dyd4a.png",
+      "md5": "e234e2dc558eddfbddb4605519a3cd9b",
+      "width": 1200,
+      "height": 1600,
+      "size": 230914,
+      "uploadedDate": "2023-07-03T12:30:22.551Z",
+      "alt": "Download Airport CEO Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0eb6d6e85bfe442b87cb1172415d35fb",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-19T00:00:08.578Z",
+  "lastModifiedDate": "2023-09-01T12:10:35.792Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "AirportCEO"
+    }
+  },
+  "entitlementName": "3b823b658efc4246bdc6d1c8e0ea44f2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "26910c50e74b48dfa4a718b3e85ff800",
+      "appId": "9c3190f409e3469b891b84988528fabc",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Apog Labs",
+  "developerId": "o-588qxswp5yb7e3jkczepabu9z5knwt",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,64 @@
+{
+  "id": "d1722b40f6ae430699c8e226104dc6ea",
+  "title": "IncrediMarble",
+  "description": "IncrediMarble",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e589aeb8af6945cdba605425267fb086/incredimarble-1fqna.png",
+      "md5": "0507220cb50cfad706746a1aee1f5071",
+      "width": 2560,
+      "height": 1440,
+      "size": 2451644,
+      "uploadedDate": "2023-03-10T00:40:22.369Z",
+      "alt": "IncrediMarble Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e589aeb8af6945cdba605425267fb086/incredimarble-18j5q.png",
+      "md5": "75bf18ce4089527b37eabcf3b73ad036",
+      "width": 1200,
+      "height": 1600,
+      "size": 1147343,
+      "uploadedDate": "2023-03-10T00:41:37.850Z",
+      "alt": "Download IncrediMarble Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "713b2cabb53446a780d078f7af74d27b",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-16T01:21:09.166Z",
+  "lastModifiedDate": "2023-03-16T01:21:09.166Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "IncrediMarble8voJs"
+    }
+  },
+  "entitlementName": "d1722b40f6ae430699c8e226104dc6ea",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2501a4d0e6b049d58b617e5c1038a5df",
+      "appId": "016dda74edcc49a7986df4a6302269e8",
+      "platform": [
+        "Win32",
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Dave Kap",
+  "developerId": "o-2n8g6mj6xxax5grzqk4bnsjbqhx6fm",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,61 @@
+{
+  "id": "02542a6466cf42439c96b97737f739a1",
+  "title": "Inn Keeper",
+  "description": "Basic game",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ad2fec1a65fd4e6d84b91213cc325e02/inn-keeper-8gxsa.jpg",
+      "md5": "025274cd6c2c6c5c4de83af2f80a98c0",
+      "width": 2560,
+      "height": 1440,
+      "size": 177048,
+      "uploadedDate": "2023-04-21T16:14:23.855Z",
+      "alt": "Inn Keeper Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ad2fec1a65fd4e6d84b91213cc325e02/inn-keeper-19w22.jpg",
+      "md5": "6784000f34e0a79664b4581e47852a89",
+      "width": 1200,
+      "height": 1600,
+      "size": 129800,
+      "uploadedDate": "2023-04-21T16:16:04.860Z",
+      "alt": "Download Inn Keeper Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ab72c57fc8ba452eaf3575d1c0f4792b",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-09T16:50:16.069Z",
+  "lastModifiedDate": "2023-12-14T20:28:08.858Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "InnKeeper"
+    }
+  },
+  "entitlementName": "02542a6466cf42439c96b97737f739a1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ad1a744a97e54ad39aff74d7b055c36b",
+      "appId": "00a8d8287427418385605937fa9e9ede",
+      "platform": []
+    }
+  ],
+  "developer": "Venalith",
+  "developerId": "o-23znqdawt7s62mj4lq2pzgc6lvdxe3",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

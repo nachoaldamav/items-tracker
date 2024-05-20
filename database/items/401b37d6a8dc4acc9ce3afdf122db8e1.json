@@ -1,0 +1,63 @@
+{
+  "id": "401b37d6a8dc4acc9ce3afdf122db8e1",
+  "title": "Creepy Tale",
+  "description": "Creepy Tale",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7ec187e6554d4f5f93d8cdf4d922a32c/creepy-tale-1tg96.png",
+      "md5": "7579936c665728685722e52d377a43cf",
+      "width": 2560,
+      "height": 1440,
+      "size": 3002128,
+      "uploadedDate": "2023-09-01T20:01:26.375Z",
+      "alt": "Creepy Tale Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7ec187e6554d4f5f93d8cdf4d922a32c/creepy-tale-9giyr.png",
+      "md5": "aedfe38c0f7c1dfc6354b7917ff14f47",
+      "width": 1200,
+      "height": 1600,
+      "size": 1695362,
+      "uploadedDate": "2023-09-01T20:01:24.158Z",
+      "alt": "Download Creepy Tale Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "aa192fc2c63f4db5b9faf193acc807e1",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-15T15:48:01.596Z",
+  "lastModifiedDate": "2023-10-23T14:37:24.876Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "CreepyTalePPnBD"
+    }
+  },
+  "entitlementName": "401b37d6a8dc4acc9ce3afdf122db8e1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fa13b999ba294dbcb35685778bd61f34",
+      "appId": "ce9e4033bce54de8b3ab48d59be7c911",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Meridian4",
+  "developerId": "o-lk3h3v3ddypmx7zferz37x5l86w54p",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

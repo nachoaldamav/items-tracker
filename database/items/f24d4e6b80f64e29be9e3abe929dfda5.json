@@ -1,0 +1,64 @@
+{
+  "id": "f24d4e6b80f64e29be9e3abe929dfda5",
+  "title": "Arctico",
+  "description": "Arctico",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/08bca321177544deb3267660a719d4b8/arctico-dbe94.png",
+      "md5": "34f6c6660060efce0f3adb00bdbf9422",
+      "width": 2560,
+      "height": 1440,
+      "size": 3534641,
+      "uploadedDate": "2023-03-10T00:16:15.865Z",
+      "alt": "Arctico Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/08bca321177544deb3267660a719d4b8/arctico-t9mac.png",
+      "md5": "cf194de47db1fd30bbb64ee3ff1018c2",
+      "width": 1200,
+      "height": 1600,
+      "size": 1552573,
+      "uploadedDate": "2023-07-17T03:46:54.139Z",
+      "alt": "Download Arctico Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9d56883e7b1a45bca132db9427cf4a22",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-09T19:36:57.767Z",
+  "lastModifiedDate": "2023-07-17T16:28:38.113Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ArcticoaHxYJ"
+    }
+  },
+  "entitlementName": "f24d4e6b80f64e29be9e3abe929dfda5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "523c436469ed49bd967b2b887309451e",
+      "appId": "c5a191d84633494fa6459580060ca42b",
+      "platform": [
+        "Mac",
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Claudio Norori",
+  "developerId": "o-r92gnmpcsbzalp3p99e5k4286ac33k",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,62 @@
+{
+  "id": "6b6e47d361934db6bdfecdb5f9c0005c",
+  "title": "KOKODI",
+  "description": "KOKODI",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ff3bd3fad23b45ffa47360356b540815/kokodi-m31f0.jpg",
+      "md5": "663a6bb7e2d65b9aeea630489a33371c",
+      "width": 2560,
+      "height": 1440,
+      "size": 1113664,
+      "uploadedDate": "2023-12-03T13:06:58.176Z",
+      "alt": "KOKODI Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ff3bd3fad23b45ffa47360356b540815/kokodi-zgu3c.png",
+      "md5": "1f1c8dc6c108992475e6005afb3bd00a",
+      "width": 1200,
+      "height": 1600,
+      "size": 2953028,
+      "uploadedDate": "2023-12-08T06:18:21.032Z",
+      "alt": "Download KOKODI Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2d89fb7420d8473fa28de88efc7d2f99",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-11T04:41:27.685Z",
+  "lastModifiedDate": "2023-12-08T22:40:27.623Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "KOKODIQE5Ns"
+    }
+  },
+  "entitlementName": "6b6e47d361934db6bdfecdb5f9c0005c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b88ab05e6f6447518bc2a0f1946d8954",
+      "appId": "4e994f687c4e44918313fe1637737586",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "KOKODI inc",
+  "developerId": "o-gq55pyauzlyb35k9neyerrelj5rmx5",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

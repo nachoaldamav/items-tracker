@@ -1,0 +1,71 @@
+{
+  "id": "5f6439878b3e4d879fcdd511664c2faf",
+  "title": "Retro Commander",
+  "description": "Retro Commander",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/100885a7e8e3483fa4ca4222f49ae2ca/retro-commander-1uvw4.jpg",
+      "md5": "1b0271e22c97f7870b425c45bfac0986",
+      "width": 2560,
+      "height": 1440,
+      "size": 605125,
+      "uploadedDate": "2024-01-15T16:25:19.364Z",
+      "alt": "Retro Commander Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/100885a7e8e3483fa4ca4222f49ae2ca/retro-commander-mqsk5.jpg",
+      "md5": "c9486481e13f63f5b176f91e00514940",
+      "width": 1200,
+      "height": 1600,
+      "size": 370502,
+      "uploadedDate": "2024-01-15T16:26:41.799Z",
+      "alt": "Download Retro Commander Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1e822fc232ef4a4a8bff9afdf5284cba",
+  "status": "ACTIVE",
+  "creationDate": "2024-01-04T20:11:30.988Z",
+  "lastModifiedDate": "2024-04-21T08:32:21.088Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/user/sav/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RetroCommander"
+    }
+  },
+  "entitlementName": "5f6439878b3e4d879fcdd511664c2faf",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "35b58429075e48b6969ea2c3e38f648e",
+      "appId": "b045785246914cf1a6e6df8988204b85",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "noblemaster",
+  "developerId": "o-uamw4geld4z89zxjexbr6d7c9lqfjj",
+  "endOfSupport": false,
+  "applicationId": "fghi4567fKyWl3k9tnYCOlKrphdS7PCB",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

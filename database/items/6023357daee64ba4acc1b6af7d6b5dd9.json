@@ -1,0 +1,63 @@
+{
+  "id": "6023357daee64ba4acc1b6af7d6b5dd9",
+  "title": "ANVIL",
+  "description": "ANVIL",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c8af797014cf4214a4dd6d978ef25fe4/anvil-68fsu.jpg",
+      "md5": "b8632a87f5545aaae3e5e5e504e18fe7",
+      "width": 2560,
+      "height": 1440,
+      "size": 743782,
+      "uploadedDate": "2023-07-05T07:05:10.684Z",
+      "alt": "ANVIL Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c8af797014cf4214a4dd6d978ef25fe4/anvil-1n3mf.png",
+      "md5": "2dbab8dcadca97b4e3f5c4f2190b4f8c",
+      "width": 1200,
+      "height": 1600,
+      "size": 2848614,
+      "uploadedDate": "2023-07-05T07:14:49.653Z",
+      "alt": "Download ANVIL Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "45b0d6c6f02f4a9d885d8bbe10a442a7",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-24T07:21:03.798Z",
+  "lastModifiedDate": "2023-07-24T07:21:03.798Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ANVIL"
+    }
+  },
+  "entitlementName": "6023357daee64ba4acc1b6af7d6b5dd9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "006a74cf38054a02a6ceeabe2ebc2816",
+      "appId": "b0fd1012c3d146b8b3b693a8eed3ed68",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Action Square Co., Ltd.",
+  "developerId": "o-zl98b2k4d6h6qg4kh8q5ru29dfa8jb",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

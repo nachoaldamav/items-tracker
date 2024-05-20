@@ -1,0 +1,63 @@
+{
+  "id": "ba3fd63072ec46429c8eb0767c02b046",
+  "title": "Police Car Simulator",
+  "description": "Police Car Simulator",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/148bfe5eb56b408181bd33bb08b48a11/police-car-simulator-1wz9e.png",
+      "md5": "6ea19c1f17e38354e9e0938d3d559a19",
+      "width": 2560,
+      "height": 1440,
+      "size": 1465529,
+      "uploadedDate": "2023-08-09T18:32:47.237Z",
+      "alt": "Police Car Simulator Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/148bfe5eb56b408181bd33bb08b48a11/police-car-simulator-pys3l.png",
+      "md5": "2ccd0291aaf996d10efcf7e0c6af318c",
+      "width": 1200,
+      "height": 1600,
+      "size": 2292697,
+      "uploadedDate": "2023-08-09T18:32:46.159Z",
+      "alt": "Download Police Car Simulator Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ec8a01641ab7453d9abae814727d5171",
+  "status": "ACTIVE",
+  "creationDate": "2023-08-17T15:56:46.812Z",
+  "lastModifiedDate": "2023-08-17T15:56:46.812Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "PoliceCarSimulatorNUWP1"
+    }
+  },
+  "entitlementName": "ba3fd63072ec46429c8eb0767c02b046",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "629938933977400b8ec2fd6568e793da",
+      "appId": "3365f986456f448ebdf94dae4eecefe0",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Inspector Studios",
+  "developerId": "o-bhbt8vdvsqad3nvby29xmmwltyuex5",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "5e69438dbe794088b3308333f6ba57da",
+  "title": "Image Demo",
+  "description": "Image Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/80b78d4b91b242bc8d6cdca8cd9a5129/image-z6axe.jpg",
+      "md5": "ae844900742975af20bc52547b234915",
+      "width": 2560,
+      "height": 1440,
+      "size": 226632,
+      "uploadedDate": "2024-01-08T15:49:02.169Z",
+      "alt": "Image Image Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/80b78d4b91b242bc8d6cdca8cd9a5129/image-pqqf7.jpg",
+      "md5": "66c5c5f1f66d7f100f030bbd0b000d97",
+      "width": 1200,
+      "height": 1600,
+      "size": 145098,
+      "uploadedDate": "2024-01-08T15:59:35.252Z",
+      "alt": "Download Image Image Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ad111036e70f4cf59259c6976a9b7173",
+  "status": "ACTIVE",
+  "creationDate": "2024-01-06T14:57:19.884Z",
+  "lastModifiedDate": "2024-02-20T06:00:08.321Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ImageDemo"
+    }
+  },
+  "entitlementName": "5e69438dbe794088b3308333f6ba57da",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ceff8f745a2e463ea841331f89d4f684",
+      "appId": "51edb0a0c17d46a8b850f896cc35524b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Galactic Games",
+  "developerId": "o-fa87xedapz56rbay3n97ndnk74luel",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,64 @@
+{
+  "id": "0b1b9bb38d7e45a4815d04330a11d736",
+  "title": "NineNoirLives",
+  "description": "NineNoirLives",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2ee0c36dbf084219bb314d5b22fb4b53/nine-noir-lives-offer-1qv64.png",
+      "md5": "84bfd89e5652b199fe8bcfbe1d7f5fb5",
+      "width": 2560,
+      "height": 1440,
+      "size": 3942898,
+      "uploadedDate": "2022-08-21T16:33:29.517Z",
+      "alt": "Nine Noir Lives Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2ee0c36dbf084219bb314d5b22fb4b53/download-nine-noir-lives-offer-ydjp0.jpg",
+      "md5": "c788c5ba7756eaafe593a2fa21171310",
+      "width": 1200,
+      "height": 1600,
+      "size": 204498,
+      "uploadedDate": "2022-08-21T16:29:40.339Z",
+      "alt": "Download Nine Noir Lives Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3fbf0de441534808846c545ddf42252c",
+  "status": "ACTIVE",
+  "creationDate": "2022-08-17T15:35:50.984Z",
+  "lastModifiedDate": "2022-09-05T11:09:05.687Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "NineNoirLivesZbVIz"
+    }
+  },
+  "entitlementName": "0b1b9bb38d7e45a4815d04330a11d736",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "68f0bff6d7fa4ad8b1ef840441351731",
+      "appId": "ec0756db8d974c0d98fafc1826291876",
+      "platform": [
+        "Windows",
+        "Win32",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Silvernode Games",
+  "developerId": "o-amj5xhjxyex89gdn4lcknemcv9yt97",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

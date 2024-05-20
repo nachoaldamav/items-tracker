@@ -1,0 +1,63 @@
+{
+  "id": "86b5467552744b00977f859e43e41023",
+  "title": "Rising Mist",
+  "description": "Rising Mist",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/784a8f133c5e4dd89fd6c2eaf4abb4c1/rising-mist-169l5.jpg",
+      "md5": "d4152641bcaa017214e8417b50e4e0d6",
+      "width": 2560,
+      "height": 1440,
+      "size": 1351874,
+      "uploadedDate": "2023-05-18T09:04:20.268Z",
+      "alt": "Rising Mist Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/784a8f133c5e4dd89fd6c2eaf4abb4c1/rising-mist-vfax8.jpg",
+      "md5": "ea97b134d9a594d802ea48d0d0b75208",
+      "width": 1200,
+      "height": 1600,
+      "size": 1105555,
+      "uploadedDate": "2023-05-18T09:04:19.764Z",
+      "alt": "Download Rising Mist Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "18b76f5ff8004856a2d1e2e206b01445",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-15T12:44:15.454Z",
+  "lastModifiedDate": "2023-11-09T16:26:06.867Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "RisingMist"
+    }
+  },
+  "entitlementName": "86b5467552744b00977f859e43e41023",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "794bf370b15a483cbb276fd7c79dbd7d",
+      "appId": "e366535a8412473b93bbba94992ace3f",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "WASD Games",
+  "developerId": "o-yzdx7qa8sxvlklgrpa2ehhptrnvs7a",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

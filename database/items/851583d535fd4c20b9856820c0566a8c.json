@@ -1,0 +1,75 @@
+{
+  "id": "851583d535fd4c20b9856820c0566a8c",
+  "title": "Shadow Gambit: The Cursed Crew - Demo",
+  "description": "Welcome to the Lost Caribbean! In this stealth strategy game, join a ghost ship with a living soul and assemble a cursed pirate crew. Embrace magical powers to defy the menacing Inquisition, who stands between you and the mysterious treasure of the legendary Captain Mordechai.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/04fe02862c1b48aea2d2f79d9e3eff47/shadow-gambit--the-cursed-crew-lav8u.jpg",
+      "md5": "3cf6067f7f73f390f09a003a52cbb486",
+      "width": 2560,
+      "height": 1440,
+      "size": 971518,
+      "uploadedDate": "2023-06-14T08:40:33.519Z",
+      "alt": "Shadow Gambit - The Cursed Crew Shadow Gambit: The Cursed Crew - Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/04fe02862c1b48aea2d2f79d9e3eff47/shadow-gambit--the-cursed-crew-60yu7.jpg",
+      "md5": "6586a5ae17185d7df2ab0b0a73eacd74",
+      "width": 1200,
+      "height": 1600,
+      "size": 777902,
+      "uploadedDate": "2023-06-14T08:40:34.028Z",
+      "alt": "Download Shadow Gambit - The Cursed Crew Shadow Gambit: The Cursed Crew - Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "42b8b899a3f349bd8376264ccee3cd2a",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-12T13:27:21.329Z",
+  "lastModifiedDate": "2023-12-06T16:25:38.739Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/ShadowGambit_TCC_Demo/user_eos_{EpicID}/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/ShadowGambit_TCC_Demo/user_eos_{EpicID}/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "audioSettings.save,devSettings.save,videoSettings.save,i_am_a_pirate"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ShadowGambit_TCC_Demo"
+    }
+  },
+  "entitlementName": "851583d535fd4c20b9856820c0566a8c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2ffdebd2b19c4241b6f244ad9df14365",
+      "appId": "a16e7a361bf94f84aa558f5806b0bfef",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Mimimi Games GmbH",
+  "developerId": "o-448ug6yf46mtyrujc4x2qup7nqfsge",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

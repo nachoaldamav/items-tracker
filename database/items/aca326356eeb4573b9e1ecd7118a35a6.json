@@ -1,0 +1,62 @@
+{
+  "id": "aca326356eeb4573b9e1ecd7118a35a6",
+  "title": "King of Retail",
+  "description": "King of Retail",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b287f9c20bff4af4b0cab0d242500eda/king-of-retail-offer-e7ft1.png",
+      "md5": "76144fc956afab6ff8432f6aab81930e",
+      "width": 2560,
+      "height": 1440,
+      "size": 2521710,
+      "uploadedDate": "2022-04-27T12:09:44.425Z",
+      "alt": "King of Retail Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b287f9c20bff4af4b0cab0d242500eda/download-king-of-retail-offer-1o25t.png",
+      "md5": "a853e00b04152da8702b8198ab219273",
+      "width": 1200,
+      "height": 1600,
+      "size": 1443331,
+      "uploadedDate": "2022-04-27T12:09:43.989Z",
+      "alt": "Download King of Retail Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "695337c5e45f4fe69d68f5593197a41e",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-09T15:58:45.994Z",
+  "lastModifiedDate": "2022-09-09T15:58:45.994Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "KingofRetailsQxTp"
+    }
+  },
+  "entitlementName": "aca326356eeb4573b9e1ecd7118a35a6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "312dc7d746ce4166acbda634cd6c3b1e",
+      "appId": "099862f548a046d5acca4956e8e9f34c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Iceberg Interactive",
+  "developerId": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

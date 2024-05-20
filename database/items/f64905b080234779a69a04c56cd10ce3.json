@@ -1,0 +1,64 @@
+{
+  "id": "f64905b080234779a69a04c56cd10ce3",
+  "title": "Brawlers",
+  "description": "Brawlers",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9cf2db1d2cdb466ba0d7bdd95c9fd897/brawlers-1ywia.jpg",
+      "md5": "0f31b882eebe3f47c2068a1468230d40",
+      "width": 2560,
+      "height": 1440,
+      "size": 2478636,
+      "uploadedDate": "2023-08-30T18:11:57.030Z",
+      "alt": "Brawlers Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9cf2db1d2cdb466ba0d7bdd95c9fd897/brawlers-1d2w0.jpg",
+      "md5": "be7550405572f16c499039fa70a224eb",
+      "width": 1200,
+      "height": 1600,
+      "size": 1284600,
+      "uploadedDate": "2023-08-30T18:11:56.185Z",
+      "alt": "Download Brawlers Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "03daf1d62b1b42c0a2a5168d91cb61b2",
+  "status": "ACTIVE",
+  "creationDate": "2023-08-16T18:41:25.973Z",
+  "lastModifiedDate": "2023-10-17T10:15:22.866Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Brawlers"
+    }
+  },
+  "entitlementName": "f64905b080234779a69a04c56cd10ce3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6aa5a039baee4045a47adad45c5f1704",
+      "appId": "09ab8ed0538e4c4b9b42c5f9ba7f18c8",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Griver Holdings Ltd.",
+  "developerId": "o-l7dnjtzsbeg9d5kd2h3vp67ck3g4jh",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

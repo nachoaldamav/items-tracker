@@ -1,0 +1,90 @@
+{
+  "id": "7c288902f9ec455c8816a3111fc3a530",
+  "title": "Runbow",
+  "description": "Runbow",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/c4dde13fcdea4aaa84dabb303006a870/runbow-offer-v8wvy.png",
+      "md5": "198dbb5cdb505eb19f83a07112c686cc",
+      "width": 2560,
+      "height": 1440,
+      "size": 919852,
+      "uploadedDate": "2022-07-19T14:15:17.455Z",
+      "alt": "Runbow Offer"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c4dde13fcdea4aaa84dabb303006a870/download-runbow-offer-6amjn.png",
+      "md5": "db7212a4e623e49023d74dbdb0f347e2",
+      "width": 1200,
+      "height": 1600,
+      "size": 427766,
+      "uploadedDate": "2022-07-19T14:15:36.118Z",
+      "alt": "Download Runbow Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c4dde13fcdea4aaa84dabb303006a870/runbow-offer-gkfcs.png",
+      "md5": "198dbb5cdb505eb19f83a07112c686cc",
+      "width": 2560,
+      "height": 1440,
+      "size": 919852,
+      "uploadedDate": "2022-07-19T14:15:38.899Z",
+      "alt": "Runbow Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c4dde13fcdea4aaa84dabb303006a870/download-runbow-offer-16zfz.png",
+      "md5": "db7212a4e623e49023d74dbdb0f347e2",
+      "width": 1200,
+      "height": 1600,
+      "size": 427766,
+      "uploadedDate": "2022-07-19T14:15:40.479Z",
+      "alt": "Download Runbow Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "aa7c3e6b5a2a4ca8962270c15bddb861",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-21T21:14:45.745Z",
+  "lastModifiedDate": "2022-10-03T22:37:35.125Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/13AM Games/Runbow/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Runbow"
+    }
+  },
+  "entitlementName": "7c288902f9ec455c8816a3111fc3a530",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7e80425bc21d4169be9768588eb12cd7",
+      "appId": "85efb11aaeec4239989113f9a598b372",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "13AM Games",
+  "developerId": "o-pnuulzlud57lxukjrj4nzg3yz6tw7a",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi45670Xa9xAdqZLaVkhV7bids7scb",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

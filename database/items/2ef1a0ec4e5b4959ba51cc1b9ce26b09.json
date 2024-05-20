@@ -1,0 +1,75 @@
+{
+  "id": "2ef1a0ec4e5b4959ba51cc1b9ce26b09",
+  "title": "Ocean's Heart",
+  "description": "Ocean's Heart",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b732841c9b9e44da9106384e50aa518a/oceans-heart-1d4tm.png",
+      "md5": "43087487b4ad725a026a75b1d0d2ecf6",
+      "width": 2560,
+      "height": 1440,
+      "size": 2405387,
+      "uploadedDate": "2023-07-04T07:42:11.341Z",
+      "alt": "Ocean's Heart Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b732841c9b9e44da9106384e50aa518a/oceans-heart-1pzzs.png",
+      "md5": "23d3b7bad4b2ccb42818b294b7efbb38",
+      "width": 1200,
+      "height": 1600,
+      "size": 453573,
+      "uploadedDate": "2023-07-20T05:59:20.611Z",
+      "alt": "Download Ocean's Heart Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ab65f37619d340748fafdccfead657f1",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-25T12:00:19.803Z",
+  "lastModifiedDate": "2023-10-25T12:00:19.803Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/OceansHeart/oceans_heart_saves/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "25000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OceansHeart"
+    }
+  },
+  "entitlementName": "2ef1a0ec4e5b4959ba51cc1b9ce26b09",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4f76b8f160d445728ba6b8180328121d",
+      "appId": "f5634f8aacc94c60838dfdac5fe3c7b8",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2023-09-05T15:50:22.460Z"
+    }
+  ],
+  "developer": "UAB Nordcurrent Group",
+  "developerId": "o-q6cdbfpcbjub728pzlab6wedbt6btq",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

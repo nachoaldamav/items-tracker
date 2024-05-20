@@ -1,0 +1,63 @@
+{
+  "id": "ccf5e74afc0e446a92b7b7776a5a6acc",
+  "title": "Horror Ken",
+  "description": "Horror Ken",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d9770ec28dd44e2092a26a3c14d549d7/test1-qtu76.png",
+      "md5": "21cea154cb041ef2a2cccdd5b9d86fcb",
+      "width": 2560,
+      "height": 1440,
+      "size": 3303023,
+      "uploadedDate": "2023-08-14T03:00:40.009Z",
+      "alt": "test1 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d9770ec28dd44e2092a26a3c14d549d7/test1-14wmv.png",
+      "md5": "11f78f5bd0da5bae95237d851b834943",
+      "width": 1200,
+      "height": 1600,
+      "size": 1560290,
+      "uploadedDate": "2023-08-14T03:00:37.226Z",
+      "alt": "Download test1 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4f747a5a195749208333282fa8ec4d80",
+  "status": "ACTIVE",
+  "creationDate": "2023-08-11T07:42:38.159Z",
+  "lastModifiedDate": "2023-11-24T00:54:50.764Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "HorrorKen"
+    }
+  },
+  "entitlementName": "ccf5e74afc0e446a92b7b7776a5a6acc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b1c7e936688a494aafbe6234dc34b6ea",
+      "appId": "02d5188068354053b5266ae387984ab9",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Takahasi",
+  "developerId": "o-y4wnp7b3s4upbepr9fzcy8wj9bgpvp",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

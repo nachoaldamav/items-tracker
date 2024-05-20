@@ -1,0 +1,80 @@
+{
+  "id": "b60ebfbba6a040f39a0a51ba4a07414b",
+  "title": "Love Is All Around",
+  "description": "The player becomes Gu Yi, uses the first-person perspective to immerse himself in meeting six beauties, and embarks on a joyful and sweet love journey with them. Which girl will go to the end with you is up to you to decide.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6bcc069916da4c05b26731a462c2264e/love-is-all-around-p4yj5.jpg",
+      "md5": "94cacf4d76ddce6bb23cf4ff869dfe74",
+      "width": 2560,
+      "height": 1440,
+      "size": 2721962,
+      "uploadedDate": "2023-08-07T06:13:24.188Z",
+      "alt": "Love Is All Around Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6bcc069916da4c05b26731a462c2264e/love-is-all-around-1qp4x.png",
+      "md5": "3d846d8c85bb5730aba172f992d2f00c",
+      "width": 1200,
+      "height": 1600,
+      "size": 2029926,
+      "uploadedDate": "2023-10-17T03:50:51.883Z",
+      "alt": "Download Love Is All Around Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b7cca975adbf41e4a41f3ece9e61e08a",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-23T03:16:31.722Z",
+  "lastModifiedDate": "2024-01-26T01:51:10.019Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/com.yoogames-hd1-epic.LoveIsAllAround/SavesDir/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/yoogames-hd1-epic/LoveIsAllAround/SavesDir/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "playerdb.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LoveIsAllAroundlSFZ2"
+    }
+  },
+  "entitlementName": "b60ebfbba6a040f39a0a51ba4a07414b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e79aa4c1af324079b3444a1c7d8f49f7",
+      "appId": "42d6bd0b02ac4487bd5dfb245364d3ea",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "intiny",
+  "developerId": "o-h2ldb7tgqpuqpq9wak7mf23jmwqs3e",
+  "endOfSupport": false,
+  "applicationId": "fghi45677wow6LYTIvksdXyGDLF0keXr",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

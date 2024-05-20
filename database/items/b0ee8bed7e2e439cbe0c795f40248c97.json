@@ -1,0 +1,63 @@
+{
+  "id": "b0ee8bed7e2e439cbe0c795f40248c97",
+  "title": "Banished",
+  "description": "Banished",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/cbeeb31970d140dc9b4c70ed8a277234/banished-offer-k7xid.jpg",
+      "md5": "32bfa6cf429991651f8d7e87d2644fb0",
+      "width": 2560,
+      "height": 1440,
+      "size": 1610439,
+      "uploadedDate": "2022-09-13T20:25:18.385Z",
+      "alt": "Banished Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/cbeeb31970d140dc9b4c70ed8a277234/download-banished-offer-1ltqw.jpg",
+      "md5": "b3f9d89ebfc8e711448d696340bd34cb",
+      "width": 1200,
+      "height": 1600,
+      "size": 756832,
+      "uploadedDate": "2022-09-13T20:25:20.002Z",
+      "alt": "Download Banished Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "196202dd9d8f453bb50ceea83a759840",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-15T18:21:06.482Z",
+  "lastModifiedDate": "2022-09-15T18:21:06.482Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Banished"
+    }
+  },
+  "entitlementName": "b0ee8bed7e2e439cbe0c795f40248c97",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "54c8498c85b7415bb3065bd387c2ba05",
+      "appId": "c00f47d2a58349918bca5f1f5fafa639",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Shining Rock Software",
+  "developerId": "o-cyt7tbbmlappe2at78gx4er397awye",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

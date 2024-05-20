@@ -1,0 +1,63 @@
+{
+  "id": "c1c28f5089dd4687b79df4858f5c608b",
+  "title": "Title_Pending Demo",
+  "description": "Title_Pending Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0f86a191099f44498e7a5861bd1dbbd8/title_pending-w2sz5.png",
+      "md5": "85c68d057808d0ae4980b2514f9e8822",
+      "width": 2560,
+      "height": 1440,
+      "size": 1841503,
+      "uploadedDate": "2024-01-13T21:58:43.799Z",
+      "alt": "Title_Pending Title_Pending Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0f86a191099f44498e7a5861bd1dbbd8/title_pending-19fl8.png",
+      "md5": "dce3db48e2a9275d0a7fe1a8d231ae4e",
+      "width": 1200,
+      "height": 1600,
+      "size": 574771,
+      "uploadedDate": "2024-01-13T21:58:43.417Z",
+      "alt": "Download Title_Pending Title_Pending Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a9b4829f53a54f098c57c87bd1ff791e",
+  "status": "ACTIVE",
+  "creationDate": "2024-01-11T23:17:41.685Z",
+  "lastModifiedDate": "2024-01-18T17:08:09.917Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TitlePendingDemo"
+    }
+  },
+  "entitlementName": "c1c28f5089dd4687b79df4858f5c608b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7d876029d68d4dc3ab2d9b8374b25f22",
+      "appId": "6c553316275542ad9eab791c233f2240",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "DEVBEEF",
+  "developerId": "o-e9tgebs6yt2tpyruhtd3mta3cp6w9t",
+  "endOfSupport": false,
+  "applicationId": "fghi45677zvc56RkOUgs9Hx7CH775wJU",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

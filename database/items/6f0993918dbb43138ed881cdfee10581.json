@@ -1,0 +1,71 @@
+{
+  "id": "6f0993918dbb43138ed881cdfee10581",
+  "title": "Tiki Tandems",
+  "description": "Tiki Tandems",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/db656cbd9a9f4130a88818a566881ddf/tiki-tandems-cf4lt.png",
+      "md5": "ca880874e912a771d4a871227c57a848",
+      "width": 2560,
+      "height": 1440,
+      "size": 3282267,
+      "uploadedDate": "2023-08-31T14:32:59.143Z",
+      "alt": "Tiki Tandems Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/db656cbd9a9f4130a88818a566881ddf/tiki-tandems-pwdtm.png",
+      "md5": "d680de94bb0ece54734f9b761b1a41e2",
+      "width": 1200,
+      "height": 1600,
+      "size": 1942644,
+      "uploadedDate": "2023-08-31T14:32:51.706Z",
+      "alt": "Download Tiki Tandems Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b40c9a6594ec42518376f7899c4daa22",
+  "status": "ACTIVE",
+  "creationDate": "2023-08-15T15:10:58.562Z",
+  "lastModifiedDate": "2023-11-09T11:18:35.925Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/TikiTandems/Saved/SavedGame/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TikiTandems"
+    }
+  },
+  "entitlementName": "6f0993918dbb43138ed881cdfee10581",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bcc0903fe6604b3fbdc58ca4a1d0c900",
+      "appId": "919d1a084b9540d99a91fddef845104a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "M3DS Store",
+  "developerId": "o-hzcp89kzp7wdt8s43as3dg643fbtv7",
+  "endOfSupport": false,
+  "applicationId": "fghi4567ERVR0tkh6u6QFpwTS5qgv7FL",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

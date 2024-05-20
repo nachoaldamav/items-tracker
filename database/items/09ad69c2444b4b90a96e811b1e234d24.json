@@ -1,0 +1,71 @@
+{
+  "id": "09ad69c2444b4b90a96e811b1e234d24",
+  "title": "Guacamelee! 2",
+  "description": "Head back to the Mexiverse in this long-awaited sequel to the smash hit Guacamelee! Uppercut your way to victory across stunning new hand-crafted levels. Featuring a dense and colorful world, new luchador moves, sassy new bosses, twice the enemies, and 300% more chickens!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b05acd7d28d34f6d93a961b0e53ddf0b/guacamelee-2-1a7v4.jpg",
+      "md5": "2f200cafdf8b07b442f2340838775c26",
+      "width": 2560,
+      "height": 1440,
+      "size": 750152,
+      "uploadedDate": "2023-01-31T19:54:48.425Z",
+      "alt": "Guacamelee 2 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b05acd7d28d34f6d93a961b0e53ddf0b/guacamelee-2-pqvnf.jpg",
+      "md5": "eaf72e27b10678f6d5895822b52d50be",
+      "width": 1200,
+      "height": 1600,
+      "size": 505667,
+      "uploadedDate": "2023-01-31T18:55:28.172Z",
+      "alt": "Download Guacamelee 2 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "277e364d24ec43069f4ee3c4414d5096",
+  "status": "ACTIVE",
+  "creationDate": "2022-12-20T15:12:05.592Z",
+  "lastModifiedDate": "2023-07-05T14:19:20.541Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserDir}/Guacamelee2_EGS/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/Guacamelee2_EGS/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Guacamelee2"
+    }
+  },
+  "entitlementName": "09ad69c2444b4b90a96e811b1e234d24",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "96666e404b0941adae74ca11a02c7fab",
+      "appId": "fab83c3bf3d449718e042d44369e7fb6",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Drinkbox Studios Inc.",
+  "developerId": "o-bpuchurz6ebbygak6r2cksb2yk6dxt",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,71 @@
+{
+  "id": "400bdeae771149c9b3fe19d927019f69",
+  "title": "LOVE",
+  "description": "LOVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d4c3a9a3058c471fb5e18af6908f28f0/love-1ca0e.png",
+      "md5": "416bdaa7621430a69afd390604bd668a",
+      "width": 2560,
+      "height": 1440,
+      "size": 1755000,
+      "uploadedDate": "2023-05-23T17:20:12.022Z",
+      "alt": "LOVE Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d4c3a9a3058c471fb5e18af6908f28f0/love-cenkf.png",
+      "md5": "8c34c790263233b7ec3794704372089b",
+      "width": 1200,
+      "height": 1600,
+      "size": 981717,
+      "uploadedDate": "2023-05-23T17:20:11.782Z",
+      "alt": "Download LOVE Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6a04125b9d884151868aa2c56e84dc11",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-08T17:54:34.027Z",
+  "lastModifiedDate": "2024-01-19T15:50:40.708Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/LOVE_2020/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "lovesav.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LOVE"
+    }
+  },
+  "entitlementName": "400bdeae771149c9b3fe19d927019f69",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "00db811432c2461cb2549943342fe18e",
+      "appId": "f99d3d6da3454662913621222037417d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Mokuzai Studio LLC",
+  "developerId": "o-x2mwm75p7ncfq7bffv96p25b4836yj",
+  "endOfSupport": false,
+  "applicationId": "fghi4567uEeRkuwP5QhWVdr0lJ6GzweK",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

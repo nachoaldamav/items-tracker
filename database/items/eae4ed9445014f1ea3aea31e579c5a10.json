@@ -1,0 +1,72 @@
+{
+  "id": "eae4ed9445014f1ea3aea31e579c5a10",
+  "title": "Eternal Damnation",
+  "description": "Eternal Damnation",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7b7b90645a7542458ed6762c961d7746/eternal-damnation-qdklh.png",
+      "md5": "2d5218c57cf8a983833f5ae088a10093",
+      "width": 2560,
+      "height": 1440,
+      "size": 3977915,
+      "uploadedDate": "2023-08-22T21:39:59.095Z",
+      "alt": "Eternal Damnation Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7b7b90645a7542458ed6762c961d7746/eternal-damnation-3td2s.png",
+      "md5": "438cc85b1175907555d341c2e5de0e82",
+      "width": 1200,
+      "height": 1600,
+      "size": 2149295,
+      "uploadedDate": "2023-08-22T21:40:01.981Z",
+      "alt": "Download Eternal Damnation Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f804fcc3063f467699936dbd544d9e9a",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-18T11:06:55.063Z",
+  "lastModifiedDate": "2023-09-18T11:06:55.063Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/EternalDamnation/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "500"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EternalDamnation"
+    }
+  },
+  "entitlementName": "eae4ed9445014f1ea3aea31e579c5a10",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b3dcb7ee099e4ef3a49f7239b2374530",
+      "appId": "d2c8a5da462b4cdb82e25af390a9ddf8",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "SD GAMES",
+  "developerId": "o-wbwp2l8q9tybap6xpygm6xwfg57dat",
+  "endOfSupport": false,
+  "applicationId": "fghi45671Xlo0t5lWGuaeC8FUxYH3ZMA",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

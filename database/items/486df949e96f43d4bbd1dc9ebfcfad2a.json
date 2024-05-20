@@ -1,0 +1,75 @@
+{
+  "id": "486df949e96f43d4bbd1dc9ebfcfad2a",
+  "title": "OverDrift Festival",
+  "description": "OverDrift Festival",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3a11ae365862404ab36914dbbbdb147f/overdrift-festival-l1ahk.png",
+      "md5": "54f094cd23942ac0cba703245cc3a2c8",
+      "width": 2560,
+      "height": 1440,
+      "size": 3531086,
+      "uploadedDate": "2023-11-24T14:55:13.397Z",
+      "alt": "OverDrift Festival Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3a11ae365862404ab36914dbbbdb147f/overdrift-festival-16008.png",
+      "md5": "6b580e5dc49e21e30e04caf0c6cb1d15",
+      "width": 1200,
+      "height": 1600,
+      "size": 2346374,
+      "uploadedDate": "2023-11-24T14:55:04.671Z",
+      "alt": "Download OverDrift Festival Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "607b4b770360431eae1b003047ac0d64",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-14T07:06:41.421Z",
+  "lastModifiedDate": "2024-01-03T16:49:26.099Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/OverDrift/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Profile.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OverDriftFestivalGame"
+    }
+  },
+  "entitlementName": "486df949e96f43d4bbd1dc9ebfcfad2a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "41305fbff17a4338b386fac19914032c",
+      "appId": "0a10d69e2d0040e18182877b2000c77e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "IP Ulyanov Anton Pavlovich",
+  "developerId": "o-aa9c35z27aj8z4tqb3mdcdgk5zthgk",
+  "endOfSupport": false,
+  "applicationId": "fghi4567DskWlpTOojkFA3RYKTbYw6DA",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

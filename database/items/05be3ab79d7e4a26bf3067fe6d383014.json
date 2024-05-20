@@ -1,0 +1,73 @@
+{
+  "id": "05be3ab79d7e4a26bf3067fe6d383014",
+  "title": "Vagrus - The Riven Realms",
+  "description": "Vagrus - The Riven Realms",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c97e0e794e5f4aeba4b670c16125124a/vagrus--the-riven-realms-yzkz8.jpg",
+      "md5": "12e55f7f19a594fe7636b865226003b3",
+      "width": 2560,
+      "height": 1440,
+      "size": 559297,
+      "uploadedDate": "2024-01-12T13:05:45.106Z",
+      "alt": "Vagrus - The Riven Realms Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c97e0e794e5f4aeba4b670c16125124a/vagrus--the-riven-realms-1uh7v.jpg",
+      "md5": "c3f9ac51ebc9342a49b1b1a19b7384a0",
+      "width": 1200,
+      "height": 1600,
+      "size": 306857,
+      "uploadedDate": "2024-01-12T13:05:29.114Z",
+      "alt": "Download Vagrus - The Riven Realms Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9de65f6db18c4757a84e639d9a3e5a97",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-09T14:43:33.996Z",
+  "lastModifiedDate": "2024-04-11T07:43:44.870Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/com.LostPilgrimsStudio.Vagrus/Vanilla/SaveGame/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Lost Pilgrims Studio/Vagrus/Data/Vanilla/SaveGame/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "VagrusTheRivenRealms"
+    }
+  },
+  "entitlementName": "05be3ab79d7e4a26bf3067fe6d383014",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "30cc35556aef432bbca96190967c06a9",
+      "appId": "70d5a4a177d143349a88bac3fbc67464",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Last Pillars Development LLC.",
+  "developerId": "o-zvrv6zkq9tscmb9lcblg6lzd8y5rpj",
+  "endOfSupport": false,
+  "applicationId": "fghi4567E5p62klCypkBdO6ijxeAJL5Y",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,89 @@
+{
+  "id": "13a205172d9b4db792ba4c2819c0face",
+  "title": "Lost in Random™",
+  "description": "Play the odds in Lost in Random™, a gothic fairytale-inspired action adventure where every citizen’s fate is determined by the roll of a dice.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a4ba9a16b43347b09002ef81b48a32f4/lost-in-random-1a60p.jpg",
+      "md5": "931091a97131228b79c4915d0c68c854",
+      "width": 2560,
+      "height": 1440,
+      "size": 732243,
+      "uploadedDate": "2024-05-06T23:00:28.627Z",
+      "alt": "Lost in Random Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a4ba9a16b43347b09002ef81b48a32f4/lost-in-random-1nyx3.jpg",
+      "md5": "b3a1c223d5e382772a83a9f929c571ff",
+      "width": 1200,
+      "height": 1600,
+      "size": 705124,
+      "uploadedDate": "2024-05-06T23:00:29.124Z",
+      "alt": "Download Lost in Random Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e90ca75b24874ba397f316b447d6d01a",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-09T15:56:13.510Z",
+  "lastModifiedDate": "2024-05-09T15:56:13.510Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Zoink!\\Lost In Random"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "Lost_in_Random.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "Lost_in_Random.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LostinRandomDYUbj"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "13a205172d9b4db792ba4c2819c0face",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3971d0ce38ec4c1abf1c3d7cfbca6b7b",
+      "appId": "joplin",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

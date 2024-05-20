@@ -1,0 +1,63 @@
+{
+  "id": "97ad0f6afcaa49628688a0d479af89bb",
+  "title": "Street Pursuit",
+  "description": "Street Pursuit",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a6653f7af0864fc7b5c713f08c00ec66/street-pursuit-1x72f.png",
+      "md5": "6af9403d4abe0c92462027f719b1afe1",
+      "width": 2560,
+      "height": 1440,
+      "size": 1514556,
+      "uploadedDate": "2023-09-05T15:44:24.671Z",
+      "alt": "Street Pursuit Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a6653f7af0864fc7b5c713f08c00ec66/street-pursuit-ocsq0.png",
+      "md5": "063889c313e1b377ddf92f31a065a848",
+      "width": 1200,
+      "height": 1600,
+      "size": 473019,
+      "uploadedDate": "2023-09-05T15:44:01.820Z",
+      "alt": "Download Street Pursuit Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d5dbb40723524c528b6a529f2a4f6b57",
+  "status": "ACTIVE",
+  "creationDate": "2023-08-30T23:10:25.781Z",
+  "lastModifiedDate": "2023-10-09T08:43:45.948Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "StreetPursuit"
+    }
+  },
+  "entitlementName": "97ad0f6afcaa49628688a0d479af89bb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0b3600f2e64642d0a1f327cd8cd1e80a",
+      "appId": "352cad09a5284c9ea7c2dd0839d9d643",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Kongratz",
+  "developerId": "o-lafe5ugbtf4n4pg9clbx74ss7p2jvk",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

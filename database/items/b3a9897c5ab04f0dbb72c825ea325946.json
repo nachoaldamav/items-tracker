@@ -1,0 +1,71 @@
+{
+  "id": "b3a9897c5ab04f0dbb72c825ea325946",
+  "title": "HAAK",
+  "description": "HAAK is a Metroidvania-Platformer. As the mysterious wanderer Haak, you embarked on an epic expedition across the vast cyber-wasteland to find your lost brother. Explore deserted cities and metro, refine your weapons and hack skills, and uncover the secrets behind metal and dust.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7fa1aec3fbe8424db7942de750860a86/haak-1dwre.png",
+      "md5": "f0d422f0ccfc827f9cba0b660f2d5815",
+      "width": 2560,
+      "height": 1440,
+      "size": 2557559,
+      "uploadedDate": "2023-05-26T03:18:54.177Z",
+      "alt": "HAAK Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7fa1aec3fbe8424db7942de750860a86/haak-1dazo.png",
+      "md5": "a0f30c2a72c43ef43ed622fcc5205086",
+      "width": 1200,
+      "height": 1600,
+      "size": 1435278,
+      "uploadedDate": "2023-05-26T03:18:43.847Z",
+      "alt": "Download HAAK Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "24bd39f944fa45ad8a953116f9908525",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-10T06:44:54.290Z",
+  "lastModifiedDate": "2023-06-25T06:13:35.758Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/blingame/haak/Luxko.Serde/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HAAK"
+    }
+  },
+  "entitlementName": "b3a9897c5ab04f0dbb72c825ea325946",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "443b54ed7d8441299789cf3ba2fd1124",
+      "appId": "3147c82feeff4bbf9890743c10408207",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "HK OK INTERACTIVE TECH LIMITED",
+  "developerId": "o-b846rwue8buhbt57hlatt5y5tv4x9y",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

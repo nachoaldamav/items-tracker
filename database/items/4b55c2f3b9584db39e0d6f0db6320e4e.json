@@ -1,0 +1,134 @@
+{
+  "id": "4b55c2f3b9584db39e0d6f0db6320e4e",
+  "title": "Necrom Collection audience",
+  "description": "Necrom Collection audience\n",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "27aa2ebdcda14b3bb8a669aab73ca55f",
+  "status": "ACTIVE",
+  "creationDate": "2022-10-26T11:15:27.095Z",
+  "lastModifiedDate": "2024-03-19T17:04:39.612Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4b55c2f3b9584db39e0d6f0db6320e4e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {
+    "ACB": {
+      "ratingSystem": "ACB",
+      "ageControl": 15,
+      "gameRating": "Mature",
+      "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/ACB_M_192_192x192-b702f1ebcbc6daa7458356527d4bba16",
+      "title": "Mature",
+      "descriptorIds": [],
+      "elementIds": [],
+      "isTrad": true,
+      "isIARC": false
+    },
+    "PEGI": {
+      "ratingSystem": "PEGI",
+      "ageControl": 18,
+      "gameRating": "PEGI 18",
+      "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_18_192_192x192-d6a2111e4c05a18bc5ec235df88a7382",
+      "title": "PEGI 18",
+      "descriptor": "Violence,In-Game Purchases",
+      "descriptorIds": [
+        51,
+        895
+      ],
+      "elementIds": [],
+      "isTrad": true,
+      "isIARC": false
+    },
+    "ClassInd": {
+      "ratingSystem": "ClassInd",
+      "ageControl": 14,
+      "gameRating": "14 anos",
+      "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/ClassInd_14_192_192x192-57d9ea8adad94d2c39355abf7b8e06f8",
+      "title": "14 anos",
+      "descriptorIds": [],
+      "elementIds": [],
+      "isTrad": true,
+      "isIARC": false
+    },
+    "OFLC": {
+      "ratingSystem": "OFLC",
+      "ageControl": 15,
+      "gameRating": "M",
+      "ratingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/oflc_m_256x256-964c7e676583c9c490ec45fbbc792621",
+      "title": "M",
+      "elementIds": [],
+      "isTrad": true,
+      "isIARC": false
+    },
+    "USK": {
+      "ratingSystem": "USK",
+      "ageControl": 16,
+      "gameRating": "USK ab 16",
+      "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/USK_16_192_192x192-a60ba37513eb339e23cee67c25ff9f7b",
+      "title": "USK ab 16",
+      "descriptorIds": [],
+      "elementIds": [],
+      "isTrad": true,
+      "isIARC": false
+    },
+    "GRAC": {
+      "ratingSystem": "GRAC",
+      "ageControl": 18,
+      "gameRating": "청소년이용불가",
+      "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/GRAC_18_192_192x192-41a622e1b3505df23b588fe3a47a94d6",
+      "title": "청소년이용불가",
+      "descriptor": "폭력성,언어의 부적절성,약물,범죄",
+      "descriptorIds": [
+        440,
+        442,
+        443,
+        444
+      ],
+      "elementIds": [],
+      "isTrad": true,
+      "isIARC": false
+    },
+    "ESRB": {
+      "ratingSystem": "ESRB",
+      "ageControl": 17,
+      "gameRating": "Mature 17+",
+      "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/ESRB_M_192_192x192-1984f5076d6fb905bba422c8700c663e",
+      "title": "Mature 17+",
+      "descriptor": "Sexual Themes,Use of Alcohol,Violence,Blood and Gore",
+      "descriptorIds": [
+        24,
+        31,
+        34,
+        4
+      ],
+      "element": "Users Interact,In-Game Purchases (Includes Random Items)",
+      "elementIds": [
+        11,
+        23
+      ],
+      "isTrad": true,
+      "isIARC": false
+    }
+  },
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

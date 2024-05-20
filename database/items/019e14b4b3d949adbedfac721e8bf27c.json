@@ -1,0 +1,63 @@
+{
+  "id": "019e14b4b3d949adbedfac721e8bf27c",
+  "title": "Vexlands Demo",
+  "description": "Vexlands Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a34e3066567d47768419ca6ec16eb98c/vexlands-1ogkf.png",
+      "md5": "00dda9908746e007d24982b6fc182dc0",
+      "width": 2560,
+      "height": 1440,
+      "size": 1645158,
+      "uploadedDate": "2023-09-13T23:11:33.738Z",
+      "alt": "Vexlands Vexlands Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a34e3066567d47768419ca6ec16eb98c/vexlands-fkukk.png",
+      "md5": "d979e78269c80b11748510929870e439",
+      "width": 1200,
+      "height": 1600,
+      "size": 2979206,
+      "uploadedDate": "2023-09-13T23:11:39.274Z",
+      "alt": "Download Vexlands Vexlands Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "82d2c076744d4e1aa12e8843cf129cfa",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-28T13:45:17.141Z",
+  "lastModifiedDate": "2023-09-28T13:45:17.141Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "VexlandsDemo"
+    }
+  },
+  "entitlementName": "019e14b4b3d949adbedfac721e8bf27c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "87d6818790c94f1cab504f92eaa64322",
+      "appId": "99b10f0da5e7439fb4198a1a7e46a090",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Apogee Entertainment",
+  "developerId": "o-xh5dj82gy56frdyzfntt85yf5clm2c",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

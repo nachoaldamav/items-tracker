@@ -1,0 +1,62 @@
+{
+  "id": "e5f1ee5a009c45bdb121c737a9486474",
+  "title": "Velo",
+  "description": "Velo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/bacef340bd814a17969abd6b74756e59/velo-1emx5.jpg",
+      "md5": "aa4aaf38e82f6e55a1b5ba23b3acf47b",
+      "width": 2560,
+      "height": 1440,
+      "size": 3823532,
+      "uploadedDate": "2023-03-14T03:38:00.975Z",
+      "alt": "Velo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/bacef340bd814a17969abd6b74756e59/velo-di4r2.png",
+      "md5": "cd44f048a370d910002ffac2c0b10e0e",
+      "width": 1200,
+      "height": 1600,
+      "size": 3007976,
+      "uploadedDate": "2023-03-14T03:41:45.754Z",
+      "alt": "Download Velo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "59ab39c876754ffc9b5732cff9dfb47d",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-13T01:13:26.425Z",
+  "lastModifiedDate": "2023-04-13T01:13:26.425Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "VeloGIYno"
+    }
+  },
+  "entitlementName": "e5f1ee5a009c45bdb121c737a9486474",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "15b6fbcd056e46988d5b86025fbe4bc9",
+      "appId": "36344ad68212409ba0cae0786c6cc879",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Yuna Technologies",
+  "developerId": "o-33wcs8e52x69bct35aj9fzawlsbguj",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

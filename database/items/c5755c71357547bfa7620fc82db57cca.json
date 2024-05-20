@@ -1,0 +1,67 @@
+{
+  "id": "c5755c71357547bfa7620fc82db57cca",
+  "title": "Undead Inc.",
+  "description": "Undead Inc. is a high-risk, high-reward resource management simulator where you establish and manage a local subsidiary of the Endswell Medical Corporation. Build, manage staff, conduct research, and trade in both cutting edge medical treatments and bleeding edge bioweapons.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/064be6dee1ed4d2dad4aef5fd3efafa9/undead-inc-1btvr.jpg",
+      "md5": "5386cfbacf2de592a1f9795de68e9220",
+      "width": 2560,
+      "height": 1440,
+      "size": 755675,
+      "uploadedDate": "2024-02-22T11:11:32.398Z",
+      "alt": "Undead Inc. Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/064be6dee1ed4d2dad4aef5fd3efafa9/undead-inc-12suz.jpg",
+      "md5": "9ad440117ae830e870038690b693ac7e",
+      "width": 1200,
+      "height": 1600,
+      "size": 520204,
+      "uploadedDate": "2024-02-22T11:11:32.739Z",
+      "alt": "Download Undead Inc. Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fe3316099db5422ebeb202e518942fa1",
+  "status": "ACTIVE",
+  "creationDate": "2024-02-05T14:38:26.089Z",
+  "lastModifiedDate": "2024-05-02T16:02:19.592Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/RSG_Parasol/Saved/SaveGames/EOSCore/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "UndeadInc"
+    }
+  },
+  "entitlementName": "c5755c71357547bfa7620fc82db57cca",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3e8d65f5f93241209621a56a268cfea2",
+      "appId": "50d61cf711c14ba183d15c95d77cad5e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

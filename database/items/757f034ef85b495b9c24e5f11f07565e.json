@@ -1,0 +1,63 @@
+{
+  "id": "757f034ef85b495b9c24e5f11f07565e",
+  "title": "BlueSuburbia",
+  "description": "BlueSuburbia",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/900cbd296bc243ac952935cd549673df/bluesuburbia-1n3eg.png",
+      "md5": "c8a289a6ae891de22abbb21730ae9494",
+      "width": 2560,
+      "height": 1440,
+      "size": 3467451,
+      "uploadedDate": "2024-01-29T22:12:11.343Z",
+      "alt": "BlueSuburbia Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/900cbd296bc243ac952935cd549673df/bluesuburbia-orvl2.png",
+      "md5": "091bf688e92ee317de2567f1955fcf81",
+      "width": 1200,
+      "height": 1600,
+      "size": 2216482,
+      "uploadedDate": "2024-01-29T22:12:18.647Z",
+      "alt": "Download BlueSuburbia Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7c68959aff46468bab66fa0bcb6a7047",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-22T18:59:45.552Z",
+  "lastModifiedDate": "2024-01-31T18:41:54.161Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BlueSuburbiap4bLp"
+    }
+  },
+  "entitlementName": "757f034ef85b495b9c24e5f11f07565e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bdee73f56cbd4ed08e1750280bdbc604",
+      "appId": "98940aa2155b42cfb31a99101649b355",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "alienmelon",
+  "developerId": "o-k8xwvxxefkn38dncqzddg92txy59tt",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,89 @@
+{
+  "id": "ad546cea32834a92bdfc827abe8cf2d3",
+  "title": "Need for Speed™ Most Wanted",
+  "description": "The open-world action in Need for Speed™ Most Wanted gives you the freedom to drive your way. Hit jumps and shortcuts, switch cars, lie low, or head for terrain that plays to your vehicle’s unique strengths.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5d07664430944a95ae550da120ed0eeb/need-for-speed-most-wanted-er2ps.jpg",
+      "md5": "79d3e6e84e8dbad7690d91fb9adb6d3d",
+      "width": 2560,
+      "height": 1440,
+      "size": 899633,
+      "uploadedDate": "2024-03-08T22:17:39.992Z",
+      "alt": "Need For Speed: Most Wanted Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5d07664430944a95ae550da120ed0eeb/need-for-speed-most-wanted-1rdl8.jpg",
+      "md5": "b246aacfc4278406e77e4292a1220343",
+      "width": 1200,
+      "height": 1600,
+      "size": 794009,
+      "uploadedDate": "2024-03-08T22:17:38.076Z",
+      "alt": "Download Need For Speed: Most Wanted Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "864f3eeec6284483b630cc58021a04a7",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-04T15:43:14.579Z",
+  "lastModifiedDate": "2024-03-28T14:12:19.923Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\EA Games\\Need for Speed(TM) Most Wanted"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "NFS13.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "NFS13.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NeedForSpeedMostWantLcsrU"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "ad546cea32834a92bdfc827abe8cf2d3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3da54cf1c45649d5a5b113294bb6a1e8",
+      "appId": "torpil",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "5c967fed211940838ec28d7e7bc157b5",
+  "title": "Minsho",
+  "description": "Minsho",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/deb879d44c9b4067a9819978fab5151a/minsho-1swdr.png",
+      "md5": "d88b0bdd118acb0926ca42cd3e140869",
+      "width": 2560,
+      "height": 1440,
+      "size": 1854367,
+      "uploadedDate": "2024-03-14T08:58:27.863Z",
+      "alt": "Minsho Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/deb879d44c9b4067a9819978fab5151a/minsho-1oksx.png",
+      "md5": "7d3a16cf836ce85bd8606c9261d349e7",
+      "width": 1200,
+      "height": 1600,
+      "size": 970357,
+      "uploadedDate": "2024-03-14T08:59:11.210Z",
+      "alt": "Download Minsho Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "18071ef42d8a48a793d48b2b1d228c58",
+  "status": "ACTIVE",
+  "creationDate": "2024-02-03T02:41:30.296Z",
+  "lastModifiedDate": "2024-03-29T00:18:52.720Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Minsho"
+    }
+  },
+  "entitlementName": "5c967fed211940838ec28d7e7bc157b5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "11d27c44d4b2440c869b9d77b7249b7a",
+      "appId": "883b88e60b89454fad8f80601a3ccb81",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Minertti",
+  "developerId": "o-xjfxxmkp4sw8hs8zaqf98twjzvprfn",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

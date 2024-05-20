@@ -1,0 +1,75 @@
+{
+  "id": "3490be1e724b4e77b1ea8765f17b7995",
+  "title": "ART IS RIFLE",
+  "description": "ART IS RIFLE",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3073c2b7cc5649fb9d92581a5b31bb74/art-is-rifle-il9pm.png",
+      "md5": "58e68dc27ef524707751c46075332226",
+      "width": 2560,
+      "height": 1440,
+      "size": 3030186,
+      "uploadedDate": "2023-07-08T11:47:04.147Z",
+      "alt": "ART IS RIFLE Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3073c2b7cc5649fb9d92581a5b31bb74/art-is-rifle-pmtcu.png",
+      "md5": "cc2a453b17875a06962023427c12a31c",
+      "width": 1200,
+      "height": 1600,
+      "size": 1958291,
+      "uploadedDate": "2023-07-08T11:47:07.223Z",
+      "alt": "Download ART IS RIFLE Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4b7032faef9f4152afeac58dfe13c3f2",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-10T07:59:46.543Z",
+  "lastModifiedDate": "2024-03-13T13:17:22.829Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/ArtIsRifle/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "9"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ARTISRIFLE"
+    }
+  },
+  "entitlementName": "3490be1e724b4e77b1ea8765f17b7995",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f5209b7a92404f60a9a006dd4a7bf789",
+      "appId": "e3e6e3c8ec6840f7ae76e7c9ae3e38e4",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Code Psyche Productions Co., Ltd.",
+  "developerId": "o-krskumulnr6e43t8pl6ug3sjdnzcr6",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

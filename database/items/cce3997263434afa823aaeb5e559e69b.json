@@ -1,0 +1,67 @@
+{
+  "id": "cce3997263434afa823aaeb5e559e69b",
+  "title": "Potion Craft: Alchemist Simulator",
+  "description": "Potion Craft is an alchemist simulator where you physically interact with your tools and ingredients to brew potions. You're in full control of the whole shop: invent new recipes, attract customers and experiment to your heart's content. The whole town is counting on you!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ce001255f950423d9afcb3074999dcdc/potion-craft-5i9rk.jpg",
+      "md5": "9d276e4409371eac71a6ddbc8aabdfa0",
+      "width": 2560,
+      "height": 1440,
+      "size": 2858272,
+      "uploadedDate": "2022-12-06T15:03:16.498Z",
+      "alt": "Potion Craft Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ce001255f950423d9afcb3074999dcdc/potion-craft-1q4dg.png",
+      "md5": "b818a0b54e71a70bb9a9ef40cacffd4a",
+      "width": 1200,
+      "height": 1600,
+      "size": 3698147,
+      "uploadedDate": "2022-12-06T15:03:16.173Z",
+      "alt": "Download Potion Craft Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "076c0aa2704a4741a2cb7e2436efd2fd",
+  "status": "ACTIVE",
+  "creationDate": "2022-11-16T17:16:48.211Z",
+  "lastModifiedDate": "2023-09-21T15:48:47.925Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/niceplay games/Potion Craft/SavesEpicStore/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PotionCraft"
+    }
+  },
+  "entitlementName": "cce3997263434afa823aaeb5e559e69b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cd973737a2f34850b312fcb16268eecd",
+      "appId": "c12bd943fccf4a378366f3b333ab7f14",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

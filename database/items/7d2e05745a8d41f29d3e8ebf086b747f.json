@@ -1,0 +1,59 @@
+{
+  "id": "7d2e05745a8d41f29d3e8ebf086b747f",
+  "title": "Sugar Shack",
+  "description": "Sugar Shack",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f327744702634d87b528efb2954f4c1d/sugar-shack-15pgd.PNG",
+      "md5": "4089b3f8f91b8487501cace42f42ec17",
+      "width": 2560,
+      "height": 1440,
+      "size": 900074,
+      "uploadedDate": "2022-10-10T14:15:52.708Z",
+      "alt": "Sugar Shack Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f327744702634d87b528efb2954f4c1d/sugar-shack-rnp0m.PNG",
+      "md5": "b47ed685a56f6665271fa4c87e2d370f",
+      "width": 1200,
+      "height": 1600,
+      "size": 448578,
+      "uploadedDate": "2022-10-10T14:15:53.053Z",
+      "alt": "Download Sugar Shack Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8dca2f96365a4363894df83c3e6c4fb5",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-09T16:39:24.509Z",
+  "lastModifiedDate": "2023-03-09T16:39:24.509Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SugarShackP2BeH"
+    }
+  },
+  "entitlementName": "7d2e05745a8d41f29d3e8ebf086b747f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ba46d65a85784dc9a1d75d21ece011db",
+      "appId": "6ded385d5e184afa8548ccd61b8f0efd"
+    }
+  ],
+  "developer": "Freedom Games",
+  "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

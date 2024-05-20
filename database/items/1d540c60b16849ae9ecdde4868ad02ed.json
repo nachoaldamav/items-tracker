@@ -1,0 +1,64 @@
+{
+  "id": "1d540c60b16849ae9ecdde4868ad02ed",
+  "title": "Cosmik Battle",
+  "description": "Cosmik Battle",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e33863be35d646adae8e6de33c626d64/cosmik-battle-xvpkz.png",
+      "md5": "be787933716e9cae21ba2493043ecb1a",
+      "width": 2560,
+      "height": 1440,
+      "size": 1834188,
+      "uploadedDate": "2023-07-24T13:25:21.354Z",
+      "alt": "Cosmik Battle Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e33863be35d646adae8e6de33c626d64/cosmik-battle-1mx1d.png",
+      "md5": "c931e8a85a595a9976061eabc2e62220",
+      "width": 1200,
+      "height": 1600,
+      "size": 2431726,
+      "uploadedDate": "2023-07-24T13:25:17.505Z",
+      "alt": "Download Cosmik Battle Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3f5bd4a3bb62462c8b6846a68ad6a4d9",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-04T14:50:05.959Z",
+  "lastModifiedDate": "2024-02-07T13:00:18.581Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ComethBattle9a936"
+    }
+  },
+  "entitlementName": "1d540c60b16849ae9ecdde4868ad02ed",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e2c068db83bc4d5f90f8641948971217",
+      "appId": "a4b1b7e3a2f942a398d119d6a6113b96",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Cometh Studio",
+  "developerId": "o-ste3hssqx6eyhn6g5e5q6vb9avn7sl",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

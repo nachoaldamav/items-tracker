@@ -1,0 +1,62 @@
+{
+  "id": "d77aa713346243a7b2788cf025ae8734",
+  "title": "The Chronicle",
+  "description": "The Chronicle",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/bbeb64405dde4631939132b16f56a3b1/the-chronicle-1llou.jpg",
+      "md5": "83edafac06acfce9e1b88d7296d2f8e1",
+      "width": 2560,
+      "height": 1440,
+      "size": 1589011,
+      "uploadedDate": "2023-03-17T22:43:04.250Z",
+      "alt": "The Chronicle Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/bbeb64405dde4631939132b16f56a3b1/the-chronicle-mlbsw.jpg",
+      "md5": "b710623f6fbf38a9a5303a1c7eed20c1",
+      "width": 1200,
+      "height": 1600,
+      "size": 840078,
+      "uploadedDate": "2023-04-01T15:00:39.164Z",
+      "alt": "Download The Chronicle Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "97794f7b4a954a2d87af91eb5cef8bfc",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-03T17:00:24.797Z",
+  "lastModifiedDate": "2023-04-03T17:00:24.797Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheChroniclePUIUl"
+    }
+  },
+  "entitlementName": "d77aa713346243a7b2788cf025ae8734",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "de659e79d21b4944b0572c3c3f480b9f",
+      "appId": "8bc97777a0a1474c992c87cd2cc155dc",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Donald Armstrong",
+  "developerId": "o-kusdpxyy87djpwzqsggysm6kcnmlbq",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

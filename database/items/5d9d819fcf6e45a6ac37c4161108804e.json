@@ -1,0 +1,63 @@
+{
+  "id": "5d9d819fcf6e45a6ac37c4161108804e",
+  "title": "Blipz",
+  "description": "Blipz",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f572b43f575d4f738d29b0f0ffc075c4/blipz-fzk3b.png",
+      "md5": "82228fdc1d7289314993a737af529439",
+      "width": 2560,
+      "height": 1440,
+      "size": 413932,
+      "uploadedDate": "2023-04-13T14:33:45.278Z",
+      "alt": "Blipz Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f572b43f575d4f738d29b0f0ffc075c4/blipz-kwfvw.png",
+      "md5": "18d02a38b5b5c7f67e348485442bd4cd",
+      "width": 1200,
+      "height": 1600,
+      "size": 259762,
+      "uploadedDate": "2023-04-13T14:33:43.716Z",
+      "alt": "Download Blipz Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0b701a5ac2d846d7af2c82fb93f89f56",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-01T10:41:17.947Z",
+  "lastModifiedDate": "2023-05-01T10:41:17.947Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BlipzvbJiX"
+    }
+  },
+  "entitlementName": "5d9d819fcf6e45a6ac37c4161108804e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f8a1ab83517a4314a33f4b2fc3fc8678",
+      "appId": "28720766522443a6bf742c37badb653a",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "TheDollarGameStore",
+  "developerId": "o-ze8vde6hejhjxvp5fnz9up33zkczrp",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

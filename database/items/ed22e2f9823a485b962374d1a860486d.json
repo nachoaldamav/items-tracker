@@ -1,0 +1,65 @@
+{
+  "id": "ed22e2f9823a485b962374d1a860486d",
+  "title": "Bladerite",
+  "description": "Bladerite",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d9a0194120bb4e8ab0ffee14ee3572cc/bladerite-1imoa.png",
+      "md5": "004c507a3c584e85b8a3138e0506f704",
+      "width": 2560,
+      "height": 1440,
+      "size": 2659174,
+      "uploadedDate": "2023-04-27T10:00:02.378Z",
+      "alt": "Bladerite Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d9a0194120bb4e8ab0ffee14ee3572cc/bladerite-1l5v7.png",
+      "md5": "7074df931e5e69d62ce3b7cffbeb0993",
+      "width": 1200,
+      "height": 1600,
+      "size": 1782628,
+      "uploadedDate": "2023-04-27T10:07:50.464Z",
+      "alt": "Download Bladerite Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7e5f7d87c17c4e68b5e200306aa46344",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-26T09:02:19.623Z",
+  "lastModifiedDate": "2024-02-01T00:53:06.208Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BladeriteKny3C"
+    }
+  },
+  "entitlementName": "ed22e2f9823a485b962374d1a860486d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "02744faf2f72420988ef5f38c8da8660",
+      "appId": "230f0d05e1d14b8ca3224682f0d80a33",
+      "platform": [
+        "Windows",
+        "Win32",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "LUSHENG PTE LTD",
+  "developerId": "o-pumjtk8xtr6vjjapllwt2934z4gfx6",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

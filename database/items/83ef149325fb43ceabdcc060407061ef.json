@@ -1,0 +1,67 @@
+{
+  "id": "83ef149325fb43ceabdcc060407061ef",
+  "title": "Infindustry",
+  "description": "Description is not set",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9fe1d55aa5054c1ab168c1bedbe6506e/infindustry-8lz3w.jpg",
+      "md5": "2188c3ac63c2d56707fb5fc22a7a3f01",
+      "width": 2560,
+      "height": 1440,
+      "size": 721328,
+      "uploadedDate": "2023-04-18T13:24:35.831Z",
+      "alt": "Infindustry Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9fe1d55aa5054c1ab168c1bedbe6506e/infindustry-1etet.jpg",
+      "md5": "96362cc555699b97926fc8fcb0311249",
+      "width": 1200,
+      "height": 1600,
+      "size": 410545,
+      "uploadedDate": "2023-04-18T13:22:36.649Z",
+      "alt": "Download Infindustry Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3e8745caaecf4adb9e358de5df7b8a41",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-11T18:43:48.466Z",
+  "lastModifiedDate": "2023-05-09T08:00:23.812Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/plyoung/infindustri/Saves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Infindustry"
+    }
+  },
+  "entitlementName": "83ef149325fb43ceabdcc060407061ef",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8b300586df124eec97b8331d2138439c",
+      "appId": "9e6850bb6f2c4af39196d91f35e08107",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "PLYOUNG",
+  "developerId": "o-nmym6pkyragpj3xwzsvq68q5mxtgru",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

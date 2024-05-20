@@ -1,0 +1,75 @@
+{
+  "id": "7ebe2c04f4094046a7755c63fb1843bb",
+  "title": "The Creepy Syndrome",
+  "description": "The Creepy Syndrome",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2782e24d691143fba485e80e737714bd/the-creepy-syndrome-1ilp6.png",
+      "md5": "2fffd92ef37f652b3cdc4838c23974d0",
+      "width": 2560,
+      "height": 1440,
+      "size": 3611571,
+      "uploadedDate": "2023-05-10T08:03:29.833Z",
+      "alt": "The Creepy Syndrome Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2782e24d691143fba485e80e737714bd/the-creepy-syndrome-zvr5h.png",
+      "md5": "f852cdc98f6a1aefd7d7858390f3bb9f",
+      "width": 1200,
+      "height": 1600,
+      "size": 2095070,
+      "uploadedDate": "2023-05-10T08:03:36.411Z",
+      "alt": "Download The Creepy Syndrome Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f2ed44898a204bee866836b9b659bce4",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-18T08:46:49.808Z",
+  "lastModifiedDate": "2023-05-18T05:35:16.266Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/JanduSoft/TheCreepySyndrome/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.dat"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheCreepySyndrome"
+    }
+  },
+  "entitlementName": "7ebe2c04f4094046a7755c63fb1843bb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ebad5cae699d45aa95458f421c112a13",
+      "appId": "4416ee7f2c9d4984b4d63da2eea2a7b0",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "JanduSoft",
+  "developerId": "o-errxej8vbv6kmaybwwydjpv76erx5t",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

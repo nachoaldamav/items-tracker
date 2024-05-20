@@ -1,0 +1,72 @@
+{
+  "id": "843318b5c89449b6b681516642cd80f9",
+  "title": "Delicious Dungeon",
+  "description": "Delicious Dungeon is a combination of action-adventure and simulation game. The player is the owner of a restaurant in a fantasy world. But to run the restaurant they have to explore dungeons full of dangers to get the ingredients needed to cook delicious meals for their guests.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/bc7ab8fec07b4a58a7dabd4f10ff5cfe/delicious-dungeon-1l1hc.jpg",
+      "md5": "9c53188c8f0ced95fd5b439dec779026",
+      "width": 2560,
+      "height": 1440,
+      "size": 2751757,
+      "uploadedDate": "2023-06-13T13:35:38.293Z",
+      "alt": "Delicious Dungeon Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/bc7ab8fec07b4a58a7dabd4f10ff5cfe/delicious-dungeon-usr4b.png",
+      "md5": "8f01f495428dc022eaf34f364b11a377",
+      "width": 1200,
+      "height": 1600,
+      "size": 2660507,
+      "uploadedDate": "2023-06-13T13:31:01.146Z",
+      "alt": "Download Delicious Dungeon Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cda7202896cf47ae9f4abfbfe542a937",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-09T10:32:23.158Z",
+  "lastModifiedDate": "2023-11-01T22:29:38.927Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Digital Cauldron/Delicious Dungeon/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "SaveFile_1,SaveFile_2,SaveFile_3,SaveFile_4,SaveFile_5"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DeliciousDungeon"
+    }
+  },
+  "entitlementName": "843318b5c89449b6b681516642cd80f9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bc39053af9dc4fdcb881579de7e83d54",
+      "appId": "0ca8d9a782fc45adba9f935addec6bbf",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Digital Cauldron",
+  "developerId": "o-gujq8qbc6xxslc6xhhu7mmabmbh452",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

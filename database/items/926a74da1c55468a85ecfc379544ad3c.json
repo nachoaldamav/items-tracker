@@ -1,0 +1,75 @@
+{
+  "id": "926a74da1c55468a85ecfc379544ad3c",
+  "title": "Sailing Era",
+  "description": "Navigate your fleet and sail for fun; run a business; have a romantic encounter in the tavern; capture pirates amid intense battle; explore inland for treasure... Experience foreign culture, make novel discoveries, and sail away!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/330886d2b3fc4bd0bc00dd1a31d909b3/sailing-era-1h7dh.jpg",
+      "md5": "a79b0daa0c2c5454bd9730fcfe8e13be",
+      "width": 2560,
+      "height": 1440,
+      "size": 1192894,
+      "uploadedDate": "2022-12-29T11:34:28.981Z",
+      "alt": "Sailing Era Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/330886d2b3fc4bd0bc00dd1a31d909b3/sailing-era-c31fi.jpg",
+      "md5": "66c6dd21aa392a6c6ba4c10fb46be64e",
+      "width": 1200,
+      "height": 1600,
+      "size": 1022363,
+      "uploadedDate": "2022-12-29T11:39:13.972Z",
+      "alt": "Download Sailing Era Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "83a550cbe7434886b5e42bead6335cff",
+  "status": "ACTIVE",
+  "creationDate": "2022-10-12T10:25:57.835Z",
+  "lastModifiedDate": "2023-08-31T10:00:21.602Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/bolingo/SailingEra/GameDbEPIC/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "PlayerData/*,PlayerDataHistory/*"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "256"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SailingEraKFQsc"
+    }
+  },
+  "entitlementName": "926a74da1c55468a85ecfc379544ad3c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a8079ce5ab2c4f0890924ee000355fbe",
+      "appId": "0e9a16084c274be5a84b982c776d7a46",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Shanghai Hode Information Technology Co., Ltd.",
+  "developerId": "o-zpqlclx6kglazlhk4nkrau48n38n6h",
+  "endOfSupport": false,
+  "applicationId": "fghi45671lsPczOqBtlJyQihl8KXW1Jk",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

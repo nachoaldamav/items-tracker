@@ -1,0 +1,89 @@
+{
+  "id": "74b08c933b574a039eea7d0c1d6a0f1d",
+  "title": "Need for Speed™ Rivals: Complete Edition",
+  "description": "Erase the line between single player and multiplayer in this street-racing rivalry between Cops and Racers. Seamlessly join a world where your friends are already racing and chasing.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9bcbbeceddf74b1da82a7e1c91b6c167/need-for-speed-rivals-12e7l.jpg",
+      "md5": "4c09156897249ee9982e10535f5284a8",
+      "width": 2560,
+      "height": 1440,
+      "size": 986799,
+      "uploadedDate": "2024-03-09T02:18:22.501Z",
+      "alt": "Need For Speed: Rivals Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9bcbbeceddf74b1da82a7e1c91b6c167/need-for-speed-rivals-f9xkw.jpg",
+      "md5": "35bb4ea660905561cbe0f363884b34c7",
+      "width": 1200,
+      "height": 1600,
+      "size": 891402,
+      "uploadedDate": "2024-03-09T02:18:21.219Z",
+      "alt": "Download Need For Speed: Rivals Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e9573f687fb24b56ba22562657ef1225",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-04T15:44:43.418Z",
+  "lastModifiedDate": "2024-03-20T15:11:43.156Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\EA Games\\Need for Speed(TM) Rivals"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "NFS14.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "NFS14.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NeedForSpeedRivalsgThl9"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "74b08c933b574a039eea7d0c1d6a0f1d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f6c6796ae1bb4672804b4d44e1dcfad7",
+      "appId": "zlabia",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

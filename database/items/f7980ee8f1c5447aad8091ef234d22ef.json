@@ -1,0 +1,80 @@
+{
+  "id": "f7980ee8f1c5447aad8091ef234d22ef",
+  "title": "The Elder Scrolls III: Morrowind® Game of the Year Edition",
+  "description": "The Elder Scrolls III: Morrowind® Game of the Year Edition includes Morrowind plus all of the content from the Bloodmoon and Tribunal expansions. The original Mod Construction Set is not included in this package.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/94535cf951c44f1b9961704b4a7bf40c/morrowind-r65yc.jpg",
+      "md5": "137c710920be6b1f22100cfbdfbbf4e1",
+      "width": 2560,
+      "height": 1440,
+      "size": 1957513,
+      "uploadedDate": "2024-03-01T14:37:58.677Z",
+      "alt": "Morrowind Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/94535cf951c44f1b9961704b4a7bf40c/morrowind-1dsim.jpg",
+      "md5": "28634f3e7ab2f1d3e3f9c60a5bd18a29",
+      "width": 1200,
+      "height": 1600,
+      "size": 1043380,
+      "uploadedDate": "2024-03-01T14:38:02.363Z",
+      "alt": "Download Morrowind Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2b04b1a83647411e956695342f1d14b6",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-16T15:00:18.450Z",
+  "lastModifiedDate": "2024-05-16T15:00:18.450Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/"
+    },
+    "LaunchElevated": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.ess"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Morrowind"
+    }
+  },
+  "entitlementName": "f7980ee8f1c5447aad8091ef234d22ef",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "23280b84d8ce4c08ac5f3862f073419c",
+      "appId": "4f8d9ee984104e1d99802df141964761",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "eulaIds": [
+    "(egstore && morrowind)"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

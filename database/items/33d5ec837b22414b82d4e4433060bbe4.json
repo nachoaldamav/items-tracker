@@ -1,0 +1,68 @@
+{
+  "id": "33d5ec837b22414b82d4e4433060bbe4",
+  "title": "MUSYNX",
+  "description": "MUSYNX",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/283356d3ec65483398bb40e6f11f431a/musynx-6r9f9.jpg",
+      "md5": "25ead79b7e30042d92fcb1cb3dea5ca7",
+      "width": 2560,
+      "height": 1440,
+      "size": 3814716,
+      "uploadedDate": "2023-05-04T03:57:41.165Z",
+      "alt": "MUSYNX Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/283356d3ec65483398bb40e6f11f431a/musynx-r6c9a.png",
+      "md5": "deb433441636c6ff988b48b925f50296",
+      "width": 1200,
+      "height": 1600,
+      "size": 3462912,
+      "uploadedDate": "2023-04-23T10:42:54.365Z",
+      "alt": "Download MUSYNX Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "739d0f3d53054b29befc2753d58c7045",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-15T07:57:03.060Z",
+  "lastModifiedDate": "2023-06-19T02:07:12.246Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/SavesDir/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MUSYNX"
+    }
+  },
+  "entitlementName": "33d5ec837b22414b82d4e4433060bbe4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "595fead21dde4dd198079c4d93a6c160",
+      "appId": "040e5fe3617443ef86e07d2127bda0b5",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "MUSYNX Studio",
+  "developerId": "o-sb2mtpcn5duljnz532xeqv67h6z3m7",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

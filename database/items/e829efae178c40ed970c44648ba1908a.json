@@ -1,0 +1,63 @@
+{
+  "id": "e829efae178c40ed970c44648ba1908a",
+  "title": "Island Paradise",
+  "description": "Island Paradise",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/14cee9c19a104838a89741db17de31c1/island-paradise-10hzv.png",
+      "md5": "4b51c01ba4c7dbaecceea3df75c8b2fb",
+      "width": 2560,
+      "height": 1440,
+      "size": 2977648,
+      "uploadedDate": "2024-01-30T16:44:03.471Z",
+      "alt": "Island Paradise Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/14cee9c19a104838a89741db17de31c1/island-paradise-1s3oe.png",
+      "md5": "fc03f6edf156584989bf382551eb6663",
+      "width": 1200,
+      "height": 1600,
+      "size": 2339594,
+      "uploadedDate": "2024-01-30T16:57:24.780Z",
+      "alt": "Download Island Paradise Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a05f85d8403843319c4b943de4106eb3",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-19T06:13:28.695Z",
+  "lastModifiedDate": "2024-03-17T17:25:02.571Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "IslandParadise"
+    }
+  },
+  "entitlementName": "e829efae178c40ed970c44648ba1908a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5621f838fad5459691500e1aeb699922",
+      "appId": "326fa431c0f64934a20773abd33feed5",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "GSG",
+  "developerId": "o-3bfwq7mg7s4b4jadluad89l4a8zfcf",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

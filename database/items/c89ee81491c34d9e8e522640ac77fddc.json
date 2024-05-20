@@ -1,0 +1,78 @@
+{
+  "id": "c89ee81491c34d9e8e522640ac77fddc",
+  "title": "Tabletop Playground",
+  "description": "Tabletop Playground",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ae98a45b13f24570aa1d4fad08f6a446/tabletop-playground-1fnvn.jpg",
+      "md5": "92b246122e9ac4b7919470f6b38d5f66",
+      "width": 2560,
+      "height": 1440,
+      "size": 556405,
+      "uploadedDate": "2023-04-14T11:16:22.086Z",
+      "alt": "Tabletop Playground Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ae98a45b13f24570aa1d4fad08f6a446/tabletop-playground-pd4bx.png",
+      "md5": "69cf213c6f20bbb7b94c83affc98f6f6",
+      "width": 1200,
+      "height": 1600,
+      "size": 1427547,
+      "uploadedDate": "2023-04-14T11:16:32.812Z",
+      "alt": "Download Tabletop Playground Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "95f3bd44c8394061aca3eb1ce4b1f0fb",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-11T18:42:13.017Z",
+  "lastModifiedDate": "2023-09-29T07:19:45.415Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/TabletopPlayground/Saved/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.vts,*.tpo"
+    },
+    "NotarizedAndSigned": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TabletopPlayground"
+    }
+  },
+  "entitlementName": "c89ee81491c34d9e8e522640ac77fddc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cbbb08b817c64cca9911fcbc2fb35078",
+      "appId": "b24be47d7ca947bf9689a67d24b23852",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Plasticity Studios",
+  "developerId": "o-y6sd7j8unp5dalgz3q4s2964lkgkaa",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567VE5HhTrpHWRToh9PwMR8AuBz",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

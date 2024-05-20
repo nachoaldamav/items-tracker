@@ -1,0 +1,75 @@
+{
+  "id": "e01c248b7ecd436992813920648ac18e",
+  "title": "Reverie - Sweet As Edition",
+  "description": "Reverie is an action adventure game set on a fictional island in New Zealand, inspired by the legend of Maui and the Giant Fish where the demigod himself fishes up the North Island with a powerful fishhook.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/97bbb55ae4a140b799240177b734675f/reverie--sweet-as-edition-xtw9m.jpg",
+      "md5": "d8966d245c17f6d1bc53c837126cded7",
+      "width": 2560,
+      "height": 1440,
+      "size": 2510068,
+      "uploadedDate": "2023-03-30T12:42:16.457Z",
+      "alt": "Reverie - Sweet As Edition Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/97bbb55ae4a140b799240177b734675f/reverie--sweet-as-edition-k2oj8.jpg",
+      "md5": "a63091a3537937a81ccafa56a68a1b7a",
+      "width": 1200,
+      "height": 1600,
+      "size": 1520048,
+      "uploadedDate": "2023-03-30T12:42:15.817Z",
+      "alt": "Download Reverie - Sweet As Edition Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "82aad7acf5384a5ba5d00d4549819260",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-22T14:19:58.192Z",
+  "lastModifiedDate": "2023-06-28T10:51:51.091Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Eastasiasoft Limited/Reverie_ Sweet As Edition/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "savedGame0.gd,savedGame1.gd,savedGame2.gd"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ReverieSweetAsEdition"
+    }
+  },
+  "entitlementName": "e01c248b7ecd436992813920648ac18e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8361e39cb78b4fb8ae5dfb6e8b403dd9",
+      "appId": "806ecd76ea41415e946ae5dffe5327fa",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Eastasiasoft Limited",
+  "developerId": "o-j9vh8fdxraq8nr63nwvqa8xeegkezy",
+  "endOfSupport": false,
+  "applicationId": "fghi45673NBXRpRFP8g10QuQsdPweR8n",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

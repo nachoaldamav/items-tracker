@@ -1,0 +1,71 @@
+{
+  "id": "f9c829e6a49a4574910d7307ba62f544",
+  "title": "Blood Flowers",
+  "description": "A puzzle ＆ plot single-player game. It all starts with the falling star ...... Through the puzzle, find the childhood memories while gradually unraveling the truth of the \"Blood Tree Plague\" hundreds of years ago.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/340c421e213b4d8787e201ee913976c1/blood-flowers-1ly0e.png",
+      "md5": "b8106068c9d66c64b572b4ca5bcf41ff",
+      "width": 2560,
+      "height": 1440,
+      "size": 2569318,
+      "uploadedDate": "2023-05-12T12:45:19.295Z",
+      "alt": "Blood Flowers Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/340c421e213b4d8787e201ee913976c1/blood-flowers-1w6iv.png",
+      "md5": "2650629932cc8304fcafe2f16ea349ed",
+      "width": 1200,
+      "height": 1600,
+      "size": 1478555,
+      "uploadedDate": "2023-05-12T12:45:18.433Z",
+      "alt": "Download Blood Flowers Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5ab7474f6a7043aaba392d4b64096737",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-08T05:57:40.560Z",
+  "lastModifiedDate": "2023-11-08T05:57:40.560Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/BloodFlowers_Data/{EpicID}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "SteamCloud_FloweringTrees.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BloodFlowersDhfvF"
+    }
+  },
+  "entitlementName": "f9c829e6a49a4574910d7307ba62f544",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c209282f312b420ebb81aa8f048bbb9a",
+      "appId": "a1666e4fc86c476ea9384b3ddddd2552",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "BoneNail",
+  "developerId": "o-j728kv9q5ugc7zfukswcbrxegaktes",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

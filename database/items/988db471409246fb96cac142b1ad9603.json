@@ -1,0 +1,62 @@
+{
+  "id": "988db471409246fb96cac142b1ad9603",
+  "title": "IHAS Demo",
+  "description": "IHAS Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/484db605806242d1bb54944f53fc6839/ihas-o4o69.png",
+      "md5": "42af95daaab997e2f9726d9bba7b5814",
+      "width": 2560,
+      "height": 1440,
+      "size": 1584308,
+      "uploadedDate": "2023-11-04T16:30:47.368Z",
+      "alt": "IHAS IHAS Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/484db605806242d1bb54944f53fc6839/ihas-g757d.png",
+      "md5": "3efafc5aa45363d1ed3b3971c85f2fa4",
+      "width": 1200,
+      "height": 1600,
+      "size": 971759,
+      "uploadedDate": "2023-11-04T16:30:46.796Z",
+      "alt": "Download IHAS IHAS Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "306a3dc5437a43d29e58661fc6f391f2",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-06T10:11:15.065Z",
+  "lastModifiedDate": "2024-02-08T04:50:16.273Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DemoIHAS78686"
+    }
+  },
+  "entitlementName": "988db471409246fb96cac142b1ad9603",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "827bba1c91834ae29f5c614ce07e2299",
+      "appId": "76265dc0c1c64b80814231b9365587e7",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "The Difference Studio",
+  "developerId": "o-7xurz2s8tb85xt6bq56fuv6mmp3np7",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

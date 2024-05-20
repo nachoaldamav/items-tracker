@@ -1,0 +1,71 @@
+{
+  "id": "b67f78e0e79f4e32825f7b2fc93cc48a",
+  "title": "Them and Us",
+  "description": "Them and Us is a classic, survival horror game with a focus on atmosphere and player immersion.\nDiscover the truth of Alicia’s past as she descends further into her strange, unending nightmare.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/690e49d2e1f94c1487badc4df2d25b7f/them-and-us-nkal5.png",
+      "md5": "45af86da9fcb89535e61e5e1f5b103bd",
+      "width": 2560,
+      "height": 1440,
+      "size": 3807539,
+      "uploadedDate": "2023-04-13T06:36:49.056Z",
+      "alt": "Them and Us Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/690e49d2e1f94c1487badc4df2d25b7f/them-and-us-1sgjl.png",
+      "md5": "d56202cd14ac089217160caad3904527",
+      "width": 1200,
+      "height": 1600,
+      "size": 2080808,
+      "uploadedDate": "2023-04-13T06:36:54.950Z",
+      "alt": "Download Them and Us Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "713cf66874564881adc4f5bb9ade5ceb",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-11T18:41:31.426Z",
+  "lastModifiedDate": "2023-05-09T10:03:07.791Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Binaries/SaveData/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ThemandUsIQEkJ"
+    }
+  },
+  "entitlementName": "b67f78e0e79f4e32825f7b2fc93cc48a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5ef3b249d9db460ebe6f163b761fa50b",
+      "appId": "b60c23af9b1847f5972090453b845819",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "TendoGames",
+  "developerId": "o-zkrstddgpepfv2pdfvfryb6aa5m8nx",
+  "endOfSupport": false,
+  "applicationId": "fghi4567Y0ZbFFQIdqy2Za2hYpiNzYJ2",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

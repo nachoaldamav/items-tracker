@@ -1,0 +1,71 @@
+{
+  "id": "3c40b2b6a82f46c5a989f11e53922a52",
+  "title": "Definitely Sneaky But Not Sneaky",
+  "description": "Definitely Sneaky But Not Sneaky",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5d104c5c902a4f3ba544cce2a964f65c/my-product-13wrf.png",
+      "md5": "371c8648184f29e7784d4d0fd53d68d7",
+      "width": 2560,
+      "height": 1440,
+      "size": 219935,
+      "uploadedDate": "2023-12-30T20:38:53.210Z",
+      "alt": "My Product Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5d104c5c902a4f3ba544cce2a964f65c/my-product-12n54.png",
+      "md5": "59886a47d0b61f8e17a0e642b324146a",
+      "width": 1200,
+      "height": 1600,
+      "size": 161520,
+      "uploadedDate": "2023-12-30T20:50:59.717Z",
+      "alt": "Download My Product Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "125eda42f0574d97a16a5721f10d3ea1",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-30T19:07:33.591Z",
+  "lastModifiedDate": "2024-01-07T09:01:35.333Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "save.json"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DefinitelySneakyGame"
+    }
+  },
+  "entitlementName": "3c40b2b6a82f46c5a989f11e53922a52",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "27ebb28e927242058d27768ba2806bfc",
+      "appId": "ee804c9285484174b8e76fc36d9aea62",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "My Team TeaSully",
+  "developerId": "o-cwdhg2rdjxxfy9khkdcjs7qlcl7nxr",
+  "endOfSupport": false,
+  "applicationId": "fghi45673cTU477py6EZO7aubvCpa08S",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

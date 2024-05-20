@@ -1,0 +1,62 @@
+{
+  "id": "2f4a2c3bf1a54019bacf6b9595a8c200",
+  "title": "Iron Dungeon",
+  "description": "Iron Dungeon",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/03661752cb29418ebe9ba9b6501f9ae5/iron-dungeon-s7tpj.png",
+      "md5": "205b767c9cece1984599219f9eb37353",
+      "width": 2560,
+      "height": 1440,
+      "size": 3640022,
+      "uploadedDate": "2023-05-12T13:48:46.241Z",
+      "alt": "Iron Dungeon Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/03661752cb29418ebe9ba9b6501f9ae5/iron-dungeon-cl8qs.png",
+      "md5": "89c476677faec7ac7db3606d68a23942",
+      "width": 1200,
+      "height": 1600,
+      "size": 1690227,
+      "uploadedDate": "2023-05-12T13:48:44.852Z",
+      "alt": "Download Iron Dungeon Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "838eee1e396444b68504f1713908ee9c",
+  "status": "ACTIVE",
+  "creationDate": "2023-02-27T17:43:34.885Z",
+  "lastModifiedDate": "2023-09-23T19:21:12.994Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "IronDungeonTib0N"
+    }
+  },
+  "entitlementName": "2f4a2c3bf1a54019bacf6b9595a8c200",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9a01c4ade3ab4070b43af65ae926db28",
+      "appId": "d498eefd885b4de1b80c416ad9c42132",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Meridian4",
+  "developerId": "o-lk3h3v3ddypmx7zferz37x5l86w54p",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

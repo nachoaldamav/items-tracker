@@ -1,0 +1,81 @@
+{
+  "id": "b30354a22782418782b6ec092f251f06",
+  "title": "Another Earth",
+  "description": "Another Earth",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/366a8a676ddb47228e6ce9921cd35624/anotherearth-1lo73.jpg",
+      "md5": "f87d1653e5472a47defcc5c4afc606a2",
+      "width": 2560,
+      "height": 1440,
+      "size": 2035171,
+      "uploadedDate": "2023-09-11T03:00:18.222Z",
+      "alt": "AnotherEarth Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/366a8a676ddb47228e6ce9921cd35624/anotherearth-18gjw.png",
+      "md5": "ec1f8dd4d1cc74f75f5484b0ed97b0e4",
+      "width": 1200,
+      "height": 1600,
+      "size": 2141309,
+      "uploadedDate": "2023-07-19T01:23:04.910Z",
+      "alt": "Download AnotherEarth Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "67731d377b774fb8a09ce635295b2d66",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-25T20:22:49.475Z",
+  "lastModifiedDate": "2023-11-01T06:00:20.937Z",
+  "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "ApparelDesigner.exe,ApparelDesigner-Win64-Shipping.exe,AEarth.exe,AEarth-Win64-Shipping.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "World.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AnotherEarth"
+    },
+    "BackgroundProcessNames": {
+      "type": "STRING",
+      "value": "EOSOverlayRenderer-Win64-Shipping.exe,EpicWebHelper.exe,BurningGalaxyUpdater.exe"
+    }
+  },
+  "entitlementName": "b30354a22782418782b6ec092f251f06",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6302961e179040a3a408aa8e605f0261",
+      "appId": "888ad381129e438abd72936e174282e6",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "BurningGalaxy US, Inc",
+  "developerId": "o-tmkn8slr9dqklweg3pfh8y4bmeg7x2",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567oAYY2sQIVYgmztuepx1PltCj",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

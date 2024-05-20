@@ -1,0 +1,65 @@
+{
+  "id": "32fbc754ee344c33a21d0fab41858f81",
+  "title": "Pray for Death",
+  "description": "Pray for Death",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/933ea5bd657442feb79af6149f5bd60a/pray-for-death-offer-sxp8p.jpg",
+      "md5": "6b02a25ef3fc9c9c46013cd777fb0395",
+      "width": 2560,
+      "height": 1440,
+      "size": 891977,
+      "uploadedDate": "2022-03-17T15:44:09.305Z",
+      "alt": "Pray for Death Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/933ea5bd657442feb79af6149f5bd60a/download-pray-for-death-offer-7x1qf.jpg",
+      "md5": "017833e28c0df0545f5be78e0c7c63f1",
+      "width": 1200,
+      "height": 1600,
+      "size": 564944,
+      "uploadedDate": "2022-03-17T15:44:09.673Z",
+      "alt": "Download Pray for Death Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "516f9f06c85048c69f486dd7877c4437",
+  "status": "ACTIVE",
+  "creationDate": "2022-07-01T20:08:04.983Z",
+  "lastModifiedDate": "2022-07-01T20:08:04.983Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "PrayforDeath"
+    }
+  },
+  "entitlementName": "32fbc754ee344c33a21d0fab41858f81",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d48e2e3a28cb420ba439b93c7e4cd9ef",
+      "appId": "753aeec7cd294746a01485b72ee66f24",
+      "platform": [
+        "Win32",
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Interplay Entertainment Corp.",
+  "developerId": "o-ebvwv4fmqxbw48yz3rx65fmxxqfk35",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

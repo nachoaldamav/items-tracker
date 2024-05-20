@@ -1,0 +1,75 @@
+{
+  "id": "02ed1720a96a47b99db04eda3c0d7f10",
+  "title": "Days of Doom",
+  "description": "Days of Doom",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5e31d055b9b04bd087746527e07f3b04/days-of-doom-zf6jw.jpg",
+      "md5": "5189c37b2c8665ac4935425b85ed4b31",
+      "width": 2560,
+      "height": 1440,
+      "size": 2131497,
+      "uploadedDate": "2023-05-23T19:52:53.955Z",
+      "alt": "Days of Doom Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5e31d055b9b04bd087746527e07f3b04/days-of-doom-1qwzz.png",
+      "md5": "343b0162cde1cf8a812a53900df5871c",
+      "width": 1200,
+      "height": 1600,
+      "size": 1979639,
+      "uploadedDate": "2023-05-23T19:21:00.513Z",
+      "alt": "Download Days of Doom Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5e9af916f2694cb7baee762a8b9fb64b",
+  "status": "ACTIVE",
+  "creationDate": "2022-12-22T15:31:24.449Z",
+  "lastModifiedDate": "2023-09-20T14:45:45.269Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Atari Inc_/DaysOfDoom-RtS/{EpicID}/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Atari Inc_/DaysOfDoom-RtS/{EpicID}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "save.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DaysofDoom1ecJL"
+    }
+  },
+  "entitlementName": "02ed1720a96a47b99db04eda3c0d7f10",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "14abb6baf278474db4945fa826ad625c",
+      "appId": "093666e3653043bab985c9029dcac998",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Atari",
+  "developerId": "o-bhpk86rgthezed539g3hb5avacecqt",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

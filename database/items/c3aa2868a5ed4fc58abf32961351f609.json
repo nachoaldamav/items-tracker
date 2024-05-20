@@ -1,0 +1,63 @@
+{
+  "id": "c3aa2868a5ed4fc58abf32961351f609",
+  "title": "Skotos Demo",
+  "description": "Skotos Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/bcf3123569854b6899bdb845592f6a6f/skotos-kleuj.png",
+      "md5": "197d4f8aa7ba6a88b2933fad270c22f4",
+      "width": 2560,
+      "height": 1440,
+      "size": 1192463,
+      "uploadedDate": "2023-09-01T16:28:38.569Z",
+      "alt": "Skotos Skotos Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/bcf3123569854b6899bdb845592f6a6f/skotos-wufjp.png",
+      "md5": "c74817c617f41a20e2e02e95827d5704",
+      "width": 1200,
+      "height": 1600,
+      "size": 832898,
+      "uploadedDate": "2023-09-01T16:28:38.172Z",
+      "alt": "Download Skotos Skotos Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "51800ea98e3848ff9fb9994397684901",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-01T16:20:18.407Z",
+  "lastModifiedDate": "2024-02-11T04:22:04.056Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DemoSkotos"
+    }
+  },
+  "entitlementName": "c3aa2868a5ed4fc58abf32961351f609",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "996c50f5c8124b079de126283d61991d",
+      "appId": "f0880c52b5e6431d91fc0408733a75aa",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "KomodoBit Games",
+  "developerId": "o-5l5tptvzbu4ymcr56w2yclhc6uaxfp",
+  "endOfSupport": false,
+  "applicationId": "fghi45672SVtAYFaYqv7ZDQSY9qyByUd",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,75 @@
+{
+  "id": "3ad264fb77dc48199777274a78d2c5c4",
+  "title": "Fort Solis",
+  "description": "Fort Solis a riveting story-driven thriller on the Red Planet.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/bf0daf28d34c47a7baa849c333451c6d/fort-solis-fnn2m.png",
+      "md5": "0cecf1358d0ebd2eccd4b00da79c1f1e",
+      "width": 2560,
+      "height": 1440,
+      "size": 3521572,
+      "uploadedDate": "2023-08-17T10:03:41.950Z",
+      "alt": "Fort Solis Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/bf0daf28d34c47a7baa849c333451c6d/fort-solis-1op0o.png",
+      "md5": "6aa92dcd1917cfef0f15e18aab9d0af2",
+      "width": 1200,
+      "height": 1600,
+      "size": 2222475,
+      "uploadedDate": "2023-07-31T15:18:35.936Z",
+      "alt": "Download Fort Solis Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9a3407ecc4744962bc0571e024d6c6ea",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-18T15:27:06.687Z",
+  "lastModifiedDate": "2023-08-22T17:59:49.763Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Sycamore/Saved/SaveGames/{EpicID}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "5"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FortSolis"
+    }
+  },
+  "entitlementName": "3ad264fb77dc48199777274a78d2c5c4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b82e2048e1f248368fec7c103ef44d6c",
+      "appId": "18e4bcf3af1c4066a5b2fefa94d81d12",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Plug In Digital SAS",
+  "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

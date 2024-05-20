@@ -1,0 +1,72 @@
+{
+  "id": "619c88bab3fb4c2d88aba7431884d0d1",
+  "title": "Your Computer Might Be At Risk",
+  "description": "Your Computer Might Be At Risk is a first-person narrative puzzle game. Locked up in a room after a mysterious car accident, you must figure out how to escape while surviving dangerous trials and solving dozens of puzzles.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/fab22983e24b42a496e23314cbea7bef/your-computer-might-be-at-risk-ucloo.png",
+      "md5": "a3eeec2da1359f67fd40851a00af6cb3",
+      "width": 2560,
+      "height": 1440,
+      "size": 4149638,
+      "uploadedDate": "2023-03-20T00:32:54.286Z",
+      "alt": "Your Computer Might Be At Risk Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/fab22983e24b42a496e23314cbea7bef/your-computer-might-be-at-risk-udj2m.png",
+      "md5": "eaf4b73592f7c6b0b079e2271ef13569",
+      "width": 1200,
+      "height": 1600,
+      "size": 1464687,
+      "uploadedDate": "2023-03-20T00:32:58.973Z",
+      "alt": "Download Your Computer Might Be At Risk Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "04db5160b1fa4fb9acd8f8603f65e12d",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-10T10:53:18.965Z",
+  "lastModifiedDate": "2023-12-13T23:00:20.439Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/TENEBRIS STUDIO/Your Computer Might Be At Risk/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "savegame.alpk"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "YCMBAR"
+    }
+  },
+  "entitlementName": "619c88bab3fb4c2d88aba7431884d0d1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "660ee607b9fe42e9bfa6a3b4c3fa3d27",
+      "appId": "0f5291705f664b0d8cc545bfb144ca69",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Tenebris Studio",
+  "developerId": "o-2pyewmtztbv8t4u95n68twm2qcxbzz",
+  "endOfSupport": false,
+  "applicationId": "fghi4567gsnaEugTvLfYuToHlnoDicAQ",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

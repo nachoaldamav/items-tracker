@@ -1,0 +1,64 @@
+{
+  "id": "1845a4431f97476398065bdf09ec91f8",
+  "title": "Apeiron",
+  "description": "Apeiron",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/10d3601929b84e46b0571e5e6e89dde7/apeiron-17rxx.jpg",
+      "md5": "bb03b5984d28dc573338b0b33934199c",
+      "width": 2560,
+      "height": 1440,
+      "size": 480242,
+      "uploadedDate": "2024-03-01T12:44:06.144Z",
+      "alt": "Apeiron Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/10d3601929b84e46b0571e5e6e89dde7/apeiron-eyoje.png",
+      "md5": "de82ccf45e8adaeec05afc3a208e4a60",
+      "width": 1200,
+      "height": 1600,
+      "size": 2934788,
+      "uploadedDate": "2024-02-28T15:14:43.090Z",
+      "alt": "Download Apeiron Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0e3a1abdf0514f0cb09467038071df59",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-20T09:21:30.846Z",
+  "lastModifiedDate": "2024-03-05T03:55:34.972Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ApeironrqyFX"
+    }
+  },
+  "entitlementName": "1845a4431f97476398065bdf09ec91f8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0c7f25ce43fa4a1cbbbd71fa99fe588d",
+      "appId": "00ee8a253a3b41748454210555ffa726",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Foonie Magus PTE Limited",
+  "developerId": "o-c4uzde544jkdyn77duwdj7uwwulx37",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

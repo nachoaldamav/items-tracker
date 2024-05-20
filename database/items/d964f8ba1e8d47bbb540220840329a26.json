@@ -1,0 +1,63 @@
+{
+  "id": "d964f8ba1e8d47bbb540220840329a26",
+  "title": "Blood Rush Demo",
+  "description": "Blood Rush Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7fe865c0e23948bf905f79adaf550686/blood-rush-sadjw.png",
+      "md5": "8fff18898e2195c59be4c4cc43cb6ee8",
+      "width": 2560,
+      "height": 1440,
+      "size": 1928068,
+      "uploadedDate": "2024-03-06T08:49:35.582Z",
+      "alt": "Blood Rush Blood Rush Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7fe865c0e23948bf905f79adaf550686/blood-rush-1334s.png",
+      "md5": "d27929c380850f041da3d260aa51b665",
+      "width": 1200,
+      "height": 1600,
+      "size": 864488,
+      "uploadedDate": "2024-03-06T08:49:35.230Z",
+      "alt": "Download Blood Rush Blood Rush Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d65e7e627d1a472b9821ea0985ab729d",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-05T16:29:42.786Z",
+  "lastModifiedDate": "2024-05-01T08:33:15.304Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DemoBloodRush920e9"
+    }
+  },
+  "entitlementName": "d964f8ba1e8d47bbb540220840329a26",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "87927524ddcc490f918cca302e7f2a8d",
+      "appId": "b5edec78aab743d392ab844edab6cccb",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "MaxEstLa",
+  "developerId": "o-4dxbrxpuqhe7v9lpxncjhvbrd2slf4",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

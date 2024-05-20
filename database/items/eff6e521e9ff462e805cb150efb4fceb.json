@@ -1,0 +1,63 @@
+{
+  "id": "eff6e521e9ff462e805cb150efb4fceb",
+  "title": "Diamond Drone",
+  "description": "Diamond Drone",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f534f86252f44408a76f6a8acf866f47/drone-pa-mha7f.png",
+      "md5": "05832658facf53d59b4c5e622af43ed4",
+      "width": 2560,
+      "height": 1440,
+      "size": 4005749,
+      "uploadedDate": "2024-04-19T16:14:52.379Z",
+      "alt": "Drone PA Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f534f86252f44408a76f6a8acf866f47/drone-pa-1kxsh.png",
+      "md5": "0212419d3ca18a249b33df9dca28c72e",
+      "width": 1200,
+      "height": 1600,
+      "size": 1838005,
+      "uploadedDate": "2024-04-19T16:16:25.814Z",
+      "alt": "Download Drone PA Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5e307f50567c4f8fb0c187f0729bfd08",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-08T14:43:57.766Z",
+  "lastModifiedDate": "2024-05-01T14:21:11.105Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DiamondDrone"
+    }
+  },
+  "entitlementName": "eff6e521e9ff462e805cb150efb4fceb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fc69f7dd9928461a9e9a1cb34af74166",
+      "appId": "5078e4398f5a460b847fb93ad070b886",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Program-Ace Europe Limited",
+  "developerId": "o-4ynssxfg52tkdef7qf5bzj3rf3p43h",
+  "endOfSupport": false,
+  "applicationId": "fghi45670NfmMJeHRfsUBNm44Sj73TfS",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

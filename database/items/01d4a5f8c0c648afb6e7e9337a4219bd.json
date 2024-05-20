@@ -1,0 +1,59 @@
+{
+  "id": "01d4a5f8c0c648afb6e7e9337a4219bd",
+  "title": "Calamity",
+  "description": "Calamity",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/865b1a619fe744ed81dd0415fd50f5e6/calamity-1b3vn.jpg",
+      "md5": "406aa2ddfe66c0fc9f50a5059b7f503f",
+      "width": 2560,
+      "height": 1440,
+      "size": 1212851,
+      "uploadedDate": "2024-02-29T10:40:32.488Z",
+      "alt": "Calamity Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/865b1a619fe744ed81dd0415fd50f5e6/calamity-4ony7.jpg",
+      "md5": "a3256909594f28a40b0201c457411590",
+      "width": 1200,
+      "height": 1600,
+      "size": 709379,
+      "uploadedDate": "2024-02-29T10:39:21.041Z",
+      "alt": "Download Calamity Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "605c18826d4048e7902d410f98e219ac",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-25T14:08:00.080Z",
+  "lastModifiedDate": "2024-03-25T14:08:00.080Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "CalamityR3v4W"
+    }
+  },
+  "entitlementName": "01d4a5f8c0c648afb6e7e9337a4219bd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f3871a50be9948a0ae305297c554922a",
+      "appId": "d5f1bc26ed2f49288120f5a13dac93bc"
+    }
+  ],
+  "developer": "Calamity",
+  "developerId": "o-r45tjqx76nq3eb2765qp8qp789khnh",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

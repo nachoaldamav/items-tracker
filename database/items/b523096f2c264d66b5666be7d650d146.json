@@ -1,0 +1,68 @@
+{
+  "id": "b523096f2c264d66b5666be7d650d146",
+  "title": "Spinner Invaders",
+  "description": "Spinner Invaders",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/26f9478531c244aa928e61ad880d310f/spinner-invaders-1mzqn.png",
+      "md5": "8fb01b8ea8f36c9e2b210bb3c06d6dc8",
+      "width": 2560,
+      "height": 1440,
+      "size": 4189960,
+      "uploadedDate": "2023-08-10T00:55:06.237Z",
+      "alt": "Spinner Invaders Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/26f9478531c244aa928e61ad880d310f/spinner-invaders-y14ut.png",
+      "md5": "5575176a7421becd48faa9893959e1d4",
+      "width": 1200,
+      "height": 1600,
+      "size": 2794534,
+      "uploadedDate": "2023-08-10T01:09:01.970Z",
+      "alt": "Download Spinner Invaders Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "76917f4859d54d499bb1660d5347de6c",
+  "status": "ACTIVE",
+  "creationDate": "2023-08-09T20:46:29.618Z",
+  "lastModifiedDate": "2023-09-09T16:53:44.422Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/SpinnerInvaders/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SpinnerInvadersKTony"
+    }
+  },
+  "entitlementName": "b523096f2c264d66b5666be7d650d146",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8b3d0f8000f14defbf5664201db25d84",
+      "appId": "45714ec2887d44ae99945cd0df8ab53b",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Wobi Games",
+  "developerId": "o-qtd9l6ww5nvx4yvxyu49ee5mmtqmk2",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

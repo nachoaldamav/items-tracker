@@ -1,0 +1,65 @@
+{
+  "id": "2a4caf399d814c41b7d4d1936ad5bc3b",
+  "title": "GHOST at DAWN",
+  "description": "GHOST at DAWN",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/77739fdb114243c4b385b75e5b462393/ghost-at-dawn-181jq.png",
+      "md5": "e772ac2b008576b44b67d9163194b5d5",
+      "width": 2560,
+      "height": 1440,
+      "size": 2780289,
+      "uploadedDate": "2024-04-23T18:46:10.773Z",
+      "alt": "GHOST at DAWN Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/77739fdb114243c4b385b75e5b462393/ghost-at-dawn-1624z.png",
+      "md5": "ef1a05bcfe742472829627b4862923e5",
+      "width": 1200,
+      "height": 1600,
+      "size": 2597836,
+      "uploadedDate": "2024-04-23T18:46:18.265Z",
+      "alt": "Download GHOST at DAWN Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "709be43d805f419daa4880a85185a152",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-24T15:58:41.206Z",
+  "lastModifiedDate": "2024-04-24T15:58:41.206Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserProfile}/HKEY_CURRENT_USER/Software\\Blue and Red Games\\Ghost at Dawn/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GHOSTatDAWN"
+    }
+  },
+  "entitlementName": "2a4caf399d814c41b7d4d1936ad5bc3b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ef524b822d3a46628a8ae0f003fbfbc9",
+      "appId": "563103eefbe547db8349db78db1e1445",
+      "platform": []
+    }
+  ],
+  "developer": "Blue and Red Games",
+  "developerId": "o-48d5vm6u234zrd9t23w7qj9ehvjvcc",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,72 @@
+{
+  "id": "e627f5d12d694357a61494abf6be453f",
+  "title": "FlatOut: Ultimate Carnage Collector's Edition",
+  "description": "FlatOut: Ultimate Carnage Collector's Edition",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/39a9ce5f5f2f4d66bb1adc6bd2934579/flatout-ultimate-carnage-1b5o1.jpg",
+      "md5": "0deb6b676b59f77701b9fe1f3876b29d",
+      "width": 2560,
+      "height": 1440,
+      "size": 2961451,
+      "uploadedDate": "2024-01-27T03:50:19.382Z",
+      "alt": "Flatout Ultimate Carnage Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/39a9ce5f5f2f4d66bb1adc6bd2934579/flatout-ultimate-carnage-r2b60.png",
+      "md5": "6a1037dccf3c156d22736301b994df53",
+      "width": 1200,
+      "height": 1600,
+      "size": 3311743,
+      "uploadedDate": "2024-01-27T03:50:20.112Z",
+      "alt": "Download Flatout Ultimate Carnage Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b35a662d8e5f4238a1b9efd18ed8e56b",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-02T01:09:22.131Z",
+  "lastModifiedDate": "2024-04-24T17:21:39.041Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserProfile}/AppData/Local/FlatOut Ultimate Carnage/Savegame/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "player_*.sav,*.dat,gfwl_id.txt,gfwl_username.txt"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FlatoutUltimateCarnaWdKMp"
+    }
+  },
+  "entitlementName": "e627f5d12d694357a61494abf6be453f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4cdbb82d727e491694cb99530c311e14",
+      "appId": "e52a1f74e21b474a82735850d626e7e4",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Strategy First",
+  "developerId": "o-a3vefcg43bn6j4lwc7qs8n5y38jm7k",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,81 @@
+{
+  "id": "bc9091dada2c4708a1da8028a4c2f1d6",
+  "title": "Super Bit Blaster XL",
+  "description": "Super Bit Blaster XL",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/63e5468a49a04e569e089b0efe952dfa/super-bit-blaster-xl-s2k86.png",
+      "md5": "933996417109f962acf6e58bb80c18ce",
+      "width": 2560,
+      "height": 1440,
+      "size": 1241710,
+      "uploadedDate": "2023-03-09T17:22:32.430Z",
+      "alt": "Super Bit Blaster XL Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/63e5468a49a04e569e089b0efe952dfa/super-bit-blaster-xl-w4wd4.png",
+      "md5": "e300e5131424b6f13bee2a30db2bbcc3",
+      "width": 1200,
+      "height": 1600,
+      "size": 4121995,
+      "uploadedDate": "2023-03-09T17:21:47.602Z",
+      "alt": "Download Super Bit Blaster XL Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b9857458d4d5405bb222610cd9f979d9",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-20T22:05:13.347Z",
+  "lastModifiedDate": "2023-04-20T22:05:13.347Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/unity.Nickervision Studios.Super Bit Blaster XL/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Nickervision Studios/Super Bit Blaster XL/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "dat01.sbbxl"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SuperBitBlasterXL"
+    }
+  },
+  "entitlementName": "bc9091dada2c4708a1da8028a4c2f1d6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "61fa0d7da5c044bc834640ca600047ea",
+      "appId": "50eea1735e20408db0a809d39238caba",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Adamvision Studios",
+  "developerId": "o-bjvdefuhv7yqnu5e6qb8sdj8xj3slv",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

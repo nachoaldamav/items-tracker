@@ -1,0 +1,64 @@
+{
+  "id": "668f69bc20b046ff8b1447e9ba1e0f24",
+  "title": "Space Empires II",
+  "description": "Space Empires II",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/390b41e345c34744a72de024b869a256/space-empires-ii-offer-1kptu.png",
+      "md5": "161aa83d529668f94ab9205ed1bbd4c6",
+      "width": 2560,
+      "height": 1440,
+      "size": 2866303,
+      "uploadedDate": "2022-09-13T02:25:28.212Z",
+      "alt": "Space Empires II Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/390b41e345c34744a72de024b869a256/download-space-empires-ii-offer-dpghf.png",
+      "md5": "1eb12d2e32eb9db2d3687498e61f3971",
+      "width": 1200,
+      "height": 1600,
+      "size": 1366837,
+      "uploadedDate": "2022-09-13T02:25:29.343Z",
+      "alt": "Download Space Empires II Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1ee7593b33534bf8b890d08c62304a3f",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-15T21:13:18.176Z",
+  "lastModifiedDate": "2022-09-15T21:13:18.176Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SpaceEmpiresII"
+    }
+  },
+  "entitlementName": "668f69bc20b046ff8b1447e9ba1e0f24",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9a65484f60a5451089418bb0300162e2",
+      "appId": "c51a96697dae45419722faf28919bfe1",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Strategy First",
+  "developerId": "o-a3vefcg43bn6j4lwc7qs8n5y38jm7k",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

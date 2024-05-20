@@ -1,0 +1,76 @@
+{
+  "id": "59a0c86d02da42e8ba6444cb171e61bf",
+  "title": "The Elder Scrolls IV: Oblivion® Game of the Year Edition",
+  "description": "The Elder Scrolls IV: Oblivion® Game of the Year Edition presents one of the best RPGs of all time like never before. Step inside the most richly detailed and vibrant game-world ever created.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/541b3ca52c4f423d83fb2411c5e45962/oblivion-1mzza.jpg",
+      "md5": "b4cc664c7e435cbb5525b7a169d23916",
+      "width": 2560,
+      "height": 1440,
+      "size": 3098537,
+      "uploadedDate": "2024-03-05T22:02:29.275Z",
+      "alt": "Oblivion Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/541b3ca52c4f423d83fb2411c5e45962/oblivion-pccyc.jpg",
+      "md5": "50061897e18fc540652e075ea0e125ea",
+      "width": 1200,
+      "height": 1600,
+      "size": 1210332,
+      "uploadedDate": "2024-03-05T22:02:31.847Z",
+      "alt": "Download Oblivion Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3e8bb00c44d748c6bb16bc83f12bb9e0",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-16T15:00:20.267Z",
+  "lastModifiedDate": "2024-05-16T15:00:20.267Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/Oblivion/Saves/"
+    },
+    "LaunchElevated": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Oblivion"
+    }
+  },
+  "entitlementName": "59a0c86d02da42e8ba6444cb171e61bf",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f9ab4e1aa3d04753bd1eef4773bc9312",
+      "appId": "0d0c62755e5a45c7a07fd9cc0b61c39c",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "eulaIds": [
+    "(egstore && oblivion)"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,62 @@
+{
+  "id": "583b7e17202d4c488561ed323928d726",
+  "title": "WarForwards",
+  "description": "WarForwards",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa6ac864798348109d9c84f5a1a1a09d/warforwards-1s24r.png",
+      "md5": "097d9d746cc3318bd2cbb5c90a91a4f0",
+      "width": 2560,
+      "height": 1440,
+      "size": 2660393,
+      "uploadedDate": "2022-11-04T19:34:38.372Z",
+      "alt": "WarForwards Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa6ac864798348109d9c84f5a1a1a09d/warforwards-1tuft.png",
+      "md5": "c23d535017d318614a7d9a6ba1ffe3ea",
+      "width": 1200,
+      "height": 1600,
+      "size": 1924561,
+      "uploadedDate": "2022-11-04T19:34:39.750Z",
+      "alt": "Download WarForwards Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0d9c3853256243f5b7bc08e2ec6afb44",
+  "status": "ACTIVE",
+  "creationDate": "2022-11-04T18:46:21.396Z",
+  "lastModifiedDate": "2023-03-24T02:37:14.611Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "WarForwards2PzVM"
+    }
+  },
+  "entitlementName": "583b7e17202d4c488561ed323928d726",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2f83ec7085f544d189b5cdb91a8c61d2",
+      "appId": "9e405b98da3f4a718c6b142bc25a4dc1",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Meridian4",
+  "developerId": "o-lk3h3v3ddypmx7zferz37x5l86w54p",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

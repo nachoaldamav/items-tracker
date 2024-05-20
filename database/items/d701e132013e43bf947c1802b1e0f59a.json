@@ -1,0 +1,70 @@
+{
+  "id": "d701e132013e43bf947c1802b1e0f59a",
+  "title": "Demeo",
+  "description": "Adventurers, it’s time to unite! Gather your friends and battle the dark forces that have overtaken the world of Resolution Games' award-winning RPG dungeon crawler, Demeo. The next generation of tabletop adventure has arrived!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/299f06a5b6b543e88b00e500c47ee364/demeo-18ym4.png",
+      "md5": "3fabad2b495ba7aa5b6c805ee761e959",
+      "width": 2560,
+      "height": 1440,
+      "size": 1483639,
+      "uploadedDate": "2022-10-27T14:47:49.557Z",
+      "alt": "Demeo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/299f06a5b6b543e88b00e500c47ee364/demeo-1jht6.png",
+      "md5": "259f0afe63a56d5056d4fe893d2bc84e",
+      "width": 1200,
+      "height": 1600,
+      "size": 2581521,
+      "uploadedDate": "2022-10-27T16:02:41.352Z",
+      "alt": "Download Demeo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2fc1f2a89cc9472f9f09807c2a4ccd8c",
+  "status": "ACTIVE",
+  "creationDate": "2022-05-10T19:16:00.372Z",
+  "lastModifiedDate": "2022-12-19T19:46:21.196Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Demeo"
+    },
+    "extraLaunchOption_001_PlatformRestriction": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d701e132013e43bf947c1802b1e0f59a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "16e4d4f600464c8abece510d420375b8",
+      "appId": "2f57705411bd4948879a3463cce623cb",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Resolution Games AB",
+  "developerId": "o-grq9a5f7f3b22mphqkzmugkcdu6zqg",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

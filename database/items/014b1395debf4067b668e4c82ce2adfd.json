@@ -1,0 +1,63 @@
+{
+  "id": "014b1395debf4067b668e4c82ce2adfd",
+  "title": "Amber",
+  "description": "Amber",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/796221a567fe4b75b716df8a4f13b4e7/amber-15zbd.jpg",
+      "md5": "8a02ac10d2b016d1c81d0d5ae70a55fe",
+      "width": 2560,
+      "height": 1440,
+      "size": 3136805,
+      "uploadedDate": "2023-10-23T21:35:07.950Z",
+      "alt": "Amber Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/796221a567fe4b75b716df8a4f13b4e7/amber-exjzp.jpg",
+      "md5": "2b7dc082fc69bb1fe7ca5c2ce50f02ce",
+      "width": 1200,
+      "height": 1600,
+      "size": 597566,
+      "uploadedDate": "2023-10-23T21:37:37.730Z",
+      "alt": "Download Amber Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e0ee1d8777e441d3ae01f796ed427261",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-02T15:48:17.783Z",
+  "lastModifiedDate": "2023-11-19T01:42:14.050Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "AmberqMtGh"
+    }
+  },
+  "entitlementName": "014b1395debf4067b668e4c82ce2adfd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4e24128a000e4fc1adcd0c714d281c93",
+      "appId": "a615833f8ebe4c058bbcb61d97b4f2ab",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Gouache Airship LLC",
+  "developerId": "o-sac4lznzs74962kdhzlyye84l63han",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

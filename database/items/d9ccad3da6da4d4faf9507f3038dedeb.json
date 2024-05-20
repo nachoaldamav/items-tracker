@@ -1,0 +1,63 @@
+{
+  "id": "d9ccad3da6da4d4faf9507f3038dedeb",
+  "title": "Kill Fish",
+  "description": "Kill Fish",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4c878815b9bb4f91b522aa91145e0b43/kill-fish-nhgn8.png",
+      "md5": "103959f68d3d0fff0b1ea56585d53ee3",
+      "width": 2560,
+      "height": 1440,
+      "size": 1805141,
+      "uploadedDate": "2023-02-13T23:33:09.435Z",
+      "alt": "Kill Fish Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4c878815b9bb4f91b522aa91145e0b43/kill-fish-ouqy3.png",
+      "md5": "b04214b85bce2b3b6981c2b03f6b97c6",
+      "width": 1200,
+      "height": 1600,
+      "size": 1303528,
+      "uploadedDate": "2023-02-13T23:33:10.004Z",
+      "alt": "Download Kill Fish Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b612947c63a54d77b0c4d301c5c74dbc",
+  "status": "ACTIVE",
+  "creationDate": "2023-02-13T21:05:13.618Z",
+  "lastModifiedDate": "2023-02-14T20:46:19.328Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "KillFish"
+    }
+  },
+  "entitlementName": "d9ccad3da6da4d4faf9507f3038dedeb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7104d2cdc7b94b4ab2aaad64d1911b49",
+      "appId": "09da303c4850448a8a9fc601292118e3",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Meridian4",
+  "developerId": "o-lk3h3v3ddypmx7zferz37x5l86w54p",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

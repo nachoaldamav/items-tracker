@@ -1,0 +1,62 @@
+{
+  "id": "cdbb8e45a8e54845954ef783843a572b",
+  "title": "Grim Nights",
+  "description": "Grim Nights",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/29b641c046cc44559e803ddb725d2f6a/grim-nights-ddzt6.png",
+      "md5": "a8dba0cee8328f139ee1b0d217969bba",
+      "width": 2560,
+      "height": 1440,
+      "size": 320909,
+      "uploadedDate": "2023-04-03T04:59:40.762Z",
+      "alt": "Grim Nights Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/29b641c046cc44559e803ddb725d2f6a/grim-nights-9ow7r.png",
+      "md5": "011eceba4b21f79bd4cb0e3d895885d2",
+      "width": 1200,
+      "height": 1600,
+      "size": 197379,
+      "uploadedDate": "2023-04-03T04:59:39.051Z",
+      "alt": "Download Grim Nights Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9d5393fd5460430e80d2bfe9fcd55d6a",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-31T12:17:12.035Z",
+  "lastModifiedDate": "2023-04-24T10:42:28.133Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "GrimNightssareW"
+    }
+  },
+  "entitlementName": "cdbb8e45a8e54845954ef783843a572b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "aedec52659234234925a797d93b1491a",
+      "appId": "5abe2e21d6614a0398a7763bd2fee742",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Edym Pixels",
+  "developerId": "o-zynpshzxa6ze74pxypmh7qdltp2yhm",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

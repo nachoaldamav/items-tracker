@@ -1,0 +1,72 @@
+{
+  "id": "a141db69d2104139bf36a3f49189fe02",
+  "title": "Sea of Dreams",
+  "description": "Set sail on a luxury cruise with Sea of Dreams. But beware, this ship is full of puzzles and horrors that will keep you on the edge of your seat! Can you solve the mystery and escape?",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/05f05357c87943939135fc6a21bf15bb/sea-of-dreams-a2bw2.jpg",
+      "md5": "126fea145bccfb7003c4a36ed66e6557",
+      "width": 2560,
+      "height": 1440,
+      "size": 1226365,
+      "uploadedDate": "2023-10-12T07:20:03.434Z",
+      "alt": "Sea of Dreams Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/05f05357c87943939135fc6a21bf15bb/sea-of-dreams-gk5ev.jpg",
+      "md5": "0bdf20da6ed7d04d91c405da236cd638",
+      "width": 1200,
+      "height": 1600,
+      "size": 782438,
+      "uploadedDate": "2023-10-12T07:20:03.051Z",
+      "alt": "Download Sea of Dreams Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a7414e60172b4759a136d064018119c1",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-11T08:28:40.501Z",
+  "lastModifiedDate": "2024-02-13T07:31:08.623Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Dezeiraud/Sea of Dreams/saves/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "0.sea"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SeaofDreamsPWGwy"
+    }
+  },
+  "entitlementName": "a141db69d2104139bf36a3f49189fe02",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "99be181b5f9b407f839eea098bd9c332",
+      "appId": "277f6bba88104e7cbf69e2dffcf4b7ae",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Dezeiraud Gaëtan",
+  "developerId": "o-9e5pw2xgtsd6wdl5sn34lke4klyqup",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

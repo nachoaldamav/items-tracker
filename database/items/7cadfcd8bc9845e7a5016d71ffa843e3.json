@@ -1,0 +1,63 @@
+{
+  "id": "7cadfcd8bc9845e7a5016d71ffa843e3",
+  "title": "EARTHLOCK",
+  "description": "Description is not set",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3fa7dc9ed5df483cb4cba9a1e7d7497c/earthlock-akidc.png",
+      "md5": "a5694bf188457f3a1dfd95c19a88dbd0",
+      "width": 2560,
+      "height": 1440,
+      "size": 1218007,
+      "uploadedDate": "2023-10-10T14:26:40.839Z",
+      "alt": "EARTHLOCK Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3fa7dc9ed5df483cb4cba9a1e7d7497c/earthlock-jkucv.png",
+      "md5": "53c4b4c82357cfd5d7e018b57e34aa7d",
+      "width": 1200,
+      "height": 1600,
+      "size": 399516,
+      "uploadedDate": "2023-10-10T14:26:40.401Z",
+      "alt": "Download EARTHLOCK Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5c82c05d2978489090d30c05e17e6e12",
+  "status": "ACTIVE",
+  "creationDate": "2023-08-30T07:00:24.598Z",
+  "lastModifiedDate": "2023-11-15T15:08:31.415Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "EARTHLOCKofSSb"
+    }
+  },
+  "entitlementName": "7cadfcd8bc9845e7a5016d71ffa843e3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b5d43e14f0c647d5a41619730eebcda1",
+      "appId": "4a4ffcf1a8354008bcc3b28280dd2419",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Snowcastle Games",
+  "developerId": "o-bpprrrleujjcdbcm85kdtuu6q6fm2e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

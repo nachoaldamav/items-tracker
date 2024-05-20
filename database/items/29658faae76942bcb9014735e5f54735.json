@@ -1,0 +1,71 @@
+{
+  "id": "29658faae76942bcb9014735e5f54735",
+  "title": "Roboquest",
+  "description": "Roboquest is a fast FPS Roguelite in a scorched futureworld. You're a rebooted Guardian, ready to kick some metal ass! Fight with your buddy or by yourself and annihilate hordes of deadly bots in ever-changing environments.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/57efac686e694e809af4210acf71fea4/roboquest-1woij.jpg",
+      "md5": "e2275a206ba4dc02fb31fb1893b5176f",
+      "width": 2560,
+      "height": 1440,
+      "size": 677725,
+      "uploadedDate": "2023-10-12T21:39:10.247Z",
+      "alt": "Roboquest Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/57efac686e694e809af4210acf71fea4/roboquest-cgej2.jpg",
+      "md5": "127abe809e503b6926b358d81b46a19c",
+      "width": 1200,
+      "height": 1600,
+      "size": 436997,
+      "uploadedDate": "2023-10-12T21:39:10.023Z",
+      "alt": "Download Roboquest Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c981760ff69f4586aedb60a6db191705",
+  "status": "ACTIVE",
+  "creationDate": "2023-08-18T08:38:23.271Z",
+  "lastModifiedDate": "2024-03-13T09:17:09.303Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/RoboQuest/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "RQProfile.sav,\nRQControls.sav,\nRQSettings.sav,\nRQProfileCopy.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Roboquest"
+    }
+  },
+  "entitlementName": "29658faae76942bcb9014735e5f54735",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d47fc02836714026b156756dbc05567a",
+      "appId": "a28031666c73412788d1cfc5b14be329",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "New Starbreeze Publishing AB",
+  "developerId": "o-p8dyby5wsvpu4yezxdg24d555hsyz3",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

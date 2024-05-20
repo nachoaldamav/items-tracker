@@ -1,0 +1,63 @@
+{
+  "id": "8134ad38161041e4b82f9ad37637adc1",
+  "title": "Devil's Island",
+  "description": "Devil's Island",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8765e0a84b9f42948abfca013c50c1a3/devils-island-1tgov.jpg",
+      "md5": "34417d72c1fee6a62ee218c1dec99a51",
+      "width": 2560,
+      "height": 1440,
+      "size": 530090,
+      "uploadedDate": "2024-01-19T07:37:37.141Z",
+      "alt": "Devil's Island Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8765e0a84b9f42948abfca013c50c1a3/devils-island-1xw2t.jpg",
+      "md5": "b1208da610ae2044dc85f271d38587fc",
+      "width": 1200,
+      "height": 1600,
+      "size": 401322,
+      "uploadedDate": "2024-01-19T07:36:30.868Z",
+      "alt": "Download Devil's Island Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "090ac4b263f44ea79418069fddfb0d9b",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-02T14:28:03.416Z",
+  "lastModifiedDate": "2024-01-27T11:16:22.647Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Devils_Island"
+    }
+  },
+  "entitlementName": "8134ad38161041e4b82f9ad37637adc1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "be24b1ad3cd44ad88f869ae0dc985576",
+      "appId": "62e4d3ca24ca4e48b6004ac96ba79275",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Never Say Never Mateusz Pytlik",
+  "developerId": "o-z9rcmambfhws6b5upuu9rrg8bnpzms",
+  "endOfSupport": false,
+  "applicationId": "fghi4567tJIHc7lSJoadiVOfq7M34BCl",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

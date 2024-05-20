@@ -1,0 +1,62 @@
+{
+  "id": "44fe9a087dc348e7806d58955d9b2140",
+  "title": "RichBroker",
+  "description": "RichBroker",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/802edb67498649159806f7d9c71b267b/richbroker-w5dn5.png",
+      "md5": "797c42b6785933298b669f22903554c0",
+      "width": 2560,
+      "height": 1440,
+      "size": 487838,
+      "uploadedDate": "2023-03-29T00:06:54.260Z",
+      "alt": "RichBroker Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/802edb67498649159806f7d9c71b267b/richbroker-16bo9.png",
+      "md5": "11878dee57711ac010a4e7c04da068aa",
+      "width": 1200,
+      "height": 1600,
+      "size": 295175,
+      "uploadedDate": "2023-03-29T00:09:49.680Z",
+      "alt": "Download RichBroker Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c01c0a9b79094e8c91164d2e1f50b131",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-19T20:34:32.574Z",
+  "lastModifiedDate": "2023-04-19T20:34:32.574Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "RichBrokerhpTt0"
+    }
+  },
+  "entitlementName": "44fe9a087dc348e7806d58955d9b2140",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b64d7d1f317c4e8d96f601a22d510ca6",
+      "appId": "fa27ba38aca142b980c24b5a85efaae1",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Take It Forward AB",
+  "developerId": "o-7j5ed6k9bljs6qm56tyckfasgzv8q8",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

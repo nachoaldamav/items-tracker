@@ -1,0 +1,72 @@
+{
+  "id": "6d05547f9d554884b2b3e4fe2b0f9ccb",
+  "title": "Cymatically Muffed",
+  "description": "Don't you hate it when you wake up and some scientist has experimented on you and stolen your headphones? Muffed is a fast-paced top-down shooter where you and your friends can find that guy and make him pay. Or fight everyone you know in the best 2-16 player PvP games around.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ffd26e6fb73a45fb9077a58e1268d5f8/cymatically-muffed-rx88z.png",
+      "md5": "e8cd4aa0108f0d31f3f1ade4af407f49",
+      "width": 2560,
+      "height": 1440,
+      "size": 534081,
+      "uploadedDate": "2023-03-10T02:08:37.386Z",
+      "alt": "Cymatically Muffed Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ffd26e6fb73a45fb9077a58e1268d5f8/cymatically-muffed-inkog.png",
+      "md5": "a95ad401177cb242f908cc8c227e54fe",
+      "width": 1200,
+      "height": 1600,
+      "size": 392044,
+      "uploadedDate": "2023-03-10T02:08:37.275Z",
+      "alt": "Download Cymatically Muffed Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5522b27e4f4b46a5b595b7ff6cb7874b",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-20T21:43:24.789Z",
+  "lastModifiedDate": "2023-03-20T21:43:25.356Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "settings.muffed"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CymaticallyMuffed1IPZo"
+    }
+  },
+  "entitlementName": "6d05547f9d554884b2b3e4fe2b0f9ccb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f862729a62734a85a75ddd47065b2205",
+      "appId": "030b57080679417ca5311e63fa5d74a7",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Kelsam Games",
+  "developerId": "o-daew68c37auexhk3vpe3zgma2b5gtg",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

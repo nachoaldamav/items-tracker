@@ -1,0 +1,75 @@
+{
+  "id": "b97b54632e88432e93238aab29d2d135",
+  "title": "Mokoko X",
+  "description": "Mokoko X release discount!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7d52e1d78b014a42b932b15fd26aabaa/mokoko-x-vn42u.jpg",
+      "md5": "e2bdd7a14803299a4d85c2bfd1377c6b",
+      "width": 2560,
+      "height": 1440,
+      "size": 1500911,
+      "uploadedDate": "2023-04-26T14:54:51.159Z",
+      "alt": "Mokoko X Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7d52e1d78b014a42b932b15fd26aabaa/mokoko-x-k40p6.jpg",
+      "md5": "d7a4aeec97358c035bba5b902b174346",
+      "width": 1200,
+      "height": 1600,
+      "size": 922217,
+      "uploadedDate": "2023-04-26T14:56:03.996Z",
+      "alt": "Download Mokoko X Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cace077f51674e66b937ba8d5646fff7",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-12T01:47:39.855Z",
+  "lastModifiedDate": "2023-07-26T13:36:36.293Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/NAISU/Mokoko X/{EpicID}/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/NAISU/Mokoko X/{EpicID}/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MokokoX1O5Gi"
+    }
+  },
+  "entitlementName": "b97b54632e88432e93238aab29d2d135",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bbb18dc706ed46768028d6b587de3f3e",
+      "appId": "e8cc6210c9f045c194f4cde4b40c33ad",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "NAISU",
+  "developerId": "o-v73y7hsuy6ac4bj4nthzecrgpup96p",
+  "endOfSupport": false,
+  "applicationId": "fghi45675uxhNBFmaX1Z7TxfLZQjySiL",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

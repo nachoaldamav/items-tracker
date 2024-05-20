@@ -1,0 +1,63 @@
+{
+  "id": "9acdb81e0a1f47daa0a3991cb934a8cc",
+  "title": "POLYGOD",
+  "description": "POLYGOD",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b8e6a021cba74017acafe69f246ee927/polygod-xfmtq.png",
+      "md5": "522d4c4461b6fb4d1477326565ab3c79",
+      "width": 2560,
+      "height": 1440,
+      "size": 1075187,
+      "uploadedDate": "2023-06-21T19:13:35.370Z",
+      "alt": "POLYGOD Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b8e6a021cba74017acafe69f246ee927/polygod-11uac.png",
+      "md5": "5055ac1ce9c94dc2c922d10a0dfc6999",
+      "width": 1200,
+      "height": 1600,
+      "size": 1474742,
+      "uploadedDate": "2023-06-21T19:14:32.086Z",
+      "alt": "Download POLYGOD Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d02570f640194fd688d4b4aefc81ec64",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-23T19:51:29.744Z",
+  "lastModifiedDate": "2023-06-27T11:59:31.763Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "POLYGOD"
+    }
+  },
+  "entitlementName": "9acdb81e0a1f47daa0a3991cb934a8cc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b0d06c80e7f54349bb5b67b54e7df200",
+      "appId": "5d6bb9d7dda748af982d8288f0300ebf",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "POLYGOD LTD",
+  "developerId": "o-tsu9puhzug7rrudhpd9e2tjfuu238c",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

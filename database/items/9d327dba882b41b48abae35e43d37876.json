@@ -1,0 +1,67 @@
+{
+  "id": "9d327dba882b41b48abae35e43d37876",
+  "title": "Monsters of Mican",
+  "description": "Monsters of Mican",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2e7b063c93cf49caa47b0cd8daccaecb/monsters-of-mican-txidd.png",
+      "md5": "463526d4537fe410003b0aa567c1b6de",
+      "width": 2560,
+      "height": 1440,
+      "size": 2031132,
+      "uploadedDate": "2023-09-20T20:06:07.187Z",
+      "alt": "Monsters of Mican Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2e7b063c93cf49caa47b0cd8daccaecb/monsters-of-mican-1yo0w.png",
+      "md5": "204e26a6a13bf0f4fd3b0cf19a762065",
+      "width": 1200,
+      "height": 1600,
+      "size": 3042550,
+      "uploadedDate": "2023-09-20T20:06:07.490Z",
+      "alt": "Download Monsters of Mican Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "737058bee79c4c47a4faa14289678dcd",
+  "status": "ACTIVE",
+  "creationDate": "2023-08-23T15:44:51.866Z",
+  "lastModifiedDate": "2023-10-26T13:50:05.789Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/ProjectMM2/Saved\\SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MonstersofMican3ksB6"
+    }
+  },
+  "entitlementName": "9d327dba882b41b48abae35e43d37876",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e01c8a4c5158408e8a7aa658797cea2f",
+      "appId": "4013b23ec0144069aa4de3d330ebd7e1",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Blankitt Productions",
+  "developerId": "o-n8luvslhb6fct94zsuvclen33x3mn8",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

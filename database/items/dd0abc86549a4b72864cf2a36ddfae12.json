@@ -1,0 +1,63 @@
+{
+  "id": "dd0abc86549a4b72864cf2a36ddfae12",
+  "title": "Strawhart",
+  "description": "Strawhart",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ebf63532f4a34df0922b2abd666a5cac/strawhart-1spr4.png",
+      "md5": "eb123da2ed9cf280782b2e0382c3950f",
+      "width": 2560,
+      "height": 1440,
+      "size": 2333694,
+      "uploadedDate": "2023-03-19T08:06:46.299Z",
+      "alt": "Strawhart Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ebf63532f4a34df0922b2abd666a5cac/strawhart-1d41r.png",
+      "md5": "f2c44bb1e9c11560d0c8c7b13fffda0d",
+      "width": 1200,
+      "height": 1600,
+      "size": 2155994,
+      "uploadedDate": "2023-03-19T04:13:32.253Z",
+      "alt": "Download Strawhart Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "59c7280154cc4fe1a7c3a4a7d6f74adf",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-18T17:00:26.632Z",
+  "lastModifiedDate": "2023-04-18T17:00:26.632Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Strawhart"
+    }
+  },
+  "entitlementName": "dd0abc86549a4b72864cf2a36ddfae12",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4ab064e7afdf4a94b34f9c59dc83787d",
+      "appId": "2da006e6975b43cea29fd726b423b1e7",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Cypher Creations",
+  "developerId": "o-gvmzzfrarer367838tsrcsz8wlpned",
+  "endOfSupport": false,
+  "applicationId": "fghi4567kd0axDwS5xiJmIm58MVsbsZt",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

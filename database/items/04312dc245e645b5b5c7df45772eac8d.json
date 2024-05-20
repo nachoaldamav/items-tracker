@@ -1,0 +1,81 @@
+{
+  "id": "04312dc245e645b5b5c7df45772eac8d",
+  "title": "Stories from the Outbreak",
+  "description": "Stories from the Outbreak",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c36039fd76a84141bc394ed7ba6d054e/stories-from-the-outbreak-cn029.jpg",
+      "md5": "bff4fc3dee607da4a228b8d55c20cb0b",
+      "width": 2560,
+      "height": 1440,
+      "size": 466954,
+      "uploadedDate": "2024-02-26T11:09:48.504Z",
+      "alt": "Stories from the Outbreak Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c36039fd76a84141bc394ed7ba6d054e/stories-from-the-outbreak-1nnsr.jpg",
+      "md5": "bc168abb2a92dc97624d909209747da0",
+      "width": 1200,
+      "height": 1600,
+      "size": 481727,
+      "uploadedDate": "2024-02-26T11:09:54.376Z",
+      "alt": "Download Stories from the Outbreak Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "54b2781b490444debc7739e562b05291",
+  "status": "ACTIVE",
+  "creationDate": "2024-02-26T10:38:06.971Z",
+  "lastModifiedDate": "2024-03-27T07:57:16.368Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/com.ColdwildGames.stories-from-the-outbreak/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/ColdwildGames/stories_from_the_outbreak/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "128"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "StoriesfromtheOutbreJ9rHM"
+    }
+  },
+  "entitlementName": "04312dc245e645b5b5c7df45772eac8d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1cde2e77ec5248dbaa6898444ead221a",
+      "appId": "88a467dcaa6e4cc8b590e471719d2745",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "AbsoDev SIA",
+  "developerId": "o-29m7zu5ccgcltuf6k3rv6tuqy56qla",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

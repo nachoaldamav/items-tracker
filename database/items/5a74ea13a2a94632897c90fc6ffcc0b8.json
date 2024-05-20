@@ -1,0 +1,71 @@
+{
+  "id": "5a74ea13a2a94632897c90fc6ffcc0b8",
+  "title": "The Last Game",
+  "description": "The Last Game",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c232e3d469e248d8a6a4847a5256b5a4/the-last-game-198mr.png",
+      "md5": "b9c1bc91d3edeb499f23fff7aa861d43",
+      "width": 2560,
+      "height": 1440,
+      "size": 604185,
+      "uploadedDate": "2023-12-29T12:10:18.591Z",
+      "alt": "The Last Game Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c232e3d469e248d8a6a4847a5256b5a4/the-last-game-ysvrv.png",
+      "md5": "ec529c3dc7595dc878ebb34c8d273914",
+      "width": 1200,
+      "height": 1600,
+      "size": 291150,
+      "uploadedDate": "2023-12-29T12:10:16.403Z",
+      "alt": "Download The Last Game Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "90079069d1374cfa9356974d8a3a9821",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-24T10:19:08.139Z",
+  "lastModifiedDate": "2024-01-01T00:22:55.870Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/TheLastGame/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.tres"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheLastGame"
+    }
+  },
+  "entitlementName": "5a74ea13a2a94632897c90fc6ffcc0b8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a26acc0643484bb5a71f064fd0c0879a",
+      "appId": "3a187a93c2044a1ead75161f5c5a351a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Frédéric Julian",
+  "developerId": "o-437ln3eqvmajkjpgd7ufchnkh79ksl",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

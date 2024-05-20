@@ -1,0 +1,62 @@
+{
+  "id": "e029816b461a4566bee71c88e9977bbd",
+  "title": "Blue Oak Bridge",
+  "description": "Blue Oak Bridge",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7faa14ae76ee4c15ae9d983ffc25224d/blue-oak-bridge-1u44r.jpg",
+      "md5": "71cd38dfce62770ae648fed7287fa309",
+      "width": 2560,
+      "height": 1440,
+      "size": 1851130,
+      "uploadedDate": "2024-02-05T19:05:33.344Z",
+      "alt": "Blue Oak Bridge Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7faa14ae76ee4c15ae9d983ffc25224d/blue-oak-bridge-1i918.jpg",
+      "md5": "3750d28b5b361dec43758fafc43dc4e1",
+      "width": 1200,
+      "height": 1600,
+      "size": 1011697,
+      "uploadedDate": "2024-02-05T19:05:32.789Z",
+      "alt": "Download Blue Oak Bridge Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4dbe3446fbe1495a822cbea817f5606e",
+  "status": "ACTIVE",
+  "creationDate": "2024-02-13T17:36:59.752Z",
+  "lastModifiedDate": "2024-02-13T17:36:59.752Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BlueOakBridgeLStn2"
+    }
+  },
+  "entitlementName": "e029816b461a4566bee71c88e9977bbd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d70bf4f2050f42b19739aef76cebe7ce",
+      "appId": "812cd367e0e743f986bed4b4c77304a6",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Lemon Seed Studio",
+  "developerId": "o-evvkvpu854fgu9ylqxwn8yuzqe4a8q",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,62 @@
+{
+  "id": "b8886f1e901548eda1bb115f1210a876",
+  "title": "Red Dust",
+  "description": "Red Dust",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/773f4abcb77f4dda94d2612419d21159/red-dust-aqsgn.png",
+      "md5": "8780ebdf48a93380702651e6b6cd53e6",
+      "width": 2560,
+      "height": 1440,
+      "size": 1522562,
+      "uploadedDate": "2023-01-20T19:15:11.306Z",
+      "alt": "Red Dust Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/773f4abcb77f4dda94d2612419d21159/red-dust-1gpip.png",
+      "md5": "c4725e6e9d20c06e2247da163a1e1e0b",
+      "width": 1200,
+      "height": 1600,
+      "size": 1357552,
+      "uploadedDate": "2023-03-20T16:07:44.689Z",
+      "alt": "Download Red Dust Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e1f5f24381aa4e71ba784004c1487775",
+  "status": "ACTIVE",
+  "creationDate": "2023-01-20T18:29:20.610Z",
+  "lastModifiedDate": "2023-03-20T16:07:50.768Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "RedDustL2AlZ"
+    }
+  },
+  "entitlementName": "b8886f1e901548eda1bb115f1210a876",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b32b838e404148298bc0300fd336959f",
+      "appId": "522c6c25fc1a4824a64b47ca8f86ddc1",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Meridian4",
+  "developerId": "o-lk3h3v3ddypmx7zferz37x5l86w54p",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

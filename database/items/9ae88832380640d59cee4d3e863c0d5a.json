@@ -1,0 +1,62 @@
+{
+  "id": "9ae88832380640d59cee4d3e863c0d5a",
+  "title": "BC Kings",
+  "description": "BC Kings",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/09e4fa2543ad4610bc8b6bb03fd0043c/bc-kings-1proj.png",
+      "md5": "bafe195eb5e9265dd6a11a7841b0714d",
+      "width": 2560,
+      "height": 1440,
+      "size": 2052903,
+      "uploadedDate": "2023-11-30T21:35:41.732Z",
+      "alt": "BC Kings Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/09e4fa2543ad4610bc8b6bb03fd0043c/bc-kings-1n1y8.png",
+      "md5": "20e4e47840ebc2906fecad2ae390df3b",
+      "width": 1200,
+      "height": 1600,
+      "size": 2156149,
+      "uploadedDate": "2023-11-30T21:35:48.983Z",
+      "alt": "Download BC Kings Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cb30564bfc1d47b593805e5c0acfc135",
+  "status": "ACTIVE",
+  "creationDate": "2024-01-19T17:11:07.709Z",
+  "lastModifiedDate": "2024-01-19T17:11:07.709Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BCKings1nvnY"
+    }
+  },
+  "entitlementName": "9ae88832380640d59cee4d3e863c0d5a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9e73203a745c48858bef3d69b5464e05",
+      "appId": "0db3b05bd1a3465eaa37bdfaeda9446a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Strategy First",
+  "developerId": "o-a3vefcg43bn6j4lwc7qs8n5y38jm7k",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

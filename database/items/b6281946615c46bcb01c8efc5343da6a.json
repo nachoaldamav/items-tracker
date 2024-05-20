@@ -1,0 +1,63 @@
+{
+  "id": "b6281946615c46bcb01c8efc5343da6a",
+  "title": "CyberTitans",
+  "description": "CyberTitans",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/bdb939c1c8f4476784ab9aa7289356de/cybertitans-kyos3.png",
+      "md5": "f680cd96467b2c446ce0712479679763",
+      "width": 2560,
+      "height": 1440,
+      "size": 4137338,
+      "uploadedDate": "2023-04-21T10:14:12.237Z",
+      "alt": "CyberTitans Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/bdb939c1c8f4476784ab9aa7289356de/cybertitans-10nwa.png",
+      "md5": "30d869993d5d16537e100d3affd684b6",
+      "width": 1200,
+      "height": 1600,
+      "size": 2605450,
+      "uploadedDate": "2023-04-21T10:14:10.658Z",
+      "alt": "Download CyberTitans Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cf8c412fbb52453d83133933381e634d",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-03T11:14:31.378Z",
+  "lastModifiedDate": "2023-10-03T09:29:33.900Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "CyberTitansReXTz"
+    }
+  },
+  "entitlementName": "b6281946615c46bcb01c8efc5343da6a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fc294b5d658544f998b03e9e8808ff31",
+      "appId": "1c1d603387cd454390a5ff66be935f17",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "LitLab Games",
+  "developerId": "o-yqdj4vsvh98kuau8jjp3cvdp5p553r",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

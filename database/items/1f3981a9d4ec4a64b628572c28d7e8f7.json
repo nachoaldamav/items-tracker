@@ -1,0 +1,75 @@
+{
+  "id": "1f3981a9d4ec4a64b628572c28d7e8f7",
+  "title": "Alpha League",
+  "description": "Alpha League",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ffebece5871248dbb0761a81cceb229a/alpha-league-1bgcl.png",
+      "md5": "3fa31b412bb21c80907139eeca98c2f5",
+      "width": 2560,
+      "height": 1440,
+      "size": 1968185,
+      "uploadedDate": "2024-01-31T02:37:16.274Z",
+      "alt": "Alpha League Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ffebece5871248dbb0761a81cceb229a/alpha-league-qr02v.png",
+      "md5": "2e28916c1281c74b3b4590eb71a9bd4d",
+      "width": 1200,
+      "height": 1600,
+      "size": 1396917,
+      "uploadedDate": "2024-01-31T02:38:41.057Z",
+      "alt": "Download Alpha League Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e7d3d2bfe6a44e2cab8b2348f1572591",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-09T11:12:02.644Z",
+  "lastModifiedDate": "2024-04-10T02:55:09.217Z",
+  "customAttributes": {
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "AlphaLeague.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "AlphaLeague.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AlphaLeaguePS7LU"
+    },
+    "BackgroundProcessNames": {
+      "type": "STRING",
+      "value": "AlphaLeagueLauncher.exe"
+    }
+  },
+  "entitlementName": "1f3981a9d4ec4a64b628572c28d7e8f7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fc830293477947f49cbed728ce7a24aa",
+      "appId": "1a30312ec8194d40ae9f8db859ace2f6",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Beaveroid Entertainment",
+  "developerId": "o-ejhn4qzxjc4d7n5upd7hhyjsll9hlr",
+  "endOfSupport": false,
+  "applicationId": "fghi4567EnhPaPu9ghBBET4ESBLy9e4F",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

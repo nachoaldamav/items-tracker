@@ -1,0 +1,63 @@
+{
+  "id": "725be95b392c4ef4989326666d892c35",
+  "title": "GeoJelly",
+  "description": "GeoJelly",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ac7b0dbd78674f1898df0c6e969c2cf7/geojelly-7x9bp.png",
+      "md5": "79033356baceae4fc853e2b1ebdf9fd7",
+      "width": 2560,
+      "height": 1440,
+      "size": 2176315,
+      "uploadedDate": "2023-04-21T10:08:36.088Z",
+      "alt": "GeoJelly Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ac7b0dbd78674f1898df0c6e969c2cf7/geojelly-drtfc.png",
+      "md5": "7a3a166c5fe1a463c5b1b580cdd2ac95",
+      "width": 1200,
+      "height": 1600,
+      "size": 1264127,
+      "uploadedDate": "2023-04-21T10:08:32.837Z",
+      "alt": "Download GeoJelly Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "78f9ed2320784e4f95ecd6e689f81e2f",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-09T22:12:37.362Z",
+  "lastModifiedDate": "2023-06-12T11:00:35.453Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "GeoJelly3uxs4"
+    }
+  },
+  "entitlementName": "725be95b392c4ef4989326666d892c35",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bd14527886e3431f81d63750db143a82",
+      "appId": "cc759655c877475baf93e61554adf5bd",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Source Byte Sp. z o.o.",
+  "developerId": "o-yfgydcathkyuxndflrnxmaxudylwbj",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

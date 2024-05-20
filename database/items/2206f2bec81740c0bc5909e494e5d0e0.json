@@ -1,0 +1,63 @@
+{
+  "id": "2206f2bec81740c0bc5909e494e5d0e0",
+  "title": "Hide and Seek",
+  "description": "Hide and Seek",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/39df63993cb840b29c84a509bc295cbe/hide-and-seek-gfn32.png",
+      "md5": "b2617a317c6e7f43afd0b3526b68a37c",
+      "width": 2560,
+      "height": 1440,
+      "size": 2098540,
+      "uploadedDate": "2023-10-07T15:03:57.836Z",
+      "alt": "Hide and Seek Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/39df63993cb840b29c84a509bc295cbe/hide-and-seek-13vy9.png",
+      "md5": "f2a41945ea737a4c72f4816dc71d8f07",
+      "width": 1200,
+      "height": 1600,
+      "size": 1112872,
+      "uploadedDate": "2023-10-07T15:02:19.876Z",
+      "alt": "Download Hide and Seek Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2918f07c226a49308895622ed4937eb1",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-27T07:44:21.518Z",
+  "lastModifiedDate": "2023-10-27T07:44:21.518Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "HideAndSeeke"
+    }
+  },
+  "entitlementName": "2206f2bec81740c0bc5909e494e5d0e0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8284156608cd4620843c0a447b1da5ec",
+      "appId": "71ef707ffbfa4336bd51889213b14d60",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "My Team Flaksa",
+  "developerId": "o-lh6y6a63pv9xjyt3ymd6nwcd4wa3wk",
+  "endOfSupport": false,
+  "applicationId": "fghi4567l9maEJWIGKO17VoY9f0uQ1DE",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

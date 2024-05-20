@@ -1,0 +1,76 @@
+{
+  "id": "0c9e54ca51fc49778d8ce7d78c2770f9",
+  "title": "DotLine",
+  "description": "DotLine",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/52debbddafd34a0594cc79b556a6955f/dot-line-24u8w.png",
+      "md5": "e2751120d56a758edac131dcf0c0bcbc",
+      "width": 2560,
+      "height": 1440,
+      "size": 90246,
+      "uploadedDate": "2023-12-17T15:17:36.361Z",
+      "alt": "Dot Line Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/52debbddafd34a0594cc79b556a6955f/dot-line-ugr2o.png",
+      "md5": "da811c3fbcec3ea71a540fca43c508a4",
+      "width": 1200,
+      "height": 1600,
+      "size": 482546,
+      "uploadedDate": "2023-12-17T15:17:54.214Z",
+      "alt": "Download Dot Line Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e582a1469e18401e8729827444ea2c8e",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-09T12:05:55.397Z",
+  "lastModifiedDate": "2024-02-16T07:01:39.906Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/TheSeleniteForge/DotLine/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "user.profile"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DotLine"
+    }
+  },
+  "entitlementName": "0c9e54ca51fc49778d8ce7d78c2770f9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "36a61158976249ea9da9f36d589383d1",
+      "appId": "7d121435780e4c50ba7cabbe18ad3ebd",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "The Selenite Forge",
+  "developerId": "o-k9qd76nx59cf3brxtkjjelbqwfh5yt",
+  "endOfSupport": false,
+  "applicationId": "fghi4567zykYTOPzC3CJ5IwOrdBpnGQ9",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

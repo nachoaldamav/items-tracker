@@ -1,0 +1,71 @@
+{
+  "id": "1af7b1439f4546c99f3d56264c293daf",
+  "title": "Weed Shop 3",
+  "description": "Weed Shop 3",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9e7e18e29f7144178626ee0307537a9e/weed-shop-3-ux68z.png",
+      "md5": "9507493a1296f5b6146e748f733ba8d1",
+      "width": 2560,
+      "height": 1440,
+      "size": 3190122,
+      "uploadedDate": "2024-02-20T00:44:43.657Z",
+      "alt": "Weed Shop 3 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9e7e18e29f7144178626ee0307537a9e/weed-shop-3-23uwc.png",
+      "md5": "d371ac58dd0e24359088b3b43f4c9170",
+      "width": 1200,
+      "height": 1600,
+      "size": 2361514,
+      "uploadedDate": "2024-02-20T00:44:45.376Z",
+      "alt": "Download Weed Shop 3 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "84367f1107b84e12ae5d2ef1d36d071e",
+  "status": "ACTIVE",
+  "creationDate": "2024-02-02T08:28:32.232Z",
+  "lastModifiedDate": "2024-04-24T20:57:20.149Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Weed Games/Weed Shop 3/Cloud/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.weed"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WeedShop3"
+    }
+  },
+  "entitlementName": "1af7b1439f4546c99f3d56264c293daf",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8c4f82f7b2d24d99bcd5401525906dce",
+      "appId": "03b76479a2174a2fb69eda6e0a645ae3",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Almost Games",
+  "developerId": "o-rqjmxbppx7hhtstdhm7b5m7fzhsjz4",
+  "endOfSupport": false,
+  "applicationId": "fghi4567evIWCuAUSirweLgqDx9cqq5F",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

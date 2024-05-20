@@ -1,0 +1,62 @@
+{
+  "id": "96eb2769e9634d66804e9743f252bd64",
+  "title": "Federation",
+  "description": "Federation",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8af46ec460e8493b8bbeefe184850371/federation-14nii.png",
+      "md5": "281146bfee9ff00f5f057324e2be7878",
+      "width": 2560,
+      "height": 1440,
+      "size": 2072854,
+      "uploadedDate": "2023-07-03T19:13:15.621Z",
+      "alt": "Federation Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8af46ec460e8493b8bbeefe184850371/federation-yg58v.png",
+      "md5": "42da739db67f1306df294c9070da114d",
+      "width": 1200,
+      "height": 1600,
+      "size": 1232718,
+      "uploadedDate": "2023-07-03T19:13:19.341Z",
+      "alt": "Download Federation Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ff6f8be77181424abd51b0fc551da825",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-29T19:50:37.547Z",
+  "lastModifiedDate": "2023-12-25T07:25:53.245Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "FederationkVod0"
+    }
+  },
+  "entitlementName": "96eb2769e9634d66804e9743f252bd64",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "338f0d97bda045d0b5312f04547edeb3",
+      "appId": "f489f80656654e39b6d7f794d2735638",
+      "platform": [
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "State Machine Games",
+  "developerId": "o-k4vpe59l26xns8ec9p2kf4628xkmqv",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

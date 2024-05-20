@@ -1,0 +1,64 @@
+{
+  "id": "0849ef951a8a4325ae52320e708c01c8",
+  "title": "Eternium",
+  "description": "Eternium",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/310f0b261fdf409990f9600bb1cfcfb4/eternium-1st9w.jpg",
+      "md5": "d06aa925a463883336222e4cc079bc10",
+      "width": 2560,
+      "height": 1440,
+      "size": 1950895,
+      "uploadedDate": "2023-12-05T19:08:40.733Z",
+      "alt": "Eternium Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/310f0b261fdf409990f9600bb1cfcfb4/eternium-eo1kk.png",
+      "md5": "44f8d736b2347d46764452707dab3f60",
+      "width": 1200,
+      "height": 1600,
+      "size": 2429459,
+      "uploadedDate": "2023-12-05T19:08:44.020Z",
+      "alt": "Download Eternium Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7957c388e44f4467a33496ce06d11020",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-18T12:41:44.850Z",
+  "lastModifiedDate": "2023-12-18T12:41:44.850Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "EterniumGame"
+    }
+  },
+  "entitlementName": "0849ef951a8a4325ae52320e708c01c8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6be4d0f7dc5342d284367f2a2c8c8a2c",
+      "appId": "87348e33f1af4ee7885603c79e17835d",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Making Fun, Inc.",
+  "developerId": "o-rsvnkh3ltmgn35qvcfjtv8pdqwp8tb",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

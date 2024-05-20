@@ -1,0 +1,62 @@
+{
+  "id": "849e5f56f7de46888c52db518288672e",
+  "title": "Lost Station",
+  "description": "Lost Station",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/eb02a07f42ef41a9b64f6e80be66484e/lost-station-1q9ph.png",
+      "md5": "253182249dcc064e4c5d118328d9684f",
+      "width": 2560,
+      "height": 1440,
+      "size": 1363900,
+      "uploadedDate": "2023-05-23T08:31:47.041Z",
+      "alt": "Lost Station Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/eb02a07f42ef41a9b64f6e80be66484e/lost-station-1o9kn.png",
+      "md5": "eb1338acf7eda0a393096f0bed3b2de3",
+      "width": 1200,
+      "height": 1600,
+      "size": 1029281,
+      "uploadedDate": "2023-05-23T08:31:46.855Z",
+      "alt": "Download Lost Station Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c008c76e4c4946c7b9ad466bd02ad96c",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-19T09:11:55.830Z",
+  "lastModifiedDate": "2023-05-23T18:59:31.343Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "LostStationvHOFv"
+    }
+  },
+  "entitlementName": "849e5f56f7de46888c52db518288672e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4990ac1b2edd47288248a2b120e9559b",
+      "appId": "c046b595d74543fdbc956bd69723c2ec",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Velocity Visions",
+  "developerId": "o-jg6f7g69vcf4en8lc8bz7qf6q8pkl7",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

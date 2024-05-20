@@ -1,0 +1,61 @@
+{
+  "id": "dccb763838c74abc9a9c164d846fb294",
+  "title": "Game Room",
+  "description": "Game Room",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/edf98245b9c24aed82722e519e7413f4/gameroom-1ivyp.jpg",
+      "md5": "c5aa58d421baccc14789b3c5829c29d6",
+      "width": 2560,
+      "height": 1440,
+      "size": 564447,
+      "uploadedDate": "2023-12-09T21:19:58.874Z",
+      "alt": "GameRoom Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/edf98245b9c24aed82722e519e7413f4/gameroom-8zg6j.jpg",
+      "md5": "969fb958db50d9f8c1cec8a5176d18c4",
+      "width": 1200,
+      "height": 1600,
+      "size": 363502,
+      "uploadedDate": "2023-12-09T21:19:59.457Z",
+      "alt": "Download GameRoom Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "40712343dccb4c8183c34eda1c034c17",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-19T15:28:27.134Z",
+  "lastModifiedDate": "2023-12-19T15:28:27.134Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "GameRoom9ZWzx"
+    }
+  },
+  "entitlementName": "dccb763838c74abc9a9c164d846fb294",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "171c0713b7d54f6bb72bb00d58834449",
+      "appId": "e269eea51014403fabe6a1a56286e3f4",
+      "platform": []
+    }
+  ],
+  "developer": "Games For Humans",
+  "developerId": "o-28ljg62g5rbztddrmsbeykymrf6c7h",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

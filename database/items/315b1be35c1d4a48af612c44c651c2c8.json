@@ -1,0 +1,37 @@
+{
+  "id": "315b1be35c1d4a48af612c44c651c2c8",
+  "title": "DevRealityCaptureAudience",
+  "description": "DevRealityCaptureAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "ecc92c9d225843f5827847052fb9f5f3",
+  "status": "ACTIVE",
+  "creationDate": "2024-02-26T22:10:52.948Z",
+  "lastModifiedDate": "2024-04-17T16:02:04.258Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "315b1be35c1d4a48af612c44c651c2c8",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Capturing Reality",
+  "developerId": "o-7le6rzkgmkataxcebsm3wpwcekr4xx",
+  "eulaIds": [
+    "realitycapture2"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

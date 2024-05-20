@@ -1,0 +1,64 @@
+{
+  "id": "bd5021f60bef4b36a8d3d5b4a4623f34",
+  "title": "Escape from Blackwood",
+  "description": "Escape from Blackwood",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c16e04ace15f42bf8e6b2552a76a1468/escaperoom-3zfm4.png",
+      "md5": "f7762db954b77ced3eabfb77f7d6ed79",
+      "width": 2560,
+      "height": 1440,
+      "size": 2296206,
+      "uploadedDate": "2024-01-02T18:48:28.355Z",
+      "alt": "Escaperoom Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c16e04ace15f42bf8e6b2552a76a1468/escaperoom-ufklo.png",
+      "md5": "077e78a9ccc7cfac663a0c1cab33dc2b",
+      "width": 1200,
+      "height": 1600,
+      "size": 904555,
+      "uploadedDate": "2024-01-02T18:50:35.303Z",
+      "alt": "Download Escaperoom Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b38098b4cbc9429ab4f1eac7a23cf152",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-23T10:06:58.057Z",
+  "lastModifiedDate": "2024-02-07T08:13:35.694Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "EscapefromBlackwood"
+    }
+  },
+  "entitlementName": "bd5021f60bef4b36a8d3d5b4a4623f34",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d923d49fbbb9485caebed92de13bedf7",
+      "appId": "f115a3e5dfab4b1ea321e37e7736d0fe",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Irthael",
+  "developerId": "o-2ghyz5b3c9m53ap9v8sl39dzk4mrn7",
+  "endOfSupport": false,
+  "applicationId": "fghi4567BJ0yloYU34B4HsEtVUnQ8E2A",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

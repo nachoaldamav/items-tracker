@@ -1,0 +1,63 @@
+{
+  "id": "7658fe564e8b4dabbfd684693317283a",
+  "title": "FuseWars",
+  "description": "FuseWars",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/31a64974550f40428bd465d44b88e161/fusewars-1742w.jpg",
+      "md5": "44c9f5d31bb4a64d49249677b39d979e",
+      "width": 2560,
+      "height": 1440,
+      "size": 1170162,
+      "uploadedDate": "2024-05-02T11:29:24.979Z",
+      "alt": "FuseWars Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/31a64974550f40428bd465d44b88e161/fusewars-qhaku.jpg",
+      "md5": "8b8d31602ff260ebe7070bce4c78e341",
+      "width": 1200,
+      "height": 1600,
+      "size": 667667,
+      "uploadedDate": "2024-05-02T11:30:28.318Z",
+      "alt": "Download FuseWars Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bcaf5657e1b440098c0672be0406b274",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-02T12:09:25.898Z",
+  "lastModifiedDate": "2024-05-16T19:10:41.411Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SymbioteFuseWars14iKv"
+    }
+  },
+  "entitlementName": "7658fe564e8b4dabbfd684693317283a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "10aef2ad38bb4fa1805999ddd54ea87e",
+      "appId": "c1a68488610f478a9179e540a9a9d4e3",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Symbiote Online",
+  "developerId": "o-yeehkz3p92vt49nsytwlet7xr6megy",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,64 @@
+{
+  "id": "90a2b70d88f942feafeed823ee36cea5",
+  "title": "Bunnerly",
+  "description": "Bunnerly",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/125bc8e922494b30b4cf568ffead811d/bunnerly-1ytsv.png",
+      "md5": "77c38b58c9af7926a480604fbbf5c4d6",
+      "width": 2560,
+      "height": 1440,
+      "size": 2365248,
+      "uploadedDate": "2023-07-04T12:51:19.575Z",
+      "alt": "Bunnerly Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/125bc8e922494b30b4cf568ffead811d/bunnerly-m4ity.png",
+      "md5": "130a56b1292489993ab09578d63a5ccb",
+      "width": 1200,
+      "height": 1600,
+      "size": 1302041,
+      "uploadedDate": "2023-07-04T12:53:49.603Z",
+      "alt": "Download Bunnerly Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "eaa2c4e26f184354b825f93dd49f30d3",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-17T14:22:12.464Z",
+  "lastModifiedDate": "2023-11-08T22:55:10.735Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Bunnerly"
+    }
+  },
+  "entitlementName": "90a2b70d88f942feafeed823ee36cea5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "daaaa04cee0d4171aebeb55298f34a25",
+      "appId": "7b9a7aea60474e1c80e89fc30194038d",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Noise-_'s Organization",
+  "developerId": "o-gru6a4ckgvvutehmk3nd6z6jhldbaz",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

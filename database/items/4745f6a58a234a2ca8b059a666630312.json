@@ -1,0 +1,63 @@
+{
+  "id": "4745f6a58a234a2ca8b059a666630312",
+  "title": "Mall of Mayhem",
+  "description": "Mall of Mayhem",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/68eae0c8692b45dabfcb8d60f10874a9/mallofmayhem-1wxuw.png",
+      "md5": "c7ca9a8f81e25f3688fcb93455b0b98d",
+      "width": 2560,
+      "height": 1440,
+      "size": 2746024,
+      "uploadedDate": "2023-12-27T23:31:29.543Z",
+      "alt": "MallOfMayhem Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/68eae0c8692b45dabfcb8d60f10874a9/mallofmayhem-1hwky.png",
+      "md5": "f91ddb680b153bd3276cce14d80eb11f",
+      "width": 1200,
+      "height": 1600,
+      "size": 2132928,
+      "uploadedDate": "2023-12-27T23:31:30.070Z",
+      "alt": "Download MallOfMayhem Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d635c59e9720449a996cb8753309e034",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-01T20:22:46.856Z",
+  "lastModifiedDate": "2023-12-31T21:49:00.835Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "MallOfMayhem"
+    }
+  },
+  "entitlementName": "4745f6a58a234a2ca8b059a666630312",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7fcedc807b4144e6a44c0a3a7b65adab",
+      "appId": "c77d9af35f3842a9b2618fb814b79fcd",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "KomodoBit Games",
+  "developerId": "o-5l5tptvzbu4ymcr56w2yclhc6uaxfp",
+  "endOfSupport": false,
+  "applicationId": "fghi456763W2Q470LwaxbHaBUfkKfRCu",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

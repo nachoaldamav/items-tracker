@@ -1,0 +1,71 @@
+{
+  "id": "07c6f69b35d44fe49119cdb82b584f9d",
+  "title": "DESOLATIUM",
+  "description": "DESOLATIUM",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e885bc8594884b44997e962e1c8b36d1/desolatium-ez4bo.jpg",
+      "md5": "46d0a3b2c7e7a62bbd20db3895d73064",
+      "width": 2560,
+      "height": 1440,
+      "size": 1415969,
+      "uploadedDate": "2024-02-20T12:59:08.691Z",
+      "alt": "Desolatium Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e885bc8594884b44997e962e1c8b36d1/desolatium-1ktkx.jpg",
+      "md5": "fa063950b96b1f0c4183b5c366888e72",
+      "width": 1200,
+      "height": 1600,
+      "size": 1079161,
+      "uploadedDate": "2024-02-20T12:59:23.548Z",
+      "alt": "Download Desolatium Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6b86aaf9e810458f874c7d43eb81e813",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-14T14:00:12.342Z",
+  "lastModifiedDate": "2024-03-14T14:00:12.342Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/DESOLATIUM/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "EPIC_DESOLATIUM.sav,EPIC_DESOLATIUM_ACHIEVEMENTS.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DESOLATIUM"
+    }
+  },
+  "entitlementName": "07c6f69b35d44fe49119cdb82b584f9d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "085d95330daa4b5088fb223056958e05",
+      "appId": "e9b76bc3809241a99777fc862e945f96",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SOEDESCO",
+  "developerId": "o-9uf2bsrkptwqbkpy867grcbj5jxrta",
+  "endOfSupport": false,
+  "applicationId": "fghi4567hU3mtSyU5yLF1S4sfktttSQc",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

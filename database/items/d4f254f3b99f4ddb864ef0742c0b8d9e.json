@@ -1,0 +1,63 @@
+{
+  "id": "d4f254f3b99f4ddb864ef0742c0b8d9e",
+  "title": "Below the Stone",
+  "description": "Below the Stone",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2f992650c7014ddda5ad14e253a2a1fc/below-the-stone-s00jd.jpg",
+      "md5": "c2de0138f64832513a05abe87f20ddcc",
+      "width": 2560,
+      "height": 1440,
+      "size": 972102,
+      "uploadedDate": "2023-09-07T20:35:55.601Z",
+      "alt": "Below the Stone Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2f992650c7014ddda5ad14e253a2a1fc/below-the-stone-1f0yw.png",
+      "md5": "504e09e615078690d17c42255b30cc53",
+      "width": 1200,
+      "height": 1600,
+      "size": 2606129,
+      "uploadedDate": "2023-09-07T20:36:03.195Z",
+      "alt": "Download Below the Stone Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5bf936d4fd4843b38fc2e8b7ea682c08",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-20T01:38:42.074Z",
+  "lastModifiedDate": "2024-04-25T15:24:47.964Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BelowTheStone"
+    }
+  },
+  "entitlementName": "d4f254f3b99f4ddb864ef0742c0b8d9e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "82a3ae842017499588fd62760c5cb3cc",
+      "appId": "e7140f937d5d4b4cbcf5b8cb538412c2",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Apogee Entertainment",
+  "developerId": "o-xh5dj82gy56frdyzfntt85yf5clm2c",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

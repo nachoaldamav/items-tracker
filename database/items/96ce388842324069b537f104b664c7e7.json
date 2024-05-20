@@ -1,0 +1,64 @@
+{
+  "id": "96ce388842324069b537f104b664c7e7",
+  "title": "RENNSPORT",
+  "description": "RENNSPORT",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/876bd39e4c1c40c7bfeaa079e816ed6d/rennsport-1ssj4.png",
+      "md5": "23ff14dcfee6661061b74591ceff9c39",
+      "width": 2560,
+      "height": 1440,
+      "size": 2215415,
+      "uploadedDate": "2023-05-26T13:21:37.720Z",
+      "alt": "RENNSPORT Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/876bd39e4c1c40c7bfeaa079e816ed6d/rennsport-obzxv.png",
+      "md5": "0e437140f3508532d5fcd3816b927c91",
+      "width": 1200,
+      "height": 1600,
+      "size": 656779,
+      "uploadedDate": "2023-05-26T13:21:36.659Z",
+      "alt": "Download RENNSPORT Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1faf75ce10534366b99229d1507de1cb",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-02T21:35:07.228Z",
+  "lastModifiedDate": "2023-11-24T16:59:39.573Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "RENNSPORT"
+    }
+  },
+  "entitlementName": "96ce388842324069b537f104b664c7e7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b8918bf2759942859688703c686c81c6",
+      "appId": "086fe0e0dc97479da235fc9562895da5",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Competition Company Suisse AG",
+  "developerId": "o-xu7shfl836m6mvjwu2wrhba7v5jhdy",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

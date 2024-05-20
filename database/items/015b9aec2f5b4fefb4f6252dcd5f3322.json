@@ -1,0 +1,71 @@
+{
+  "id": "015b9aec2f5b4fefb4f6252dcd5f3322",
+  "title": "Flyto",
+  "description": "Flyto",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9b769cfd088b42a08b488abc576e6a69/flyto-13kfl.jpg",
+      "md5": "7abca47511e4225500b3bc79af71b26a",
+      "width": 2560,
+      "height": 1440,
+      "size": 2772273,
+      "uploadedDate": "2023-03-14T07:23:08.457Z",
+      "alt": "Flyto Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9b769cfd088b42a08b488abc576e6a69/flyto-bv608.png",
+      "md5": "35d8144a89b3d0ac460c70e929d43e79",
+      "width": 1200,
+      "height": 1600,
+      "size": 3143168,
+      "uploadedDate": "2023-03-14T07:52:42.124Z",
+      "alt": "Download Flyto Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "05e01595336148b1963903952ee960b3",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-13T13:55:51.329Z",
+  "lastModifiedDate": "2023-07-30T10:28:38.665Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserDir}/Flyto/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/Flyto/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Flyto"
+    }
+  },
+  "entitlementName": "015b9aec2f5b4fefb4f6252dcd5f3322",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "98ba0207fe0b4a859ebe188f23b85af8",
+      "appId": "d435e3e8acce4bceb1453b0de667ef28",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Flytogame",
+  "developerId": "o-yeq57dx8fd39jn54yrexxex9bc2a56",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

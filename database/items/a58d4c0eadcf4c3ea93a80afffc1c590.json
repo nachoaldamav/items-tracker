@@ -1,0 +1,63 @@
+{
+  "id": "a58d4c0eadcf4c3ea93a80afffc1c590",
+  "title": "Apartment Of Death",
+  "description": "Apartment Of Death",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0e8ad39b42494c678b0cb0a79d30732d/the-apartment-bzee7.png",
+      "md5": "df6d3a7bac34582ff7e3ae0637c597a6",
+      "width": 2560,
+      "height": 1440,
+      "size": 3216569,
+      "uploadedDate": "2024-03-15T14:55:22.853Z",
+      "alt": "The Apartment Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0e8ad39b42494c678b0cb0a79d30732d/the-apartment-14d5d.png",
+      "md5": "3502a89ce2ed69dec320a056a2f2d4d6",
+      "width": 1200,
+      "height": 1600,
+      "size": 1882043,
+      "uploadedDate": "2024-03-15T14:55:21.749Z",
+      "alt": "Download The Apartment Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a289e2f87380496290f9be28b5a277f6",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-05T12:07:24.079Z",
+  "lastModifiedDate": "2024-04-16T22:27:44.086Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ApartmentOfDeath"
+    }
+  },
+  "entitlementName": "a58d4c0eadcf4c3ea93a80afffc1c590",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e8c6388819d04b7193ecb87410fe7d67",
+      "appId": "e4de7eacbabc47e3bcaaf3b6550191ef",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "QZQ Studio",
+  "developerId": "o-22tpa7vc9c9rnfqssdh679y2ag83ej",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

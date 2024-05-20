@@ -1,0 +1,71 @@
+{
+  "id": "0016d288e0d7450eafb81fe5df476907",
+  "title": "Tuk Tuk Race",
+  "description": "\"Tuk Tuk Race\" is a game in which you race in a tuk-tuk.\nRide a tuk-tuk and try to win the race!\nLet's drive in the nature of beautiful graphics in a tuk-tuk.\nNow, please enjoy this funny racing game.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1eeb83658ee04502a1ef3b14acf50abe/tuk-tuk-race-kv4uw.jpg",
+      "md5": "36db370c78daf16bcd2735cd4e521765",
+      "width": 2560,
+      "height": 1440,
+      "size": 1389641,
+      "uploadedDate": "2023-04-17T04:19:46.857Z",
+      "alt": "Tuk Tuk Race Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1eeb83658ee04502a1ef3b14acf50abe/tuk-tuk-race-l9vui.png",
+      "md5": "f79409d941edd8caa3fe90877f62e184",
+      "width": 1200,
+      "height": 1600,
+      "size": 3439985,
+      "uploadedDate": "2023-04-19T06:28:01.819Z",
+      "alt": "Download Tuk Tuk Race Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ac81f14c79ea44c49607398f6ade3b69",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-22T00:53:56.216Z",
+  "lastModifiedDate": "2023-04-22T00:53:56.216Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Tuk Tuk Race/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TukTukRaceqtOTP"
+    }
+  },
+  "entitlementName": "0016d288e0d7450eafb81fe5df476907",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "77805512ff4b4db2989c09ea58c5b707",
+      "appId": "1e68b898d67a471388123d939456bde2",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "INORK Game",
+  "developerId": "o-kl4ee8lwf6kfwpxrtn259nvxc52nkp",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

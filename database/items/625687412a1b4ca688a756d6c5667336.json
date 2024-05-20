@@ -1,0 +1,75 @@
+{
+  "id": "625687412a1b4ca688a756d6c5667336",
+  "title": "Shadow Gambit: The Cursed Crew",
+  "description": "Welcome to the Lost Caribbean! In this stealth strategy game, join a ghost ship with a living soul and assemble a cursed pirate crew. Embrace magical powers to defy the menacing Inquisition, who stands between you and the mysterious treasure of the legendary Captain Mordechai.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/04fe02862c1b48aea2d2f79d9e3eff47/shadow-gambit--the-cursed-crew-o471x.jpg",
+      "md5": "3cf6067f7f73f390f09a003a52cbb486",
+      "width": 2560,
+      "height": 1440,
+      "size": 971518,
+      "uploadedDate": "2023-01-29T11:50:18.148Z",
+      "alt": "Shadow Gambit - The Cursed Crew Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/04fe02862c1b48aea2d2f79d9e3eff47/shadow-gambit--the-cursed-crew-1bhes.jpg",
+      "md5": "c350fe8b27fcc8174de8a81718e5a287",
+      "width": 1200,
+      "height": 1600,
+      "size": 777902,
+      "uploadedDate": "2022-12-14T10:51:49.354Z",
+      "alt": "Download Shadow Gambit - The Cursed Crew Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "42b8b899a3f349bd8376264ccee3cd2a",
+  "status": "ACTIVE",
+  "creationDate": "2022-11-21T14:00:15.018Z",
+  "lastModifiedDate": "2023-12-06T16:25:39.052Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/ShadowGambit_TCC/user_eos_{EpicID}/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/ShadowGambit_TCC/user_eos_{EpicID}/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "audioSettings.save,devSettings.save,videoSettings.save"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ShadowGambit_TCC"
+    }
+  },
+  "entitlementName": "625687412a1b4ca688a756d6c5667336",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5f9194b0a7d6442aa3c8db45c9b078df",
+      "appId": "ee14798931c0496c823bb633362e157b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Mimimi Games GmbH",
+  "developerId": "o-448ug6yf46mtyrujc4x2qup7nqfsge",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

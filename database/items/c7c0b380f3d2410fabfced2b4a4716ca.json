@@ -1,0 +1,64 @@
+{
+  "id": "c7c0b380f3d2410fabfced2b4a4716ca",
+  "title": "Mars Battle",
+  "description": "Mars Battle",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9583fc11965b4e5abf6bdbf1686ce0eb/mars-battle-14h7l.png",
+      "md5": "34684ed3593638343dc518579d46dc88",
+      "width": 2560,
+      "height": 1440,
+      "size": 1117486,
+      "uploadedDate": "2024-03-21T07:41:03.251Z",
+      "alt": "Mars Battle Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9583fc11965b4e5abf6bdbf1686ce0eb/mars-battle-15yag.png",
+      "md5": "e600642e974ac9afbac4975bbcb42b1f",
+      "width": 1200,
+      "height": 1600,
+      "size": 738937,
+      "uploadedDate": "2024-03-21T07:41:02.119Z",
+      "alt": "Download Mars Battle Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "62681f0dc1b14afea3f65c97225ea517",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-05T14:05:25.533Z",
+  "lastModifiedDate": "2024-05-02T12:51:52.210Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "MarsBattle"
+    }
+  },
+  "entitlementName": "c7c0b380f3d2410fabfced2b4a4716ca",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "06652c8874ab46f59eca1ec6b96d7dba",
+      "appId": "00b31129914e4442ade7cc3f76f34553",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Mars4",
+  "developerId": "o-g4pgvguecf7kzzdnj7gpeeuz3b45et",
+  "endOfSupport": false,
+  "applicationId": "fghi4567H7A3OcF6Gci0F7ZsqlFkdp6O",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

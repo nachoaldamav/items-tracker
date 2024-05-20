@@ -1,0 +1,64 @@
+{
+  "id": "fc1d8ae4f8c34e0a986774d619739618",
+  "title": "Sub Command",
+  "description": "Sub Command",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/48cc439d12834e4c8312476e49bb7015/sub-command-offer-11m4v.png",
+      "md5": "637b8172ad577c1196388f897688bdc1",
+      "width": 2560,
+      "height": 1440,
+      "size": 875215,
+      "uploadedDate": "2022-07-02T03:56:42.656Z",
+      "alt": "Sub Command Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/48cc439d12834e4c8312476e49bb7015/download-sub-command-offer-p1jwo.png",
+      "md5": "ba028c42a92e314ddbf213164bee7e5a",
+      "width": 1200,
+      "height": 1600,
+      "size": 497082,
+      "uploadedDate": "2022-07-02T03:56:42.103Z",
+      "alt": "Download Sub Command Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0aa39ad6e7894fd4a7ade541a4dafaaa",
+  "status": "ACTIVE",
+  "creationDate": "2022-12-03T01:11:30.731Z",
+  "lastModifiedDate": "2022-12-03T01:11:30.731Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SubCommand"
+    }
+  },
+  "entitlementName": "fc1d8ae4f8c34e0a986774d619739618",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "111746373bf24ea599aab5e8afd82749",
+      "appId": "9fb5c497296f4286a68f6b0dfde114d7",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Strategy First",
+  "developerId": "o-a3vefcg43bn6j4lwc7qs8n5y38jm7k",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

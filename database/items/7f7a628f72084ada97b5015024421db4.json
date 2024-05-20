@@ -1,0 +1,75 @@
+{
+  "id": "7f7a628f72084ada97b5015024421db4",
+  "title": "BoltBreak",
+  "description": "In BoltBreak, you'll battle enemies who possess powers similar to yours, and you'll need to employ your abilities creatively to emerge as the last hero standing. Do you have what it takes to survive in the Super Arena?",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/188f7ea40ad84f42959077c8e7061165/boltbreak-1gtwm.png",
+      "md5": "462e7b5a1d0542ef6b62b59542f75375",
+      "width": 2560,
+      "height": 1440,
+      "size": 1594444,
+      "uploadedDate": "2024-04-29T20:28:51.625Z",
+      "alt": "BoltBreak Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/188f7ea40ad84f42959077c8e7061165/boltbreak-1m7kd.png",
+      "md5": "0fa5823e86dfdc1d15ffc3ded2d1e515",
+      "width": 1200,
+      "height": 1600,
+      "size": 750020,
+      "uploadedDate": "2024-04-29T20:28:51.747Z",
+      "alt": "Download BoltBreak Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "328d636b14da496c89bc813ce133d81b",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-03T14:49:36.453Z",
+  "lastModifiedDate": "2024-05-18T15:11:05.661Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/ProjectBOLT/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": ".SAV"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "50"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BoltBreak"
+    }
+  },
+  "entitlementName": "7f7a628f72084ada97b5015024421db4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9f9dfac3fcb8443e967ca1fa1d70de49",
+      "appId": "69191637d5ea4dfebb5d790815f2237c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "KomodoBit Games",
+  "developerId": "o-5l5tptvzbu4ymcr56w2yclhc6uaxfp",
+  "endOfSupport": false,
+  "applicationId": "fghi4567ktPnUX3VCR931M9JbjbaJowz",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

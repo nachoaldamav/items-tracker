@@ -1,0 +1,64 @@
+{
+  "id": "4ecfafe07eb947e4b53ecd826092b915",
+  "title": "Live In The Country",
+  "description": "Live In The Country",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0ea3fdc6351744c8823d8d2a6d2c5e43/leichigame_01_litc-olkjc.png",
+      "md5": "a4c8316b64412dc08075b12f02b97bf8",
+      "width": 2560,
+      "height": 1440,
+      "size": 1173112,
+      "uploadedDate": "2023-08-22T01:02:17.317Z",
+      "alt": "LeichiGame_01_LITC Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0ea3fdc6351744c8823d8d2a6d2c5e43/leichigame_01_litc-7g2y9.png",
+      "md5": "aa4aa104b93bde61e1056880dcd5ef4d",
+      "width": 1200,
+      "height": 1600,
+      "size": 1053307,
+      "uploadedDate": "2023-08-22T01:02:20.125Z",
+      "alt": "Download LeichiGame_01_LITC Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7247d3e923ac4d04a7d8f4435e240302",
+  "status": "ACTIVE",
+  "creationDate": "2023-08-14T01:52:15.888Z",
+  "lastModifiedDate": "2023-08-24T03:06:54.068Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "LeichiGame01LITCwYPD3"
+    }
+  },
+  "entitlementName": "4ecfafe07eb947e4b53ecd826092b915",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "211afd9d8ff94d86ac6a0011a191bb94",
+      "appId": "fa998562606c42a9a709e82a871d9a0a",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Leichi Studio",
+  "developerId": "o-4dk43n7yzjgy4eg6y7pv2m587zdfmf",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "78bb384e25d549c18aba15f44a7c870c",
+  "title": "FoxCode",
+  "description": "FoxCode",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9402dbf17c51409ebf1c069368709692/foxcode-1cv09.jpg",
+      "md5": "34c97afb9cb7e62ee9237cf25864dd9c",
+      "width": 2560,
+      "height": 1440,
+      "size": 954585,
+      "uploadedDate": "2024-04-21T10:48:35.481Z",
+      "alt": "FoxCode Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9402dbf17c51409ebf1c069368709692/foxcode-1tgmv.jpg",
+      "md5": "1cf1933055edac7cfa0ac0fc11741b5b",
+      "width": 1200,
+      "height": 1600,
+      "size": 890041,
+      "uploadedDate": "2024-04-21T10:48:35.932Z",
+      "alt": "Download FoxCode Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "80637b1991524bc1bbddadd39bde04a8",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-29T15:07:15.918Z",
+  "lastModifiedDate": "2024-04-29T15:07:16.289Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "FoxCode"
+    }
+  },
+  "entitlementName": "78bb384e25d549c18aba15f44a7c870c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9b73fed886ce492e88a19a15592a4bda",
+      "appId": "df60980dde0c4c2c9959d7a0677938bd",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "FoxCode Games",
+  "developerId": "o-5lf9dzqdzq2838jgw6yrdllmu5ermg",
+  "endOfSupport": false,
+  "applicationId": "fghi4567E6ZAn8Mny7PsjDeYTjAT0TKT",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "2afb7c5d300146bbb6b93309d0dcde34",
+  "title": "Split",
+  "description": "Split",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c32522424a1447a6884d36542cf44d78/split-y92al.jpg",
+      "md5": "548c0a7fe65b7deef5873312422bb043",
+      "width": 2560,
+      "height": 1440,
+      "size": 530908,
+      "uploadedDate": "2023-07-19T13:52:59.055Z",
+      "alt": "Split Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c32522424a1447a6884d36542cf44d78/split-1fk2t.jpg",
+      "md5": "4278eefd8857730c38647dc205f0c297",
+      "width": 1200,
+      "height": 1600,
+      "size": 317979,
+      "uploadedDate": "2023-07-19T13:54:27.699Z",
+      "alt": "Download Split Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "352f45e3b1c345a6b693997044461f79",
+  "status": "ACTIVE",
+  "creationDate": "2023-02-14T16:25:10.168Z",
+  "lastModifiedDate": "2023-09-08T07:27:41.543Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Splitfey6f"
+    }
+  },
+  "entitlementName": "2afb7c5d300146bbb6b93309d0dcde34",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f4c1da6ea47c4b00b03b632564b5a909",
+      "appId": "5f1c2204820b49aab761bc7c3da6cf0f",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "FreeMind S.A.",
+  "developerId": "o-lffr7a7ecb6z63clxv2v83efwfsf4s",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

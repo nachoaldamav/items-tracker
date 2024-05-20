@@ -1,0 +1,64 @@
+{
+  "id": "cd0244687e5f4da7b86103800ff47ac0",
+  "title": "NecroVision",
+  "description": "NecroVision",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6b6d6f5f9b684100beaf7ef8ec117b3e/necrovision-1rnxs.jpg",
+      "md5": "803021d93f97d3c2186cf4666ddf17fe",
+      "width": 2560,
+      "height": 1440,
+      "size": 1060875,
+      "uploadedDate": "2023-03-16T09:03:42.095Z",
+      "alt": "NecroVision Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6b6d6f5f9b684100beaf7ef8ec117b3e/necrovision-1xbsj.jpg",
+      "md5": "82f20dfd8381e503e87fdba9d1724521",
+      "width": 1200,
+      "height": 1600,
+      "size": 708034,
+      "uploadedDate": "2023-03-16T09:03:41.722Z",
+      "alt": "Download NecroVision Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "228902bbbf0d49f08c7acda453af8bf5",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-11T13:26:02.027Z",
+  "lastModifiedDate": "2023-05-11T13:26:02.027Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "NecroVision"
+    }
+  },
+  "entitlementName": "cd0244687e5f4da7b86103800ff47ac0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cbde62f7f12846229f004d254fa15159",
+      "appId": "483ba2779f4f4545ac1fefa0935b773a",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Fulqrum Publishing Ltd.",
+  "developerId": "o-n4d8bf5e8fnr4kujuut9j6v4d29muc",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

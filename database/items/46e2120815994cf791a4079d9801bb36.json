@@ -1,0 +1,87 @@
+{
+  "id": "46e2120815994cf791a4079d9801bb36",
+  "title": "Liberated",
+  "description": "Liberated is an action-adventure game that unfolds across the pages of a comic book. Seamlessly merging the art of hand-drawn graphic novels with interactivity and side-scrolling action, it’s a revolutionary combination of video games and comics.",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/7fd889f14b0c44529299484a1ec719c8/liberated-offer-107iq.jpg",
+      "md5": "00c5aa155d853462e0fd8296926cffa7",
+      "width": 2560,
+      "height": 1440,
+      "size": 792607,
+      "uploadedDate": "2022-07-25T10:32:53.146Z",
+      "alt": "Liberated Offer"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7fd889f14b0c44529299484a1ec719c8/download-liberated-offer-artel.jpg",
+      "md5": "60a3210b56690e0aef31f42a2cc6a8e5",
+      "width": 1200,
+      "height": 1600,
+      "size": 584978,
+      "uploadedDate": "2022-07-25T10:32:56.415Z",
+      "alt": "Download Liberated Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7fd889f14b0c44529299484a1ec719c8/liberated-offer-1t5kq.jpg",
+      "md5": "00c5aa155d853462e0fd8296926cffa7",
+      "width": 2560,
+      "height": 1440,
+      "size": 792607,
+      "uploadedDate": "2022-07-25T10:32:59.314Z",
+      "alt": "Liberated Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7fd889f14b0c44529299484a1ec719c8/download-liberated-offer-1v574.jpg",
+      "md5": "60a3210b56690e0aef31f42a2cc6a8e5",
+      "width": 1200,
+      "height": 1600,
+      "size": 584978,
+      "uploadedDate": "2022-07-25T10:32:59.999Z",
+      "alt": "Download Liberated Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8c08e8a004664ec2a1196e39e89790cb",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-21T11:15:08.795Z",
+  "lastModifiedDate": "2022-09-21T11:15:08.795Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Atomic Wolf/Liberated/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Liberated"
+    }
+  },
+  "entitlementName": "46e2120815994cf791a4079d9801bb36",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ee1e58904ce54f0da567c3571e3475fb",
+      "appId": "f6f363ffe9bc467d890a589d287000aa",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Walkabout Games Sp. z o.o.",
+  "developerId": "o-55ecqqsf69ry9zpsym89d477yj57lc",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,77 @@
+{
+  "id": "d235e97e92674c15ac1e1ef4603ecdf6",
+  "title": "Curious Expedition",
+  "description": "Curious Expedition is a roguelike expedition simulation set in the late 19th century. Together with famous personalities you will venture on unprecedented expeditions to regions never explored before for fame, science and treasures.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/308dfe3ca5c24c8cb79a8cdcf2e8dfe0/curious-expedition-offer-8fwpp.png",
+      "md5": "57619cf1d5854496f34ecc087911a270",
+      "width": 2560,
+      "height": 1440,
+      "size": 175150,
+      "uploadedDate": "2022-07-27T15:26:38.063Z",
+      "alt": "Curious Expedition Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/308dfe3ca5c24c8cb79a8cdcf2e8dfe0/download-curious-expedition-offer-uodzs.png",
+      "md5": "161e870a55b9110e8c978bb635949061",
+      "width": 1200,
+      "height": 1600,
+      "size": 3611135,
+      "uploadedDate": "2022-07-27T15:22:25.965Z",
+      "alt": "Download Curious Expedition Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b45387034adf40fabec9f934fbcb97eb",
+  "status": "ACTIVE",
+  "creationDate": "2022-07-15T16:40:41.993Z",
+  "lastModifiedDate": "2023-03-13T09:32:04.172Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserDir}/TheCuriousExpedition/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Maschinen-Mensch/TheCuriousExpedition/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.ls"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CuriousExpedition"
+    }
+  },
+  "entitlementName": "d235e97e92674c15ac1e1ef4603ecdf6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4d9e8f20cba743f780cbca16f2f65551",
+      "appId": "139d9a9a68a74939bb4e91b52a9d7b92",
+      "platform": [
+        "Mac",
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Maschinen-Mensch UG",
+  "developerId": "o-dgcb77hnewxqqm8blsbzk4qljp42yp",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

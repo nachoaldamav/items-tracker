@@ -1,0 +1,62 @@
+{
+  "id": "46e4552ffe7b46e4b9162d6b5bf4dd36",
+  "title": "KITS",
+  "description": "KITS",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/df245bcd2d0d484f959bbf70bad657bc/kits-17tka.png",
+      "md5": "5766cd0264688d62ed8ca656efffe2d6",
+      "width": 2560,
+      "height": 1440,
+      "size": 3106170,
+      "uploadedDate": "2023-03-18T04:13:54.659Z",
+      "alt": "KITS Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/df245bcd2d0d484f959bbf70bad657bc/kits-1p9t5.png",
+      "md5": "701db69e51c7e24f882cff7e044397d2",
+      "width": 1200,
+      "height": 1600,
+      "size": 1161217,
+      "uploadedDate": "2023-03-18T04:14:11.334Z",
+      "alt": "Download KITS Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1ea9cd23a4ec4594bd9e16b05b6360e5",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-12T20:49:24.719Z",
+  "lastModifiedDate": "2024-03-04T01:07:27.608Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "KITSOenWc"
+    }
+  },
+  "entitlementName": "46e4552ffe7b46e4b9162d6b5bf4dd36",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cf2f8ca2f9db48839d3626d2eb2a62ac",
+      "appId": "a8090c597dc747ebb2309910ba276142",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Welcome Surprise Studio Inc.",
+  "developerId": "o-uva3ks6ezksw2q65psk9528vtqrcpv",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

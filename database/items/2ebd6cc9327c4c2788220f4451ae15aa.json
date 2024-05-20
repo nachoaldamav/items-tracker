@@ -1,0 +1,81 @@
+{
+  "id": "2ebd6cc9327c4c2788220f4451ae15aa",
+  "title": "Palia",
+  "description": "Palia",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/eeb0a9c513cd40409125fefbbaeba001/palia-trxya.jpg",
+      "md5": "a65a3ace08e5864a117c87c0a315f8ef",
+      "width": 2560,
+      "height": 1440,
+      "size": 3207133,
+      "uploadedDate": "2023-10-06T23:48:44.758Z",
+      "alt": "Palia Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/eeb0a9c513cd40409125fefbbaeba001/palia-treh0.jpg",
+      "md5": "bd3936b736ff046d81443086b6cf6596",
+      "width": 1200,
+      "height": 1600,
+      "size": 1696877,
+      "uploadedDate": "2023-10-06T23:48:44.108Z",
+      "alt": "Download Palia Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1154e67b65a644b888e9af62400c90a6",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-17T00:11:05.689Z",
+  "lastModifiedDate": "2023-10-17T00:11:05.689Z",
+  "customAttributes": {
+    "MainWindowsProcessName": {
+      "type": "STRING",
+      "value": "Palia.exe"
+    },
+    "ExternalProcessNames": {
+      "type": "STRING",
+      "value": "PaliaClient-Win64-Shipping.exe,PaliaClient.exe"
+    },
+    "NeverUpdateAfterInitialInatall": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Palia"
+    },
+    "BackgroundProcessNames": {
+      "type": "STRING",
+      "value": "PaliaLauncher.exe,PaliaInstaller.exe"
+    }
+  },
+  "entitlementName": "2ebd6cc9327c4c2788220f4451ae15aa",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "75df0ae3bb9b4974a1377165975a1b97",
+      "appId": "fce4194bf6324aef9232b9faf2d63c9d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Singularity 6 Corporation",
+  "developerId": "o-dlrq3gk28f9vchus6rnxy82cpptfew",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

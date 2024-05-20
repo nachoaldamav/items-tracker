@@ -1,0 +1,76 @@
+{
+  "id": "7a38a3a9afe6485aa965e031e35799d0",
+  "title": "Monospaced Lovers",
+  "description": "Clara wakes up to a phone that isn't hers. Journey through an introspective, fantasy-filled land and save your world before it disintegrates in this metafictional platform-adventure game about closeness and distance.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/42fb4dcd195b4c00bf9ddc8252b99dda/monospaced-lovers-5v13f.jpg",
+      "md5": "0a7774c2688ff9ab78912410da4d3100",
+      "width": 2560,
+      "height": 1440,
+      "size": 593165,
+      "uploadedDate": "2023-08-04T20:27:23.853Z",
+      "alt": "Monospaced Lovers Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/42fb4dcd195b4c00bf9ddc8252b99dda/monospaced-lovers-6bjbu.jpg",
+      "md5": "fb92ec59afb9e6ccd4837382f2563f1b",
+      "width": 1200,
+      "height": 1600,
+      "size": 429144,
+      "uploadedDate": "2023-08-04T20:27:23.706Z",
+      "alt": "Download Monospaced Lovers Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e73367d384634d11975effc86569bc47",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-11T18:47:18.656Z",
+  "lastModifiedDate": "2023-09-15T16:07:08.512Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Scarlet String Studios/Monospaced Lovers/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Scarlet String Studios/Monospaced Lovers/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "save.data, persistent.data"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Monospaced_Lovers"
+    }
+  },
+  "entitlementName": "7a38a3a9afe6485aa965e031e35799d0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "801c732fdda74aafb34040da099c3141",
+      "appId": "4d150680ba934f28975f3b958d0052aa",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Scarlet String Studios, Inc.",
+  "developerId": "o-cf573wzp3q7s273kfu272ak33yyc7x",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

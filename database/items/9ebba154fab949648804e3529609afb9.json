@@ -1,0 +1,72 @@
+{
+  "id": "9ebba154fab949648804e3529609afb9",
+  "title": "Yomi 2",
+  "description": "Yomi 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f4c6836502654098b9697c671187408e/yomi-2-z4kx4.jpg",
+      "md5": "5f0cae34cc8a5d77858d5d5cc7a9106f",
+      "width": 2560,
+      "height": 1440,
+      "size": 836130,
+      "uploadedDate": "2023-04-05T03:27:26.393Z",
+      "alt": "Yomi 2 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f4c6836502654098b9697c671187408e/yomi-2-1ssn7.jpg",
+      "md5": "b32d79246c9be231468975263d8ab324",
+      "width": 1200,
+      "height": 1600,
+      "size": 490748,
+      "uploadedDate": "2023-04-05T03:27:23.548Z",
+      "alt": "Download Yomi 2 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "87561af367354ed181d94c17de02c4e2",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-03T21:39:55.683Z",
+  "lastModifiedDate": "2024-02-12T19:35:39.652Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/../.config/Yomi2/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Yomi2/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Yomi2"
+    }
+  },
+  "entitlementName": "9ebba154fab949648804e3529609afb9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ba6af7724758467b8b4006ee3065e88b",
+      "appId": "82b8450f88f9488fadf461dbaa8fff71",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Sirlin Games",
+  "developerId": "o-9y9ttj62vkjzm9nsgegbe6nxahyste",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

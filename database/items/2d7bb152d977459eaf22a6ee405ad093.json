@@ -1,0 +1,95 @@
+{
+  "id": "2d7bb152d977459eaf22a6ee405ad093",
+  "title": "RealityCapture 1.4",
+  "description": "RealityCapture",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/ecc92c9d225843f5827847052fb9f5f3/RC_Thumbnail_1920x1080-1fbcf9ed3e0d5224d00324c88ef8d939",
+      "md5": "1fbcf9ed3e0d5224d00324c88ef8d939",
+      "width": 1920,
+      "height": 1080,
+      "size": 2898241,
+      "uploadedDate": "2024-03-14T16:04:09.948Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/ecc92c9d225843f5827847052fb9f5f3/RC_Thumbnail_Tall_1200x1600-c226aaa0a7e30feb4260fda5682e1734",
+      "md5": "c226aaa0a7e30feb4260fda5682e1734",
+      "width": 1200,
+      "height": 1600,
+      "size": 2494894,
+      "uploadedDate": "2024-03-14T16:04:23.904Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "software"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ecc92c9d225843f5827847052fb9f5f3",
+  "status": "ACTIVE",
+  "creationDate": "2024-02-26T22:10:53.135Z",
+  "lastModifiedDate": "2024-04-29T16:49:57.075Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "RealityCapture"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Epic Games"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "RealityCapture.exe"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RealityCapture"
+    }
+  },
+  "entitlementName": "2d7bb152d977459eaf22a6ee405ad093",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1450856723984e229dce21d86c5d2dd0",
+      "appId": "fghi4567HV122b61M44UAcRv99wbCxt7",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2024-04-19T10:17:43.740Z"
+    }
+  ],
+  "developer": "Capturing Reality",
+  "developerId": "o-7le6rzkgmkataxcebsm3wpwcekr4xx",
+  "eulaIds": [
+    "realitycapture2"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

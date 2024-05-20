@@ -1,0 +1,63 @@
+{
+  "id": "a5c9819ba5f846648357d0b5699b7382",
+  "title": "CabbageBall",
+  "description": "CabbageBall",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b68978ddb18541d58a52c43bea57bc32/cabbageball-2b9mn.png",
+      "md5": "c1fc9e63fac2c2ec3c6d39844fddb58b",
+      "width": 2560,
+      "height": 1440,
+      "size": 3775005,
+      "uploadedDate": "2023-07-28T04:52:55.497Z",
+      "alt": "CabbageBall Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b68978ddb18541d58a52c43bea57bc32/cabbageball-1cggv.png",
+      "md5": "4e3c2b70717293a33354f0bfa1ac4362",
+      "width": 1200,
+      "height": 1600,
+      "size": 2046011,
+      "uploadedDate": "2023-07-28T04:53:00.814Z",
+      "alt": "Download CabbageBall Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0d85667260744011a6042263c3f59522",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-05T21:14:53.386Z",
+  "lastModifiedDate": "2023-11-19T02:33:19.718Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "CabbageBall_Alpha"
+    }
+  },
+  "entitlementName": "a5c9819ba5f846648357d0b5699b7382",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cb963469357e43648569a2aa6f213915",
+      "appId": "7bd66a4db26e4988b2aa94df6db618ac",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Living On Ro",
+  "developerId": "o-mfy2sym9pljdy4796hnhlba92ddskz",
+  "endOfSupport": false,
+  "applicationId": "fghi4567ut7K14vM7ruSZIYNWewNbzP3",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

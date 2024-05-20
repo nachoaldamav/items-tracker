@@ -1,0 +1,71 @@
+{
+  "id": "029d98fdae1b4bd19c64492b9e9d2229",
+  "title": "Dungeon Drafters",
+  "description": "Dungeon Drafters",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/17bcd86ff41d4d6d87c60af7ce7c9c67/dungeon-drafters-1ln3y.jpg",
+      "md5": "80b3d044f6848573ff49b33d56b82a23",
+      "width": 2560,
+      "height": 1440,
+      "size": 2615429,
+      "uploadedDate": "2023-03-20T04:12:22.865Z",
+      "alt": "Dungeon Drafters Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/17bcd86ff41d4d6d87c60af7ce7c9c67/dungeon-drafters-n6ba0.png",
+      "md5": "1938a017f615601b15449cf8724baf6e",
+      "width": 1200,
+      "height": 1600,
+      "size": 2187509,
+      "uploadedDate": "2023-03-20T04:12:21.186Z",
+      "alt": "Download Dungeon Drafters Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4570fd48bd25472b87e028bbab19c6e8",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-26T20:12:53.722Z",
+  "lastModifiedDate": "2023-04-26T20:12:53.722Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Manalith Studios/Dungeon Drafters/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "Player.log,Player-prev.log"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DungeonDrafters0jMsy"
+    }
+  },
+  "entitlementName": "029d98fdae1b4bd19c64492b9e9d2229",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c620868a88294cf7b54889c858e8d83d",
+      "appId": "5e3ca4ad0e124d0a95698b7bd4147f8e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "DANGEN Entertainment",
+  "developerId": "o-q2thmxrkzmaxl69f7ql8qm65nruu8u",
+  "endOfSupport": false,
+  "applicationId": "fghi4567Z2TDlxBMn293tGtgIx6XB2LB",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

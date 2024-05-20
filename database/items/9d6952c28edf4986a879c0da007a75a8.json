@@ -1,0 +1,64 @@
+{
+  "id": "9d6952c28edf4986a879c0da007a75a8",
+  "title": "Coffee Town",
+  "description": "Coffee Town",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1227ed3767dd431991cb5d246e3bb5d3/coffee-town-10omg.jpg",
+      "md5": "a947ebeed63a758ed7881fbea91e9760",
+      "width": 2560,
+      "height": 1440,
+      "size": 3784192,
+      "uploadedDate": "2024-02-04T08:45:46.420Z",
+      "alt": "Coffee Town Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1227ed3767dd431991cb5d246e3bb5d3/coffee-town-rrrpd.png",
+      "md5": "084bb31f30594ed950b7c1f50cf07c88",
+      "width": 1200,
+      "height": 1600,
+      "size": 2778547,
+      "uploadedDate": "2024-02-04T08:40:02.965Z",
+      "alt": "Download Coffee Town Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a8b07df0c03c4a29992d60683e17cf84",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-20T16:39:22.024Z",
+  "lastModifiedDate": "2024-03-07T14:03:33.029Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "CoffeeTown"
+    }
+  },
+  "entitlementName": "9d6952c28edf4986a879c0da007a75a8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b35b81d078cd403d98a4efbdec0e00a5",
+      "appId": "14f018497b6d4821872ab2b54bcc308a",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "The Astroverse Club",
+  "developerId": "o-3dlg6ejh6srn4rwkzcdplzjurcukuy",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,68 @@
+{
+  "id": "7d71f5975baa4656b3686392e1df067b",
+  "title": "Massira",
+  "description": "Massira is a story driven, puzzle adventure game with a lowpoly style, where you will live the story of Numi and Yara, two Syrian refugees who make a trip to Europe. Inspired by facts and real experiences.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5c9649e69bab4aaabde69584be08d245/massira-1bgmm.png",
+      "md5": "ea45f83e1867039db9105fbf62092fbc",
+      "width": 2560,
+      "height": 1440,
+      "size": 2776781,
+      "uploadedDate": "2024-03-12T11:05:14.727Z",
+      "alt": "Massira Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5c9649e69bab4aaabde69584be08d245/massira-17xrp.png",
+      "md5": "2c7311c463aad87b681715a9d213bcc7",
+      "width": 1200,
+      "height": 1600,
+      "size": 788561,
+      "uploadedDate": "2024-03-12T11:05:17.986Z",
+      "alt": "Download Massira Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "15b4e5ae7fb345bdb9fe80fe56b67423",
+  "status": "ACTIVE",
+  "creationDate": "2024-02-09T12:18:28.434Z",
+  "lastModifiedDate": "2024-04-24T19:46:26.191Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/FrostMonkey/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Massira"
+    }
+  },
+  "entitlementName": "7d71f5975baa4656b3686392e1df067b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f2d2dbf62a094bd78703074c83f7ceb1",
+      "appId": "f94e96dcd8b3493ba3103dc8e7bb2ddc",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Frost Monkey Games",
+  "developerId": "o-5syvjtgld3zxluhehbemw732vq6p4z",
+  "endOfSupport": false,
+  "applicationId": "fghi4567OvNRqttHrLIBFCbwGrkfs0T3",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

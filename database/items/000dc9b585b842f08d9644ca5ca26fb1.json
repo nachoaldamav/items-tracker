@@ -1,0 +1,64 @@
+{
+  "id": "000dc9b585b842f08d9644ca5ca26fb1",
+  "title": "Keep The Keep",
+  "description": "Keep The Keep",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1ddabd02696a4e3589297e87f68a7ce9/keep-the-keep-7kyer.png",
+      "md5": "d11ef350e1a9cd501021efa244eacc2a",
+      "width": 2560,
+      "height": 1440,
+      "size": 2547514,
+      "uploadedDate": "2022-11-15T19:19:09.467Z",
+      "alt": "Keep The Keep Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1ddabd02696a4e3589297e87f68a7ce9/keep-the-keep-tormu.png",
+      "md5": "046dd778d3f54880006222c78d320208",
+      "width": 1200,
+      "height": 1600,
+      "size": 2055132,
+      "uploadedDate": "2022-11-15T19:19:08.400Z",
+      "alt": "Download Keep The Keep Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c097c01b2fe244019ec5928570355822",
+  "status": "ACTIVE",
+  "creationDate": "2022-11-15T17:40:34.172Z",
+  "lastModifiedDate": "2023-02-23T21:13:21.104Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "KeepTheKeepqWVBM"
+    }
+  },
+  "entitlementName": "000dc9b585b842f08d9644ca5ca26fb1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "26ba63adfcf340e0aa812f42776e42f5",
+      "appId": "2f787a79ded846e5bc09c5a51d439653",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Meridian4",
+  "developerId": "o-lk3h3v3ddypmx7zferz37x5l86w54p",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

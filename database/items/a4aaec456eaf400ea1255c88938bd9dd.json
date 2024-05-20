@@ -1,0 +1,71 @@
+{
+  "id": "a4aaec456eaf400ea1255c88938bd9dd",
+  "title": "IXION",
+  "description": "Authorised by DOLOS AEC, you will guide the Tiqqun space station onwards in a perilous journey to find a new home for humanity. Station infrastructure, population management, exploration, survival, these responsibilities fall to you. Will you find hope out there in the dark?",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/11dfa6b7e14946a4ac68bf8b999d97a5/ixion-offer-1m2jo.jpg",
+      "md5": "1cecc55c7d0743deb08fd339f58c6b4a",
+      "width": 2560,
+      "height": 1440,
+      "size": 2358559,
+      "uploadedDate": "2022-05-17T14:19:21.394Z",
+      "alt": "IXION Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/11dfa6b7e14946a4ac68bf8b999d97a5/download-ixion-offer-n9eob.jpg",
+      "md5": "46061ae92327586a6375396d7e9b286c",
+      "width": 1200,
+      "height": 1600,
+      "size": 1242038,
+      "uploadedDate": "2022-05-27T08:55:54.485Z",
+      "alt": "Download IXION Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1efd3d783b814b8b8548fb60c5983825",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-21T10:48:04.232Z",
+  "lastModifiedDate": "2023-12-07T11:06:18.113Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Bulwark Studios/Mechanicus/Saves/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "500"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "IXION"
+    }
+  },
+  "entitlementName": "a4aaec456eaf400ea1255c88938bd9dd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d5017ed31c774348b51dd49c5fb00fb7",
+      "appId": "c996a51ebf404fee94488bd389100e24",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Kasedo Games Ltd",
+  "developerId": "o-fnqgc5v2xczx9fgawvcejwj88z2mnx",
+  "endOfSupport": false,
+  "applicationId": "fghi456790kNJdWYiJ7zo98PO10x5YIy",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

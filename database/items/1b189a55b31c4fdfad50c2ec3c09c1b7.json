@@ -1,0 +1,73 @@
+{
+  "id": "1b189a55b31c4fdfad50c2ec3c09c1b7",
+  "title": "Danghost - Demo",
+  "description": "Danghost - Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/313719b354214d6b8a9f91d53dc46a50/danghost-fx0k3.jpg",
+      "md5": "85dfe544f593e4a8634967395a139256",
+      "width": 2560,
+      "height": 1440,
+      "size": 2619617,
+      "uploadedDate": "2023-09-27T13:35:52.510Z",
+      "alt": "Danghost Danghost - Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/313719b354214d6b8a9f91d53dc46a50/danghost-kfj0l.png",
+      "md5": "91e6d62149abe716433fdf706fe18162",
+      "width": 1200,
+      "height": 1600,
+      "size": 2717192,
+      "uploadedDate": "2023-09-27T13:35:52.252Z",
+      "alt": "Download Danghost Danghost - Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "66b12faffa204da39bda39d087789944",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-21T08:42:10.571Z",
+  "lastModifiedDate": "2023-10-25T16:04:19.108Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/UmeshuLovers/Danghost/Save/Epic/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/UmeshuLovers/Danghost/Save/Epic/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DemoDanghost7b6d2"
+    }
+  },
+  "entitlementName": "1b189a55b31c4fdfad50c2ec3c09c1b7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "dbdd032bda2045858e776bb2825ba0d5",
+      "appId": "ac2ac34770a34d67ae3e47b3936c463c",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Umeshu Lovers",
+  "developerId": "o-9fe6z59reqfrcu4hpsjpneuupnsc8l",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

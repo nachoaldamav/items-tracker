@@ -1,0 +1,64 @@
+{
+  "id": "44ba0f6a1b914c11b0fc62d6064a3174",
+  "title": "Knights of Cathena",
+  "description": "Knights of Cathena",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/79f75ad89fe04f4287804cacab742435/knights-of-cathena-10rlu.png",
+      "md5": "bbd506d27e26db11ead3ae377cc8327f",
+      "width": 2560,
+      "height": 1440,
+      "size": 2174888,
+      "uploadedDate": "2023-05-09T13:57:03.204Z",
+      "alt": "Knights of Cathena Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/79f75ad89fe04f4287804cacab742435/knights-of-cathena-ck5p5.png",
+      "md5": "cf43cf5276dc07c0392f89c246ac593d",
+      "width": 1200,
+      "height": 1600,
+      "size": 1380947,
+      "uploadedDate": "2023-05-09T13:57:02.468Z",
+      "alt": "Download Knights of Cathena Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8cc5b4b56c84428999f03f3e6ac49481",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-31T09:38:35.794Z",
+  "lastModifiedDate": "2024-03-17T00:32:47.401Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "KoC"
+    }
+  },
+  "entitlementName": "44ba0f6a1b914c11b0fc62d6064a3174",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4cb94db877bd443483a0eb02b4d7f2b7",
+      "appId": "e6ace66c9ba841628e2dbfa5e2bceb0e",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "fivefingergames GmbH",
+  "developerId": "o-z3c7peanccpuyq6e5vrwzh2a826vcu",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "01b3840f679e4217a5e60efc70a74037",
+  "title": "Eden Island",
+  "description": "Eden Island",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ac5a32a8a87a41aeabc28678f5be155f/eden-island-iyz2w.jpg",
+      "md5": "ed73b7208cfef2df64a8caa868512360",
+      "width": 2560,
+      "height": 1440,
+      "size": 1835311,
+      "uploadedDate": "2023-11-14T04:54:42.418Z",
+      "alt": "Eden Island Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ac5a32a8a87a41aeabc28678f5be155f/eden-island-k9uzi.jpg",
+      "md5": "79468e5aa56d20ec841f279d49c1ccec",
+      "width": 1200,
+      "height": 1600,
+      "size": 1450039,
+      "uploadedDate": "2023-11-14T04:55:06.949Z",
+      "alt": "Download Eden Island Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f5f759d5ce5441cba582b96ebb1c9d3c",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-16T15:38:02.226Z",
+  "lastModifiedDate": "2023-11-16T14:11:16.714Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "EdenIsland"
+    }
+  },
+  "entitlementName": "01b3840f679e4217a5e60efc70a74037",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a236def61ddd4d1d9b83fb4f0d42beb4",
+      "appId": "65cfa2d9519f48c7b43d6d4352b24827",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SnowBabyGames",
+  "developerId": "o-2pzfwf8l7zk3bgha48huvuub3ag8ue",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

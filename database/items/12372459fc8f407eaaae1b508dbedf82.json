@@ -1,0 +1,62 @@
+{
+  "id": "12372459fc8f407eaaae1b508dbedf82",
+  "title": "Wavetale",
+  "description": "Wavetale",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c4e12b69ad1b495ebd0f5ebe7947e75b/wavetale-1q7iv.jpg",
+      "md5": "34a7c67bf2bab927b4d0ced1932fe275",
+      "width": 2560,
+      "height": 1440,
+      "size": 3352023,
+      "uploadedDate": "2022-11-23T09:02:09.678Z",
+      "alt": "Wavetale Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c4e12b69ad1b495ebd0f5ebe7947e75b/wavetale-bvyfo.jpg",
+      "md5": "3f4a0f569d7b26243ff0de2a192379a1",
+      "width": 1200,
+      "height": 1600,
+      "size": 1957386,
+      "uploadedDate": "2022-11-23T09:02:07.713Z",
+      "alt": "Download Wavetale Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "747963936b3e4a0fa3c1bb714436cf8d",
+  "status": "ACTIVE",
+  "creationDate": "2022-11-22T12:48:29.749Z",
+  "lastModifiedDate": "2023-06-28T11:56:00.445Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "WavetaleTC2uM"
+    }
+  },
+  "entitlementName": "12372459fc8f407eaaae1b508dbedf82",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "49996b9e4f264cca8ab10073ce028e28",
+      "appId": "c4fead7f1528466993ebd276d94adfd2",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Thunderful Publishing",
+  "developerId": "o-spnhay87hpg87p8jckfensnks84z8f",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

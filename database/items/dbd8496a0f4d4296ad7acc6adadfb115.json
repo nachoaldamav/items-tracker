@@ -1,0 +1,71 @@
+{
+  "id": "dbd8496a0f4d4296ad7acc6adadfb115",
+  "title": "Far Horizon",
+  "description": "Far Horizon",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2e2b1dabf63c4e53905ad9eaf588ae92/far-horizon-oguts.png",
+      "md5": "ac922422e5084113aa059cc3c0158ff7",
+      "width": 2560,
+      "height": 1440,
+      "size": 3585502,
+      "uploadedDate": "2024-03-05T17:39:00.413Z",
+      "alt": "Far Horizon Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2e2b1dabf63c4e53905ad9eaf588ae92/far-horizon-wi0h6.png",
+      "md5": "02a7c3b6b2ef9124acd67ad512b1cc23",
+      "width": 1200,
+      "height": 1600,
+      "size": 1922194,
+      "uploadedDate": "2024-03-05T17:39:11.202Z",
+      "alt": "Download Far Horizon Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d41f47180bb94a70b3d05a31ebe89b7d",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-10T18:49:19.985Z",
+  "lastModifiedDate": "2024-03-08T01:19:02.272Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/Beacham Games/Far Horizon/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.BGMETA,*.BGARCHIVE"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FarHorizon"
+    }
+  },
+  "entitlementName": "dbd8496a0f4d4296ad7acc6adadfb115",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "50dc6748dbd2406f8a80a8f14b3345e1",
+      "appId": "269080158459429bb4bd7f836375036d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "BEACHAM Games",
+  "developerId": "o-cp9asayacvmzgccws7nrwkj97huzks",
+  "endOfSupport": false,
+  "applicationId": "fghi4567w5KzycxYC6kTpm2bFqIdRxIK",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "e42a0921fcba428b9bff87e8c2d015a8",
+  "title": "Singularity",
+  "description": "Singularity",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/29730f5a4b8c4ec28e034c919f848dbc/singularity-vzffr.png",
+      "md5": "46f77474870cf1ce932af75346c881ca",
+      "width": 2560,
+      "height": 1440,
+      "size": 3592547,
+      "uploadedDate": "2024-01-22T11:26:21.781Z",
+      "alt": "Singularity Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/29730f5a4b8c4ec28e034c919f848dbc/singularity-1r3ed.png",
+      "md5": "59794c8c5d005e3a7d111e00750080c4",
+      "width": 1200,
+      "height": 1600,
+      "size": 1395036,
+      "uploadedDate": "2024-01-22T11:26:20.963Z",
+      "alt": "Download Singularity Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "df8d7b9bd9dc461991b6dd9429e11373",
+  "status": "ACTIVE",
+  "creationDate": "2024-02-03T21:06:37.378Z",
+  "lastModifiedDate": "2024-02-03T21:06:37.378Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Singularity_Dev"
+    }
+  },
+  "entitlementName": "e42a0921fcba428b9bff87e8c2d015a8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "97ee329a21a648ed87bd4836534a50d7",
+      "appId": "470217945aa644ec8be4712f814c9446",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "ImpressaEntertainment",
+  "developerId": "o-gtcb9s75pdplgzfb4xdz6vt4bxcf8q",
+  "endOfSupport": false,
+  "applicationId": "fghi45670Cx7s5SKW9vKugMrWjU2CpaV",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

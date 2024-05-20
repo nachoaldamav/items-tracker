@@ -1,0 +1,62 @@
+{
+  "id": "24476ad96d4c4e808dff96e54c7a8920",
+  "title": "SkyMatch",
+  "description": "SkyMatch",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/89b04b4aa3b4491cb03d0a94d0b6c6eb/skymatch-1kk54.jpg",
+      "md5": "b77618b2badc1b463f313c8e11958a66",
+      "width": 2560,
+      "height": 1440,
+      "size": 258530,
+      "uploadedDate": "2023-10-29T00:56:20.344Z",
+      "alt": "SkyMatch Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/89b04b4aa3b4491cb03d0a94d0b6c6eb/skymatch-1588z.jpg",
+      "md5": "315e3eea4f5bb1451e53e0facdf5f952",
+      "width": 1200,
+      "height": 1600,
+      "size": 224802,
+      "uploadedDate": "2023-10-29T00:56:19.578Z",
+      "alt": "Download SkyMatch Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c1d3e4bfa6144a7095d16a8ce487cf74",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-03T04:40:27.725Z",
+  "lastModifiedDate": "2023-11-17T01:00:20.921Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SkyMatchke8p5"
+    }
+  },
+  "entitlementName": "24476ad96d4c4e808dff96e54c7a8920",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "12bf692636dc4fba8f48f9621d962630",
+      "appId": "64d5f3fe3f7f43cf8941f24cfa7ac324",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Frontwave",
+  "developerId": "o-3h2usduu5hvm5t55stghk32tyx7w7z",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

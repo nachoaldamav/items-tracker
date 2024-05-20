@@ -1,0 +1,63 @@
+{
+  "id": "b212668092dc483c86e050e166e895e1",
+  "title": "9Lives Arena",
+  "description": "9Lives Arena",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2e168518236340b48a05d8313e78fba3/9lives-arena-ac139.png",
+      "md5": "d435365cb5047d2ddac7d299968818de",
+      "width": 2560,
+      "height": 1440,
+      "size": 2245577,
+      "uploadedDate": "2023-03-02T19:15:55.457Z",
+      "alt": "9Lives Arena Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2e168518236340b48a05d8313e78fba3/9lives-arena-1ymfo.png",
+      "md5": "84005ca3fcb95828c08076e35b6a591b",
+      "width": 1200,
+      "height": 1600,
+      "size": 1862077,
+      "uploadedDate": "2023-03-02T18:40:53.758Z",
+      "alt": "Download 9Lives Arena Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b6dd761bd5894441b3e3776b7bfe5bb4",
+  "status": "ACTIVE",
+  "creationDate": "2023-02-02T00:53:12.412Z",
+  "lastModifiedDate": "2023-12-11T22:41:35.498Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "NineLivesArena"
+    }
+  },
+  "entitlementName": "b212668092dc483c86e050e166e895e1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6c829b1a2f2642ac889bf9040b7acebc",
+      "appId": "a143ca21b6f04b9b9d0b3dab86d066ec",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Stargazer LLC",
+  "developerId": "o-txbwrrj8yj9zmkljl9drc5u4m874c9",
+  "endOfSupport": false,
+  "applicationId": "fghi4567EmXf7jz2F1dQ72SNx2S5qUMD",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

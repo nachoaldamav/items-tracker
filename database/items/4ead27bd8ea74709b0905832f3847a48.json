@@ -1,0 +1,63 @@
+{
+  "id": "4ead27bd8ea74709b0905832f3847a48",
+  "title": "Sensorium Galaxy",
+  "description": "Sensorium Galaxy",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/733ad91035ab404d91f9186598ba5875/sensorium-galaxy-enjsm.png",
+      "md5": "1197d8f2da6b0a3d19df898693885e29",
+      "width": 2560,
+      "height": 1440,
+      "size": 3805619,
+      "uploadedDate": "2023-10-27T11:50:18.096Z",
+      "alt": "Sensorium Galaxy Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/733ad91035ab404d91f9186598ba5875/sensorium-galaxy-1uij7.png",
+      "md5": "c89b49413abce079311ad644cd35bb8f",
+      "width": 1200,
+      "height": 1600,
+      "size": 2246532,
+      "uploadedDate": "2023-10-27T11:50:19.539Z",
+      "alt": "Download Sensorium Galaxy Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "32dfe2fe49964b24ab76ea559bfeea40",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-17T14:36:05.382Z",
+  "lastModifiedDate": "2023-10-29T14:23:25.473Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SensoriumGalaxy"
+    }
+  },
+  "entitlementName": "4ead27bd8ea74709b0905832f3847a48",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "eb809826b6aa4213aa1b3a1fd8ea980c",
+      "appId": "72686a822a404c2eb82e37da7d79a88c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Sensorium AG",
+  "developerId": "o-keszgg2dydd8grfbzhzhacea8w7fsb",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

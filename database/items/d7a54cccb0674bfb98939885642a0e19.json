@@ -1,0 +1,64 @@
+{
+  "id": "d7a54cccb0674bfb98939885642a0e19",
+  "title": "Tornado",
+  "description": "Tornado",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f7a4e66a3d674222b29c619634af2c96/tornado-1m3ok.jpg",
+      "md5": "9d101fd92993ce0545d62aa620b8c4b8",
+      "width": 2560,
+      "height": 1440,
+      "size": 885822,
+      "uploadedDate": "2023-08-28T20:08:16.740Z",
+      "alt": "Tornado Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f7a4e66a3d674222b29c619634af2c96/tornado-18w89.jpg",
+      "md5": "7e99f106fc3a6d41a1ff2be43f8c3211",
+      "width": 1200,
+      "height": 1600,
+      "size": 490719,
+      "uploadedDate": "2023-08-28T20:08:19.509Z",
+      "alt": "Download Tornado Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "16c70af19f5741d183d8a943b5a13100",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-08T22:50:57.380Z",
+  "lastModifiedDate": "2023-09-08T22:50:57.380Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TornadooDOvM"
+    }
+  },
+  "entitlementName": "d7a54cccb0674bfb98939885642a0e19",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f519b8f183c242b79d8c021d27f7a2ef",
+      "appId": "fb581ed8f35548ef8acd0eccef266ad5",
+      "platform": [
+        "Win32",
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Interplay Entertainment Corp.",
+  "developerId": "o-ebvwv4fmqxbw48yz3rx65fmxxqfk35",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

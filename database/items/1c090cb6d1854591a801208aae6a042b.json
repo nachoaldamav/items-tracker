@@ -1,0 +1,74 @@
+{
+  "id": "1c090cb6d1854591a801208aae6a042b",
+  "title": "PARAVOX",
+  "description": "PARAVOX",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8550eb0255cc4b148cabdfcdddc20eb0/paravox-1ggrh.png",
+      "md5": "c372230aa905b5ed48fb60cff818ca99",
+      "width": 2560,
+      "height": 1440,
+      "size": 1750281,
+      "uploadedDate": "2024-04-28T16:44:35.773Z",
+      "alt": "PARAVOX Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8550eb0255cc4b148cabdfcdddc20eb0/paravox-1lj50.png",
+      "md5": "f041886e2c31cee9867375615c6098ef",
+      "width": 1200,
+      "height": 1600,
+      "size": 3664766,
+      "uploadedDate": "2024-04-28T16:48:00.248Z",
+      "alt": "Download PARAVOX Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "eaa0fed73635472aadec4ef232689d9c",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-12T04:54:30.742Z",
+  "lastModifiedDate": "2024-04-30T16:34:40.045Z",
+  "customAttributes": {
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "paravox.exe"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "TRUE"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PARAVOX8MTqa"
+    }
+  },
+  "entitlementName": "1c090cb6d1854591a801208aae6a042b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c86d2a67445a43bcb0a85b96b58a7f5c",
+      "appId": "ec6615f5498d428c8a6273d5759d481b",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "81Ravens",
+  "developerId": "o-sap5lg3cpelgphfxv6wtscx8v9ljnp",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

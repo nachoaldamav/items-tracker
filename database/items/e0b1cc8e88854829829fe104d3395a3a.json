@@ -1,0 +1,63 @@
+{
+  "id": "e0b1cc8e88854829829fe104d3395a3a",
+  "title": "Haimrik",
+  "description": "Haimrik",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0cfefdc4e3cd48caaf8e077e20c49d6f/haimrik-offer-utnlz.jpg",
+      "md5": "5ce13afe53a6917d9786dd077d22ee7a",
+      "width": 2560,
+      "height": 1440,
+      "size": 717554,
+      "uploadedDate": "2022-09-05T10:17:58.767Z",
+      "alt": "Haimrik Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0cfefdc4e3cd48caaf8e077e20c49d6f/download-haimrik-offer-1namx.jpg",
+      "md5": "031678e2501dcb88682f62431796f971",
+      "width": 1200,
+      "height": 1600,
+      "size": 629533,
+      "uploadedDate": "2022-09-05T10:17:59.591Z",
+      "alt": "Download Haimrik Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8fd64b07b13d4979b019bfd5b8d4f18b",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-02T08:22:19.691Z",
+  "lastModifiedDate": "2023-08-18T09:54:33.065Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Haimrik"
+    }
+  },
+  "entitlementName": "e0b1cc8e88854829829fe104d3395a3a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "af672bd25a014498bb0090d75f4be988",
+      "appId": "269f6f9ade60464187412aa5d8f93341",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Fulqrum Publishing Ltd.",
+  "developerId": "o-n4d8bf5e8fnr4kujuut9j6v4d29muc",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

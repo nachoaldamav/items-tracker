@@ -1,0 +1,64 @@
+{
+  "id": "ba9fa6f340664a139750bcb923649c57",
+  "title": "Haikuna",
+  "description": "Haikuna",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d1dd3a62ea2b47c392d49fbc1f4ce176/haikuna-9cobv.png",
+      "md5": "51e021d073e11f50a28482bf0bb6b3d6",
+      "width": 2560,
+      "height": 1440,
+      "size": 289554,
+      "uploadedDate": "2024-04-14T11:28:12.140Z",
+      "alt": "Haikuna Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d1dd3a62ea2b47c392d49fbc1f4ce176/haikuna-1cwh0.png",
+      "md5": "4220c6287d8e1fd36a0173de8feb4bac",
+      "width": 1200,
+      "height": 1600,
+      "size": 380460,
+      "uploadedDate": "2024-04-14T11:28:12.534Z",
+      "alt": "Download Haikuna Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "08ce088c33cb46719e378878ae7a24ec",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-26T20:18:57.727Z",
+  "lastModifiedDate": "2024-04-26T20:18:57.727Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "HaikunapN0ej"
+    }
+  },
+  "entitlementName": "ba9fa6f340664a139750bcb923649c57",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "85d0ccda946b41c885e06087de6b9e45",
+      "appId": "daf9e4fd94174f9f81b26163ba222b77",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Gamiri",
+  "developerId": "o-594lmqtg4e2hpz9xkt6g89vn42aet2",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,69 @@
+{
+  "id": "835498b2c1ad40dba5dafb9ffa117376",
+  "title": "Escape From Mystwood Mansion",
+  "description": "Escape From Mystwood Mansion",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b5083a5311014968ae985783ba6c6b52/escape-from-mystwood-mansion-1ww8f.png",
+      "md5": "0cf172d84bbf0fa3db38a1c64f2c7ffc",
+      "width": 2560,
+      "height": 1440,
+      "size": 2345479,
+      "uploadedDate": "2024-04-29T16:42:05.758Z",
+      "alt": "Escape From Mystwood Mansion Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b5083a5311014968ae985783ba6c6b52/escape-from-mystwood-mansion-11x7l.png",
+      "md5": "ec65bc562dc17768e8b4b8f38456bcff",
+      "width": 1200,
+      "height": 1600,
+      "size": 1115470,
+      "uploadedDate": "2024-04-29T16:42:06.175Z",
+      "alt": "Download Escape From Mystwood Mansion Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fe870cd6ecac4382a8cd9c974f1638f0",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-08T13:51:22.301Z",
+  "lastModifiedDate": "2024-05-08T13:51:22.301Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/MansionEscape/Saved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EscapeFromMystwoodMansion"
+    }
+  },
+  "entitlementName": "835498b2c1ad40dba5dafb9ffa117376",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "de95e6afb5e34d51b4c0afdec2a003a4",
+      "appId": "1c445128ab4b4ec3a5ef335d889e8a10",
+      "platform": []
+    }
+  ],
+  "developer": "Lost Sock Studio",
+  "developerId": "o-bna7ghvequ7nmmst7e393ut59lrw6c",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,71 @@
+{
+  "id": "50d502e4bd3e4183a5c7aa2f216b7039",
+  "title": "Souls Of Chronos",
+  "description": "The Apocalypse shattered a world in disarray. Facing his impending death, a young boy named Sid crossed paths with Torii, a girl who feeds on the energy of time. In the harbour town of Astella, a mysterious adventure is about to unfold...",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/74dd0d3730194c75b4adaee3071475c3/souls-of-chronos-1a1ku.png",
+      "md5": "3b0d129af1850888b13fe3d8a0137e4b",
+      "width": 2560,
+      "height": 1440,
+      "size": 3404324,
+      "uploadedDate": "2023-03-15T10:30:45.145Z",
+      "alt": "Souls Of Chronos Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/74dd0d3730194c75b4adaee3071475c3/souls-of-chronos-hlrgp.png",
+      "md5": "f1e73ccf16dec07684c799b04cbeeeec",
+      "width": 1200,
+      "height": 1600,
+      "size": 2079592,
+      "uploadedDate": "2023-03-15T10:30:48.825Z",
+      "alt": "Download Souls Of Chronos Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fc740bd5bc244b50a36620a391980636",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-13T10:45:50.115Z",
+  "lastModifiedDate": "2023-06-22T02:48:12.322Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/SaveDir/{EpicID}/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SoulsOfChronosAEK1d"
+    }
+  },
+  "entitlementName": "50d502e4bd3e4183a5c7aa2f216b7039",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bf12c41fe68143a29edf73f26ccef964",
+      "appId": "716bfaddfed54064a61408a3b6b3a646",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Astrolabe Games",
+  "developerId": "o-52rq8g5q4vkhx4tmd8vm8b8pckytry",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

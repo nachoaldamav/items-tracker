@@ -1,0 +1,75 @@
+{
+  "id": "949d2bae9603445eb9ad117d4e2daf51",
+  "title": "Zoria Age of Shattering",
+  "description": "Zoria Age of Shattering",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/301071901db7448b8895a3f062b90ba6/zoria-age-of-shattering-1uwj1.jpg",
+      "md5": "fc75e4d9e9e3350d1c83711d76de241c",
+      "width": 2560,
+      "height": 1440,
+      "size": 1144870,
+      "uploadedDate": "2023-08-17T12:02:42.768Z",
+      "alt": "Zoria Age of Shattering Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/301071901db7448b8895a3f062b90ba6/zoria-age-of-shattering-1ow7i.jpg",
+      "md5": "12a6a4e0eb68bdfb7d28660847934a00",
+      "width": 1200,
+      "height": 1600,
+      "size": 623673,
+      "uploadedDate": "2023-08-17T12:02:42.276Z",
+      "alt": "Download Zoria Age of Shattering Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "68f79f57d943452a93f56b6ef66aa76c",
+  "status": "ACTIVE",
+  "creationDate": "2023-08-10T13:59:56.587Z",
+  "lastModifiedDate": "2024-03-26T14:25:33.504Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Tiny Trinket Games/Zoria - Age of Shattering/Saves/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.db"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ZoriaAgeofShatteringD0DyS"
+    }
+  },
+  "entitlementName": "949d2bae9603445eb9ad117d4e2daf51",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "54fbbc2cdd2547d5b5d6cf50d42146c4",
+      "appId": "6d483618b7544481ac1b76845d2e4ad0",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Anshar Publishing",
+  "developerId": "o-9z65aawjyvtc2yfpv8ud48hjx6xhv9",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

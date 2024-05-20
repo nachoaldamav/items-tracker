@@ -1,0 +1,61 @@
+{
+  "id": "d0ca8b93119e44c6b1efa1fbdc348298",
+  "title": "Bluelight.inc",
+  "description": "Bluelight.inc",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/90503a4d45564cf58683d72046532dd9/bluelight-2ddev.jpg",
+      "md5": "38e8c872c2dd6e636d5785b873e6b242",
+      "width": 2560,
+      "height": 1440,
+      "size": 993978,
+      "uploadedDate": "2023-10-19T07:31:46.550Z",
+      "alt": "Bluelight Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/90503a4d45564cf58683d72046532dd9/bluelight-9512x.jpg",
+      "md5": "377a98a7dadd21ba9a9fdc28c0217273",
+      "width": 1200,
+      "height": 1600,
+      "size": 495424,
+      "uploadedDate": "2023-10-19T07:31:47.600Z",
+      "alt": "Download Bluelight Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e48a41ece2354513aabb1473743ec43d",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-01T10:00:21.108Z",
+  "lastModifiedDate": "2023-11-01T10:00:21.108Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Bluelight1AHQH"
+    }
+  },
+  "entitlementName": "d0ca8b93119e44c6b1efa1fbdc348298",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cc868ded22e44d80b8b21c91d4aedf96",
+      "appId": "d4066e9ac56948df9d78dbaadc447ec7",
+      "platform": []
+    }
+  ],
+  "developer": "Bluelight.inc",
+  "developerId": "o-8j7dyp5kr7js3an9rcc6zyeyafsxks",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

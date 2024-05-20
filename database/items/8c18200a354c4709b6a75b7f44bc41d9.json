@@ -1,0 +1,79 @@
+{
+  "id": "8c18200a354c4709b6a75b7f44bc41d9",
+  "title": "Bosorka",
+  "description": "Bosorka",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/85e12d6254334d25bf38b6c441f47330/bosorka-wyol2.png",
+      "md5": "2451b98988e7359a2cee917858f85166",
+      "width": 2560,
+      "height": 1440,
+      "size": 2678568,
+      "uploadedDate": "2023-03-21T10:34:58.136Z",
+      "alt": "Bosorka Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/85e12d6254334d25bf38b6c441f47330/bosorka-1nm9n.png",
+      "md5": "f602a902f16627aeedab22b558c95800",
+      "width": 1200,
+      "height": 1600,
+      "size": 1484136,
+      "uploadedDate": "2023-03-21T09:51:07.844Z",
+      "alt": "Download Bosorka Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0e65d8e6338943e68169f928702c4706",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-11T07:24:57.880Z",
+  "lastModifiedDate": "2023-04-11T07:24:57.880Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Bosorka/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Bosorka/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.bsrk"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "200"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Bosorka"
+    }
+  },
+  "entitlementName": "8c18200a354c4709b6a75b7f44bc41d9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5de7f55204c4421dadea68f318949a2a",
+      "appId": "6cc8e960469c4e4da88dd11cf4fd4d07",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Sengi Games",
+  "developerId": "o-2lhvdzfn2b7sbxbdnsqc3ayg6eysfl",
+  "endOfSupport": false,
+  "applicationId": "fghi4567myxB7rHGHk0ZDWX9RLdFXTlC",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

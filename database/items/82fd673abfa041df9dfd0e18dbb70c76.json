@@ -1,0 +1,76 @@
+{
+  "id": "82fd673abfa041df9dfd0e18dbb70c76",
+  "title": "Dungeon Escape",
+  "description": "Dungeon Escape",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/cf66f0e0a63547118ab838d6bd0390ed/dungeon-escape-jzisn.jpg",
+      "md5": "c3a6c5a98dd8467f6cfd875ede330a24",
+      "width": 2560,
+      "height": 1440,
+      "size": 653210,
+      "uploadedDate": "2024-03-11T08:06:40.387Z",
+      "alt": "Dungeon Escape Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/cf66f0e0a63547118ab838d6bd0390ed/dungeon-escape-1y5jm.jpg",
+      "md5": "1840dc84419b6361d8ea44e9530918df",
+      "width": 1200,
+      "height": 1600,
+      "size": 402889,
+      "uploadedDate": "2024-03-11T08:11:34.088Z",
+      "alt": "Download Dungeon Escape Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ae565113ca3b4892afd6f196a6f1b5ea",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-13T21:01:59.160Z",
+  "lastModifiedDate": "2024-04-20T15:28:52.251Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/unity.Alexey Roenko.Dungeon Escape/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Alexey Roenko/Dungeon Escape/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DungeonEscape"
+    }
+  },
+  "entitlementName": "82fd673abfa041df9dfd0e18dbb70c76",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1e88980d4357485294bc1ab0623ef758",
+      "appId": "1fa583f297b34899b3708d81ae479efe",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Roenko Games",
+  "developerId": "o-jpsl56k89qrqtwkyc8tl8jc82gfkyj",
+  "endOfSupport": false,
+  "applicationId": "fghi4567f8yMUFXZtfEoBQS7JddUmBPI",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

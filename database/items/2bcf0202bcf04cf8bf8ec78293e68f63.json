@@ -1,0 +1,71 @@
+{
+  "id": "2bcf0202bcf04cf8bf8ec78293e68f63",
+  "title": "De-Exit - Eternal Matters",
+  "description": "Embark on a surrealistic afterlife journey to discover the secrets of the broken and mysterious Plane of Memory in this cinematic adventure with a hint of stealth. Dive into a wonderful voxel world with an intense atmosphere and save the day!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b45b12324d634951a4bd6ad999097bbb/deexit--eternal-matters-offer-z709t.jpg",
+      "md5": "97d85b5dd33828dcdf4e4f7046d85abb",
+      "width": 2560,
+      "height": 1440,
+      "size": 185990,
+      "uploadedDate": "2022-08-23T07:24:00.503Z",
+      "alt": "De-Exit - Eternal Matters Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b45b12324d634951a4bd6ad999097bbb/download-deexit--eternal-matters-offer-mveqz.jpg",
+      "md5": "956ad0a469146e40d5f5a307b9d49f00",
+      "width": 1200,
+      "height": 1600,
+      "size": 129039,
+      "uploadedDate": "2022-08-23T07:23:59.904Z",
+      "alt": "Download De-Exit - Eternal Matters Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "aa192ebf919a43a5bb8dfee09b3da1eb",
+  "status": "ACTIVE",
+  "creationDate": "2022-08-08T07:51:00.258Z",
+  "lastModifiedDate": "2023-04-13T08:26:15.357Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/SandBloom Studio/DEEXIT/Environment/Integration/Save/Main/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.dat"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DeExitEternalMatters"
+    }
+  },
+  "entitlementName": "2bcf0202bcf04cf8bf8ec78293e68f63",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "27588bd39d2c47ecaf9bbb4598f12123",
+      "appId": "037f996eebbe4fd5a43b472c0b65ef52",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Handy Games",
+  "developerId": "o-ekk92wx8mesnmsvbseequvnt38mzu6",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

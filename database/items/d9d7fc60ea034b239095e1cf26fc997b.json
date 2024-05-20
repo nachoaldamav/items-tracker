@@ -1,0 +1,63 @@
+{
+  "id": "d9d7fc60ea034b239095e1cf26fc997b",
+  "title": "Awaken",
+  "description": "Awaken",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/fe66ae5aeb1a4198a36dcaffdfd70f13/awaken-jdpe1.jpg",
+      "md5": "63d95b1adf57c2305641c281021a6283",
+      "width": 2560,
+      "height": 1440,
+      "size": 3033916,
+      "uploadedDate": "2024-01-03T04:22:54.803Z",
+      "alt": "Awaken Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/fe66ae5aeb1a4198a36dcaffdfd70f13/awaken-1lija.png",
+      "md5": "38ffbc030b65d341d8be306dfee02325",
+      "width": 1200,
+      "height": 1600,
+      "size": 2341200,
+      "uploadedDate": "2023-12-12T10:19:02.364Z",
+      "alt": "Download Awaken Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "879a4b6564b4491e9f523c634d181756",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-29T03:33:59.878Z",
+  "lastModifiedDate": "2024-02-05T07:05:05.765Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Awaken"
+    }
+  },
+  "entitlementName": "d9d7fc60ea034b239095e1cf26fc997b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0c68c48927594ab680e5023e40e65250",
+      "appId": "8a381dbf6e02470a8114a28fcb4ac703",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Polrare Lab",
+  "developerId": "o-z9ce6yzh2g6tvz7pcuv6qqcgxuusje",
+  "endOfSupport": false,
+  "applicationId": "fghi4567C8CX3xSycC4zQWOBGMxQPEXp",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

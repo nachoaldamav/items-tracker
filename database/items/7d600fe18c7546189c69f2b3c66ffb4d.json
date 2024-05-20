@@ -1,0 +1,67 @@
+{
+  "id": "7d600fe18c7546189c69f2b3c66ffb4d",
+  "title": "Game Dev Masters",
+  "description": "Game Dev Masters",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/49f51d9e46f64c47a33a3cb69477efa2/game-dev-masters-3qtlx.png",
+      "md5": "1394e8d91c459036d059646b84235bc8",
+      "width": 2560,
+      "height": 1440,
+      "size": 2392780,
+      "uploadedDate": "2023-03-26T20:50:56.719Z",
+      "alt": "Game Dev Masters Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/49f51d9e46f64c47a33a3cb69477efa2/game-dev-masters-alg3l.png",
+      "md5": "b688caee02b8d19c133845d5272b7ff4",
+      "width": 1200,
+      "height": 1600,
+      "size": 1340734,
+      "uploadedDate": "2023-03-26T20:48:47.939Z",
+      "alt": "Download Game Dev Masters Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3b1560e84e434a3aa699bc67f3f3cb91",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-15T02:41:56.511Z",
+  "lastModifiedDate": "2023-08-15T01:16:08.781Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/GDM/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GameDevMastersBBAMI"
+    }
+  },
+  "entitlementName": "7d600fe18c7546189c69f2b3c66ffb4d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bfc5260ebb7649ebb13cde9d7b4d0d39",
+      "appId": "996da1b97eb44570b6a4f64ea3c9d80b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "One Man Media",
+  "developerId": "o-cessk3ktaru2np2j9d8wc4k7umusfu",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

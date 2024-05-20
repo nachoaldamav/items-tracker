@@ -1,0 +1,64 @@
+{
+  "id": "1f55d031d9234ffc83967f25b978cbed",
+  "title": "Wanderers",
+  "description": "Wanderers",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/391fe9932daa440b98747a55b21e1b26/wanderers-43t5v.jpg",
+      "md5": "2fde0c1699472b20ef7176d2485662a5",
+      "width": 2560,
+      "height": 1440,
+      "size": 3069824,
+      "uploadedDate": "2024-02-29T06:21:04.056Z",
+      "alt": "Wanderers Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/391fe9932daa440b98747a55b21e1b26/wanderers-dcvu8.jpg",
+      "md5": "2d4ced69dc09dd42aa1283d19feae51e",
+      "width": 1200,
+      "height": 1600,
+      "size": 1667976,
+      "uploadedDate": "2024-02-29T06:20:52.645Z",
+      "alt": "Download Wanderers Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cd58edb4b4c54807b1f71ccdb907da77",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-13T15:59:57.734Z",
+  "lastModifiedDate": "2024-04-17T21:17:03.217Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "WanderersfnlYZ"
+    }
+  },
+  "entitlementName": "1f55d031d9234ffc83967f25b978cbed",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b6eb95ae322e44789ce857875be006f0",
+      "appId": "b446107e21d94da5900f8b0bbed33c53",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Wander Labs",
+  "developerId": "o-54wbxcvf8yzkqg46u3uz3t5lzy5hua",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

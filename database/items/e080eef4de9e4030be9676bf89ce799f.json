@@ -1,0 +1,75 @@
+{
+  "id": "e080eef4de9e4030be9676bf89ce799f",
+  "title": "Quest Hunter",
+  "description": "Quest Hunter is an isometric action-RPG where your choice drives the story. Play on the couch, alone or with friends, or make it an online party for up to four players!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3f808e3832474b9a9fa00b775df2f961/quest-hunter-rwtxh.png",
+      "md5": "c4c1605b680df3e272d730937b80c304",
+      "width": 2560,
+      "height": 1440,
+      "size": 4185378,
+      "uploadedDate": "2023-03-15T16:36:23.358Z",
+      "alt": "Quest Hunter Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3f808e3832474b9a9fa00b775df2f961/quest-hunter-2itf0.png",
+      "md5": "88b3273deb406e729106fd57a024eeb6",
+      "width": 1200,
+      "height": 1600,
+      "size": 2185276,
+      "uploadedDate": "2023-03-15T16:36:18.516Z",
+      "alt": "Download Quest Hunter Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b72f5f79f855471e9691ff22e4967656",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-06T19:15:14.706Z",
+  "lastModifiedDate": "2023-06-06T19:15:15.616Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/2 Zombie Games/Quest Hunter/{EpicID}/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/2 Zombie Games/Quest Hunter/{EpicID}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "quest_hunter_save"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "QuestHunter"
+    }
+  },
+  "entitlementName": "e080eef4de9e4030be9676bf89ce799f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9c1547711f9f41a5ab0ee632d7163735",
+      "appId": "7ea169286cf241abb402128c0713a7dd",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "2 Zombie Games",
+  "developerId": "o-6rgx7ejufnzj5fnx3nf3wmxqv33crd",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

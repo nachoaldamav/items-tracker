@@ -1,0 +1,72 @@
+{
+  "id": "4043a850828c4c3ea288a1dc802289ea",
+  "title": "Return to Monkey Island",
+  "description": "Return to Monkey Island is an unexpected, thrilling return of series creator Ron Gilbert that continues the story of the legendary adventure games.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c578eb16d05647b7875208b12e10a17e/return-to-monkey-island-jsazc.jpg",
+      "md5": "2c7387250ceacc3aeee7e05e30a2737a",
+      "width": 2560,
+      "height": 1440,
+      "size": 960277,
+      "uploadedDate": "2023-02-23T21:29:10.555Z",
+      "alt": "Return to Monkey Island Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c578eb16d05647b7875208b12e10a17e/return-to-monkey-island-1cka7.jpg",
+      "md5": "081241f69dd29bf259e3ff36f9f7caf4",
+      "width": 1200,
+      "height": 1600,
+      "size": 583470,
+      "uploadedDate": "2023-02-23T21:29:09.687Z",
+      "alt": "Download Return to Monkey Island Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "652423874791471c8ed723e94d43062b",
+  "status": "ACTIVE",
+  "creationDate": "2022-07-05T19:09:10.456Z",
+  "lastModifiedDate": "2023-05-12T20:02:28.265Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Terrible Toybox/Return to Monkey Island/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ReturnToMonkeyIsland"
+    }
+  },
+  "entitlementName": "4043a850828c4c3ea288a1dc802289ea",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7aa4d4a8f0e14d888e736fc23331a8a9",
+      "appId": "d317d270595b4ad9abed051b33adf130",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

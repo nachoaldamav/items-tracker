@@ -1,0 +1,68 @@
+{
+  "id": "add2416204fd4534aa261c01aa291b40",
+  "title": "Lost Wing",
+  "description": "Lost Wing",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/36d9aad37d504f50b8848dc21d395501/lost-wing-i7fv9.png",
+      "md5": "3c5956acf26dcd03b6c4b28035edcddd",
+      "width": 2560,
+      "height": 1440,
+      "size": 1298037,
+      "uploadedDate": "2023-03-27T10:55:20.498Z",
+      "alt": "Lost Wing Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/36d9aad37d504f50b8848dc21d395501/lost-wing-adf9l.png",
+      "md5": "e37237f0178c852542b25cf0bae45299",
+      "width": 1200,
+      "height": 1600,
+      "size": 2403814,
+      "uploadedDate": "2023-03-27T10:54:07.957Z",
+      "alt": "Download Lost Wing Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c3900988383a48b4959c3292a8a555eb",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-08T17:14:54.452Z",
+  "lastModifiedDate": "2023-07-12T15:19:31.313Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/2Awesome Partners/LostWing/SaveFiles/TASaveSlot/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LostWingcvTfv"
+    }
+  },
+  "entitlementName": "add2416204fd4534aa261c01aa291b40",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cb8638fb653b4b4296cd30b03c5a15c9",
+      "appId": "d4e18ecb587445e0a1f406c09d1a793c",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "2Awesome Studio SL",
+  "developerId": "o-zkm7588dgyng52hquqpavzyyrtw4k5",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

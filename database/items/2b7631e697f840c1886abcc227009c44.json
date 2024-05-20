@@ -1,0 +1,63 @@
+{
+  "id": "2b7631e697f840c1886abcc227009c44",
+  "title": "Delivery Boy",
+  "description": "Delivery Boy",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d8d2aca13ccd419eb64bb1c70c5a1442/delivery-boy-icel8.png",
+      "md5": "57882f7f7ea6125603e3d5e8092a3008",
+      "width": 2560,
+      "height": 1440,
+      "size": 1936524,
+      "uploadedDate": "2023-12-19T07:32:35.387Z",
+      "alt": "Delivery Boy Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d8d2aca13ccd419eb64bb1c70c5a1442/delivery-boy-52sox.png",
+      "md5": "a5dd21f08ab199afe75b1ad1e1eb0868",
+      "width": 1200,
+      "height": 1600,
+      "size": 1025454,
+      "uploadedDate": "2023-12-19T07:32:05.556Z",
+      "alt": "Download Delivery Boy Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "84860d15749f404e8a24fd58e6b01448",
+  "status": "ACTIVE",
+  "creationDate": "2024-01-10T17:11:00.794Z",
+  "lastModifiedDate": "2024-01-10T17:11:00.794Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DeliveryBoy"
+    }
+  },
+  "entitlementName": "2b7631e697f840c1886abcc227009c44",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f1e55f33541d4deeb7e3e3af0c67c2e9",
+      "appId": "2419fc91e6e64beebde604166c6f13f2",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Poroshin Develop",
+  "developerId": "o-aeddnam9rgp7cyfajvxma9x78k27fr",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,67 @@
+{
+  "id": "0a28e9fe563a40f6a86a2436b0e399b8",
+  "title": "Island Farmer",
+  "description": "Arrange the farm islands and see your archipelago expand. Just swap the blocks of a 3D jigsaw puzzle.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3fb5be523b7a46d39f9b2da081fad744/island-farmer-1cwgk.jpg",
+      "md5": "ef207a80636c62c40162edfb4140291d",
+      "width": 2560,
+      "height": 1440,
+      "size": 734112,
+      "uploadedDate": "2023-05-09T00:09:05.226Z",
+      "alt": "Island Farmer Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3fb5be523b7a46d39f9b2da081fad744/island-farmer-1k5e9.jpg",
+      "md5": "f4eee00b080f4b7cdfeb90452a7f7469",
+      "width": 1200,
+      "height": 1600,
+      "size": 382527,
+      "uploadedDate": "2023-05-09T00:09:05.764Z",
+      "alt": "Download Island Farmer Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "25163a0f3c9d47d38afe753d53fd27bb",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-28T20:46:50.187Z",
+  "lastModifiedDate": "2023-05-18T01:26:25.902Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Mens Sana Interactive/Island Farmer/Savesdir/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "IslandFarmer"
+    }
+  },
+  "entitlementName": "0a28e9fe563a40f6a86a2436b0e399b8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "dca83766d9ed459199786d96c89b4424",
+      "appId": "f192f0dc124b472eb365b2d5cf131b7b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Mens Sana Interactive",
+  "developerId": "o-psnaah85vj9uynvnehzkc2nr63hdyp",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

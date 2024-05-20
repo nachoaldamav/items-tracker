@@ -1,0 +1,75 @@
+{
+  "id": "0c381de18c0749db9a39f45e1c42ce3c",
+  "title": "Elite Comet",
+  "description": "Elite Comet",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7a376839c80749df8f998bb5d33c9b53/elite-comet-1efvw.png",
+      "md5": "2be047f792d69d1728f656f9ff140838",
+      "width": 2560,
+      "height": 1440,
+      "size": 2976833,
+      "uploadedDate": "2023-11-12T07:22:00.444Z",
+      "alt": "Elite Comet Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7a376839c80749df8f998bb5d33c9b53/elite-comet-18zl2.png",
+      "md5": "d911a1fa5e3dcbd5abf3f4d71818a316",
+      "width": 1200,
+      "height": 1600,
+      "size": 1511175,
+      "uploadedDate": "2023-11-12T07:22:13.101Z",
+      "alt": "Download Elite Comet Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4843acbd9ca647e3ad3eecae110daa80",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-13T18:51:58.071Z",
+  "lastModifiedDate": "2023-11-13T18:51:58.071Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/EC_{EpicID}/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/EC_{EpicID}/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "5000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EC"
+    }
+  },
+  "entitlementName": "0c381de18c0749db9a39f45e1c42ce3c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7907021e1ca9440db77b3a17da18a71a",
+      "appId": "b8354eadc8774eca873ee481e07d00ae",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Shangko",
+  "developerId": "o-ka6fp78gfflnfpel7y4e2xehd296hs",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

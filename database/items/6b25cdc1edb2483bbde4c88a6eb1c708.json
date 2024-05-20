@@ -1,0 +1,63 @@
+{
+  "id": "6b25cdc1edb2483bbde4c88a6eb1c708",
+  "title": "ExoWorlds",
+  "description": "ExoWorlds",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ef8b93fe96e148f68c3f915c286c1e6e/exoworlds-2vyhu.png",
+      "md5": "893eabbb67b4ccbbbe43f6504220b186",
+      "width": 2560,
+      "height": 1440,
+      "size": 1522885,
+      "uploadedDate": "2024-04-08T13:31:54.982Z",
+      "alt": "ExoWorlds Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ef8b93fe96e148f68c3f915c286c1e6e/exoworlds-1j1mn.png",
+      "md5": "5d1e8c0598173b9b8821c2adbcb3cb15",
+      "width": 1200,
+      "height": 1600,
+      "size": 1018419,
+      "uploadedDate": "2024-04-08T13:31:58.346Z",
+      "alt": "Download ExoWorlds Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8ac47eb9b3844030b73ecc21936730a0",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-17T14:59:55.553Z",
+  "lastModifiedDate": "2024-04-17T14:59:55.553Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ExoWorlds"
+    }
+  },
+  "entitlementName": "6b25cdc1edb2483bbde4c88a6eb1c708",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "093bccc20d604850acac481f26cf2dca",
+      "appId": "3e2e77ca9fe74ac8b3e4bb9628cc1958",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Exo Worlds",
+  "developerId": "o-9vpsq9mruslqtjpzz65eha27rpm3an",
+  "endOfSupport": false,
+  "applicationId": "fghi4567Qu5VCtWUCMHHx5wXCap4qdI9",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

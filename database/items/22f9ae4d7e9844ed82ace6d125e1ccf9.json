@@ -1,0 +1,63 @@
+{
+  "id": "22f9ae4d7e9844ed82ace6d125e1ccf9",
+  "title": "Gigapocalypse",
+  "description": "Gigapocalypse",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/79460c9ca0ac41f1bff52983d803a2d7/gigapocalypse-yieit.jpg",
+      "md5": "cfedc75b3acfde245f0178d3de44bb17",
+      "width": 2560,
+      "height": 1440,
+      "size": 759578,
+      "uploadedDate": "2023-02-02T04:19:09.972Z",
+      "alt": "Gigapocalypse Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/79460c9ca0ac41f1bff52983d803a2d7/gigapocalypse-1uzwj.jpg",
+      "md5": "f65097969dbeb845b0cd4f5fcb656198",
+      "width": 1200,
+      "height": 1600,
+      "size": 418067,
+      "uploadedDate": "2023-02-02T04:19:04.896Z",
+      "alt": "Download Gigapocalypse Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "09f00180b25347bdb65ac0b7378756b7",
+  "status": "ACTIVE",
+  "creationDate": "2022-12-22T12:55:58.536Z",
+  "lastModifiedDate": "2023-02-09T09:22:43.351Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "GigapocalypseBsF2y"
+    }
+  },
+  "entitlementName": "22f9ae4d7e9844ed82ace6d125e1ccf9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7b1998f3084345bc908c95deff6eeaf1",
+      "appId": "a7270bff1bad44298091dd61c6c7bc00",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Headup Gmbh",
+  "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

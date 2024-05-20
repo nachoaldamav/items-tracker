@@ -1,0 +1,69 @@
+{
+  "id": "6905f08128b5477c8efd768c37d9b967",
+  "title": "Zoeti",
+  "description": "Zoeti",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/78af28ae56cb41e69cbca318bbc180e3/zoeti-1h9qn.jpg",
+      "md5": "e3cc3d909faa96fbf96e4f4445459602",
+      "width": 2560,
+      "height": 1440,
+      "size": 687346,
+      "uploadedDate": "2023-04-15T19:42:24.838Z",
+      "alt": "Zoeti Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/78af28ae56cb41e69cbca318bbc180e3/download-zoeti-offer-1j0lj.png",
+      "md5": "52beb9df93b3af1c97b34f8435d6dc43",
+      "width": 1200,
+      "height": 1600,
+      "size": 2289213,
+      "uploadedDate": "2022-06-27T21:58:56.308Z",
+      "alt": "Download Zoeti Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1a7cbda7efe7435dabda1af662aeb1ba",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-09T19:23:18.298Z",
+  "lastModifiedDate": "2023-08-29T15:35:09.489Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Dusklight/Zoeti/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Zoeti"
+    }
+  },
+  "entitlementName": "6905f08128b5477c8efd768c37d9b967",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7634ecf9a4b6422db63993793ab5450d",
+      "appId": "71d86610f6d4447086528778da3c384e",
+      "platform": [
+        "Mac",
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Akupara Games",
+  "developerId": "o-vzv8n7jse99sluj4vaa8522rh45cvg",
+  "endOfSupport": false,
+  "applicationId": "fghi4567PIZdq6YlDyh7C2ty2LPoJg9E",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

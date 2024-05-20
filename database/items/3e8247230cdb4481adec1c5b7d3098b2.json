@@ -1,0 +1,76 @@
+{
+  "id": "3e8247230cdb4481adec1c5b7d3098b2",
+  "title": "Dungeon Knight",
+  "description": "You will play as a brave knight, exploring underground mazes, completing various challenges. Each level in the game is the ultimate platform jumping experience, requiring your precise calculation of jump timing and distance, dodging danger, and finally reaching the finish line.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d45eb1a26c89492ab52a7682d386115f/dungeon-knight-182pv.png",
+      "md5": "1daabadc51604139cb30e406806afeee",
+      "width": 2560,
+      "height": 1440,
+      "size": 33097,
+      "uploadedDate": "2023-05-25T06:23:50.675Z",
+      "alt": "Dungeon Knight Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d45eb1a26c89492ab52a7682d386115f/dungeon-knight-1905a.png",
+      "md5": "f4b648b46286f8d6333dc00ab7a802db",
+      "width": 1200,
+      "height": 1600,
+      "size": 30436,
+      "uploadedDate": "2023-05-25T06:19:53.753Z",
+      "alt": "Download Dungeon Knight Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bb813cebe527480abb7d459661931369",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-07T02:30:31.649Z",
+  "lastModifiedDate": "2023-06-07T02:30:31.649Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/BUNAGAMES/DungeonKnight/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/BunaGames/DungeonKnight/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "20"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DungeonKnight16Ck8"
+    }
+  },
+  "entitlementName": "3e8247230cdb4481adec1c5b7d3098b2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a07526eb7bab4ea39c7e0eb8432d9b9b",
+      "appId": "dbe6872433ee4bc39971701dd15d9051",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "BunaGames",
+  "developerId": "o-ablyd7h8zea34gheny8laza7hdfztc",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,67 @@
+{
+  "id": "871d93d76f444fb6834b46436a4600ed",
+  "title": "Effie",
+  "description": "Effie",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a86addb07a2c41498b2f397260ed5ea3/download-effie-offer-98rz1.png",
+      "md5": "39a9edf09283e781af5ebd8e050e2aba",
+      "width": 1200,
+      "height": 1600,
+      "size": 1226073,
+      "uploadedDate": "2021-12-03T11:47:10.232Z",
+      "alt": "Download Effie Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a86addb07a2c41498b2f397260ed5ea3/effie-offer-1s1dc.png",
+      "md5": "b09d4856f8c504111ff7045fbaf64968",
+      "width": 2560,
+      "height": 1440,
+      "size": 2058062,
+      "uploadedDate": "2021-12-14T07:46:34.574Z",
+      "alt": "Effie Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9e46ce76e796420a89e04e0d6cad61f4",
+  "status": "ACTIVE",
+  "creationDate": "2023-01-09T22:42:46.050Z",
+  "lastModifiedDate": "2023-01-09T22:42:46.050Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Effie/Saved/SaveGames/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Effie33sVW"
+    }
+  },
+  "entitlementName": "871d93d76f444fb6834b46436a4600ed",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "54f464f7bb1743a08687971fea701369",
+      "appId": "e19d42f0801b409ba4050f86783d855b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Inverge Studios S.L.",
+  "developerId": "o-cd25bvbfpznrhe687zp2au3vxyuvzb",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "0fc698763b93479ea712e444b36f906e",
+  "title": "Quest of Dungeons",
+  "description": "Quest of Dungeons",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/01aac4f2276948d1bae8aa185512c300/quest-of-dungeons-9e1kx.png",
+      "md5": "510da1a13e07e837c5486a3ad35c8dbf",
+      "width": 2560,
+      "height": 1440,
+      "size": 2242836,
+      "uploadedDate": "2023-03-18T14:59:20.954Z",
+      "alt": "Quest of Dungeons Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/01aac4f2276948d1bae8aa185512c300/quest-of-dungeons-kkx1l.png",
+      "md5": "2b59a356d550081e51449d27c558312d",
+      "width": 1200,
+      "height": 1600,
+      "size": 1140001,
+      "uploadedDate": "2023-03-18T14:56:20.069Z",
+      "alt": "Download Quest of Dungeons Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3bb8a6671a8540fda09479156601b3c0",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-10T15:42:34.963Z",
+  "lastModifiedDate": "2023-03-22T07:13:05.349Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "QuestofDungeons"
+    }
+  },
+  "entitlementName": "0fc698763b93479ea712e444b36f906e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ef6957ded1b14a19bc84dbbf8f85fa1e",
+      "appId": "49408ee43ae54b3e907b1668a70bf12c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Upfall Studios",
+  "developerId": "o-3chuy82pgqpfxfftc5g9d7jnk2gzmt",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

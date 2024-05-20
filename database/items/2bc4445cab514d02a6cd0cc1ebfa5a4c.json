@@ -1,0 +1,70 @@
+{
+  "id": "2bc4445cab514d02a6cd0cc1ebfa5a4c",
+  "title": "Thief",
+  "description": "Thief is a 1st person stealth-action game by Eidos-Montréal. In this reimagination of the cult classic Thief franchise, steal, stealth and infiltrate your way through the treacherous City as Garrett, the Master Thief.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/44b12bc6a7f045a3bf313574c344dfd7/thief-nny72.png",
+      "md5": "bcb7ea0ecdc4684c30c0f1c107be3c21",
+      "width": 2560,
+      "height": 1440,
+      "size": 1980980,
+      "uploadedDate": "2023-09-27T13:51:55.608Z",
+      "alt": "Thief Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/44b12bc6a7f045a3bf313574c344dfd7/thief-1m5zx.png",
+      "md5": "cf2c1694992a2994556464c5df787b98",
+      "width": 1200,
+      "height": 1600,
+      "size": 3102816,
+      "uploadedDate": "2023-09-27T13:51:57.729Z",
+      "alt": "Download Thief Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3319fe5042ab4392a2b11c6938c0cda1",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-18T19:19:53.379Z",
+  "lastModifiedDate": "2024-04-25T12:30:45.902Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/ThiefGame/SaveData/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ThiefvWwV2"
+    }
+  },
+  "entitlementName": "2bc4445cab514d02a6cd0cc1ebfa5a4c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "26bcb87a18f842f1b2fbcdc567469d23",
+      "appId": "4123bcce398b4b1d8b9ef878f81055d1",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Eidos Interactive Corporation",
+  "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi456752yDxDGUr6TNdQsEes7uL2eT",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

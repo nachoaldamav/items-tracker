@@ -1,0 +1,76 @@
+{
+  "id": "c476320b2d2444328f2e4f323858deaa",
+  "title": "Jewel Run",
+  "description": "Jewel Run is the ultimate multiplayer action game that puts a hilarious spin on burglary! Join the heist as two teams with distinct gameplays go head-to-head: Will the cunning thieves outsmart the magical orchard's vigilant guards, or will the guardians protect their treasures?",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/21f2e6323d5b4372812e0992acce76ce/jewel-run-15hr4.jpg",
+      "md5": "2eebe3c5451369904f7ee50145818a58",
+      "width": 2560,
+      "height": 1440,
+      "size": 877803,
+      "uploadedDate": "2023-11-27T15:37:51.737Z",
+      "alt": "Jewel Run Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/21f2e6323d5b4372812e0992acce76ce/jewel-run-1qwug.png",
+      "md5": "82e96965baa5fdd2d182eed1c8af61ff",
+      "width": 1200,
+      "height": 1600,
+      "size": 2323782,
+      "uploadedDate": "2023-12-19T10:34:27.305Z",
+      "alt": "Download Jewel Run Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "84c8e6d18b31451db1a5557c09f2ea6a",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-27T10:33:15.174Z",
+  "lastModifiedDate": "2024-01-16T14:47:44.817Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Jewel Run/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Jewel Run/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.tres"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "JewelRunsEh2Y"
+    }
+  },
+  "entitlementName": "c476320b2d2444328f2e4f323858deaa",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0eef18f30acb47a08791c9e03cbcdc46",
+      "appId": "a8a8ba5327dd457abf382b76fa9ea7e6",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Cerbere Games",
+  "developerId": "o-cc5qkvz2yphfxch7xahhsfztwg2wtm",
+  "endOfSupport": false,
+  "applicationId": "fghi4567URRT1zP3ipl4qml8slguQhW6",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

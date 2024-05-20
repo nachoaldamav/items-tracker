@@ -1,0 +1,71 @@
+{
+  "id": "31277f4880b44abea452ccc1d79d8545",
+  "title": "Oxide Room 104",
+  "description": "A bone-chilling body-horror game with escape room gameplay. Bad decisions have brought Matthew to this terrifying motel. Now it’s up to you to decide how to escape - will you make it out alive?",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e1890137004b4e9581febb263d4f3a8c/oxide-room-104-f0d6d.jpg",
+      "md5": "e1905329a0ba6dee66f086ba3ec14422",
+      "width": 2560,
+      "height": 1440,
+      "size": 331156,
+      "uploadedDate": "2023-04-13T09:52:51.420Z",
+      "alt": "Oxide Room 104 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e1890137004b4e9581febb263d4f3a8c/oxide-room-104-1w0l3.jpg",
+      "md5": "3cd1c34dcdb0df5281069cb3fc060aa8",
+      "width": 1200,
+      "height": 1600,
+      "size": 341235,
+      "uploadedDate": "2023-04-13T09:52:51.576Z",
+      "alt": "Download Oxide Room 104 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "877e0717992c4058acdb32363130958a",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-13T12:12:14.961Z",
+  "lastModifiedDate": "2023-08-17T19:24:18.474Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/OxideRoom104/Saved/SaveGames/{EpicID}/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OxideRoom104KovKD"
+    }
+  },
+  "entitlementName": "31277f4880b44abea452ccc1d79d8545",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "97925965e80f42fc909f78b2c2b90ec4",
+      "appId": "0624af812c76419cbb35446d6563d775",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Wild Sphere S.L.U.",
+  "developerId": "o-lh3wk89whkgd64edmt5z7hxzl8n9w8",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

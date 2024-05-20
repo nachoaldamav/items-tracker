@@ -1,0 +1,63 @@
+{
+  "id": "09d56d2ffa3f44b3895bfaf10ece7bf9",
+  "title": "Quick Race",
+  "description": "Quick Race",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8377dd4e2084465eba74db56e8811469/quick-race-13xey.jpg",
+      "md5": "101d49d3bb71eac7d05ace96240dddcb",
+      "width": 2560,
+      "height": 1440,
+      "size": 1838727,
+      "uploadedDate": "2023-12-20T20:10:18.576Z",
+      "alt": "Quick Race Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8377dd4e2084465eba74db56e8811469/quick-race-jtfxl.jpg",
+      "md5": "5a2d2ab9900f01933d8783bbbd92801d",
+      "width": 1200,
+      "height": 1600,
+      "size": 1158506,
+      "uploadedDate": "2023-12-20T20:12:03.199Z",
+      "alt": "Download Quick Race Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7f0be7eaee1f40039da74dd9591ed049",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-23T18:35:42.266Z",
+  "lastModifiedDate": "2023-12-23T18:35:42.266Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "QuickRaceIZFVD"
+    }
+  },
+  "entitlementName": "09d56d2ffa3f44b3895bfaf10ece7bf9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "74049c2d995443dcac6dc7fcf63b4e8c",
+      "appId": "8aa48b05ad5e4343a8254a1e1fd0ae8f",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Source Byte Sp. z o.o.",
+  "developerId": "o-yfgydcathkyuxndflrnxmaxudylwbj",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

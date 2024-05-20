@@ -1,0 +1,63 @@
+{
+  "id": "4f74ac32d2974298a7793d3c26f91dc2",
+  "title": "Mini Royale",
+  "description": "Mini Royale",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/bec08df44a434459a5ae9b1254797d5b/mini-royale-c06lz.png",
+      "md5": "5dd0df4557f3226b4369dc89441a1214",
+      "width": 2560,
+      "height": 1440,
+      "size": 3536310,
+      "uploadedDate": "2023-07-14T12:12:05.914Z",
+      "alt": "Mini Royale Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/bec08df44a434459a5ae9b1254797d5b/mini-royale-1roez.png",
+      "md5": "d33f3bfd93e74ab93a492b3c8024a274",
+      "width": 1200,
+      "height": 1600,
+      "size": 2232546,
+      "uploadedDate": "2023-07-14T12:13:37.924Z",
+      "alt": "Download Mini Royale Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fd952b46a2ad411f8277811e3d9ce98f",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-11T18:50:01.148Z",
+  "lastModifiedDate": "2023-10-10T13:45:32.048Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "MiniRoyale"
+    }
+  },
+  "entitlementName": "4f74ac32d2974298a7793d3c26f91dc2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2c3cc88408db4c4b8854468f96dca36b",
+      "appId": "8afa91ad1bc34eb2a1ae704d391896f1",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Indigo Blue UG",
+  "developerId": "o-hggbx7uqu5n2zckyuzs2l69fjq9r5u",
+  "endOfSupport": false,
+  "applicationId": "fghi4567k3Adb3KCAZfpDYxjshDwFBsb",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

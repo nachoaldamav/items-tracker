@@ -1,0 +1,75 @@
+{
+  "id": "0558b1091f9b44398e280bb8543414a6",
+  "title": "The Gap",
+  "description": "Driven by a rare neurological affliction plaguing his family, Joshua has to recover his memories by exploring parallel realities through déjà vu. Facing the depths of his past – moments both joyous and painful – seems to be the only way to get his life and family back together.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7624a34a8f064742a6fb881d5d6d13cf/the-gap-1s67c.jpg",
+      "md5": "a40817cb718e565a03d7e095f439bed4",
+      "width": 2560,
+      "height": 1440,
+      "size": 762883,
+      "uploadedDate": "2023-12-11T10:00:13.352Z",
+      "alt": "The Gap Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7624a34a8f064742a6fb881d5d6d13cf/the-gap-19q0b.jpg",
+      "md5": "b0ebee63c5a43ddb95162791494780f8",
+      "width": 1200,
+      "height": 1600,
+      "size": 487924,
+      "uploadedDate": "2023-12-11T10:00:13.048Z",
+      "alt": "Download The Gap Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2ecda9f5dc5945c39b98d63d65c0797d",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-04T11:33:54.850Z",
+  "lastModifiedDate": "2024-01-04T16:40:06.594Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/TheGap/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "SaveGame.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheGap"
+    }
+  },
+  "entitlementName": "0558b1091f9b44398e280bb8543414a6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2b93fd7204b846faa559993837ea722e",
+      "appId": "531e0c697c8c44aa954f6690edd38973",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Crunching Koalas sp. z o.o.",
+  "developerId": "o-7ggqes5ays466rlwtqp7y264atxbt8",
+  "endOfSupport": false,
+  "applicationId": "fghi4567woydD1gJCRAgcRY6huGCIGWu",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

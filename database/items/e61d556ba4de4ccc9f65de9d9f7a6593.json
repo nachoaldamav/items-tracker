@@ -1,0 +1,64 @@
+{
+  "id": "e61d556ba4de4ccc9f65de9d9f7a6593",
+  "title": "Danger Forever",
+  "description": "Danger Forever",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2fafdf19ba584f04afa0b73cd5598a07/danger-forever-offer-16eps.jpg",
+      "md5": "c46cf0d486901f6e4a52c3239ccf2c51",
+      "width": 2560,
+      "height": 1440,
+      "size": 973662,
+      "uploadedDate": "2022-09-17T09:10:01.295Z",
+      "alt": "Danger Forever Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2fafdf19ba584f04afa0b73cd5598a07/download-danger-forever-offer-tweii.jpg",
+      "md5": "e155f042997d81a5355c489c433815a4",
+      "width": 1200,
+      "height": 1600,
+      "size": 471790,
+      "uploadedDate": "2022-09-17T09:13:27.631Z",
+      "alt": "Download Danger Forever Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "71f7cd0a8925454e839dae8ed68cb840",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-08T15:19:22.906Z",
+  "lastModifiedDate": "2024-01-24T22:39:53.287Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DangerForever"
+    }
+  },
+  "entitlementName": "e61d556ba4de4ccc9f65de9d9f7a6593",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "487d96ee508d4bb1ad8f6d3e6e50a4f9",
+      "appId": "c954e27d13574a9591b50346bac2de1f",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Meridian4",
+  "developerId": "o-lk3h3v3ddypmx7zferz37x5l86w54p",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

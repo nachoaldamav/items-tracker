@@ -1,0 +1,67 @@
+{
+  "id": "30f07a19700e46b0a871e7f130245493",
+  "title": "Blights Wrath",
+  "description": "Blights Wrath",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1c6e9b81d13d4c61a8d55f5c80c5bb1a/blights-wrath-dkv50.png",
+      "md5": "659c90d4167dd026c50e8fa4dd13a281",
+      "width": 2560,
+      "height": 1440,
+      "size": 1711005,
+      "uploadedDate": "2023-10-30T21:09:16.800Z",
+      "alt": "Blights Wrath Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1c6e9b81d13d4c61a8d55f5c80c5bb1a/blights-wrath-14db9.png",
+      "md5": "8a6b94344986f365e9c15e58701f4f04",
+      "width": 1200,
+      "height": 1600,
+      "size": 1452036,
+      "uploadedDate": "2023-10-30T21:13:07.170Z",
+      "alt": "Download Blights Wrath Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "18977ccdfeb24707bef7ba94c8b118e8",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-31T16:53:08.224Z",
+  "lastModifiedDate": "2023-10-31T16:53:08.224Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/ALS_DCS_RPGInv/Saved\\SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BlightsWrath"
+    }
+  },
+  "entitlementName": "30f07a19700e46b0a871e7f130245493",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b1649f3090284a46966296237ee0b3e7",
+      "appId": "d3777b17391049589c266a5c6f9af733",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Equilibrium Games",
+  "developerId": "o-um4vdl9mderpj7m45hmrpyrd5mqmsd",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

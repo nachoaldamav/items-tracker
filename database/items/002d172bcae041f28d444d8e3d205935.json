@@ -1,0 +1,63 @@
+{
+  "id": "002d172bcae041f28d444d8e3d205935",
+  "title": "Polker",
+  "description": "Polker",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9f98133e7f824b55a751d70f257647bd/polker-lfe8z.jpg",
+      "md5": "ec0e1409d7e5c01955a70d5f79ede1e0",
+      "width": 2560,
+      "height": 1440,
+      "size": 3963828,
+      "uploadedDate": "2023-05-23T16:17:49.851Z",
+      "alt": "Polker Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9f98133e7f824b55a751d70f257647bd/polker-1ijwn.jpg",
+      "md5": "04a92ec24adddd46ff7b548a4ba02903",
+      "width": 1200,
+      "height": 1600,
+      "size": 3978893,
+      "uploadedDate": "2023-05-23T16:17:57.785Z",
+      "alt": "Download Polker Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1c380e2b8e7b4c2ea0643aff249fb7f1",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-20T14:55:07.947Z",
+  "lastModifiedDate": "2023-08-02T14:48:45.456Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Polker"
+    }
+  },
+  "entitlementName": "002d172bcae041f28d444d8e3d205935",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "37645b5f66d44e4aa051088f21584300",
+      "appId": "52da2ef73c124bbb8a4ef5159770b0b8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Polker",
+  "developerId": "o-rxxmb9yc346clm9a7bbfxqf7j8dem7",
+  "endOfSupport": false,
+  "applicationId": "fghi4567SAPZOch4G0sKDgCVUgOx16Ku",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

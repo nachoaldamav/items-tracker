@@ -1,0 +1,62 @@
+{
+  "id": "b47dbce1f1c94cc7abc41d7fc2789b21",
+  "title": "Bucket Knight",
+  "description": "Bucket Knight",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6ab91b6489a542fba4b984ab30a4515d/bucket-knight-1xu59.png",
+      "md5": "6709fe3938ea2c7b489c1fcd44ac99b2",
+      "width": 2560,
+      "height": 1440,
+      "size": 1664100,
+      "uploadedDate": "2023-03-23T15:41:48.504Z",
+      "alt": "Bucket Knight Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6ab91b6489a542fba4b984ab30a4515d/bucket-knight-5lefk.png",
+      "md5": "b188609a2b75e3778906051d81e9b414",
+      "width": 1200,
+      "height": 1600,
+      "size": 913454,
+      "uploadedDate": "2023-03-23T15:41:47.981Z",
+      "alt": "Download Bucket Knight Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e4a9b75e99da4a35aa57fc602c0e8ebb",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-23T15:26:34.225Z",
+  "lastModifiedDate": "2023-06-28T15:18:10.015Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BucketKnightd3bKM"
+    }
+  },
+  "entitlementName": "b47dbce1f1c94cc7abc41d7fc2789b21",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "228ff02034dc41128552f273a979407c",
+      "appId": "a46fae096ade4c3484ad03265adfb274",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Meridian4",
+  "developerId": "o-lk3h3v3ddypmx7zferz37x5l86w54p",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

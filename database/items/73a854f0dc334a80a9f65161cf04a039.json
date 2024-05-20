@@ -1,0 +1,72 @@
+{
+  "id": "73a854f0dc334a80a9f65161cf04a039",
+  "title": "NOVA",
+  "description": "NOVA",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f862cc4018ae409bac0d0d0296b58bae/nova-bfgk5.png",
+      "md5": "f205a1843f7b86e58c1088a12b742682",
+      "width": 2560,
+      "height": 1440,
+      "size": 2783325,
+      "uploadedDate": "2023-09-03T16:30:29.801Z",
+      "alt": "NOVA Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f862cc4018ae409bac0d0d0296b58bae/nova-y6ka5.png",
+      "md5": "41db084f486d200cada8dc28a0bcf05b",
+      "width": 1200,
+      "height": 1600,
+      "size": 1774632,
+      "uploadedDate": "2023-09-03T16:30:33.359Z",
+      "alt": "Download NOVA Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ba595699ab134a36b03255588bd0344e",
+  "status": "ACTIVE",
+  "creationDate": "2023-08-03T15:43:53.934Z",
+  "lastModifiedDate": "2023-09-08T17:26:34.468Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Docunents/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/NOVA/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NOVAQLLQK"
+    }
+  },
+  "entitlementName": "73a854f0dc334a80a9f65161cf04a039",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b1ee2ef7688043598796745806c630af",
+      "appId": "0b4a53a15d1f48d8a4d04397fbeb8701",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "IMG studios",
+  "developerId": "o-ge4tefr5xvlena86aju4vyh9vlmhp4",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

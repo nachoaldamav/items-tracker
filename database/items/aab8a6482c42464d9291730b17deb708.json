@@ -1,0 +1,62 @@
+{
+  "id": "aab8a6482c42464d9291730b17deb708",
+  "title": "Generative Quest",
+  "description": "Generative Quest",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e23f4f60fb5a4e278e3499da7381804c/generative-quest-1pd3g.jpg",
+      "md5": "1fbf7691fd1569e0416a17c0f697112e",
+      "width": 2560,
+      "height": 1440,
+      "size": 234520,
+      "uploadedDate": "2023-08-15T07:21:44.913Z",
+      "alt": "Generative Quest Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e23f4f60fb5a4e278e3499da7381804c/generative-quest-1p0uj.jpg",
+      "md5": "d622f1fd1b0c49483682446c6ea16070",
+      "width": 1200,
+      "height": 1600,
+      "size": 127243,
+      "uploadedDate": "2023-07-18T20:28:57.997Z",
+      "alt": "Download Generative Quest Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bf62490d4c7d476980a52286c5554f6e",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-16T21:58:27.346Z",
+  "lastModifiedDate": "2023-09-16T21:58:27.346Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "GenerativeQuestWhL4O"
+    }
+  },
+  "entitlementName": "aab8a6482c42464d9291730b17deb708",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3c3694f51fa943419803316aa4e4f28a",
+      "appId": "8530c88a2cb54596a16ef0b4bd891569",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Generative Dungeon",
+  "developerId": "o-jx3878nkrrd56qy5btuyx45y7fw8zc",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

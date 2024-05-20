@@ -1,0 +1,71 @@
+{
+  "id": "c21760bcf52e4cdca0361109ee14fc2d",
+  "title": "Seven Doors",
+  "description": "Solve challenging puzzles and experience seven different atmospheres. Each one is unique, special and surprising and will test your mind and awaken your wits. Stay alive until you reach the last door, but beware, as some doors could lead to your demise.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1ea3f602013f41e08c7b7fe747c13273/seven-doors-zexzj.jpg",
+      "md5": "ba68c5c472e65679dd919552fe4dbded",
+      "width": 2560,
+      "height": 1440,
+      "size": 190393,
+      "uploadedDate": "2023-01-19T14:56:32.461Z",
+      "alt": "Seven Doors Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1ea3f602013f41e08c7b7fe747c13273/seven-doors-1yr8z.jpg",
+      "md5": "184df04ce777f79b404d6586ee127405",
+      "width": 1200,
+      "height": 1600,
+      "size": 127355,
+      "uploadedDate": "2023-01-19T14:56:32.226Z",
+      "alt": "Download Seven Doors Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "658c6b5f9bf24ee6a70d05e59151c8af",
+  "status": "ACTIVE",
+  "creationDate": "2022-04-06T22:07:50.189Z",
+  "lastModifiedDate": "2023-01-19T14:56:35.722Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/SevenDoors/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SevenDoors"
+    }
+  },
+  "entitlementName": "c21760bcf52e4cdca0361109ee14fc2d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "691b620951984dd396dcf47af43df1a5",
+      "appId": "7c15ee04f6584acd91ff372479c769bc",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SOEDESCO",
+  "developerId": "o-9uf2bsrkptwqbkpy867grcbj5jxrta",
+  "endOfSupport": false,
+  "applicationId": "fghi4567GsmEuKVSyLzThmKeabc1KN2p",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

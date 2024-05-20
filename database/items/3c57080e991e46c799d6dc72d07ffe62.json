@@ -1,0 +1,62 @@
+{
+  "id": "3c57080e991e46c799d6dc72d07ffe62",
+  "title": "PACK MY STUFF",
+  "description": "PACK MY STUFF",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/58861392c06444c099805875843926a0/pack-my-stuff-10muf.png",
+      "md5": "382bfee93ca142f5730d300d9495e8df",
+      "width": 2560,
+      "height": 1440,
+      "size": 3205518,
+      "uploadedDate": "2023-05-18T08:18:35.675Z",
+      "alt": "PACK MY STUFF Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/58861392c06444c099805875843926a0/pack-my-stuff-5qxwk.png",
+      "md5": "a9bd3de4c6654d13328489f2983529af",
+      "width": 1200,
+      "height": 1600,
+      "size": 1769412,
+      "uploadedDate": "2023-05-14T09:04:15.433Z",
+      "alt": "Download PACK MY STUFF Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d71669b3eabc4ca3869613ccaf16bdd8",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-11T17:53:29.698Z",
+  "lastModifiedDate": "2024-01-28T17:08:33.170Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "PACKMYSTUFFDT15I"
+    }
+  },
+  "entitlementName": "3c57080e991e46c799d6dc72d07ffe62",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d53ec77bb95842729f7273aa1c8cd480",
+      "appId": "c34e3a70d75b46b7af92ada32e38d365",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SIENTURE",
+  "developerId": "o-n9nmgyzy9u7buwcda7kcm2vfykan9u",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

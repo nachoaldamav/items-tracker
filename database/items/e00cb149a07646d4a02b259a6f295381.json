@@ -1,0 +1,72 @@
+{
+  "id": "e00cb149a07646d4a02b259a6f295381",
+  "title": "Guacamelee! Super Turbo Championship Edition",
+  "description": "Guacamelee! is a Metroidvania-style action-platformer set in a magical Mexican-inspired world. The game draws its inspiration from traditional Mexican culture and folklore, and features many interesting and unique characters.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7041a1ca4ed543459b95d78887047bd9/guacamelee-stce-n4u61.jpg",
+      "md5": "ae9fe68d8ab64001ad8e9c85880c9d09",
+      "width": 2560,
+      "height": 1440,
+      "size": 829558,
+      "uploadedDate": "2023-01-31T19:56:55.539Z",
+      "alt": "Guacamelee STCE Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7041a1ca4ed543459b95d78887047bd9/guacamelee-stce-1a1x9.jpg",
+      "md5": "0a04aadb7461b6276ee111858f71d873",
+      "width": 1200,
+      "height": 1600,
+      "size": 451777,
+      "uploadedDate": "2023-01-30T21:30:10.786Z",
+      "alt": "Download Guacamelee STCE Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f5d9b93771214e4cbd60506539d1cfc6",
+  "status": "ACTIVE",
+  "creationDate": "2022-12-20T15:17:54.723Z",
+  "lastModifiedDate": "2023-07-05T14:19:15.821Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/GuacameleeSTCE_EGS/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/GuacameleeSTCE_EGS/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GuacameleeSTCE"
+    }
+  },
+  "entitlementName": "e00cb149a07646d4a02b259a6f295381",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "07ddfaca7f96430080dc75eda5c0cf1f",
+      "appId": "25b902f42cf04b17bc8a3db2f7292d58",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Drinkbox Studios Inc.",
+  "developerId": "o-bpuchurz6ebbygak6r2cksb2yk6dxt",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

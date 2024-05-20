@@ -1,0 +1,65 @@
+{
+  "id": "fc97e1e47ce64fd2b757d13a84ded608",
+  "title": "SNWBRD: Freestyle Snowboarding",
+  "description": "SNWBRD: Freestyle Snowboarding",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/82287fd30aa54ea49cbea1214637693f/snwbrd-freestyle-snowboarding-1lwm9.jpg",
+      "md5": "695a61d636755102732706d52798a84a",
+      "width": 2560,
+      "height": 1440,
+      "size": 1002965,
+      "uploadedDate": "2023-08-07T22:20:39.805Z",
+      "alt": "SNWBRD Freestyle Snowboarding Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/82287fd30aa54ea49cbea1214637693f/snwbrd-freestyle-snowboarding-ax442.jpg",
+      "md5": "1f35b7051801bf6a02e8d98e51bfabdb",
+      "width": 1200,
+      "height": 1600,
+      "size": 423144,
+      "uploadedDate": "2023-08-07T22:22:43.638Z",
+      "alt": "Download SNWBRD Freestyle Snowboarding Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3eb19864ddef4d7498c38a2ce9d45075",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-25T22:25:21.710Z",
+  "lastModifiedDate": "2023-08-13T22:39:52.215Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SNWBRDFreestyleSnowbblcSB"
+    }
+  },
+  "entitlementName": "fc97e1e47ce64fd2b757d13a84ded608",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e62cff3b56444fdc91d71c703120409e",
+      "appId": "bb53e59a505d4542bbf504ab94e41862",
+      "platform": [
+        "Windows",
+        "Win32",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Gaming Limited",
+  "developerId": "o-36kcsyqj3nlfy94tnlj6ttn5ewv2fv",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,67 @@
+{
+  "id": "a533dd3478bb46c8a5e79da8970d6ec3",
+  "title": "FutureGrind",
+  "description": "FutureGrind",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ab9e1eca8e10406e9bcb27c306040001/futuregrind-ah21v.jpg",
+      "md5": "e2d4fb8692e47625d2402ddb04418107",
+      "width": 2560,
+      "height": 1440,
+      "size": 360570,
+      "uploadedDate": "2023-03-28T13:32:15.554Z",
+      "alt": "FutureGrind Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ab9e1eca8e10406e9bcb27c306040001/futuregrind-siyse.jpg",
+      "md5": "082b5a926542e2c6c73e528d77276baf",
+      "width": 1200,
+      "height": 1600,
+      "size": 216770,
+      "uploadedDate": "2023-03-28T13:32:16.001Z",
+      "alt": "Download FutureGrind Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "80a76982ecc941dd864a8792a03a5ddc",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-13T18:36:19.970Z",
+  "lastModifiedDate": "2023-05-18T13:46:42.590Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Milkbag Games Inc_/FutureGrind/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FutureGrind"
+    }
+  },
+  "entitlementName": "a533dd3478bb46c8a5e79da8970d6ec3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "773d5f2038384cc8a7c3305eacaa0b64",
+      "appId": "c84530a643c141bfac5a88f3cebf8716",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Milkbag Games",
+  "developerId": "o-pe746wfggzvlzavhwr73qx76ar4q9m",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

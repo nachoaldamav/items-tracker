@@ -1,0 +1,61 @@
+{
+  "id": "1046daee57f740e496e48916da433f27",
+  "title": "Supergalactix",
+  "description": "Supergalactix",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1f6f76e08c5f43acb2995c6ced4e25b6/supergalactix-6jwp5.png",
+      "md5": "bee245de8af8daee9d24f43c97efa821",
+      "width": 2560,
+      "height": 1440,
+      "size": 2309288,
+      "uploadedDate": "2023-04-23T21:29:15.193Z",
+      "alt": "Supergalactix Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1f6f76e08c5f43acb2995c6ced4e25b6/supergalactix-bda99.png",
+      "md5": "48fdad41dd11ad7f22d7e3c2969d8623",
+      "width": 1200,
+      "height": 1600,
+      "size": 1430881,
+      "uploadedDate": "2023-04-23T21:29:17.928Z",
+      "alt": "Download Supergalactix Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "23f330531bf942feab232ba7e754c94d",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-30T20:38:46.439Z",
+  "lastModifiedDate": "2023-05-10T15:52:15.199Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Supergalactix"
+    }
+  },
+  "entitlementName": "1046daee57f740e496e48916da433f27",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2e7fb9eebafe4681b7799b8c37f63bb6",
+      "appId": "897ab877da2144db9a837c764ceee55b",
+      "platform": []
+    }
+  ],
+  "developer": "Betalord",
+  "developerId": "o-v4pw4y7zkfbqfr8usf6m7bdm8599hw",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

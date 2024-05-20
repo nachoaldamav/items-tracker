@@ -1,0 +1,62 @@
+{
+  "id": "0b578138bd6c43d38ef6932e358ad611",
+  "title": "Kula",
+  "description": "Kula",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/59ccc063fbcb43c0b14276934a0cdc0c/kula-ylaq7.png",
+      "md5": "97d413ca6f95e5a1ebfcece987ba07b7",
+      "width": 2560,
+      "height": 1440,
+      "size": 1145814,
+      "uploadedDate": "2023-07-14T07:14:23.604Z",
+      "alt": "Kula Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/59ccc063fbcb43c0b14276934a0cdc0c/kula-1cy1n.png",
+      "md5": "a447e46396de42a621e69183d9527922",
+      "width": 1200,
+      "height": 1600,
+      "size": 276451,
+      "uploadedDate": "2023-07-12T16:46:11.342Z",
+      "alt": "Download Kula Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1a1f669b43f94c33b91f9db5ff063ba1",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-04T07:52:52.531Z",
+  "lastModifiedDate": "2023-08-07T15:19:49.700Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "KulasNY7H"
+    }
+  },
+  "entitlementName": "0b578138bd6c43d38ef6932e358ad611",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c6b7143f0c694472adfbfc70b9f6b3ac",
+      "appId": "c4d03a041ad64a558bee5e54f0dcce66",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Mortie Productions",
+  "developerId": "o-3gmv9jema8hy8v5qp3jxb26e9xxp5z",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

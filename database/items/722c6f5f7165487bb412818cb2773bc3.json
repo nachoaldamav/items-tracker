@@ -1,0 +1,76 @@
+{
+  "id": "722c6f5f7165487bb412818cb2773bc3",
+  "title": "Masterplan Tycoon",
+  "description": "Welcome to the resource management game where your creativity and logistics skills are put to the test! In this minimalistic simulation you will build interconnected chains of products and open new missions by completing various tasks to create the biggest system you can.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f16a65828f614b7bba2394cb0fcb45c6/masterplan-tycoon-18fc2.jpg",
+      "md5": "a52fd5adeb9c24ff1721c78ac0a91015",
+      "width": 2560,
+      "height": 1440,
+      "size": 1262346,
+      "uploadedDate": "2023-04-05T13:56:43.790Z",
+      "alt": "Masterplan Tycoon Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f16a65828f614b7bba2394cb0fcb45c6/masterplan-tycoon-19one.jpg",
+      "md5": "d9f73ba431e951f40af38b87dc02bb20",
+      "width": 1200,
+      "height": 1600,
+      "size": 770435,
+      "uploadedDate": "2023-04-05T13:56:42.441Z",
+      "alt": "Download Masterplan Tycoon Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3933d71231a543fd873b8768585e2bd7",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-28T13:12:38.926Z",
+  "lastModifiedDate": "2024-04-22T14:06:08.872Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Bureau Bravin/Masterplan Tycoon/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Bureau Bravin/Masterplan Tycoon/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav,Maps/*.map"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MasterplanTycoon"
+    }
+  },
+  "entitlementName": "722c6f5f7165487bb412818cb2773bc3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ff6282dc5b8e4de48f4b275b0ab5d14f",
+      "appId": "b5e7faec88d747b392ad5f2a4c29d6c3",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Ravenage Games",
+  "developerId": "o-pghrsxp5uf3n488mwmscj62qe67qfw",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

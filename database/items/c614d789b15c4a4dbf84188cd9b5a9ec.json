@@ -1,0 +1,72 @@
+{
+  "id": "c614d789b15c4a4dbf84188cd9b5a9ec",
+  "title": "Tails of Iron",
+  "description": "Set in a grim land plagued by war, Tails of Iron is a hand-drawn RPG Adventure with punishingly brutal combat. As Redgi, heir to the Rat Throne, you must restore your broken Kingdom by banishing the merciless Frog Clan and their ferocious leader, Greenwart.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/56c6e038ac8d4aa1bed61803e0abf7de/tails-of-iron-1wrj9.jpg",
+      "md5": "e46b73e7334d9154a318d5feab9d56dc",
+      "width": 2560,
+      "height": 1440,
+      "size": 799956,
+      "uploadedDate": "2023-12-08T11:10:16.830Z",
+      "alt": "Tails of Iron Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/56c6e038ac8d4aa1bed61803e0abf7de/tails-of-iron-ftnah.jpg",
+      "md5": "7b870e962c844d7760ee39ac1657c5ad",
+      "width": 1200,
+      "height": 1600,
+      "size": 832126,
+      "uploadedDate": "2023-12-08T11:10:24.628Z",
+      "alt": "Download Tails of Iron Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fb76c816bb054fc8be57dc49f1600843",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-11T09:53:06.056Z",
+  "lastModifiedDate": "2024-03-15T14:54:27.853Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/TOI_Data/Resources/SaveFiles/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TailsofIronuzkkC"
+    }
+  },
+  "entitlementName": "c614d789b15c4a4dbf84188cd9b5a9ec",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6c8356072f3d4203ad0d230152035414",
+      "appId": "d471d01e1cb24709a858dfc63b477c91",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "CI Games ",
+  "developerId": "o-2w466jcy8qfum5kv5drctwrsft632w",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

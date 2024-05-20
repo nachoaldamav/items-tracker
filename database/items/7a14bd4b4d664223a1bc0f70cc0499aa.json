@@ -1,0 +1,65 @@
+{
+  "id": "7a14bd4b4d664223a1bc0f70cc0499aa",
+  "title": "Dr. Finklestein's Marvelous Room",
+  "description": "Dr. Finklestein's Marvelous Room",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f8e4a69698064325aa517561d908ad4b/dr-finklesteins-marvelous-room-k6k9g.png",
+      "md5": "c5bf47589fec3332038fe655d2f18726",
+      "width": 2560,
+      "height": 1440,
+      "size": 2675992,
+      "uploadedDate": "2024-05-01T18:44:11.872Z",
+      "alt": "Dr. Finklestein's Marvelous Room Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f8e4a69698064325aa517561d908ad4b/dr-finklesteins-marvelous-room-14cqg.png",
+      "md5": "bee4eb09c454d59cd5abe42d7875ccf8",
+      "width": 1200,
+      "height": 1600,
+      "size": 1327546,
+      "uploadedDate": "2024-05-01T18:44:12.824Z",
+      "alt": "Download Dr. Finklestein's Marvelous Room Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "eee849a1ed424af5ae93554dd34fe980",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-07T02:02:46.991Z",
+  "lastModifiedDate": "2024-05-07T02:02:46.991Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/DFMR/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DrFinklesteinsMarvelR0AwQ"
+    }
+  },
+  "entitlementName": "7a14bd4b4d664223a1bc0f70cc0499aa",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2e4e9b16d2e849d9abfa7d41972b1c05",
+      "appId": "4f3374e837a24acba6fa437821079e22",
+      "platform": []
+    }
+  ],
+  "developer": "DEVBEEF",
+  "developerId": "o-e9tgebs6yt2tpyruhtd3mta3cp6w9t",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

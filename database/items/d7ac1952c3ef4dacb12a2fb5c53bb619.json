@@ -1,0 +1,80 @@
+{
+  "id": "d7ac1952c3ef4dacb12a2fb5c53bb619",
+  "title": "Don't Byte Your Tongue",
+  "description": "Don't Byte Your Tongue",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/82bf9642fb7a430db3a866e332651b9c/dont-byte-your-tongue-tjfhl.png",
+      "md5": "ac2208ac45bf4480377f32ceb94ee310",
+      "width": 2560,
+      "height": 1440,
+      "size": 2420666,
+      "uploadedDate": "2023-03-20T08:48:01.907Z",
+      "alt": "Don't Byte Your Tongue Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/82bf9642fb7a430db3a866e332651b9c/dont-byte-your-tongue-1j7rk.png",
+      "md5": "452f2d0a218e4c771a8c5f9fb92cef85",
+      "width": 1200,
+      "height": 1600,
+      "size": 1629551,
+      "uploadedDate": "2023-03-20T09:03:58.142Z",
+      "alt": "Download Don't Byte Your Tongue Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8d473e8643ba4e50a5b3a01f31b80c8c",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-31T10:36:11.313Z",
+  "lastModifiedDate": "2023-03-31T10:36:11.313Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/com.UpYourArcade.DontByteYourTongue/{EpicID}/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Up Your Arcade/Don't Byte Your Tongue/{EpicID}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.annoyingsave"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DontByteYourTonguef43RE"
+    }
+  },
+  "entitlementName": "d7ac1952c3ef4dacb12a2fb5c53bb619",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9a681551d6c44d7ca62c2f122cf02a00",
+      "appId": "7bd3a756a4954ae09f381a032fdfc7ff",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Up Your Arcade Team",
+  "developerId": "o-jwzh978ehz47qxd8yg585ljngakcrl",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

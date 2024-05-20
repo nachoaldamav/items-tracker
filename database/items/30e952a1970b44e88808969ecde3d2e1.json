@@ -1,0 +1,62 @@
+{
+  "id": "30e952a1970b44e88808969ecde3d2e1",
+  "title": "UltraGoodness",
+  "description": "UltraGoodness",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1547a59289bc4971be7da784626e7ab4/ultragoodness-offer-1vcr8.png",
+      "md5": "588040c6351a05aabef5dcf405a1a81c",
+      "width": 2560,
+      "height": 1440,
+      "size": 1155980,
+      "uploadedDate": "2022-09-13T18:43:30.695Z",
+      "alt": "UltraGoodness Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1547a59289bc4971be7da784626e7ab4/download-ultragoodness-offer-4fvx8.png",
+      "md5": "f16ae071fb6e85cb47a2002eb9fda522",
+      "width": 1200,
+      "height": 1600,
+      "size": 689600,
+      "uploadedDate": "2022-09-13T18:43:30.172Z",
+      "alt": "Download UltraGoodness Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "510896860351404e830842d291ccc9c9",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-10T13:44:00.476Z",
+  "lastModifiedDate": "2022-09-13T18:43:35.893Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "UltraGoodnessgCW0g"
+    }
+  },
+  "entitlementName": "30e952a1970b44e88808969ecde3d2e1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b8a21cf283d7447d8725ab5bd8c2a4fd",
+      "appId": "9f31c52d3cc349fc8b4be277bc2407ee",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Meridian4",
+  "developerId": "o-lk3h3v3ddypmx7zferz37x5l86w54p",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,72 @@
+{
+  "id": "7993fe0e5e25484780e85b17ef04750e",
+  "title": "Puzzle Compound",
+  "description": "Puzzle Compound",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1e0afb14de974dceaf1da7ef9dd0a77f/puzzle-compound-1s02l.png",
+      "md5": "8dab43a484d245909dc47cb9eb1823e1",
+      "width": 2560,
+      "height": 1440,
+      "size": 2989338,
+      "uploadedDate": "2023-04-27T12:51:37.562Z",
+      "alt": "Puzzle Compound Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1e0afb14de974dceaf1da7ef9dd0a77f/puzzle-compound-iqsd0.png",
+      "md5": "f5323317904862d35324e1874dd52fdd",
+      "width": 1200,
+      "height": 1600,
+      "size": 1515002,
+      "uploadedDate": "2023-04-27T12:51:48.421Z",
+      "alt": "Download Puzzle Compound Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "dc0f95061f7746e3b4ad939bee60f1a3",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-11T18:52:17.759Z",
+  "lastModifiedDate": "2023-05-18T13:12:16.226Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/PuzzleCompound/Saved/SaveGames/Saves/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "PuzzleCompound.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PuzzleCompoundUEdar"
+    }
+  },
+  "entitlementName": "7993fe0e5e25484780e85b17ef04750e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "94798d0cea1e4d7e898299a0b599d345",
+      "appId": "b123e0334a1c408e86c8ae10efc5fb10",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Noble Phantom Games",
+  "developerId": "o-3rx878d2x6xmgjav8luytbx7s89y9q",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,73 @@
+{
+  "id": "e0cbc052b2c94254aa5a8dcf1cfbb7f4",
+  "title": "SpellBoundGame",
+  "description": "SpellBoundGame",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/86e27de12eb44f24ba54b2f99ac6f445/spellbound-1y30m.png",
+      "md5": "382fcb4bb7a8b6a772570a1422ee8293",
+      "width": 2560,
+      "height": 1440,
+      "size": 1268127,
+      "uploadedDate": "2023-08-15T13:54:01.844Z",
+      "alt": "SpellBound Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/86e27de12eb44f24ba54b2f99ac6f445/spellbound-16z5l.png",
+      "md5": "b6871f4f79fdfc37008ce3b3b0d72df2",
+      "width": 1200,
+      "height": 1600,
+      "size": 593908,
+      "uploadedDate": "2023-08-14T01:10:49.630Z",
+      "alt": "Download SpellBound Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2af2a7eed5c149bd9d86c48366d4aaba",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-19T14:35:49.547Z",
+  "lastModifiedDate": "2024-04-19T14:35:49.547Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/256bitsS/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/256bitsS/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "99999"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SpellBoundGametDList"
+    }
+  },
+  "entitlementName": "e0cbc052b2c94254aa5a8dcf1cfbb7f4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "034673a7f3234295b6955c9b7a196f2f",
+      "appId": "1646767948d94ef498d79e6cbe0f1223",
+      "platform": []
+    }
+  ],
+  "developer": "256 Bits Studio Pvt Ltd",
+  "developerId": "o-6jh55tx2z86dzqkedjd3mtm6aaxtz7",
+  "endOfSupport": false,
+  "applicationId": "fghi4567BHorgcQm1hq77BEUWoLA4Xlz",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

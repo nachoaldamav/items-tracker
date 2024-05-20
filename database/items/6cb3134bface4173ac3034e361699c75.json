@@ -1,0 +1,89 @@
+{
+  "id": "6cb3134bface4173ac3034e361699c75",
+  "title": "Unravel",
+  "description": "Unravel is a physics-based puzzle platformer. Yarny, a character made from a single thread of yarn, must embark on a larger than life adventure.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/957cb85fed3d43719a2de103cbb577f0/unravel-lgsk9.jpg",
+      "md5": "f47e5163d5323232541cfe77f402b902",
+      "width": 2560,
+      "height": 1440,
+      "size": 942593,
+      "uploadedDate": "2024-05-06T22:38:23.844Z",
+      "alt": "Unravel Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/957cb85fed3d43719a2de103cbb577f0/unravel-momf9.jpg",
+      "md5": "7bfab316f4c70c830d9406b9950879bf",
+      "width": 1200,
+      "height": 1600,
+      "size": 756445,
+      "uploadedDate": "2024-05-06T22:38:23.432Z",
+      "alt": "Download Unravel Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "71d91cc48e0145078a1db1e402c8975b",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-09T15:46:47.061Z",
+  "lastModifiedDate": "2024-05-09T15:46:47.061Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Coldwood Interactive\\Unravel"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "Unravel.exe "
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "Unravel.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Unravel0GDz6"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "6cb3134bface4173ac3034e361699c75",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "86a7887824f248f0ad5258d217b89926",
+      "appId": "holst",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

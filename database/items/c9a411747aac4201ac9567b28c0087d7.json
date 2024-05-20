@@ -1,0 +1,73 @@
+{
+  "id": "c9a411747aac4201ac9567b28c0087d7",
+  "title": "Danghost",
+  "description": "Danghost",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/313719b354214d6b8a9f91d53dc46a50/danghost-1lv22.jpg",
+      "md5": "85dfe544f593e4a8634967395a139256",
+      "width": 2560,
+      "height": 1440,
+      "size": 2619617,
+      "uploadedDate": "2023-09-27T13:35:22.210Z",
+      "alt": "Danghost Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/313719b354214d6b8a9f91d53dc46a50/danghost-12mhr.png",
+      "md5": "91e6d62149abe716433fdf706fe18162",
+      "width": 1200,
+      "height": 1600,
+      "size": 2717192,
+      "uploadedDate": "2023-09-27T13:35:21.933Z",
+      "alt": "Download Danghost Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "66b12faffa204da39bda39d087789944",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-11T08:01:43.875Z",
+  "lastModifiedDate": "2023-10-25T16:04:19.108Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/UmeshuLovers/Danghost/Save/Epic/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/UmeshuLovers/Danghost/Save/Epic/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DanghostExwnf"
+    }
+  },
+  "entitlementName": "c9a411747aac4201ac9567b28c0087d7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a6e6732f3f34499a8321f264d18bc6f8",
+      "appId": "3965ba71cf064c13b6f6dd9c20beb78f",
+      "platform": [
+        "Windows",
+        "Win32",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Umeshu Lovers",
+  "developerId": "o-9fe6z59reqfrcu4hpsjpneuupnsc8l",
+  "endOfSupport": false,
+  "applicationId": "fghi4567ZKstM1W0UQ3Eofr0DNCE84Ch",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

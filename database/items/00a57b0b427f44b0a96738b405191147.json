@@ -1,0 +1,71 @@
+{
+  "id": "00a57b0b427f44b0a96738b405191147",
+  "title": "Spiderbro",
+  "description": "Spiderbro",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/86239126421c4bccabb08b1cd1e63d31/spiderbro-56y2y.png",
+      "md5": "79e65ecf48fe3c39c2b377b82dba67dc",
+      "width": 2560,
+      "height": 1440,
+      "size": 27553,
+      "uploadedDate": "2023-09-16T10:07:57.891Z",
+      "alt": "Spiderbro Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/86239126421c4bccabb08b1cd1e63d31/spiderbro-tjhl2.png",
+      "md5": "76ab12e1b8a8be435134cbc38de13e72",
+      "width": 1200,
+      "height": 1600,
+      "size": 20774,
+      "uploadedDate": "2023-09-16T10:07:58.165Z",
+      "alt": "Download Spiderbro Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "50294a633a1f47438d52a3f445f97775",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-17T13:23:14.434Z",
+  "lastModifiedDate": "2023-10-02T20:33:38.747Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/data/saves/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "savedata.ddf"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SpiderbroJvkIv"
+    }
+  },
+  "entitlementName": "00a57b0b427f44b0a96738b405191147",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6cf1377b30bf444c9adb9ec8f5773258",
+      "appId": "31367cffa95b45e68a32d92096602959",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Studio Pond",
+  "developerId": "o-zd9dgbsswswpcgbw9k6luhstlu2rds",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

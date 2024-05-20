@@ -1,0 +1,63 @@
+{
+  "id": "72a1980bb50049158c2bc321c37eaddc",
+  "title": "Pesterquest",
+  "description": "Pesterquest",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/568f21fd58c4457eb0472f60b085bb38/pesterquest-aepl8.jpg",
+      "md5": "5ce1eb9141664b01c736bb8de382b3be",
+      "width": 2560,
+      "height": 1440,
+      "size": 1054140,
+      "uploadedDate": "2023-06-14T06:28:51.404Z",
+      "alt": "Pesterquest Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/568f21fd58c4457eb0472f60b085bb38/pesterquest-w9olu.jpg",
+      "md5": "6cf4d49bede6efdbce0a4c7351825cbd",
+      "width": 1200,
+      "height": 1600,
+      "size": 649281,
+      "uploadedDate": "2023-06-14T06:29:02.447Z",
+      "alt": "Download Pesterquest Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6f13f3e95bc34b8e974859dde148ceba",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-19T23:45:05.529Z",
+  "lastModifiedDate": "2023-06-19T23:45:05.529Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "PesterquestK0MFC"
+    }
+  },
+  "entitlementName": "72a1980bb50049158c2bc321c37eaddc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2c983a2b0d5848e893d8a6a3d52db809",
+      "appId": "d76f3cd67df64266b8b2b20670053932",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Surprise Attack Pty Ltd DBA Fellow Traveller Games",
+  "developerId": "o-22uq4lnmzc6kmlbbaf5gp8yvysnn3t",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

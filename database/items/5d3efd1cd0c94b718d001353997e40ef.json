@@ -1,0 +1,61 @@
+{
+  "id": "5d3efd1cd0c94b718d001353997e40ef",
+  "title": "LakeSide",
+  "description": "LakeSide",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ce103c29e126486990c1c5b30d9422d9/lakeside-1u0h5.png",
+      "md5": "07c7a6c4e34f187419bca45deeeada97",
+      "width": 2560,
+      "height": 1440,
+      "size": 115464,
+      "uploadedDate": "2023-12-05T17:09:33.891Z",
+      "alt": "LakeSide Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ce103c29e126486990c1c5b30d9422d9/lakeside-1gb0p.png",
+      "md5": "40c443d386f6cee4bd60dc12e3511074",
+      "width": 1200,
+      "height": 1600,
+      "size": 59212,
+      "uploadedDate": "2023-12-05T17:09:33.798Z",
+      "alt": "Download LakeSide Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6c09dd49cbb348d5ae4d4c9c308890b8",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-07T10:24:20.047Z",
+  "lastModifiedDate": "2023-12-07T10:24:20.047Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "LakeSide_Epic"
+    }
+  },
+  "entitlementName": "5d3efd1cd0c94b718d001353997e40ef",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6a221ce96f4245be9e47cc32f383d4a8",
+      "appId": "6ed7c0771b424aeda75ed7d667827683",
+      "platform": []
+    }
+  ],
+  "developer": "Massive Galaxy Studios",
+  "developerId": "o-6qvevkc56yn6t6e6gjj3rw8cadp9s2",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

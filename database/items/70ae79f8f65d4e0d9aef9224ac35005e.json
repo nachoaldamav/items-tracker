@@ -1,0 +1,65 @@
+{
+  "id": "70ae79f8f65d4e0d9aef9224ac35005e",
+  "title": "The Bunker",
+  "description": "The Bunker",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b59d2b0fd4bd4a2da5dfbac54c1e10d3/the-bunker-1inm7.png",
+      "md5": "d85dfa096185acc0ac5d7cc37cdcf5fa",
+      "width": 2560,
+      "height": 1440,
+      "size": 2076226,
+      "uploadedDate": "2022-10-14T15:39:45.630Z",
+      "alt": "The Bunker Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b59d2b0fd4bd4a2da5dfbac54c1e10d3/the-bunker-osbtf.png",
+      "md5": "bbc557beca70d713c34f27bdb1ea5f45",
+      "width": 1200,
+      "height": 1600,
+      "size": 2658223,
+      "uploadedDate": "2022-10-14T15:39:46.950Z",
+      "alt": "Download The Bunker Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f8bbf6bb94794b1aa2161cd923d11e5e",
+  "status": "ACTIVE",
+  "creationDate": "2022-10-17T21:55:02.319Z",
+  "lastModifiedDate": "2022-10-21T19:48:26.416Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheBunker"
+    }
+  },
+  "entitlementName": "70ae79f8f65d4e0d9aef9224ac35005e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7a79ba064d4c486d9f44bb96c7907263",
+      "appId": "3cb6ec9389724a3b942a94884ac65d4e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Wales Interactive",
+  "developerId": "o-dqsahuym89qjm3dn69zaldakdjq6n5",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567SD1QK64P2rCGHE880wmo5V5T",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

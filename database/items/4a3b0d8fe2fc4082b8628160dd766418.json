@@ -1,0 +1,88 @@
+{
+  "id": "4a3b0d8fe2fc4082b8628160dd766418",
+  "title": "NecroWorm",
+  "description": "It's MIDNIGHT, you're DEAD, and got a bad case of THE MUNCHIES. Chew your way through 120 levels of addictive puzzle gameplay, where your only goal is to devour everything but your own wormy self. It's quick, tasty, and hard to resist. Just like a late-night snack.",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/05a8e51fa4f74c39bb35a54f30d3e99e/necroworm-offer-cr0ig.png",
+      "md5": "78842c86509f6513ddbfb11466493842",
+      "width": 2560,
+      "height": 1440,
+      "size": 3006100,
+      "uploadedDate": "2022-07-22T09:39:03.769Z",
+      "alt": "NecroWorm Offer"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/05a8e51fa4f74c39bb35a54f30d3e99e/download-necroworm-offer-12q08.png",
+      "md5": "bb15d17ea34970c7945891cf160642b9",
+      "width": 1200,
+      "height": 1600,
+      "size": 1936596,
+      "uploadedDate": "2022-07-22T09:23:35.441Z",
+      "alt": "Download NecroWorm Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/05a8e51fa4f74c39bb35a54f30d3e99e/necroworm-offer-16fr1.png",
+      "md5": "78842c86509f6513ddbfb11466493842",
+      "width": 2560,
+      "height": 1440,
+      "size": 3006100,
+      "uploadedDate": "2022-07-22T09:39:09.962Z",
+      "alt": "NecroWorm Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/05a8e51fa4f74c39bb35a54f30d3e99e/download-necroworm-offer-1agmd.png",
+      "md5": "bb15d17ea34970c7945891cf160642b9",
+      "width": 1200,
+      "height": 1600,
+      "size": 1936596,
+      "uploadedDate": "2022-07-22T09:23:39.881Z",
+      "alt": "Download NecroWorm Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5a918fb5f1fb4c2aa09be6470b2bd46a",
+  "status": "ACTIVE",
+  "creationDate": "2022-06-02T11:35:15.093Z",
+  "lastModifiedDate": "2022-10-21T10:56:43.620Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Walkabout/NecroWorm/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NecroWorm"
+    }
+  },
+  "entitlementName": "4a3b0d8fe2fc4082b8628160dd766418",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d54cb901b545481ba29e30b37481b7cb",
+      "appId": "6ca7b69e3d844ea1a5d7d18545e54445",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Walkabout Games Sp. z o.o.",
+  "developerId": "o-55ecqqsf69ry9zpsym89d477yj57lc",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

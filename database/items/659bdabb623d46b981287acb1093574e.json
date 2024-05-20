@@ -1,0 +1,62 @@
+{
+  "id": "659bdabb623d46b981287acb1093574e",
+  "title": "Lost and Hound",
+  "description": "Lost and Hound",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/27b050950a0045ea83ccc42adf7c0846/lost-and-hound-yp9vd.png",
+      "md5": "126f470dc79f7a1096c66b8147b14635",
+      "width": 2560,
+      "height": 1440,
+      "size": 3509040,
+      "uploadedDate": "2023-03-12T18:36:22.052Z",
+      "alt": "Lost and Hound Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/27b050950a0045ea83ccc42adf7c0846/lost-and-hound-1ym9b.png",
+      "md5": "78100820ac482982146c0109805cb7df",
+      "width": 1200,
+      "height": 1600,
+      "size": 1574728,
+      "uploadedDate": "2023-03-15T05:41:16.867Z",
+      "alt": "Download Lost and Hound Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e5961d482ed54010a4d2fe7f1bf62838",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-10T06:35:04.017Z",
+  "lastModifiedDate": "2023-03-15T05:41:58.248Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "LostandHoundSLt7b"
+    }
+  },
+  "entitlementName": "659bdabb623d46b981287acb1093574e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "692abc5604964a218d53a98e77245ae6",
+      "appId": "26eb41adb69a44298fe31e3739b06777",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Daisy Ale Soundworks",
+  "developerId": "o-4b5s6lmyvrs2gdk8fhmzrpbcp4j47a",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

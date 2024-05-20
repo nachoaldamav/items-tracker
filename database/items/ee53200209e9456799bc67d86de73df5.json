@@ -1,0 +1,73 @@
+{
+  "id": "ee53200209e9456799bc67d86de73df5",
+  "title": "Painting Werther",
+  "description": "Painting Werther",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/047b76234fdd4338ac78e81eef87595d/painting-werther-5bfvv.jpg",
+      "md5": "b9455f99ff752a787e51ae559ff91214",
+      "width": 2560,
+      "height": 1440,
+      "size": 1740544,
+      "uploadedDate": "2023-03-13T15:27:19.257Z",
+      "alt": "Painting Werther Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/047b76234fdd4338ac78e81eef87595d/painting-werther-2ck2h.jpg",
+      "md5": "d2fbea7b4f52a927af9bf729dfa63032",
+      "width": 1200,
+      "height": 1600,
+      "size": 921725,
+      "uploadedDate": "2023-03-14T13:39:22.736Z",
+      "alt": "Download Painting Werther Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "37cfc61b2f70457dad97e9066a081437",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-19T11:03:18.153Z",
+  "lastModifiedDate": "2023-04-19T11:03:18.153Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/MadCreamGames/PaintingWerther/saves/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sv"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "50"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PaintingWerther"
+    }
+  },
+  "entitlementName": "ee53200209e9456799bc67d86de73df5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "15a1f834ae1b480a976993eaa21d5169",
+      "appId": "3db85e576e44411f884e19e7f437f86d",
+      "platform": []
+    }
+  ],
+  "developer": "Mad Cream Games",
+  "developerId": "o-zxeb4e8ru7rub5xh2hlrhj8ywe6ytu",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

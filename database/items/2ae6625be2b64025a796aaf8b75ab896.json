@@ -1,0 +1,62 @@
+{
+  "id": "2ae6625be2b64025a796aaf8b75ab896",
+  "title": "Pinbot",
+  "description": "Pinbot reimagines the timeless breakout game in an immersive 3D setting. Traditional brick formations now morph into incubators nurturing alien robots, demanding swift destruction! In this robotic realm, every element is mechanized.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3ad1024cef3949acb19abac93e7db1bc/pinbot-12wwd.jpg",
+      "md5": "49f8486b6b6e539bdf33cfe008c4ca0f",
+      "width": 2560,
+      "height": 1440,
+      "size": 3354339,
+      "uploadedDate": "2024-01-27T09:55:31.227Z",
+      "alt": "Pinbot Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3ad1024cef3949acb19abac93e7db1bc/pinbot-1wgim.jpg",
+      "md5": "1cca030f61b27bc5d03685f09fb49c2b",
+      "width": 1200,
+      "height": 1600,
+      "size": 1695809,
+      "uploadedDate": "2024-01-27T09:55:12.680Z",
+      "alt": "Download Pinbot Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2fb0f7c2c29041ea94464a263acfbeb7",
+  "status": "ACTIVE",
+  "creationDate": "2024-01-09T21:33:00.833Z",
+  "lastModifiedDate": "2024-05-03T06:20:11.031Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "PinbotRiZmi"
+    }
+  },
+  "entitlementName": "2ae6625be2b64025a796aaf8b75ab896",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "86a879dbdbe340e6bf2726afd61f188c",
+      "appId": "9b32147a333f488dbe5e2b90dfa5d9b8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Santeramo Gianluca",
+  "developerId": "o-dma36vuv2k6vs87zwgt5u5v4ncjr8b",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

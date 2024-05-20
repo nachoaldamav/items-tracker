@@ -1,0 +1,63 @@
+{
+  "id": "785942634fb347c6aab47629f4b7c44f",
+  "title": "Aether TCG",
+  "description": "Aether TCG",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9e8c3fc8b7c147a288b62d4d281f7f58/aether-trading-card-game-1ngp2.png",
+      "md5": "7289d526faae2fc802c1a5a6837d57f8",
+      "width": 2560,
+      "height": 1440,
+      "size": 4128738,
+      "uploadedDate": "2024-04-05T14:12:32.026Z",
+      "alt": "Aether: Trading Card Game Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9e8c3fc8b7c147a288b62d4d281f7f58/aether-trading-card-game-1kme5.png",
+      "md5": "982f0dca873081f1344e0c36a7cf4a82",
+      "width": 1200,
+      "height": 1600,
+      "size": 2146734,
+      "uploadedDate": "2023-12-24T17:05:40.647Z",
+      "alt": "Download Aether: Trading Card Game Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0d4ad7c5cc184e1c8b9d5165798c5bbc",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-14T13:29:29.963Z",
+  "lastModifiedDate": "2024-04-07T22:48:15.188Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "AetherTCG"
+    }
+  },
+  "entitlementName": "785942634fb347c6aab47629f4b7c44f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d2fb550cce87485cb596214002e4d017",
+      "appId": "eea2c542cea24a168e4c8945e2ca66a8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Aether Games",
+  "developerId": "o-sp8v35sw6q9u44s5xpy93zgrj9gu32",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

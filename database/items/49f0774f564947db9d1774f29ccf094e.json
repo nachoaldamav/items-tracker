@@ -1,0 +1,63 @@
+{
+  "id": "49f0774f564947db9d1774f29ccf094e",
+  "title": "Unlimited Escape",
+  "description": "Unlimited Escape",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5e8ea9d762b3452da6ce38a205256c97/unlimited-escape-5jfzg.png",
+      "md5": "d95a5009aa7b6052ec615c046d9360c6",
+      "width": 2560,
+      "height": 1440,
+      "size": 3292041,
+      "uploadedDate": "2023-10-22T21:52:20.041Z",
+      "alt": "Unlimited Escape Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5e8ea9d762b3452da6ce38a205256c97/unlimited-escape-168b2.png",
+      "md5": "8cfc7761b78a7740007c4e8446f15867",
+      "width": 1200,
+      "height": 1600,
+      "size": 2006791,
+      "uploadedDate": "2023-10-22T21:52:18.885Z",
+      "alt": "Download Unlimited Escape Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b8feca2997b64cb189b227f342c59411",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-31T16:12:45.214Z",
+  "lastModifiedDate": "2023-10-31T16:12:45.214Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "UnlimitedEscape"
+    }
+  },
+  "entitlementName": "49f0774f564947db9d1774f29ccf094e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3959203bcca74649913daf708b4dca0e",
+      "appId": "93f1fed74dd34940832e4c07f9b9254e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Strategy First",
+  "developerId": "o-a3vefcg43bn6j4lwc7qs8n5y38jm7k",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

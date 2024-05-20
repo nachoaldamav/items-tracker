@@ -1,0 +1,75 @@
+{
+  "id": "a0729e966a7e4c9799d58ae2af1dcd17",
+  "title": "Without Escape",
+  "description": "Without Escape is a point-and-click horror game in which players must investigate gruesome, unearthly events that have begun to manifest in their own home.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/87d9b0b8fd8143c39e1ba25928aecfef/without-escape-1g1sx.png",
+      "md5": "f7fa493d660de99d45c94f09a114b42c",
+      "width": 2560,
+      "height": 1440,
+      "size": 2327574,
+      "uploadedDate": "2023-03-15T15:22:40.907Z",
+      "alt": "Without Escape Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/87d9b0b8fd8143c39e1ba25928aecfef/without-escape-1qhb0.png",
+      "md5": "b2cd296eab117027678dd444336299d2",
+      "width": 1200,
+      "height": 1600,
+      "size": 1422664,
+      "uploadedDate": "2023-03-15T15:22:41.123Z",
+      "alt": "Download Without Escape Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8ee9de55298245e4bfe187dd50560f3c",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-15T11:44:26.250Z",
+  "lastModifiedDate": "2023-05-15T11:01:12.083Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Bumpy Trail Games/Without Escape/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "WithoutEscape.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WithoutEscape"
+    }
+  },
+  "entitlementName": "a0729e966a7e4c9799d58ae2af1dcd17",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "84eb2b346ef5422bac614a247cd4c1bc",
+      "appId": "e86bac04e9cb4aab86bb23996cea804d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Bumpy Trail Games",
+  "developerId": "o-2m3fm5htpakalylzurenfzxl5uw9p7",
+  "endOfSupport": false,
+  "applicationId": "fghi4567fQmhcnH8T8csKpDKxaxVbeiz",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

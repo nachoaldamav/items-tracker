@@ -1,0 +1,71 @@
+{
+  "id": "ab657322a2724e1191f76e7609ac989f",
+  "title": "Out of Bounds",
+  "description": "You have 15 minutes to \"create\" a game and \"fix\" all the bugs in this crazy puzzle shooter  💥🔫",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0836eec266324913bcdd6fb3e5586b84/out-of-bounds-1or62.png",
+      "md5": "4c23e4a8683908e8be8c4f544900c0a3",
+      "width": 2560,
+      "height": 1440,
+      "size": 3757001,
+      "uploadedDate": "2023-03-10T17:49:32.884Z",
+      "alt": "Out of Bounds Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0836eec266324913bcdd6fb3e5586b84/out-of-bounds-1518m.png",
+      "md5": "6cecd3a8be1fd9e9c0bbd7db16ae8b54",
+      "width": 1200,
+      "height": 1600,
+      "size": 2421563,
+      "uploadedDate": "2023-03-10T17:49:24.320Z",
+      "alt": "Download Out of Bounds Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9d471a5b5e574d0abc9358c92e836d5d",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-09T20:12:08.733Z",
+  "lastModifiedDate": "2023-04-03T01:42:24.201Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/OutOfBounds/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Settings-Audio.sav,Settings-Mechanics.sav,Welcome-Screen.sav,Rewards.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OutOfBounds"
+    }
+  },
+  "entitlementName": "ab657322a2724e1191f76e7609ac989f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "95768e430593435088ca25d4ddd77664",
+      "appId": "e5f2535fe2274b2e8823b7f0dd0029c6",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Saibot Studios",
+  "developerId": "o-xbdsby4wwmcbj4x4jkpv83pvuhqtzd",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

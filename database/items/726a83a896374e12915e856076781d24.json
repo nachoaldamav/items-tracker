@@ -1,0 +1,62 @@
+{
+  "id": "726a83a896374e12915e856076781d24",
+  "title": "Scaryy Bingo",
+  "description": "Scaryy Bingo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c7bf5e87f8f0416f89914c3415cf53a5/scaryy-bingo-152m8.png",
+      "md5": "da6aac0b0e68e5aeffe8cf5c02dc6125",
+      "width": 2560,
+      "height": 1440,
+      "size": 2268855,
+      "uploadedDate": "2023-12-23T14:38:19.910Z",
+      "alt": "Scaryy Bingo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c7bf5e87f8f0416f89914c3415cf53a5/scaryy-bingo-1lmzy.png",
+      "md5": "0f5b8acc21753cd402ef869783bc28ca",
+      "width": 1200,
+      "height": 1600,
+      "size": 1197011,
+      "uploadedDate": "2023-12-23T14:38:24.472Z",
+      "alt": "Download Scaryy Bingo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7f359e1dcc134507aefd7780e1249c5c",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-15T18:44:31.610Z",
+  "lastModifiedDate": "2024-01-26T01:36:10.722Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ScaryyBingo5HSys"
+    }
+  },
+  "entitlementName": "726a83a896374e12915e856076781d24",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5ac7ac17da714a7f8aefd8b5173fee1a",
+      "appId": "cff75e564e6b439b9b0151a1bad67e59",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "R4MPIRE",
+  "developerId": "o-jkrup7zk8629ftt74vvgfd8mr24pmp",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

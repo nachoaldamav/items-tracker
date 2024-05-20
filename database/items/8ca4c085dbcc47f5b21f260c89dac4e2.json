@@ -1,0 +1,71 @@
+{
+  "id": "8ca4c085dbcc47f5b21f260c89dac4e2",
+  "title": "CLeM",
+  "description": "CLeM",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f081d8ce84f248958ebd12eb96ea6ca2/clem-13n4l.jpg",
+      "md5": "55fff485bf45196a43c6ef780b2b51ad",
+      "width": 2560,
+      "height": 1440,
+      "size": 423481,
+      "uploadedDate": "2023-12-14T16:11:06.838Z",
+      "alt": "CLeM Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f081d8ce84f248958ebd12eb96ea6ca2/clem-quysh.png",
+      "md5": "22f2fef8497e035a89b03c45e5694d6b",
+      "width": 1200,
+      "height": 1600,
+      "size": 406571,
+      "uploadedDate": "2024-01-08T09:52:16.301Z",
+      "alt": "Download CLeM Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a78848dfcbb046deadbc956260fd9123",
+  "status": "ACTIVE",
+  "creationDate": "2024-01-22T10:28:28.960Z",
+  "lastModifiedDate": "2024-01-22T10:28:28.960Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/save/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.data"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CLeM"
+    }
+  },
+  "entitlementName": "8ca4c085dbcc47f5b21f260c89dac4e2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b85550b4572744c98575b5469d46db12",
+      "appId": "215612840ccd4331b534fcbb42c88950",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Iceberg Interactive",
+  "developerId": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

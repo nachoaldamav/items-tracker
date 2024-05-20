@@ -1,0 +1,73 @@
+{
+  "id": "77989f91c0224710a88aa4b0f0d1dbfc",
+  "title": "The Talos Principle 2",
+  "description": "The Talos Principle 2 is a thought-provoking first-person puzzle experience that greatly expands on the first game's philosophical themes and stunning environments with increasingly mind-bending challenges.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2aeeb3d8063347f1a3d77bbc1a838c90/the-talos-principle-2-apctp.jpg",
+      "md5": "17ea6a3dac7e4b8d7a9f09f4060f4b95",
+      "width": 2560,
+      "height": 1440,
+      "size": 413122,
+      "uploadedDate": "2023-05-16T11:19:21.372Z",
+      "alt": "The Talos Principle 2 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2aeeb3d8063347f1a3d77bbc1a838c90/the-talos-principle-2-2nhx1.jpg",
+      "md5": "6a1488c53bb7422ce0ed1b0c621727b4",
+      "width": 1200,
+      "height": 1600,
+      "size": 235990,
+      "uploadedDate": "2023-05-16T11:19:20.026Z",
+      "alt": "Download The Talos Principle 2 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "43acebbd46cd4aac956ad049c10c603a",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-04T13:43:30.358Z",
+  "lastModifiedDate": "2023-12-18T19:20:16.824Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Talos2/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Saved/SaveGames/*,Saved/Config/Windows/*"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheTalosPrinciple2"
+    }
+  },
+  "entitlementName": "77989f91c0224710a88aa4b0f0d1dbfc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a3484835f71f4862b68fab74a10d9bee",
+      "appId": "677565d027be4b98998c39a35e31767a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

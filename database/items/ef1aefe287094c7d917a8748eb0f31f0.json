@@ -1,0 +1,62 @@
+{
+  "id": "ef1aefe287094c7d917a8748eb0f31f0",
+  "title": "Hombre",
+  "description": "Hombre",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9822db88847549f3a68a7eec5d689678/hombre-1siog.png",
+      "md5": "3a64533e8bc3fcc9c2cdc3b37fa16cb9",
+      "width": 2560,
+      "height": 1440,
+      "size": 1802089,
+      "uploadedDate": "2023-06-25T15:25:53.967Z",
+      "alt": "Hombre Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9822db88847549f3a68a7eec5d689678/hombre-1he6z.png",
+      "md5": "fb214a62097c28955a2d6058a6cdbc58",
+      "width": 1200,
+      "height": 1600,
+      "size": 1735099,
+      "uploadedDate": "2023-06-25T17:17:40.383Z",
+      "alt": "Download Hombre Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "12351c3d2ae8457684e4dbfb93c04a5c",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-07T17:17:33.521Z",
+  "lastModifiedDate": "2023-07-07T17:17:33.521Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "HombreclThs"
+    }
+  },
+  "entitlementName": "ef1aefe287094c7d917a8748eb0f31f0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "07256fe959114cca9004f352cbb82488",
+      "appId": "7b7061db193c4bafbb6588a6eea9f739",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "ART Funny",
+  "developerId": "o-2k96j9kw7z5zwp9b7mxbjlfe8ydmwg",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

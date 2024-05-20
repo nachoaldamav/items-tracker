@@ -1,0 +1,71 @@
+{
+  "id": "18d3c0e34d85461e90474b3a69afea1e",
+  "title": "Cat Quest",
+  "description": "The multi award-winning Action RPG. Cat Quest's loot-fuelled cat-venture is as beautifully crafted, as its combat and magic are ultra-satisfying. Universally adored by critics - it'll have you purring for joy!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/370dbdf8c5e44dc09eac477fd43e8aee/cat-quest-17l5f.jpg",
+      "md5": "c8faf8069675ca7a37ff4fda4e9f301b",
+      "width": 2560,
+      "height": 1440,
+      "size": 694664,
+      "uploadedDate": "2023-10-05T15:05:52.813Z",
+      "alt": "Cat Quest Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/370dbdf8c5e44dc09eac477fd43e8aee/cat-quest-k2mga.jpg",
+      "md5": "b2a0e44f9317171d83b67fe2f1cdeffb",
+      "width": 1200,
+      "height": 1600,
+      "size": 539023,
+      "uploadedDate": "2023-10-05T15:05:52.542Z",
+      "alt": "Download Cat Quest Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c986e75258a146fba03a920dba852ca9",
+  "status": "ACTIVE",
+  "creationDate": "2023-12-13T08:49:04.365Z",
+  "lastModifiedDate": "2023-12-13T08:49:04.365Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/com.thegentlebros.catquest/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/The Gentlebros Pte_ Ltd_/Cat Quest/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CatQuest"
+    }
+  },
+  "entitlementName": "18d3c0e34d85461e90474b3a69afea1e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5158de6f1e0c46c1bedc8187e66b1d67",
+      "appId": "051eaac0842c46d7a5a62858ad534d5a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Kepler Interactive",
+  "developerId": "o-yrjx9sk66ym9ktjnjml6qzsyjhczdz",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "349a36860a2c46fca8b5a68803556f0d",
+  "title": "Popcorn Rocket Demo",
+  "description": "Popcorn Rocket Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2f4d9adb19b9499494a10edfa2494c68/popcorn-rocket-1js9w.jpg",
+      "md5": "2483b77c98581c5ede85e6690ad5122f",
+      "width": 2560,
+      "height": 1440,
+      "size": 690189,
+      "uploadedDate": "2023-06-30T17:15:58.952Z",
+      "alt": "Popcorn Rocket Popcorn Rocket Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2f4d9adb19b9499494a10edfa2494c68/popcorn-rocket-1gnan.jpg",
+      "md5": "8d655c6fd2179dcef8268ee825c5580e",
+      "width": 1200,
+      "height": 1600,
+      "size": 476168,
+      "uploadedDate": "2023-06-30T17:15:59.455Z",
+      "alt": "Download Popcorn Rocket Popcorn Rocket Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4acbe0ba4b144020b1dee0d6dd607029",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-30T17:13:31.664Z",
+  "lastModifiedDate": "2024-02-03T23:22:44.442Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DemoPopcornRocket701a7"
+    }
+  },
+  "entitlementName": "349a36860a2c46fca8b5a68803556f0d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "73ed4bac87a24b76afed99cedfee7da1",
+      "appId": "23f988c4532a4db39faf185929e38548",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Battle Geek Plus LLC",
+  "developerId": "o-q53v9r28m8qp6n48sh7249khv596rl",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,67 @@
+{
+  "id": "b08730250d634ac9b62bfd6e54d7b74a",
+  "title": "Zombie Watch",
+  "description": "Zombie Watch",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5092f273c9294976b8947fd2a290103b/zombie-watch-488t9.png",
+      "md5": "a03ba8b952474e142796deb9c4c49d10",
+      "width": 2560,
+      "height": 1440,
+      "size": 1870718,
+      "uploadedDate": "2023-07-04T15:14:17.381Z",
+      "alt": "Zombie Watch Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5092f273c9294976b8947fd2a290103b/zombie-watch-1c85j.png",
+      "md5": "8aa081facfe3d239b413cbe9a328b89c",
+      "width": 1200,
+      "height": 1600,
+      "size": 2783781,
+      "uploadedDate": "2023-07-04T15:14:17.875Z",
+      "alt": "Download Zombie Watch Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0843063034aa4b43bbc3114f19c6090f",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-06T05:06:01.093Z",
+  "lastModifiedDate": "2023-07-06T05:06:01.093Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/ZombieWatch/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ZombieWatch"
+    }
+  },
+  "entitlementName": "b08730250d634ac9b62bfd6e54d7b74a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "95a8994e64314f8ea8dc3a14eaca8809",
+      "appId": "f33d4578381446fd96b6f42f0af36fbc",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Wildlak",
+  "developerId": "o-dr3aef55dg3fkjsawy7p8txnl8d4rk",
+  "endOfSupport": false,
+  "applicationId": "fghi4567RTZPBU8QZ37HowKEpMthZG6Y",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

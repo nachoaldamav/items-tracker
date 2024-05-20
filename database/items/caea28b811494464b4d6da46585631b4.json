@@ -1,0 +1,71 @@
+{
+  "id": "caea28b811494464b4d6da46585631b4",
+  "title": "Hunt the Night",
+  "description": "Hunt the Night",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ae8d441fdcd642089252661184e311a4/hunt-the-night-1g8r4.png",
+      "md5": "dc2bd533995331321f351fc4f3483310",
+      "width": 2560,
+      "height": 1440,
+      "size": 3437418,
+      "uploadedDate": "2023-03-17T04:06:02.739Z",
+      "alt": "Hunt the Night Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ae8d441fdcd642089252661184e311a4/hunt-the-night-93hz1.png",
+      "md5": "10062c5710dd22f8a7c19be1e82047bb",
+      "width": 1200,
+      "height": 1600,
+      "size": 1505607,
+      "uploadedDate": "2023-03-17T04:05:58.726Z",
+      "alt": "Download Hunt the Night Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "edecc2d8282c4dc39823e3319d1b8bc1",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-05T06:01:50.372Z",
+  "lastModifiedDate": "2023-04-13T23:45:03.128Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Moonlight Games/Hunt the Night/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "Player.log,Player-prev.log"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HunttheNightrMAHL"
+    }
+  },
+  "entitlementName": "caea28b811494464b4d6da46585631b4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1c7aabf2d81b4d898bd5e5a76fd8da08",
+      "appId": "999674c2c10a4d21a3641c8af64517f7",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "DANGEN Entertainment",
+  "developerId": "o-q2thmxrkzmaxl69f7ql8qm65nruu8u",
+  "endOfSupport": false,
+  "applicationId": "fghi4567lY7OZhJ3yZBuUTBXgrWp5pLq",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

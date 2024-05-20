@@ -1,0 +1,64 @@
+{
+  "id": "16b1e8491d454298b5b58e76aba9a65d",
+  "title": "Feud",
+  "description": "Feud",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/68be7d7f9c75454eba71957bbbbf2e66/feud-1jfjo.png",
+      "md5": "75d81a3d98bbb62eaff44f089be5b222",
+      "width": 2560,
+      "height": 1440,
+      "size": 1311418,
+      "uploadedDate": "2023-05-02T14:54:16.662Z",
+      "alt": "Feud Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/68be7d7f9c75454eba71957bbbbf2e66/feud-d4vxv.jpg",
+      "md5": "9baffffa458c9e96b0b92de0f489fe74",
+      "width": 1200,
+      "height": 1600,
+      "size": 242685,
+      "uploadedDate": "2023-05-02T14:57:17.831Z",
+      "alt": "Download Feud Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6c79fa8a8e2849e58b605f233c20a889",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-13T22:39:46.849Z",
+  "lastModifiedDate": "2024-02-23T15:57:09.159Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Feud"
+    }
+  },
+  "entitlementName": "16b1e8491d454298b5b58e76aba9a65d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0dc25be6741944f1856e4e1cf2f52ef3",
+      "appId": "401d3610a13c43509a66f22be81608ed",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Bearwaves LTD",
+  "developerId": "o-vk69ks75ynulmnuffm7j2nhk6at3x8",
+  "endOfSupport": false,
+  "applicationId": "fghi4567uwSz3AqwGDIPLnuyqEY3YJwb",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,64 @@
+{
+  "id": "aace1accb84f4c6da33d6b083c9e9e88",
+  "title": "Wildfire",
+  "description": "Wildfire is a third person game where you engage in aerial firefighting",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c100a0c1f0454c209d10999e6b81012e/wildfire-1qg57.png",
+      "md5": "8c8ac6341b3c4c834655dfe2a0880446",
+      "width": 2560,
+      "height": 1440,
+      "size": 3101087,
+      "uploadedDate": "2023-08-28T18:31:54.697Z",
+      "alt": "Wildfire Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c100a0c1f0454c209d10999e6b81012e/wildfire-nlcqf.png",
+      "md5": "dbce97815eb3d30b57c5c6ecb407f0b3",
+      "width": 1200,
+      "height": 1600,
+      "size": 1510878,
+      "uploadedDate": "2023-08-28T18:31:58.862Z",
+      "alt": "Download Wildfire Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "06e47041cf1d4668aa4a0430788893f4",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-24T18:08:14.351Z",
+  "lastModifiedDate": "2023-09-08T00:57:02.598Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Wildfire"
+    }
+  },
+  "entitlementName": "aace1accb84f4c6da33d6b083c9e9e88",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a154089bc6914ccd9af7f846580ef6c0",
+      "appId": "6ad940810cb74c51995948e89c1d2655",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Beslogic Inc",
+  "developerId": "o-l5n96aq8bccszp5wp58t55errw2j9w",
+  "endOfSupport": false,
+  "applicationId": "fghi4567NcDgdXdyoGunL0U2WFvjsdqH",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

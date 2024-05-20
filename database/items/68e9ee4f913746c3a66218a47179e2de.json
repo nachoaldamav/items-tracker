@@ -1,0 +1,62 @@
+{
+  "id": "68e9ee4f913746c3a66218a47179e2de",
+  "title": "Ship's Cat",
+  "description": "Ship's Cat",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d4eab985fe5145908c53c66f4fa44a2a/ships-cat-1jdf6.png",
+      "md5": "20c47d79e0ffd6408f65dbefcd8c4828",
+      "width": 2560,
+      "height": 1440,
+      "size": 1231950,
+      "uploadedDate": "2024-04-06T22:44:09.968Z",
+      "alt": "Ship's Cat Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d4eab985fe5145908c53c66f4fa44a2a/ships-cat-dvkub.png",
+      "md5": "97cee64b9b5a93a33bb3e0a400ea411a",
+      "width": 1200,
+      "height": 1600,
+      "size": 658740,
+      "uploadedDate": "2024-04-06T22:44:19.034Z",
+      "alt": "Download Ship's Cat Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "11f11905cbd549dea36bea8380461d06",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-15T02:59:15.982Z",
+  "lastModifiedDate": "2024-04-28T22:18:19.058Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ShipsCatoVZwY"
+    }
+  },
+  "entitlementName": "68e9ee4f913746c3a66218a47179e2de",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "83df46a170fd48d09791b35773c5cf1a",
+      "appId": "8fb7f16dbdb64159be100044b78d2b59",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Caddy Computing",
+  "developerId": "o-e878vqfhlgs3ndeh6x9xce4zkayv5v",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,64 @@
+{
+  "id": "6083c11852d84732853d02c65fbe707f",
+  "title": "CubeGate",
+  "description": "CubeGate",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/502472492dc54794bcc1d5bd64191164/cubegate-17ovm.png",
+      "md5": "07b06a356f7f4040138867443d00300a",
+      "width": 2560,
+      "height": 1440,
+      "size": 1148000,
+      "uploadedDate": "2023-07-16T09:47:26.861Z",
+      "alt": "CubeGate Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/502472492dc54794bcc1d5bd64191164/cubegate-32aai.png",
+      "md5": "480fc8d445b23f6b2590bd06ec7277cd",
+      "width": 1200,
+      "height": 1600,
+      "size": 673731,
+      "uploadedDate": "2023-07-16T09:44:42.349Z",
+      "alt": "Download CubeGate Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "60ec54354d8b4e45a826f3f90a515c75",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-16T07:20:28.867Z",
+  "lastModifiedDate": "2023-10-11T15:47:08.616Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "CubeGate"
+    }
+  },
+  "entitlementName": "6083c11852d84732853d02c65fbe707f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f48c3efc8ffe4d91b801675e58f87b58",
+      "appId": "653cad8b2fa94dad958aa107c0836f69",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Habring GmbH",
+  "developerId": "o-wvgtjd7q99w8rrw2fcgdpxl5ln3bja",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

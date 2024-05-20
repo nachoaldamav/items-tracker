@@ -1,0 +1,63 @@
+{
+  "id": "47f61a6db3ae4ee8a8f9f2450a4118a7",
+  "title": "Dust and Neon",
+  "description": "Dust and Neon",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/fa279ceff641422e88fef6207db56ada/dust-and-neon-gs6dv.jpg",
+      "md5": "5acd8da44c6f0e5ab9ea95662d463332",
+      "width": 2560,
+      "height": 1440,
+      "size": 2874812,
+      "uploadedDate": "2022-12-08T19:53:01.665Z",
+      "alt": "Dust and Neon Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/fa279ceff641422e88fef6207db56ada/dust-and-neon-v1vw0.jpg",
+      "md5": "cedfad3a5c1d0cfea351ac58c75afe92",
+      "width": 1200,
+      "height": 1600,
+      "size": 1667334,
+      "uploadedDate": "2022-12-08T19:52:57.112Z",
+      "alt": "Download Dust and Neon Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "dd9ca630b0f4466e8679c0628b81c52c",
+  "status": "ACTIVE",
+  "creationDate": "2022-05-12T22:15:57.432Z",
+  "lastModifiedDate": "2023-05-19T21:03:37.500Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DustAndNeon"
+    }
+  },
+  "entitlementName": "47f61a6db3ae4ee8a8f9f2450a4118a7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d972ea7fa9df435b85f4e234f89589e6",
+      "appId": "72d5e61c98e34af089ddb3a5c2faeb4c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Rogue Games, Inc.",
+  "developerId": "o-uf2lr9jar96m9qssppdgmal3j6alyq",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

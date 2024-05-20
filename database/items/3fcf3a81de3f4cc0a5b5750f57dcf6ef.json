@@ -1,0 +1,80 @@
+{
+  "id": "3fcf3a81de3f4cc0a5b5750f57dcf6ef",
+  "title": "Inkulinati",
+  "description": "Inkulinati",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/fbbe4f5c3c944c4291522ff76472ee03/inkulinati-zuk6w.jpg",
+      "md5": "7eee26cd26255721f9c997172042b369",
+      "width": 2560,
+      "height": 1440,
+      "size": 3087555,
+      "uploadedDate": "2023-12-01T16:30:50.366Z",
+      "alt": "Inkulinati Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/fbbe4f5c3c944c4291522ff76472ee03/inkulinati-13yja.jpg",
+      "md5": "acbfe27d70a8a3ff210bf823b1fe822b",
+      "width": 1200,
+      "height": 1600,
+      "size": 2075503,
+      "uploadedDate": "2023-12-01T16:30:51.242Z",
+      "alt": "Download Inkulinati Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3017522a6faa4fd4a8f16d5e2899fe69",
+  "status": "ACTIVE",
+  "creationDate": "2024-02-19T13:11:30.331Z",
+  "lastModifiedDate": "2024-02-19T13:11:30.651Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Daedalic Entertainment GmbH/Yaza Games/Inkulinati/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Daedalic Entertainment GmbH/Yaza Games/Inkulinati/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": ".dat"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Inkulinati"
+    }
+  },
+  "entitlementName": "3fcf3a81de3f4cc0a5b5750f57dcf6ef",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ebffa067245540ab9e39731207afb067",
+      "appId": "355713f90510458da762542324a610a1",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "endOfSupport": false,
+  "applicationId": "fghi4567XfUze2QzGftMpAg5F9CNVD5q",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

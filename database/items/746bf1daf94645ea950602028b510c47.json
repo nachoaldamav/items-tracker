@@ -1,0 +1,59 @@
+{
+  "id": "746bf1daf94645ea950602028b510c47",
+  "title": "Jawbreaker",
+  "description": "Jawbreaker",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/352aaac3dd1c4c01a1a0ffea9818eda0/jawbreaker-1rdm1.jpg",
+      "md5": "84bcbdd763c4089ba98851fefa5f8101",
+      "width": 2560,
+      "height": 1440,
+      "size": 1071083,
+      "uploadedDate": "2023-03-14T08:19:04.756Z",
+      "alt": "Jawbreaker Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/352aaac3dd1c4c01a1a0ffea9818eda0/jawbreaker-tghs8.png",
+      "md5": "c591107ff60c1bf3cb36487effa96139",
+      "width": 1200,
+      "height": 1600,
+      "size": 1656548,
+      "uploadedDate": "2023-03-14T08:17:29.725Z",
+      "alt": "Download Jawbreaker Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "25dc90a6e7c34e03a72007bc4777a254",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-14T05:33:15.266Z",
+  "lastModifiedDate": "2023-03-14T08:23:16.210Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "JawbreakerV4PV7"
+    }
+  },
+  "entitlementName": "746bf1daf94645ea950602028b510c47",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9f99c3165ca64ddd9886b57f568aa96e",
+      "appId": "f278a54533ae4a41855b053ae877291a"
+    }
+  ],
+  "developer": "Vincent Lade",
+  "developerId": "o-c2f88bj6zk6shq27n9yh2ktuysdue6",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

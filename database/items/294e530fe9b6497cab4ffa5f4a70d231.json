@@ -1,0 +1,72 @@
+{
+  "id": "294e530fe9b6497cab4ffa5f4a70d231",
+  "title": "The Hive",
+  "description": "The Hive",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6ea4f5e5b12c425fba3e4ed283f5dfd0/the-hive-19zl7.png",
+      "md5": "54ab57ab1dbda02e1cde44b37fe3ac80",
+      "width": 2560,
+      "height": 1440,
+      "size": 2501923,
+      "uploadedDate": "2023-09-01T09:11:11.243Z",
+      "alt": "The Hive Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6ea4f5e5b12c425fba3e4ed283f5dfd0/the-hive-131nt.png",
+      "md5": "ed42a1025715bf8e449580b9fd4d2979",
+      "width": 1200,
+      "height": 1600,
+      "size": 1361531,
+      "uploadedDate": "2023-05-15T10:14:28.095Z",
+      "alt": "Download The Hive Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3778010ababa48d387d44ee9fd61b517",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-11T12:25:45.136Z",
+  "lastModifiedDate": "2023-10-13T08:32:59.681Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/The Hive/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/The Hive/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Hive"
+    }
+  },
+  "entitlementName": "294e530fe9b6497cab4ffa5f4a70d231",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3e5068f5d0374a2fb2fe26a1ea313153",
+      "appId": "67fce83a7aaa4e21878f3bf8206fe671",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Skydome Entertainment Oy",
+  "developerId": "o-ehqwv42svvm5u3me57ekayr27glykr",
+  "endOfSupport": false,
+  "applicationId": "fghi45673M73XAYYOKUnemreBzT6qwgb",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

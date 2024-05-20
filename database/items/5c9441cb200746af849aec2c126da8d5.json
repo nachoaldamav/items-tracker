@@ -1,0 +1,61 @@
+{
+  "id": "5c9441cb200746af849aec2c126da8d5",
+  "title": "Interceptor",
+  "description": "Interceptor",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/492de449f1b14e40bb87f19a17cf7b17/interceptor-k57lw.png",
+      "md5": "5d8758dd0a587345723cb3dd5ae8faa0",
+      "width": 2560,
+      "height": 1440,
+      "size": 3053717,
+      "uploadedDate": "2023-03-14T19:37:17.197Z",
+      "alt": "Interceptor Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/492de449f1b14e40bb87f19a17cf7b17/interceptor-9scku.png",
+      "md5": "e4dc3b2e955cabdf91941993a7f8a857",
+      "width": 1200,
+      "height": 1600,
+      "size": 1665524,
+      "uploadedDate": "2023-03-14T19:06:19.440Z",
+      "alt": "Download Interceptor Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "557bfc4b3e1b4d3fb108bc8e913c854c",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-14T15:06:31.157Z",
+  "lastModifiedDate": "2023-05-05T05:28:22.566Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Interceptor"
+    }
+  },
+  "entitlementName": "5c9441cb200746af849aec2c126da8d5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e9940db7f89f405ca9f82dae6aa4277d",
+      "appId": "13a57b5e4efd4306a06cc8b502ad8857",
+      "platform": []
+    }
+  ],
+  "developer": "Deep Flame",
+  "developerId": "o-dy5zsj3h59mzs6mvj89pk6vzfe4nfd",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,76 @@
+{
+  "id": "a45457b3a8ad43d79169afbf26ee742a",
+  "title": "Apotheorasis • Lab of the Blind Gods",
+  "description": "Apotheorasis • Lab of the Blind Gods",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/48f4cfc7202e492b8cf16724cbd9f592/apotheorasis--lab-of-the-blind-gods-jwe25.jpg",
+      "md5": "6f2a7fc79d1a398ad8d3dc82c848dd15",
+      "width": 2560,
+      "height": 1440,
+      "size": 1194036,
+      "uploadedDate": "2023-03-11T15:19:58.202Z",
+      "alt": "Apotheorasis - Lab of the Blind Gods Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/48f4cfc7202e492b8cf16724cbd9f592/apotheorasis--lab-of-the-blind-gods-1auyl.jpg",
+      "md5": "26e18748e7a529968058d9f5d296fc67",
+      "width": 1200,
+      "height": 1600,
+      "size": 794454,
+      "uploadedDate": "2023-03-11T15:19:54.293Z",
+      "alt": "Download Apotheorasis - Lab of the Blind Gods Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "960bbebafc6a47989c1ab38041b9aabf",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-10T12:25:21.351Z",
+  "lastModifiedDate": "2023-06-27T14:05:22.027Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Apotheorasis_Data/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Apotheorasis"
+    }
+  },
+  "entitlementName": "a45457b3a8ad43d79169afbf26ee742a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4ca57b62cad842678675fecf199f140e",
+      "appId": "b798a424279b4df49001d09921fee8f0",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Tall Guy Productions",
+  "developerId": "o-hknj8fq7cxtt4fxm4zzlqf2dzsguzd",
+  "endOfSupport": false,
+  "applicationId": "fghi4567MdDuFw9ae31V5PFR5FKYRrzA",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

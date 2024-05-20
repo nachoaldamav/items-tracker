@@ -1,0 +1,81 @@
+{
+  "id": "b33e13895c72495c9677257a30d3b59d",
+  "title": "Poosh XL",
+  "description": "Poosh XL",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/cb35ff2ed593499b8bf954f248c6fc07/poosh-xl-1mkli.png",
+      "md5": "1477fcde0125603c877391ad6caf7435",
+      "width": 2560,
+      "height": 1440,
+      "size": 1688971,
+      "uploadedDate": "2023-02-16T06:21:10.355Z",
+      "alt": "Poosh XL Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/cb35ff2ed593499b8bf954f248c6fc07/poosh-xl-w3o5h.png",
+      "md5": "04e3a8da1fd807aa126ceea067108bed",
+      "width": 1200,
+      "height": 1600,
+      "size": 998624,
+      "uploadedDate": "2023-02-16T06:55:29.694Z",
+      "alt": "Download Poosh XL Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a32fec328323428da84e902b3d3f98fb",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-14T16:28:15.840Z",
+  "lastModifiedDate": "2023-03-14T16:28:15.840Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/unity.Adamvision Studios.PooshXL/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Adamvision Studios/PooshXL/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "poosh.xl"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PooshXL"
+    }
+  },
+  "entitlementName": "b33e13895c72495c9677257a30d3b59d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "09025a48787b4f43a8517ff141808c39",
+      "appId": "ec25e8764e93441f84de6700c9b41cf1",
+      "platform": [
+        "Mac",
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Adamvision Studios",
+  "developerId": "o-bjvdefuhv7yqnu5e6qb8sdj8xj3slv",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

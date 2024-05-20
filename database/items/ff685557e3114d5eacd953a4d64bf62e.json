@@ -1,0 +1,62 @@
+{
+  "id": "ff685557e3114d5eacd953a4d64bf62e",
+  "title": "Deadwater Saloon",
+  "description": "Deadwater Saloon",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d98b139b075d4af5ba241b9415fa246e/deadwater-saloon-q4zeu.png",
+      "md5": "f8f7fbf6a6092a2b9a278a626dfd55ab",
+      "width": 2560,
+      "height": 1440,
+      "size": 1955065,
+      "uploadedDate": "2023-08-29T17:53:54.923Z",
+      "alt": "Deadwater Saloon Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d98b139b075d4af5ba241b9415fa246e/deadwater-saloon-1pcc1.png",
+      "md5": "18173899f1b0ca40241c2abf40987d4d",
+      "width": 1200,
+      "height": 1600,
+      "size": 1453384,
+      "uploadedDate": "2023-08-29T17:53:56.139Z",
+      "alt": "Download Deadwater Saloon Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0011a38fecb741dc9923879a4f490d42",
+  "status": "ACTIVE",
+  "creationDate": "2023-08-22T07:05:00.409Z",
+  "lastModifiedDate": "2023-09-20T06:15:18.469Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DeadwaterSaloon8Cued"
+    }
+  },
+  "entitlementName": "ff685557e3114d5eacd953a4d64bf62e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "770d2526a3234e7b846fd67cc3337e21",
+      "appId": "8bcbb8ee17f84ce5bed56a927fa98869",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "RockGame S.A.",
+  "developerId": "o-e6zbx28e9zzbxg5jvzh37a3p5j8kam",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,71 @@
+{
+  "id": "1f43bb138a9b4c2780a12f3ea7dd12d8",
+  "title": "Epsylon Demo",
+  "description": "Epsylon Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c60e6e13e6624cd99f80b21aba865506/epsylon-1qhgr.jpg",
+      "md5": "880bb7b5d96a2a44a9671f252d90bf35",
+      "width": 2560,
+      "height": 1440,
+      "size": 3118949,
+      "uploadedDate": "2023-12-09T19:58:37.367Z",
+      "alt": "epsylon Epsylon Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c60e6e13e6624cd99f80b21aba865506/epsylon-1yz3k.jpg",
+      "md5": "37056549856d38edc2b6a08edd777c97",
+      "width": 1200,
+      "height": 1600,
+      "size": 1937850,
+      "uploadedDate": "2023-12-09T19:58:33.178Z",
+      "alt": "Download epsylon Epsylon Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4b9bf181ec404f99bf552046c6b25ca0",
+  "status": "ACTIVE",
+  "creationDate": "2024-02-08T17:00:05.731Z",
+  "lastModifiedDate": "2024-02-08T17:00:05.731Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/DELaunchers/Config/games/61977039-237d-921f-df1b-68aeb42d5f2d/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "config/*,capture/*"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EpsylonDemo"
+    }
+  },
+  "entitlementName": "1f43bb138a9b4c2780a12f3ea7dd12d8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f6e242b001024fd4a5e401ae1d8e7fa9",
+      "appId": "fe11e425510b4d84b351cf5a3f9cf998",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "DragonDreams GmbH",
+  "developerId": "o-bnm4spuy8aq82arvejdd4s2235ykj2",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,76 @@
+{
+  "id": "e9c7486cf3b34c7eabdf1be4bbc2fce4",
+  "title": "Fire: Ungh’s Quest",
+  "description": "FIRE is an exploration-adventure with intuitive puzzle design. Without losing many words it tells a savagely hilarious story. Journey into the Stone Age and face the most challenging task of this era: The search for fire!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5c46b85c327347e289c2b22eeee6a5c2/fire--unghs-quest-offer-1t0kc.jpg",
+      "md5": "4752cfcbc6f92a951b3fac9f82dd25ab",
+      "width": 2560,
+      "height": 1440,
+      "size": 570317,
+      "uploadedDate": "2021-11-11T13:48:51.487Z",
+      "alt": "Fire - Ungh's Quest Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5c46b85c327347e289c2b22eeee6a5c2/fire--unghs-quest-4aime.jpg",
+      "md5": "64140d87bce7cee89e4b0cb1f85ef3b5",
+      "width": 1200,
+      "height": 1600,
+      "size": 358292,
+      "uploadedDate": "2022-11-30T12:37:03.277Z",
+      "alt": "Download Fire - Ungh's Quest Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "094d313bbeb84db69dd7bee1bd885c4d",
+  "status": "ACTIVE",
+  "creationDate": "2021-10-28T09:42:58.326Z",
+  "lastModifiedDate": "2023-01-12T15:46:02.660Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Daedalic Entertainment GmbH/Fire/Saves/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Fire*"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Fire_UnghsQuest"
+    }
+  },
+  "entitlementName": "e9c7486cf3b34c7eabdf1be4bbc2fce4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "823544f8aebe49d1a6cc0893685fb6d2",
+      "appId": "c37eeddc01534ab99adbb2deca0d4b85",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "endOfSupport": false,
+  "applicationId": "fghi4567mpFOitGkbqF7ftvN30UDptXv",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

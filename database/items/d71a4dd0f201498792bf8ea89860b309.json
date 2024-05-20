@@ -1,0 +1,71 @@
+{
+  "id": "d71a4dd0f201498792bf8ea89860b309",
+  "title": "Cygnus Enterprises",
+  "description": "Take charge of a derelict outpost on a faraway planet. Rebuild your base and manage your employees help it thrive. Battle fierce creatures and gather resources in a lush alien environment.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/98e7e213814a4055bed01711f9d7363a/cygnus-enterprises-fh3s5.jpg",
+      "md5": "630dc624a536fd6af190b1b2377f3878",
+      "width": 2560,
+      "height": 1440,
+      "size": 1089732,
+      "uploadedDate": "2023-04-25T06:23:56.728Z",
+      "alt": "Cygnus Enterprises Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/98e7e213814a4055bed01711f9d7363a/cygnus-enterprises-mxo2s.jpg",
+      "md5": "59f7fce3d252775c9e19298a0ef1205b",
+      "width": 1200,
+      "height": 1600,
+      "size": 1804124,
+      "uploadedDate": "2023-04-25T06:41:08.857Z",
+      "alt": "Download Cygnus Enterprises Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "98af68f0b09e47a5af2dccfd5b6e35f0",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-06T08:42:14.430Z",
+  "lastModifiedDate": "2023-05-06T08:42:14.430Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/NetEase/Cygnus/Saves/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "steam_autocloud.vdf"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CygnusEnterprises"
+    }
+  },
+  "entitlementName": "d71a4dd0f201498792bf8ea89860b309",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "39033471fd6c46eaba20456160870035",
+      "appId": "8a8fd6213b584d74875972a070a4ec90",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Netease Interactive Entertainment Pte.Ltd",
+  "developerId": "o-gu4vm2ewcmjpsfj73h5az9j6y8pwej",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

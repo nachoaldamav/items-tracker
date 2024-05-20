@@ -1,0 +1,68 @@
+{
+  "id": "53e7930edba0427d897ff169fd3f4624",
+  "title": "Dimension Drive",
+  "description": "Dimension Drive",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ac0d73f9f59b4ef2a713c2fa2b9d01e9/dimension-drive-70bpi.png",
+      "md5": "8a899d161b1b0f7cec9a101ad40da72c",
+      "width": 2560,
+      "height": 1440,
+      "size": 2204574,
+      "uploadedDate": "2023-04-20T10:48:25.233Z",
+      "alt": "Dimension Drive Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ac0d73f9f59b4ef2a713c2fa2b9d01e9/dimension-drive-1ehvk.png",
+      "md5": "086b5a37155e5946d10aa450aeefe023",
+      "width": 1200,
+      "height": 1600,
+      "size": 1065097,
+      "uploadedDate": "2023-04-20T10:48:33.732Z",
+      "alt": "Download Dimension Drive Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d76f74c986a7462e95442dd6dd211357",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-08T17:14:31.453Z",
+  "lastModifiedDate": "2023-07-12T15:20:42.212Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/2Awesome Studio/Dimension Drive/SaveFiles/TASaveSlot/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DimensionDriveiQqJi"
+    }
+  },
+  "entitlementName": "53e7930edba0427d897ff169fd3f4624",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bf882c7df0794cd599d8dfcaabb71ed1",
+      "appId": "1aa28480d50640339fe66245330d8ebc",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "2Awesome Studio SL",
+  "developerId": "o-zkm7588dgyng52hquqpavzyyrtw4k5",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

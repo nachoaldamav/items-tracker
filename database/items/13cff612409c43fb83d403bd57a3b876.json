@@ -1,0 +1,62 @@
+{
+  "id": "13cff612409c43fb83d403bd57a3b876",
+  "title": "Tenement",
+  "description": "Tenement",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8e2d6a251fe14fcab5397d64f0ac5b0f/tenement-4l9cb.png",
+      "md5": "3f774243fdfdc7157e39a84dff8d9a0e",
+      "width": 2560,
+      "height": 1440,
+      "size": 724369,
+      "uploadedDate": "2023-11-16T23:51:22.746Z",
+      "alt": "Tenement Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8e2d6a251fe14fcab5397d64f0ac5b0f/tenement-tzhia.png",
+      "md5": "5136d9e5597093b533c81666fd4b2ec4",
+      "width": 1200,
+      "height": 1600,
+      "size": 485869,
+      "uploadedDate": "2023-11-16T23:51:34.391Z",
+      "alt": "Download Tenement Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "78d14ec62d2a41d095ac4facc9278617",
+  "status": "ACTIVE",
+  "creationDate": "2023-04-12T02:43:04.608Z",
+  "lastModifiedDate": "2024-01-17T14:47:38.806Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Tenement6WOPj"
+    }
+  },
+  "entitlementName": "13cff612409c43fb83d403bd57a3b876",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8306c144713040efaae37e5f0b93b2f3",
+      "appId": "21373d3f652840cbb96777597508b13b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Tynepunk",
+  "developerId": "o-vykn7mx6lmbuxe3c6snk7f6h9r3s8c",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

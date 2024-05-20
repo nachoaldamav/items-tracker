@@ -1,0 +1,76 @@
+{
+  "id": "08d4fd58f257444680e29edea79de6f7",
+  "title": "Pepper Grinder",
+  "description": "Pepper Grinder",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ae83edeb7edd40e9b13cf2f1e7786cab/pepper-grinder-179rb.jpg",
+      "md5": "5ac2c49c536a5f8847f5135b71c7334c",
+      "width": 2560,
+      "height": 1440,
+      "size": 1164374,
+      "uploadedDate": "2022-11-04T09:14:28.683Z",
+      "alt": "Pepper Grinder Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ae83edeb7edd40e9b13cf2f1e7786cab/pepper-grinder-nttl4.jpg",
+      "md5": "e2e8abae6f0d539047011b318a30bcf2",
+      "width": 1200,
+      "height": 1600,
+      "size": 708567,
+      "uploadedDate": "2022-11-04T09:14:25.675Z",
+      "alt": "Download Pepper Grinder Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2f41f7b835bf4008821c8dd59e6111a0",
+  "status": "ACTIVE",
+  "creationDate": "2022-11-04T09:01:31.071Z",
+  "lastModifiedDate": "2024-04-19T21:44:25.070Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/PepperGrinder/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/PepperGrinder/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "savedata.dat"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PepperGrinderZ8GDd"
+    }
+  },
+  "entitlementName": "08d4fd58f257444680e29edea79de6f7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cbf88804fc6d4d65bd5f2694f3b24924",
+      "appId": "d5d4657e4d4840c9a4474e1b29521f33",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

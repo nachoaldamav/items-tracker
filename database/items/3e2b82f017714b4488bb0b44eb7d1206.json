@@ -1,0 +1,64 @@
+{
+  "id": "3e2b82f017714b4488bb0b44eb7d1206",
+  "title": "Candle Knight",
+  "description": "Candle Knight",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/958ca219a3be440eb3c3225193b3d5be/candle-knight-1dciz.png",
+      "md5": "0bfc1329aa32c95812e4f42d3a2b5331",
+      "width": 2560,
+      "height": 1440,
+      "size": 3817429,
+      "uploadedDate": "2023-04-01T23:35:39.512Z",
+      "alt": "Candle Knight Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/958ca219a3be440eb3c3225193b3d5be/candle-knight-9hjtl.png",
+      "md5": "14a37b9db79f87404939779aef8027bb",
+      "width": 1200,
+      "height": 1600,
+      "size": 3084953,
+      "uploadedDate": "2023-04-01T23:35:36.181Z",
+      "alt": "Download Candle Knight Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "909c6e888c164c78a1811afccedbc3a7",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-18T04:55:14.548Z",
+  "lastModifiedDate": "2023-06-18T04:55:14.548Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "CandleKnight"
+    }
+  },
+  "entitlementName": "3e2b82f017714b4488bb0b44eb7d1206",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1d66d313fdd24845ade02851f1218cc0",
+      "appId": "fef14b91d6c44b3aa245a8f3923b723e",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Dracma Studios",
+  "developerId": "o-vqdht9dmj9vxwtrfbvs7byg6kckwer",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

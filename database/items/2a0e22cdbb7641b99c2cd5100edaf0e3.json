@@ -1,0 +1,82 @@
+{
+  "id": "2a0e22cdbb7641b99c2cd5100edaf0e3",
+  "title": "Undetected",
+  "description": "Undetected",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/5590ae6a3ed045af83cc6c527efb0d22/undetected-offer-i2gib.jpg",
+      "md5": "3b2e5531ed1c1d2381b02b696700578c",
+      "width": 2560,
+      "height": 1440,
+      "size": 738283,
+      "uploadedDate": "2022-07-12T14:53:38.395Z",
+      "alt": "Undetected Offer"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5590ae6a3ed045af83cc6c527efb0d22/download-undetected-offer-1v8nt.jpg",
+      "md5": "d65ca70de6feef149336b10d36e8fea9",
+      "width": 1200,
+      "height": 1600,
+      "size": 799954,
+      "uploadedDate": "2022-07-12T14:53:40.041Z",
+      "alt": "Download Undetected Offer"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5590ae6a3ed045af83cc6c527efb0d22/undetected-offer-1ye46.jpg",
+      "md5": "3b2e5531ed1c1d2381b02b696700578c",
+      "width": 2560,
+      "height": 1440,
+      "size": 738283,
+      "uploadedDate": "2022-07-12T14:53:43.309Z",
+      "alt": "Undetected Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5590ae6a3ed045af83cc6c527efb0d22/download-undetected-offer-13o0k.jpg",
+      "md5": "d65ca70de6feef149336b10d36e8fea9",
+      "width": 1200,
+      "height": 1600,
+      "size": 799954,
+      "uploadedDate": "2022-07-12T14:53:44.647Z",
+      "alt": "Download Undetected Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f00fd214a92d4c03966019a6d7104939",
+  "status": "ACTIVE",
+  "creationDate": "2022-04-05T18:47:15.107Z",
+  "lastModifiedDate": "2022-08-16T13:23:47.131Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "UndetectedH8Ynq"
+    }
+  },
+  "entitlementName": "2a0e22cdbb7641b99c2cd5100edaf0e3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "df61994e5d374c839acb7ab69ff04336",
+      "appId": "9c2fb26b35824a0a9545c289284b463b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Digerati",
+  "developerId": "o-w3y4zvzsv727kbguuzyz2zg46xdafs",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

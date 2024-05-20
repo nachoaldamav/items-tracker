@@ -1,0 +1,61 @@
+{
+  "id": "6c624a3f2d224327a4499695614a5b1f",
+  "title": "VED",
+  "description": "VED",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/97b6599f8346464ab12f58e28f36f33a/ved-offer-1gr08.jpg",
+      "md5": "2591893b800421028db350df9df5f7ce",
+      "width": 2560,
+      "height": 1440,
+      "size": 2208666,
+      "uploadedDate": "2022-09-19T10:37:00.001Z",
+      "alt": "VED Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/97b6599f8346464ab12f58e28f36f33a/download-ved-offer-k5ebj.jpg",
+      "md5": "25da4c1209abefad12a09376997ba8f7",
+      "width": 1200,
+      "height": 1600,
+      "size": 1266436,
+      "uploadedDate": "2022-09-19T10:36:55.215Z",
+      "alt": "Download VED Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c75abc5bf2f54b24ac7bd7aa9628c007",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-19T09:44:22.513Z",
+  "lastModifiedDate": "2023-10-03T09:56:48.012Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "VED"
+    }
+  },
+  "entitlementName": "6c624a3f2d224327a4499695614a5b1f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e5b83aad642e47e18175690bf62593ae",
+      "appId": "bd2f1f9be348475fb596608ba95ed152",
+      "platform": []
+    }
+  ],
+  "developer": "Fulqrum Publishing Ltd.",
+  "developerId": "o-n4d8bf5e8fnr4kujuut9j6v4d29muc",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

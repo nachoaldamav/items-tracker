@@ -1,0 +1,73 @@
+{
+  "id": "9f1e94fe825b4dbbb630548996143715",
+  "title": "Warpath: Ace Shooter",
+  "description": "Warpath: Ace Shooter",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6ae141609b27408e9fee70dc5cbea10d/warpath-1gx8u.jpg",
+      "md5": "9022ac1bde62e9121ba1fea50a33b94e",
+      "width": 2560,
+      "height": 1440,
+      "size": 3446155,
+      "uploadedDate": "2023-08-18T06:27:24.884Z",
+      "alt": "Warpath Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6ae141609b27408e9fee70dc5cbea10d/warpath-hq74x.jpg",
+      "md5": "807579445dfd1fda730afd7421e0da93",
+      "width": 1200,
+      "height": 1600,
+      "size": 1974671,
+      "uploadedDate": "2023-08-18T06:27:29.402Z",
+      "alt": "Download Warpath Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5cc2d6d24d354c50a07d723feaa5e6dc",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-22T09:14:02.348Z",
+  "lastModifiedDate": "2023-10-26T02:17:53.585Z",
+  "customAttributes": {
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "Warpath.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WarpathwCpx2"
+    },
+    "BackgroundProcessNames": {
+      "type": "STRING",
+      "value": "WarpathLauncher.exe"
+    }
+  },
+  "entitlementName": "9f1e94fe825b4dbbb630548996143715",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8294db2b735544a1b44e611dd5e0acde",
+      "appId": "5a01bc737e274c19b2ffbb46df9fbb45",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "LilithGames",
+  "developerId": "o-lsawszyktz9edybn2fqe32ve4wvlkp",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

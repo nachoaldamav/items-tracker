@@ -1,0 +1,67 @@
+{
+  "id": "029ba2bafb2f4441b703de14115ffe2e",
+  "title": "Mutus Meteora",
+  "description": "Mutus Meteora",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/cb8b7a279a394a6d8aaed8d64d9abf2f/mutus-meteora-1iz68.jpg",
+      "md5": "2a5d4bf37a91197fbcd892bd7596e85b",
+      "width": 2560,
+      "height": 1440,
+      "size": 974808,
+      "uploadedDate": "2023-08-08T15:14:13.943Z",
+      "alt": "Mutus Meteora Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/cb8b7a279a394a6d8aaed8d64d9abf2f/mutus-meteora-s53z7.png",
+      "md5": "30bd2d73809a566fd7adcf2ac7ec5225",
+      "width": 1200,
+      "height": 1600,
+      "size": 728814,
+      "uploadedDate": "2023-07-01T07:23:53.380Z",
+      "alt": "Download Mutus Meteora Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "06a3d76750a1495d853e3067de19c377",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-30T08:29:03.302Z",
+  "lastModifiedDate": "2023-08-11T09:49:22.267Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/MutusMeteora/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MutusMeteora"
+    }
+  },
+  "entitlementName": "029ba2bafb2f4441b703de14115ffe2e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8fec19565cd9467fa3741cd99ec4d658",
+      "appId": "ea73d3759f214319a472309a06ae3e7a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Secondarybounce SL",
+  "developerId": "o-xj2ptgbhx2f7suqrbck36jh6bvt389",
+  "endOfSupport": false,
+  "applicationId": "fghi45677BImgbWZ5M6LaoLSz5XTwe3Z",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

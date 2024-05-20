@@ -1,0 +1,72 @@
+{
+  "id": "f6acc4f1ea5e42ce95f1d52499c0e7a4",
+  "title": "Evil Wizard",
+  "description": "Evil Wizard",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1593f3ec5b6b4698aa93647de1bde1b8/evil-wizard-16ywg.png",
+      "md5": "efeb52e9f05d5d888570782d40cdfaa0",
+      "width": 2560,
+      "height": 1440,
+      "size": 3423856,
+      "uploadedDate": "2023-05-08T13:27:13.358Z",
+      "alt": "Evil Wizard Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1593f3ec5b6b4698aa93647de1bde1b8/evil-wizard-hs2jp.png",
+      "md5": "3bf951a1edb5e26106e7bd55682e8fdd",
+      "width": 1200,
+      "height": 1600,
+      "size": 2281962,
+      "uploadedDate": "2023-05-08T13:28:33.057Z",
+      "alt": "Download Evil Wizard Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "663ea0c5bcaa43fc8127b466ac781ac5",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-13T13:38:59.014Z",
+  "lastModifiedDate": "2023-09-13T13:38:59.014Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Rubber Duck Games/Evil Wizard/{EpicID}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "GameSettingsSaveFile.Evil,ProfileOne.evil,ProfileTwo.evil,ProfileThree.evil"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EvilWizardzNcyp"
+    }
+  },
+  "entitlementName": "f6acc4f1ea5e42ce95f1d52499c0e7a4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "def20f561108457bb59c655c4d86a69c",
+      "appId": "47b2e25427f042cda387961e0eef833f",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "EHOME ENTERTAINMENT DEVELOPMENT COMPANY LIMITED",
+  "developerId": "o-bmy8d7qlkf93566zjltnw9t3pndd36",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

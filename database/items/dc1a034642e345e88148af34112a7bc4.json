@@ -1,0 +1,67 @@
+{
+  "id": "dc1a034642e345e88148af34112a7bc4",
+  "title": "Tents and Trees Demo",
+  "description": "Think strategically to place tents in the peaceful universe of Tents and Trees, a chill puzzle game set in the great outdoors!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/fe3cd3ef929e4404959421b40762f222/tents-and-trees-1jl27.png",
+      "md5": "1ed9d7fb77729992f66f96fa42b889dc",
+      "width": 2560,
+      "height": 1440,
+      "size": 443104,
+      "uploadedDate": "2024-03-04T08:17:02.947Z",
+      "alt": "Tents and Trees Tents and Trees Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/fe3cd3ef929e4404959421b40762f222/tents-and-trees-bkx0m.png",
+      "md5": "27366d0e4627fef3f9159735073bde40",
+      "width": 1200,
+      "height": 1600,
+      "size": 394443,
+      "uploadedDate": "2024-03-04T08:17:02.622Z",
+      "alt": "Download Tents and Trees Tents and Trees Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c3ee706f06354a7ca940a71fc28aa887",
+  "status": "ACTIVE",
+  "creationDate": "2024-01-03T13:30:00.628Z",
+  "lastModifiedDate": "2024-03-06T09:14:59.225Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/TentsAndTrees/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TentsAndTreesDemo"
+    }
+  },
+  "entitlementName": "dc1a034642e345e88148af34112a7bc4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f14e900604f74068b406059abe9fd70b",
+      "appId": "5498342ffe6c464aa3b65ed4a5e8ad14",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Frozax Games",
+  "developerId": "o-da4pl7kcr5x9cmqr3xdnbgmupx6m8d",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

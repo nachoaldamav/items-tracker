@@ -1,0 +1,67 @@
+{
+  "id": "898e2a4a8b6442cdb09e3af0907611e6",
+  "title": "Train World Demo",
+  "description": "Train World Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6be4ab97b20d45158a5a34199aa8d0b4/train-world-dclvd.jpg",
+      "md5": "5a31df8b0611f9cc16b6275ab6fd49de",
+      "width": 2560,
+      "height": 1440,
+      "size": 2828084,
+      "uploadedDate": "2023-03-17T11:52:26.486Z",
+      "alt": "Train World Train World Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6be4ab97b20d45158a5a34199aa8d0b4/train-world-seble.png",
+      "md5": "19e3a3a3218c4396d4a635fd1167ee3b",
+      "width": 1200,
+      "height": 1600,
+      "size": 2693868,
+      "uploadedDate": "2023-03-17T11:52:30.037Z",
+      "alt": "Download Train World Train World Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "942b563ee0aa4086a55d8b746aca514d",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-16T18:23:14.059Z",
+  "lastModifiedDate": "2023-08-27T16:06:30.053Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/TurnPointGames/TrainWorldDemo/Saves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DemoTrainWorld"
+    }
+  },
+  "entitlementName": "898e2a4a8b6442cdb09e3af0907611e6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ff36dd23492b4108834f617f31689d78",
+      "appId": "7e89bff3fbd74ef09b163811b768d242",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Turn Point Games",
+  "developerId": "o-rejlyf8knzzhaa2rpaaavua9635mgr",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

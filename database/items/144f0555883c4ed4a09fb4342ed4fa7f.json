@@ -1,0 +1,65 @@
+{
+  "id": "144f0555883c4ed4a09fb4342ed4fa7f",
+  "title": "Null Gravity Labyrinth",
+  "description": "Null Gravity Labyrinth",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f1920cced6cf4d5d85ff8c1a408b61fb/null-gravity-labyrinth-18uvo.PNG",
+      "md5": "5de1391e41418f9ea6596ebd0601a6e1",
+      "width": 2560,
+      "height": 1440,
+      "size": 829911,
+      "uploadedDate": "2023-10-26T19:39:23.639Z",
+      "alt": "Null Gravity Labyrinth Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f1920cced6cf4d5d85ff8c1a408b61fb/null-gravity-labyrinth-1kgf9.PNG",
+      "md5": "0a82f3ca9d733a520bb1af69b8680280",
+      "width": 1200,
+      "height": 1600,
+      "size": 811636,
+      "uploadedDate": "2023-10-26T19:39:23.428Z",
+      "alt": "Download Null Gravity Labyrinth Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ab974cbcdfcc4f77be50a10c10f988e5",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-24T19:02:13.866Z",
+  "lastModifiedDate": "2023-11-18T22:18:34.571Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "NullGravityLabyrinth"
+    }
+  },
+  "entitlementName": "144f0555883c4ed4a09fb4342ed4fa7f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2bd97850a7e24cc9bea6fef90a6a20ed",
+      "appId": "34a6d00d58b74eafa59eb95ae8614663",
+      "platform": [
+        "Mac",
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "Vincent Vogl Games",
+  "developerId": "o-mt3q588txh5tbwk2slzcez8lj7yhzu",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,62 @@
+{
+  "id": "9a5779cee73543f68cfa0fee7313f75a",
+  "title": "Swarm Grinder",
+  "description": "Swarm Grinder",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e87188f297ae458bb549095762d366a4/swarm-grinder-y6j1p.png",
+      "md5": "62d54c4d2412d570190e785df53eb6aa",
+      "width": 2560,
+      "height": 1440,
+      "size": 153838,
+      "uploadedDate": "2023-04-03T13:10:47.232Z",
+      "alt": "Swarm Grinder Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e87188f297ae458bb549095762d366a4/swarm-grinder-1gs5y.png",
+      "md5": "900dde7341470c862fd2c0b27cc5b3c2",
+      "width": 1200,
+      "height": 1600,
+      "size": 43208,
+      "uploadedDate": "2023-04-03T13:10:52.524Z",
+      "alt": "Download Swarm Grinder Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9e20456aa9964c3287bda848105582e2",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-14T09:07:27.899Z",
+  "lastModifiedDate": "2024-02-05T10:41:03.011Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SwarmGrinderoV4qy"
+    }
+  },
+  "entitlementName": "9a5779cee73543f68cfa0fee7313f75a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fd5c8e1bc5cf4adf956f72765a8fe930",
+      "appId": "d47dd545448e484582d14aaf6a8f64fa",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Last Bite Games",
+  "developerId": "o-4qybbsx6xcntucub79vuq8rnjxb537",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

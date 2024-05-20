@@ -1,0 +1,75 @@
+{
+  "id": "cd58796851174e97bb6c5c80d50526d1",
+  "title": "There Is No Game - Wrong Dimension",
+  "description": "There Is No Game - Wrong Dimension",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ac462f8752564c1eab320778a39b4ac4/there-is-no-game--wrong-dimension-18t6u.png",
+      "md5": "464af95a44cd65e5a7f19cf3774f4794",
+      "width": 2560,
+      "height": 1440,
+      "size": 2354209,
+      "uploadedDate": "2023-04-19T13:10:29.013Z",
+      "alt": "There Is No Game - Wrong Dimension Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ac462f8752564c1eab320778a39b4ac4/there-is-no-game--wrong-dimension-jopuo.png",
+      "md5": "fd522dd99df20ac8971dd1c434f1e29b",
+      "width": 1200,
+      "height": 1600,
+      "size": 1453204,
+      "uploadedDate": "2023-04-19T13:10:29.486Z",
+      "alt": "Download There Is No Game - Wrong Dimension Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5f7c8e78a55f4eb9956329556c44a27a",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-29T23:00:20.530Z",
+  "lastModifiedDate": "2023-10-29T23:00:20.530Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/DrawMeAPixel/Ting/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Global.dat, Global_backup.dat, SaveFile.dat, SaveFile_backup.dat"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ThereIsNoGameWD"
+    }
+  },
+  "entitlementName": "cd58796851174e97bb6c5c80d50526d1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "47f68860c2d34869b7e5c6fd250380bb",
+      "appId": "79b233aa218c4fcebcb5d6e05fed3ca1",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Draw Me A Pixel",
+  "developerId": "o-bzhynet92qvf2hfb4vqtlzwenvrv9t",
+  "endOfSupport": false,
+  "applicationId": "fghi4567qy5kqSWjqowcVp8wAQK4w3Qn",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

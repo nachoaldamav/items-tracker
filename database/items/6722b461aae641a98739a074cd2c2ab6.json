@@ -1,0 +1,75 @@
+{
+  "id": "6722b461aae641a98739a074cd2c2ab6",
+  "title": "Trinity Fusion",
+  "description": "Explore dark, sci-fi worlds and engage in fast-paced and precise combat in Trinity Fusion - a Rogue-Lite action platformer set in a sprawling, doomed multiverse.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7ff0b14c1b50498ca2a180710f0874ee/trinity-fusion-156nz.png",
+      "md5": "e51d432a88c74c49d312fe8d272e825f",
+      "width": 2560,
+      "height": 1440,
+      "size": 2977690,
+      "uploadedDate": "2023-03-01T10:55:17.149Z",
+      "alt": "Trinity Fusion Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7ff0b14c1b50498ca2a180710f0874ee/trinity-fusion-1ub3x.png",
+      "md5": "62542ee130eafb85b5799281fabae885",
+      "width": 1200,
+      "height": 1600,
+      "size": 2215873,
+      "uploadedDate": "2023-03-01T10:52:27.317Z",
+      "alt": "Download Trinity Fusion Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6272ed59a9894d5499e8d8818fdbea1a",
+  "status": "ACTIVE",
+  "creationDate": "2023-02-20T14:14:21.533Z",
+  "lastModifiedDate": "2023-12-14T20:38:18.132Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Angry Mob Games/Trinity Fusion/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.tfc"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TrinityFusion"
+    }
+  },
+  "entitlementName": "6722b461aae641a98739a074cd2c2ab6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "84f7f2d861064846befa66bb7f37b3d1",
+      "appId": "37406adc84e9498d81eb3aa8fae07351",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Angry Mob Games",
+  "developerId": "o-wr3cvqa9c48le4mf7ntk7jt8wjhg3g",
+  "endOfSupport": false,
+  "applicationId": "fghi4567Rs7MwBVCsRv3ZttDDwNcza6I",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

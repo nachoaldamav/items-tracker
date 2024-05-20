@@ -1,0 +1,64 @@
+{
+  "id": "2f76dfeecf8444f3b2eb12a09d5c01c6",
+  "title": "Illuvium (Testnet)",
+  "description": "Illuvium (Testnet)",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/dd0b8170ddf54e4b8191e31ad3f0fac9/illuvium-1n5ms.jpg",
+      "md5": "466cb7ea76a94830696bd76be5257d29",
+      "width": 2560,
+      "height": 1440,
+      "size": 1537565,
+      "uploadedDate": "2024-04-02T22:34:30.908Z",
+      "alt": "Illuvium Illuvium (Testnet) Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/dd0b8170ddf54e4b8191e31ad3f0fac9/illuvium-1mssf.png",
+      "md5": "417c01317336c0a81cdcfafa150fc931",
+      "width": 1200,
+      "height": 1600,
+      "size": 1530232,
+      "uploadedDate": "2024-04-02T22:34:28.892Z",
+      "alt": "Download Illuvium Illuvium (Testnet) Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d7ce267f72d247b9b1aaf0e6f54df795",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-12T14:02:43.789Z",
+  "lastModifiedDate": "2024-04-12T14:02:43.789Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "IlluviumSepolia"
+    }
+  },
+  "entitlementName": "2f76dfeecf8444f3b2eb12a09d5c01c6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e7615ce79c0a4efb9e9d748b999cb09d",
+      "appId": "bcf08dd06945486591da1da04a5f1614",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Illuvium",
+  "developerId": "o-y9ffv79neu8hy6jhfrlamxu5luyab4",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

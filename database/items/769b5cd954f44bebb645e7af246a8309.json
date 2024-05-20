@@ -1,0 +1,67 @@
+{
+  "id": "769b5cd954f44bebb645e7af246a8309",
+  "title": "Showgunners",
+  "description": "As a contestant seeking revenge on a brutal reality TV game show, you must survive a deadly urban environment packed with lethal traps, confounding puzzles, and heavily armed psychopaths. Turn-based combat in hand-crafted levels, built for a real challenge!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f5dfe8a21ea54b36a77374fe0081c81d/showgunners-1ddl8.jpg",
+      "md5": "302bf229765bf5ff8a92e3b2a5a337b4",
+      "width": 2560,
+      "height": 1440,
+      "size": 2746515,
+      "uploadedDate": "2023-03-29T14:14:03.600Z",
+      "alt": "Showgunners Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f5dfe8a21ea54b36a77374fe0081c81d/showgunners-6ngol.png",
+      "md5": "c33d1568476d0a1054a2f1f4c1c6f5a0",
+      "width": 1200,
+      "height": 1600,
+      "size": 2889315,
+      "uploadedDate": "2023-03-29T14:01:09.316Z",
+      "alt": "Download Showgunners Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e804a0aa57fa40738d486f70dd6d7079",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-22T15:18:25.500Z",
+  "lastModifiedDate": "2023-07-19T20:30:33.551Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Showgunners/Saved/SaveGames/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Showgunners"
+    }
+  },
+  "entitlementName": "769b5cd954f44bebb645e7af246a8309",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2e528c2b619b4442aafec3409c6ebeb0",
+      "appId": "5d1e3a6a38cd448e8c92da2e6a9a5ef1",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Good Shepherd Entertainment",
+  "developerId": "o-v3fdwkgaukftabrpt9292vr5tcwj2p",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

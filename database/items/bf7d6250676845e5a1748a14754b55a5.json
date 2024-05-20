@@ -1,0 +1,71 @@
+{
+  "id": "bf7d6250676845e5a1748a14754b55a5",
+  "title": "Gravity Oddity",
+  "description": "Embark on a one-man rescue mission across the galaxy to bring back your kidnapped roommate in this roguelike space action-adventure.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d2b7f026af904991a61fb5962522fcee/gravity-oddity-1u6fl.jpg",
+      "md5": "518fc7152f63dcadfb9dd778448ec7de",
+      "width": 2560,
+      "height": 1440,
+      "size": 1558840,
+      "uploadedDate": "2023-08-26T10:33:05.059Z",
+      "alt": "Gravity Oddity Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d2b7f026af904991a61fb5962522fcee/gravity-oddity-w4qhy.jpg",
+      "md5": "e9380ff0c9d3f8dc98f8b7892e27a967",
+      "width": 1200,
+      "height": 1600,
+      "size": 1025686,
+      "uploadedDate": "2023-08-26T10:33:07.913Z",
+      "alt": "Download Gravity Oddity Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bd49e68e53fc4da0b14d054354575cea",
+  "status": "ACTIVE",
+  "creationDate": "2023-08-29T17:49:54.113Z",
+  "lastModifiedDate": "2023-08-29T17:49:54.113Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Invincible Cat/Gravity Oddity/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "slot*.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GravityOddity"
+    }
+  },
+  "entitlementName": "bf7d6250676845e5a1748a14754b55a5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fde84b8d9fc548a7a4198b879fabb965",
+      "appId": "2b08be790c6244f094ba0f5c7166c718",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Invincible Cat",
+  "developerId": "o-a4rj7fqhbw3ddwztk7k94n2sssfmxf",
+  "endOfSupport": false,
+  "applicationId": "fghi4567zW4LLcWR1bbZ28Nj92Cqelg3",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
