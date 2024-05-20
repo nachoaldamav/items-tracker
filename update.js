@@ -221,6 +221,7 @@ class Main {
         const items = [];
 
         for (const element of elements) {
+          console.log(`Fetching item ${element.id}...`);
           if (element.id) {
             const { data } = await this.launcher.http.sendGet(
               `https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/${namespace}/items/${element.id}?country=${this.country}&locale=${this.language}`
