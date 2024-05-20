@@ -402,6 +402,11 @@ class Main {
         .map((item) => item.id)
         .filter((id) => id);
 
+      if (!hiddenItemsIds) {
+        console.log('No hidden items found');
+        continue;
+      }
+
       // Get the items
       for await (const id of hiddenItemsIds) {
         const { data } = await this.launcher.http
