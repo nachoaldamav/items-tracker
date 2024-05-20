@@ -6,6 +6,8 @@ const Axios = require('axios');
 const { Launcher } = require('epicgames-client');
 
 class Main {
+  namespaceOffersCache = {};
+
   constructor() {
     this.language = 'en';
     this.country = 'US';
@@ -183,7 +185,7 @@ class Main {
   }
 
   async fetchAllItemsForNamespace(namespace) {
-    let paging = {};
+    let paging = { start: 0, count: 0, total: 0 };
     do {
       const result = await this.fetchItemsForNamespace(
         namespace,
@@ -196,8 +198,11 @@ class Main {
         const element = result.elements[i];
         this.saveItem(element);
       }
+      console.log(
+        `Got ${paging.count} items for namespace ${namespace}, total ${paging.total}, next start ${paging.start}`
+      );
       await this.sleep(1000);
-    } while (paging.start - this.perPage < paging.total - paging.count);
+    } while (paging.start < paging.total);
   }
 
   async fetchItemsForNamespace(namespace, start = 0, count = 1000) {
@@ -210,12 +215,30 @@ class Main {
         console.log(
           `No items found for namespace ${namespace}, using alternative method...`
         );
-        const { data } = await this.launcher.http.sendGet(
-          `https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/${namespace}/offers?status=SUNSET%7CACTIVE&sortBy=creationDate&country=${this.country}&locale=${this.language}&start=${start}&count=${count}`
-        );
+
+        let offersData;
+
+        if (!this.namespaceOffersCache[namespace]) {
+          const { data } = await this.launcher.http.sendGet(
+            `https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/${namespace}/offers?status=SUNSET%7CACTIVE&sortBy=creationDate&country=${this.country}&locale=${this.language}&start=${start}&count=${count}`
+          );
+          offersData = data;
+        } else {
+          console.log(`Using cached offers data for namespace ${namespace}...`);
+          offersData = this.namespaceOffersCache[namespace];
+        }
+
+        if (offersData.elements.length === 0) {
+          console.log(
+            `No offers found for namespace ${namespace}, ignoring...`
+          );
+          return data;
+        }
+
+        this.namespaceOffersCache[namespace] = offersData;
 
         // item[n].mainGameItem?.id
-        const elements = data.elements
+        const elements = offersData.elements
           .map((element) => element.mainGameItem)
           .filter((element) => element);
         const items = [];
@@ -229,6 +252,8 @@ class Main {
             items.push(data);
           }
         }
+
+        console.log(`Fetched ${items.length} items for namespace ${namespace}`);
 
         return {
           elements: items,
