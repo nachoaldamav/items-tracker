@@ -36,8 +36,32 @@
   "namespace": "0a84818055e740a7be21a2e5b6162703",
   "status": "ACTIVE",
   "creationDate": "2019-06-03T15:04:21.387Z",
-  "lastModifiedDate": "2024-04-30T20:34:52.597Z",
+  "lastModifiedDate": "2024-05-20T15:22:38.172Z",
   "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "2291bc83637d4f38bb75cdb34d8480a9"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WatchDogsLegion"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
@@ -54,29 +78,9 @@
       "type": "STRING",
       "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\3353"
     },
-    "RequirementsJson": {
-      "type": "STRING",
-      "value": "[]"
-    },
-    "CanSkipKoreanIdVerification": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "partnerLinkId": {
-      "type": "STRING",
-      "value": "2291bc83637d4f38bb75cdb34d8480a9"
-    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
-    },
-    "FolderName": {
-      "type": "STRING",
-      "value": "WatchDogsLegion"
-    },
-    "ThirdPartyManagedProvider": {
-      "type": "STRING",
-      "value": "UbisoftConnect"
     },
     "RegistryKey": {
       "type": "STRING",

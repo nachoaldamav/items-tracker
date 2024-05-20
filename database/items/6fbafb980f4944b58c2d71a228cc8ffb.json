@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/f8e4a69698064325aa517561d908ad4b/dr-finklesteins-marvelous-room-1in17.png",
-      "md5": "c5bf47589fec3332038fe655d2f18726",
+      "url": "https://cdn1.epicgames.com/spt-assets/f8e4a69698064325aa517561d908ad4b/dr-finklesteins-marvelous-room-13uf8.png",
+      "md5": "afabc5059db94dd55c2c0bc2e0e8cbd9",
       "width": 2560,
       "height": 1440,
-      "size": 2675992,
-      "uploadedDate": "2024-05-01T18:43:05.972Z",
+      "size": 2948936,
+      "uploadedDate": "2024-05-03T22:50:31.656Z",
       "alt": "Dr. Finklestein's Marvelous Room Dr. Finklestein's Marvelous Room Demo Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/f8e4a69698064325aa517561d908ad4b/dr-finklesteins-marvelous-room-1p84r.png",
-      "md5": "bee4eb09c454d59cd5abe42d7875ccf8",
+      "url": "https://cdn1.epicgames.com/spt-assets/f8e4a69698064325aa517561d908ad4b/dr-finklesteins-marvelous-room-4tgdp.png",
+      "md5": "a34cb9783624087be03eb10d3208804c",
       "width": 1200,
       "height": 1600,
-      "size": 1327546,
-      "uploadedDate": "2024-05-01T18:43:41.906Z",
+      "size": 1303512,
+      "uploadedDate": "2024-05-03T22:50:18.622Z",
       "alt": "Download Dr. Finklestein's Marvelous Room Dr. Finklestein's Marvelous Room Demo Offer"
     }
   ],
@@ -34,12 +34,12 @@
   ],
   "namespace": "eee849a1ed424af5ae93554dd34fe980",
   "status": "ACTIVE",
-  "creationDate": "2024-05-07T02:02:46.990Z",
-  "lastModifiedDate": "2024-05-07T02:02:46.990Z",
+  "creationDate": "2024-05-01T16:57:51.901Z",
+  "lastModifiedDate": "2024-05-20T16:00:06.720Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "DemoDrFinklesteinf2619"
+      "value": "DFMR_Demo"
     }
   },
   "entitlementName": "6fbafb980f4944b58c2d71a228cc8ffb",
@@ -47,14 +47,17 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "f2f9b2aa-7bd4-49ed-be9e-46d83deecdcb",
+      "id": "b18d5c8423a445029c81e9f298c4c9a5",
       "appId": "4eda302edc0f4f07a17274b2cace5227",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "DEVBEEF",
   "developerId": "o-e9tgebs6yt2tpyruhtd3mta3cp6w9t",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
