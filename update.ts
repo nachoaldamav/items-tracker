@@ -64,6 +64,15 @@ class Main {
 			// Save the new ns-queue.json file
 			fs.writeFileSync("./ns-queue.json", JSON.stringify(newData, null, 2));
 
+			const pendingNamespaces = Object.keys(newData).length;
+
+			if (pendingNamespaces === 0) {
+				console.log("No namespaces left in the queue...");
+				// Remove the ns-queue.json file
+				fs.unlinkSync("./ns-queue.json");
+				return;
+			}
+
 			// Log number of namespaces in the queue
 			console.log(
 				`${
