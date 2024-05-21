@@ -19,7 +19,7 @@ class Main {
 	launcher: Launcher;
 	nsIndex: Record<string, any>;
 
-	readonly queueSize = 2;
+	readonly queueSize = 100;
 
 	constructor() {
 		this.language = "en";
