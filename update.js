@@ -333,6 +333,13 @@ class Main {
           };
         }
 
+        if (error.response.statusCode === 401) {
+          // Token expired, reauthenticate
+          console.log('Reauthenticating launcher...');
+          this.launcher.logout();
+          await this.launcher.init();
+        }
+
         console.log(JSON.stringify(error.response, null, 2));
         console.log('Next attempt in 1s...');
         await this.sleep(5000);
@@ -402,12 +409,16 @@ class Main {
         : [];
 
       if (subItems.length === 0) {
-        console.log('No hidden items found', hiddenData);
         continue;
       }
 
       // Get the IDs
-      const hiddenItemsIds = subItems.map((item) => item.id).filter((id) => id);
+      const hiddenItemsIds = subItems
+        .map((item) => item.id)
+        .filter((id) => id)
+        .filter((id) => {
+          return !data.elements.some((element) => element.id === id);
+        });
 
       if (!hiddenItemsIds) {
         console.log('No hidden items found');
@@ -463,6 +474,21 @@ class Main {
             data: null,
           };
         }
+
+        if (
+          error.message ===
+          'errors.com.epicgames.common.authentication.token_verification_failed'
+        ) {
+          // if this message appears, we need to reauthenticate the launcher
+          console.log('Reauthenticating launcher...');
+          // close the launcher
+          this.launcher.logout();
+          // reinitialize the launcher
+          await this.launcher.init();
+          // retry the fetch
+          continue;
+        }
+
         lastError = error;
         console.log('Retrying...');
         await this.sleep(3000);

@@ -13,7 +13,7 @@
   "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
   "status": "ACTIVE",
   "creationDate": "2024-05-08T13:25:58.096Z",
-  "lastModifiedDate": "2024-05-09T16:50:17.653Z",
+  "lastModifiedDate": "2024-05-21T15:31:39.700Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +23,15 @@
   "entitlementName": "648cd55f8db0439282d9192897ae7b55",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Techland",
   "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": true
 }
