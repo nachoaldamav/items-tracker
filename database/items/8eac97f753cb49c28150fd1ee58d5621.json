@@ -1,0 +1,32 @@
+{
+  "id": "8eac97f753cb49c28150fd1ee58d5621",
+  "title": "gssp",
+  "description": "gssp",
+  "categories": [
+    {
+      "path": "addons"
+    }
+  ],
+  "namespace": "7ad5508d382e46228056f1d1a0189ae2",
+  "status": "ACTIVE",
+  "creationDate": "2022-11-23T18:13:01.306Z",
+  "lastModifiedDate": "2022-12-04T04:10:17.667Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "8eac97f753cb49c28150fd1ee58d5621",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Grinding Gear Games",
+  "developerId": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

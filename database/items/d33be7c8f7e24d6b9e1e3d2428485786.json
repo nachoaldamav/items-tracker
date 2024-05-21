@@ -1,0 +1,115 @@
+{
+  "id": "d33be7c8f7e24d6b9e1e3d2428485786",
+  "title": "Brawlhalla",
+  "description": "Brawlhalla",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn2.unrealengine.com/atla-productart-1920x1080-1920x1080-477cda5a5a30.jpg",
+      "md5": "1a8a06070d456e9e62c607223d2ad9ab",
+      "width": 1920,
+      "height": 1080,
+      "size": 267862,
+      "uploadedDate": "2022-11-18T22:14:29.864Z",
+      "alt": "Brawhalla Avatar the Last Airbender Landscape Key Art"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn2.unrealengine.com/atla-productart-1200x1600-1200x1600-59caced19b71.jpg",
+      "md5": "eb3d8596b1f6d148d9806c238d25ddfb",
+      "width": 1200,
+      "height": 1600,
+      "size": 266466,
+      "uploadedDate": "2022-11-18T22:14:20.273Z",
+      "alt": "Brawhalla Avatar the Last Airbender Portrait Key Art"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "15e6680a0c164ee189fcc3eb10398fd6",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-15T03:45:01.493Z",
+  "lastModifiedDate": "2024-04-30T20:33:08.145Z",
+  "customAttributes": {
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "8685f1eeb7f14458a0cd96e30f9f5855"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Brawlhalla"
+    },
+    "ThirdPartyManagedProvider": {
+      "type": "STRING",
+      "value": "UbisoftConnect"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "15e6680a0c164ee189fcc3eb10398fd6"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\16382"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "neverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
+    "GameID": {
+      "type": "STRING",
+      "value": "16382"
+    }
+  },
+  "entitlementName": "d33be7c8f7e24d6b9e1e3d2428485786",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2546d0861cd1495aa3b687feda1c301f",
+      "appId": "c051e0b1433d4308baa920c08ba1a8eb",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": "9cac3f506db7426a8628a890f341c6c6",
+  "title": "bsp",
+  "description": "bsp",
+  "categories": [
+    {
+      "path": "addons"
+    }
+  ],
+  "namespace": "7ad5508d382e46228056f1d1a0189ae2",
+  "status": "ACTIVE",
+  "creationDate": "2023-01-04T14:52:31.021Z",
+  "lastModifiedDate": "2023-01-08T17:02:55.627Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "9cac3f506db7426a8628a890f341c6c6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Grinding Gear Games",
+  "developerId": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

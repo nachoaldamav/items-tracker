@@ -1,0 +1,32 @@
+{
+  "id": "15a95938be954182ba67cc84a7a23f0d",
+  "title": "KLSP",
+  "description": "KLSP",
+  "categories": [
+    {
+      "path": "addons"
+    }
+  ],
+  "namespace": "7ad5508d382e46228056f1d1a0189ae2",
+  "status": "ACTIVE",
+  "creationDate": "2022-08-08T19:48:30.653Z",
+  "lastModifiedDate": "2022-08-18T22:01:46.791Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "15a95938be954182ba67cc84a7a23f0d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Grinding Gear Games",
+  "developerId": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

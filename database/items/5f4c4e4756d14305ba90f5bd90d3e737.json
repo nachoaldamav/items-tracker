@@ -1,0 +1,67 @@
+{
+  "id": "5f4c4e4756d14305ba90f5bd90d3e737",
+  "title": "LEGO® Star Wars™: The Mandalorian Season 1 Pack",
+  "description": "LEGO® Star Wars™: The Mandalorian Season 1 Pack",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/9c59efaabb6a48f19b3485d5d9416032/EGS_LEGOStarWarsTheMandalorianSeason1Pack_TTGames_DLC_S2_1200x1600-7d779b2b1bf436bf3b1276574ebc7bc2",
+      "md5": "7d779b2b1bf436bf3b1276574ebc7bc2",
+      "width": 1200,
+      "height": 1600,
+      "size": 966046,
+      "uploadedDate": "2022-03-16T20:54:27.716Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/9c59efaabb6a48f19b3485d5d9416032/EGS_LEGOStarWarsTheMandalorianSeason1Pack_TTGames_DLC_S1_2560x1440-5e55aeb719d55440013f73705382fded_2560x1440-5e55aeb719d55440013f73705382fded",
+      "md5": "5e55aeb719d55440013f73705382fded",
+      "width": 2560,
+      "height": 1440,
+      "size": 992583,
+      "uploadedDate": "2022-04-07T17:16:59.099Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    }
+  ],
+  "namespace": "9c59efaabb6a48f19b3485d5d9416032",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-02T18:01:05.277Z",
+  "lastModifiedDate": "2022-11-01T17:22:07.023Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LSWMandalorianS1Pack"
+    }
+  },
+  "entitlementName": "5f4c4e4756d14305ba90f5bd90d3e737",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "eb6381e2e74440e18306c9925a9a1747",
+      "appId": "3bcf9726e0cb43e28925d40887a5f2d9",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KillingFloor2_TripwireInteractive_S1_2560x1440-7441995a51f38b68d8b831306bbcb310",
-      "md5": "7441995a51f38b68d8b831306bbcb310",
+      "url": "https://cdn1.epicgames.com/item/affc33b82405457595a032f00284abd2/EGS_KillingFloor2_TripwireInteractive_S1_2560x1440-644173a0251b030bd2612e8f33b800d5",
+      "md5": "644173a0251b030bd2612e8f33b800d5",
       "width": 2560,
       "height": 1440,
-      "size": 629374,
-      "uploadedDate": "2021-10-05T14:50:29.349Z"
+      "size": 2243509,
+      "uploadedDate": "2023-07-15T10:56:03.199Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KillingFloor2_TripwireInteractive_S2_1200x1600-42e831eca22154d861ea688ba5c09035",
-      "md5": "42e831eca22154d861ea688ba5c09035",
-      "width": 1200,
-      "height": 1600,
-      "size": 603066,
-      "uploadedDate": "2021-10-05T14:50:32.031Z"
+      "url": "https://cdn1.epicgames.com/item/affc33b82405457595a032f00284abd2/EGS_KillingFloor2_TripwireInteractive_S2_860x1148-3871a312bd2800d12a24e3498b1018c8",
+      "md5": "3871a312bd2800d12a24e3498b1018c8",
+      "width": 860,
+      "height": 1148,
+      "size": 673242,
+      "uploadedDate": "2023-07-15T10:56:09.642Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "affc33b82405457595a032f00284abd2",
   "status": "ACTIVE",
   "creationDate": "2019-08-17T00:08:56.681Z",
-  "lastModifiedDate": "2021-10-05T14:50:41.261Z",
+  "lastModifiedDate": "2023-07-24T16:58:54.441Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -76,7 +76,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "dd29e7d85855490aa25ff1a276ff00fa",
+      "id": "da7c189df4324b3086693e6d2fbfd1a8",
       "appId": "Finch",
       "platform": [
         "Windows"
@@ -93,5 +93,5 @@
   "endOfSupport": false,
   "ageGatings": {},
   "applicationId": "fghi4567Ubb7JGylGDZY5rNxhNLYFBxx",
-  "unsearchable": false
+  "unsearchable": true
 }

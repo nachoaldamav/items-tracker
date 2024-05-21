@@ -1,0 +1,37 @@
+{
+  "id": "1dea1e39a8044a69b4020845afb4bd97",
+  "title": "EiderCampaignPackGeneralAudience",
+  "description": "EiderCampaignPackGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ed55aa5edc5941de92fd7f64de415793",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-04T16:16:55.833Z",
+  "lastModifiedDate": "2023-12-18T17:32:49.144Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "1dea1e39a8044a69b4020845afb4bd97",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "IO Interactive",
+  "developerId": "o-ank8fbh38u9uzqbag2a5yt5xexb4yr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": true
+}

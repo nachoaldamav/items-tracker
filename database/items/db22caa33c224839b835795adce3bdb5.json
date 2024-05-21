@@ -1,0 +1,52 @@
+{
+  "id": "db22caa33c224839b835795adce3bdb5",
+  "title": "FinchDevelopment",
+  "description": "FinchDevelopment",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T20:46:24.512Z",
+  "lastModifiedDate": "2020-07-09T14:57:59.422Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FinchDevelopment"
+    }
+  },
+  "entitlementName": "db22caa33c224839b835795adce3bdb5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b382801deb6f45e7997b0702d51d9033",
+      "appId": "FinchDevelopment",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-17T00:00:00.000Z"
+    }
+  ],
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

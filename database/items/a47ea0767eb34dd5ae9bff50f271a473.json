@@ -1,0 +1,32 @@
+{
+  "id": "a47ea0767eb34dd5ae9bff50f271a473",
+  "title": "esp",
+  "description": "esp",
+  "categories": [
+    {
+      "path": "addons"
+    }
+  ],
+  "namespace": "7ad5508d382e46228056f1d1a0189ae2",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-12T17:37:18.423Z",
+  "lastModifiedDate": "2024-03-22T11:17:31.470Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "a47ea0767eb34dd5ae9bff50f271a473",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Grinding Gear Games",
+  "developerId": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

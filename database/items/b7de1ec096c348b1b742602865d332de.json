@@ -1,0 +1,42 @@
+{
+  "id": "b7de1ec096c348b1b742602865d332de",
+  "title": "CP_CloneWarsStaging",
+  "description": "CP_CloneWarsStaging",
+  "categories": [
+    {
+      "path": "addons"
+    }
+  ],
+  "namespace": "9c59efaabb6a48f19b3485d5d9416032",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-12T21:51:50.215Z",
+  "lastModifiedDate": "2022-09-12T22:06:33.146Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "b7de1ec096c348b1b742602865d332de",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "907783141e1c4255834a8f2a34078d36",
+      "appId": "71e23d40714c4168a646f87c6efefee9",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

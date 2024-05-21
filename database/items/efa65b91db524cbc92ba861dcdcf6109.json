@@ -1,0 +1,32 @@
+{
+  "id": "efa65b91db524cbc92ba861dcdcf6109",
+  "title": "K1PEK",
+  "description": "K1PEK",
+  "categories": [
+    {
+      "path": "addons"
+    }
+  ],
+  "namespace": "fda0f2b4047f46ffb4e94d5595c1468e",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-05T17:47:38.306Z",
+  "lastModifiedDate": "2023-09-19T15:14:38.060Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "efa65b91db524cbc92ba861dcdcf6109",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

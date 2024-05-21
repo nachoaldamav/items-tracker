@@ -1,0 +1,32 @@
+{
+  "id": "6322c81dc70d4d48b740e695aee2f2a4",
+  "title": "gasp",
+  "description": "gasp",
+  "categories": [
+    {
+      "path": "addons"
+    }
+  ],
+  "namespace": "7ad5508d382e46228056f1d1a0189ae2",
+  "status": "ACTIVE",
+  "creationDate": "2022-11-23T18:12:37.033Z",
+  "lastModifiedDate": "2022-12-04T04:10:17.620Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "6322c81dc70d4d48b740e695aee2f2a4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Grinding Gear Games",
+  "developerId": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,73 @@
+{
+  "id": "e0092bb7db574f2a99ffe61675fbb0df",
+  "title": "Saturn Alpha",
+  "description": "Saturn Alpha",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7ad5508d382e46228056f1d1a0189ae2",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-19T02:22:44.164Z",
+  "lastModifiedDate": "2023-08-18T09:54:43.557Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "7ad5508d382e46228056f1d1a0189ae2"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SaturnAlpha"
+    }
+  },
+  "entitlementName": "e0092bb7db574f2a99ffe61675fbb0df",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2031df46182644bba4cd4432d57c204e",
+      "appId": "d3889d0e6b1d48d2b0a8c696dc8e6c67",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-18T00:00:00.000Z"
+    }
+  ],
+  "developer": "Grinding Gear Games",
+  "developerId": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

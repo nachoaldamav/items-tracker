@@ -1,0 +1,42 @@
+{
+  "id": "153d34a04d4f47ff9d0d276d8730d12a",
+  "title": "CP_SummerVacationStaging",
+  "description": "CP_SummerVacationStaging",
+  "categories": [
+    {
+      "path": "addons"
+    }
+  ],
+  "namespace": "9c59efaabb6a48f19b3485d5d9416032",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-12T21:29:19.931Z",
+  "lastModifiedDate": "2022-09-12T22:06:44.885Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "153d34a04d4f47ff9d0d276d8730d12a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ebb1e1f791e944f0b56961c8ce7a6a93",
+      "appId": "01348fd9cb384467a966620fe10d7814",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

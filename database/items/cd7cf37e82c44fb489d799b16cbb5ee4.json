@@ -1,0 +1,92 @@
+{
+  "id": "cd7cf37e82c44fb489d799b16cbb5ee4",
+  "title": "Carpathian Mountains",
+  "description": "Carpathian Mountains",
+  "technicalDetails": "Mission6",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/item/Landscape-2560x1440-15b5f538b4ecfbc972903279faeff882.jpg",
+      "md5": "15b5f538b4ecfbc972903279faeff882",
+      "width": 2560,
+      "height": 1440,
+      "size": 945240,
+      "uploadedDate": "2021-01-12T20:49:22.005Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/item/Portrait-1200x1600-95bd6f90bf261163d402bd73b3f192d3.jpg",
+      "md5": "95bd6f90bf261163d402bd73b3f192d3",
+      "width": 1200,
+      "height": 1600,
+      "size": 425768,
+      "uploadedDate": "2021-01-12T20:49:32.159Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ed55aa5edc5941de92fd7f64de415793",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T19:07:02.596Z",
+  "lastModifiedDate": "2023-12-18T17:32:49.164Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ed55aa5edc5941de92fd7f64de415793"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CarpathianMountains"
+    }
+  },
+  "entitlementName": "cd7cf37e82c44fb489d799b16cbb5ee4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1f8b3fd0116044bcbdc294c9db10a586",
+      "appId": "62af9e3ead7a49d59f12ae6196af8117",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-30T00:00:00.000Z"
+    }
+  ],
+  "developer": "IO Interactive",
+  "developerId": "o-ank8fbh38u9uzqbag2a5yt5xexb4yr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

@@ -1,0 +1,73 @@
+{
+  "id": "4b6ad90a7be9494b980d1677696b5c02",
+  "title": "HITMAN 3: Seven Deadly Sins Act 1: Greed",
+  "description": "HITMAN 3: Seven Deadly Sins Act 1: Greed",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/item/EGS_HITMAN3SevenDeadlySinsAct1Greed_IOInteractiveAS_DLC_S1-wide-2560x1440-37213300a92280c66d556c84cdd1b9a7.jpg",
+      "md5": "37213300a92280c66d556c84cdd1b9a7",
+      "width": 2560,
+      "height": 1440,
+      "size": 744193,
+      "uploadedDate": "2021-03-30T00:34:52.423Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/item/EGS_HITMAN3SevenDeadlySinsAct1Greed_IOInteractiveAS_DLC_S2-Tall-1200x1600-a9363435ac19f84c15e4a5d81b0ca242.jpg",
+      "md5": "a9363435ac19f84c15e4a5d81b0ca242",
+      "width": 1200,
+      "height": 1600,
+      "size": 876068,
+      "uploadedDate": "2021-03-30T00:35:07.129Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ed55aa5edc5941de92fd7f64de415793",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-05T03:28:52.991Z",
+  "lastModifiedDate": "2023-01-26T15:00:00.727Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/IO Interactive/Epic/{EpicId}/HITMAN3/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HITMAN3SinGreed"
+    }
+  },
+  "entitlementName": "4b6ad90a7be9494b980d1677696b5c02",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d6af9d8ff8904187977c8268ff052313",
+      "appId": "62b25eaf934c4e9da7b5ff59631a1310",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "IO Interactive",
+  "developerId": "o-ank8fbh38u9uzqbag2a5yt5xexb4yr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567xQOCheZIin0pazB47qGUvZw4",
+  "unsearchable": true
+}

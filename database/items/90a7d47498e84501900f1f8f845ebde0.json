@@ -1,0 +1,70 @@
+{
+  "id": "90a7d47498e84501900f1f8f845ebde0",
+  "title": "HITMAN 3: Seven Deadly Sins Act 6: Envy",
+  "description": "HITMAN 3: Seven Deadly Sins takes you deep into the mind of Agent 47. Get exclusive sin-themed suits and take on brand new challenges to unlock unique rewards.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HITMAN3SevenDeadlySinsAct6Envy_IOInteractiveAS_DLC_S1_2560x1440-9de437e3d443b6960db3814a44b80d74",
+      "md5": "9de437e3d443b6960db3814a44b80d74",
+      "width": 2560,
+      "height": 1440,
+      "size": 785176,
+      "uploadedDate": "2021-09-27T16:28:56.241Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HITMAN3SevenDeadlySinsAct6Envy_IOInteractiveAS_DLC_S2_1200x1600-99eff9d45b467c3976474f5c4ecc6a8c",
+      "md5": "99eff9d45b467c3976474f5c4ecc6a8c",
+      "width": 1200,
+      "height": 1600,
+      "size": 938471,
+      "uploadedDate": "2021-09-27T16:29:01.425Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ed55aa5edc5941de92fd7f64de415793",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-05T03:45:02.631Z",
+  "lastModifiedDate": "2023-12-18T17:32:49.150Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HM3DeadlySinEnvy"
+    }
+  },
+  "entitlementName": "90a7d47498e84501900f1f8f845ebde0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d6af9d8ff8904187977c8268ff052313",
+      "appId": "44d7e02592894e7ea13c048a5a3a47fb",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "IO Interactive",
+  "developerId": "o-ank8fbh38u9uzqbag2a5yt5xexb4yr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": true
+}

@@ -1,0 +1,74 @@
+{
+  "id": "506de60bfc0246809ebf350c99c9ba75",
+  "title": "HITMAN 3: Seven Deadly Sins Act 2: Pride",
+  "description": "Seven Deadly Sins Act 2: Pride",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HITMAN3SevenDeadlySinsAct2Pride_IOInteractiveAS_AddOn_S1_2560x1440-3a4a2e3e4d005799f39bc970b37a4b2a",
+      "md5": "3a4a2e3e4d005799f39bc970b37a4b2a",
+      "width": 2560,
+      "height": 1440,
+      "size": 621947,
+      "uploadedDate": "2021-04-26T18:25:37.975Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HITMAN3SevenDeadlySinsAct2Pride_IOInteractiveAS_AddOn_S2_1200x1600-a4b1531ada515aabb094c2a870cb463f",
+      "md5": "a4b1531ada515aabb094c2a870cb463f",
+      "width": 1200,
+      "height": 1600,
+      "size": 499003,
+      "uploadedDate": "2021-04-26T18:26:22.518Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ed55aa5edc5941de92fd7f64de415793",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-05T03:34:44.868Z",
+  "lastModifiedDate": "2023-01-26T15:00:00.741Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/IO Interactive/Epic/{EpicId}/HITMAN3/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HM3Sin2Pride"
+    }
+  },
+  "entitlementName": "506de60bfc0246809ebf350c99c9ba75",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d6af9d8ff8904187977c8268ff052313",
+      "appId": "45d506212d0441f983fa7d68c5275aac",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "IO Interactive",
+  "developerId": "o-ank8fbh38u9uzqbag2a5yt5xexb4yr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567xQOCheZIin0pazB47qGUvZw4",
+  "unsearchable": true
+}

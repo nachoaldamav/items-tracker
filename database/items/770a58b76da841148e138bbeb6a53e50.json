@@ -1,0 +1,62 @@
+{
+  "id": "770a58b76da841148e138bbeb6a53e50",
+  "title": "The Undying Pack",
+  "description": "The Undying Pack",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/ed55aa5edc5941de92fd7f64de415793/EGS_HITMAN3TheUndyingPack_IOInteractiveAS_DLC_S2_1200x1600-26151c38eb4ea7b6c6cef39538beaa5c",
+      "md5": "26151c38eb4ea7b6c6cef39538beaa5c",
+      "width": 1200,
+      "height": 1600,
+      "size": 359944,
+      "uploadedDate": "2024-03-12T15:25:39.430Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/ed55aa5edc5941de92fd7f64de415793/EGS_HITMAN3TheUndyingPack_IOInteractiveAS_DLC_S1_2560x1440-f0eb64cbe24bdfab02b692b8af02cd7a",
+      "md5": "f0eb64cbe24bdfab02b692b8af02cd7a",
+      "width": 2560,
+      "height": 1440,
+      "size": 558328,
+      "uploadedDate": "2024-03-12T15:25:42.717Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    }
+  ],
+  "namespace": "ed55aa5edc5941de92fd7f64de415793",
+  "status": "ACTIVE",
+  "creationDate": "2024-02-06T21:23:11.292Z",
+  "lastModifiedDate": "2024-03-21T10:30:36.310Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "770a58b76da841148e138bbeb6a53e50",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "170b48a8627545a4b6ddb23d5c0e52ef",
+      "appId": "7d9561df70254fa4be2008465dbdf1f4",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "IO Interactive",
+  "developerId": "o-ank8fbh38u9uzqbag2a5yt5xexb4yr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

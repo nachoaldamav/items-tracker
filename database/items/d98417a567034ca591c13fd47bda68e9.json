@@ -1,0 +1,72 @@
+{
+  "id": "d98417a567034ca591c13fd47bda68e9",
+  "title": "FinchBetaStaging",
+  "description": "FinchBetaStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-14T20:40:47.110Z",
+  "lastModifiedDate": "2020-08-14T20:44:22.324Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "affc33b82405457595a032f00284abd2"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FinchBetaStaging"
+    }
+  },
+  "entitlementName": "d98417a567034ca591c13fd47bda68e9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "dd29e7d85855490aa25ff1a276ff00fa",
+      "appId": "58907e1abae34aa6b552c723110bbf50",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-17T00:00:00.000Z"
+    }
+  ],
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

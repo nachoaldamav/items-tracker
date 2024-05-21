@@ -1,0 +1,89 @@
+{
+  "id": "b25222cac7dc4482b3dd3c02b9201c70",
+  "title": "HITMAN 2 Gold",
+  "description": "HITMAN 2 Gold",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/item/Landscape-2560x1440-26abe28b4a7baed09f3a4be6f1c053e8.jpg",
+      "md5": "26abe28b4a7baed09f3a4be6f1c053e8",
+      "width": 2560,
+      "height": 1440,
+      "size": 808498,
+      "uploadedDate": "2021-01-12T21:22:01.484Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/item/Portrait-1200x1600-aa1dcd0cf896ddd4960f6060d4bfbcaa.jpg",
+      "md5": "aa1dcd0cf896ddd4960f6060d4bfbcaa",
+      "width": 1200,
+      "height": 1600,
+      "size": 504207,
+      "uploadedDate": "2021-01-12T21:22:16.369Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ed55aa5edc5941de92fd7f64de415793",
+  "status": "ACTIVE",
+  "creationDate": "2020-12-08T20:01:07.978Z",
+  "lastModifiedDate": "2023-12-18T17:32:49.158Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ed55aa5edc5941de92fd7f64de415793"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HITMAN2Gold"
+    }
+  },
+  "entitlementName": "b25222cac7dc4482b3dd3c02b9201c70",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1f8b3fd0116044bcbdc294c9db10a586",
+      "appId": "4fe79e040f7d4b76af50d5ce6376c435",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-30T00:00:00.000Z"
+    }
+  ],
+  "developer": "IO Interactive",
+  "developerId": "o-ank8fbh38u9uzqbag2a5yt5xexb4yr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": true
+}

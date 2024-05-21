@@ -1,0 +1,99 @@
+{
+  "id": "c19b2d0c07934a398e6e2c990494b327",
+  "title": "Total War: WARHAMMER II",
+  "description": "Total War: WARHAMMER II",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TotalWarWARHAMMERII_CREATIVEASSEMBLY_S1_2560x1440-787d1d3d23a985419885f094cbefdfd3",
+      "md5": "787d1d3d23a985419885f094cbefdfd3",
+      "width": 2560,
+      "height": 1440,
+      "size": 849714,
+      "uploadedDate": "2022-04-27T14:10:35.313Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TotalWarWARHAMMERII_CREATIVEASSEMBLY_S2_1200x1600-61811df8b4c72ddf37b70438a765d4e9",
+      "md5": "61811df8b4c72ddf37b70438a765d4e9",
+      "width": 1200,
+      "height": 1600,
+      "size": 720156,
+      "uploadedDate": "2022-04-27T14:10:38.717Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0f710ebf203f42e1a26a8bc5cb48709a",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-16T21:26:34.654Z",
+  "lastModifiedDate": "2023-03-27T21:14:33.416Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "0f710ebf203f42e1a26a8bc5cb48709a"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TWWH2"
+    }
+  },
+  "entitlementName": "c19b2d0c07934a398e6e2c990494b327",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e1adc51726974c7d8897f9c3b4b163c4",
+      "appId": "a019487eae90442baa6e2cc84a61447e",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-21T00:00:00.000Z"
+    }
+  ],
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

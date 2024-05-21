@@ -1,0 +1,38 @@
+{
+  "id": "a0021a5001114b41b8857efc6a6d6e7c",
+  "title": "SP_Audience",
+  "description": "SP_Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-14T17:55:42.253Z",
+  "lastModifiedDate": "2021-06-16T15:40:46.709Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "a0021a5001114b41b8857efc6a6d6e7c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": true
+}

@@ -1,0 +1,74 @@
+{
+  "id": "28c5f36067364b5484be6655eaae31fe",
+  "title": "HITMAN 3: Seven Deadly Sins Act 7: Wrath",
+  "description": "HITMAN 3: Seven Deadly Sins Act 7: Wrath",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/ed55aa5edc5941de92fd7f64de415793/EGS_HITMAN3SevenDeadlySinsAct7Wrath_IOInteractiveAS_DLC_S1_2560x1440-8ce368f6f8f89e688cc55abc5c9a7f01_2560x1440-8ce368f6f8f89e688cc55abc5c9a7f01",
+      "md5": "8ce368f6f8f89e688cc55abc5c9a7f01",
+      "width": 2560,
+      "height": 1440,
+      "size": 894626,
+      "uploadedDate": "2021-10-26T12:58:42.949Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/ed55aa5edc5941de92fd7f64de415793/EGS_HITMAN3SevenDeadlySinsAct7Wrath_IOInteractiveAS_DLC_S2_1200x1600-429bee43ed28015978e80542e898a0dc_1200x1600-429bee43ed28015978e80542e898a0dc",
+      "md5": "429bee43ed28015978e80542e898a0dc",
+      "width": 1200,
+      "height": 1600,
+      "size": 525444,
+      "uploadedDate": "2021-10-26T12:58:38.756Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ed55aa5edc5941de92fd7f64de415793",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-05T03:46:59.224Z",
+  "lastModifiedDate": "2023-01-26T15:00:00.698Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/IO Interactive/Epic/{EpicId}/HITMAN3/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HM3DeadlySinWrath"
+    }
+  },
+  "entitlementName": "28c5f36067364b5484be6655eaae31fe",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d6af9d8ff8904187977c8268ff052313",
+      "appId": "6a7355607ef441e4934674329f2b0be8",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "IO Interactive",
+  "developerId": "o-ank8fbh38u9uzqbag2a5yt5xexb4yr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567xQOCheZIin0pazB47qGUvZw4",
+  "unsearchable": true
+}

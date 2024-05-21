@@ -1,0 +1,85 @@
+{
+  "id": "37bdf2283730476b89fa027acfab7491",
+  "title": "Metalstorm",
+  "description": "Metalstorm",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/dc09ae8f1aa445b7853b5300c2345d81/EGS_Metalstorm_Starform_S1_2560x1440-df32d566bf58428a6ba7115109aeaac0",
+      "md5": "df32d566bf58428a6ba7115109aeaac0",
+      "width": 2560,
+      "height": 1440,
+      "size": 508780,
+      "uploadedDate": "2023-04-11T11:44:00.584Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/dc09ae8f1aa445b7853b5300c2345d81/EGS_Metalstorm_Starform_S2_1200x1600-1ff27afbdd495badc021b65823cb8cdb",
+      "md5": "1ff27afbdd495badc021b65823cb8cdb",
+      "width": 1200,
+      "height": 1600,
+      "size": 589070,
+      "uploadedDate": "2023-04-11T11:44:03.059Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "dc09ae8f1aa445b7853b5300c2345d81",
+  "status": "ACTIVE",
+  "creationDate": "2023-06-05T19:33:13.237Z",
+  "lastModifiedDate": "2024-04-12T17:02:33.418Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "dc09ae8f1aa445b7853b5300c2345d81"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Metalstorm"
+    }
+  },
+  "entitlementName": "37bdf2283730476b89fa027acfab7491",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "521aa492583a4604938f06e6ab57baa6",
+      "appId": "8b6a0e1413744785a43c9f9f9547b4d6",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Starform Inc.",
+  "developerId": "o-mcvmu82m6mwl5ja3he6e8mwwwsslx9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

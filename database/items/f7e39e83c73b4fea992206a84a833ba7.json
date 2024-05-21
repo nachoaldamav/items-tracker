@@ -1,0 +1,40 @@
+{
+  "id": "f7e39e83c73b4fea992206a84a833ba7",
+  "title": "CP_StormTrooperWatermarked",
+  "description": "CP_StormTrooperWatermarked",
+  "categories": [
+    {
+      "path": "addons"
+    }
+  ],
+  "namespace": "9c59efaabb6a48f19b3485d5d9416032",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-28T12:16:26.283Z",
+  "lastModifiedDate": "2022-04-05T16:56:50.894Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "f7e39e83c73b4fea992206a84a833ba7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b537dceba8b145818a3943ea99277a27",
+      "appId": "f9adf95fb036429a879e2825daebe8a0",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

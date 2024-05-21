@@ -1,7 +1,27 @@
 {
   "id": "385e1e3cc5d34c1b9f6fc5610cf60e69",
-  "title": "Brussels",
-  "description": "Brussels",
+  "title": "ARC Raiders",
+  "description": "ARC Raiders",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/b4bb52a95d0b43d9af543c6ec3c54e04/EGS_ARCRaiders_EmbarkStudios_S1_2560x1440-9c7de2c72b31a6332a78713c7dd2a473_2560x1440-9c7de2c72b31a6332a78713c7dd2a473",
+      "md5": "9c7de2c72b31a6332a78713c7dd2a473",
+      "width": 2560,
+      "height": 1440,
+      "size": 743503,
+      "uploadedDate": "2021-12-09T00:00:19.126Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/b4bb52a95d0b43d9af543c6ec3c54e04/EGS_ARCRaiders_EmbarkStudios_S2_1200x1600-6a51c07f26c407dc20cfc5770cfe6229_1200x1600-6a51c07f26c407dc20cfc5770cfe6229",
+      "md5": "6a51c07f26c407dc20cfc5770cfe6229",
+      "width": 1200,
+      "height": 1600,
+      "size": 944735,
+      "uploadedDate": "2021-12-09T00:00:27.170Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,7 +36,7 @@
   "namespace": "b4bb52a95d0b43d9af543c6ec3c54e04",
   "status": "ACTIVE",
   "creationDate": "2020-06-12T16:43:57.513Z",
-  "lastModifiedDate": "2020-11-02T20:39:39.872Z",
+  "lastModifiedDate": "2021-12-10T03:55:29.116Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,7 +64,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Brussels"
+      "value": "ARCRaiders"
     }
   },
   "entitlementName": "385e1e3cc5d34c1b9f6fc5610cf60e69",
@@ -65,8 +85,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
   "applicationId": "fghi4567c2nRSjRzIcOF6yhA8NdsXBtQ",
-  "unsearchable": false
+  "unsearchable": true
 }

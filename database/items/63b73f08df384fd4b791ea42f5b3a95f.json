@@ -1,0 +1,56 @@
+{
+  "id": "63b73f08df384fd4b791ea42f5b3a95f",
+  "title": "BrusselsUXR",
+  "description": "BrusselsUXR",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b4bb52a95d0b43d9af543c6ec3c54e04",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-02T04:24:38.041Z",
+  "lastModifiedDate": "2021-09-02T04:41:07.200Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BrusselsUXR"
+    }
+  },
+  "entitlementName": "63b73f08df384fd4b791ea42f5b3a95f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5120f36fc9e24822b332328bdb8275eb",
+      "appId": "ef66328e52bd4f9892fa163d6e0eee9d",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "Embark Studios AB",
+  "developerId": "o-wct448k64rpcjqfxbrhd3zleztl663",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

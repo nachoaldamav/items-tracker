@@ -1,0 +1,76 @@
+{
+  "id": "601fe7f02792434c94c6ed63e3d97644",
+  "title": "Bardic Inspiration Vol 1.5 Soundtrack",
+  "description": "Bardic Inspiration Vol 1.5 Soundtrack",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/7e508f543b05465abe3a935960eb70ac/s1_idle_2560x1440-da2e95825697abebe73c45609891d981",
+      "md5": "da2e95825697abebe73c45609891d981",
+      "width": 2560,
+      "height": 1440,
+      "size": 324967,
+      "uploadedDate": "2023-07-24T13:36:11.686Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/7e508f543b05465abe3a935960eb70ac/s2_idle_1200x1600-2f0307e22a82d335c52c1af1c26fcea7",
+      "md5": "2f0307e22a82d335c52c1af1c26fcea7",
+      "width": 1200,
+      "height": 1600,
+      "size": 181144,
+      "uploadedDate": "2023-07-24T13:36:14.984Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7e508f543b05465abe3a935960eb70ac",
+  "status": "ACTIVE",
+  "creationDate": "2021-10-06T21:05:39.189Z",
+  "lastModifiedDate": "2023-07-24T13:36:17.370Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "IdleChampionsOST"
+    }
+  },
+  "entitlementName": "601fe7f02792434c94c6ed63e3d97644",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "beb1db08d90b420e981e950d78f5cd9e",
+      "appId": "df31963225f54e8ba2de54f0153de412",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Win32"
+      ],
+      "dateAdded": "2020-10-15T00:00:00.000Z"
+    }
+  ],
+  "developer": "Codename Entertainment",
+  "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567wjWymifPzKkVgt3WIe5Guq35",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

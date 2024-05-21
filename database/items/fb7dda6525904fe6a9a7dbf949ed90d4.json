@@ -1,0 +1,62 @@
+{
+  "id": "fb7dda6525904fe6a9a7dbf949ed90d4",
+  "title": "Street Art Pack",
+  "description": "Street Art Pack",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/offer/ed55aa5edc5941de92fd7f64de415793/EGS_HITMAN3StreetArtPack_IOInteractiveAS_DLC_S1_2560x1440-32dfee03251a89f8cb81dc92f45bb9bf",
+      "md5": "32dfee03251a89f8cb81dc92f45bb9bf",
+      "width": 2560,
+      "height": 1440,
+      "size": 771636,
+      "uploadedDate": "2023-01-26T18:07:02.413Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/offer/ed55aa5edc5941de92fd7f64de415793/EGS_HITMAN3StreetArtPack_IOInteractiveAS_DLC_S2_1200x1600-18944d1941772f95e4dcbae374a04fba",
+      "md5": "18944d1941772f95e4dcbae374a04fba",
+      "width": 1200,
+      "height": 1600,
+      "size": 735596,
+      "uploadedDate": "2023-01-26T18:07:15.127Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    }
+  ],
+  "namespace": "ed55aa5edc5941de92fd7f64de415793",
+  "status": "ACTIVE",
+  "creationDate": "2022-10-19T21:55:12.225Z",
+  "lastModifiedDate": "2023-12-18T17:32:49.171Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "fb7dda6525904fe6a9a7dbf949ed90d4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3bfb4f14dec04af09b45a9018b7670b2",
+      "appId": "71d0781364744baeb047045c872005f8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "IO Interactive",
+  "developerId": "o-ank8fbh38u9uzqbag2a5yt5xexb4yr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

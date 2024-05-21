@@ -1,0 +1,94 @@
+{
+  "id": "709536796ff5489a97c4574b9d6bda24",
+  "title": "LEGO® Star Wars™: The Skywalker Saga",
+  "description": "LEGO® Star Wars™: The Skywalker Saga",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/9c59efaabb6a48f19b3485d5d9416032/EGS_LEGOStarWarsTheSkywalkerSaga_TTGames_S2_1200x1600-fba27b1ae598e355c3ad42d04d9025ba",
+      "md5": "fba27b1ae598e355c3ad42d04d9025ba",
+      "width": 1200,
+      "height": 1600,
+      "size": 905997,
+      "uploadedDate": "2022-03-16T18:59:03.722Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/9c59efaabb6a48f19b3485d5d9416032/EGS_LEGOStarWarsTheSkywalkerSaga_TTGames_S1_2560x1440_2560x1440-ae89e9c91aec1e461148f93f25b828ed",
+      "md5": "ae89e9c91aec1e461148f93f25b828ed",
+      "width": 2560,
+      "height": 1440,
+      "size": 975965,
+      "uploadedDate": "2022-04-07T22:33:50.432Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9c59efaabb6a48f19b3485d5d9416032",
+  "status": "ACTIVE",
+  "creationDate": "2022-01-26T19:01:11.769Z",
+  "lastModifiedDate": "2022-11-01T17:22:07.036Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "9c59efaabb6a48f19b3485d5d9416032"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Warner Bros. Interactive Entertainment/LEGO Star Wars - The Skywalker Saga/SAVEDGAMES/EPIC/{EpicID}/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LEGOStarWarsTSS"
+    }
+  },
+  "entitlementName": "709536796ff5489a97c4574b9d6bda24",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3aa8aa4f0af948468c7296c4ae99dc5c",
+      "appId": "c390e58246ea4a778acd26473a489b48",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

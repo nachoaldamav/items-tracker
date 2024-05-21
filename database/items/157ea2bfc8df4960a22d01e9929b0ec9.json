@@ -33,7 +33,7 @@
   "namespace": "conanexiles",
   "status": "ACTIVE",
   "creationDate": "2020-05-20T14:43:51.665Z",
-  "lastModifiedDate": "2021-11-16T06:38:52.287Z",
+  "lastModifiedDate": "2021-11-23T17:27:00.046Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -82,7 +82,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
-  "unsearchable": false
+  "applicationId": "",
+  "unsearchable": true
 }

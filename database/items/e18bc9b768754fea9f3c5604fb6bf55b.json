@@ -1,0 +1,72 @@
+{
+  "id": "e18bc9b768754fea9f3c5604fb6bf55b",
+  "title": "Finch Soundtrack Staging",
+  "description": "Finch Soundtrack Staging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-17T20:20:11.408Z",
+  "lastModifiedDate": "2020-07-09T14:57:59.422Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "affc33b82405457595a032f00284abd2"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FinchSoundtrack"
+    }
+  },
+  "entitlementName": "e18bc9b768754fea9f3c5604fb6bf55b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "dd29e7d85855490aa25ff1a276ff00fa",
+      "appId": "c9e9c13d98de4df5933320af69a9dc4b",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-17T00:00:00.000Z"
+    }
+  ],
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

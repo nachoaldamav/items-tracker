@@ -1,0 +1,76 @@
+{
+  "id": "573af74f96ae4fafbcc886dbf6400edb",
+  "title": "Football Manager 2024 Demo",
+  "description": "Football Manager 2024 Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/610a546d4e204215a0b9a1c8a382bacb/EGS_FootballManager2024Demo_SportsInteractive_Demo_S1_2560x1440-52c475c63a370f60822100e6e2a70da8",
+      "md5": "52c475c63a370f60822100e6e2a70da8",
+      "width": 2560,
+      "height": 1440,
+      "size": 973691,
+      "uploadedDate": "2023-10-20T17:49:54.919Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/610a546d4e204215a0b9a1c8a382bacb/EGS_FootballManager2024Demo_SportsInteractive_Demo_S2_1200x1600-ec18bfdc90151a6b5e19974791f97f50",
+      "md5": "ec18bfdc90151a6b5e19974791f97f50",
+      "width": 1200,
+      "height": 1600,
+      "size": 820287,
+      "uploadedDate": "2023-10-20T17:49:58.287Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "610a546d4e204215a0b9a1c8a382bacb",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-27T23:44:04.695Z",
+  "lastModifiedDate": "2023-11-06T14:57:29.102Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FM24Demo"
+    }
+  },
+  "entitlementName": "573af74f96ae4fafbcc886dbf6400edb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0ecba86cc0c9443db754e6b68674b38b",
+      "appId": "8522c64b33c943b39dd9a2be63c1d3b0",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2023-07-31T13:53:10.160Z"
+    }
+  ],
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

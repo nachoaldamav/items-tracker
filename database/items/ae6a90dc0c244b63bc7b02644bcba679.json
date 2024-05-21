@@ -1,0 +1,59 @@
+{
+  "id": "ae6a90dc0c244b63bc7b02644bcba679",
+  "title": "RagdollStaging",
+  "description": "RagdollStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "213259527d2f41baa90cbe0ae5555271",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-15T18:51:09.180Z",
+  "lastModifiedDate": "2020-11-04T21:17:58.125Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Kalypso Media/Dungeons 3/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "savegames/,config-cloud.cfg,keybindings-*.txt"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RagdollStaging"
+    }
+  },
+  "entitlementName": "ae6a90dc0c244b63bc7b02644bcba679",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f64e616ce4e74592a9cbcd497a78375a",
+      "appId": "782bbba89f224535b954700645367d35",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

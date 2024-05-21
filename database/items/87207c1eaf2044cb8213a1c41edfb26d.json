@@ -1,0 +1,75 @@
+{
+  "id": "87207c1eaf2044cb8213a1c41edfb26d",
+  "title": "Brussels_CommunityPlaytest",
+  "description": "Brussels_CommunityPlaytest",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/b4bb52a95d0b43d9af543c6ec3c54e04/EGS_ARCRaiders_EmbarkStudios_S1_2560x1440-9c7de2c72b31a6332a78713c7dd2a473_2560x1440-9c7de2c72b31a6332a78713c7dd2a473",
+      "md5": "9c7de2c72b31a6332a78713c7dd2a473",
+      "width": 2560,
+      "height": 1440,
+      "size": 743503,
+      "uploadedDate": "2022-05-16T20:01:18.431Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/b4bb52a95d0b43d9af543c6ec3c54e04/EGS_ARCRaiders_EmbarkStudios_S2_1200x1600-6a51c07f26c407dc20cfc5770cfe6229_1200x1600-6a51c07f26c407dc20cfc5770cfe6229",
+      "md5": "6a51c07f26c407dc20cfc5770cfe6229",
+      "width": 1200,
+      "height": 1600,
+      "size": 944735,
+      "uploadedDate": "2022-05-16T20:01:30.568Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b4bb52a95d0b43d9af543c6ec3c54e04",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-02T04:25:56.974Z",
+  "lastModifiedDate": "2022-05-19T19:16:30.812Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BrusselsCommunityPlaytest"
+    }
+  },
+  "entitlementName": "87207c1eaf2044cb8213a1c41edfb26d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f02c520bbc924382a424c7f583e6c91d",
+      "appId": "cd0a36e5b3b84b20926d58f5d79b5ad2",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "Embark Studios AB",
+  "developerId": "o-wct448k64rpcjqfxbrhd3zleztl663",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567c2nRSjRzIcOF6yhA8NdsXBtQ",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

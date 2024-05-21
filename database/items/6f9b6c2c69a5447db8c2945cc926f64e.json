@@ -1,0 +1,94 @@
+{
+  "id": "6f9b6c2c69a5447db8c2945cc926f64e",
+  "title": "Armored Warfare",
+  "description": "Armored Warfare",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/4a1a1ef1-5477-4559-b133-617ff13696a7_2560x1440-e88eb8f55a98c97d435840f85b15f0b1",
+      "md5": "e88eb8f55a98c97d435840f85b15f0b1",
+      "width": 2560,
+      "height": 1440,
+      "size": 304098,
+      "uploadedDate": "2021-05-24T21:34:48.071Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/3eea8941-8aa8-45e9-bb7a-3b0a4914a0d4_1200x1600-676900003da381cf00278052b83524dd",
+      "md5": "676900003da381cf00278052b83524dd",
+      "width": 1200,
+      "height": 1600,
+      "size": 150286,
+      "uploadedDate": "2021-05-24T21:34:57.918Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "870929e8b7fb4e2b986c1a3f0a6ff38d",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-15T08:48:44.902Z",
+  "lastModifiedDate": "2022-04-21T12:02:29.477Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "870929e8b7fb4e2b986c1a3f0a6ff38d"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ArmoredWarfare"
+    }
+  },
+  "entitlementName": "6f9b6c2c69a5447db8c2945cc926f64e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e108472662ae47a5b1ff0b1a04c58315",
+      "appId": "cd8c906fa00d4e45b51e35dd8d800e6f",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-01-15T00:00:00.000Z"
+    }
+  ],
+  "developer": "Postmeta Games",
+  "developerId": "o-ptrc3tlq66gg7gsku56pwafjwzs23b",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567fKsr46KFIM8kIzrsgYvkz6CV",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,40 @@
+{
+  "id": "636b22b33a5b4d6990309da468752e73",
+  "title": "CP_SoloStoryStaging",
+  "description": "CP_SoloStoryStaging",
+  "categories": [
+    {
+      "path": "addons"
+    }
+  ],
+  "namespace": "9c59efaabb6a48f19b3485d5d9416032",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-25T14:36:12.312Z",
+  "lastModifiedDate": "2022-04-05T16:56:50.868Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "636b22b33a5b4d6990309da468752e73",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2c349683d1fc4f73a3067731f8c2b681",
+      "appId": "098a5146cb9c4e84bb317ac02c2c4eb4",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,40 @@
+{
+  "id": "e09b0884d8b54178aff5b05a2fde3b54",
+  "title": "CP_TheBookOfBobaFettStaging",
+  "description": "CP_TheBookOfBobaFettStaging",
+  "categories": [
+    {
+      "path": "addons"
+    }
+  ],
+  "namespace": "9c59efaabb6a48f19b3485d5d9416032",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-12T22:03:50.707Z",
+  "lastModifiedDate": "2022-09-12T22:03:50.707Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "e09b0884d8b54178aff5b05a2fde3b54",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f31c2fb4ee254ce586ceb131d1ce9842",
+      "appId": "ab577adf45a7429c842c32a69710a8dc",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

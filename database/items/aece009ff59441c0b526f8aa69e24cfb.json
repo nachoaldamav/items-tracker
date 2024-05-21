@@ -1,0 +1,35 @@
+{
+  "id": "aece009ff59441c0b526f8aa69e24cfb",
+  "title": "EiderSin03Audience",
+  "description": "EiderSin03Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ed55aa5edc5941de92fd7f64de415793",
+  "status": "ACTIVE",
+  "creationDate": "2021-02-05T03:38:28.704Z",
+  "lastModifiedDate": "2023-12-18T17:32:49.157Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "aece009ff59441c0b526f8aa69e24cfb",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "IO Interactive",
+  "developerId": "o-ank8fbh38u9uzqbag2a5yt5xexb4yr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

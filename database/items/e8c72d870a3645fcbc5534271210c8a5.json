@@ -1,0 +1,67 @@
+{
+  "id": "e8c72d870a3645fcbc5534271210c8a5",
+  "title": "LEGO® Star Wars™: Classic Obi-Wan",
+  "description": "LEGO® Star Wars™: Classic Obi-Wan",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/9c59efaabb6a48f19b3485d5d9416032/EN_TTGames_LSWSS_Obi_Wan_CP_S3_2560x1440_22_0311 (1)_2560x1440-cf290c43f32bc30b613f187e051b4f6f",
+      "md5": "cf290c43f32bc30b613f187e051b4f6f",
+      "width": 2560,
+      "height": 1440,
+      "size": 857203,
+      "uploadedDate": "2022-03-16T19:17:42.143Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/9c59efaabb6a48f19b3485d5d9416032/EN_TTGames_LSWSS_Obi_Wan_CP_S4_1200x1600_22_0311 (1)_1200x1600-27ea71b15a6305dd810aa0429baed571",
+      "md5": "27ea71b15a6305dd810aa0429baed571",
+      "width": 1200,
+      "height": 1600,
+      "size": 672693,
+      "uploadedDate": "2022-03-16T19:17:46.204Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    }
+  ],
+  "namespace": "9c59efaabb6a48f19b3485d5d9416032",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-02T17:57:01.283Z",
+  "lastModifiedDate": "2022-11-01T17:22:07.071Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LSWClassicObiWan"
+    }
+  },
+  "entitlementName": "e8c72d870a3645fcbc5534271210c8a5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fca4508220034c7da956f34f4725ab5b",
+      "appId": "7b40d89dd2cb4f439e00d4ab81188f3b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

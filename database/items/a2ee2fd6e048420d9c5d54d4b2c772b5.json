@@ -1,0 +1,40 @@
+{
+  "id": "a2ee2fd6e048420d9c5d54d4b2c772b5",
+  "title": "CP_SoloStoryWatermarked",
+  "description": "CP_SoloStoryWatermarked",
+  "categories": [
+    {
+      "path": "addons"
+    }
+  ],
+  "namespace": "9c59efaabb6a48f19b3485d5d9416032",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-28T12:14:24.063Z",
+  "lastModifiedDate": "2022-04-05T16:56:50.885Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "a2ee2fd6e048420d9c5d54d4b2c772b5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "731e668bbe7e41308a1296f0d340864f",
+      "appId": "beb5c44345274b94964198faee70d21a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

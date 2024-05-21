@@ -1,0 +1,88 @@
+{
+  "id": "20fc193bb7524a67b6c7712facac50e6",
+  "title": "HITMAN 1 Complete First Season",
+  "description": "HITMAN 1 Complete First Season",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/item/Landscape-2560x1440-c87d5b823cfed03aea63b3a8416567a9.jpg",
+      "md5": "c87d5b823cfed03aea63b3a8416567a9",
+      "width": 2560,
+      "height": 1440,
+      "size": 1453297,
+      "uploadedDate": "2021-01-12T21:24:12.236Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/item/Portrait-1200x1600-f5ba53854eda79db23584f58dc14c855.jpg",
+      "md5": "f5ba53854eda79db23584f58dc14c855",
+      "width": 1200,
+      "height": 1600,
+      "size": 735986,
+      "uploadedDate": "2021-01-12T21:24:24.557Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ed55aa5edc5941de92fd7f64de415793",
+  "status": "ACTIVE",
+  "creationDate": "2020-12-08T20:07:27.640Z",
+  "lastModifiedDate": "2023-01-26T15:00:00.675Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ed55aa5edc5941de92fd7f64de415793"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HITMAN1CFS"
+    }
+  },
+  "entitlementName": "20fc193bb7524a67b6c7712facac50e6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1f8b3fd0116044bcbdc294c9db10a586",
+      "appId": "4145c668a0c94f1db16de2cbfbc60309",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-30T00:00:00.000Z"
+    }
+  ],
+  "developer": "IO Interactive",
+  "developerId": "o-ank8fbh38u9uzqbag2a5yt5xexb4yr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

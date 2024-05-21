@@ -1,0 +1,67 @@
+{
+  "id": "63d06a59b49a46268c5289d473d78d48",
+  "title": "LEGO® Star Wars™: The Bad Batch Character Pack",
+  "description": "LEGO® Star Wars™: The Bad Batch Character Pack",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/9c59efaabb6a48f19b3485d5d9416032/EGS_LEGOStarWarsTheBadBatchCharacterPack_TTGames_DLC_S2_1200x1600-1a78a2a99e2cdd4cffcf7f9f3918f6e1",
+      "md5": "1a78a2a99e2cdd4cffcf7f9f3918f6e1",
+      "width": 1200,
+      "height": 1600,
+      "size": 779364,
+      "uploadedDate": "2022-03-16T20:35:20.268Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/9c59efaabb6a48f19b3485d5d9416032/EGS_LEGOStarWarsTheBadBatchCharacterPack_TTGames_DLC_S1_2560x1440-0626a60eef8b50bdba1c216ce2b02923_2560x1440-0626a60eef8b50bdba1c216ce2b02923",
+      "md5": "0626a60eef8b50bdba1c216ce2b02923",
+      "width": 2560,
+      "height": 1440,
+      "size": 828494,
+      "uploadedDate": "2022-04-07T17:16:06.366Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    }
+  ],
+  "namespace": "9c59efaabb6a48f19b3485d5d9416032",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-02T18:00:38.642Z",
+  "lastModifiedDate": "2022-11-01T17:22:07.025Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LSWBadBatchPack"
+    }
+  },
+  "entitlementName": "63d06a59b49a46268c5289d473d78d48",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e524aad434c3422aa3756cbc6b9ce534",
+      "appId": "2bf1ef35571a48e79158ddf2ee146aa1",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

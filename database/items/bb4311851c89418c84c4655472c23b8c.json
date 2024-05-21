@@ -5,22 +5,22 @@
   "longDescription": "Control AWE DLC Demo [Review]",
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/calluna/item/CONTROL_logo_shadow-670x212-670x212-676c3d62788f269f00819451130394e3.png",
-      "md5": "676c3d62788f269f00819451130394e3",
-      "width": 670,
-      "height": 212,
-      "size": 28205,
-      "uploadedDate": "2019-12-11T18:13:14.922Z"
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/calluna/Control_Landscape_Image_2560X1440_2560x1440-ec7b2eb03bb70f61d17ed01fa76d95a6",
+      "md5": "ec7b2eb03bb70f61d17ed01fa76d95a6",
+      "width": 2560,
+      "height": 1440,
+      "size": 586904,
+      "uploadedDate": "2022-11-09T16:19:04.595Z"
     },
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/calluna/item/Control_Primary-Promo-2580x1450-2580x1450-462c24fa8565931a0f5a99516979b946.jpg",
-      "md5": "462c24fa8565931a0f5a99516979b946",
-      "width": 2580,
-      "height": 1450,
-      "size": 199509,
-      "uploadedDate": "2019-12-11T18:13:23.264Z"
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/calluna/Control_Portrait_Storefront_1200X1600_1200x1600-456c920cae7a0aa9b36670cd5e1237a1",
+      "md5": "456c920cae7a0aa9b36670cd5e1237a1",
+      "width": 1200,
+      "height": 1600,
+      "size": 455123,
+      "uploadedDate": "2022-11-09T16:19:01.823Z"
     }
   ],
   "categories": [
@@ -34,7 +34,7 @@
   "namespace": "calluna",
   "status": "ACTIVE",
   "creationDate": "2020-08-25T17:44:32.701Z",
-  "lastModifiedDate": "2020-08-27T14:49:37.702Z",
+  "lastModifiedDate": "2022-11-09T16:19:07.645Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -88,5 +88,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": true
 }

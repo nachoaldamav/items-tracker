@@ -1,0 +1,91 @@
+{
+  "id": "825ef20ca1df48eeb9de36f673f81872",
+  "title": "Animation Throwdown: The Quest for Cards",
+  "description": "Animation Throwdown: The Quest for Cards",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AnimationThrowdownTheQuestforCards_Kongregate_S1_2560x1440-277cc591ebae1b733623971aed289ac2",
+      "md5": "277cc591ebae1b733623971aed289ac2",
+      "width": 2560,
+      "height": 1440,
+      "size": 987555,
+      "uploadedDate": "2021-10-04T15:53:35.393Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AnimationThrowdownTheQuestforCards_Kongregate_S2_1200x1600-a760979bd1363d6f507e9f0325efe95e",
+      "md5": "a760979bd1363d6f507e9f0325efe95e",
+      "width": 1200,
+      "height": 1600,
+      "size": 1008154,
+      "uploadedDate": "2021-10-04T15:53:42.915Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1fe9a1a33a8b4df8bd8dd3b9269f8153",
+  "status": "ACTIVE",
+  "creationDate": "2024-03-29T19:51:56.528Z",
+  "lastModifiedDate": "2024-05-20T16:10:27.128Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "1fe9a1a33a8b4df8bd8dd3b9269f8153"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AnimationThrowdown"
+    }
+  },
+  "entitlementName": "825ef20ca1df48eeb9de36f673f81872",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8a6795e2fad1493fabe14eea619078be",
+      "appId": "feb451892b70438899408915c1fd96df",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Kongregate",
+  "developerId": "o-ztdpxjrm7lyemkjl4967l76k4vzxfr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567OkwdEU6Xc1fqqkpUc5n9oMJL",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,85 @@
+{
+  "id": "c68c315ea79c4954b18003b23e96f0d9",
+  "title": "HITMAN 3 - Trinity Pack",
+  "description": "HITMAN 3 - Trinity Pack",
+  "longDescription": "HITMAN 3 Bonus Suit Pack - pre-purchase bonus",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/ed55aa5edc5941de92fd7f64de415793/EGS_HITMAN3TrinityPack_IOInteractiveAS_DLC_S2_1200x1600-d3fee4f9059d509191ab194c61a89874_1200x1600-d3fee4f9059d509191ab194c61a89874",
+      "md5": "d3fee4f9059d509191ab194c61a89874",
+      "width": 1200,
+      "height": 1600,
+      "size": 361867,
+      "uploadedDate": "2023-08-30T19:13:55.445Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/ed55aa5edc5941de92fd7f64de415793/EGS_HITMAN3TrinityPack_IOInteractiveAS_DLC_S1_2560x1440-053e3a58b6266087b842733faa4be50c_2560x1440-053e3a58b6266087b842733faa4be50c",
+      "md5": "053e3a58b6266087b842733faa4be50c",
+      "width": 2560,
+      "height": 1440,
+      "size": 362803,
+      "uploadedDate": "2023-08-30T19:13:58.096Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    }
+  ],
+  "namespace": "ed55aa5edc5941de92fd7f64de415793",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-04T16:17:41.960Z",
+  "lastModifiedDate": "2023-12-18T17:32:49.162Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ed55aa5edc5941de92fd7f64de415793"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "c68c315ea79c4954b18003b23e96f0d9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0a489296be3d473ca7cc7adf941ace61",
+      "appId": "EiderBonusSuitPack",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "IO Interactive",
+  "developerId": "o-ank8fbh38u9uzqbag2a5yt5xexb4yr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": true
+}

@@ -1,0 +1,40 @@
+{
+  "id": "0231b4639c03414087e2f983ccd6e621",
+  "title": "CP_1stPartyPurchaseStaging",
+  "description": "CP_1stPartyPurchaseStaging",
+  "categories": [
+    {
+      "path": "addons"
+    }
+  ],
+  "namespace": "9c59efaabb6a48f19b3485d5d9416032",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-25T14:37:22.791Z",
+  "lastModifiedDate": "2022-04-05T16:56:50.871Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "0231b4639c03414087e2f983ccd6e621",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "89e6ef49042e450c92fdcddc5e9998a5",
+      "appId": "97446a906c3a4fa98a3942cedce8bab6",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

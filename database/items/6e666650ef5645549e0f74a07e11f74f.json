@@ -1,0 +1,56 @@
+{
+  "id": "6e666650ef5645549e0f74a07e11f74f",
+  "title": "FinchStagingMadrid",
+  "description": "FinchStagingMadrid",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T14:22:49.966Z",
+  "lastModifiedDate": "2020-07-09T14:57:59.421Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../Roaming/KF2/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FinchStagingMadrid"
+    }
+  },
+  "entitlementName": "6e666650ef5645549e0f74a07e11f74f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7aab58ee5ba3447a8fa870cf241d5065",
+      "appId": "1c720e8baf384afcbb7947086cdf197d",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-17T00:00:00.000Z"
+    }
+  ],
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

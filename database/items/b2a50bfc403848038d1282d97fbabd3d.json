@@ -1,0 +1,89 @@
+{
+  "id": "b2a50bfc403848038d1282d97fbabd3d",
+  "title": "Berlin",
+  "description": "Berlin",
+  "technicalDetails": "Mission 3",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/item/Landscape-2560x1440-36cf54d4e5c35db562dedfa77d3ef976.jpg",
+      "md5": "36cf54d4e5c35db562dedfa77d3ef976",
+      "width": 2560,
+      "height": 1440,
+      "size": 1102672,
+      "uploadedDate": "2021-01-05T23:05:37.733Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/item/Portrait-1200x1600-8386d87ceb2eb722f3d4051fa66a2354.jpg",
+      "md5": "8386d87ceb2eb722f3d4051fa66a2354",
+      "width": 1200,
+      "height": 1600,
+      "size": 495568,
+      "uploadedDate": "2021-01-05T23:05:47.517Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ed55aa5edc5941de92fd7f64de415793",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T18:57:18.281Z",
+  "lastModifiedDate": "2023-12-18T17:32:49.159Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ed55aa5edc5941de92fd7f64de415793"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Berlin"
+    }
+  },
+  "entitlementName": "b2a50bfc403848038d1282d97fbabd3d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1f8b3fd0116044bcbdc294c9db10a586",
+      "appId": "a94eddb97c72495f95350ce8840642b9",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-30T00:00:00.000Z"
+    }
+  ],
+  "developer": "IO Interactive",
+  "developerId": "o-ank8fbh38u9uzqbag2a5yt5xexb4yr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

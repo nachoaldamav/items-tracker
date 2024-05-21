@@ -1,0 +1,56 @@
+{
+  "id": "0c4e361d78b948c1911cfa543041bea8",
+  "title": "BrusselsNexon",
+  "description": "BrusselsNexon",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b4bb52a95d0b43d9af543c6ec3c54e04",
+  "status": "ACTIVE",
+  "creationDate": "2021-09-02T04:24:14.021Z",
+  "lastModifiedDate": "2021-09-02T04:41:07.199Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BrusselsNexon"
+    }
+  },
+  "entitlementName": "0c4e361d78b948c1911cfa543041bea8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7e6cb7827dbf4ce3ac722c114ae8aff3",
+      "appId": "8f1c4edb4e59485ab9f11152fe9e2cd7",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "Embark Studios AB",
+  "developerId": "o-wct448k64rpcjqfxbrhd3zleztl663",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

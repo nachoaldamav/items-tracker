@@ -42,7 +42,7 @@
   "namespace": "wex",
   "status": "ACTIVE",
   "creationDate": "2016-08-10T17:22:25.371Z",
-  "lastModifiedDate": "2020-07-21T19:07:24.044Z",
+  "lastModifiedDate": "2022-02-14T19:52:45.988Z",
   "customAttributes": {
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
@@ -72,7 +72,9 @@
   "eulaIds": [
     "egstore"
   ],
+  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
-  "unsearchable": false
+  "applicationId": "",
+  "unsearchable": true
 }

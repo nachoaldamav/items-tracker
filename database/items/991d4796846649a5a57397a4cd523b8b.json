@@ -1,0 +1,62 @@
+{
+  "id": "991d4796846649a5a57397a4cd523b8b",
+  "title": "UNO® 50th Anniversary DLC",
+  "description": "UNO® 50th Anniversary DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ca93b6d41a4e41af864942d8f0a2a826",
+  "status": "ACTIVE",
+  "creationDate": "2021-06-01T22:04:37.030Z",
+  "lastModifiedDate": "2022-03-10T19:56:51.934Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "0f066b80cdf64c7abded795b78f8b04c"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "7f46fe44cb97406abe6de1901ece9544"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "991d4796846649a5a57397a4cd523b8b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b97e8db370444a7a8779de89f7a3a123",
+      "appId": "HussarAnniversaryDLC",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-01-17T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5d06a6c6af9b4875b3530d5328f61287",
+  "title": "EiderBonusSuitPackGeneralAudience",
+  "description": "EiderBonusSuitPackGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ed55aa5edc5941de92fd7f64de415793",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-04T16:17:41.798Z",
+  "lastModifiedDate": "2023-08-16T16:41:28.078Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5d06a6c6af9b4875b3530d5328f61287",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "IO Interactive",
+  "developerId": "o-ank8fbh38u9uzqbag2a5yt5xexb4yr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

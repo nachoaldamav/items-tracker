@@ -1,0 +1,49 @@
+{
+  "id": "feeac4b521734f22ae99e8ac55a5f896",
+  "title": "EiderGeneralAudience",
+  "description": "EiderGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/item/hitman3Rating-339x198-afafcf8d60d21abacc07eadc247b1308.png",
+      "md5": "afafcf8d60d21abacc07eadc247b1308",
+      "width": 339,
+      "height": 198,
+      "size": 8208,
+      "uploadedDate": "2021-01-20T12:31:46.072Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ed55aa5edc5941de92fd7f64de415793",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-10T19:03:58.885Z",
+  "lastModifiedDate": "2023-12-18T17:32:49.172Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "feeac4b521734f22ae99e8ac55a5f896",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "IO Interactive",
+  "developerId": "o-ank8fbh38u9uzqbag2a5yt5xexb4yr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "applicationId": "",
+  "unsearchable": true
+}

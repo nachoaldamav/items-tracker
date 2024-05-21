@@ -1,0 +1,91 @@
+{
+  "id": "0ddef28333334c9b906128d9b475989e",
+  "title": "Killing Floor 2 Soundtrack",
+  "description": "Killing Floor 2 Soundtrack",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/item/KF2_EGS_OST_1200x1600-1200x1600-c959728222f15390ce7100368b788891.jpg",
+      "md5": "c959728222f15390ce7100368b788891",
+      "width": 1200,
+      "height": 1600,
+      "size": 375971,
+      "uploadedDate": "2020-07-09T12:49:53.578Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/item/KF2_EGS_OST_2560x1440-2560x1440-f8805120107bab0ddf4acf4dc9f9e593.jpg",
+      "md5": "f8805120107bab0ddf4acf4dc9f9e593",
+      "width": 2560,
+      "height": 1440,
+      "size": 606230,
+      "uploadedDate": "2020-07-09T12:50:09.232Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-17T20:18:41.905Z",
+  "lastModifiedDate": "2020-07-09T14:57:59.421Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "affc33b82405457595a032f00284abd2"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KillingFloor2OST"
+    }
+  },
+  "entitlementName": "0ddef28333334c9b906128d9b475989e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "dd29e7d85855490aa25ff1a276ff00fa",
+      "appId": "b18c87257fb7469381e9a05b3892e979",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-17T00:00:00.000Z"
+    }
+  ],
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

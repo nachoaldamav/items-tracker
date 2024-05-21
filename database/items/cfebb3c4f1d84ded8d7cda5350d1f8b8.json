@@ -1,0 +1,91 @@
+{
+  "id": "cfebb3c4f1d84ded8d7cda5350d1f8b8",
+  "title": "KillingFloor2Beta",
+  "description": "KillingFloor2Beta",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/item/KF2_EGS_BETA_860x1148-860x1148-748b4d090c25c8a0010c99a4702728f1.jpg",
+      "md5": "748b4d090c25c8a0010c99a4702728f1",
+      "width": 860,
+      "height": 1148,
+      "size": 214210,
+      "uploadedDate": "2020-09-01T17:46:44.558Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/item/KF2_EGS_BETA_2560x1440-2560x1440-bb6e0327b726b1dcb1cbaae44cde9ddd.jpg",
+      "md5": "bb6e0327b726b1dcb1cbaae44cde9ddd",
+      "width": 2560,
+      "height": 1440,
+      "size": 597035,
+      "uploadedDate": "2020-09-01T17:46:56.826Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-14T20:39:54.272Z",
+  "lastModifiedDate": "2021-03-23T14:51:40.564Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "affc33b82405457595a032f00284abd2"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KillingFloor2Beta"
+    }
+  },
+  "entitlementName": "cfebb3c4f1d84ded8d7cda5350d1f8b8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "dd29e7d85855490aa25ff1a276ff00fa",
+      "appId": "3223ccf6ac9b4189bd4e144c047d33fb",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-17T00:00:00.000Z"
+    }
+  ],
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

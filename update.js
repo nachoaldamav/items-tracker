@@ -364,6 +364,7 @@ class Main {
 
     const hiddenItems = [];
     for await (const offerId of offers) {
+      console.log(`Fetching hidden items for offer ${offerId}...`);
       const url = new URL('https://store.epicgames.com/graphql');
       url.searchParams.append('operationName', 'getCatalogOfferSubItems');
       url.searchParams.append(
@@ -395,12 +396,13 @@ class Main {
        *   }
        * }
        */
-      const hiddenData = await this.fetchWithRetry(url.href);
+      const hiddenData = await this.fetchWithRetry(url.toString());
+      const subItems = Array.isArray(hiddenData.data?.Catalog?.offerSubItems)
+        ? hiddenData.data?.Catalog?.offerSubItems
+        : [];
 
       // Get the IDs
-      const hiddenItemsIds = hiddenData.data?.Catalog?.offerSubItems
-        .map((item) => item.id)
-        .filter((id) => id);
+      const hiddenItemsIds = subItems.map((item) => item.id).filter((id) => id);
 
       if (!hiddenItemsIds) {
         console.log('No hidden items found');
@@ -456,7 +458,7 @@ class Main {
       } catch (error) {
         lastError = error;
         console.log('Retrying...');
-        await this.sleep(1000);
+        await this.sleep(3000);
       }
     }
 

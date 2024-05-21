@@ -1,0 +1,67 @@
+{
+  "id": "7b2bba2ce98e41d8b8c860fb49165648",
+  "title": "LEGO® Star Wars™: Solo: A Star Wars Story Pack",
+  "description": "LEGO® Star Wars™: Solo: A Star Wars Story Pack",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/9c59efaabb6a48f19b3485d5d9416032/EGS_LEGOStarWarsSoloAStarWarsStoryPack_TTGames_DLC_S1_2560x1440-13961ffe1b52574f722f923b2ef60527_2560x1440-13961ffe1b52574f722f923b2ef60527",
+      "md5": "13961ffe1b52574f722f923b2ef60527",
+      "width": 2560,
+      "height": 1440,
+      "size": 957735,
+      "uploadedDate": "2022-04-01T16:10:35.775Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/9c59efaabb6a48f19b3485d5d9416032/EGS_LEGOStarWarsSoloAStarWarsStoryPack_TTGames_DLC_S2_1200x1600-8da940b5186da93c6d883f25514b22c1_1200x1600-8da940b5186da93c6d883f25514b22c1",
+      "md5": "8da940b5186da93c6d883f25514b22c1",
+      "width": 1200,
+      "height": 1600,
+      "size": 975593,
+      "uploadedDate": "2022-04-01T16:10:38.865Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    }
+  ],
+  "namespace": "9c59efaabb6a48f19b3485d5d9416032",
+  "status": "ACTIVE",
+  "creationDate": "2022-03-02T18:02:11.112Z",
+  "lastModifiedDate": "2022-11-01T17:22:07.039Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LSWSoloPack"
+    }
+  },
+  "entitlementName": "7b2bba2ce98e41d8b8c860fb49165648",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f139f4d404fe4b3e9dac10f903e5eb88",
+      "appId": "e48963fb0516491fa659cea4863dfd93",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

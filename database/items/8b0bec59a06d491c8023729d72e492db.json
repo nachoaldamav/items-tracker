@@ -1,0 +1,92 @@
+{
+  "id": "8b0bec59a06d491c8023729d72e492db",
+  "title": "Dartmoor",
+  "description": "Dartmoor",
+  "technicalDetails": "Mission2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/item/Landscape-2560x1440-0268650549269011803de73320acfd5d.jpg",
+      "md5": "0268650549269011803de73320acfd5d",
+      "width": 2560,
+      "height": 1440,
+      "size": 1184049,
+      "uploadedDate": "2021-01-12T20:45:17.203Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/item/Portrait-1200x1600-6f0bde84246bffd8d77be753db1cf401.jpg",
+      "md5": "6f0bde84246bffd8d77be753db1cf401",
+      "width": 1200,
+      "height": 1600,
+      "size": 482950,
+      "uploadedDate": "2021-01-12T20:45:27.209Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ed55aa5edc5941de92fd7f64de415793",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T18:56:01.888Z",
+  "lastModifiedDate": "2023-01-26T15:00:00.800Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ed55aa5edc5941de92fd7f64de415793"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Dartmoor"
+    }
+  },
+  "entitlementName": "8b0bec59a06d491c8023729d72e492db",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1f8b3fd0116044bcbdc294c9db10a586",
+      "appId": "fc97ef705954490ab4bf3d6773bce766",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-30T00:00:00.000Z"
+    }
+  ],
+  "developer": "IO Interactive",
+  "developerId": "o-ank8fbh38u9uzqbag2a5yt5xexb4yr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

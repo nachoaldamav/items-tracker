@@ -1,0 +1,107 @@
+{
+  "id": "67edea87642646389d26fc6c48030ab3",
+  "title": "Madden NFL 24",
+  "description": "Madden NFL 24",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/0460f46401ae4bdcadbc931d30028015/EGS_MaddenNFL24_Tiburon_S1_2560x1440-2f26b56860cc33a7bfc8719bae13493d",
+      "md5": "2f26b56860cc33a7bfc8719bae13493d",
+      "width": 2560,
+      "height": 1440,
+      "size": 756765,
+      "uploadedDate": "2024-04-18T22:42:14.635Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/0460f46401ae4bdcadbc931d30028015/EGS_MaddenNFL24_Tiburon_S2_1200x1600-257b71373343e3630860289a12ce93f4",
+      "md5": "257b71373343e3630860289a12ce93f4",
+      "width": 1200,
+      "height": 1600,
+      "size": 959266,
+      "uploadedDate": "2024-04-18T22:42:18.364Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0460f46401ae4bdcadbc931d30028015",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-30T21:33:20.588Z",
+  "lastModifiedDate": "2024-04-18T22:44:01.665Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "0460f46401ae4bdcadbc931d30028015"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\EA Sports\\Madden NFL 24"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "the EA app"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "Madden24.exe"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "Madden24.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MaddenNFL24"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "67edea87642646389d26fc6c48030ab3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "589eb6c15c22458791ffacf25608d4d6",
+      "appId": "deltoton",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2023-04-14T18:25:32.311Z"
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

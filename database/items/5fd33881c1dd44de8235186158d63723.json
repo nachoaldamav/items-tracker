@@ -1,0 +1,98 @@
+{
+  "id": "5fd33881c1dd44de8235186158d63723",
+  "title": "Football Manager 2021 Touch",
+  "description": "Football Manager 2021 Touch",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/3fafb94f3f804d6bbe85da723c90e689/item/EGS_FootballManager2021Touch_SportsInteractive_DLC_S1-2560x1440-3022b7922a0f2fa0950dff5b2bb9e71b.jpg",
+      "md5": "3022b7922a0f2fa0950dff5b2bb9e71b",
+      "width": 2560,
+      "height": 1440,
+      "size": 657870,
+      "uploadedDate": "2020-09-24T02:45:42.787Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/3fafb94f3f804d6bbe85da723c90e689/item/EGS_FootballManager2021Touch_SportsInteractive_DLC_S2-1200x1600-3eaf4f6e401d44eb1099aa57c74a94c6.jpg",
+      "md5": "3eaf4f6e401d44eb1099aa57c74a94c6",
+      "width": 1200,
+      "height": 1600,
+      "size": 613096,
+      "uploadedDate": "2020-09-24T02:45:54.348Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3fafb94f3f804d6bbe85da723c90e689",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-22T20:15:20.298Z",
+  "lastModifiedDate": "2020-11-30T22:02:49.945Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "3fafb94f3f804d6bbe85da723c90e689"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FM21Touch"
+    }
+  },
+  "entitlementName": "5fd33881c1dd44de8235186158d63723",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d86e76cb97ac49a483896f4c9e36b26d",
+      "appId": "6f5862ba65244cfe86490f253d64feb1",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-09-22T00:00:00.000Z"
+    }
+  ],
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567z4VvJT8kmhFPmwKHm6GVOiHO",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

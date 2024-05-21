@@ -1,0 +1,94 @@
+{
+  "id": "9506c92959b746f5b368510eefcc32ca",
+  "title": "Conan Exiles",
+  "description": "Conan Exiles",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/conanexiles/EGS_ConanExilesStandardEdition_Funcom_S1_2560x1440-0f786ca36a9e3ac541b32b773640ecb8",
+      "md5": "0f786ca36a9e3ac541b32b773640ecb8",
+      "width": 2560,
+      "height": 1440,
+      "size": 648271,
+      "uploadedDate": "2023-06-22T17:04:14.133Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/conanexiles/EGS_ConanExilesStandardEdition_Funcom_S2_1200x1600-32fb3c961c963a9a8eaaee00f7a4d5eb",
+      "md5": "32fb3c961c963a9a8eaaee00f7a4d5eb",
+      "width": 1200,
+      "height": 1600,
+      "size": 662706,
+      "uploadedDate": "2023-06-22T17:04:18.413Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "conanexiles",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-09T19:51:59.415Z",
+  "lastModifiedDate": "2023-06-22T17:04:22.043Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "conanexiles"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "mods.installPath": {
+      "type": "STRING",
+      "value": "ConanSandbox/Mods"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ConanExiles"
+    }
+  },
+  "entitlementName": "9506c92959b746f5b368510eefcc32ca",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "db88799678cb477384e5769cca63ed61",
+      "appId": "a767a15fafc74c569ffa6ab759a7eae9",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-03-09T00:00:00.000Z"
+    }
+  ],
+  "developer": "Funcom Oslo AS",
+  "developerId": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567rLo4R3sPiFoypK6tWWx8CwaH",
+  "unsearchable": true
+}

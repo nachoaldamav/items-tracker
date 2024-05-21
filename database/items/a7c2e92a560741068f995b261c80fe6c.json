@@ -1,0 +1,42 @@
+{
+  "id": "a7c2e92a560741068f995b261c80fe6c",
+  "title": "CP_RebelsStaging",
+  "description": "CP_RebelsStaging",
+  "categories": [
+    {
+      "path": "addons"
+    }
+  ],
+  "namespace": "9c59efaabb6a48f19b3485d5d9416032",
+  "status": "ACTIVE",
+  "creationDate": "2022-09-12T22:02:45.322Z",
+  "lastModifiedDate": "2022-09-12T22:06:20.573Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "a7c2e92a560741068f995b261c80fe6c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1debae0f23c5443fac63991f3f8965e9",
+      "appId": "e79665523a0844769bd8cebb5c8564f9",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

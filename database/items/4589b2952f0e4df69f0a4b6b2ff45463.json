@@ -1,0 +1,37 @@
+{
+  "id": "4589b2952f0e4df69f0a4b6b2ff45463",
+  "title": "DDU_CosmeticAudience",
+  "description": "DDU_CosmeticAudience",
+  "longDescription": "Digital Deluxe Cosmetic items",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-18T00:54:16.340Z",
+  "lastModifiedDate": "2020-07-09T14:57:59.421Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4589b2952f0e4df69f0a4b6b2ff45463",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

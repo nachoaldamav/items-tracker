@@ -1,0 +1,37 @@
+{
+  "id": "34157a1a13bb4430816d24f83b95e047",
+  "title": "K1 Pre-Purchase audience",
+  "description": "K1 Pre-Purchase audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "fda0f2b4047f46ffb4e94d5595c1468e",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-08T22:15:20.847Z",
+  "lastModifiedDate": "2023-09-19T15:14:38.028Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "34157a1a13bb4430816d24f83b95e047",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

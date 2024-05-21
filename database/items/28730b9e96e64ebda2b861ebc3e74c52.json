@@ -1,0 +1,70 @@
+{
+  "id": "28730b9e96e64ebda2b861ebc3e74c52",
+  "title": "Ultros: Digital Artbook & Soundtrack",
+  "description": "Ultros: Digital Artbook & Soundtrack",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/c6422f963ff84bcbb3b77539e77b6ef7/EGS_UltrosDigitalArtbookSoundtrack_Hadoque_AddOn_S1_2560x1440-46239b578ec48d48f54324692f1ead0f",
+      "md5": "46239b578ec48d48f54324692f1ead0f",
+      "width": 2560,
+      "height": 1440,
+      "size": 995998,
+      "uploadedDate": "2023-10-25T16:20:11.388Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/c6422f963ff84bcbb3b77539e77b6ef7/EGS_UltrosDigitalArtbookSoundtrack_Hadoque_AddOn_S2_1200x1600-65b488e547f69bcd41ad9b3274f687ea",
+      "md5": "65b488e547f69bcd41ad9b3274f687ea",
+      "width": 1200,
+      "height": 1600,
+      "size": 2167371,
+      "uploadedDate": "2023-10-25T16:20:15.568Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "digitalextras"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c6422f963ff84bcbb3b77539e77b6ef7",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-08T08:17:43.116Z",
+  "lastModifiedDate": "2024-04-08T16:05:09.946Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ultrosArtbookSoundtrack"
+    }
+  },
+  "entitlementName": "28730b9e96e64ebda2b861ebc3e74c52",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ff762bd3c0a5416e9192aabd47931644",
+      "appId": "bae9ab596fa140d79fc76843e12d9cbe",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Kepler Interactive",
+  "developerId": "o-yrjx9sk66ym9ktjnjml6qzsyjhczdz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

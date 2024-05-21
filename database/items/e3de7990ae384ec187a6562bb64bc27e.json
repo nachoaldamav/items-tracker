@@ -1,0 +1,75 @@
+{
+  "id": "e3de7990ae384ec187a6562bb64bc27e",
+  "title": "Bardic Inspiration Vol 1 Soundtrack",
+  "description": "Bardic Inspiration Vol 1 Soundtrack",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/OSTlandscape_2560x1440-689347ae675fc7340e62a4cb0238da5c",
+      "md5": "689347ae675fc7340e62a4cb0238da5c",
+      "width": 2560,
+      "height": 1440,
+      "size": 468977,
+      "uploadedDate": "2021-07-15T05:19:51.794Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/OST_1200x1600-7e86e6afc7d4f9e5e842a36c756c7e17",
+      "md5": "7e86e6afc7d4f9e5e842a36c756c7e17",
+      "width": 1200,
+      "height": 1600,
+      "size": 475449,
+      "uploadedDate": "2021-07-15T05:20:03.356Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7e508f543b05465abe3a935960eb70ac",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-14T19:01:18.246Z",
+  "lastModifiedDate": "2024-02-07T19:59:14.023Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "IdleChampionsOST"
+    }
+  },
+  "entitlementName": "e3de7990ae384ec187a6562bb64bc27e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ee9b4543923b443cabb673719f0f40ad",
+      "appId": "56969d7817d0471280154ceabfd69518",
+      "platform": [
+        "Windows",
+        "Win32"
+      ],
+      "dateAdded": "2020-10-15T00:00:00.000Z"
+    }
+  ],
+  "developer": "Codename Entertainment",
+  "developerId": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567wjWymifPzKkVgt3WIe5Guq35",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
