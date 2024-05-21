@@ -441,6 +441,7 @@ class Main {
   }
 
   async fetchWithRetry(url, retries = 3) {
+    let lastError = null;
     // Fetch the data with retries
     for (let i = 0; i < retries; i++) {
       try {
@@ -453,12 +454,13 @@ class Main {
         });
         return data;
       } catch (error) {
+        lastError = error;
         console.log('Retrying...');
         await this.sleep(1000);
       }
     }
 
-    throw new Error(`Failed to fetch data from ${url}`);
+    throw new Error(`Failed to fetch data from ${url}: ${lastError.message}`);
   }
 }
 
