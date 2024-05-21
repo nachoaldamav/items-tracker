@@ -13,7 +13,7 @@
   "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
   "status": "ACTIVE",
   "creationDate": "2024-04-02T19:37:07.303Z",
-  "lastModifiedDate": "2024-04-05T15:38:46.533Z",
+  "lastModifiedDate": "2024-05-21T15:15:14.212Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -22,13 +22,17 @@
   },
   "entitlementName": "7ca00b31950245f0b300cfb4b7fc88b5",
   "entitlementType": "AUDIENCE",
-  "itemType": "DURABLE",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
   "developer": "Gameloft SE",
   "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+  "useCount": 1,
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": true
 }
