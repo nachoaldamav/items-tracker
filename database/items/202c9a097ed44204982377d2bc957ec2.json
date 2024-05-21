@@ -33,7 +33,7 @@
   "namespace": "d34cf6aeceb94c579af0236fe1185b79",
   "status": "ACTIVE",
   "creationDate": "2021-06-21T11:52:44.363Z",
-  "lastModifiedDate": "2024-05-20T09:34:36.100Z",
+  "lastModifiedDate": "2024-05-21T05:39:12.175Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -71,7 +71,9 @@
     {
       "id": "5dfbaaaf0a4b49bbafbef5794ecfe6ba",
       "appId": "0abe90092fd744129152d5fe3d79a2ec",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "1939 Games",

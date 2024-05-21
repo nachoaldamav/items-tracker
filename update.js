@@ -401,6 +401,11 @@ class Main {
         ? hiddenData.data?.Catalog?.offerSubItems
         : [];
 
+      if (subItems.length === 0) {
+        console.log('No hidden items found', hiddenData);
+        continue;
+      }
+
       // Get the IDs
       const hiddenItemsIds = subItems.map((item) => item.id).filter((id) => id);
 
@@ -411,21 +416,21 @@ class Main {
 
       // Get the items
       for await (const id of hiddenItemsIds) {
-        const { data } = await this.launcher.http
-          .sendGet(
-            `https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/${namespace}/items/${id}`
-          )
-          .catch((error) => {
-            console.error(`Error fetching item ${id}`);
-            return {
-              data: null,
-            };
-          });
+        const { data } = await this.fetchWithRetry(
+          `https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/${namespace}/items/${id}`
+        ).catch((error) => {
+          console.error(`Error fetching item ${id}: ${error.message}`);
+          return {
+            data: null,
+          };
+        });
 
         if (data) {
           hiddenItems.push(data);
         }
+        await this.sleep(1000);
       }
+      await this.sleep(1000);
     }
 
     // Insert the items that are not already in the data
@@ -447,15 +452,17 @@ class Main {
     // Fetch the data with retries
     for (let i = 0; i < retries; i++) {
       try {
-        const { data } = await Axios.get(url, {
-          responseType: 'json',
-          headers: {
-            'User-Agent':
-              'UELauncher/16.5.1-33263044+++Portal+Release-Live Windows/10.0.22631.1.256.64bit',
-          },
-        });
+        const { data } = await this.launcher.http
+          .sendGet(url)
+          .then((response) => response);
         return data;
       } catch (error) {
+        if (error.message === 'errors.com.epicgames.catalog.item_not_found') {
+          console.log(`Item not found: ${url}`);
+          return {
+            data: null,
+          };
+        }
         lastError = error;
         console.log('Retrying...');
         await this.sleep(3000);
