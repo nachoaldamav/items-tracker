@@ -2,9 +2,9 @@ name: Node.js CI
 
 on:
   schedule:
-  - cron: "0 */3 * * *"
+  - cron: "0 * * * *"
   push:
-    # branches: [ main ]
+    branches: [ main ]
   pull_request:
     branches: [ main ]
   workflow_dispatch:
@@ -14,18 +14,14 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        node-version: [15.x]
-        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
-
     steps:
-    - uses: actions/checkout@v2
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v1
+    - uses: actions/checkout@v4
+    - name: Use Node.js 20.x
+      uses: actions/setup-node@v4
       with:
-        node-version: ${{ matrix.node-version }}
+        node-version: "20.x"
     - run: git config --global user.email "cmsanagus@gmail.com"
     - run: git config --global user.name "EGSBot"
-    - run: npm install
-    - run: node update
+    - run: pnpm install
+    # - run: node update
+    - run: pnpx tsx ./update.ts
