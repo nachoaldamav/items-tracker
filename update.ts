@@ -214,6 +214,7 @@ class Main {
 		// await git.checkoutBranch("main", "origin/main");
 		await git.checkout("main");
 		await git.add([`${this.databasePath}/.`]);
+		await git.add("./ns-queue.json");
 		const status = await git.status();
 		const changesCount =
 			status.created.length +
