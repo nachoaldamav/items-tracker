@@ -395,7 +395,7 @@ class Main {
        *   }
        * }
        */
-      const { data: hiddenData } = await this.launcher.http.sendGet(url.href);
+      const hiddenData = await this.fetchWithRetry(url.href);
 
       // Get the IDs
       const hiddenItemsIds = hiddenData.data?.Catalog?.offerSubItems
@@ -432,12 +432,33 @@ class Main {
     );
 
     console.log(
-      `Found ${nonExistingItems.length} hidden items for namespace ${namespace}`
+      `Found ${nonExistingItems.length} hidden items for namespace ${namespace} (total: ${hiddenItems.length})`
     );
 
     data.elements = data.elements.concat(nonExistingItems);
 
     return data;
+  }
+
+  async fetchWithRetry(url, retries = 3) {
+    // Fetch the data with retries
+    for (let i = 0; i < retries; i++) {
+      try {
+        const { data } = await Axios.get(url, {
+          responseType: 'json',
+          headers: {
+            'User-Agent':
+              'UELauncher/16.5.1-33263044+++Portal+Release-Live Windows/10.0.22631.1.256.64bit',
+          },
+        });
+        return data;
+      } catch (error) {
+        console.log('Retrying...');
+        await this.sleep(1000);
+      }
+    }
+
+    throw new Error(`Failed to fetch data from ${url}`);
   }
 }
 

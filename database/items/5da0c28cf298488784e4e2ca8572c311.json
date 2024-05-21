@@ -1,0 +1,61 @@
+{
+  "id": "5da0c28cf298488784e4e2ca8572c311",
+  "title": "Phoenix preorder Audience",
+  "description": "Phoenix preorder Audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "e97659b501af4e3981d5430dad170911",
+  "status": "ACTIVE",
+  "creationDate": "2022-04-11T16:09:37.807Z",
+  "lastModifiedDate": "2023-02-07T17:55:28.494Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5da0c28cf298488784e4e2ca8572c311",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {
+    "ESRB": {
+      "ratingSystem": "ESRB",
+      "ageControl": 17,
+      "gameRating": "Mature 17+",
+      "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/ESRB_M_192_192x192-1984f5076d6fb905bba422c8700c663e",
+      "title": "Mature 17+",
+      "descriptor": "",
+      "element": "",
+      "isTrad": true,
+      "isIARC": false
+    },
+    "Russia": {
+      "ratingSystem": "Russia",
+      "ageControl": 12,
+      "gameRating": "12+",
+      "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/Russia_12_192_192x192-ba421b3d9946b56834ae4f0b9b4ffba6",
+      "title": "12+",
+      "descriptor": "",
+      "element": "",
+      "isTrad": true,
+      "isIARC": false
+    }
+  },
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
