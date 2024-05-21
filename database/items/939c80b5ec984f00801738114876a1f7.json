@@ -36,7 +36,7 @@
   "namespace": "2e09c1d223094f3798f63873548c9454",
   "status": "ACTIVE",
   "creationDate": "2021-05-14T00:34:34.235Z",
-  "lastModifiedDate": "2024-05-20T09:35:19.727Z",
+  "lastModifiedDate": "2024-05-21T05:40:24.790Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -74,7 +74,9 @@
     {
       "id": "e3c0d3f5fcf143d0a1bb5124e6140ce2",
       "appId": "61e7ce0b48884dcda34c944f965a1bae",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Kepler Interactive",

@@ -36,7 +36,7 @@
   "namespace": "c4c7d3cd0a2f4ea2bf7d4a57e46e8d68",
   "status": "ACTIVE",
   "creationDate": "2021-05-04T16:45:13.330Z",
-  "lastModifiedDate": "2024-05-20T09:35:33.942Z",
+  "lastModifiedDate": "2024-05-21T05:41:03.061Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -74,7 +74,9 @@
     {
       "id": "a043c1136b8d4dfca414c61d66a2255d",
       "appId": "a9999cf992d74279b410a0ac9608e153",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Burgos Games",

@@ -33,7 +33,7 @@
   "namespace": "3ef2ef153b5649aaa8f0de5b5805dcce",
   "status": "ACTIVE",
   "creationDate": "2022-02-09T18:45:32.890Z",
-  "lastModifiedDate": "2024-05-20T09:31:16.383Z",
+  "lastModifiedDate": "2024-05-21T05:36:34.314Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -79,7 +79,9 @@
     {
       "id": "5dcec57e82cf471da5b03f8f79609064",
       "appId": "0d653383d9854587852508223e8f37e8",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "NIS America, Inc.",

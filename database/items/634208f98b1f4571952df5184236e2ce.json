@@ -33,7 +33,7 @@
   "namespace": "640854c119af44d39a5bcf98edb6cd60",
   "status": "ACTIVE",
   "creationDate": "2021-05-06T22:59:39.861Z",
-  "lastModifiedDate": "2024-05-20T09:35:26.791Z",
+  "lastModifiedDate": "2024-05-21T05:40:48.054Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -75,7 +75,9 @@
     {
       "id": "b052de9c320a4b22876b327e60226892",
       "appId": "587a39f5affd4362af4aec835bf3d93e",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "The Farm 51 Group SA",

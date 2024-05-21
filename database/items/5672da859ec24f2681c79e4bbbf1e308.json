@@ -36,7 +36,7 @@
   "namespace": "f9af68c0b03e425999c18381eb45e5fb",
   "status": "ACTIVE",
   "creationDate": "2021-08-11T18:41:07.164Z",
-  "lastModifiedDate": "2024-05-20T09:34:27.417Z",
+  "lastModifiedDate": "2024-05-21T05:38:59.738Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -75,7 +75,10 @@
       "id": "da4ba09988be4830b554bf8997c5d1c4",
       "appId": "50a44688f80743a8b7880b41ef69f489",
       "compatibleApps": [],
-      "platform": [],
+      "platform": [
+        "Windows",
+        "Win32"
+      ],
       "dateAdded": "2021-08-30T22:18:00.000Z"
     }
   ],

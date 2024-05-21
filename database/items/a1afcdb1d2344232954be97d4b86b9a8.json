@@ -33,7 +33,7 @@
   "namespace": "da36711940d4460da57d8d6ad67236a4",
   "status": "ACTIVE",
   "creationDate": "2022-11-29T19:47:52.494Z",
-  "lastModifiedDate": "2024-05-20T09:25:27.928Z",
+  "lastModifiedDate": "2024-05-21T05:35:26.321Z",
   "customAttributes": {
     "PresenceId": {
       "type": "STRING",
@@ -67,7 +67,9 @@
     {
       "id": "5286b087b1084d82b606548945ec5875",
       "appId": "cfbbc006f3ee4ba0bfff3ffa46942f90",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "THQ Nordic GmbH",

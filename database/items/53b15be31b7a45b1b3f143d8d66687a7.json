@@ -33,7 +33,7 @@
   "namespace": "651d07f1eee8419e80eb2938f8f44cf0",
   "status": "ACTIVE",
   "creationDate": "2021-08-20T02:55:45.659Z",
-  "lastModifiedDate": "2024-05-20T09:33:34.435Z",
+  "lastModifiedDate": "2024-05-21T05:37:31.979Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -71,7 +71,9 @@
     {
       "id": "02783479926d46a59ca5fad6394e145d",
       "appId": "c9a6ab84f1ea48afb2317a9429a0da9a",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Forthright Entertainment, INC",

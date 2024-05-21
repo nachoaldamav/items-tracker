@@ -33,7 +33,7 @@
   "namespace": "a83aedcdb7304b51802d41c5ca308ef2",
   "status": "ACTIVE",
   "creationDate": "2021-08-12T14:50:57.707Z",
-  "lastModifiedDate": "2024-05-20T09:33:40.567Z",
+  "lastModifiedDate": "2024-05-21T05:37:40.250Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -71,7 +71,9 @@
     {
       "id": "2f01db36627e4d9c9f8a2d7da5311ae7",
       "appId": "9496b528903c47af9fd4483f825e3963",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Toplitz Productions GmbH",

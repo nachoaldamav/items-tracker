@@ -36,7 +36,7 @@
   "namespace": "65d31d60510a49629a0b52e93da8416a",
   "status": "ACTIVE",
   "creationDate": "2021-05-19T16:52:59.894Z",
-  "lastModifiedDate": "2024-05-20T09:35:12.213Z",
+  "lastModifiedDate": "2024-05-21T05:40:08.798Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -74,7 +74,9 @@
     {
       "id": "1f0d24a53f8a47d3b42400789856b113",
       "appId": "34207deee7704cae912ff861937af7ed",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "No More Robots",

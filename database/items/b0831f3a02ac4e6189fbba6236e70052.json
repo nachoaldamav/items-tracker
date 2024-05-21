@@ -34,8 +34,8 @@
   ],
   "namespace": "41354424d5e74b579fc22def2cd1df6c",
   "status": "ACTIVE",
-  "creationDate": "2024-04-17T14:35:43.516Z",
-  "lastModifiedDate": "2024-04-17T14:35:43.836Z",
+  "creationDate": "2023-03-06T13:48:05.140Z",
+  "lastModifiedDate": "2024-05-21T13:01:38.932Z",
   "customAttributes": {
     "CloudSaveFolder_MAC": {
       "type": "STRING",
@@ -63,15 +63,18 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "fe0379b8f70749218dc65d1b50e3653a",
+      "id": "a52afa97b5a1466892ef5a1bc432f72e",
       "appId": "794b61e5fcf846a8a6ad1c91d7eb526e",
-      "platform": []
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
     }
   ],
   "developer": "Daedalic Entertainment",
   "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567OMeKCFHpGow8vdNIgjN1yp7N",
   "requiresSecureAccount": false,
   "unsearchable": false
 }

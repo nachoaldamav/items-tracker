@@ -33,7 +33,7 @@
   "namespace": "d613614e082c4f648835a32f15c1d29b",
   "status": "ACTIVE",
   "creationDate": "2022-02-09T07:49:38.257Z",
-  "lastModifiedDate": "2024-05-20T09:31:18.564Z",
+  "lastModifiedDate": "2024-05-21T05:36:37.022Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -67,7 +67,9 @@
     {
       "id": "3a4954fb5c2f45ef80fa3bf7759bf965",
       "appId": "3efc912d8fe04bbcb2b57c431c7f93f9",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Proxima Beta Europe B.V.",

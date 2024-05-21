@@ -33,7 +33,7 @@
   "namespace": "312a1e4f0c8e479e97d92a587dd52a33",
   "status": "ACTIVE",
   "creationDate": "2022-04-25T17:57:25.604Z",
-  "lastModifiedDate": "2024-05-20T09:30:00.480Z",
+  "lastModifiedDate": "2024-05-21T05:36:10.362Z",
   "customAttributes": {
     "PresenceId": {
       "type": "STRING",
@@ -67,7 +67,9 @@
     {
       "id": "3bd9fe8614c64d44ace58ad2a81a6b19",
       "appId": "42fdea5e3c9f4ede84e8ec0e200d7279",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Tripwire Interactive",
