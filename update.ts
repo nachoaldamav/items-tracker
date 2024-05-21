@@ -42,19 +42,29 @@ class Main {
 		});
 	}
 
+	shuffleArray<T>(array: T[]): T[] {
+		for (let i = array.length - 1; i > 0; i--) {
+			const j = Math.floor(Math.random() * (i + 1));
+			[array[i], array[j]] = [array[j], array[i]];
+		}
+		return array;
+	}
+
 	async fetchNamespaces(): Promise<void> {
 		const existsNSList = fs.existsSync("./ns-queue.json");
 
 		if (existsNSList) {
 			const nsList = JSON.parse(fs.readFileSync("./ns-queue.json", "utf8"));
+			const shuffledKeys = this.shuffleArray(Object.keys(nsList));
+
 			// Get the queue size from the ns-queue.json file
-			this.namespaces = Object.keys(nsList).slice(0, this.queueSize);
-			this.nsIndex = Object.keys(nsList)
+			this.namespaces = shuffledKeys.slice(0, this.queueSize);
+			this.nsIndex = shuffledKeys
 				.slice(0, this.queueSize)
 				.map((key: string) => nsList[key]);
 
-			// Remove the first 50 items from the ns-queue.json file
-			const newData = Object.keys(nsList)
+			// Remove the first `queueSize` items from the ns-queue.json file
+			const newData = shuffledKeys
 				.slice(this.queueSize)
 				.reduce((acc: any, key: string) => {
 					acc[key] = nsList[key];
@@ -101,24 +111,47 @@ class Main {
 					responseType: "json",
 				});
 
-				// Save the list of namespaces to a queue file
+				const shuffledKeysNew = this.shuffleArray(Object.keys(response.data));
+
+				this.namespaces = shuffledKeysNew.slice(0, this.queueSize);
+				this.nsIndex = this.namespaces.map((key: string) => response.data[key]);
+
+				// Remove the first `queueSize` items from the shuffled keys
+				const newQueueData = shuffledKeysNew
+					.slice(this.queueSize)
+					.reduce((acc: any, key: string) => {
+						acc[key] = response.data[key];
+						return acc;
+					}, {});
+
+				// Save the new ns-queue.json file
 				fs.writeFileSync(
 					"./ns-queue.json",
-					JSON.stringify(response.data, null, 2),
+					JSON.stringify(newQueueData, null, 2),
 				);
-
-				this.namespaces = Object.keys(response.data).slice(0, this.queueSize);
-				// As it's an object, we need to convert it to an array, get the items and convert it back to an object
-				this.nsIndex = Object.keys(response.data)
-					.slice(0, this.queueSize)
-					.map((key: string) => response.data[key]);
 
 				break;
 
 			case "file:":
 				const fileData = JSON.parse(fs.readFileSync(url.pathname, "utf8"));
-				this.namespaces = Object.keys(fileData);
-				this.nsIndex = fileData;
+				const shuffledFileKeys = this.shuffleArray(Object.keys(fileData));
+
+				this.namespaces = shuffledFileKeys.slice(0, this.queueSize);
+				this.nsIndex = this.namespaces.map((key: string) => fileData[key]);
+
+				// Remove the first `queueSize` items from the shuffled keys
+				const newFileQueueData = shuffledFileKeys
+					.slice(this.queueSize)
+					.reduce((acc: any, key: string) => {
+						acc[key] = fileData[key];
+						return acc;
+					}, {});
+
+				// Save the new ns-queue.json file
+				fs.writeFileSync(
+					"./ns-queue.json",
+					JSON.stringify(newFileQueueData, null, 2),
+				);
 				break;
 
 			default:
