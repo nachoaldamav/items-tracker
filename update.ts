@@ -331,7 +331,7 @@ class Main {
 				`https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/${namespace}/items?status=SUNSET%7CACTIVE&sortBy=creationDate&country=${this.country}&locale=${this.language}&start=${start}&count=${count}`,
 			);
 
-			if (response.data.elements.length === 0) {
+			if (!response.data.elements || response.data.elements.length === 0) {
 				console.log(
 					`No items found for namespace ${namespace}, using alternative method...`,
 				);
@@ -344,7 +344,10 @@ class Main {
 							`https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/${namespace}/offers?status=SUNSET%7CACTIVE&sortBy=creationDate&country=${this.country}&locale=${this.language}&start=${start}&count=${count}`,
 						)
 						.catch((error: any) => {
-							console.error(`Error fetching offers for namespace ${namespace}`);
+							console.error(
+								`Error fetching offers for namespace ${namespace}`,
+								error,
+							);
 							return {
 								data: null,
 							};
@@ -355,7 +358,11 @@ class Main {
 					offersData = this.namespaceOffersCache[namespace];
 				}
 
-				if (offersData.elements.length === 0) {
+				if (
+					!offersData ||
+					!offersData.elements ||
+					offersData.elements.length === 0
+				) {
 					console.log(
 						`No offers found for namespace ${namespace}, ignoring...`,
 					);
