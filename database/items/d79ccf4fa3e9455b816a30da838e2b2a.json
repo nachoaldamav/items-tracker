@@ -1,0 +1,65 @@
+{
+  "id": "d79ccf4fa3e9455b816a30da838e2b2a",
+  "title": "Cabernet",
+  "description": "Cabernet",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/10d0740686ac4df7939b128c599a787e/cabernet-dzovx.png",
+      "md5": "a242336b80f24e075bf900b2ecdaa6dd",
+      "width": 2560,
+      "height": 1440,
+      "size": 3486783,
+      "uploadedDate": "2024-05-13T23:05:26.231Z",
+      "alt": "Cabernet Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/10d0740686ac4df7939b128c599a787e/cabernet-1clo2.png",
+      "md5": "3d698b18249805df21c3338f859cb9eb",
+      "width": 1200,
+      "height": 1600,
+      "size": 1203034,
+      "uploadedDate": "2024-05-14T13:14:03.399Z",
+      "alt": "Download Cabernet Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fe7271d3a3da49c6924e38388ed3174a",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-21T19:53:21.594Z",
+  "lastModifiedDate": "2024-05-21T19:53:21.594Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Party for Introverts/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CabernetBTwfM"
+    }
+  },
+  "entitlementName": "d79ccf4fa3e9455b816a30da838e2b2a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e82ee32ac50d4e7f83598f7f994737a9",
+      "appId": "5e45c78c1b5044c4834eece66f56c8aa",
+      "platform": []
+    }
+  ],
+  "developer": "Akupara Games",
+  "developerId": "o-vzv8n7jse99sluj4vaa8522rh45cvg",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
