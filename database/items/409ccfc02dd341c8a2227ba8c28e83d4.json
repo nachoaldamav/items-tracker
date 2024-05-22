@@ -35,7 +35,7 @@
   "namespace": "6da5555f0d304bbe899fe6c21fe38b6e",
   "status": "ACTIVE",
   "creationDate": "2024-04-08T14:43:56.006Z",
-  "lastModifiedDate": "2024-04-29T17:00:20.014Z",
+  "lastModifiedDate": "2024-05-22T08:46:05.697Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,8 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "bcf065c2c84244059f38b76f376caaee",
-      "appId": "fb02810c3aeb4b53919c48e229370b7d"
+      "id": "794606e24fca471cb2defa5d90e5299e",
+      "appId": "fb02810c3aeb4b53919c48e229370b7d",
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Versus Evil",
