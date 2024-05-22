@@ -339,10 +339,16 @@ class Main {
 				let offersData: any;
 
 				if (!this.namespaceOffersCache[namespace]) {
-					const responseOffers: AxiosResponse =
-						await this.launcher.http.sendGet(
+					const responseOffers: AxiosResponse = await this.launcher.http
+						.sendGet(
 							`https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/${namespace}/offers?status=SUNSET%7CACTIVE&sortBy=creationDate&country=${this.country}&locale=${this.language}&start=${start}&count=${count}`,
-						);
+						)
+						.catch((error: any) => {
+							console.error(`Error fetching offers for namespace ${namespace}`);
+							return {
+								data: null,
+							};
+						});
 					offersData = responseOffers.data;
 				} else {
 					console.log(`Using cached offers data for namespace ${namespace}...`);
@@ -389,13 +395,7 @@ class Main {
 							.sendGet(
 								`https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/namespace/${namespace}/items/${element}`,
 							)
-							.then((response: AxiosResponse) => response)
-							.catch((error: any) => {
-								console.error(`Error fetching item ${element}`);
-								return {
-									data: null,
-								};
-							});
+							.then((response: AxiosResponse) => response);
 
 						if (responseItem.data) {
 							items.push(responseItem.data);
@@ -430,7 +430,7 @@ class Main {
 					}
 				}
 
-				if (error.response.status === 404) {
+				if (error.response.statusCode === 404) {
 					return {
 						elements: [],
 						paging: {
@@ -441,7 +441,7 @@ class Main {
 					};
 				}
 
-				if (error.response.status === 401) {
+				if (error.response.statusCode === 401) {
 					console.log("Reauthenticating launcher...");
 					this.launcher.logout();
 					await this.launcher.init();
