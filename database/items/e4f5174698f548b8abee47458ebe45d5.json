@@ -1,0 +1,77 @@
+{
+  "id": "e4f5174698f548b8abee47458ebe45d5",
+  "title": "The Tribe Must Survive",
+  "description": "The Tribe Must Survive",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/21babf40eb40466d984da90c24bc3aea/the-tribe-must-survive-1rrbi.jpg",
+      "md5": "c45ca6f2f2d9ee658176e0b43a80e955",
+      "width": 2560,
+      "height": 1440,
+      "size": 1039155,
+      "uploadedDate": "2024-05-17T12:48:18.815Z",
+      "alt": "The Tribe Must Survive Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/21babf40eb40466d984da90c24bc3aea/the-tribe-must-survive-1qcqg.jpg",
+      "md5": "2335c6cef522d519d26f97286a38bf8d",
+      "width": 1200,
+      "height": 1600,
+      "size": 649343,
+      "uploadedDate": "2024-05-17T12:48:21.184Z",
+      "alt": "Download The Tribe Must Survive Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "50d794a4930c401f9f25e28ce7335db2",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-22T21:15:41.050Z",
+  "lastModifiedDate": "2024-05-22T21:15:41.050Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Walking Tree Games/The Tribe Must Survive/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Walking Tree Games/The Tribe Must Survive/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "autosave*.json,meta_progression*.json,player_prefs*.json"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheTribeMustSurvivehItzL"
+    }
+  },
+  "entitlementName": "e4f5174698f548b8abee47458ebe45d5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "39141dc7fe63410fbde091b77530da2b",
+      "appId": "422b4c6ffd5d4d8bb1b540a187eef248",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "New Starbreeze Publishing AB",
+  "developerId": "o-p8dyby5wsvpu4yezxdg24d555hsyz3",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
