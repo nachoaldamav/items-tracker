@@ -1,0 +1,71 @@
+{
+  "id": "bb2143726fcf485486354a136ccdfec6",
+  "title": "HAWKED",
+  "description": "HAWKED",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/035d24d83bc9464396173da44f953507/hawked-10ows.jpg",
+      "md5": "1b20896a23e0bd577c28df6c6840f737",
+      "width": 2560,
+      "height": 1440,
+      "size": 3449264,
+      "uploadedDate": "2024-05-15T13:36:52.435Z",
+      "alt": "HAWKED Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/035d24d83bc9464396173da44f953507/hawked-19kao.jpg",
+      "md5": "4e5e3872b661fc0d43c94e792ab89373",
+      "width": 1200,
+      "height": 1600,
+      "size": 2105629,
+      "uploadedDate": "2024-05-15T13:36:53.249Z",
+      "alt": "Download HAWKED Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4b4cf9f6797e47099d1a132d485ed0f2",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-23T07:40:22.246Z",
+  "lastModifiedDate": "2024-05-23T07:40:22.246Z",
+  "customAttributes": {
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "Hawked.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HAWKED"
+    },
+    "BackgroundProcessNames": {
+      "type": "STRING",
+      "value": "MGL.exe"
+    }
+  },
+  "entitlementName": "bb2143726fcf485486354a136ccdfec6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e36d65712eaf422aad4decd8b0326291",
+      "appId": "9492a5380afe447c82348cd5ae149c9b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "MY.GAMES",
+  "developerId": "o-tg8bdyuaqa58k5lnzh29nw3qx2fjxm",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
