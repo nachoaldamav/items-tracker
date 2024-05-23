@@ -1,0 +1,63 @@
+{
+  "id": "6d7afa52a1784127a876da11673f91ed",
+  "title": "Harvest Hunt",
+  "description": "Harvest Hunt",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/916c707f8eea46f3ac32ef15f2f622e7/harvest-hunt-bdy5o.png",
+      "md5": "562a94f5e7ab4122ba093dd59db96aac",
+      "width": 2560,
+      "height": 1440,
+      "size": 1003087,
+      "uploadedDate": "2024-05-21T17:25:06.545Z",
+      "alt": "Harvest Hunt Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/916c707f8eea46f3ac32ef15f2f622e7/harvest-hunt-xf64p.png",
+      "md5": "38a5c3c3e895dac0c9b4f352c5ab3ff5",
+      "width": 1200,
+      "height": 1600,
+      "size": 762336,
+      "uploadedDate": "2024-05-21T17:22:15.878Z",
+      "alt": "Download Harvest Hunt Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "82b0be96b0014eba84d9dbc93fd21dbf",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-22T15:25:39.068Z",
+  "lastModifiedDate": "2024-05-22T15:25:39.068Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "HarvestHunt"
+    }
+  },
+  "entitlementName": "6d7afa52a1784127a876da11673f91ed",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2b5e6c6e3af448dd819d71004e9e216e",
+      "appId": "5a7c6b1ee5c94071865e8580e5869e44",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Villainous Games Studio",
+  "developerId": "o-bfdav7wkeelsmeht3xr9t2s7999sfu",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
