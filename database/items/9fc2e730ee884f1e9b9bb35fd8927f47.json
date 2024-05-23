@@ -1,0 +1,64 @@
+{
+  "id": "9fc2e730ee884f1e9b9bb35fd8927f47",
+  "title": "Boxville Demo",
+  "description": "Boxville is an adventure puzzle game about speechless cans living in the city of boxes and drawing doodles on cardboards to tell the stories.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a686dfdb0a04473eaf8d82ef4045effb/boxville-lvoxn.png",
+      "md5": "065361a64a66c765af007465805c279d",
+      "width": 2560,
+      "height": 1440,
+      "size": 2452193,
+      "uploadedDate": "2024-05-18T17:17:39.735Z",
+      "alt": "Boxville Boxville Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a686dfdb0a04473eaf8d82ef4045effb/boxville-b4y43.png",
+      "md5": "33aade99adf7113a73068624f24b3c6b",
+      "width": 1200,
+      "height": 1600,
+      "size": 2353663,
+      "uploadedDate": "2024-05-18T17:17:39.178Z",
+      "alt": "Download Boxville Boxville Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7e305f850a5749b3b16599d737e500c8",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-23T17:16:38.351Z",
+  "lastModifiedDate": "2024-05-23T17:16:38.351Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BoxvilleDemo"
+    }
+  },
+  "entitlementName": "9fc2e730ee884f1e9b9bb35fd8927f47",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b35793b96b484170b283c5b55fee9f83",
+      "appId": "df7cfa4a0aa843ffb9ce77df64570951",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Triomatica Games",
+  "developerId": "o-sxvy9hfj86hbqk6vbdyza7veh8bfju",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
