@@ -1,0 +1,71 @@
+{
+  "id": "40b4e04192c444e19406a6e193ffeb76",
+  "title": "Magical Bakery",
+  "description": "Magical Bakery",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5de602f696cd4ac6856f934e3d4535b6/magical-bakery-1cavz.jpg",
+      "md5": "53aa3b764bd94f71aa20d4b84ff6ccc0",
+      "width": 2560,
+      "height": 1440,
+      "size": 1886404,
+      "uploadedDate": "2024-05-23T11:25:03.525Z",
+      "alt": "Magical Bakery Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5de602f696cd4ac6856f934e3d4535b6/magical-bakery-17cwv.jpg",
+      "md5": "e31fd559fcbbc0ce80c4af902ac99a20",
+      "width": 1200,
+      "height": 1600,
+      "size": 1213210,
+      "uploadedDate": "2024-05-23T11:25:09.345Z",
+      "alt": "Download Magical Bakery Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "17f85b9e8c0944268e6641999ad81829",
+  "status": "ACTIVE",
+  "creationDate": "2024-02-26T10:53:48.967Z",
+  "lastModifiedDate": "2024-05-23T13:44:53.475Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/MagicalBakery/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Slot1_EPIC.sav,Slot2_EPIC.sav,Slot3_EPIC.sav,Slot1_EPIC_MCPortrait.sav,Slot2_EPIC_MCPortrait.sav,Slot3_EPIC_MCPortrait.sav,SlotSettings_EPIC.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MagicalBakery"
+    }
+  },
+  "entitlementName": "40b4e04192c444e19406a6e193ffeb76",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a68c3e54243541eab0e8bace2316f14a",
+      "appId": "8d496ca57b7e4073b63dacfe8d6e0f84",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SOEDESCO",
+  "developerId": "o-9uf2bsrkptwqbkpy867grcbj5jxrta",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

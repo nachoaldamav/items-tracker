@@ -34,12 +34,12 @@
   ],
   "namespace": "b2c22846c4d6454cb73a5cbf5625d76a",
   "status": "ACTIVE",
-  "creationDate": "2024-03-17T12:29:22.164Z",
-  "lastModifiedDate": "2024-03-17T12:29:22.164Z",
+  "creationDate": "2024-02-14T10:47:23.765Z",
+  "lastModifiedDate": "2024-05-23T16:29:04.435Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "ChroniquedesSilencieMPTsQ"
+      "value": "ChroniquedesSilencieux"
     }
   },
   "entitlementName": "c81afd28cf50496699854e22cc767123",
@@ -47,13 +47,18 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "f1bcdea1d9f745cd81401e4dd4fe840a",
-      "appId": "c843afecd59546ad939d6d5559925e6a"
+      "id": "eda08a9d34d2479b9de3656cf95d8d33",
+      "appId": "c843afecd59546ad939d6d5559925e6a",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
     }
   ],
   "developer": "Pierre Feuille Studio",
   "developerId": "o-h8lc4f85e2fl7fja3hyx2edb73emxe",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
