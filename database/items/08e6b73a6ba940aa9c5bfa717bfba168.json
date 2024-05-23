@@ -1,0 +1,63 @@
+{
+  "id": "08e6b73a6ba940aa9c5bfa717bfba168",
+  "title": "The Dark Isle",
+  "description": "The Dark Isle",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9fb24e11b68846f5a8c58d52d722a715/the-dark-isle-1esty.png",
+      "md5": "3de9bdeaad172aaa0e6f5a49ed50e194",
+      "width": 2560,
+      "height": 1440,
+      "size": 3867147,
+      "uploadedDate": "2024-05-20T19:02:17.222Z",
+      "alt": "The Dark Isle Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9fb24e11b68846f5a8c58d52d722a715/the-dark-isle-x7sw4.png",
+      "md5": "b75e91db8af2792d78610e149c50fc90",
+      "width": 1200,
+      "height": 1600,
+      "size": 2273463,
+      "uploadedDate": "2024-05-20T19:02:16.990Z",
+      "alt": "Download The Dark Isle Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cc66d1c61f4d41c9b5377b5e13e92d80",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-22T18:11:50.664Z",
+  "lastModifiedDate": "2024-05-22T18:11:50.664Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheDarkIsle"
+    }
+  },
+  "entitlementName": "08e6b73a6ba940aa9c5bfa717bfba168",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "53344be4a71c4dcb926f80052680e15c",
+      "appId": "e71a88e94ac54e8081cb128fd1e44ca4",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Catalyst Game Development",
+  "developerId": "o-jcr87j98nhyrzme5ebm57bb4c8m29v",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
