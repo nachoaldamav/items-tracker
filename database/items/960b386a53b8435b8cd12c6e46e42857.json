@@ -1,8 +1,7 @@
 {
-  "id": "6df0d9f15ed14a2198bb2aea1576da7c",
-  "title": "klobasnek General pre-purchase Audience",
-  "description": "klobasnek General pre-purchase Audience",
-  "keyImages": [],
+  "id": "960b386a53b8435b8cd12c6e46e42857",
+  "title": "Gold pre-purchase Audience",
+  "description": "Gold pre-purchase Audience",
   "categories": [
     {
       "path": "audience"
@@ -13,10 +12,15 @@
   ],
   "namespace": "f640a0c1648147fea7e81565b45a3003",
   "status": "ACTIVE",
-  "creationDate": "2023-05-30T10:42:50.238Z",
-  "lastModifiedDate": "2024-05-23T16:00:22.703Z",
-  "customAttributes": {},
-  "entitlementName": "6df0d9f15ed14a2198bb2aea1576da7c",
+  "creationDate": "2024-01-23T20:41:26.867Z",
+  "lastModifiedDate": "2024-05-23T16:00:22.709Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "960b386a53b8435b8cd12c6e46e42857",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],

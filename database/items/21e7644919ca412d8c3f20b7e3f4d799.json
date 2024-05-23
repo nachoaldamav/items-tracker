@@ -1,0 +1,67 @@
+{
+  "id": "21e7644919ca412d8c3f20b7e3f4d799",
+  "title": "Project Kinesis",
+  "description": "Project Kinesis",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b64db191c2004def8764b09a0738e947/project-kinesis-1ej5c.png",
+      "md5": "6f7d305019c37fa7008b62a95b548a46",
+      "width": 2560,
+      "height": 1440,
+      "size": 2624628,
+      "uploadedDate": "2024-05-10T04:03:32.713Z",
+      "alt": "Project Kinesis Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b64db191c2004def8764b09a0738e947/project-kinesis-h1scx.png",
+      "md5": "9756c31b553c860f5337a080b0acf9ba",
+      "width": 1200,
+      "height": 1600,
+      "size": 1711462,
+      "uploadedDate": "2024-05-10T04:03:35.147Z",
+      "alt": "Download Project Kinesis Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7242da4da9a34727958d4c47d5bb9ae4",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-22T21:18:07.574Z",
+  "lastModifiedDate": "2024-05-22T21:18:07.574Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/ProjectKinesis/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ProjectKinesis5HK2y"
+    }
+  },
+  "entitlementName": "21e7644919ca412d8c3f20b7e3f4d799",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d5eb3113887e4fc2abc57e9d17803ee6",
+      "appId": "be86221bcf144630b54e52ab7c048fc2",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Cavelion Development Systems",
+  "developerId": "o-8v675vmsackmm5rv4vkbt56e9vq85y",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
