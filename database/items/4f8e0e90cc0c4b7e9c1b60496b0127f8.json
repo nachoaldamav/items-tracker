@@ -1,0 +1,89 @@
+{
+  "id": "4f8e0e90cc0c4b7e9c1b60496b0127f8",
+  "title": "Dragon Age™: Origins - Ultimate Edition",
+  "description": "Explore a stunning world, make complex moral choices, and engage in bone-crushing combat against massive and terrifying creatures. The Ultimate Edition includes Dragon Age: Origins, Dragon Age: Origins - Awakening and all nine content packs.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c85211c3d2f64a8ea41fc470362ac665/dragon-age-origins--ultimate-edition-lqh46.jpg",
+      "md5": "d5519ecc3909fb00cdbf530c0c503a78",
+      "width": 2560,
+      "height": 1440,
+      "size": 845060,
+      "uploadedDate": "2024-04-12T20:24:10.094Z",
+      "alt": "Dragon Age: Origins - Ultimate Edition Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c85211c3d2f64a8ea41fc470362ac665/dragon-age-origins--ultimate-edition-al57g.jpg",
+      "md5": "2a7dafb10d39f4eba5765aa0d03efb6a",
+      "width": 1200,
+      "height": 1600,
+      "size": 886025,
+      "uploadedDate": "2024-04-12T20:24:17.967Z",
+      "alt": "Download Dragon Age: Origins - Ultimate Edition Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "aa0bf256813a423f8705093d696065b4",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-23T03:57:17.085Z",
+  "lastModifiedDate": "2024-05-23T03:57:17.085Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\BioWare\\Dragon Age Origins"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "daorigins.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "daorigins.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DragonAgeOriginsUltiVyeeO"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "4f8e0e90cc0c4b7e9c1b60496b0127f8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4e34304979144a71821e30e76679bf8a",
+      "appId": "milhoja",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

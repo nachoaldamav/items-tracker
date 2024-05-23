@@ -1,0 +1,89 @@
+{
+  "id": "7ced05c3f428476f9836a3a3d88f614e",
+  "title": "Mass Effect™ (2007)",
+  "description": "As Commander Shepard, you lead an elite squad on a heroic, action-packed adventure throughout the galaxy.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3c8e0a2358ea4b9e8c7bae6ab342d3e0/mass-effect-smb07.jpg",
+      "md5": "ba9344c44c85a948ef5263af47a71b11",
+      "width": 2560,
+      "height": 1440,
+      "size": 741284,
+      "uploadedDate": "2024-05-15T00:27:58.964Z",
+      "alt": "Mass Effect Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3c8e0a2358ea4b9e8c7bae6ab342d3e0/mass-effect-xr10u.jpg",
+      "md5": "df30e96f09720f31b080b57732376f79",
+      "width": 1200,
+      "height": 1600,
+      "size": 764142,
+      "uploadedDate": "2024-05-15T00:27:58.743Z",
+      "alt": "Download Mass Effect Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8109d0d7b82f4242bf4cd26108e50f20",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-23T17:22:19.181Z",
+  "lastModifiedDate": "2024-05-23T17:22:19.181Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\BioWare\\Mass Effect"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "MassEffect.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "MassEffect.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MassEffectIYuSh"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "7ced05c3f428476f9836a3a3d88f614e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ce12cff2108c4bbdb23480026650901f",
+      "appId": "slavov",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
