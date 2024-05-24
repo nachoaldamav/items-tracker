@@ -35,8 +35,8 @@
   ],
   "namespace": "2b352b4aea3849bd9519842dda263ac7",
   "status": "ACTIVE",
-  "creationDate": "2020-06-12T17:14:43.427Z",
-  "lastModifiedDate": "2024-03-01T11:38:30.865Z",
+  "creationDate": "2024-05-13T19:20:42.957Z",
+  "lastModifiedDate": "2024-05-24T12:59:33.278Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -72,12 +72,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "a0b5c5f80af14d948c2efc9b8b2fe188",
+      "id": "76be31d724754f1697b5cbace3d7db4f",
       "appId": "34eda78a6b24468f9fb70d73793bdaab",
       "platform": [
+        "Win32",
         "Windows"
-      ],
-      "dateAdded": "2020-11-30T00:00:00.000Z"
+      ]
     }
   ],
   "developer": "Gaijin Distribution KFT",
