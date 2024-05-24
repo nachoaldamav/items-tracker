@@ -34,8 +34,8 @@
   ],
   "namespace": "c986e75258a146fba03a920dba852ca9",
   "status": "ACTIVE",
-  "creationDate": "2023-12-13T08:49:04.365Z",
-  "lastModifiedDate": "2023-12-13T08:49:04.365Z",
+  "creationDate": "2023-06-21T12:59:47.554Z",
+  "lastModifiedDate": "2024-05-23T16:49:36.023Z",
   "customAttributes": {
     "CloudSaveFolder_MAC": {
       "type": "STRING",
@@ -44,6 +44,10 @@
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{AppData}/../LocalLow/The Gentlebros Pte_ Ltd_/Cat Quest/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "2000"
     },
     "FolderName": {
       "type": "STRING",
