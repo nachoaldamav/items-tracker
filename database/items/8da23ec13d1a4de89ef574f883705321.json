@@ -35,8 +35,12 @@
   "namespace": "4c53ce93a15b48c898cbeaeb86763fc7",
   "status": "ACTIVE",
   "creationDate": "2024-03-29T14:40:39.626Z",
-  "lastModifiedDate": "2024-05-17T20:25:19.432Z",
+  "lastModifiedDate": "2024-05-23T12:41:17.154Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/LocalLow/有一小间工作室\\/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "TheFiveSistersinlawoyJ4T"
@@ -47,7 +51,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "da3785bad4a940ee9a896cb0d1a08cf5",
+      "id": "66695008aed5492eaae2f665723eb640",
       "appId": "8dfecf4572fd47708937f91bcfe29cc4",
       "platform": [
         "Win32",
