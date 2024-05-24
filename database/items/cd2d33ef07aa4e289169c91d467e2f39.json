@@ -1,0 +1,89 @@
+{
+  "id": "cd2d33ef07aa4e289169c91d467e2f39",
+  "title": "Dragon Age II: Ultimate Edition",
+  "description": "You are Hawke, a refugee seeking to escape the darkspawn-plagued land of Ferelden and become Champion of Kirkwall. Rise to power and fight epic battles while making decisions that determine the course of civilization.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2a6283e82b9b4eb29202a8e64981f023/dragon-age-ii-ultimate-edition-n7j80.jpg",
+      "md5": "78be1f8668cda7c78317a22760846d1f",
+      "width": 2560,
+      "height": 1440,
+      "size": 866622,
+      "uploadedDate": "2024-04-12T20:03:06.665Z",
+      "alt": "Dragon Age II: Ultimate Edition Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2a6283e82b9b4eb29202a8e64981f023/dragon-age-ii-ultimate-edition-5ziqk.jpg",
+      "md5": "4bb7f111f674ac46a56de7d15b4fed4d",
+      "width": 1200,
+      "height": 1600,
+      "size": 851689,
+      "uploadedDate": "2024-04-12T20:03:14.714Z",
+      "alt": "Download Dragon Age II: Ultimate Edition Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4e8c0f56bcf948d581e30c58283d183c",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-23T03:57:12.564Z",
+  "lastModifiedDate": "2024-05-23T03:57:12.564Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\BioWare\\Dragon Age II"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "DragonAge2.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "DragonAge2.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DragonAgeIIUltimateE0Wh1l"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "cd2d33ef07aa4e289169c91d467e2f39",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d0aebcfa5b534fb9ba18ea938cbc7f04",
+      "appId": "biber",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
