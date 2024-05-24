@@ -1,7 +1,7 @@
 {
   "id": "34dacbb109e44cfc9d008876ff9d6397",
-  "title": "Flint - The Treasure of Oblivion",
-  "description": "Experience the golden age of piracy through a strong and original narrative, real-time exploration and turn-based tactical combat in Flint - Treasure of Oblivion.",
+  "title": "Flint: The Treasure of Oblivion",
+  "description": "Flint: The Treasure of Oblivion",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,8 +34,8 @@
   ],
   "namespace": "ae1a11a634df42feb2e6c28eea474260",
   "status": "ACTIVE",
-  "creationDate": "2024-04-04T15:00:22.838Z",
-  "lastModifiedDate": "2024-04-04T15:00:22.838Z",
+  "creationDate": "2024-02-27T14:45:21.157Z",
+  "lastModifiedDate": "2024-05-24T08:27:32.856Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -48,12 +48,14 @@
   "releaseInfo": [
     {
       "id": "da0dc76a43c2402b9b0ef0c995bc8245",
-      "appId": "5cda2fcea4b64f64a5ebcfc227f281aa"
+      "appId": "5cda2fcea4b64f64a5ebcfc227f281aa",
+      "platform": []
     }
   ],
   "developer": "Microids",
   "developerId": "o-lyvtyhgthgebq7jdg4wu6km9lyjp2h",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
