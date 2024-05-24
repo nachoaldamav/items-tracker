@@ -1,0 +1,89 @@
+{
+  "id": "e942018b506d4cfc98c10d92bc9f9a53",
+  "title": "Mirrors Edge",
+  "description": "In this seemingly utopian paradise, a crime has been committed, and you are being hunted. You are a Runner called Faith and this innovative first-person action-adventure is your story.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6868d9c888de43fb9c3802349612b861/mirrors-edge-n0ang.jpg",
+      "md5": "ca8a73ce2375768fe3b348a68304aabb",
+      "width": 2560,
+      "height": 1440,
+      "size": 801047,
+      "uploadedDate": "2024-05-13T19:54:02.329Z",
+      "alt": "Mirrors Edge Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6868d9c888de43fb9c3802349612b861/mirrors-edge-hu2a1.jpg",
+      "md5": "45626826f1ceafd4fe8333e3ab26db8f",
+      "width": 1200,
+      "height": 1600,
+      "size": 728911,
+      "uploadedDate": "2024-05-13T19:54:02.987Z",
+      "alt": "Download Mirrors Edge Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "527f5ab0c1924d1fa31340c6cb2246f3",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-23T15:13:06.848Z",
+  "lastModifiedDate": "2024-05-23T15:13:06.848Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\EA Games\\Mirror's Edge"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "MirrorsEdge.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "MirrorsEdge.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MirrorsEdgevyWYg"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "e942018b506d4cfc98c10d92bc9f9a53",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d4e36bab909f4a5cba0083365277cc68",
+      "appId": "sfenj",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
