@@ -1,0 +1,98 @@
+{
+  "id": "4d9bcc40d85c41d3844053583838fb07",
+  "title": "Eiyuden Chronicle: Hundred Heroes",
+  "description": "Eiyuden Chronicle: Hundred Heroes",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/5099c5ef163b4932b95e70f7298b07d5/egs-eiyudenchroniclehundredheroes-rabbitbearstudios-s1-2560x1440-501af84cccea_2560x1440-665f4c10160f2474ee9e6e9c251eb44c",
+      "md5": "665f4c10160f2474ee9e6e9c251eb44c",
+      "width": 2560,
+      "height": 1440,
+      "size": 487426,
+      "uploadedDate": "2023-09-21T23:44:36.724Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/5099c5ef163b4932b95e70f7298b07d5/egs-eiyudenchroniclehundredheroes-rabbitbearstudios-s2-1200x1600-2c62e0f1631e_1200x1600-f701faf5425348ddb143fdf62d6b5c2d",
+      "md5": "f701faf5425348ddb143fdf62d6b5c2d",
+      "width": 1200,
+      "height": 1600,
+      "size": 395601,
+      "uploadedDate": "2023-09-21T23:44:39.589Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5099c5ef163b4932b95e70f7298b07d5",
+  "status": "ACTIVE",
+  "creationDate": "2021-06-17T20:43:32.835Z",
+  "lastModifiedDate": "2024-05-23T15:02:12.511Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "5099c5ef163b4932b95e70f7298b07d5"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/505 Games S_p_A/EiyudenChronicle/{EpicID}/SaveData"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.dat"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EiyudenChronicleHH"
+    }
+  },
+  "entitlementName": "4d9bcc40d85c41d3844053583838fb07",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "26a5b57121e642cab23de3bae64ff702",
+      "appId": "040901f45eb04e5c977be18365a25ffb",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

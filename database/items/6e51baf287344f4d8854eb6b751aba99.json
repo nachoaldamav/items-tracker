@@ -1,8 +1,7 @@
 {
-  "id": "3f3f2d1932fa4672aa8822ba65a4569b",
-  "title": "liberty Pre-Purchase GeneralAudience",
-  "description": "liberty Pre-Purchase GeneralAudience",
-  "keyImages": [],
+  "id": "6e51baf287344f4d8854eb6b751aba99",
+  "title": "Hope of the Alliance audience",
+  "description": "Hope of the Alliance audience",
   "categories": [
     {
       "path": "audience"
@@ -13,10 +12,15 @@
   ],
   "namespace": "5099c5ef163b4932b95e70f7298b07d5",
   "status": "ACTIVE",
-  "creationDate": "2021-06-17T20:43:32.700Z",
-  "lastModifiedDate": "2024-05-23T15:02:12.387Z",
-  "customAttributes": {},
-  "entitlementName": "3f3f2d1932fa4672aa8822ba65a4569b",
+  "creationDate": "2023-08-28T23:35:16.541Z",
+  "lastModifiedDate": "2024-05-23T15:02:12.388Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "6e51baf287344f4d8854eb6b751aba99",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
