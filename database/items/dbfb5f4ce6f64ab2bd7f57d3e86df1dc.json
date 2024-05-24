@@ -1,0 +1,89 @@
+{
+  "id": "dbfb5f4ce6f64ab2bd7f57d3e86df1dc",
+  "title": "Burnout Paradise Remastered",
+  "description": "Burnout Paradise Remastered provides the ultimate driving playground for you and your friends to play online.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3267f60098f1423d86871c58e304bd79/burnout-paradise-remastered-16kyi.jpg",
+      "md5": "c316b7bcdff6a2cfdb5058f078f6ff25",
+      "width": 2560,
+      "height": 1440,
+      "size": 817901,
+      "uploadedDate": "2024-05-10T15:15:57.551Z",
+      "alt": "Burnout Paradise Remastered Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3267f60098f1423d86871c58e304bd79/burnout-paradise-remastered-10nwd.jpg",
+      "md5": "b25f322baa3063b68896ae239de1682d",
+      "width": 1200,
+      "height": 1600,
+      "size": 836926,
+      "uploadedDate": "2024-05-10T15:15:58.048Z",
+      "alt": "Download Burnout Paradise Remastered Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d3e75dee34714eae91160c46a78a19b7",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-23T15:12:45.902Z",
+  "lastModifiedDate": "2024-05-23T15:12:45.902Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Criterion\\BurnoutPR"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "BurnoutPR.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "BurnoutPR.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BurnoutParadiseRemascTIP9"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "dbfb5f4ce6f64ab2bd7f57d3e86df1dc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ddf3f8a828434e7a89cba5965412af76",
+      "appId": "gujiya",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
