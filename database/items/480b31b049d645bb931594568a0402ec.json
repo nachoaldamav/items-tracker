@@ -34,8 +34,8 @@
   ],
   "namespace": "8e9581e6efd141878e25dd1a0c0dceb6",
   "status": "ACTIVE",
-  "creationDate": "2024-04-15T06:20:40.882Z",
-  "lastModifiedDate": "2024-04-15T06:20:40.882Z",
+  "creationDate": "2024-03-21T18:02:02.049Z",
+  "lastModifiedDate": "2024-05-24T18:29:27.137Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,8 +47,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "97c106aa1b4a4b899b51cdac6a58bb18",
-      "appId": "eb1e46b51ee046c2af4697bc60989b3b"
+      "id": "d506cf68f4fe4a7b95a7ad4065c669f6",
+      "appId": "eb1e46b51ee046c2af4697bc60989b3b",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "RetroPixel Digital",
