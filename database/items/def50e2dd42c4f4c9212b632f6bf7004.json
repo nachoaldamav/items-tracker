@@ -34,9 +34,17 @@
   ],
   "namespace": "a5d808aff2a144048d1f842e0db6ad12",
   "status": "ACTIVE",
-  "creationDate": "2024-05-23T15:53:53.071Z",
-  "lastModifiedDate": "2024-05-23T15:53:53.071Z",
+  "creationDate": "2024-04-25T12:44:17.044Z",
+  "lastModifiedDate": "2024-05-25T05:02:36.849Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/AppData/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "Tombnightmares9CIjk"
@@ -48,12 +56,14 @@
   "releaseInfo": [
     {
       "id": "24d562b3fdbb45348122ea2b934e5ca9",
-      "appId": "d67ea96b3920496b98d5a5a0a056f8d2"
+      "appId": "d67ea96b3920496b98d5a5a0a056f8d2",
+      "platform": []
     }
   ],
   "developer": "DigitalMain",
   "developerId": "o-6cw5uvxnr75hpze6lrfq3s6rmm58wj",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
