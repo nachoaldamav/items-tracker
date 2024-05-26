@@ -34,8 +34,8 @@
   ],
   "namespace": "4a4eb74c23e14ae380f41a109b25cf1f",
   "status": "ACTIVE",
-  "creationDate": "2024-01-22T17:48:57.967Z",
-  "lastModifiedDate": "2024-01-22T17:48:57.967Z",
+  "creationDate": "2024-01-18T19:12:30.231Z",
+  "lastModifiedDate": "2024-05-26T16:19:10.645Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,8 +47,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "4f2749f78ac34e43b04e8dd5563a2ab0",
-      "appId": "aada617d95ab4536ad2dbe20daff0b97"
+      "id": "55a282261dbe45a1b366bc59e3233e52",
+      "appId": "aada617d95ab4536ad2dbe20daff0b97",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Baki Studio",
