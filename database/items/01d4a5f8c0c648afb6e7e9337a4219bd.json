@@ -34,8 +34,8 @@
   ],
   "namespace": "605c18826d4048e7902d410f98e219ac",
   "status": "ACTIVE",
-  "creationDate": "2024-03-25T14:08:00.080Z",
-  "lastModifiedDate": "2024-03-25T14:08:00.080Z",
+  "creationDate": "2024-02-27T16:28:22.326Z",
+  "lastModifiedDate": "2024-05-26T13:03:13.916Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,8 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "f3871a50be9948a0ae305297c554922a",
-      "appId": "d5f1bc26ed2f49288120f5a13dac93bc"
+      "id": "5138bd7ee3ed4c4880662da947a431ee",
+      "appId": "d5f1bc26ed2f49288120f5a13dac93bc",
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Calamity",
