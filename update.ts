@@ -197,8 +197,15 @@ class Main {
 			
 		}); */
 		const files = fs.readdirSync(itemsPath);
+
+		console.log(`Found ${files.length} items...`);
+
+		console.log("::group::Indexing items...");
+
 		for (const fileName of files) {
-			if (fileName.substr(-5) !== ".json") return;
+			if (fileName.substr(-5) !== ".json") continue;
+			console.log(`Indexing ${fileName}...`);
+
 			try {
 				const item = JSON.parse(
 					fs.readFileSync(`${itemsPath}/${fileName}`, "utf8"),
@@ -243,6 +250,8 @@ class Main {
 			`${this.databasePath}/list.json`,
 			JSON.stringify(list, null, 2),
 		);
+
+		console.log("::endgroup::");
 	}
 
 	async sync(): Promise<void> {
