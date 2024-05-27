@@ -1,0 +1,63 @@
+{
+  "id": "5a1c750d88c24f8ebb0841f1a9932571",
+  "title": "Space Wolf",
+  "description": "Space Wolf",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/cde5e4916860464eb5d662874c2cfbc3/space-wolf-19ol5.jpg",
+      "md5": "e632928daad22d085ffce18e6ceeef1d",
+      "width": 2560,
+      "height": 1440,
+      "size": 843238,
+      "uploadedDate": "2024-03-16T03:26:26.174Z",
+      "alt": "Space Wolf Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/cde5e4916860464eb5d662874c2cfbc3/space-wolf-1x07j.jpg",
+      "md5": "bc3c57a37c0948058dcb4bd435e825ff",
+      "width": 1200,
+      "height": 1600,
+      "size": 857267,
+      "uploadedDate": "2024-03-16T03:24:19.291Z",
+      "alt": "Download Space Wolf Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "67b63764a0ad4f9a86559d8b798ef25e",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-26T23:56:34.957Z",
+  "lastModifiedDate": "2024-05-26T23:56:34.957Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SpaceWolfxIsBY"
+    }
+  },
+  "entitlementName": "5a1c750d88c24f8ebb0841f1a9932571",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d435e5b4af384d5f8381047ba5e4549a",
+      "appId": "34f1d89e0b904044b13bb78f3a115424",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Christopher Jensen",
+  "developerId": "o-h863bwd2uv48h5ntjnuwvqmz7bdsgf",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
