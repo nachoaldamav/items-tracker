@@ -1,0 +1,62 @@
+{
+  "id": "be15546d39d346a187aead9d59dd51db",
+  "title": "New Lands",
+  "description": "New Lands",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/24a58932c76e4e5ab83979a68811aadc/new-lands-zy818.jpg",
+      "md5": "5e48bf27a6fbbf8033336bc35dd66912",
+      "width": 2560,
+      "height": 1440,
+      "size": 1873487,
+      "uploadedDate": "2024-05-25T12:17:32.428Z",
+      "alt": "New Lands Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/24a58932c76e4e5ab83979a68811aadc/new-lands-rjhlz.jpg",
+      "md5": "1738c006f7ea6465d506b91b56439b93",
+      "width": 1200,
+      "height": 1600,
+      "size": 204653,
+      "uploadedDate": "2024-05-25T12:17:31.028Z",
+      "alt": "Download New Lands Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e0f22cbd766547b5b10cbac9bf35849b",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-26T20:15:43.452Z",
+  "lastModifiedDate": "2024-05-26T20:15:43.452Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "NewLands5rere"
+    }
+  },
+  "entitlementName": "be15546d39d346a187aead9d59dd51db",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5af9ef77582b4774a7141e6b5d23e81c",
+      "appId": "5150de0cf9ae499e8606c6d86299fa72",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "8floor ltd",
+  "developerId": "o-2dxythsc7hl56prmcn2jky633c3je8",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
