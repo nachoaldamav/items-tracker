@@ -35,11 +35,11 @@
   "namespace": "6827387b744d4a46bd70ea8a145e595b",
   "status": "ACTIVE",
   "creationDate": "2023-11-15T06:11:10.048Z",
-  "lastModifiedDate": "2024-04-22T17:30:19.557Z",
+  "lastModifiedDate": "2024-05-28T11:58:41.725Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "ZenlessZoneZeroepjmy"
+      "value": "ZenlessZoneZero"
     }
   },
   "entitlementName": "825cd0b5286c404289d456d47561cc1a",
@@ -47,13 +47,17 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "c6fd126f9b8644eb8852497061c25e33",
-      "appId": "525aa0efd70f4399b9f64bcd2a5b38c7"
+      "id": "b094d7296cb6434a96209c0e82e71508",
+      "appId": "525aa0efd70f4399b9f64bcd2a5b38c7",
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Cognosphere",
   "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
