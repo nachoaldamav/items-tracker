@@ -86,10 +86,7 @@
       "id": "4c615330ff194d3d808dd7a44b7f03f4",
       "appId": "Magnolia",
       "compatibleApps": [],
-      "platform": [
-        "Windows",
-        "Mac"
-      ],
+      "platform": ["Windows", "Mac"],
       "dateAdded": "2019-03-04T00:00:00.000Z",
       "releaseNote": "",
       "versionTitle": ""
@@ -97,10 +94,8 @@
   ],
   "developer": "Thekla, Inc.",
   "developerId": "o-ch8uj5xq8v7rkurtr6gpx8accufw8u",
-  "eulaIds": [
-    "egstore"
-  ],
+  "eulaIds": ["egstore"],
   "endOfSupport": false,
-  "selfRefundable": true,
+  "selfRefundable": false,
   "unsearchable": false
 }
