@@ -266,7 +266,6 @@ class Main {
     if (this.changelist.length > 0) {
       const API_URL = 'https://changelog-api.snpm.workers.dev/';
       console.log('Syncing with API...');
-      console.log(`Using Access Token: ${process.env.ACCESS_TOKEN}`);
       await axios
         .post(
           API_URL,
@@ -284,7 +283,7 @@ class Main {
           return response;
         })
         .catch((error: any) => {
-          console.error('Error syncing with API', error);
+          console.error('Error syncing with API', error.message);
         });
     } else {
       console.log('No changes to sync...');
