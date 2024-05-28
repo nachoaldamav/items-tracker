@@ -264,7 +264,7 @@ class Main {
 
   async sync(): Promise<void> {
     if (this.changelist.length > 0) {
-      const API_URL = 'https://changelog-api.snpm.workers.dev/';
+      const API_URL = 'https://changelog.egdata.app/';
       console.log('Syncing with API...');
       await axios
         .post(
