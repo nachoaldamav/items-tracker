@@ -26,5 +26,7 @@ jobs:
     - run: git config --global user.email "cmsanagus@gmail.com"
     - run: git config --global user.name "EGSBot"
     - run: pnpm install
-    # - run: node update
-    - run: pnpx tsx ./update.ts
+    - name: Run script
+      run: pnpx tsx ./update.ts
+      env:
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}

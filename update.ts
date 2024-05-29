@@ -28,7 +28,7 @@ class Main {
     }[];
   }[] = [];
 
-  readonly queueSize = 1;
+  readonly queueSize = 200;
 
   constructor() {
     this.language = 'en';
