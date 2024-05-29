@@ -34,8 +34,8 @@
   ],
   "namespace": "58004246d72f474a957ff5f57b9684ca",
   "status": "ACTIVE",
-  "creationDate": "2024-04-30T11:37:25.868Z",
-  "lastModifiedDate": "2024-04-30T11:37:25.868Z",
+  "creationDate": "2023-06-21T13:00:31.276Z",
+  "lastModifiedDate": "2024-05-28T14:52:56.366Z",
   "customAttributes": {
     "CloudSaveFolder_MAC": {
       "type": "STRING",
@@ -44,6 +44,10 @@
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{UserProfile}/Documents/Cat Quest II/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "2000"
     },
     "FolderName": {
       "type": "STRING",
@@ -55,7 +59,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "237651cae190473cba350884b6598038",
+      "id": "a011b926dacf49cfaed1279bc2bb8d79",
       "appId": "6a2cc8b03e684bbd9096a338f96a7ba2",
       "platform": [
         "Windows"
