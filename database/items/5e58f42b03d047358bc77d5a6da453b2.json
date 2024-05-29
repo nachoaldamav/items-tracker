@@ -1,0 +1,71 @@
+{
+  "id": "5e58f42b03d047358bc77d5a6da453b2",
+  "title": "Red Planet Rampart",
+  "description": "An immersive sci-fi survival RPG, you are deployed to the desolate red planet to reforge humanity's hope. With no hospitable atmosphere, no nurturing water sources, only relentless storms, unknown alien creatures, you must use wit and determination to survive on this alien land.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5adecddc50a54893950c9a9d7cc8a45e/red-planet-rampart-12ajn.png",
+      "md5": "5f0b9644c5c18d56158e39d537fdb558",
+      "width": 2560,
+      "height": 1440,
+      "size": 4186894,
+      "uploadedDate": "2024-05-17T12:26:49.880Z",
+      "alt": "Red Planet Rampart Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5adecddc50a54893950c9a9d7cc8a45e/red-planet-rampart-1rn2u.png",
+      "md5": "1ea36fe285d699f4ca3c9fe0fc26ceb4",
+      "width": 1200,
+      "height": 1600,
+      "size": 2224865,
+      "uploadedDate": "2024-05-17T12:26:49.476Z",
+      "alt": "Download Red Planet Rampart Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "dc66053dbf6248cfbcb8c9a406b54dfb",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-28T22:49:09.354Z",
+  "lastModifiedDate": "2024-05-28T22:49:09.354Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/RedPlanetRampart/Saved/SaveGames/{EpicID}/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RedPlanetRampart"
+    }
+  },
+  "entitlementName": "5e58f42b03d047358bc77d5a6da453b2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e12760d6d284403ca3b422324adbcac2",
+      "appId": "d30ef1718536487d85130c5037b14dc7",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Beijing 1023 Technology CO., Ltd",
+  "developerId": "o-w7jyrlpjny3ff9tagn77xl3gjlg29s",
+  "endOfSupport": false,
+  "applicationId": "fghi4567HvNVLN4gzXtrlOhLzfgwLhcb",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
