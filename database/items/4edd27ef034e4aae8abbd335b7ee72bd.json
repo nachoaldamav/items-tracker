@@ -1,0 +1,67 @@
+{
+  "id": "4edd27ef034e4aae8abbd335b7ee72bd",
+  "title": "Chocolate Factory",
+  "description": "Chocolate Factory",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/97f637c8141740c0858e85658675cf9f/chocolate-factory-qent6.png",
+      "md5": "46b8b4bb89ec70486950fd18a4dd3945",
+      "width": 2560,
+      "height": 1440,
+      "size": 1689015,
+      "uploadedDate": "2024-05-23T20:35:45.492Z",
+      "alt": "Chocolate Factory Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/97f637c8141740c0858e85658675cf9f/chocolate-factory-npz9g.png",
+      "md5": "2370bdd6796f7ef2647f57d3517e6922",
+      "width": 1200,
+      "height": 1600,
+      "size": 2789242,
+      "uploadedDate": "2024-05-23T20:35:45.327Z",
+      "alt": "Download Chocolate Factory Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "14acd6d0e20049f4bcd489aeb6dd6f85",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-23T20:12:45.365Z",
+  "lastModifiedDate": "2024-05-29T14:51:56.252Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/Chocolate Factory/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ChocolateFactorynQ4ON"
+    }
+  },
+  "entitlementName": "4edd27ef034e4aae8abbd335b7ee72bd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "92c2f803554d43168e88ecf7664acfac",
+      "appId": "0f5366ecb09e43dbbe7d47511cb5e1d6",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Tbjbu2",
+  "developerId": "o-q7xd2q8aaspgnhwnwy4p2zvymh88hp",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
