@@ -34,12 +34,12 @@
   ],
   "namespace": "b08609c40a8b465ea288d96ba71b2088",
   "status": "ACTIVE",
-  "creationDate": "2024-05-28T22:55:54.197Z",
-  "lastModifiedDate": "2024-05-28T22:55:54.197Z",
+  "creationDate": "2024-05-13T13:00:38.258Z",
+  "lastModifiedDate": "2024-05-29T13:08:45.279Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "DemoTheChronosEvecb65b"
+      "value": "TheChronosEventDemo"
     }
   },
   "entitlementName": "8e8f522b108f4be89449f35e3ed70b5b",
@@ -47,7 +47,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "ba21eccd3ee9446587d7609c316c84c4",
+      "id": "bd4b048f1762499ea91e05922468643d",
       "appId": "d5803c85a3134bd6b2856b0435c1d985",
       "platform": [
         "Windows"
@@ -57,6 +57,7 @@
   "developer": "Superjump Games, LLC",
   "developerId": "o-pdsuxgpwuqnhpe65d4slbp3uhpxw94",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
