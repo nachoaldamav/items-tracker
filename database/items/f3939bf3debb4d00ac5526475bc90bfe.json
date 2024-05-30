@@ -1,7 +1,7 @@
 {
-  "id": "c44344d13bd14b8dbee98f141fb7be4b",
-  "title": "Expansion Pass audience",
-  "description": "Expansion Pass audience",
+  "id": "f3939bf3debb4d00ac5526475bc90bfe",
+  "title": "Age of Wonders 4: Eldritch Realms audience",
+  "description": "Age of Wonders 4: Eldritch Realms audience",
   "categories": [
     {
       "path": "audience"
@@ -12,26 +12,23 @@
   ],
   "namespace": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "status": "ACTIVE",
-  "creationDate": "2023-01-05T21:46:34.063Z",
-  "lastModifiedDate": "2024-05-30T15:59:34.481Z",
+  "creationDate": "2024-03-14T15:59:15.371Z",
+  "lastModifiedDate": "2024-05-30T15:59:34.482Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
     }
   },
-  "entitlementName": "c44344d13bd14b8dbee98f141fb7be4b",
+  "entitlementName": "f3939bf3debb4d00ac5526475bc90bfe",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "releaseInfo": [],
   "developer": "Paradox Interactive",
   "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
-  "ageGatings": {},
-  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": true
 }
