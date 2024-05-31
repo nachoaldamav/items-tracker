@@ -1,0 +1,89 @@
+{
+  "id": "fa8969167cfe43da9779479dc18db0bd",
+  "title": "Plants vs. Zombies™ GW2: Deluxe Edition",
+  "description": "Ready the Peashooters and prepare for the craziest, funniest shooter in the universe: Plants vs. Zombies Garden Warfare 2.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a39e2271cd9a48a882b8c956205bc01f/plants-vs-zombies-gw2-deluxe-edition-1mx8u.jpg",
+      "md5": "73bb3ed68be2257e08dbc7bf6fc6b0c1",
+      "width": 2560,
+      "height": 1440,
+      "size": 868945,
+      "uploadedDate": "2024-04-19T14:29:09.669Z",
+      "alt": "Plants vs. Zombies GW2: Deluxe Edition Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a39e2271cd9a48a882b8c956205bc01f/plants-vs-zombies-gw2-deluxe-edition-1nyoh.jpg",
+      "md5": "b74ed03285c14e291b48b3fce6e1ee9c",
+      "width": 1200,
+      "height": 1600,
+      "size": 860002,
+      "uploadedDate": "2024-04-19T14:29:11.904Z",
+      "alt": "Download Plants vs. Zombies GW2: Deluxe Edition Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "156c9c9399f940878eec5e83b446198f",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-30T18:36:13.047Z",
+  "lastModifiedDate": "2024-05-30T18:36:13.047Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\PopCap\\Plants vs Zombies GW2"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "gw2.main_win64_retail.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "gw2.main_win64_retail.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PlantsvsZombiesGW2DevtIu7"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "fa8969167cfe43da9779479dc18db0bd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bb5245f5a2bf4e0bacbc25d49135582b",
+      "appId": "wagner",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
