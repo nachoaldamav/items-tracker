@@ -1,0 +1,89 @@
+{
+  "id": "f5491b9824fd455f832bc5acf34ee4b7",
+  "title": "Peggle Deluxe",
+  "description": "Take your best shot with energizing arcade fun! Aim, shoot, clear the orange pegs, then sit back and cheer as 10 whimsical teachers guide you to Peggle greatness.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/283ddc0ec85d4b5a89dc9631065c0231/peggle-deluxe-31xxr.jpg",
+      "md5": "72ff943efbd30e4fabf0df1a804b945b",
+      "width": 2560,
+      "height": 1440,
+      "size": 772529,
+      "uploadedDate": "2024-05-22T20:48:17.129Z",
+      "alt": "Peggle Deluxe Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/283ddc0ec85d4b5a89dc9631065c0231/peggle-deluxe-ktuwp.jpg",
+      "md5": "5cff380ee80c001a7fdd80e93ea90475",
+      "width": 1200,
+      "height": 1600,
+      "size": 821843,
+      "uploadedDate": "2024-05-22T20:48:17.661Z",
+      "alt": "Download Peggle Deluxe Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "836b4fbba86a42d8a0ef7987fb1921f6",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-30T18:35:59.290Z",
+  "lastModifiedDate": "2024-05-30T18:35:59.290Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\PopCap Games\\Peggle"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "Peggle.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "Peggle.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PeggleDeluxeTs7k1"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "f5491b9824fd455f832bc5acf34ee4b7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4a4a560cee1449e8a297a76198b64c09",
+      "appId": "djevrek",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
