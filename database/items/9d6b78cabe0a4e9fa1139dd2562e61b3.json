@@ -1,0 +1,64 @@
+{
+  "id": "9d6b78cabe0a4e9fa1139dd2562e61b3",
+  "title": "space-battle",
+  "description": "space-battle",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4248fe5a4bf04f4a971391171c36c35c/spacebattle-1qzaj.png",
+      "md5": "68af38aa46f9198030787ac46e7187ab",
+      "width": 2560,
+      "height": 1440,
+      "size": 3106920,
+      "uploadedDate": "2024-05-29T21:18:01.822Z",
+      "alt": "space-battle Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4248fe5a4bf04f4a971391171c36c35c/spacebattle-10d4r.jpg",
+      "md5": "9c547e3c5610d20eef0f351fda2d41cf",
+      "width": 1200,
+      "height": 1600,
+      "size": 334524,
+      "uploadedDate": "2024-05-29T21:18:01.894Z",
+      "alt": "Download space-battle Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "92420cc14a954873b336db9e1355c758",
+  "status": "ACTIVE",
+  "creationDate": "2024-05-30T14:35:36.474Z",
+  "lastModifiedDate": "2024-05-30T14:35:36.474Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "spacebattle"
+    }
+  },
+  "entitlementName": "9d6b78cabe0a4e9fa1139dd2562e61b3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3216962f85074e71a661db8fe3b221ba",
+      "appId": "1ff10eb31eeb40ecb95170858b5aaf0f",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Adrian Corbalan",
+  "developerId": "o-unra9e72u32xskwfgw8mnenk9dujbn",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
