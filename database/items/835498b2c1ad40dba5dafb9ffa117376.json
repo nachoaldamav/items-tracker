@@ -34,12 +34,16 @@
   ],
   "namespace": "fe870cd6ecac4382a8cd9c974f1638f0",
   "status": "ACTIVE",
-  "creationDate": "2024-05-08T13:51:22.301Z",
-  "lastModifiedDate": "2024-05-08T13:51:22.301Z",
+  "creationDate": "2024-04-01T14:31:08.417Z",
+  "lastModifiedDate": "2024-06-01T16:20:31.934Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{AppData}/MansionEscape/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "audio_settings.sav,game_settings.sav,gamesave_slot_0.sav,meta_data.sav"
     },
     "MaxSizeMB": {
       "type": "STRING",
@@ -55,7 +59,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "de95e6afb5e34d51b4c0afdec2a003a4",
+      "id": "417b81fe1bf746c79d2e27cac9a0bc22",
       "appId": "1c445128ab4b4ec3a5ef335d889e8a10",
       "platform": []
     }
