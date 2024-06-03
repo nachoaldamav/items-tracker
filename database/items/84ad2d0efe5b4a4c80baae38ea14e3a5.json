@@ -34,8 +34,8 @@
   ],
   "namespace": "e842ff4630504acd96d55f65a5827d1c",
   "status": "ACTIVE",
-  "creationDate": "2024-05-04T17:27:52.726Z",
-  "lastModifiedDate": "2024-05-04T17:27:52.726Z",
+  "creationDate": "2024-04-27T11:53:49.125Z",
+  "lastModifiedDate": "2024-06-03T07:26:02.335Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "937626efd0734a2e8f2c5107b5bc8284",
+      "id": "a827062993bc4383ae280568457e4686",
       "appId": "5ec494681804465d99e8c73c85f61c11",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Battle Strike Games ",
