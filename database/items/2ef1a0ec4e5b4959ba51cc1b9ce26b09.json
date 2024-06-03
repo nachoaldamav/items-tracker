@@ -1,7 +1,7 @@
 {
   "id": "2ef1a0ec4e5b4959ba51cc1b9ce26b09",
   "title": "Ocean's Heart",
-  "description": "Ocean's Heart",
+  "description": "Ocean’s Heart is an epic top-down action RPG in which you explore a beautiful archipelago as a young woman named Tilia. Take on contracts to fight monsters, descend deep into ancient dungeons, defeat menacing foes, and unravel the mystery of Ocean’s Heart.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,8 +34,8 @@
   ],
   "namespace": "ab65f37619d340748fafdccfead657f1",
   "status": "ACTIVE",
-  "creationDate": "2023-10-25T12:00:19.803Z",
-  "lastModifiedDate": "2023-10-25T12:00:19.803Z",
+  "creationDate": "2023-03-31T13:37:09.370Z",
+  "lastModifiedDate": "2024-06-03T05:02:02.022Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -55,20 +55,16 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "4f76b8f160d445728ba6b8180328121d",
+      "id": "8693044d2b1c475a8930fb376b60aae8",
       "appId": "f5634f8aacc94c60838dfdac5fe3c7b8",
-      "compatibleApps": [],
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2023-09-05T15:50:22.460Z"
+      ]
     }
   ],
   "developer": "UAB Nordcurrent Group",
   "developerId": "o-q6cdbfpcbjub728pzlab6wedbt6btq",
-  "eulaIds": [],
   "endOfSupport": false,
-  "ageGatings": {},
   "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
