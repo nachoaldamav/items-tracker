@@ -35,11 +35,15 @@
   "namespace": "a927bb8643514202846c78c1ab0c2d18",
   "status": "ACTIVE",
   "creationDate": "2023-11-07T02:44:26.427Z",
-  "lastModifiedDate": "2024-05-15T02:13:55.065Z",
+  "lastModifiedDate": "2024-06-03T18:58:56.680Z",
   "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserDir}/Nanite/Documents/"
+    },
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{AppData}/Nanite/Documents/"
+      "value": "{UserDir}/Nanite/Documents/"
     },
     "MaxSizeMB": {
       "type": "STRING",
@@ -55,7 +59,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "b0243e546214457cadff6b7d7cf2cd51",
+      "id": "d44cd2f3a6534aff950375d71b5afd5d",
       "appId": "20555b0877bd4146b8c31fd62e6d6097",
       "platform": [
         "Windows"
