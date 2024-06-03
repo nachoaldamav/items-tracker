@@ -1,0 +1,64 @@
+{
+  "id": "9e1b5446794a4036a698e05740f25b13",
+  "title": "BloodLoop",
+  "description": "BloodLoop",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/48abd622627b45949182ec1e674f5422/bloodloop-17b13.png",
+      "md5": "40b89170ff19dacd9f15aab5c43b4f66",
+      "width": 2560,
+      "height": 1440,
+      "size": 3201455,
+      "uploadedDate": "2023-12-12T11:48:48.920Z",
+      "alt": "BloodLoop Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/48abd622627b45949182ec1e674f5422/bloodloop-qtghz.png",
+      "md5": "cab11b6562642e1de050238415695644",
+      "width": 1200,
+      "height": 1600,
+      "size": 2280472,
+      "uploadedDate": "2023-12-12T11:48:47.367Z",
+      "alt": "Download BloodLoop Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e9a242d5b2ff42199ba462963f583cba",
+  "status": "ACTIVE",
+  "creationDate": "2024-06-03T04:05:34.314Z",
+  "lastModifiedDate": "2024-06-03T04:05:34.314Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BloodLoop"
+    }
+  },
+  "entitlementName": "9e1b5446794a4036a698e05740f25b13",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f438a30047da4897a07ed7998aa2365c",
+      "appId": "3712e6192dc846419a51f3adabb0b593",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Ragnarok Games",
+  "developerId": "o-8cr5wjadlmjbu8kcwwj8cw7hlg8yp3",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
