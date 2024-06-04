@@ -35,11 +35,11 @@
   "namespace": "b028d8e2032245dfb53bf280cca4a06d",
   "status": "ACTIVE",
   "creationDate": "2022-05-23T07:08:53.347Z",
-  "lastModifiedDate": "2023-11-22T09:46:29.586Z",
+  "lastModifiedDate": "2024-06-04T07:15:40.040Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "MarsTacticsRZlnZ"
+      "value": "MarsTactics"
     }
   },
   "entitlementName": "9023ed2cf6a64fe493d0c4be85c2c420",
@@ -50,14 +50,15 @@
       "id": "ed2321cee338439ba62cdb0ec8b1a086",
       "appId": "6134bf2d504641ae98f1c2ee7041bd5e",
       "platform": [
-        "Windows",
-        "Win32"
+        "Win32",
+        "Windows"
       ]
     }
   ],
   "developer": "Hooded Horse Inc.",
   "developerId": "o-4ftedygtvtsgp7tbaf49mpm7lt6u2e",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }

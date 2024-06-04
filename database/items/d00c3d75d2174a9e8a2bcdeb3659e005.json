@@ -1,0 +1,91 @@
+{
+  "id": "d00c3d75d2174a9e8a2bcdeb3659e005",
+  "title": "Buff",
+  "description": "Buff",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4a6257bdd0a14c36bc22e5e050f076e9/buff-1rsbi.jpg",
+      "md5": "7cacdec219f082a5c38294bb1a9db310",
+      "width": 2560,
+      "height": 1440,
+      "size": 2448838,
+      "uploadedDate": "2024-05-15T12:21:50.105Z",
+      "alt": "Buff Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4a6257bdd0a14c36bc22e5e050f076e9/buff-15oz4.jpg",
+      "md5": "1c0d2c64e8c7b2c89eef9bf30a7effc2",
+      "width": 1200,
+      "height": 1600,
+      "size": 1170891,
+      "uploadedDate": "2024-05-15T12:21:53.241Z",
+      "alt": "Download Buff Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ad7c1ad62a9543a8977bcebbbf1e5ae1",
+  "status": "ACTIVE",
+  "creationDate": "2024-06-04T06:47:50.969Z",
+  "lastModifiedDate": "2024-06-04T06:47:50.969Z",
+  "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "TRUE"
+    },
+    "SkipAutoInstallDlc": {
+      "type": "STRING",
+      "value": "TRUE"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "/Overwolf"
+    },
+    "NotarizedAndSigned": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "BUFF.exe"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BuffjApy8"
+    },
+    "BackgroundProcessNames": {
+      "type": "STRING",
+      "value": "Overwolf.exe, OverwolfBrowser.exe"
+    }
+  },
+  "entitlementName": "d00c3d75d2174a9e8a2bcdeb3659e005",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f382decc86824171815c6a2a44788efc",
+      "appId": "59526acf3d854efe978b7a31849a7110",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Overwolf",
+  "developerId": "o-rylak7qvslxaqvsmrdcl44jzquctzs",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
