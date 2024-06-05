@@ -1,0 +1,35 @@
+{
+  "id": "3499f622606b4bfe900060b7b8638994",
+  "title": "ThuliumGeneralAudience",
+  "description": "ThuliumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2ef1c6035f6240ae9bd6ab92eb82db4e",
+  "status": "ACTIVE",
+  "creationDate": "2021-01-26T16:38:32.311Z",
+  "lastModifiedDate": "2024-06-04T22:11:30.790Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "3499f622606b4bfe900060b7b8638994",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "The GD Studio",
+  "developerId": "o-376adequh7aazkj2cky8h6aezvju5h",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
