@@ -1,0 +1,63 @@
+{
+  "id": "ddabf53810544e18996cefab60ab99a8",
+  "title": "Happy Lab",
+  "description": "Happy Lab",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2e34887325714d649c9d0fa758fe73bf/happy-lab-s3rym.png",
+      "md5": "46ae97b888b8c96fbea3546e948e4209",
+      "width": 2560,
+      "height": 1440,
+      "size": 1601187,
+      "uploadedDate": "2024-05-25T00:53:40.659Z",
+      "alt": "Happy Lab Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2e34887325714d649c9d0fa758fe73bf/happy-lab-yz4a9.png",
+      "md5": "4e970f7b8cdbfc53cb997c018413108c",
+      "width": 1200,
+      "height": 1600,
+      "size": 662637,
+      "uploadedDate": "2024-05-25T00:53:39.261Z",
+      "alt": "Download Happy Lab Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e93d97d4ad334c75b10412ae114c00dd",
+  "status": "ACTIVE",
+  "creationDate": "2024-06-05T08:44:19.751Z",
+  "lastModifiedDate": "2024-06-05T08:44:19.751Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "MyProductF7PWY"
+    }
+  },
+  "entitlementName": "ddabf53810544e18996cefab60ab99a8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ccf23f465aff4b38a5e5b0c2465f07d9",
+      "appId": "639d99de7b574b429791e2a19f17a22b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "My Team EliteGamesNet",
+  "developerId": "o-rqb3umvv65jwqny4gxhhnf9xqjt8zq",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
