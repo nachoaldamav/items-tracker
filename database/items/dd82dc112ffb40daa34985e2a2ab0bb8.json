@@ -1,0 +1,75 @@
+{
+  "id": "dd82dc112ffb40daa34985e2a2ab0bb8",
+  "title": "Garden Paradise",
+  "description": "Garden Paradise",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/831954deba0c4739814786ec067e4d81/garden-paradise-uypws.png",
+      "md5": "7ebe87d78e82cfabf63cd6b1fc2a7b87",
+      "width": 2560,
+      "height": 1440,
+      "size": 3380905,
+      "uploadedDate": "2024-06-02T03:57:33.819Z",
+      "alt": "Garden Paradise Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/831954deba0c4739814786ec067e4d81/garden-paradise-1m00v.png",
+      "md5": "53bdae4f0e9ccd9937b8631e1fd5b7be",
+      "width": 1200,
+      "height": 1600,
+      "size": 2087091,
+      "uploadedDate": "2024-06-02T03:57:32.927Z",
+      "alt": "Download Garden Paradise Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "54180fd9376a41a287ff0cc5bbad0a5b",
+  "status": "ACTIVE",
+  "creationDate": "2024-06-05T13:34:43.399Z",
+  "lastModifiedDate": "2024-06-05T13:34:43.399Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/PolyGarden/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "99999"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Coytek_GardenParadise"
+    }
+  },
+  "entitlementName": "dd82dc112ffb40daa34985e2a2ab0bb8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "db5d809d487a4aab8878b5f5139c97f1",
+      "appId": "f151b9d5d7b947c1b6f39e617dfc9816",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Coytek Games",
+  "developerId": "o-ag9k9w7wrrbzn3b5mxef98d9kg9cna",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
