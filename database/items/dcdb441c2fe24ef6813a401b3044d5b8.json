@@ -35,7 +35,7 @@
   "namespace": "0ea1e86ea6bc402790f8b8d6302ac790",
   "status": "ACTIVE",
   "creationDate": "2023-10-18T20:41:13.463Z",
-  "lastModifiedDate": "2024-05-26T17:34:08.698Z",
+  "lastModifiedDate": "2024-06-05T15:08:03.903Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "e6d79b66cf1d4e4286296f2807b3d71c",
+      "id": "4bae7010b37e4a358aeefb12eb4a67f0",
       "appId": "5855403b49e943769a409d116a71dcd5",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "EMANUELE AVALLONE",
