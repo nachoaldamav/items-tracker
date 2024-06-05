@@ -35,8 +35,12 @@
   "namespace": "441b1561f48746059211ab905f4abc93",
   "status": "ACTIVE",
   "creationDate": "2023-04-03T23:30:28.311Z",
-  "lastModifiedDate": "2024-02-01T15:05:01.522Z",
+  "lastModifiedDate": "2024-06-05T12:02:47.018Z",
   "customAttributes": {
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "TRUE"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "FishingPlanetQizFL"
@@ -47,7 +51,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "0f921470863248449726d9a77fe70845",
+      "id": "1e0d96dd3617433f84d44332624528d2",
       "appId": "ab68facc57fa457a9832de2a982048e9",
       "platform": [
         "Windows"
