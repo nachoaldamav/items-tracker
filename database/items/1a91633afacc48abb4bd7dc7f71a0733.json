@@ -1,0 +1,89 @@
+{
+  "id": "1a91633afacc48abb4bd7dc7f71a0733",
+  "title": "Mass Effect™ 2 (2010 Edition)",
+  "description": "Are you prepared to lose everything to save the galaxy? You'll need to be, Commander Shepard. It's up to you.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d63910571c9e4ea0aae84da15511bf89/mass-effect-2-digital-deluxe-edition-osmg1.jpg",
+      "md5": "d27ae4f3f7363bd09c4e9965260cfcc7",
+      "width": 2560,
+      "height": 1440,
+      "size": 831774,
+      "uploadedDate": "2024-05-14T20:51:37.349Z",
+      "alt": "Mass Effect 2 Digital Deluxe Edition Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d63910571c9e4ea0aae84da15511bf89/mass-effect-2-digital-deluxe-edition-1ymk2.jpg",
+      "md5": "16185af43dd75e635e29497708789b4b",
+      "width": 1200,
+      "height": 1600,
+      "size": 741826,
+      "uploadedDate": "2024-05-14T20:51:37.019Z",
+      "alt": "Download Mass Effect 2 Digital Deluxe Edition Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c1cdf99afc8341929e2b1611fc77aa41",
+  "status": "ACTIVE",
+  "creationDate": "2024-06-06T18:48:23.640Z",
+  "lastModifiedDate": "2024-06-06T18:48:23.640Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\BioWare\\Mass Effect 2"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "MassEffect2.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "MassEffect2.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MassEffect2DigitalDejzAsf"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "1a91633afacc48abb4bd7dc7f71a0733",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c28e1361adae467d9e5d43127ca6a8b9",
+      "appId": "coker",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
