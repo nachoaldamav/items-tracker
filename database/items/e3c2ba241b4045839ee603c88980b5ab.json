@@ -1,0 +1,59 @@
+{
+  "id": "e3c2ba241b4045839ee603c88980b5ab",
+  "title": "AneeMate",
+  "description": "AneeMate",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d708d00f2bdc4b46882ef44aa876674a/aneemate-k22be.jpg",
+      "md5": "674260dbc2935beb968598fa367b950b",
+      "width": 2560,
+      "height": 1440,
+      "size": 3021490,
+      "uploadedDate": "2024-05-31T15:24:46.738Z",
+      "alt": "AneeMate Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d708d00f2bdc4b46882ef44aa876674a/aneemate-fxgfw.png",
+      "md5": "3d5b1453a3f4c7ac658501303e7da1a9",
+      "width": 1200,
+      "height": 1600,
+      "size": 3490904,
+      "uploadedDate": "2024-05-31T15:20:34.719Z",
+      "alt": "Download AneeMate Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "37c7383b38294eeaa49c2c2139cb3807",
+  "status": "ACTIVE",
+  "creationDate": "2024-06-06T13:16:55.352Z",
+  "lastModifiedDate": "2024-06-06T13:16:55.352Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "AneeMatemmG2T"
+    }
+  },
+  "entitlementName": "e3c2ba241b4045839ee603c88980b5ab",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "09bade2ae82845eaa450ba5688c90985",
+      "appId": "594e6dd45b2f4b0cb9a4c311a167580b"
+    }
+  ],
+  "developer": "QORPO s.r.o.",
+  "developerId": "o-2gd3yy6eut7zpdxlva9a7l8xvh63xt",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
