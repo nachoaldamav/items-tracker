@@ -1,0 +1,89 @@
+{
+  "id": "0491780966f54b2ea0e86de918a5ed04",
+  "title": "GRID Legends: Deluxe Edition",
+  "description": "GRID Legends delivers thrilling wheel-to-wheel motorsport and edge of your seat action around the globe.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4f40b4a3b7f04bb0962d35dfe9173ba4/grid-legends-deluxe-edition-1ubie.jpg",
+      "md5": "143dbc97f1fa91953513402f19f2d530",
+      "width": 2560,
+      "height": 1440,
+      "size": 767638,
+      "uploadedDate": "2024-05-15T00:05:49.173Z",
+      "alt": "Grid Legends Deluxe Edition Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4f40b4a3b7f04bb0962d35dfe9173ba4/grid-legends-deluxe-edition-jlsmk.jpg",
+      "md5": "81d183486cb603770c6ac0ab0064698c",
+      "width": 1200,
+      "height": 1600,
+      "size": 729577,
+      "uploadedDate": "2024-05-15T00:05:48.949Z",
+      "alt": "Download Grid Legends Deluxe Edition Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4dbce3b6359541ae90e4fcb14c9d2164",
+  "status": "ACTIVE",
+  "creationDate": "2024-06-06T18:48:20.788Z",
+  "lastModifiedDate": "2024-06-06T18:48:20.788Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Codemasters\\GridLegends"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "installerdata.xml"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "installerdata.xml"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GridLegendsDeluxeEdiqP2M2"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "0491780966f54b2ea0e86de918a5ed04",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c85ab32361df4db4b33b6fc66bbf4235",
+      "appId": "liszt",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

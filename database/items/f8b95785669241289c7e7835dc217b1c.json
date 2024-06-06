@@ -1,0 +1,63 @@
+{
+  "id": "f8b95785669241289c7e7835dc217b1c",
+  "title": "Warped Universe",
+  "description": "Warped Universe",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2e63d72f1836498cad03bb99f0dccca7/warped-universe-1v0f1.png",
+      "md5": "5c0927814d5db231772b2b492b1383bc",
+      "width": 2560,
+      "height": 1440,
+      "size": 4091031,
+      "uploadedDate": "2024-06-03T16:13:09.616Z",
+      "alt": "Warped Universe Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2e63d72f1836498cad03bb99f0dccca7/warped-universe-qsivw.png",
+      "md5": "eed317be4e0035bfe340305cee3e9c7a",
+      "width": 1200,
+      "height": 1600,
+      "size": 2620288,
+      "uploadedDate": "2024-06-03T16:16:11.778Z",
+      "alt": "Download Warped Universe Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "80ba3ee229734e4ab46601547075e24e",
+  "status": "ACTIVE",
+  "creationDate": "2024-06-05T18:57:24.419Z",
+  "lastModifiedDate": "2024-06-05T18:57:24.419Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "WarpedUniverseDev"
+    }
+  },
+  "entitlementName": "f8b95785669241289c7e7835dc217b1c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5f049408a8714d3eb187ab559d0b05a4",
+      "appId": "6d12582e785e452994dfb0de7fe3adfd",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Warped Studios",
+  "developerId": "o-jx3lbwsxmyebvegkbnx6zqrwr9xzyk",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
