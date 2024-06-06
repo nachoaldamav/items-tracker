@@ -1,7 +1,7 @@
 {
   "id": "abead7952d9b459aa8c66390c03e7cda",
   "title": "A Game´s Tale",
-  "description": "A Game´s Tale",
+  "description": "Welcome to \"A Game´s Tale”, where you´ll enjoy tactical battles, grow your deck as you travel through a fantasy world. While meeting charming characters along the way, you will discover the secret of why we play.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,8 +34,8 @@
   ],
   "namespace": "1001579a7cb24f058683043aca87f987",
   "status": "ACTIVE",
-  "creationDate": "2024-02-27T20:58:53.139Z",
-  "lastModifiedDate": "2024-02-27T20:58:53.139Z",
+  "creationDate": "2024-02-14T16:27:45.078Z",
+  "lastModifiedDate": "2024-06-06T14:37:00.253Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "00feea0dac1a41a3828bb1c23c1db8d5",
+      "id": "c743ae5171994de884cb6e5b33fb2f7b",
       "appId": "f751dbd601d34f93a4470b10e552fda8",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "VisQo",
