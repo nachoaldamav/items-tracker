@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/ca9ef1bcf2f54043baac351366aec677/black-myth-wukong-13lzq.png",
-      "md5": "5dde619a5b6e099fa6d60879cacfe381",
+      "url": "https://cdn1.epicgames.com/spt-assets/ca9ef1bcf2f54043baac351366aec677/black-myth-wukong-o2bn7.jpg",
+      "md5": "3551e287ed1ee0baea882929b1026dd8",
       "width": 2560,
       "height": 1440,
-      "size": 1401734,
-      "uploadedDate": "2023-08-12T06:15:29.297Z",
+      "size": 1758901,
+      "uploadedDate": "2024-06-04T19:36:50.340Z",
       "alt": "Black Myth Wukong Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/ca9ef1bcf2f54043baac351366aec677/black-myth-wukong-q2yri.png",
-      "md5": "2a43e13cfa05a68e1aff16d27eddefa6",
+      "url": "https://cdn1.epicgames.com/spt-assets/ca9ef1bcf2f54043baac351366aec677/black-myth-wukong-14556.png",
+      "md5": "fdb17380378bfbbb8a5541d5c6d94029",
       "width": 1200,
       "height": 1600,
-      "size": 2913767,
-      "uploadedDate": "2023-08-12T02:51:24.879Z",
+      "size": 2895876,
+      "uploadedDate": "2024-06-04T19:36:56.800Z",
       "alt": "Download Black Myth Wukong Offer"
     }
   ],
@@ -35,11 +35,15 @@
   "namespace": "0e548758b82a4be785f435cedf306130",
   "status": "ACTIVE",
   "creationDate": "2023-06-07T11:29:09.669Z",
-  "lastModifiedDate": "2023-12-08T02:20:12.695Z",
+  "lastModifiedDate": "2024-06-07T20:58:36.944Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{InstallDir}/SteamDepot/Saved/SaveGames/{EpicID}/"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "TRUE"
     },
     "FolderName": {
       "type": "STRING",
@@ -51,7 +55,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "0b1647d75a264533a9d5236fae7e12cd",
+      "id": "3b2ead1558664adca8cd3b9b66660d01",
       "appId": "f53c5471fd0e47619e72b6d21a527abe",
       "platform": []
     }

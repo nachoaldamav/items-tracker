@@ -1,0 +1,75 @@
+{
+  "id": "527125fd90be4f4eb0554597fb9b98fd",
+  "title": "FATAL FURY: City of the Wolves",
+  "description": "FATAL FURY: City of the Wolves",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ae53204637354f019489f0148c950ce1/garou-city-of-the-wolves-683g8.jpg",
+      "md5": "30838ac16145cc20f9f987a75db1961e",
+      "width": 2560,
+      "height": 1440,
+      "size": 1842020,
+      "uploadedDate": "2024-05-27T04:37:53.848Z",
+      "alt": "Garou -City Of The Wolves- Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ae53204637354f019489f0148c950ce1/garou-city-of-the-wolves-mhmrm.jpg",
+      "md5": "0af36b7c10d3a53fa1a65f18404b6b35",
+      "width": 1200,
+      "height": 1600,
+      "size": 684250,
+      "uploadedDate": "2024-05-31T00:44:19.261Z",
+      "alt": "Download Garou -City Of The Wolves- Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6ce9cadbab474f07928e3035473289d2",
+  "status": "ACTIVE",
+  "creationDate": "2024-06-07T20:00:19.263Z",
+  "lastModifiedDate": "2024-06-07T20:00:19.263Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/MOTW2/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "GameData.sav,SystemData.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "200"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GarouCityOfTheWolvesTIvrY"
+    }
+  },
+  "entitlementName": "527125fd90be4f4eb0554597fb9b98fd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "07121fb056d54da28912c1bf421f56b9",
+      "appId": "659186067fd348dca224025bb1f2b5a8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SNK CORPORATION",
+  "developerId": "o-bse2s8gp28ptrv924lby79vx66vsz6",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
