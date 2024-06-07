@@ -1,0 +1,89 @@
+{
+  "id": "fdad4e38e050448b8a48a1dd128f90d8",
+  "title": "Command & Conquer™ Remastered Collection",
+  "description": "Command & Conquer and Red Alert defined the RTS genre 25 years ago, and are now both fully remastered in 4k by the former Westwood Studios team members at Petroglyph Games.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b4502561379b419a8dba5a8ecf456b5e/command-and-conquer-remastered-hj1c9.jpg",
+      "md5": "294a981e4a938fbecfbbf756612c129b",
+      "width": 2560,
+      "height": 1440,
+      "size": 885505,
+      "uploadedDate": "2024-05-24T23:48:01.866Z",
+      "alt": "Command and Conquer Remastered Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b4502561379b419a8dba5a8ecf456b5e/command-and-conquer-remastered-142ex.jpg",
+      "md5": "0a1cb58b7bb86e1783c3deb8ee2d4781",
+      "width": 1200,
+      "height": 1600,
+      "size": 835783,
+      "uploadedDate": "2024-05-24T23:48:01.074Z",
+      "alt": "Download Command and Conquer Remastered Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2c01f88a21d94b10846433931e3fb628",
+  "status": "ACTIVE",
+  "creationDate": "2024-06-06T18:15:16.209Z",
+  "lastModifiedDate": "2024-06-06T18:15:16.209Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Petroglyph\\CnCRemastered"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "ClientLauncherG.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "ClientLauncherG.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CommandandConquerRem4azKE"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "fdad4e38e050448b8a48a1dd128f90d8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "43b0c9115ec04cecb713af96b813b465",
+      "appId": "wintory",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
