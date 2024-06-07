@@ -13,7 +13,7 @@
   "namespace": "39697c68e46b48d2b75e17bdc417d859",
   "status": "ACTIVE",
   "creationDate": "2020-09-30T17:24:28.177Z",
-  "lastModifiedDate": "2020-11-19T15:54:49.019Z",
+  "lastModifiedDate": "2024-06-07T18:59:01.035Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,6 +23,7 @@
   "entitlementName": "ee097ac7fccb40e18ca7d77aa7c1e6ff",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Headup Gmbh",
   "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
   "eulaIds": [
@@ -30,6 +31,7 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
