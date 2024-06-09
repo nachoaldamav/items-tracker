@@ -1,0 +1,63 @@
+{
+  "id": "c1d4fb7bfad948e4bc60d47bb477f8b4",
+  "title": "FlipScapes Demo",
+  "description": "FlipScapes Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1e97e2a7585d42c18eac2dd1128da12c/flipscapes-zf88v.jpg",
+      "md5": "5848e3330414d1d9dd6844ac012b28a7",
+      "width": 2560,
+      "height": 1440,
+      "size": 567723,
+      "uploadedDate": "2023-07-12T23:53:13.797Z",
+      "alt": "FlipScapes FlipScapes Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1e97e2a7585d42c18eac2dd1128da12c/flipscapes-pn7il.png",
+      "md5": "2958b8039a5e70833b6eeaec2518cd0e",
+      "width": 1200,
+      "height": 1600,
+      "size": 2196523,
+      "uploadedDate": "2023-07-12T23:50:41.091Z",
+      "alt": "Download FlipScapes FlipScapes Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b69793c91ace421395120e24b2d98f0b",
+  "status": "ACTIVE",
+  "creationDate": "2024-06-09T19:30:41.580Z",
+  "lastModifiedDate": "2024-06-09T19:30:41.580Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "FlipScapes_Demo"
+    }
+  },
+  "entitlementName": "c1d4fb7bfad948e4bc60d47bb477f8b4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "aac68bdb45d5445db5ae011cf60a8508",
+      "appId": "e7fbe391d51346fa8f2ae955b3689021",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "OmniScapes Interactive",
+  "developerId": "o-ltebwsg3eqfnu7z453ncvwy6trfc77",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
