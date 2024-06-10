@@ -1,7 +1,7 @@
 {
   "id": "ed45286d84ab438b8e6dbfb73c4140e8",
   "title": "Arranger: A Role-Puzzling Adventure",
-  "description": "Arranger: A Role-Puzzling Adventure",
+  "description": "Find your way in a world of breezy, thoughtful puzzles, along a charming journey of self-discovery.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,8 +35,20 @@
   "namespace": "2df8b055a5674c8e9211fc51f8efd210",
   "status": "ACTIVE",
   "creationDate": "2024-01-29T17:35:51.135Z",
-  "lastModifiedDate": "2024-02-26T13:51:50.635Z",
+  "lastModifiedDate": "2024-06-10T14:40:55.017Z",
   "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/FurnitureAndMattress/Arranger/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/FurnitureAndMattress/Arranger/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "Arranger"
@@ -47,15 +59,18 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "6b18b77b882c4bedbb659be4f5a14cd0",
+      "id": "4f065c4c38fd4492967b7e5417cbec73",
       "appId": "d83a370c98f1474ca80de267ef9f54ed",
-      "platform": []
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
     }
   ],
   "developer": "Furniture & Mattress LLC",
   "developerId": "o-p9n3xscghng3b46flmblxu3ngmgju5",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567b1ZWl1HSho8w6igz4GvYQVNy",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
