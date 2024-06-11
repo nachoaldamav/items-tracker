@@ -1,0 +1,67 @@
+{
+  "id": "a09b9e3b6bfc4e73b531359f604c974b",
+  "title": "East Defense",
+  "description": "East Defense",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b39c3ba6bb784a81a8da30a8aab487ae/east-defence-1u89v.png",
+      "md5": "82c8390c654000168f395454ff0a04ef",
+      "width": 2560,
+      "height": 1440,
+      "size": 2854687,
+      "uploadedDate": "2024-06-07T23:11:28.591Z",
+      "alt": "East Defence Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b39c3ba6bb784a81a8da30a8aab487ae/east-defence-zhar7.png",
+      "md5": "44b69bd657dddfde603e9417d7a3edfe",
+      "width": 1200,
+      "height": 1600,
+      "size": 1796337,
+      "uploadedDate": "2024-06-07T23:11:10.236Z",
+      "alt": "Download East Defence Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d1fed5d227fa47eb86bb5b67d86278cf",
+  "status": "ACTIVE",
+  "creationDate": "2024-06-10T19:21:21.378Z",
+  "lastModifiedDate": "2024-06-10T19:21:21.378Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/EastDefense/Saved/SaveGames/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EastDefenceArti"
+    }
+  },
+  "entitlementName": "a09b9e3b6bfc4e73b531359f604c974b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e86cc4b52dda4bc4885b73e8002abc9a",
+      "appId": "6a21881deefd483e82d9bc6db8765afc",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "A Devs",
+  "developerId": "o-gczswhb2st7m7b954gguatcynsb2bq",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
