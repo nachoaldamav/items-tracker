@@ -1,7 +1,7 @@
 {
   "id": "6955d87b85a64170860aa6e85c3f5f64",
-  "title": "Rainbow Six Siege Free Trial Week",
-  "description": "Rainbow Six Siege Free Trial Week",
+  "title": "Rainbow Six Siege Trial Weekend",
+  "description": "Rainbow Six Siege Trial Weekend",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -33,7 +33,7 @@
   "namespace": "carnation",
   "status": "ACTIVE",
   "creationDate": "2019-08-22T19:24:49.545Z",
-  "lastModifiedDate": "2024-03-18T12:21:49.210Z",
+  "lastModifiedDate": "2024-06-11T15:47:17.304Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -51,13 +51,13 @@
       "type": "STRING",
       "value": "true"
     },
-    "UseAccessControl": {
+    "partnerLinkId": {
       "type": "STRING",
-      "value": "false"
+      "value": "6075a8a3a66342f682605c5f91eeb1e0"
     },
-    "CanSkipKoreanIdVerification": {
+    "partnerLinkType": {
       "type": "STRING",
-      "value": "true"
+      "value": "ubisoft"
     },
     "FolderName": {
       "type": "STRING",
@@ -73,7 +73,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "e28adcf8e696404ab821222199824ed7",
+      "id": "3e07013cfa194bd886bc682cc13d4b0a",
       "appId": "CarnationWeek",
       "compatibleApps": [],
       "platform": [
