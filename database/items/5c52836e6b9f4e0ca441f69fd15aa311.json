@@ -1,25 +1,25 @@
 {
   "id": "5c52836e6b9f4e0ca441f69fd15aa311",
-  "title": "Tom Clancy's The Division 2 - Trial",
-  "description": "Tom Clancy's The Division 2 - Trial",
+  "title": "Tom Clancy's The Division 2 - Trial Weekend",
+  "description": "Tom Clancy's The Division 2 - Trial Weekend",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/item/impala/US_TCTD2_EPIC_1920x1080_1920x1080-4d8fa4ac4dc7a947c260d8c6175b42b5",
-      "md5": "4d8fa4ac4dc7a947c260d8c6175b42b5",
+      "url": "https://cdn1.epicgames.com/item/impala/EGST_Capsule_1920x1080_EN_1920x1080-0c220fbf0aa1bbb81302a0707cf1b28c",
+      "md5": "0c220fbf0aa1bbb81302a0707cf1b28c",
       "width": 1920,
       "height": 1080,
-      "size": 367481,
-      "uploadedDate": "2022-05-05T20:14:14.567Z"
+      "size": 1304979,
+      "uploadedDate": "2024-06-10T23:58:10.017Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/impala/US_TCTD2_EPIC_1200x1600_1200x1600-a5657d791f8a30e83a23c5d894f8d341",
-      "md5": "a5657d791f8a30e83a23c5d894f8d341",
+      "url": "https://cdn1.epicgames.com/item/impala/EGST_Portrait_1200x1600_EN_1200x1600-7a84f6cfbd0e4b8f2ef4178b42ff5dcd",
+      "md5": "7a84f6cfbd0e4b8f2ef4178b42ff5dcd",
       "width": 1200,
       "height": 1600,
-      "size": 386035,
-      "uploadedDate": "2022-05-05T20:14:17.616Z"
+      "size": 1154788,
+      "uploadedDate": "2024-06-10T23:58:18.576Z"
     }
   ],
   "categories": [
@@ -33,8 +33,16 @@
   "namespace": "impala",
   "status": "ACTIVE",
   "creationDate": "2019-10-14T22:52:03.772Z",
-  "lastModifiedDate": "2023-05-22T16:01:06.497Z",
+  "lastModifiedDate": "2024-06-11T14:58:02.096Z",
   "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
     "PresenceID": {
       "type": "STRING",
       "value": "impala"
@@ -43,17 +51,17 @@
       "type": "STRING",
       "value": "true"
     },
-    "isUplay": {
-      "type": "STRING",
-      "value": "true"
-    },
     "UseAccessControl": {
       "type": "STRING",
       "value": "true"
     },
-    "RequirementsJson": {
+    "partnerLinkId": {
       "type": "STRING",
-      "value": "{}"
+      "value": "1b48fbbf4b7444f085d06972ae09d61c"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
     },
     "FolderName": {
       "type": "STRING",
@@ -65,7 +73,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "15e697ace94644a69b8c02ea859558d5",
+      "id": "9602d8a23b9b424fa6d304812e14cfd4",
       "appId": "ImpalaTrial",
       "compatibleApps": [],
       "platform": [
@@ -78,7 +86,9 @@
   ],
   "developer": "Ubisoft Entertainment",
   "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
-  "eulaIds": [],
+  "eulaIds": [
+    "egstore"
+  ],
   "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
