@@ -35,7 +35,7 @@
   "namespace": "3c6cb8047c2043c99fb5f53d9458658d",
   "status": "ACTIVE",
   "creationDate": "2023-08-25T06:16:52.708Z",
-  "lastModifiedDate": "2024-04-22T14:03:12.434Z",
+  "lastModifiedDate": "2024-06-13T16:44:05.703Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,15 +47,17 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "5abe24b29f7148829731d945b716ea4f",
+      "id": "9503ce15b04f4c81bf3dcf7deb0fe474",
       "appId": "93194e3497ca4a30886a036dcd6eff13",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "That's a Bad Kitty!",
   "developerId": "o-emjfwanmdu7awjr6cs7gj6peq46ffc",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567xRNw4OPcmY4R75Xs4AnO8uLV",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
