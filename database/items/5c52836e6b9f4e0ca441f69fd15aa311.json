@@ -33,7 +33,7 @@
   "namespace": "impala",
   "status": "ACTIVE",
   "creationDate": "2019-10-14T22:52:03.772Z",
-  "lastModifiedDate": "2024-06-11T14:58:02.096Z",
+  "lastModifiedDate": "2024-06-13T17:26:07.062Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -48,10 +48,6 @@
       "value": "impala"
     },
     "MonitorPresence": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "UseAccessControl": {
       "type": "STRING",
       "value": "true"
     },
