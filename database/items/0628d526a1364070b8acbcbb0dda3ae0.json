@@ -1,0 +1,89 @@
+{
+  "id": "0628d526a1364070b8acbcbb0dda3ae0",
+  "title": "Mass Effect: Andromeda Deluxe Edition",
+  "description": "Return to the Mass Effect universe and lead the first humans in Andromeda on a desperate search for our new home.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4111624e05404d7b962f8e2bf0468468/mass-effect-andromeda-deluxe-edition-19222.jpg",
+      "md5": "9f81b4e861c00ac7d2e2b42275985ab7",
+      "width": 2560,
+      "height": 1440,
+      "size": 783853,
+      "uploadedDate": "2024-05-22T19:38:51.910Z",
+      "alt": "Mass Effect: Andromeda Deluxe Edition Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4111624e05404d7b962f8e2bf0468468/mass-effect-andromeda-deluxe-edition-129mr.jpg",
+      "md5": "d3171dc0441165ebf750d4d624b121e7",
+      "width": 1200,
+      "height": 1600,
+      "size": 994227,
+      "uploadedDate": "2024-05-22T19:38:52.538Z",
+      "alt": "Download Mass Effect: Andromeda Deluxe Edition Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cfc9a8bcab134a639f76d7b1646554e7",
+  "status": "ACTIVE",
+  "creationDate": "2024-06-12T20:22:14.850Z",
+  "lastModifiedDate": "2024-06-12T20:22:14.850Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\BioWare\\Mass Effect Andromeda"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "MassEffectAndromeda.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "MassEffectAndromeda.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MassEffectAndromedaDtKIGj"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "0628d526a1364070b8acbcbb0dda3ae0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6fef25096787486fad5f2427088b539d",
+      "appId": "dvorak",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
