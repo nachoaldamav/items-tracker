@@ -1,0 +1,89 @@
+{
+  "id": "d94ca694e86e44bdbd854c34ae38c7ea",
+  "title": "Mass Effect 3 N7 Digital Deluxe Edition",
+  "description": "Earth is burning. The Reapers have taken over and other civilizations are falling like dominoes. Lead the final fight to save humanity and take back Earth from these terrifying machines, Commander Shepard.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/955392dfb23b4b77b6008dfbc4681172/mass-effect-3-n7-digital-deluxe-edition-1x3s6.jpg",
+      "md5": "b9fc278dd4ffa106b93cc2a794bc43d1",
+      "width": 2560,
+      "height": 1440,
+      "size": 910534,
+      "uploadedDate": "2024-05-21T22:09:49.624Z",
+      "alt": "Mass Effect 3 N7 Digital Deluxe Edition Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/955392dfb23b4b77b6008dfbc4681172/mass-effect-3-n7-digital-deluxe-edition-1libu.jpg",
+      "md5": "a98165a48fc5ad243537119ffad80d81",
+      "width": 1200,
+      "height": 1600,
+      "size": 962048,
+      "uploadedDate": "2024-05-21T22:09:51.850Z",
+      "alt": "Download Mass Effect 3 N7 Digital Deluxe Edition Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ff53808bb3b5462283516ab21d09a4dc",
+  "status": "ACTIVE",
+  "creationDate": "2024-06-12T20:22:54.456Z",
+  "lastModifiedDate": "2024-06-12T20:22:54.456Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\BioWare\\Mass Effect 3"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "MassEffect3.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "MassEffect3.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MassEffect3N7DigitalDPr2N"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "d94ca694e86e44bdbd854c34ae38c7ea",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3f671b6468f74f56a53b2cf091d354d3",
+      "appId": "utada",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
