@@ -1,0 +1,59 @@
+{
+  "id": "2d5e21bb346943a3bbb5cf1d5ae82156",
+  "title": "HardGame",
+  "description": "HardGame",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d09ed42e486742619231a616a415db22/hardgame-1ukf9.png",
+      "md5": "ab9aa296d98b1f4dd70da42ec00e7b95",
+      "width": 2560,
+      "height": 1440,
+      "size": 3387904,
+      "uploadedDate": "2024-06-13T15:40:36.102Z",
+      "alt": "HardGame Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d09ed42e486742619231a616a415db22/hardgame-bkvtj.png",
+      "md5": "ecfca1baf2d5ca93e575eba069974d13",
+      "width": 1200,
+      "height": 1600,
+      "size": 2162592,
+      "uploadedDate": "2024-06-13T15:36:08.827Z",
+      "alt": "Download HardGame Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7ca7a846b0124a1cb722646b6123a324",
+  "status": "ACTIVE",
+  "creationDate": "2024-06-13T22:52:26.128Z",
+  "lastModifiedDate": "2024-06-13T22:52:26.128Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "HardGameslOJA"
+    }
+  },
+  "entitlementName": "2d5e21bb346943a3bbb5cf1d5ae82156",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4bcba894a9074c82bada9540263f346e",
+      "appId": "727da2df6ff74243ac7eb99f3cded9a5"
+    }
+  ],
+  "developer": "Ytalo Queiroz",
+  "developerId": "o-pq4rm9gkavwtdqaa4d9y5du33vntrf",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
