@@ -34,12 +34,40 @@
   ],
   "namespace": "0e92b6115f284c358aace04dd4e89e42",
   "status": "ACTIVE",
-  "creationDate": "2024-06-01T11:14:35.426Z",
-  "lastModifiedDate": "2024-06-01T11:14:35.426Z",
+  "creationDate": "2024-02-22T08:31:31.243Z",
+  "lastModifiedDate": "2024-06-14T18:51:22.692Z",
   "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "TRUE"
+    },
+    "SkipAutoInstallDlc": {
+      "type": "STRING",
+      "value": "TRUE"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "DrowngodLauncher.exe"
+    },
+    "NotarizedAndSigned": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "drowngod.exe"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "DrownedGodConspiracyGjnmu"
+    },
+    "BackgroundProcessNames": {
+      "type": "STRING",
+      "value": "DrowngodLauncher.exe, sdbinst.exe"
     }
   },
   "entitlementName": "d69cf327b66a467aa0ab4dedcda6d3da",
@@ -57,6 +85,7 @@
   "developer": "Next Path Media",
   "developerId": "o-vh5q3gyc7egndr9awtyq34y4jklbr7",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
