@@ -1,0 +1,61 @@
+{
+  "id": "f511dfbfd2b741d28111c28aba2b240c",
+  "title": "Evershire",
+  "description": "Evershire",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/135542ae58484b029fd45ddb2afbe407/evershire-a4d4p.png",
+      "md5": "c79e7d64bde799a94c4870254cb0014e",
+      "width": 2560,
+      "height": 1440,
+      "size": 3184448,
+      "uploadedDate": "2024-02-05T16:49:40.752Z",
+      "alt": "Evershire Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/135542ae58484b029fd45ddb2afbe407/evershire-jrmhd.png",
+      "md5": "1dce3062690b0cad1e33b0d795ebc38e",
+      "width": 1200,
+      "height": 1600,
+      "size": 1812870,
+      "uploadedDate": "2024-02-05T16:53:09.056Z",
+      "alt": "Download Evershire Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "82d7f438164d4ed182d27265c63574fc",
+  "status": "ACTIVE",
+  "creationDate": "2024-06-17T12:36:05.751Z",
+  "lastModifiedDate": "2024-06-17T12:36:05.751Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Evershire"
+    }
+  },
+  "entitlementName": "f511dfbfd2b741d28111c28aba2b240c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "18c1783e60e04fc89a41bd8f7b64fbfb",
+      "appId": "513130f332f6457c93858b8768a26c64",
+      "platform": []
+    }
+  ],
+  "developer": "Salty Panda Studios",
+  "developerId": "o-uzyxnbhx97bnma35lsfr2u9jdt8252",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
