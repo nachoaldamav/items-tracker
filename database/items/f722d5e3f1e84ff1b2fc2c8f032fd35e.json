@@ -23,9 +23,10 @@
   "namespace": "SeaQA",
   "status": "ACTIVE",
   "creationDate": "2018-09-20T23:36:05.461Z",
-  "lastModifiedDate": "2020-10-12T06:48:17.434Z",
+  "lastModifiedDate": "2024-06-17T09:58:03.435Z",
+  "customAttributes": {},
   "entitlementName": "Consumable_Entitlement",
-  "entitlementType": "TEST",
+  "entitlementType": "AUDIENCE",
   "entitlementEndDate": "2099-12-31T00:00:00.000Z",
   "entitlementStartDate": "2010-01-01T00:00:00.000Z",
   "itemType": "DURABLE",
@@ -51,5 +52,6 @@
   "endOfSupport": false,
   "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
