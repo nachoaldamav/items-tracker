@@ -1,0 +1,73 @@
+{
+  "id": "1d3d228e5af047f486f1569541c82c14",
+  "title": "To the Stars",
+  "description": "To the Stars is a fast-paced, whimsical and tactical planet-hopping game. Choose your own adventure as you conquer the universe - one constellation at a time.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ff807d0663144fffa8c2cf9632085f98/to-the-stars-12jcv.png",
+      "md5": "b501eca297e0297845c36939c45a9a23",
+      "width": 2560,
+      "height": 1440,
+      "size": 3302266,
+      "uploadedDate": "2023-08-23T01:31:46.186Z",
+      "alt": "To the Stars Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ff807d0663144fffa8c2cf9632085f98/to-the-stars-1t5l8.png",
+      "md5": "d478879f72f5a43fddb1c4475a142a1d",
+      "width": 1200,
+      "height": 1600,
+      "size": 1495561,
+      "uploadedDate": "2023-08-23T01:33:01.566Z",
+      "alt": "Download To the Stars Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "37766a4f6c994e8ba33c9892ec5a56e2",
+  "status": "ACTIVE",
+  "creationDate": "2024-06-17T01:17:03.676Z",
+  "lastModifiedDate": "2024-06-17T01:17:03.676Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Stellar Cartography Interactive/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Stellar Cartography Interactive/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TotheStarsOx5vD"
+    }
+  },
+  "entitlementName": "1d3d228e5af047f486f1569541c82c14",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c26b6cbbd07f4e5d9210c3c997053866",
+      "appId": "788072a400c54fc6ae435c8e1ac1d71f",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Blowfish Studios",
+  "developerId": "o-7uadnw4zmaekx44cdsgvw2jmlne83c",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
