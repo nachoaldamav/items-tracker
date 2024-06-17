@@ -33,7 +33,7 @@
   "namespace": "carnation",
   "status": "ACTIVE",
   "creationDate": "2019-08-22T19:24:49.545Z",
-  "lastModifiedDate": "2024-06-11T15:47:17.304Z",
+  "lastModifiedDate": "2024-06-17T11:59:22.800Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -50,10 +50,6 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "true"
-    },
-    "partnerLinkId": {
-      "type": "STRING",
-      "value": "6075a8a3a66342f682605c5f91eeb1e0"
     },
     "partnerLinkType": {
       "type": "STRING",
