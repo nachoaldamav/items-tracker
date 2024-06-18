@@ -1,0 +1,64 @@
+{
+  "id": "7aa630f6dc484242bda3e721a15fc0ba",
+  "title": "Auto Legends",
+  "description": "Auto Legends",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6711a4993c734c4e95c52dd305157f1a/auto-legends-1arsf.jpg",
+      "md5": "7621042e823cf3388d0e5461fad887ca",
+      "width": 2560,
+      "height": 1440,
+      "size": 637897,
+      "uploadedDate": "2024-06-11T17:29:02.269Z",
+      "alt": "Auto Legends Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6711a4993c734c4e95c52dd305157f1a/auto-legends-1ovhn.jpg",
+      "md5": "18edeecee40d33e84fd8c0ce24a76aea",
+      "width": 1200,
+      "height": 1600,
+      "size": 433879,
+      "uploadedDate": "2024-06-11T17:29:22.640Z",
+      "alt": "Download Auto Legends Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ccd109fa7d104647a93aefd2180533d2",
+  "status": "ACTIVE",
+  "creationDate": "2024-06-17T20:05:46.511Z",
+  "lastModifiedDate": "2024-06-17T20:05:46.511Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "AutoLegends"
+    }
+  },
+  "entitlementName": "7aa630f6dc484242bda3e721a15fc0ba",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "40766fb5ab474797baab0e9f9f2f31b4",
+      "appId": "d7a0c850f8404ea3aa391b10784328a3",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Autoverse Studios, Inc.",
+  "developerId": "o-u7gnjuzsx8u3zrbez5w2zqvrete5nb",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
