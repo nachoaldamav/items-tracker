@@ -1,0 +1,68 @@
+{
+  "id": "2586cd2e870642c5ae730bc98a70f4db",
+  "title": "Cyber Avenger",
+  "description": "Cyber Avenger is a top-down action game where you take on the role of a highly skilled covert operative on a dangerous mission to stop a group of terrorists. You must navigate through five maps, facing a variety of enemies, including shotgunners, snipers, kamikazes, and more.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f0c60643997b4f9e81e00f2db71a6d6a/cyber-avenger-1pct0.jpg",
+      "md5": "4054190e93516d2fa68861faa57bebaf",
+      "width": 2560,
+      "height": 1440,
+      "size": 2473924,
+      "uploadedDate": "2024-04-22T14:40:42.151Z",
+      "alt": "Cyber Avenger Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f0c60643997b4f9e81e00f2db71a6d6a/cyber-avenger-e8hx8.jpg",
+      "md5": "72afd6b57c8ad58e66301954bd086a2e",
+      "width": 1200,
+      "height": 1600,
+      "size": 1034974,
+      "uploadedDate": "2024-04-22T14:40:41.545Z",
+      "alt": "Download Cyber Avenger Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "23e0d8cad86d45308001a2c4151969c0",
+  "status": "ACTIVE",
+  "creationDate": "2024-06-18T10:16:36.513Z",
+  "lastModifiedDate": "2024-06-18T10:16:36.513Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/CyberAvenger/CloudSave/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CyberAvenger"
+    }
+  },
+  "entitlementName": "2586cd2e870642c5ae730bc98a70f4db",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "362b9ef39b6e4e3a9ff853fc47d7cfaf",
+      "appId": "9bbd9400a5dd4de9ba12772f5b1dc946",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Whale Rock Games LLC",
+  "developerId": "o-z8ex63yvz4ye54cfgwhdu3zxz4tpja",
+  "endOfSupport": false,
+  "applicationId": "fghi4567JpywSM3PgUefB2ZhKC2A4J2P",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
