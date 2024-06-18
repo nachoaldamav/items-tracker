@@ -1,0 +1,37 @@
+{
+  "id": "3a7fd0c4fad949acbb23ed5fc11c2c8b",
+  "title": "TFS+AP audience",
+  "description": "TFS+AP audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-09T15:06:34.049Z",
+  "lastModifiedDate": "2024-06-17T17:47:11.820Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "3a7fd0c4fad949acbb23ed5fc11c2c8b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Bungie",
+  "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
