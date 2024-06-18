@@ -35,8 +35,8 @@
   ],
   "namespace": "f7e06ee3d0c1491094cc0215859f0120",
   "status": "ACTIVE",
-  "creationDate": "2019-06-06T18:11:04.872Z",
-  "lastModifiedDate": "2024-03-21T15:26:32.872Z",
+  "creationDate": "2024-06-17T15:36:35.244Z",
+  "lastModifiedDate": "2024-06-18T17:11:32.360Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -80,13 +80,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "597117c2c08e4a289923bea09fe448ce",
+      "id": "801f5021f2f841328a4a955393cc70bc",
       "appId": "Flour",
       "platform": [
-        "Windows",
-        "Mac"
-      ],
-      "dateAdded": "2019-09-18T00:00:00.000Z"
+        "Mac",
+        "Windows"
+      ]
     }
   ],
   "developer": "Panic",
