@@ -35,7 +35,7 @@
   "namespace": "0e548758b82a4be785f435cedf306130",
   "status": "ACTIVE",
   "creationDate": "2023-06-07T11:29:09.669Z",
-  "lastModifiedDate": "2024-06-07T20:58:36.944Z",
+  "lastModifiedDate": "2024-06-18T05:49:43.637Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -55,9 +55,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "3b2ead1558664adca8cd3b9b66660d01",
+      "id": "0eb5426846ef41298af2da79f1c699fd",
       "appId": "f53c5471fd0e47619e72b6d21a527abe",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Game Science Interactive Technology Co., Ltd.",
