@@ -13,7 +13,7 @@
   "namespace": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "status": "ACTIVE",
   "creationDate": "2024-03-14T15:59:15.371Z",
-  "lastModifiedDate": "2024-05-30T15:59:34.482Z",
+  "lastModifiedDate": "2024-06-18T15:59:49.194Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +23,15 @@
   "entitlementName": "f3939bf3debb4d00ac5526475bc90bfe",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Paradox Interactive",
   "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": true
 }
