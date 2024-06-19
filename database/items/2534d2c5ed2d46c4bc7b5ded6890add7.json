@@ -5,12 +5,12 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/a966511fc02b48d49df3375f8d9af6a1/r3v3nge-14q0e.png",
-      "md5": "ac28e13fd259a85e52a3ee87c6ea958c",
+      "url": "https://cdn1.epicgames.com/spt-assets/a966511fc02b48d49df3375f8d9af6a1/r3v3nge-y9hix.png",
+      "md5": "aed6a288179b7180cdf1923948fd121c",
       "width": 2560,
       "height": 1440,
-      "size": 3567454,
-      "uploadedDate": "2024-02-02T09:39:12.628Z",
+      "size": 151904,
+      "uploadedDate": "2024-06-11T13:44:00.815Z",
       "alt": "R3V3NGE Offer"
     },
     {
@@ -34,8 +34,8 @@
   ],
   "namespace": "6beebb4d356a48118e607e2112bca45f",
   "status": "ACTIVE",
-  "creationDate": "2024-02-04T09:24:33.450Z",
-  "lastModifiedDate": "2024-02-04T09:24:33.450Z",
+  "creationDate": "2024-02-01T13:15:58.318Z",
+  "lastModifiedDate": "2024-06-19T20:05:15.812Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "75d40dbdc8e94e3889eca082b1ad1dc3",
+      "id": "02c872ab2d1945bf9307afc0c8b4478f",
       "appId": "5b2794b2e03c4c7583526e06c4642280",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Everreach Labs Inc.",
