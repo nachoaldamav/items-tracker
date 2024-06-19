@@ -1,7 +1,7 @@
 {
   "id": "f511dfbfd2b741d28111c28aba2b240c",
   "title": "Evershire",
-  "description": "Evershire",
+  "description": "Discover the ever-growing lands of Evershire. A cozy, minimalist strategy builder that encourages creativity and offers a challenge to those looking for one. Decide whether you want to create and decorate your own worlds in creative mode or try your hand at managing resources.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,8 +34,8 @@
   ],
   "namespace": "82d7f438164d4ed182d27265c63574fc",
   "status": "ACTIVE",
-  "creationDate": "2024-06-17T12:36:05.751Z",
-  "lastModifiedDate": "2024-06-17T12:36:05.751Z",
+  "creationDate": "2023-11-29T14:11:50.805Z",
+  "lastModifiedDate": "2024-06-19T15:55:10.978Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "18c1783e60e04fc89a41bd8f7b64fbfb",
+      "id": "44c1b09df02d4e0e85d6b3f32477ff45",
       "appId": "513130f332f6457c93858b8768a26c64",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Salty Panda Studios",
