@@ -35,7 +35,7 @@
   "namespace": "66ad2c3335b34b64ac28f438287766fc",
   "status": "ACTIVE",
   "creationDate": "2023-07-30T19:19:38.857Z",
-  "lastModifiedDate": "2024-02-12T17:42:10.072Z",
+  "lastModifiedDate": "2024-06-20T15:36:10.474Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -43,7 +43,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "TACTICALBANDITSaE0oh"
+      "value": "TACTICALBANDITS"
     }
   },
   "entitlementName": "db31133681204455aa28a08ed772e9b6",
@@ -51,15 +51,18 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "4dff9df1294f4d168b63647f5479b4a1",
+      "id": "b002194fbd3b425bbf14ad27d2117bb1",
       "appId": "15c09c1bd8bd4e41831e8e17bd040ef0",
-      "platform": []
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Lvprt Ltd",
   "developerId": "o-fwapqsxttd69xvzb9r8ddm6efs9ptx",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567UUM9RiM85Aia4wrPafJgbiah",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
