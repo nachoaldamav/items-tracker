@@ -1,0 +1,72 @@
+{
+  "id": "6b74182c39e34bccb214741b5d6b54df",
+  "title": "Sunless Skies: Sovereign Edition",
+  "description": "Sunless Skies: Sovereign Edition",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c940bf4524614968826999d859f79dbd/sunless-skies-1fjw3.jpg",
+      "md5": "1b7a962c1a40adf5861f24a873877cb4",
+      "width": 2560,
+      "height": 1440,
+      "size": 909101,
+      "uploadedDate": "2024-02-08T17:45:29.647Z",
+      "alt": "Sunless Skies Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c940bf4524614968826999d859f79dbd/sunless-skies-krvsq.png",
+      "md5": "3160c264def757a72cb35dc580ce02c8",
+      "width": 1200,
+      "height": 1600,
+      "size": 2962724,
+      "uploadedDate": "2024-02-08T17:46:03.663Z",
+      "alt": "Download Sunless Skies Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3f6f54e0f8164224b817d23075cbb2a8",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-31T10:33:43.843Z",
+  "lastModifiedDate": "2024-06-14T09:50:20.421Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/unity.Failbetter Games.Sunless Skies/storage/characterrepository/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Failbetter Games/Sunless Skies/storage/characterrepository/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SunlessSkies"
+    }
+  },
+  "entitlementName": "6b74182c39e34bccb214741b5d6b54df",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "26beb8c05dad49f0810ba89e23eeb7e6",
+      "appId": "b979fad811c64939af282f5892049b50",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Failbetter Games",
+  "developerId": "o-rtt3u6nfx2dlvv3zuwr53utk9gjz82",
+  "endOfSupport": false,
+  "applicationId": "fghi4567FudsgEgRsa0bpaNV8jPSdWGz",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
