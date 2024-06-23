@@ -34,9 +34,17 @@
   ],
   "namespace": "eadca889d4344a9eaaa96c606222892d",
   "status": "ACTIVE",
-  "creationDate": "2024-01-26T14:53:54.994Z",
-  "lastModifiedDate": "2024-01-26T14:53:54.994Z",
+  "creationDate": "2024-01-22T11:11:20.195Z",
+  "lastModifiedDate": "2024-06-23T08:52:21.330Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/TheGravityTrickster/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "EGS_Save1.sav,EGS_Save2.sav,EGS_Save3.sav,EGS_Save4.sav"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "TheGravityTrickster"
@@ -47,15 +55,17 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "0407f3f5763b4b7bb943ec8d153e011b",
+      "id": "d97731ec62624cfb85c10a4bf15f2707",
       "appId": "5e5153bc7034458f872e25364b863763",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Szilard Papp",
   "developerId": "o-hmb7fq867krwbuegz84ezyngsatmfq",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567JihRJfYmEPHg1WBeVsTlQ6Cq",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
