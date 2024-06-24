@@ -1,0 +1,68 @@
+{
+  "id": "d62f3e431f4449738f36d9b457dbf96c",
+  "title": "PolyClassic: Wild",
+  "description": "This game is an action that combines elements of the classic retro shooter and low poly styling. Destroy all enemies in your path and become the toughest cowboy in the Wild West!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/008b431b36ab47148481cd6a1e2f6988/polyclassic-wild-ly4w3.jpg",
+      "md5": "70fa4af3af9fff167b0fc550c03a05d6",
+      "width": 2560,
+      "height": 1440,
+      "size": 1576531,
+      "uploadedDate": "2024-04-17T20:41:06.506Z",
+      "alt": "PolyClassic: Wild Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/008b431b36ab47148481cd6a1e2f6988/polyclassic-wild-fh3di.jpg",
+      "md5": "e98965c1b123453580aca569943a4199",
+      "width": 1200,
+      "height": 1600,
+      "size": 2028166,
+      "uploadedDate": "2024-04-17T20:41:09.135Z",
+      "alt": "Download PolyClassic: Wild Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1d8b0901c1794bb3a136a2877b569c5b",
+  "status": "ACTIVE",
+  "creationDate": "2024-06-24T14:28:21.086Z",
+  "lastModifiedDate": "2024-06-24T14:28:21.086Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/PCWild/CloudSave/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PolyClassicWild"
+    }
+  },
+  "entitlementName": "d62f3e431f4449738f36d9b457dbf96c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "05d6b40142d64442964eae03343ea4e4",
+      "appId": "f21a4ec626074a6d97bd3d022d9df37b",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Whale Rock Games LLC",
+  "developerId": "o-z8ex63yvz4ye54cfgwhdu3zxz4tpja",
+  "endOfSupport": false,
+  "applicationId": "fghi4567jZPVkTGlb74xt54tEvokVHGw",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
