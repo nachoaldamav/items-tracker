@@ -34,8 +34,8 @@
   ],
   "namespace": "c54616412a81452a9222e43b97b69ef2",
   "status": "ACTIVE",
-  "creationDate": "2023-08-22T20:00:35.363Z",
-  "lastModifiedDate": "2023-08-22T20:00:35.363Z",
+  "creationDate": "2023-08-07T20:40:32.573Z",
+  "lastModifiedDate": "2024-06-25T12:52:28.837Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "0e9b31181f0947a8a816f533dae802ea",
+      "id": "387510b7cc2a4a828165d54703886d1d",
       "appId": "0915fead982e4101806a27c1882e64c4",
-      "platform": []
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Panic",
