@@ -34,8 +34,8 @@
   ],
   "namespace": "c21d21b921bb4c23bf93ab40b636d69b",
   "status": "ACTIVE",
-  "creationDate": "2024-06-22T09:37:21.550Z",
-  "lastModifiedDate": "2024-06-22T09:37:21.550Z",
+  "creationDate": "2024-05-14T13:48:15.616Z",
+  "lastModifiedDate": "2024-06-25T08:08:20.046Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -51,9 +51,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "ef7467f383f946d58506425ff11330d0",
+      "id": "5dbfd6dd1e2a4be384e8943a94227f64",
       "appId": "233e9a0f13704a04a714faee2147a73e",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Lonely Troops s. r. o.",
