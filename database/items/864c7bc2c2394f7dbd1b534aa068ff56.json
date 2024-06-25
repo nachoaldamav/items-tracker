@@ -36,7 +36,7 @@
   "namespace": "e97659b501af4e3981d5430dad170911",
   "status": "ACTIVE",
   "creationDate": "2022-01-21T19:15:43.152Z",
-  "lastModifiedDate": "2023-02-19T01:03:05.406Z",
+  "lastModifiedDate": "2024-06-25T14:25:03.883Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -54,21 +54,17 @@
       "type": "STRING",
       "value": "[]"
     },
-    "AdditionalCommandline": {
-      "type": "STRING",
-      "value": "-SaveToUserDir -UserDir=\"Hogwarts Legacy\""
-    },
     "CanSkipKoreanIdVerification": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "OwnershipToken": {
       "type": "STRING",
       "value": "true"
     },
     "MaxSizeMB": {
       "type": "STRING",
       "value": "2000"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
     },
     "FolderName": {
       "type": "STRING",
