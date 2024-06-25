@@ -1,0 +1,72 @@
+{
+  "id": "7072503216544f6b9680f929adfe8301",
+  "title": "MOBIUS BAND*",
+  "description": "MOBIUS BAND* is a novella visual novel game.\nIn such an era, everyone is powerless to care for others. Under the skin of prosperous civilization, it is a veritable hell.\nIn the war that has not yet subsided, how will they choose in the end——",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1cd40cdadd1d4a61aa369ef2356453f7/mobiusband-1910s.png",
+      "md5": "847f23cf478d94d97294417358772f84",
+      "width": 2560,
+      "height": 1440,
+      "size": 3225547,
+      "uploadedDate": "2024-06-23T13:12:43.055Z",
+      "alt": "MobiusBand Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1cd40cdadd1d4a61aa369ef2356453f7/mobiusband-1bxiu.jpg",
+      "md5": "e80678d7ecc5b0f079bab199f1ef6957",
+      "width": 1200,
+      "height": 1600,
+      "size": 1177190,
+      "uploadedDate": "2024-06-23T13:12:41.465Z",
+      "alt": "Download MobiusBand Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "795254ed8529486abf33bda2f15d1ce3",
+  "status": "ACTIVE",
+  "creationDate": "2024-06-25T02:52:35.029Z",
+  "lastModifiedDate": "2024-06-25T02:52:35.029Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/savings/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "savings\\_Global"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MobiusBand"
+    }
+  },
+  "entitlementName": "7072503216544f6b9680f929adfe8301",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9a792c306f9d4d388c082dce8536192a",
+      "appId": "e653418c4e264cc08d5bf507920cdf1b",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "defisym",
+  "developerId": "o-y4bu3aervwhxk9nnmgew9znawh59ff",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
