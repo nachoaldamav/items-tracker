@@ -1,0 +1,64 @@
+{
+  "id": "e18783a2e0f64c89820a3e50d317d462",
+  "title": "HexON",
+  "description": "HexON",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7406034e6d764201b1f008d0c931fd72/hexon-1ieno.png",
+      "md5": "73907bb6eeba2bedffb1aa3780f7dc0a",
+      "width": 2560,
+      "height": 1440,
+      "size": 1882461,
+      "uploadedDate": "2024-05-29T18:44:29.487Z",
+      "alt": "HexON Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7406034e6d764201b1f008d0c931fd72/hexon-t54qc.png",
+      "md5": "9296768549e09ced99eb1cead1c64f02",
+      "width": 1200,
+      "height": 1600,
+      "size": 4019596,
+      "uploadedDate": "2024-05-29T18:44:32.275Z",
+      "alt": "Download HexON Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5b95b193df59499886544e610dc871e5",
+  "status": "ACTIVE",
+  "creationDate": "2024-06-26T11:09:23.165Z",
+  "lastModifiedDate": "2024-06-26T11:09:23.165Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "HexONlOXCF"
+    }
+  },
+  "entitlementName": "e18783a2e0f64c89820a3e50d317d462",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2fd20d00343f49799296d82c758cbe98",
+      "appId": "51d750a3dc064bc1b5d05c1db82d3952",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Minimol Games",
+  "developerId": "o-akva8fj4hr5k6tnyzn35ncbrtxbdfg",
+  "endOfSupport": false,
+  "applicationId": "fghi45674B1y0BRM2DvZw4CgwUj1L1sV",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
