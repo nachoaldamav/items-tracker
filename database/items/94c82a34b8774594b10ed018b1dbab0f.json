@@ -1,0 +1,62 @@
+{
+  "id": "94c82a34b8774594b10ed018b1dbab0f",
+  "title": "Demonheart",
+  "description": "Demonheart",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8cb97ced3b9646f1a81d4ae3f34ff9b1/demonheart-1fhhh.jpg",
+      "md5": "d289f4c6db7b0a3e2008582ce14438c2",
+      "width": 2560,
+      "height": 1440,
+      "size": 902231,
+      "uploadedDate": "2024-05-31T22:21:52.885Z",
+      "alt": "Demonheart Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8cb97ced3b9646f1a81d4ae3f34ff9b1/demonheart-1cksx.jpg",
+      "md5": "9116c4bb202475c58bbe840a0351f0f9",
+      "width": 1200,
+      "height": 1600,
+      "size": 341547,
+      "uploadedDate": "2024-05-31T16:09:48.216Z",
+      "alt": "Download Demonheart Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c24ab01828c74414b185dea9f87a88f8",
+  "status": "ACTIVE",
+  "creationDate": "2024-06-26T09:47:28.672Z",
+  "lastModifiedDate": "2024-06-26T09:47:28.672Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DemonheartOhnpe"
+    }
+  },
+  "entitlementName": "94c82a34b8774594b10ed018b1dbab0f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f31ce5776414419c8e851489c01eedf4",
+      "appId": "8bdb7144e0fd44fd974dae2ffa329c1c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Rolling Crown",
+  "developerId": "o-77v762bhe5zwtmw3ubewasaf8masmd",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
