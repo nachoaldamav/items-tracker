@@ -11,8 +11,12 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2019-04-18T18:13:23.030Z",
-  "lastModifiedDate": "2024-06-19T20:19:22.118Z",
+  "lastModifiedDate": "2024-06-28T18:40:11.509Z",
   "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
     "ActionSetName": {
       "type": "STRING",
       "value": "Fortnite-Automation-Bot-App-Bundle"

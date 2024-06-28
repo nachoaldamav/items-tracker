@@ -15,8 +15,13 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2019-02-12T15:54:18.573Z",
-  "lastModifiedDate": "2024-01-25T20:48:55.309Z",
-  "customAttributes": {},
+  "lastModifiedDate": "2024-06-28T18:39:03.509Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
   "entitlementName": "Fortnite_Broadcast",
   "entitlementType": "ENTITLEMENT",
   "itemType": "DURABLE",

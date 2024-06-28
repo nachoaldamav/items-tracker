@@ -14,11 +14,15 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2017-06-22T20:14:35.954Z",
-  "lastModifiedDate": "2024-06-19T20:18:59.364Z",
+  "lastModifiedDate": "2024-06-28T18:37:51.745Z",
   "customAttributes": {
     "extraLaunchOption_003_Args": {
       "type": "STRING",
       "value": "-Creative"
+    },
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
     },
     "extraLaunchOption_001_Args": {
       "type": "STRING",
@@ -28,13 +32,13 @@
       "type": "STRING",
       "value": "-UEFN"
     },
-    "CanSkipKoreanIdVerification": {
-      "type": "STRING",
-      "value": "true"
-    },
     "extraLaunchOption_003_Name": {
       "type": "STRING",
       "value": "Launch Creative"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
     },
     "extraLaunchOption_001_Name": {
       "type": "STRING",

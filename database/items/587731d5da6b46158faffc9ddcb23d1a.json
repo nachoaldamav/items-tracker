@@ -42,7 +42,7 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2020-04-30T20:03:10.699Z",
-  "lastModifiedDate": "2023-02-10T21:07:00.522Z",
+  "lastModifiedDate": "2024-06-28T18:39:02.147Z",
   "customAttributes": {
     "extraLaunchOption_003_Args": {
       "type": "STRING",
@@ -51,6 +51,10 @@
     "extraLaunchOption_001_Args": {
       "type": "STRING",
       "value": "-ForceTest"
+    },
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
     },
     "UseAccessControl": {
       "type": "STRING",

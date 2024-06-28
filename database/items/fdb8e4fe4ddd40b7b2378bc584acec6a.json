@@ -33,7 +33,7 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2018-06-22T14:50:43.680Z",
-  "lastModifiedDate": "2023-12-12T03:00:11.405Z",
+  "lastModifiedDate": "2024-06-28T18:38:09.609Z",
   "customAttributes": {
     "extraLaunchOption_003_Args": {
       "type": "STRING",
@@ -43,6 +43,10 @@
       "type": "STRING",
       "value": "-ForceTest"
     },
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
     "UseAccessControl": {
       "type": "STRING",
       "value": "true"
@@ -51,21 +55,21 @@
       "type": "STRING",
       "value": "Launch Creative"
     },
-    "extraLaunchOption_002_Args": {
-      "type": "STRING",
-      "value": "-UEFN"
-    },
     "extraLaunchOption_004_Args": {
       "type": "STRING",
       "value": "-Creative"
     },
-    "CanSkipKoreanIdVerification": {
+    "extraLaunchOption_002_Args": {
       "type": "STRING",
-      "value": "true"
+      "value": "-UEFN"
     },
     "extraLaunchOption_003_Name": {
       "type": "STRING",
       "value": "Unreal Editor for Fortnite (Dev)"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
     },
     "extraLaunchOption_001_Name": {
       "type": "STRING",

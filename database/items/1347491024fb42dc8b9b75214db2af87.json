@@ -14,11 +14,15 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2016-04-25T19:09:57.838Z",
-  "lastModifiedDate": "2023-08-03T20:41:50.698Z",
+  "lastModifiedDate": "2024-06-28T18:39:54.604Z",
   "customAttributes": {
     "extraLaunchOption_003_Args": {
       "type": "STRING",
       "value": "-Creative"
+    },
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
     },
     "extraLaunchOption_001_Args": {
       "type": "STRING",

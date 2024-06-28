@@ -11,8 +11,12 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2019-04-18T22:47:09.190Z",
-  "lastModifiedDate": "2023-08-16T15:58:16.268Z",
+  "lastModifiedDate": "2024-06-28T18:39:24.958Z",
   "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
     "ActionSetName": {
       "type": "STRING",
       "value": "Fortnite-Localization-App-Bundle"

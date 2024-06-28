@@ -11,8 +11,12 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2019-12-05T22:33:07.733Z",
-  "lastModifiedDate": "2020-02-13T19:12:55.715Z",
+  "lastModifiedDate": "2024-06-28T18:38:07.273Z",
   "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
     "ActionSetName": {
       "type": "STRING",
       "value": "Fortnite-UX-Testing-App-Bundle"
