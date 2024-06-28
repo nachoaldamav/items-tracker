@@ -1,0 +1,64 @@
+{
+  "id": "f256d96e674d428c9735ae5377aa21b8",
+  "title": "Idle Trillionaire",
+  "description": "Idle Trillionaire",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/57f9b160564c464a9df55a69ed56840d/idle-trillionaire-10yoz.png",
+      "md5": "612dbc1701ced7eef1c63b78d1809468",
+      "width": 2560,
+      "height": 1440,
+      "size": 39876,
+      "uploadedDate": "2024-06-17T23:37:25.034Z",
+      "alt": "Idle Trillionaire Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/57f9b160564c464a9df55a69ed56840d/idle-trillionaire-bfhhm.png",
+      "md5": "8679e71c5ec7f0cd52010427df0a3300",
+      "width": 1200,
+      "height": 1600,
+      "size": 27210,
+      "uploadedDate": "2024-06-17T23:37:30.689Z",
+      "alt": "Download Idle Trillionaire Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8b5be370173547eea257cc8696c7491e",
+  "status": "ACTIVE",
+  "creationDate": "2024-06-28T20:45:27.262Z",
+  "lastModifiedDate": "2024-06-28T20:45:27.262Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "IdleTrillionaire"
+    }
+  },
+  "entitlementName": "f256d96e674d428c9735ae5377aa21b8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2059fea1a275421d941c2c1d57fbcf59",
+      "appId": "275f2709883d4f6fa343313173d3db79",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "theSlantedRoom",
+  "developerId": "o-3uje3jgfxrc2ttpsq7p7j7tunndgbn",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
