@@ -1,0 +1,65 @@
+{
+  "id": "50936d051f204bcf896b7993350f35a3",
+  "title": "Romopolis",
+  "description": "Romopolis",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/bec36b80c3cc4a76a20919c5b04a7ba1/romopolis-1qnmj.jpg",
+      "md5": "0d6d14a7a17d7ab1d5cb39bada955b1b",
+      "width": 2560,
+      "height": 1440,
+      "size": 1202778,
+      "uploadedDate": "2024-06-27T14:35:52.885Z",
+      "alt": "Romopolis Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/bec36b80c3cc4a76a20919c5b04a7ba1/romopolis-1y3wp.jpg",
+      "md5": "5346a339e5827ca5252d535dc4e6be60",
+      "width": 1200,
+      "height": 1600,
+      "size": 597697,
+      "uploadedDate": "2024-06-27T14:35:53.291Z",
+      "alt": "Download Romopolis Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cd69fe35f5af4b3eafcc8e5e837c0f2b",
+  "status": "ACTIVE",
+  "creationDate": "2024-06-28T08:47:53.361Z",
+  "lastModifiedDate": "2024-06-28T08:47:53.361Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Lonely Troops/Romopolis/Cloud/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Romopolis"
+    }
+  },
+  "entitlementName": "50936d051f204bcf896b7993350f35a3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8bcf49ed969b4500adaa51674ad1f0c3",
+      "appId": "eeac3df8221d4252a381181615716837",
+      "platform": []
+    }
+  ],
+  "developer": "Lonely Troops s. r. o.",
+  "developerId": "o-2hm4bykljbhqqsshxrvargdhl7zupc",
+  "endOfSupport": false,
+  "applicationId": "fghi4567gp1meyF8wlChFgt9r0iZtzzt",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
