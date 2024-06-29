@@ -34,8 +34,8 @@
   ],
   "namespace": "6732880ea603405698daad12f6011d79",
   "status": "ACTIVE",
-  "creationDate": "2024-06-22T06:25:16.620Z",
-  "lastModifiedDate": "2024-06-22T06:25:16.620Z",
+  "creationDate": "2023-12-11T18:34:25.489Z",
+  "lastModifiedDate": "2024-06-29T16:53:30.000Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "7337dafbb05944aa88327eed54cb8fff",
+      "id": "5f067e31110c47adadd76b6cc7eed3fc",
       "appId": "cd393ea1bb0145e58442acaf8ac70820",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Astralium Studio",
