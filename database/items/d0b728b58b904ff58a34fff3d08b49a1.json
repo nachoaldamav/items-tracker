@@ -1,0 +1,34 @@
+{
+  "id": "d0b728b58b904ff58a34fff3d08b49a1",
+  "title": "Project Jelly Belly audience",
+  "description": "Project Jelly Belly audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "6009be9994c2409099588cde6f3a5ed0",
+  "status": "ACTIVE",
+  "creationDate": "2024-06-29T00:10:45.370Z",
+  "lastModifiedDate": "2024-06-29T00:10:45.440Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d0b728b58b904ff58a34fff3d08b49a1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
