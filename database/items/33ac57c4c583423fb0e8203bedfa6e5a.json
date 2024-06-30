@@ -35,7 +35,7 @@
   "namespace": "12b7efdc754646698a2e47012a94bd13",
   "status": "ACTIVE",
   "creationDate": "2024-04-22T23:00:24.075Z",
-  "lastModifiedDate": "2024-06-06T13:04:46.216Z",
+  "lastModifiedDate": "2024-06-30T15:43:01.402Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -43,7 +43,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "EscapeGameShowAbNCI"
+      "value": "EscapeGameShowTIMELINE"
     }
   },
   "entitlementName": "33ac57c4c583423fb0e8203bedfa6e5a",
@@ -51,9 +51,10 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "6ba0e985f2084e658b0f6fc4893ad2c4",
+      "id": "55e46633345f4ea1bf907fff2786d2a4",
       "appId": "c0d0cb274b764d11be3a7762c69ce632",
       "platform": [
+        "Win32",
         "Windows"
       ]
     }
@@ -61,7 +62,7 @@
   "developer": "Hapc",
   "developerId": "o-dxjwj4k7fe7525lhy6ml3hdafgsdzq",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567bNpud6Z0e4wfMCid9M1Hn73l",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
