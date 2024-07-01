@@ -1,7 +1,7 @@
 {
   "id": "afb9a22b3e924f90ae83e9ec41fe706f",
   "title": "Romopolis Demo",
-  "description": "Romopolis Demo",
+  "description": "Casual city building. Become an architect. Manage the small polis. Construct an idyllic ancient Roman city with plenty of houses. Work your way to the top through the campaign mode, or create your own scenarios.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,8 +34,8 @@
   ],
   "namespace": "cd69fe35f5af4b3eafcc8e5e837c0f2b",
   "status": "ACTIVE",
-  "creationDate": "2024-06-28T08:47:53.362Z",
-  "lastModifiedDate": "2024-06-28T08:47:53.362Z",
+  "creationDate": "2024-06-27T14:37:23.561Z",
+  "lastModifiedDate": "2024-07-01T08:38:17.071Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -51,9 +51,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "90e50b37-e349-42de-a02e-dd9d4ddc4dd9",
+      "id": "05c772588557441ea742c600914a01e8",
       "appId": "e8b7cc9018684c8a9f47b5aceb9678f7",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Lonely Troops s. r. o.",
