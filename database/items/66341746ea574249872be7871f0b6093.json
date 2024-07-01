@@ -1,0 +1,68 @@
+{
+  "id": "66341746ea574249872be7871f0b6093",
+  "title": "SPACE SMASH",
+  "description": "SPACE SMASH",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6491f5d7ba174c939f95f90b63bbedec/space-smash-1jh6p.png",
+      "md5": "312a57f9b65a986fa6e374f3bd1a499d",
+      "width": 2560,
+      "height": 1440,
+      "size": 3072512,
+      "uploadedDate": "2024-06-28T14:39:59.719Z",
+      "alt": "SPACE SMASH Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6491f5d7ba174c939f95f90b63bbedec/space-smash-a7k1s.png",
+      "md5": "94cea5a631ece605274e1bf2b22a7f4a",
+      "width": 1200,
+      "height": 1600,
+      "size": 1399697,
+      "uploadedDate": "2024-06-28T14:40:00.254Z",
+      "alt": "Download SPACE SMASH Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3808a6fabaf642c1b5b8a69c00b165c6",
+  "status": "ACTIVE",
+  "creationDate": "2024-07-01T08:49:22.079Z",
+  "lastModifiedDate": "2024-07-01T08:49:22.079Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/SPACE SMASH_Data/Saves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SPACESMASHfBFkN"
+    }
+  },
+  "entitlementName": "66341746ea574249872be7871f0b6093",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bf0f4db3641f4ad0ba9db957517099e7",
+      "appId": "84ef48cdc39d4f2fa75c8b398bdb9cb2",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "MORAES TECNOLOGIA LTDA",
+  "developerId": "o-sqf2zdxs76c6u7v97pb89992nn2cq3",
+  "endOfSupport": false,
+  "applicationId": "fghi4567xHHae6pL53bqKzsEXoLnUOjU",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
