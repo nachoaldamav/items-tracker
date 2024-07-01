@@ -1,0 +1,65 @@
+{
+  "id": "9797b415628747058f5553f07b5e3be3",
+  "title": "Megapolis",
+  "description": "Megapolis",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/acbb4b1cf4ce44db81b63f420db4e6ec/megapolis-1ecx7.jpg",
+      "md5": "b3dd1ec92ae07430ee914119a3bff24d",
+      "width": 2560,
+      "height": 1440,
+      "size": 1790986,
+      "uploadedDate": "2024-06-28T10:08:36.670Z",
+      "alt": "Megapolis Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/acbb4b1cf4ce44db81b63f420db4e6ec/megapolis-6gq2r.jpg",
+      "md5": "eae2c2eaa44a75b2574001e647a8788b",
+      "width": 1200,
+      "height": 1600,
+      "size": 842616,
+      "uploadedDate": "2024-06-28T10:08:38.165Z",
+      "alt": "Download Megapolis Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bb41e07f50464edb958e13c6531fe78c",
+  "status": "ACTIVE",
+  "creationDate": "2024-07-01T08:55:02.058Z",
+  "lastModifiedDate": "2024-07-01T08:55:02.058Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Lonely Troops/Megapolis/Cloud/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Megapolis"
+    }
+  },
+  "entitlementName": "9797b415628747058f5553f07b5e3be3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f87420c2f29a4ef7beda1c3b5711f63e",
+      "appId": "013d69ada3ef4039ab2f316aa793be68",
+      "platform": []
+    }
+  ],
+  "developer": "Lonely Troops s. r. o.",
+  "developerId": "o-2hm4bykljbhqqsshxrvargdhl7zupc",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
