@@ -1,0 +1,35 @@
+{
+  "id": "9764060d1ad94065bca1f1023d78554c",
+  "title": "DevMenonitaAudience",
+  "description": "DevMenonitaAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "a4977aac967e4e2c827336f074c82d64",
+  "status": "ACTIVE",
+  "creationDate": "2021-04-15T15:50:27.886Z",
+  "lastModifiedDate": "2021-04-27T22:40:31.919Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9764060d1ad94065bca1f1023d78554c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Dotemu",
+  "developerId": "o-fnktlq53watq74lercf286pb2793eu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
