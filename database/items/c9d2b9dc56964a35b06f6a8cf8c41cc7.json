@@ -1,7 +1,7 @@
 {
   "id": "c9d2b9dc56964a35b06f6a8cf8c41cc7",
   "title": "Megapolis Demo",
-  "description": "Megapolis Demo",
+  "description": "Casual city building. Become an architect. Manage the small polis. Construct beautiful city zones with plenty of modern blocks. Work your way to the top through the campaign mode, or create your own scenarios.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,8 +34,8 @@
   ],
   "namespace": "bb41e07f50464edb958e13c6531fe78c",
   "status": "ACTIVE",
-  "creationDate": "2024-07-01T08:55:02.059Z",
-  "lastModifiedDate": "2024-07-01T08:55:02.059Z",
+  "creationDate": "2024-06-28T09:26:21.081Z",
+  "lastModifiedDate": "2024-07-02T08:31:51.458Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -51,15 +51,17 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "e3b7007d-e140-45a7-bc97-e32569f2741d",
+      "id": "31c77933bc8343c9a046225a8ca840a6",
       "appId": "1c121cbb91674cd08b03f1cb08124814",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Lonely Troops s. r. o.",
   "developerId": "o-2hm4bykljbhqqsshxrvargdhl7zupc",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567jVudhgqfC3hhu1JavwbpexOx",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
