@@ -1,0 +1,71 @@
+{
+  "id": "1bf10e4a27ed4629a57d9a435f4deabd",
+  "title": "Touch the Color",
+  "description": "Touch the Color",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9c7a12e18c0d451683bbdf329243a6df/touch-the-color-1h2cy.jpg",
+      "md5": "688915f1bb37a4b1671cae21011144d9",
+      "width": 2560,
+      "height": 1440,
+      "size": 790445,
+      "uploadedDate": "2024-06-28T07:45:32.378Z",
+      "alt": "Touch the Color Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9c7a12e18c0d451683bbdf329243a6df/touch-the-color-1tvxw.jpg",
+      "md5": "f23019b2034e485954d701713d59dce6",
+      "width": 1200,
+      "height": 1600,
+      "size": 500797,
+      "uploadedDate": "2024-06-28T07:45:31.909Z",
+      "alt": "Download Touch the Color Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "adc4991d2edb4cdf80d47822d9149169",
+  "status": "ACTIVE",
+  "creationDate": "2024-07-02T23:00:10.231Z",
+  "lastModifiedDate": "2024-07-02T23:00:10.231Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Dezeiraud/Touch the Color/saves/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "save.newttc"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TouchtheColorwbQeT"
+    }
+  },
+  "entitlementName": "1bf10e4a27ed4629a57d9a435f4deabd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7c69d4012d274e8ba80add0f4d5f4d7d",
+      "appId": "8e915e96d417432ba3da00e0178cdc8e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Dezeiraud Gaëtan",
+  "developerId": "o-9e5pw2xgtsd6wdl5sn34lke4klyqup",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
