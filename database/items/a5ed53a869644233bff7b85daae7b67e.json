@@ -1,0 +1,71 @@
+{
+  "id": "a5ed53a869644233bff7b85daae7b67e",
+  "title": "The Black Pool",
+  "description": "In the forest outside of town, four friends discover a mysterious black pool that transports them to an unknown world. To fight their way home, they must unlock and master supernatural abilities.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/adcfc1169cfb49d1adad973ebf1b19b2/the-black-pool-1lc8q.png",
+      "md5": "94c78ce90a6737083dad17d8a24df914",
+      "width": 2560,
+      "height": 1440,
+      "size": 906526,
+      "uploadedDate": "2024-02-01T18:16:09.955Z",
+      "alt": "The Black Pool Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/adcfc1169cfb49d1adad973ebf1b19b2/the-black-pool-11f7h.png",
+      "md5": "fd308608498044758ed49469f5c2ffea",
+      "width": 1200,
+      "height": 1600,
+      "size": 638775,
+      "uploadedDate": "2024-02-01T18:12:35.714Z",
+      "alt": "Download The Black Pool Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a79dc86babfd4136a6f788bf54d23308",
+  "status": "ACTIVE",
+  "creationDate": "2024-07-04T15:21:08.386Z",
+  "lastModifiedDate": "2024-07-04T15:21:08.386Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/TheBlackPool/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheBlackPool"
+    }
+  },
+  "entitlementName": "a5ed53a869644233bff7b85daae7b67e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "209189c372d142d8adb91a440170a1b5",
+      "appId": "bedc3ef74bfe480887b4c0924fd5b14a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Smug Marmot",
+  "developerId": "o-xsaznfbdbysy5zphw5zgmjfv9q95w9",
+  "endOfSupport": false,
+  "applicationId": "fghi4567bIgGJLLldFxotMb6U6KPKbbG",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
