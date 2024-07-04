@@ -35,20 +35,8 @@
   "namespace": "dc989527f6684c218eb8f5992e85cfea",
   "status": "ACTIVE",
   "creationDate": "2023-04-19T20:07:09.532Z",
-  "lastModifiedDate": "2023-11-01T10:16:58.741Z",
+  "lastModifiedDate": "2024-07-03T21:17:43.834Z",
   "customAttributes": {
-    "CloudSaveFolder_MAC": {
-      "type": "STRING",
-      "value": "{AppData}/ScribbleIt/Artworks/"
-    },
-    "CloudSaveFolder": {
-      "type": "STRING",
-      "value": "{AppData}/ScribbleIt/Artworks/"
-    },
-    "CloudExcludeList": {
-      "type": "STRING",
-      "value": "*/History/*"
-    },
     "FolderName": {
       "type": "STRING",
       "value": "ScribbleIt"
@@ -59,7 +47,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "0e77d80d68bf40a2b7a5d3f0896e571a",
+      "id": "615bef26f80f4f2c8b0e56b0b6cbacca",
       "appId": "510ed0b0fb6c4ab8b8730f27aa266674",
       "platform": [
         "Windows"
