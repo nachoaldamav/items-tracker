@@ -1,0 +1,71 @@
+{
+  "id": "a357a2e08748445499d4e56fa8a6797c",
+  "title": "UNTITLED",
+  "description": "UNTITLED",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5a87f8fa1c6c46778fb91ce73fe0338e/untitled-139pq.png",
+      "md5": "d0f4a7d3a60e4e380bafef32af4fc8bd",
+      "width": 2560,
+      "height": 1440,
+      "size": 3638000,
+      "uploadedDate": "2024-06-26T16:19:35.794Z",
+      "alt": "UNTITLED Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5a87f8fa1c6c46778fb91ce73fe0338e/untitled-1wpct.png",
+      "md5": "a78b420ea08368a47ac413e9a82a2aa1",
+      "width": 1200,
+      "height": 1600,
+      "size": 2124161,
+      "uploadedDate": "2024-06-26T16:19:38.726Z",
+      "alt": "Download UNTITLED Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fc6480a75bb14349aec408ef47dc58b9",
+  "status": "ACTIVE",
+  "creationDate": "2024-07-07T18:37:48.828Z",
+  "lastModifiedDate": "2024-07-07T18:37:48.828Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/My Games/Documents/{EpicID}/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "5000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "UNTITLEDWavp0"
+    }
+  },
+  "entitlementName": "a357a2e08748445499d4e56fa8a6797c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c65705b444fb49efb67939f8e1227185",
+      "appId": "0d138c2bac3d486180d27e05b01f8207",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Neo_Vertex",
+  "developerId": "o-59y4x83zy63e8hfp95ss73fk2cm84p",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
