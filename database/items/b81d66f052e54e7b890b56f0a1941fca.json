@@ -35,7 +35,7 @@
   "namespace": "ec77abf71c4b4cc6bdb509ecad14939d",
   "status": "ACTIVE",
   "creationDate": "2023-12-14T17:42:15.845Z",
-  "lastModifiedDate": "2024-06-20T17:54:36.199Z",
+  "lastModifiedDate": "2024-07-08T05:57:32.687Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "956c94ff821742b5bde7a0df8ef26497",
+      "id": "9e36550fcb5c4fe29314ab2171907878",
       "appId": "77b4db12571d479aa67317072f39fe99",
-      "platform": []
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
     }
   ],
   "developer": "WASD Games",
