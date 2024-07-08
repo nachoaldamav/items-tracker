@@ -1,0 +1,71 @@
+{
+  "id": "5124a56ead684db480d1369c35962cb3",
+  "title": "Line Time",
+  "description": "Line Time",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/eafa081576204715b0be98d88427fc4c/line-time-lejxe.png",
+      "md5": "e2c6a13fef71c52f5a7a011e97430ee2",
+      "width": 2560,
+      "height": 1440,
+      "size": 2707989,
+      "uploadedDate": "2024-07-01T08:42:43.099Z",
+      "alt": "Line Time Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/eafa081576204715b0be98d88427fc4c/line-time-1qznu.png",
+      "md5": "69a099360d7a7e75f8c724b978c8aac3",
+      "width": 1200,
+      "height": 1600,
+      "size": 1584619,
+      "uploadedDate": "2024-07-01T08:42:45.765Z",
+      "alt": "Download Line Time Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ef5a6a2ad7a24dbc91622a36ebc45ed0",
+  "status": "ACTIVE",
+  "creationDate": "2024-07-08T02:58:03.803Z",
+  "lastModifiedDate": "2024-07-08T02:58:03.803Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/LineTime/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "SavedData_Epic.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LineTime21IlJ"
+    }
+  },
+  "entitlementName": "5124a56ead684db480d1369c35962cb3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9b6ca6fa27fe4f3bb939d6d7b51d630a",
+      "appId": "22ca0bd477d04ead95aa0ba90173af8c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Hong Kong Gamease Technology",
+  "developerId": "o-u8cmhbewvprua5lcknwahxs43ner79",
+  "endOfSupport": false,
+  "applicationId": "fghi4567UWQZ9fZtbx1rOcJk7uUJx8om",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
