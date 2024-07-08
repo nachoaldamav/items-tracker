@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/865b1a619fe744ed81dd0415fd50f5e6/calamity-jyipv.jpg",
-      "md5": "25f7517dd26294faf2c211e64d518a19",
+      "url": "https://cdn1.epicgames.com/spt-assets/865b1a619fe744ed81dd0415fd50f5e6/calamity-2xkco.jpg",
+      "md5": "09bfb5859b32b76260101b1a37a46051",
       "width": 2560,
       "height": 1440,
-      "size": 1216725,
-      "uploadedDate": "2024-05-16T09:16:23.128Z",
+      "size": 457765,
+      "uploadedDate": "2024-07-06T10:50:43.747Z",
       "alt": "Calamity Calamity Beta Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/865b1a619fe744ed81dd0415fd50f5e6/calamity-db1xl.jpg",
-      "md5": "a3256909594f28a40b0201c457411590",
+      "url": "https://cdn1.epicgames.com/spt-assets/865b1a619fe744ed81dd0415fd50f5e6/calamity-g7ngx.png",
+      "md5": "9796fde0bf97e11834a319eb1058da37",
       "width": 1200,
       "height": 1600,
-      "size": 709379,
-      "uploadedDate": "2024-05-16T09:16:23.650Z",
+      "size": 1717394,
+      "uploadedDate": "2024-07-06T10:50:44.337Z",
       "alt": "Download Calamity Calamity Beta Offer"
     }
   ],
@@ -34,8 +34,8 @@
   ],
   "namespace": "605c18826d4048e7902d410f98e219ac",
   "status": "ACTIVE",
-  "creationDate": "2024-05-26T13:03:13.940Z",
-  "lastModifiedDate": "2024-05-26T13:03:13.940Z",
+  "creationDate": "2024-05-15T20:48:31.989Z",
+  "lastModifiedDate": "2024-07-07T18:55:42.074Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,10 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "58679789521b4240bf20276085254af7",
+      "id": "b80778c2fb814c4db7a968899a54f5bf",
       "appId": "b2673014cbc748c4b83dd75abce379d7",
       "platform": [
+        "Win32",
         "Windows"
       ]
     }
