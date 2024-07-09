@@ -1,7 +1,7 @@
 {
   "id": "4b0700e8727c4515bded41571c822463",
   "title": "Hero of the Kingdom II Demo",
-  "description": "Hero of the Kingdom II Demo",
+  "description": "Lovely adventuring RPG series. Casual, story-driven journey and quests. The kingdom is under threat from pirates. Sail to the farthest islands to save your sister and become hero of the kingdom.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,8 +34,8 @@
   ],
   "namespace": "ed5411fb63534b74952a4dba16d5a38f",
   "status": "ACTIVE",
-  "creationDate": "2024-07-05T07:50:02.571Z",
-  "lastModifiedDate": "2024-07-05T07:50:02.571Z",
+  "creationDate": "2024-07-04T07:45:40.208Z",
+  "lastModifiedDate": "2024-07-09T08:29:10.914Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -51,9 +51,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "d7a35eb3-53cb-43a3-820a-59b07fe1c1cd",
+      "id": "2f51e04ea5af4ca5b3d50edf67c4cf28",
       "appId": "541bd8d744f54787b40ed73c8a282b3c",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Lonely Troops s. r. o.",

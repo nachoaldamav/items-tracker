@@ -35,8 +35,8 @@
   ],
   "namespace": "29e93200bb53431a961afc53e39fb9c8",
   "status": "ACTIVE",
-  "creationDate": "2021-06-03T20:04:55.058Z",
-  "lastModifiedDate": "2021-08-05T13:39:34.072Z",
+  "creationDate": "2024-07-09T09:40:39.542Z",
+  "lastModifiedDate": "2024-07-09T11:20:17.333Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -72,9 +72,10 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "73bcd3006b1c4089a81b9049763afcd8",
+      "id": "c0ed5c2af0034a7fa1faf9ce6bef0f9b",
       "appId": "32dbb6444ce14e9198129b746c0d056f",
       "platform": [
+        "Win32",
         "Windows"
       ]
     }
