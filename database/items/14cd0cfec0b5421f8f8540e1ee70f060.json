@@ -1,7 +1,7 @@
 {
   "id": "14cd0cfec0b5421f8f8540e1ee70f060",
   "title": "Hero of the Kingdom Demo",
-  "description": "Hero of the Kingdom Demo",
+  "description": "Lovely adventuring RPG series. Casual, story-driven journey and quests. Your home has been raided. Your father is missing. Set off on a dangerous journey to save him, and become the hero of the kingdom.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,8 +34,8 @@
   ],
   "namespace": "17fd3ea945ad482190387b6b55b42633",
   "status": "ACTIVE",
-  "creationDate": "2024-07-05T07:49:03.196Z",
-  "lastModifiedDate": "2024-07-05T07:49:03.196Z",
+  "creationDate": "2024-07-04T07:42:24.689Z",
+  "lastModifiedDate": "2024-07-09T08:27:30.467Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -51,9 +51,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "e5a4811c-f534-40a9-b3fd-19d39f4893db",
+      "id": "bd36b55b7b814c8682b16cc483b96f4c",
       "appId": "07ece1a9b10b4de493fbab31f84454f2",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Lonely Troops s. r. o.",
