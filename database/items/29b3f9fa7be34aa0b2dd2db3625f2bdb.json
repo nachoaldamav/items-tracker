@@ -1,7 +1,7 @@
 {
-  "id": "7df47cc650744d12829ed9995f8a167a",
-  "title": "ConsumableAudience",
-  "description": "ConsumableAudience",
+  "id": "29b3f9fa7be34aa0b2dd2db3625f2bdb",
+  "title": "#30.2 Survivor Pass Basic_SeasonPassAudience",
+  "description": "#30.2 Survivor Pass Basic_SeasonPassAudience",
   "categories": [
     {
       "path": "audience"
@@ -12,14 +12,13 @@
   ],
   "namespace": "eb99ee4694474e8da0b05a8ab391825c",
   "status": "ACTIVE",
-  "creationDate": "2022-07-29T09:42:53.024Z",
-  "lastModifiedDate": "2024-07-10T03:44:47.838Z",
-  "entitlementName": "7df47cc650744d12829ed9995f8a167a",
+  "creationDate": "2024-07-10T03:44:47.849Z",
+  "lastModifiedDate": "2024-07-10T03:44:47.849Z",
+  "entitlementName": "29b3f9fa7be34aa0b2dd2db3625f2bdb",
   "entitlementType": "AUDIENCE",
-  "itemType": "CONSUMABLE",
+  "itemType": "DURABLE",
   "developer": "KRAFTON, Inc.",
   "developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
-  "useCount": 1,
   "endOfSupport": false,
   "requiresSecureAccount": false,
   "unsearchable": false
