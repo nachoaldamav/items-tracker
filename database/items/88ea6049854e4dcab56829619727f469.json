@@ -1,7 +1,7 @@
 {
   "id": "88ea6049854e4dcab56829619727f469",
   "title": "Hero of the Kingdom III Demo",
-  "description": "Hero of the Kingdom III Demo",
+  "description": "Lovely adventuring RPG series. Casual, story-driven journey and quests. An ancient evil awakened in the kingdom. Travel through the four valleys to become a hero and save the kingdom on the brink of destruction.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,8 +34,8 @@
   ],
   "namespace": "a64669daa91845c094bd01c537658db2",
   "status": "ACTIVE",
-  "creationDate": "2024-07-05T07:53:14.496Z",
-  "lastModifiedDate": "2024-07-05T07:53:14.496Z",
+  "creationDate": "2024-07-04T07:50:08.780Z",
+  "lastModifiedDate": "2024-07-10T13:02:32.295Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -51,9 +51,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "751ddab2-cb86-4e4e-ab82-c07837448346",
+      "id": "a0b719433b704abb95819ae2b58f4a67",
       "appId": "fca5caf52f854f0f8296be50a51f7a13",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Lonely Troops s. r. o.",
