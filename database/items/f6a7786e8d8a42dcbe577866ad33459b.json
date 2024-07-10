@@ -1,0 +1,80 @@
+{
+  "id": "f6a7786e8d8a42dcbe577866ad33459b",
+  "title": "Werewolf: The Apocalypse - Purgatory",
+  "description": "Werewolf: The Apocalypse - Purgatory",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ca57b6bf296e49fd97da825b9e14446b/werewolf-the-apocalypse--purgatory-1vg8f.png",
+      "md5": "ffe86c15f2f9b500593168e24211965a",
+      "width": 2560,
+      "height": 1440,
+      "size": 3771379,
+      "uploadedDate": "2024-07-01T11:29:10.298Z",
+      "alt": "Werewolf: The Apocalypse - Purgatory Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ca57b6bf296e49fd97da825b9e14446b/werewolf-the-apocalypse--purgatory-l55kw.png",
+      "md5": "284571a0d459bdf2f7f369e82ba62c7b",
+      "width": 1200,
+      "height": 1600,
+      "size": 2164619,
+      "uploadedDate": "2024-07-01T11:29:09.904Z",
+      "alt": "Download Werewolf: The Apocalypse - Purgatory Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d687fc7fa9814e76a19454c65a9ac863",
+  "status": "ACTIVE",
+  "creationDate": "2024-07-10T12:00:01.654Z",
+  "lastModifiedDate": "2024-07-10T12:00:01.654Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Different Tales/Purgatory/Saves/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Different Tales/Purgatory/Saves/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "wod02.json,persistent.json"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WerewolfPurgatory"
+    }
+  },
+  "entitlementName": "f6a7786e8d8a42dcbe577866ad33459b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1e920391e473463e83baafcb2daa0c65",
+      "appId": "b326f426a3fd4bf5a21804a7fb538800",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Different Tales S.A.",
+  "developerId": "o-j8dsgh9bnmwgkjuyts7cyffpkfc3yk",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
