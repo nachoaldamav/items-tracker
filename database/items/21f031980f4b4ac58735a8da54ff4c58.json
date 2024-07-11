@@ -34,8 +34,8 @@
   ],
   "namespace": "e424e1d51e114ae8b6d685c943043cd7",
   "status": "ACTIVE",
-  "creationDate": "2024-07-10T14:15:42.877Z",
-  "lastModifiedDate": "2024-07-10T14:15:42.877Z",
+  "creationDate": "2024-06-28T16:09:39.314Z",
+  "lastModifiedDate": "2024-07-11T12:59:24.068Z",
   "customAttributes": {
     "CloudSaveFolder_MAC": {
       "type": "STRING",
@@ -55,9 +55,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "1eb96d7140b94af7a828477be9bb12c1",
+      "id": "4cc9c65aec3e4db9bf5cc74156290bc7",
       "appId": "4e9497d225af4c0a9766f171cd6625e5",
-      "platform": []
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "WinterLyrics",
