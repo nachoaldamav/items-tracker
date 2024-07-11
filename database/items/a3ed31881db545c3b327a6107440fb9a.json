@@ -1,0 +1,89 @@
+{
+  "id": "a3ed31881db545c3b327a6107440fb9a",
+  "title": "The Saboteur™",
+  "description": "This open-world action thriller takes you through the seedy streets of Paris as you seek to undermine the German authority and lead a rebellion.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b22fd0d01f454b54ba5cdcf3d7d16ea8/the-saboteur-1y962.jpg",
+      "md5": "be6d59c63832976457d0ae0ba19bdc2b",
+      "width": 2560,
+      "height": 1440,
+      "size": 924835,
+      "uploadedDate": "2024-06-20T15:35:35.362Z",
+      "alt": "The Saboteur Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b22fd0d01f454b54ba5cdcf3d7d16ea8/the-saboteur-15rrz.jpg",
+      "md5": "a631e852fd7390cd703524cbe3731b1e",
+      "width": 1200,
+      "height": 1600,
+      "size": 556825,
+      "uploadedDate": "2024-06-20T15:35:37.668Z",
+      "alt": "Download The Saboteur Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1e4d942571ec4e13851b3449e2486a8f",
+  "status": "ACTIVE",
+  "creationDate": "2024-07-11T18:21:54.834Z",
+  "lastModifiedDate": "2024-07-11T18:21:54.834Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Electronic Arts\\The Saboteur"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "SaboteurLauncher.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "SaboteurLauncher.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheSaboteur5sdJM"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "a3ed31881db545c3b327a6107440fb9a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d5ef38020c884e5fa6ccc7ee2d7d4242",
+      "appId": "conejito",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
