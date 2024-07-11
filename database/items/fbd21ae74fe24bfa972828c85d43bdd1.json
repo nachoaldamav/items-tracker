@@ -1,7 +1,7 @@
 {
   "id": "fbd21ae74fe24bfa972828c85d43bdd1",
   "title": "Auto Chess",
-  "description": "Auto Chess",
+  "description": "Auto Chess is a multiplayer online strategy game co-developed by Dragonest Game Co.Ltd and Drodo Studio and published by Dragonest Game Co.Ltd.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,8 +35,8 @@
   ],
   "namespace": "37baf50c268d47779020d73143bb02b0",
   "status": "ACTIVE",
-  "creationDate": "2019-06-06T19:54:40.735Z",
-  "lastModifiedDate": "2024-05-29T23:01:07.842Z",
+  "creationDate": "2024-06-06T19:14:24.054Z",
+  "lastModifiedDate": "2024-07-10T23:00:21.198Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -72,13 +72,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "50559c866db14ff1bfd8b5eae4921000",
+      "id": "dcc1e3c6ab9e48d38a7a5820183e612e",
       "appId": "Chicken",
       "platform": [
-        "Windows",
-        "Win32"
-      ],
-      "dateAdded": "2019-07-18T00:00:00.000Z"
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Dragonest Game",
