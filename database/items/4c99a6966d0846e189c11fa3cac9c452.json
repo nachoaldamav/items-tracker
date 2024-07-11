@@ -1,7 +1,7 @@
 {
   "id": "4c99a6966d0846e189c11fa3cac9c452",
   "title": "Hero of the Kingdom: The Lost Tales 2 Demo",
-  "description": "Hero of the Kingdom: The Lost Tales 2 Demo",
+  "description": "Lovely adventuring RPG series. Casual, story-driven journey and quests. Your city is suffering from the attack of unknown monsters. You must save your people and become a heroic princess.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,8 +34,8 @@
   ],
   "namespace": "756ea7cef5ec4ad49abb5b275068a007",
   "status": "ACTIVE",
-  "creationDate": "2024-07-05T07:54:33.460Z",
-  "lastModifiedDate": "2024-07-05T07:54:33.460Z",
+  "creationDate": "2024-07-04T07:55:08.387Z",
+  "lastModifiedDate": "2024-07-11T13:28:57.853Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -51,9 +51,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "b936f5f3-1254-4e66-ac20-c72118f35c37",
+      "id": "e8069a442da1493984a9c1fdf6002357",
       "appId": "6f85f72e4a9d42559bb9226e6640e457",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Lonely Troops s. r. o.",
