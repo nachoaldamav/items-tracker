@@ -34,9 +34,13 @@
   ],
   "namespace": "c35e949c4c29471aa23033ad9bb97879",
   "status": "ACTIVE",
-  "creationDate": "2024-06-11T16:06:38.052Z",
-  "lastModifiedDate": "2024-06-11T16:06:38.140Z",
+  "creationDate": "2024-01-11T15:23:02.372Z",
+  "lastModifiedDate": "2024-07-11T14:14:16.397Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Local/CONSCRIPT\\conscript\\Epic_Games_Store/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "CONSCRIPT"
@@ -47,7 +51,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "6a2e71191b1645c4bb1e74eac77c6f0d",
+      "id": "d7786478af574a0f962c45439b643243",
       "appId": "ff5763617da740a79c480db991b722f8",
       "platform": [
         "Windows"
