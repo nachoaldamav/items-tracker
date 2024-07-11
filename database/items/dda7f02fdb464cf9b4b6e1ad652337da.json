@@ -1,0 +1,89 @@
+{
+  "id": "dda7f02fdb464cf9b4b6e1ad652337da",
+  "title": "Sid Meier's Alpha Centauri Planetary Pack",
+  "description": "Sid Meier's Alpha Centauri™ Planetary Pack includes the original Alpha Centauri and the expansion, Alien Crossfire.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/674925eb7a294f0cbf9d58a6b29fb176/sid-meiers-alpha-centauri-planetary-pack-cy1s7.jpg",
+      "md5": "f57cf88017c816cb7658f01c1edcde2e",
+      "width": 2560,
+      "height": 1440,
+      "size": 520866,
+      "uploadedDate": "2024-06-21T09:29:44.535Z",
+      "alt": "Sid Meier's Alpha Centauri Planetary Pack Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/674925eb7a294f0cbf9d58a6b29fb176/sid-meiers-alpha-centauri-planetary-pack-1fyb5.jpg",
+      "md5": "4c4f66842324a5873d8f001ddcca9f5d",
+      "width": 1200,
+      "height": 1600,
+      "size": 331028,
+      "uploadedDate": "2024-06-21T09:29:48.334Z",
+      "alt": "Download Sid Meier's Alpha Centauri Planetary Pack Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6cd9529fec9145acb8898105755eef87",
+  "status": "ACTIVE",
+  "creationDate": "2024-07-11T18:16:58.160Z",
+  "lastModifiedDate": "2024-07-11T18:16:58.160Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Electronic Arts\\Sid Meier's Alpha Centauri (EA)"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "installerdata.xml"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "installerdata.xml"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SidMeiersAlphaCentauWWUfP"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "dda7f02fdb464cf9b4b6e1ad652337da",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6dcd8474fa8f4ad2bbffffd4522ccf63",
+      "appId": "odonnell",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
