@@ -1,7 +1,7 @@
 {
   "id": "8ebd423189be49d8bc67b517cf918147",
   "title": "Hero of the Kingdom: The Lost Tales 1",
-  "description": "Hero of the Kingdom: The Lost Tales 1",
+  "description": "Lovely adventuring RPG series. Casual, story-driven journey and quests. People live in fear of the dragon. Embark with your friend Brent on a dangerous quest to kill the dragon and become a hero.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,8 +34,8 @@
   ],
   "namespace": "0ff213fbaec14c7c89ab968f5ebd2a8a",
   "status": "ACTIVE",
-  "creationDate": "2024-07-05T07:53:56.201Z",
-  "lastModifiedDate": "2024-07-05T07:53:56.201Z",
+  "creationDate": "2024-07-01T13:03:21.928Z",
+  "lastModifiedDate": "2024-07-11T13:27:34.568Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -51,9 +51,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "fc417cd81943414c89410446bc215f7c",
+      "id": "a38a475eeaa547cdb294a474954109f4",
       "appId": "abbfba48a59d457da9238e02176cebfb",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Lonely Troops s. r. o.",
