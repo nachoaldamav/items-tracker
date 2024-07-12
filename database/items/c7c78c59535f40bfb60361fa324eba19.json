@@ -1,0 +1,89 @@
+{
+  "id": "c7c78c59535f40bfb60361fa324eba19",
+  "title": "Sim City 3000™ Unlimited",
+  "description": "Sim City 3000 Unlimited brings you the classic strategy gaming of Sim City 3000 with all-new scenarios that open up a whole world of city planning and building possibilities! The thrill of the classic Sim City 3000 are here again!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/799b7b81d45843f093ece464cb64e075/simcity-3000-unlimited-fl0ep.jpg",
+      "md5": "1c68b272d3e646cf38efbccc48678056",
+      "width": 2560,
+      "height": 1440,
+      "size": 566864,
+      "uploadedDate": "2024-06-21T09:36:00.139Z",
+      "alt": "SimCity 3000 Unlimited Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/799b7b81d45843f093ece464cb64e075/simcity-3000-unlimited-1gqq6.jpg",
+      "md5": "2cc4ea67b148d8de2ba89888706644df",
+      "width": 1200,
+      "height": 1600,
+      "size": 475659,
+      "uploadedDate": "2024-06-21T09:36:03.487Z",
+      "alt": "Download SimCity 3000 Unlimited Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0a28b32f06b54b6a968ae69ed5f1360b",
+  "status": "ACTIVE",
+  "creationDate": "2024-07-11T18:21:50.349Z",
+  "lastModifiedDate": "2024-07-11T18:21:50.349Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Maxis\\SimCity 3000 Unlimited"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "installerdata.xml"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "installerdata.xml"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SimCity3000Unlimitedz4BRS"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "c7c78c59535f40bfb60361fa324eba19",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2411d4abd354463aa679bbb115dd0fd0",
+      "appId": "schubert",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
