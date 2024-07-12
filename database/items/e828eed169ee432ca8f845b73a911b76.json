@@ -1,0 +1,89 @@
+{
+  "id": "e828eed169ee432ca8f845b73a911b76",
+  "title": "Populous The Beginning",
+  "description": "In the third part of the Populous series, you control your shaman and the tribe of her followers in a difficult quest to conquer all 25 planets of a star system and ascend to godhood.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7d981a616be345099826e756f1893812/populous-the-beginning-ik407.jpg",
+      "md5": "1a1ba7e141019e92de6541dd982c2b0a",
+      "width": 2560,
+      "height": 1440,
+      "size": 468751,
+      "uploadedDate": "2024-06-20T15:08:12.150Z",
+      "alt": "Populous The Beginning Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7d981a616be345099826e756f1893812/populous-the-beginning-21q2p.jpg",
+      "md5": "af2b13856cd38f3f96956d649a917f69",
+      "width": 1200,
+      "height": 1600,
+      "size": 392560,
+      "uploadedDate": "2024-06-20T15:08:21.087Z",
+      "alt": "Download Populous The Beginning Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "be74291506de49a6ba20d352ca8a2820",
+  "status": "ACTIVE",
+  "creationDate": "2024-07-11T14:15:04.063Z",
+  "lastModifiedDate": "2024-07-11T14:15:04.063Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Electronic Arts\\Populous - The Beginning (EA)"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "popTB.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "popTB.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PopulousTheBeginningByIgr"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "e828eed169ee432ca8f845b73a911b76",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f4309b62066d432b9774d6c3a2a68da7",
+      "appId": "schuxen",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
