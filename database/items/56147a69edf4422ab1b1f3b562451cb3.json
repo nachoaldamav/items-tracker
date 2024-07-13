@@ -1,0 +1,63 @@
+{
+  "id": "56147a69edf4422ab1b1f3b562451cb3",
+  "title": "Illuvium Zero",
+  "description": "Illuvium Zero",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/12f3f8148d0b44c68e2dea57b45352af/illuvium-zero-3ql4b.jpg",
+      "md5": "e43cf8bcddb36530eee9162e6d89797c",
+      "width": 2560,
+      "height": 1440,
+      "size": 3545215,
+      "uploadedDate": "2024-06-17T15:49:14.827Z",
+      "alt": "Illuvium Zero Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/12f3f8148d0b44c68e2dea57b45352af/illuvium-zero-wqmgc.png",
+      "md5": "c2cc4a71b02731b943e674301a079708",
+      "width": 1200,
+      "height": 1600,
+      "size": 3238967,
+      "uploadedDate": "2024-06-17T15:49:17.617Z",
+      "alt": "Download Illuvium Zero Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5728256099ea4e028abfb327c4382660",
+  "status": "ACTIVE",
+  "creationDate": "2024-07-12T16:22:16.942Z",
+  "lastModifiedDate": "2024-07-12T16:22:16.942Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "IlluviumZeroCtpIX"
+    }
+  },
+  "entitlementName": "56147a69edf4422ab1b1f3b562451cb3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "727281a743854e4b81d3efa7dfe4fce1",
+      "appId": "af07a93d3ea84d9395896a29b67cb13a",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Illuvium",
+  "developerId": "o-y9ffv79neu8hy6jhfrlamxu5luyab4",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
