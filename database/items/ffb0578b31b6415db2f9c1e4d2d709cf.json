@@ -35,8 +35,20 @@
   "namespace": "9d14aa079d6247ea83dcbc8879b90380",
   "status": "ACTIVE",
   "creationDate": "2024-01-08T16:16:24.309Z",
-  "lastModifiedDate": "2024-06-26T16:18:14.830Z",
+  "lastModifiedDate": "2024-07-15T10:51:47.266Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Ninja Chowdown/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "save.epic"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "NinjaChowdown"
@@ -47,9 +59,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "6d43432819334e02b9698093f154b2ac",
+      "id": "3993baf12fbc4ebfb5784e8bdbe7b415",
       "appId": "416d1b0b51c94001b53b9484ae320dd4",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Abylight Studios",
