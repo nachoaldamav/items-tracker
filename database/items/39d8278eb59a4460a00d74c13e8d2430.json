@@ -34,9 +34,17 @@
   ],
   "namespace": "e42faa3ca424411db871181e13664ef3",
   "status": "ACTIVE",
-  "creationDate": "2024-07-02T09:23:38.412Z",
-  "lastModifiedDate": "2024-07-02T09:23:38.412Z",
+  "creationDate": "2024-06-04T09:12:03.791Z",
+  "lastModifiedDate": "2024-07-15T08:49:35.555Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Microbird/Dungeons of Hinterberg/Epic/{EpicID}/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "DungeonsofHinterberg"
@@ -47,9 +55,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "6427a36623884c2eac1ed04900b22c89",
+      "id": "fce36902935e43fcabc0725332c56535",
       "appId": "e9ca9d9334544e85b6469c41a83975cc",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Curve Digital",
