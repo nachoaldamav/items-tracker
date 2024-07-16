@@ -1,0 +1,83 @@
+{
+  "id": "fd10cddab29547ef8e29fff1503cb629",
+  "title": "RiichiCity",
+  "description": "RiichiCity",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9435a6d918f14e39b97747dbb0c2e8a5/riichicity-mc8uh.png",
+      "md5": "54cad973d57500e4cb849bdbccc3d0db",
+      "width": 2560,
+      "height": 1440,
+      "size": 1921203,
+      "uploadedDate": "2024-07-05T09:28:47.047Z",
+      "alt": "RiichiCity Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9435a6d918f14e39b97747dbb0c2e8a5/riichicity-lvwyr.png",
+      "md5": "059fe9c4d5cdb7b94862150e9a2df64d",
+      "width": 1200,
+      "height": 1600,
+      "size": 2393778,
+      "uploadedDate": "2024-07-05T09:28:55.093Z",
+      "alt": "Download RiichiCity Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e0ee479e91da4abeb526cdfd2210d7dc",
+  "status": "ACTIVE",
+  "creationDate": "2024-07-16T02:00:22.355Z",
+  "lastModifiedDate": "2024-07-16T02:00:26.972Z",
+  "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "SkipAutoInstallDlc": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "Mahjong-JP.exe"
+    },
+    "NotarizedAndSigned": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RiichiCity"
+    }
+  },
+  "entitlementName": "fd10cddab29547ef8e29fff1503cb629",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4865124578e44d5cb84abeedc3706ef6",
+      "appId": "80ff9c24eaea4eff8aca99d482c884ce",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Deep Rover Digital Tech Limited",
+  "developerId": "o-dh4esf4tfkjfdryebdwus863psqkqw",
+  "endOfSupport": false,
+  "applicationId": "fghi4567ZbtAx0kZgLLZ6lh02nzMx8rL",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
