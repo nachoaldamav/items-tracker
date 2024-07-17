@@ -1,0 +1,34 @@
+{
+  "id": "14854b779c1b4a4bb39f8d590895c2f5",
+  "title": "EE DLC audience",
+  "description": "EE DLC audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "7ab6dd1c70a64d5ebf48defa8deb81a8",
+  "status": "ACTIVE",
+  "creationDate": "2024-02-28T21:04:36.153Z",
+  "lastModifiedDate": "2024-07-17T14:55:22.758Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "14854b779c1b4a4bb39f8d590895c2f5",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Focus Entertainment Publishing",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
