@@ -32,16 +32,18 @@
   "namespace": "fb9cd4d7c3cd49108b09aec351470fda",
   "status": "ACTIVE",
   "creationDate": "2024-05-22T11:34:38.819Z",
-  "lastModifiedDate": "2024-07-10T14:29:46.690Z",
+  "lastModifiedDate": "2024-07-17T09:19:22.838Z",
   "customAttributes": {},
   "entitlementName": "06fe9a97477f44ceb0180fda5034ae7a",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "ae8df76d98c74e438addcc80597c56a0",
+      "id": "0cd42021afe54e3a8867b21d75520791",
       "appId": "4a1c61d25f7240699d6367a715c26716",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "tinyBuild Games",
