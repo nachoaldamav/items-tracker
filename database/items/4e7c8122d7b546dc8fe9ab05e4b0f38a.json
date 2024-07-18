@@ -35,9 +35,13 @@
   ],
   "namespace": "ffe512fa1e594ee6a75d4643d1e21b43",
   "status": "ACTIVE",
-  "creationDate": "2019-12-16T16:58:30.243Z",
-  "lastModifiedDate": "2021-04-01T18:58:39.989Z",
+  "creationDate": "2024-03-26T17:39:25.728Z",
+  "lastModifiedDate": "2024-07-18T13:00:18.726Z",
   "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Landfall Games/Totally Accurate Battle Simulator/Saved/"
+    },
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
@@ -50,6 +54,10 @@
       "type": "STRING",
       "value": "true"
     },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Landfall Games/Totally Accurate Battle Simulator/Saved/"
+    },
     "UseAccessControl": {
       "type": "STRING",
       "value": "false"
@@ -57,6 +65,10 @@
     "RequirementsJson": {
       "type": "STRING",
       "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "TABSSAVE.TABSProgress"
     },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
@@ -72,13 +84,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "fee6d6de56474e73a35a63c56cbe3f88",
+      "id": "0919c24faa6848808d4283681b06556b",
       "appId": "Driftfish",
       "platform": [
-        "Windows",
-        "Mac"
-      ],
-      "dateAdded": "2019-12-18T00:00:00.000Z"
+        "Mac",
+        "Windows"
+      ]
     }
   ],
   "developer": "Landfall Games",
@@ -88,5 +99,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
