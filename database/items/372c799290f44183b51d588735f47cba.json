@@ -1,0 +1,67 @@
+{
+  "id": "372c799290f44183b51d588735f47cba",
+  "title": "Earniverse",
+  "description": "Earniverse",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b03cedcb4dcc45c382061fed43fac004/earniverse-1i2pg.jpg",
+      "md5": "ab8879d402438473f7359c30950e7064",
+      "width": 2560,
+      "height": 1440,
+      "size": 1843573,
+      "uploadedDate": "2024-04-02T10:01:20.758Z",
+      "alt": "Earniverse Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b03cedcb4dcc45c382061fed43fac004/earniverse-10e8f.jpg",
+      "md5": "81227b5463106ca24fa2ee0abad8541a",
+      "width": 1200,
+      "height": 1600,
+      "size": 923948,
+      "uploadedDate": "2024-04-02T10:01:16.582Z",
+      "alt": "Download Earniverse Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c9eef872f5fb4b6e95e4ba4ea028b194",
+  "status": "ACTIVE",
+  "creationDate": "2024-07-19T15:08:01.560Z",
+  "lastModifiedDate": "2024-07-19T15:08:01.560Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Earniverse/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Earniverse_Demo"
+    }
+  },
+  "entitlementName": "372c799290f44183b51d588735f47cba",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "97add9a8eab44159b00d2766db85fc99",
+      "appId": "d842fd3f6ce1442680de9d35fe1ae005",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Netvisor",
+  "developerId": "o-dwcgttcleqxg3r8ghdwjmk49bcmrxf",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
