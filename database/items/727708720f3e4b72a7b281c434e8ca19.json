@@ -1,0 +1,62 @@
+{
+  "id": "727708720f3e4b72a7b281c434e8ca19",
+  "title": "Astro Wars",
+  "description": "Astro Wars",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b0a71db94be447cba3cfa4fe66c491ea/astro-wars-cm1ug.png",
+      "md5": "e9795407704cfa914b2f0f9b7a58fa76",
+      "width": 2560,
+      "height": 1440,
+      "size": 1264536,
+      "uploadedDate": "2024-07-16T02:37:38.268Z",
+      "alt": "Astro Wars Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b0a71db94be447cba3cfa4fe66c491ea/astro-wars-1tbnr.png",
+      "md5": "8063a8970ae18e97168dc6c09689bcca",
+      "width": 1200,
+      "height": 1600,
+      "size": 683200,
+      "uploadedDate": "2024-07-14T03:50:02.958Z",
+      "alt": "Download Astro Wars Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3115ba037dbf4ef18d21e24422ee9c7a",
+  "status": "ACTIVE",
+  "creationDate": "2024-07-18T21:04:32.177Z",
+  "lastModifiedDate": "2024-07-18T21:04:32.177Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "AstroWarsqElk8"
+    }
+  },
+  "entitlementName": "727708720f3e4b72a7b281c434e8ca19",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8490c5e052104f99bb20a9d26294f446",
+      "appId": "71da186f80a1489f8cde752d515296c6",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "26horses",
+  "developerId": "o-648srylvetymdrw35r75ysv5mbdu5n",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
