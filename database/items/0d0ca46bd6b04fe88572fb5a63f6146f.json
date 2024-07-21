@@ -1,0 +1,73 @@
+{
+  "id": "0d0ca46bd6b04fe88572fb5a63f6146f",
+  "title": "Art Shop Simulator",
+  "description": "Art Shop Simulator",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1dd448e89e3c47e48f01acc95bd60917/art-shop-simulator-1jqs5.jpeg",
+      "md5": "2d77204c5d89f56d55b31e93e5b834bd",
+      "width": 2560,
+      "height": 1440,
+      "size": 2256459,
+      "uploadedDate": "2024-07-16T11:04:06.150Z",
+      "alt": "Art Shop Simulator Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1dd448e89e3c47e48f01acc95bd60917/art-shop-simulator-1cd1l.png",
+      "md5": "128065fd4ea1b562a5acd8c2710cb017",
+      "width": 1200,
+      "height": 1600,
+      "size": 2498559,
+      "uploadedDate": "2024-07-16T11:02:06.553Z",
+      "alt": "Download Art Shop Simulator Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "376a130261c24ba99c0d5b297867dab4",
+  "status": "ACTIVE",
+  "creationDate": "2024-07-21T02:10:03.378Z",
+  "lastModifiedDate": "2024-07-21T02:10:03.378Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Lovheim Studios/Art Shop Simulator/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ArtShopSimulatorCMLn4"
+    }
+  },
+  "entitlementName": "0d0ca46bd6b04fe88572fb5a63f6146f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fd9c5d6bf46743a38e7d3e71a256721b",
+      "appId": "19f1f773d8ca4c48ba7df7b053673066",
+      "platform": []
+    }
+  ],
+  "developer": "Lovheim Studios",
+  "developerId": "o-57q5wzbmvzny8bcc69c92tudmqp63y",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
