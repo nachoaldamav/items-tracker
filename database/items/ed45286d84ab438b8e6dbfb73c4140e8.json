@@ -35,19 +35,23 @@
   "namespace": "2df8b055a5674c8e9211fc51f8efd210",
   "status": "ACTIVE",
   "creationDate": "2024-01-29T17:35:51.135Z",
-  "lastModifiedDate": "2024-06-10T14:40:55.017Z",
+  "lastModifiedDate": "2024-07-22T18:03:18.864Z",
   "customAttributes": {
     "CloudSaveFolder_MAC": {
       "type": "STRING",
-      "value": "{AppData}/FurnitureAndMattress/Arranger/"
+      "value": "{UserLibrary}/Application Support/FurnitureAndMattress/Arranger/"
     },
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{AppData}/../LocalLow/FurnitureAndMattress/Arranger/"
     },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "steam_autocloud.vdf,Player.log,Player-prev.log"
+    },
     "MaxSizeMB": {
       "type": "STRING",
-      "value": "100"
+      "value": "1000"
     },
     "FolderName": {
       "type": "STRING",
@@ -59,7 +63,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "4f065c4c38fd4492967b7e5417cbec73",
+      "id": "b5efa4728bc440e2858a6c8e9f2ecb66",
       "appId": "d83a370c98f1474ca80de267ef9f54ed",
       "platform": [
         "Mac",
