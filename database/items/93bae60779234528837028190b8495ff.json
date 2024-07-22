@@ -35,15 +35,19 @@
   "namespace": "53ea1f0a585f4fbc9c8adc6b76af1165",
   "status": "ACTIVE",
   "creationDate": "2023-12-18T10:48:29.916Z",
-  "lastModifiedDate": "2024-05-15T14:00:06.656Z",
+  "lastModifiedDate": "2024-07-22T08:02:59.820Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/F1Manager24/Saved/SaveGames/"
+    },
     "OwnershipToken": {
       "type": "STRING",
       "value": "TRUE"
     },
     "FolderName": {
       "type": "STRING",
-      "value": "F1Manager202433KmM"
+      "value": "F1Manager2024"
     }
   },
   "entitlementName": "93bae60779234528837028190b8495ff",
@@ -51,7 +55,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "b8ff5736f2f3417dbfb534669f0b16b4",
+      "id": "067709adf3bd4caea5534da6143b83c1",
       "appId": "03c9fe3b2869452ba8433ee7708a3e93",
       "platform": [
         "Windows"
