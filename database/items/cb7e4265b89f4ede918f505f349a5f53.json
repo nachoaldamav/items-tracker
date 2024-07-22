@@ -1,7 +1,7 @@
 {
-  "id": "f0b5c685c2264bcc862c16bdda616c56",
-  "title": "DevGeneralAudience",
-  "description": "DevGeneralAudience",
+  "id": "cb7e4265b89f4ede918f505f349a5f53",
+  "title": "currency_premium_2200_ConsumableAudience",
+  "description": "currency_premium_2200_ConsumableAudience",
   "categories": [
     {
       "path": "audience"
@@ -12,14 +12,14 @@
   ],
   "namespace": "b9665613f2b94636bf4536a411002d22",
   "status": "ACTIVE",
-  "creationDate": "2022-04-14T08:19:01.363Z",
-  "lastModifiedDate": "2024-07-22T18:52:06.370Z",
-  "entitlementName": "f0b5c685c2264bcc862c16bdda616c56",
+  "creationDate": "2024-07-22T18:52:05.714Z",
+  "lastModifiedDate": "2024-07-22T18:52:05.714Z",
+  "entitlementName": "cb7e4265b89f4ede918f505f349a5f53",
   "entitlementType": "AUDIENCE",
-  "itemType": "DURABLE",
-  "releaseInfo": [],
+  "itemType": "CONSUMABLE",
   "developer": "tinyBuild Games",
   "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "useCount": 1,
   "endOfSupport": false,
   "requiresSecureAccount": false,
   "unsearchable": false

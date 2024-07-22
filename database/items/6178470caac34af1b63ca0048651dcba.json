@@ -1,7 +1,7 @@
 {
-  "id": "f0b5c685c2264bcc862c16bdda616c56",
-  "title": "DevGeneralAudience",
-  "description": "DevGeneralAudience",
+  "id": "6178470caac34af1b63ca0048651dcba",
+  "title": "Twitch Drop Apron_ConsumableAudience",
+  "description": "Twitch Drop Apron_ConsumableAudience",
   "categories": [
     {
       "path": "audience"
@@ -12,14 +12,14 @@
   ],
   "namespace": "b9665613f2b94636bf4536a411002d22",
   "status": "ACTIVE",
-  "creationDate": "2022-04-14T08:19:01.363Z",
-  "lastModifiedDate": "2024-07-22T18:52:06.370Z",
-  "entitlementName": "f0b5c685c2264bcc862c16bdda616c56",
+  "creationDate": "2024-07-22T18:52:06.389Z",
+  "lastModifiedDate": "2024-07-22T18:52:06.389Z",
+  "entitlementName": "6178470caac34af1b63ca0048651dcba",
   "entitlementType": "AUDIENCE",
-  "itemType": "DURABLE",
-  "releaseInfo": [],
+  "itemType": "CONSUMABLE",
   "developer": "tinyBuild Games",
   "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "useCount": 1,
   "endOfSupport": false,
   "requiresSecureAccount": false,
   "unsearchable": false
