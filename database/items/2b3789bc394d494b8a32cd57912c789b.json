@@ -1,0 +1,71 @@
+{
+  "id": "2b3789bc394d494b8a32cd57912c789b",
+  "title": "EndGame",
+  "description": "EndGame",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa16974f9dab4a2eb234a86f351a9e5d/endgame-172k5.png",
+      "md5": "ea5331672b49edbadc223caab82f80d7",
+      "width": 2560,
+      "height": 1440,
+      "size": 3158728,
+      "uploadedDate": "2024-07-22T00:24:27.129Z",
+      "alt": "EndGame Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa16974f9dab4a2eb234a86f351a9e5d/endgame-ihi5f.jpg",
+      "md5": "464b4c983a2d7fceca2fc3a80e77aec1",
+      "width": 1200,
+      "height": 1600,
+      "size": 359165,
+      "uploadedDate": "2024-06-12T01:24:42.490Z",
+      "alt": "Download EndGame Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b17eb0bdbfa642e6a051fd833c87076f",
+  "status": "ACTIVE",
+  "creationDate": "2024-07-23T14:33:21.676Z",
+  "lastModifiedDate": "2024-07-23T14:33:21.676Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/aa16974f9dab4a2eb234a86f351a9e5d/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "2000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EndGameRqORO"
+    }
+  },
+  "entitlementName": "2b3789bc394d494b8a32cd57912c789b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "11da32f1eee140ff9cfc34d286c361dd",
+      "appId": "308427a87c4746f38dc5a7e29c275400",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "EndGame",
+  "developerId": "o-fb2mtvmgjaa5qkfp5s723h5vtymkpv",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
