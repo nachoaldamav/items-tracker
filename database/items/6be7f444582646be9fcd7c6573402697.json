@@ -1,0 +1,63 @@
+{
+  "id": "6be7f444582646be9fcd7c6573402697",
+  "title": "Globe Go",
+  "description": "Globe Go",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/21b4a1b546e442f88084c0986fe6d092/globe-go-14d7k.png",
+      "md5": "9e2e57c17e66bb3093f521103c484e50",
+      "width": 2560,
+      "height": 1440,
+      "size": 1950959,
+      "uploadedDate": "2024-07-22T03:27:25.473Z",
+      "alt": "Globe Go Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/21b4a1b546e442f88084c0986fe6d092/globe-go-cs739.png",
+      "md5": "997798488da67886451d7b75360aed93",
+      "width": 1200,
+      "height": 1600,
+      "size": 1229215,
+      "uploadedDate": "2024-07-22T03:27:25.373Z",
+      "alt": "Download Globe Go Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "68a38fd9bc32457caaf02d55b7e7fe18",
+  "status": "ACTIVE",
+  "creationDate": "2024-07-23T01:32:42.818Z",
+  "lastModifiedDate": "2024-07-23T01:32:42.818Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "GlobeGo"
+    }
+  },
+  "entitlementName": "6be7f444582646be9fcd7c6573402697",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8c6817343f904f8b93ba785139cdeaaf",
+      "appId": "d7819ee3f43749a8ac96f319cbce2e2b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Hexagon Place, Inc.",
+  "developerId": "o-5nbmdsfht483wh8klbx8qjz5z6nbyg",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
