@@ -1,7 +1,7 @@
 {
   "id": "a8d8b0990500494a8312a6d80f97886f",
-  "title": "Flatout 2",
-  "description": "Flatout 2",
+  "title": "FlatOut 2",
+  "description": "FlatOut 2",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,8 +34,8 @@
   ],
   "namespace": "04aa210636b34e4181d617e015cb82b4",
   "status": "ACTIVE",
-  "creationDate": "2022-08-05T22:18:56.102Z",
-  "lastModifiedDate": "2022-08-05T22:18:56.102Z",
+  "creationDate": "2022-06-01T22:46:41.843Z",
+  "lastModifiedDate": "2024-07-24T18:34:56.324Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,17 +47,18 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "50dfdb89f0de4c60b7a1dae657a0f417",
+      "id": "c6879225f780463e97fd2bbfdb40a7f2",
       "appId": "9470e4a449ca484cbe40838211a8244c",
       "platform": [
-        "Windows",
-        "Win32"
+        "Win32",
+        "Windows"
       ]
     }
   ],
   "developer": "Strategy First",
   "developerId": "o-a3vefcg43bn6j4lwc7qs8n5y38jm7k",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
