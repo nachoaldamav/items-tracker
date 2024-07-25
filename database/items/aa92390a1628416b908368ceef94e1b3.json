@@ -1,7 +1,7 @@
 {
   "id": "aa92390a1628416b908368ceef94e1b3",
-  "title": "Flatout",
-  "description": "Flatout",
+  "title": "FlatOut",
+  "description": "FlatOut",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,9 +34,17 @@
   ],
   "namespace": "d98c82a9d1554fbdad96b236199c53ca",
   "status": "ACTIVE",
-  "creationDate": "2022-07-07T22:32:57.047Z",
-  "lastModifiedDate": "2022-07-07T22:32:57.047Z",
+  "creationDate": "2022-06-01T22:41:23.868Z",
+  "lastModifiedDate": "2024-07-24T18:34:50.199Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Savegame/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "player*.sav"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "Flatouth8G7F"
@@ -47,17 +55,18 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "bfc5aa11b9c74997999e48fbd1e0366c",
+      "id": "489d24b07ed343c09f84841028874064",
       "appId": "ad268085465a4ddcb007bd986a67e167",
       "platform": [
-        "Windows",
-        "Win32"
+        "Win32",
+        "Windows"
       ]
     }
   ],
   "developer": "Strategy First",
   "developerId": "o-a3vefcg43bn6j4lwc7qs8n5y38jm7k",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
