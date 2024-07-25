@@ -1,0 +1,65 @@
+{
+  "id": "e9b62a5b071d4ec78e4027bb0374525a",
+  "title": "Moonfrost",
+  "description": "Moonfrost",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/91f085dca2834ef3b3e152e4b8014836/moonfrost-5q6pp.png",
+      "md5": "adbacd98d664a7f2dee63566489d36a6",
+      "width": 2560,
+      "height": 1440,
+      "size": 3776593,
+      "uploadedDate": "2024-07-17T13:24:24.369Z",
+      "alt": "Moonfrost Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/91f085dca2834ef3b3e152e4b8014836/moonfrost-rbban.png",
+      "md5": "818edb921213dfb126fb23103dfdd7bb",
+      "width": 1200,
+      "height": 1600,
+      "size": 2244565,
+      "uploadedDate": "2024-07-17T13:24:37.249Z",
+      "alt": "Download Moonfrost Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "abaf1b7f84de481fae7a61d4523344da",
+  "status": "ACTIVE",
+  "creationDate": "2024-07-25T12:07:06.424Z",
+  "lastModifiedDate": "2024-07-25T12:07:06.424Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Moonfrost"
+    }
+  },
+  "entitlementName": "e9b62a5b071d4ec78e4027bb0374525a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "55f5de68fe884977994ab8d9158a533c",
+      "appId": "b53c97b04bc845faa18bbc377ae93895",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Oxalis Games Ltd.",
+  "developerId": "o-plap5xe65q697byb85w4jb8d4t5wwr",
+  "endOfSupport": false,
+  "applicationId": "fghi4567GSfM2waVOgcK1r064ZnhKf0l",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
