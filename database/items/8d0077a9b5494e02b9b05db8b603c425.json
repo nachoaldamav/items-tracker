@@ -35,7 +35,7 @@
   "namespace": "2819d0278f1b4fe7bcf06b783950f64d",
   "status": "ACTIVE",
   "creationDate": "2023-05-24T12:21:32.620Z",
-  "lastModifiedDate": "2023-12-22T13:58:17.923Z",
+  "lastModifiedDate": "2024-07-26T16:46:25.489Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "347675de62344a94a7ff8b7e31d65642",
+      "id": "2d43b0daa3bb4a1b8114c292c9939081",
       "appId": "7204725ac4564168bd63b0be910f1597",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "ESDigital Games ltd",
