@@ -1,16 +1,16 @@
 {
   "id": "20f7ce0ecccf496bb5fc5414b7e7f66d",
-  "title": "Gravity Fields - Expansion Pack",
-  "description": "Unleash the power of gravity in the Gravity Fields DLC! Manipulate gravity fields to move, lift, and control vast numbers of objects in an expansive sandbox environment. Explore innovative gameplay mechanics and experience stunning visuals",
+  "title": "Unreal Physics: Gravity Fields DLC",
+  "description": "Unreal Physics: Gravity Fields DLC",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/719fe917cc85471a8e9fa6d4486acbb9/unreal-physics-1xwim.jpg",
-      "md5": "5fd9226058961b750431ceacb511be71",
+      "url": "https://cdn1.epicgames.com/spt-assets/719fe917cc85471a8e9fa6d4486acbb9/unreal-physics-1ewpk.jpg",
+      "md5": "eeab66d952af523656413b89e0e31413",
       "width": 2560,
       "height": 1440,
-      "size": 2721040,
-      "uploadedDate": "2024-07-20T12:09:01.108Z",
+      "size": 2732826,
+      "uploadedDate": "2024-07-22T07:24:15.501Z",
       "alt": "Unreal Physics Gravity Fields - Expansion Pack Offer"
     },
     {
@@ -31,17 +31,20 @@
   ],
   "namespace": "671e830fdc5d4ec8b26e062ae486cfdd",
   "status": "ACTIVE",
-  "creationDate": "2024-07-20T19:42:04.769Z",
-  "lastModifiedDate": "2024-07-20T19:42:04.769Z",
+  "creationDate": "2024-06-20T10:03:38.127Z",
+  "lastModifiedDate": "2024-07-27T05:00:37.153Z",
   "customAttributes": {},
   "entitlementName": "20f7ce0ecccf496bb5fc5414b7e7f66d",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "8af21e5d6af64033aff5fa1d172f919d",
+      "id": "7569dcc6a3eb4be4bbc174b222833c96",
       "appId": "a65eba589d0d4106888ce801997187ac",
-      "platform": []
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Jilted Generation Productions",
