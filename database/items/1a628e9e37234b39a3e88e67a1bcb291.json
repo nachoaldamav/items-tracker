@@ -1,0 +1,89 @@
+{
+  "id": "1a628e9e37234b39a3e88e67a1bcb291",
+  "title": "Apex Legends™",
+  "description": "Apex Legends is coming soon to the Epic Games Store. Master an ever-growing roster of diverse legends, deep tactical squad play, and bold new innovations that go beyond the Battle Royale experience",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-16jjb.jpg",
+      "md5": "a44385b8e85e7fdd9aad677d63c1ec4d",
+      "width": 2560,
+      "height": 1440,
+      "size": 807541,
+      "uploadedDate": "2024-07-16T19:12:15.307Z",
+      "alt": "Apex Legends Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-uuy58.jpg",
+      "md5": "67044bfddde248c990527144c1cb53a7",
+      "width": 1200,
+      "height": 1600,
+      "size": 609959,
+      "uploadedDate": "2024-07-16T19:12:22.591Z",
+      "alt": "Download Apex Legends Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f9f24f4a353b451297e31f5db9cc54f2",
+  "status": "ACTIVE",
+  "creationDate": "2024-07-25T17:21:36.038Z",
+  "lastModifiedDate": "2024-07-25T17:21:36.384Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Respawn\\Apex"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "r5apex.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "r5apex.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Apex"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "1a628e9e37234b39a3e88e67a1bcb291",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fcd63d928aeb4c26b33c1f48f4df8852",
+      "appId": "makalu",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
