@@ -34,8 +34,8 @@
   ],
   "namespace": "9e3c3806794d49e7858081054f2fe2ab",
   "status": "ACTIVE",
-  "creationDate": "2024-07-08T15:30:02.361Z",
-  "lastModifiedDate": "2024-07-08T15:30:02.361Z",
+  "creationDate": "2024-06-19T05:46:31.057Z",
+  "lastModifiedDate": "2024-07-30T17:07:09.590Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "4d201c11d61d4b0dae6e478d174c7ff8",
+      "id": "34b36da1d4ff4ade836b6dbc7102c8c6",
       "appId": "69bac58b0e6b4149b66024b4232e057f",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "C World Enterprises, LLC (d.b.a. RFLXT)",
