@@ -1,0 +1,67 @@
+{
+  "id": "d42394a5eeb949b3b312a31300d7e459",
+  "title": "legend battles",
+  "description": "legend battles",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/36ef18e47dd645ceafd7db01a64a740c/legend-battles-g30l2.png",
+      "md5": "cc5318df68d3e57d5ba7435b938e25f9",
+      "width": 2560,
+      "height": 1440,
+      "size": 116661,
+      "uploadedDate": "2024-07-13T13:57:13.063Z",
+      "alt": "legend battles Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/36ef18e47dd645ceafd7db01a64a740c/legend-battles-tcg0p.png",
+      "md5": "a9728bd65424c8a3a2149527f078bc95",
+      "width": 1200,
+      "height": 1600,
+      "size": 90104,
+      "uploadedDate": "2024-07-13T13:57:12.600Z",
+      "alt": "Download legend battles Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2fe88dd83b2847dfa21ca99b10255447",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-16T09:28:27.857Z",
+  "lastModifiedDate": "2024-07-29T19:00:12.138Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/legend_battles/Saved\\SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "legend_battles"
+    }
+  },
+  "entitlementName": "d42394a5eeb949b3b312a31300d7e459",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cb4a1d207e034ad79602ee45a9eaad36",
+      "appId": "0d55e8ead15e4d46a72d17eca4711087",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "ymgames",
+  "developerId": "o-lnt5qpjx3emm5vgtd2twpw35usr9ye",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
