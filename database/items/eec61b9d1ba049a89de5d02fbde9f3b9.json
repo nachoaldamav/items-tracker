@@ -1,0 +1,63 @@
+{
+  "id": "eec61b9d1ba049a89de5d02fbde9f3b9",
+  "title": "Etherscape",
+  "description": "Etherscape",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/cefd4a4f43b340669aa8b575fb27eadd/the-etherscape-15z0s.png",
+      "md5": "8f905d2d6a482582dbb237f2d8a5adce",
+      "width": 2560,
+      "height": 1440,
+      "size": 269237,
+      "uploadedDate": "2023-04-29T16:08:24.623Z",
+      "alt": "The Etherscape Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/cefd4a4f43b340669aa8b575fb27eadd/the-etherscape-po6ox.png",
+      "md5": "5408ff0d6e218fd1e9a3507685867353",
+      "width": 1200,
+      "height": 1600,
+      "size": 99642,
+      "uploadedDate": "2023-04-29T16:10:05.890Z",
+      "alt": "Download The Etherscape Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f013c08732e84e2db28edc95613f4d6b",
+  "status": "ACTIVE",
+  "creationDate": "2024-07-31T17:51:43.218Z",
+  "lastModifiedDate": "2024-07-31T17:51:43.218Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheEtherscape"
+    }
+  },
+  "entitlementName": "eec61b9d1ba049a89de5d02fbde9f3b9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0638fe35a79348b88f7a3ff6b1992277",
+      "appId": "e37ec27405594f58918589bbf216856c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "The Etherscape",
+  "developerId": "o-xc5uzzdpqlk8fkl9vptv3kfzqb76ne",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
