@@ -34,8 +34,8 @@
   ],
   "namespace": "8b1072dbd9c84374935b5c4b9d363865",
   "status": "ACTIVE",
-  "creationDate": "2024-07-30T07:14:45.950Z",
-  "lastModifiedDate": "2024-07-30T07:14:45.950Z",
+  "creationDate": "2024-07-19T10:44:46.842Z",
+  "lastModifiedDate": "2024-07-31T08:38:16.559Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "151998d8-46a5-4f01-ab80-eccdc8b8a5fb",
+      "id": "a249b1494cc54fd1a17b11ca1ef7481c",
       "appId": "33d09e62aa3147de8df8e7f16d2a8c7d",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Untold Games",
