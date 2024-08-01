@@ -34,9 +34,13 @@
   ],
   "namespace": "f47bc8a0f3e94eecbbc88021b3011f73",
   "status": "ACTIVE",
-  "creationDate": "2024-02-29T16:00:14.089Z",
-  "lastModifiedDate": "2024-02-29T16:00:14.089Z",
+  "creationDate": "2024-01-23T13:39:22.674Z",
+  "lastModifiedDate": "2024-08-01T12:59:43.435Z",
   "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/com.Studio-Windsocke.Passing-By---A-Tailwind-Journey/{EpicID}/"
+    },
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{AppData}/../LocalLow/Studio Windsocke/Passing By - A Tailwind Journey/{EpicID}/"
@@ -59,9 +63,10 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "c1f493514c2b444e84b568366cddc69b",
+      "id": "4f9b751c6f654dbba6bc8d7eeb955396",
       "appId": "2a8760a489954e2eb574498ff55ae7d6",
       "platform": [
+        "Mac",
         "Windows"
       ]
     }
