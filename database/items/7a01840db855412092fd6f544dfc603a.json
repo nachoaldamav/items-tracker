@@ -50,8 +50,8 @@
   ],
   "namespace": "lotus",
   "status": "ACTIVE",
-  "creationDate": "2019-02-01T00:38:07.001Z",
-  "lastModifiedDate": "2021-07-16T17:08:43.472Z",
+  "creationDate": "2024-07-23T23:17:22.932Z",
+  "lastModifiedDate": "2024-08-01T20:52:06.443Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -91,16 +91,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "98bdde606a7b4d489a2d59f05e277f93",
+      "id": "be0f21214a2940d791cd9675607c20db",
       "appId": "Lotus",
-      "compatibleApps": [],
       "platform": [
-        "Windows",
-        "Mac"
-      ],
-      "dateAdded": "2019-05-31T00:00:00.000Z",
-      "releaseNote": "",
-      "versionTitle": ""
+        "Mac",
+        "Windows"
+      ]
     }
   ],
   "developer": "Klei Entertainment",
