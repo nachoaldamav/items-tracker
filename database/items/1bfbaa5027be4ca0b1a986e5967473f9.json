@@ -1,0 +1,67 @@
+{
+  "id": "1bfbaa5027be4ca0b1a986e5967473f9",
+  "title": "Airport",
+  "description": "Airport",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/199e6d2a748a474183ecd795e03a1e15/airport-u41xf.png",
+      "md5": "c933f57623274572e1be6edac3ace6fd",
+      "width": 2560,
+      "height": 1440,
+      "size": 2193391,
+      "uploadedDate": "2024-07-02T16:33:04.154Z",
+      "alt": "Airport Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/199e6d2a748a474183ecd795e03a1e15/airport-3p6ds.png",
+      "md5": "29e5c491f75741d31883424b11c0f0bf",
+      "width": 1200,
+      "height": 1600,
+      "size": 1490623,
+      "uploadedDate": "2024-07-02T09:00:09.040Z",
+      "alt": "Download Airport Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "685f5a4e22814cf88dd98cdda721649e",
+  "status": "ACTIVE",
+  "creationDate": "2024-08-04T13:48:01.299Z",
+  "lastModifiedDate": "2024-08-04T13:48:01.299Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Airport/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Airport"
+    }
+  },
+  "entitlementName": "1bfbaa5027be4ca0b1a986e5967473f9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "53e87944488244dfac9730cfac52eeb1",
+      "appId": "b439c070f18742078522584c6d4526db",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Run-Down Games",
+  "developerId": "o-bfyqdnmfcgvtw96d84azs5y3hmql4d",
+  "endOfSupport": false,
+  "applicationId": "fghi4567hOe0bMdXljarKDfov3RoytIN",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
