@@ -35,7 +35,7 @@
   "namespace": "e424e1d51e114ae8b6d685c943043cd7",
   "status": "ACTIVE",
   "creationDate": "2024-06-28T16:09:39.314Z",
-  "lastModifiedDate": "2024-07-14T13:21:32.738Z",
+  "lastModifiedDate": "2024-08-04T18:54:04.915Z",
   "customAttributes": {
     "CloudSaveFolder_MAC": {
       "type": "STRING",
@@ -44,6 +44,14 @@
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{AppData}/Juna/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "save_1.ini, save_2.ini, save_3.ini, save_thumb_1.png, save_thumb_2.png, save_thumb_3.png"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
     },
     "FolderName": {
       "type": "STRING",
