@@ -1,0 +1,67 @@
+{
+  "id": "6cd78b45a6d542a0b26d8e86d31ca460",
+  "title": "Monster Adventurer X",
+  "description": "This is a simple turn based game. Diverse teammates, simple tasks, easy battles, powerful bosses. This version has undergone changes compared to previous releases, providing a different gaming experience",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9590800f4a9b4a2aacd2bf7baaeb95f0/monster-adventurer-x-1hqvl.png",
+      "md5": "932f3a7e97bcdedfd8e6861c78ba7813",
+      "width": 2560,
+      "height": 1440,
+      "size": 3993447,
+      "uploadedDate": "2024-07-31T15:22:57.776Z",
+      "alt": "Monster Adventurer X Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9590800f4a9b4a2aacd2bf7baaeb95f0/monster-adventurer-x-zu710.png",
+      "md5": "c11bf1f45dda13beee48eee3334a3f8d",
+      "width": 1200,
+      "height": 1600,
+      "size": 2121294,
+      "uploadedDate": "2024-07-31T15:20:15.054Z",
+      "alt": "Download Monster Adventurer X Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e597ab37bf5241579b5e6c7bc209def3",
+  "status": "ACTIVE",
+  "creationDate": "2024-08-06T03:08:48.403Z",
+  "lastModifiedDate": "2024-08-06T03:08:48.403Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/www/save/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MonsterAdventurerXoR9Aw"
+    }
+  },
+  "entitlementName": "6cd78b45a6d542a0b26d8e86d31ca460",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b67236a899874c75803c4691410911ff",
+      "appId": "293cd9d4c3034854b199f3bf12196516",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "luoeli",
+  "developerId": "o-b5kzwu7m7cvhgetk8prhrvtamqpcyl",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
