@@ -34,8 +34,8 @@
   ],
   "namespace": "4f761277f93544bdb88ce9ff1a298bd7",
   "status": "ACTIVE",
-  "creationDate": "2024-06-04T13:48:48.312Z",
-  "lastModifiedDate": "2024-06-04T13:48:48.312Z",
+  "creationDate": "2024-05-17T11:30:28.877Z",
+  "lastModifiedDate": "2024-08-06T13:58:02.678Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "549621b59281426db30769df77d8a993",
+      "id": "4b2c8891c92a4880996d88710b593a2e",
       "appId": "4c8b2777f5394b3faa9f7acabbfa8b84",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "GVA-Games",
