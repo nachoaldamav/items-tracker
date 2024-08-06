@@ -1,0 +1,67 @@
+{
+  "id": "3f8268925af540d39a12a408ed2f513d",
+  "title": "Vitamin Girl",
+  "description": "Vitamin Girl",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2cf6a646dff14c1694470137d382de62/vitamin-girl-696ey.png",
+      "md5": "2dc1e6ac703c9108170ff236c78c3e1e",
+      "width": 2560,
+      "height": 1440,
+      "size": 626838,
+      "uploadedDate": "2024-07-13T21:37:54.985Z",
+      "alt": "Vitamin Girl Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2cf6a646dff14c1694470137d382de62/vitamin-girl-1tl4m.png",
+      "md5": "4121250574e1cf6ff08b2a63b7946fb4",
+      "width": 1200,
+      "height": 1600,
+      "size": 1479557,
+      "uploadedDate": "2024-07-13T21:37:59.814Z",
+      "alt": "Download Vitamin Girl Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0c9536f6fadb4d849d79c3fbea65afd1",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-03T22:20:04.550Z",
+  "lastModifiedDate": "2024-08-05T14:56:56.923Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/VitaminGirl/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "VitaminGirl"
+    }
+  },
+  "entitlementName": "3f8268925af540d39a12a408ed2f513d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4e93e72ad18746ef986028cb7954ec3e",
+      "appId": "b5ede8725dc24efba08212f6c3dd72cf",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "A Penguin Studio",
+  "developerId": "o-mrnwwabh4cqs9u89je256yupxdyhlj",
+  "endOfSupport": false,
+  "applicationId": "fghi4567zdYHWgYDqVgb1ppuyWlM1I39",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
