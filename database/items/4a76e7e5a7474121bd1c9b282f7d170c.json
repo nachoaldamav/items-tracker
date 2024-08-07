@@ -35,7 +35,7 @@
   "namespace": "777b78ab6336430396cfe89d7081efba",
   "status": "ACTIVE",
   "creationDate": "2024-07-24T14:12:22.142Z",
-  "lastModifiedDate": "2024-07-24T14:12:22.715Z",
+  "lastModifiedDate": "2024-08-07T14:42:40.099Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,12 +49,20 @@
     {
       "id": "9072d852eb63445d98319ed069999ef2",
       "appId": "b88dcf96758e4be4a23f23fb429490b7",
-      "platform": []
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac",
+        "Linux"
+      ],
+      "dateAdded": "2024-08-07T14:42:38.434Z"
     }
   ],
   "developer": "Acureus GmbH",
   "developerId": "o-33rejwt7pypcawmbg4gf6apxrbj6tn",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "applicationId": "fghi45678U6r9WpYmDrVnpTusos7JFiN",
   "requiresSecureAccount": false,
   "unsearchable": false
