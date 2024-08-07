@@ -1,0 +1,75 @@
+{
+  "id": "35f19e0752ba4a34a1b9925112dead8a",
+  "title": "SPGP",
+  "description": "SPGP",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d967a8583cb24d44b76518d79ffd55a3/spgp-11q3c.png",
+      "md5": "06eb34f0452068491596a79eaf7661f6",
+      "width": 2560,
+      "height": 1440,
+      "size": 1805843,
+      "uploadedDate": "2024-08-02T15:27:38.483Z",
+      "alt": "SPGP Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d967a8583cb24d44b76518d79ffd55a3/spgp-gsp97.png",
+      "md5": "dce7d4c677a0d2ecd086b6cbcc6bb287",
+      "width": 1200,
+      "height": 1600,
+      "size": 957727,
+      "uploadedDate": "2024-08-02T15:27:38.709Z",
+      "alt": "Download SPGP Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ab566a024224474b8d4a4042d1d140df",
+  "status": "ACTIVE",
+  "creationDate": "2024-08-07T13:37:38.899Z",
+  "lastModifiedDate": "2024-08-07T13:37:38.899Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/RozzGames/SPGP/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "Player.log\nPlayer-prev.log"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SPGPoI6OI"
+    }
+  },
+  "entitlementName": "35f19e0752ba4a34a1b9925112dead8a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b649cbba55224871956043b6a89caf45",
+      "appId": "55a2c92dbe664b669d1611f4a4445e7b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Hinchliffe Solutions Ltd",
+  "developerId": "o-c6w39yu772ej56e2v355bgmtpp3eys",
+  "endOfSupport": false,
+  "applicationId": "fghi4567eHMgcmUhpObhA3ZrtnF0L5uM",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
