@@ -1,0 +1,64 @@
+{
+  "id": "693629a5cb674479a4a069c96f6cc97a",
+  "title": "Hidden Oddities",
+  "description": "Hidden Oddities",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a61b23ebe68e4649a2cb817eddb625b9/hidden-oddities-n8i1s.png",
+      "md5": "a9a4ea1af94d8f07615e5ae5bc306ffd",
+      "width": 2560,
+      "height": 1440,
+      "size": 3058589,
+      "uploadedDate": "2024-06-24T13:00:38.595Z",
+      "alt": "Hidden Oddities Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a61b23ebe68e4649a2cb817eddb625b9/hidden-oddities-1la3o.png",
+      "md5": "87be61c294bd041ae283c31820a53dde",
+      "width": 1200,
+      "height": 1600,
+      "size": 1544037,
+      "uploadedDate": "2024-06-24T13:00:36.239Z",
+      "alt": "Download Hidden Oddities Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e9b119f0f7e04e35a9abc86e415cc233",
+  "status": "ACTIVE",
+  "creationDate": "2024-08-07T06:38:55.486Z",
+  "lastModifiedDate": "2024-08-07T06:38:55.486Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "HiddenOddities"
+    }
+  },
+  "entitlementName": "693629a5cb674479a4a069c96f6cc97a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4c7f06404b21445c845cd723004eac82",
+      "appId": "4500e03f4e97419caa1a2ae11ef94c24",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Wandering Shack",
+  "developerId": "o-85eavkc43dcdvdmjlhqesg8sryqay4",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
