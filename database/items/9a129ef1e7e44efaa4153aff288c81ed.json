@@ -1,0 +1,67 @@
+{
+  "id": "9a129ef1e7e44efaa4153aff288c81ed",
+  "title": "Arhaekon",
+  "description": "Arhaekon",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7f75e3ddeb8f4784b822ed51340a40b6/arhaekon-acgrm.jpg",
+      "md5": "95804db2a5a9b46f8f6b1fa14f9ea4cf",
+      "width": 2560,
+      "height": 1440,
+      "size": 756710,
+      "uploadedDate": "2024-07-24T08:00:02.555Z",
+      "alt": "Arhaekon Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7f75e3ddeb8f4784b822ed51340a40b6/arhaekon-5e5gk.jpg",
+      "md5": "3d1c2b791dfaae4f63be9539e46db9b0",
+      "width": 1200,
+      "height": 1600,
+      "size": 430284,
+      "uploadedDate": "2024-07-24T08:00:04.077Z",
+      "alt": "Download Arhaekon Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "64dea372b84044eca4d917dbf5575a84",
+  "status": "ACTIVE",
+  "creationDate": "2024-08-07T16:43:57.208Z",
+  "lastModifiedDate": "2024-08-07T16:43:57.208Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Arhaekon/Saved\\SaveGames\\/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Arhaekon"
+    }
+  },
+  "entitlementName": "9a129ef1e7e44efaa4153aff288c81ed",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8aaac1003d7648d89d0c64a97b81f63c",
+      "appId": "b0319f106b2a40c9a24bc653dfd0dcea",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Predict Edumedia",
+  "developerId": "o-fnb9mpjbkhany2zazjf23g28vtdnus",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
