@@ -35,11 +35,19 @@
   "namespace": "862d80a2d1044d88b01104b3ebaed032",
   "status": "ACTIVE",
   "creationDate": "2024-05-15T20:25:08.233Z",
-  "lastModifiedDate": "2024-06-21T23:36:09.353Z",
+  "lastModifiedDate": "2024-08-08T18:18:46.092Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/God of War Ragnarök/{EpicID}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "GOWRSAVE*,*.dat"
+    },
     "FolderName": {
       "type": "STRING",
-      "value": "GodofWarRagnarokZSvu9"
+      "value": "GodofWarRagnarok"
     }
   },
   "entitlementName": "634aa3f4ee28452fa9a9a175561d0e67",
@@ -47,7 +55,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "e28b19b686e54682be989b3715068981",
+      "id": "1fcb515c12e64187851cf240c62cb34b",
       "appId": "456afef39a4c4cbbb6b17e92201443d7",
       "platform": [
         "Windows"
