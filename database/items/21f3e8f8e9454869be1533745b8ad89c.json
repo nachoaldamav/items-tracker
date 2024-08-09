@@ -1,0 +1,37 @@
+{
+  "id": "21f3e8f8e9454869be1533745b8ad89c",
+  "title": "brantCampaign audience",
+  "description": "brantCampaign audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "b5ac16dc12f3478e99dcfea07c13865c",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-28T08:12:41.472Z",
+  "lastModifiedDate": "2024-08-08T18:58:53.301Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "21f3e8f8e9454869be1533745b8ad89c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
