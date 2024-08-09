@@ -35,7 +35,7 @@
   "namespace": "33b49c223bc548b99c30266a8aae1eb9",
   "status": "ACTIVE",
   "creationDate": "2023-03-22T13:23:14.120Z",
-  "lastModifiedDate": "2024-04-08T06:14:28.841Z",
+  "lastModifiedDate": "2024-08-09T11:05:30.782Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "fa66e8282db64e2c8f49a39fc0c62dc8",
+      "id": "a0a5b805619544b49d30348c0d6a67eb",
       "appId": "1cb90f948e174f809c127df526c2995b",
-      "platform": []
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Gaming Factory",
