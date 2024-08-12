@@ -35,11 +35,15 @@
   "namespace": "c6043994c41440229c2988d410ece536",
   "status": "ACTIVE",
   "creationDate": "2024-02-01T09:09:02.754Z",
-  "lastModifiedDate": "2024-08-01T18:51:02.035Z",
+  "lastModifiedDate": "2024-08-12T22:09:16.053Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{AppData}/../LocalLow/FinalGameStudio/ElementalExiles/"
+      "value": "{AppData}/../LocalLow/FinalGameStudio/ElementalExilesEpic/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.jsonsav"
     },
     "FolderName": {
       "type": "STRING",
@@ -51,9 +55,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "9a5052106594490fae6ddd1bb282970e",
+      "id": "55113a151b8647a0b407be66abec9541",
       "appId": "99b01f2b49b64b4489d11d07939bd259",
-      "platform": []
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Final Game Studio",
