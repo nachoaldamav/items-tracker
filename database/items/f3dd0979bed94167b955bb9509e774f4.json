@@ -1,0 +1,64 @@
+{
+  "id": "f3dd0979bed94167b955bb9509e774f4",
+  "title": "Anarkade",
+  "description": "Anarkade is a Multiplayer Arena Shooter with pixel art graphics. \n\nIt mixes fast, intense matches with 2D platforming mechanics that are easy to learn but deceptively hard to master.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8def73ab0c5648039d17f05c1da00e27/anarkade-edpgo.png",
+      "md5": "7b15f8a99f5f063b4f063f79ae6f9e86",
+      "width": 2560,
+      "height": 1440,
+      "size": 1139960,
+      "uploadedDate": "2023-05-29T03:05:43.096Z",
+      "alt": "Anarkade Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8def73ab0c5648039d17f05c1da00e27/anarkade-1s5yf.png",
+      "md5": "0d5069d88e01f6becdba650b060cbdd7",
+      "width": 1200,
+      "height": 1600,
+      "size": 2179677,
+      "uploadedDate": "2023-05-29T03:03:21.786Z",
+      "alt": "Download Anarkade Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b249551ce1c84c6fbbe5b77adfe443cf",
+  "status": "ACTIVE",
+  "creationDate": "2024-08-13T05:25:40.740Z",
+  "lastModifiedDate": "2024-08-13T05:25:40.740Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "AnarkadeJT2Um"
+    }
+  },
+  "entitlementName": "f3dd0979bed94167b955bb9509e774f4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b3a96f24f2a8458fbeb5c8061d814ca3",
+      "appId": "a539cb869c1d405f829fdd7f6b380e0e",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Blowfish Studios",
+  "developerId": "o-7uadnw4zmaekx44cdsgvw2jmlne83c",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
