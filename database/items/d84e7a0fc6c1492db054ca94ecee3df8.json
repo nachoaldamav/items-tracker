@@ -1,0 +1,71 @@
+{
+  "id": "d84e7a0fc6c1492db054ca94ecee3df8",
+  "title": "Distant Bloom",
+  "description": "From a world in ruins to a world in bloom. This serene management game lets you explore an alien planet where things have gone amiss. Harness the power of plants to restore the environment and build a flourishing community with your crewmates.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f1be3c7358714875960fbe6cdb1cd554/distant-bloom-offer-6npiq.jpg",
+      "md5": "e36cafe9990cd8d93aa626fb79e8f0fb",
+      "width": 2560,
+      "height": 1440,
+      "size": 606208,
+      "uploadedDate": "2022-05-25T11:35:59.493Z",
+      "alt": "Distant Bloom Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f1be3c7358714875960fbe6cdb1cd554/download-distant-bloom-offer-bt9jt.jpg",
+      "md5": "0aa5434f75c776d48a2ab9d7da4799f0",
+      "width": 1200,
+      "height": 1600,
+      "size": 882245,
+      "uploadedDate": "2022-05-25T11:36:02.594Z",
+      "alt": "Download Distant Bloom Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e8733a5925c5456b896fd816c2e89c0f",
+  "status": "ACTIVE",
+  "creationDate": "2024-08-13T03:00:22.133Z",
+  "lastModifiedDate": "2024-08-13T03:00:22.133Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/HomeGrown/Saved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "2"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DistantBloom"
+    }
+  },
+  "entitlementName": "d84e7a0fc6c1492db054ca94ecee3df8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cc65d87f607f446d86b1e8f3d89a9a7d",
+      "appId": "5fe0854efb0a47c897e49fae2ce73d1e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Kinda Brave Entertainment Group",
+  "developerId": "o-u97hhuhxtnd2ggy6q877bfc58v2ej2",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
