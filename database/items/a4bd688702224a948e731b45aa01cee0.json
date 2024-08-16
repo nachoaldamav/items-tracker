@@ -35,8 +35,12 @@
   "namespace": "5ff7ac1fd96b4faaabb55876cf536439",
   "status": "ACTIVE",
   "creationDate": "2024-02-06T13:04:04.773Z",
-  "lastModifiedDate": "2024-08-13T11:48:46.306Z",
+  "lastModifiedDate": "2024-08-16T13:23:40.580Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Thunderful/SteamWorld Heist II/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "SteamWorldHeist20ju61"
@@ -47,7 +51,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "73d876c3030543a7a4f18bc29771a37e",
+      "id": "67991c697f334319ab8a63115d4af748",
       "appId": "502c869f5f4b4ac7a59e4dd4f7e2f4cc",
       "platform": [
         "Windows"
