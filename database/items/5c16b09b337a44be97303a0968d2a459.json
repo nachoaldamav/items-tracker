@@ -1,0 +1,67 @@
+{
+  "id": "5c16b09b337a44be97303a0968d2a459",
+  "title": "LOEK",
+  "description": "LOEK",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/40310f148cc14912b1fdbe3fa2b13b44/loek-insuc.png",
+      "md5": "e209c0e88987159ac97c5d07fa967214",
+      "width": 2560,
+      "height": 1440,
+      "size": 3082806,
+      "uploadedDate": "2024-06-22T13:02:27.761Z",
+      "alt": "LOEK Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/40310f148cc14912b1fdbe3fa2b13b44/loek-b0az1.png",
+      "md5": "b40e4318b41c5a060fd4bb8076a43e49",
+      "width": 1200,
+      "height": 1600,
+      "size": 2830837,
+      "uploadedDate": "2024-06-22T12:55:25.706Z",
+      "alt": "Download LOEK Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "92bf624272ba483fba3ffadc78a767eb",
+  "status": "ACTIVE",
+  "creationDate": "2024-08-16T06:13:04.086Z",
+  "lastModifiedDate": "2024-08-16T06:13:04.086Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/ulbe/LOEK/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LOEKO9TfV"
+    }
+  },
+  "entitlementName": "5c16b09b337a44be97303a0968d2a459",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "123bc67c4c0b43ce94d142ead8ebbbb8",
+      "appId": "5abdc5716bab43609251b1587e1a997c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "ULBE",
+  "developerId": "o-gqyhydrn235xdjuw8q2lkhu5rw3ey4",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
