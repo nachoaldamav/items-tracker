@@ -1,0 +1,63 @@
+{
+  "id": "69e73b0ed5574d0ca80ef87dc50f3914",
+  "title": "Madhouse Madness",
+  "description": "Madhouse Madness",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5a9b2bd27d3b4a54a8af50402fc8383f/madhouse-madness-t1z85.png",
+      "md5": "0984301c5cfad2e14fc0999415a68e58",
+      "width": 2560,
+      "height": 1440,
+      "size": 3422642,
+      "uploadedDate": "2024-04-14T15:49:54.824Z",
+      "alt": "Madhouse Madness Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5a9b2bd27d3b4a54a8af50402fc8383f/madhouse-madness-1xfn8.png",
+      "md5": "9cf0a490166559d6ec2c8982a2373bfa",
+      "width": 1200,
+      "height": 1600,
+      "size": 2063158,
+      "uploadedDate": "2024-04-14T15:49:55.719Z",
+      "alt": "Download Madhouse Madness Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5dd9e0dea2f5417eb819dc3c1382d09b",
+  "status": "ACTIVE",
+  "creationDate": "2024-08-16T12:54:01.751Z",
+  "lastModifiedDate": "2024-08-16T12:54:01.751Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "MadhouseMadness"
+    }
+  },
+  "entitlementName": "69e73b0ed5574d0ca80ef87dc50f3914",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "151b77b28bfb47bf9412a020c87364fc",
+      "appId": "a54f15b4a64240c69dbd25e4e24d5802",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Hurrycat Studios",
+  "developerId": "o-zvzpetdgk7t4t7rdxrsdzchbpl8j28",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
