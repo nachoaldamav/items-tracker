@@ -1,0 +1,64 @@
+{
+  "id": "8dcb0b4ca5c14f6eb0c1529090dbeac4",
+  "title": "Battle Bits",
+  "description": "Battle Bits",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ac5c11b0b9344252937acfe90a193f66/battle-bits-usc41.png",
+      "md5": "71810d394fa2d1d4fcc352b145c2c23a",
+      "width": 2560,
+      "height": 1440,
+      "size": 1276710,
+      "uploadedDate": "2024-08-12T14:33:09.036Z",
+      "alt": "Battle Bits Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ac5c11b0b9344252937acfe90a193f66/battle-bits-5nh66.png",
+      "md5": "be68450318ee581a47174ff9d9dc10cc",
+      "width": 1200,
+      "height": 1600,
+      "size": 2594825,
+      "uploadedDate": "2024-08-12T14:38:57.889Z",
+      "alt": "Download Battle Bits Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "dd2c84892f4945a48cf4213842f57fa0",
+  "status": "ACTIVE",
+  "creationDate": "2024-08-20T17:31:28.041Z",
+  "lastModifiedDate": "2024-08-20T17:31:28.041Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BattleBits"
+    }
+  },
+  "entitlementName": "8dcb0b4ca5c14f6eb0c1529090dbeac4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4279efb1af304fbcb7b6a4bf27eb87b8",
+      "appId": "98f79a7d08c24922b660c331de2b0e3b",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "NecoPlanet",
+  "developerId": "o-re55aaptpnzxxjn9w9nty6pfecyeeq",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
