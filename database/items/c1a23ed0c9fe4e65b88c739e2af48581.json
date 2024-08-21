@@ -34,8 +34,8 @@
   ],
   "namespace": "a63da3e34b8a46799ea1bcc4cf62c97d",
   "status": "ACTIVE",
-  "creationDate": "2024-08-06T19:15:03.493Z",
-  "lastModifiedDate": "2024-08-06T19:15:03.493Z",
+  "creationDate": "2024-04-07T15:04:34.422Z",
+  "lastModifiedDate": "2024-08-21T04:15:25.830Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "ad801a9740ae43ccbe95e6764f8a06af",
+      "id": "e9e8593aca3a4a7c9d482402f218e7f5",
       "appId": "0ae4e739601c423b9c0a01d0700196cd",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Lucid Dreams Studio",
