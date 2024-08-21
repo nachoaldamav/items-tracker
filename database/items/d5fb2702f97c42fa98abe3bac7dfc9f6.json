@@ -35,11 +35,11 @@
   "namespace": "c35e949c4c29471aa23033ad9bb97879",
   "status": "ACTIVE",
   "creationDate": "2024-01-11T15:23:02.372Z",
-  "lastModifiedDate": "2024-07-22T09:10:28.229Z",
+  "lastModifiedDate": "2024-08-21T23:00:09.684Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{AppData}/Local/CONSCRIPT/conscript\\Epic_Games_Store/"
+      "value": "{AppData}/CONSCRIPT/conscript/Epic_Games_Store/{EpicID}/"
     },
     "MaxSizeMB": {
       "type": "STRING",
@@ -55,7 +55,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "2dcd39cac61444f9b55c44ba15c7feb7",
+      "id": "0383879ee2a94883b49440017f0297a6",
       "appId": "ff5763617da740a79c480db991b722f8",
       "platform": [
         "Windows"
