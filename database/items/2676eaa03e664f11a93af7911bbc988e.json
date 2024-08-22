@@ -1,0 +1,71 @@
+{
+  "id": "2676eaa03e664f11a93af7911bbc988e",
+  "title": "The Stone of Madness",
+  "description": "The Stone of Madness",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8de621e8d91b473f892472024035dc22/the-stone-of-madness-11a59.jpg",
+      "md5": "7416b235c6c6dd41fbd49fd114a353da",
+      "width": 2560,
+      "height": 1440,
+      "size": 908459,
+      "uploadedDate": "2024-08-07T19:38:08.952Z",
+      "alt": "The Stone of Madness Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8de621e8d91b473f892472024035dc22/the-stone-of-madness-680ls.jpg",
+      "md5": "046fec03f42e60ed51dfcfeec06d0615",
+      "width": 1200,
+      "height": 1600,
+      "size": 573526,
+      "uploadedDate": "2024-08-07T19:38:14.172Z",
+      "alt": "Download The Stone of Madness Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bc51d32ca88b41bda1e50f5876c0b16e",
+  "status": "ACTIVE",
+  "creationDate": "2024-08-21T21:00:19.679Z",
+  "lastModifiedDate": "2024-08-21T21:00:19.679Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/unity.TGK.TSoM/saves/default/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/TGK/TSoM/saves/default/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ProjectAsylumTxzsG"
+    }
+  },
+  "entitlementName": "2676eaa03e664f11a93af7911bbc988e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6ac84574cbd748289c48a113f6ed2bfe",
+      "appId": "ee9aba2358a7484da67fef34106bb13a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
