@@ -35,7 +35,7 @@
   "namespace": "17bd35725652450d97e0f6f2dcab0630",
   "status": "ACTIVE",
   "creationDate": "2024-07-10T21:15:43.534Z",
-  "lastModifiedDate": "2024-08-20T15:19:09.939Z",
+  "lastModifiedDate": "2024-08-22T23:37:53.728Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "ec17d8c33bc24f389d9501a0acbf2cec",
+      "id": "23dfe4f96dab4327a312357c32af664b",
       "appId": "425c98131ab246ca914b00686c88fcd6",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Octopus Entertainment LTD",
