@@ -35,7 +35,7 @@
   "namespace": "237a72dc34e44a67b1f33ae865ad7e21",
   "status": "ACTIVE",
   "creationDate": "2023-03-16T09:41:17.389Z",
-  "lastModifiedDate": "2024-08-15T15:27:09.649Z",
+  "lastModifiedDate": "2024-08-25T15:56:45.451Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -59,15 +59,17 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "9f30f29bf17641bb9ffd4ea7269f14bc",
+      "id": "777810755f874b38b8123f6c5394dd6f",
       "appId": "1085bbb40b304c59a2f5b4091916b3b4",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Meerkat Tea Games",
   "developerId": "o-72hjudfp3rnvfrncwpxe7hmuk5l7v6",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567EnWHAaU4sEsgotbNuiBkEFKo",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
