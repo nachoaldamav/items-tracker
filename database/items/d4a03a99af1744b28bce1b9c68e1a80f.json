@@ -35,8 +35,16 @@
   "namespace": "83b49dc072664d6ebcfa819730e6caf7",
   "status": "ACTIVE",
   "creationDate": "2023-10-26T22:30:10.784Z",
-  "lastModifiedDate": "2024-05-22T17:25:19.590Z",
+  "lastModifiedDate": "2024-08-26T18:42:47.136Z",
   "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserDir}/PantomimeGame/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/Pantomime/{EpicID}/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "Pantomime"
@@ -47,9 +55,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "af932b8ab3e545c4a98a32cce26e0d7a",
+      "id": "b3e9f08952ff4f08b97fe03547c5f7c1",
       "appId": "91d51aa1c6004bfcbe3f0b9bb11dd425",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Squalr, Inc.",
