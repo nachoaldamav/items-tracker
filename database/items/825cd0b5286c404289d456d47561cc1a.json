@@ -35,11 +35,11 @@
   "namespace": "6827387b744d4a46bd70ea8a145e595b",
   "status": "ACTIVE",
   "creationDate": "2023-11-15T06:11:10.048Z",
-  "lastModifiedDate": "2024-08-13T22:01:55.654Z",
+  "lastModifiedDate": "2024-08-26T09:39:49.055Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
-      "value": "TRUE"
+      "value": "FALSE"
     },
     "ProcessNames": {
       "type": "STRING",
@@ -59,7 +59,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "2e3c4d0a603e4c36b53b547c470cb6e8",
+      "id": "0a710f44da294c8abbbcd6f4bfd4ec9c",
       "appId": "525aa0efd70f4399b9f64bcd2a5b38c7",
       "platform": [
         "Windows"
