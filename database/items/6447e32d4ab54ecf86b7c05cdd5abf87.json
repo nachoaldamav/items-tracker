@@ -1,0 +1,73 @@
+{
+  "id": "6447e32d4ab54ecf86b7c05cdd5abf87",
+  "title": "Kaptain Brawe - A Brawe New World",
+  "description": "Kaptain Brawe - A Brawe New World",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/eab0b04ef3a544cc93e673b22fc8e69f/kaptain-brawe--a-brawe-new-world-1c5co.jpg",
+      "md5": "3ccb187437ca3c092dd19637b04aed45",
+      "width": 2560,
+      "height": 1440,
+      "size": 1206117,
+      "uploadedDate": "2024-08-21T08:31:15.830Z",
+      "alt": "Kaptain Brawe - A Brawe New World Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/eab0b04ef3a544cc93e673b22fc8e69f/kaptain-brawe--a-brawe-new-world-o2aya.jpg",
+      "md5": "cff1af5dc7a20ebada5127c1fd0a27df",
+      "width": 1200,
+      "height": 1600,
+      "size": 678598,
+      "uploadedDate": "2024-08-21T08:31:11.167Z",
+      "alt": "Download Kaptain Brawe - A Brawe New World Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6360f6e14b864d1c998a0f04b4744f47",
+  "status": "ACTIVE",
+  "creationDate": "2024-08-25T19:46:03.696Z",
+  "lastModifiedDate": "2024-08-25T19:46:03.696Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Kaptain Brawe - Epic/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/userData/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KaptainBrawe"
+    }
+  },
+  "entitlementName": "6447e32d4ab54ecf86b7c05cdd5abf87",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "91c78df588e142469008d5bd5bbfb26e",
+      "appId": "d13a4cd40e994a07bac8ea6d07aacb98",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Fortune Cookie d.o.o.",
+  "developerId": "o-3erh5rqvd5dr34h23eg8tml5em5drh",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
