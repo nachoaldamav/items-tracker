@@ -1,0 +1,77 @@
+{
+  "id": "950ab96196ab434a8ca98d071477dd94",
+  "title": "EVERYWHERE",
+  "description": "EVERYWHERE",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0acb8da3c58c4bbdb77c2959b7cfed61/everywhere-q2iwh.jpg",
+      "md5": "767c299dd1f92b509dd188bf91bdbb3b",
+      "width": 2560,
+      "height": 1440,
+      "size": 1963052,
+      "uploadedDate": "2024-08-09T10:31:45.049Z",
+      "alt": "EVERYWHERE Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0acb8da3c58c4bbdb77c2959b7cfed61/everywhere-1hdqr.jpg",
+      "md5": "37378a2d47cce07d81c7b1f6f3f717c8",
+      "width": 1200,
+      "height": 1600,
+      "size": 1095141,
+      "uploadedDate": "2024-08-09T10:31:44.518Z",
+      "alt": "Download EVERYWHERE Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "software"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "eddf515e12ef4159aee9962a83e8cdfb",
+  "status": "ACTIVE",
+  "creationDate": "2024-08-27T12:57:13.875Z",
+  "lastModifiedDate": "2024-08-27T12:57:13.875Z",
+  "customAttributes": {
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "EverywhereClient-Win64-Shipping.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "EverywhereClient-Win64-Shipping.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EVERYWHEREpnksq"
+    },
+    "BackgroundProcessNames": {
+      "type": "STRING",
+      "value": "EVERYWHERE Launcher.exe"
+    }
+  },
+  "entitlementName": "950ab96196ab434a8ca98d071477dd94",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "dc848bef24a742298a7c55b23c36ce60",
+      "appId": "f1b195170b944de0889cc4886e71f1c5",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Build A Rocket Boy Ltd.",
+  "developerId": "o-lyb22y9wj8xdzkd2gpsu6u6blszjlt",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567KcdBdhOSlftb14PWO1PcAq9v",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
