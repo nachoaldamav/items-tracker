@@ -34,9 +34,13 @@
   ],
   "namespace": "099401b5b55a4a38a0cdc8e2759d0fcf",
   "status": "ACTIVE",
-  "creationDate": "2023-12-22T17:03:28.408Z",
-  "lastModifiedDate": "2023-12-22T17:03:28.408Z",
+  "creationDate": "2023-10-23T13:15:05.128Z",
+  "lastModifiedDate": "2024-08-28T13:20:02.793Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/WekoProject/Saved/SaveGames/Release/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "WekoTheMaskGathererAJUjx"
@@ -47,15 +51,17 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "3549d7a422fd4b2cb30b16dba417c6aa",
+      "id": "fed076a507574daa89f6a90e176440ac",
       "appId": "2305e93a02ae4684883f03feff6e28d2",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Siro Games Sàrl",
   "developerId": "o-hwzgczz86um6x4mrw47y4c36k9xzkq",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567Ld5H6M3Cg0DZDENLbl9lbqHj",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
