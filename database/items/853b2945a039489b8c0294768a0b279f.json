@@ -34,9 +34,17 @@
   ],
   "namespace": "0ac5868e8b8443ba9d31178cf7c4d1aa",
   "status": "ACTIVE",
-  "creationDate": "2024-08-20T17:55:56.622Z",
-  "lastModifiedDate": "2024-08-20T17:55:56.622Z",
+  "creationDate": "2023-08-19T14:42:20.904Z",
+  "lastModifiedDate": "2024-08-28T18:52:11.656Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/RevengeOfTheSavagePlanet/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "RiseoftheSavagePlaneI3InZ"
