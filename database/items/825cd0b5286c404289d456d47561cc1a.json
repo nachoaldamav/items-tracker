@@ -35,11 +35,11 @@
   "namespace": "6827387b744d4a46bd70ea8a145e595b",
   "status": "ACTIVE",
   "creationDate": "2023-11-15T06:11:10.048Z",
-  "lastModifiedDate": "2024-08-26T09:39:49.055Z",
+  "lastModifiedDate": "2024-08-29T13:59:49.691Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
-      "value": "FALSE"
+      "value": "false"
     },
     "ProcessNames": {
       "type": "STRING",
@@ -47,7 +47,7 @@
     },
     "AllowMultipleInstances": {
       "type": "STRING",
-      "value": "FALSE"
+      "value": "false"
     },
     "FolderName": {
       "type": "STRING",
@@ -68,7 +68,9 @@
   ],
   "developer": "COGNOSPHERE PTE. LTD.",
   "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
