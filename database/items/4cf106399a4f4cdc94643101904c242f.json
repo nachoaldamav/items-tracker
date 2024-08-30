@@ -1,0 +1,62 @@
+{
+  "id": "4cf106399a4f4cdc94643101904c242f",
+  "title": "Vagneria",
+  "description": "Vagneria",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0cbbfab1f44442cd977de4737c9bad5f/vagneria-gdh36.png",
+      "md5": "efef39cb217bad61fbc69c795853493e",
+      "width": 2560,
+      "height": 1440,
+      "size": 3332352,
+      "uploadedDate": "2024-08-28T16:32:40.333Z",
+      "alt": "Vagneria Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0cbbfab1f44442cd977de4737c9bad5f/vagneria-1yskm.png",
+      "md5": "cd563f60a62b9a2691f86b1e8aa64aa8",
+      "width": 1200,
+      "height": 1600,
+      "size": 1553636,
+      "uploadedDate": "2024-08-25T17:50:16.881Z",
+      "alt": "Download Vagneria Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "64c04bc14ae04334bc9d6dcadbadaab2",
+  "status": "ACTIVE",
+  "creationDate": "2024-08-25T14:12:25.539Z",
+  "lastModifiedDate": "2024-08-29T18:50:51.984Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "VagneriaMrKQw"
+    }
+  },
+  "entitlementName": "4cf106399a4f4cdc94643101904c242f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7c3c6b15002243ff967bf557df95bb66",
+      "appId": "88d8d216178f49349c4d0228d818db1b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Vagner",
+  "developerId": "o-kqcepyag2p2tcuf35e4j2dxjj38m2e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
