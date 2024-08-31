@@ -34,8 +34,8 @@
   ],
   "namespace": "f0bf0742b7fd44398d2c920e613b9e05",
   "status": "ACTIVE",
-  "creationDate": "2024-08-10T16:00:18.666Z",
-  "lastModifiedDate": "2024-08-10T16:00:18.666Z",
+  "creationDate": "2024-05-29T03:26:35.399Z",
+  "lastModifiedDate": "2024-08-31T20:57:33.806Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "8411d8bb0a6541a2870e72e3dbc2f938",
+      "id": "6319539bb05147528f8a39f3f7051c9c",
       "appId": "1d692d79bd3241b3b21233f65f63aa99",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "TeamKill Media LLC",
