@@ -1,0 +1,73 @@
+{
+  "id": "11a15fb0a1ce44dca4336d697359f77d",
+  "title": "Shelter: A Lynx Adventure",
+  "description": "Shelter: A Lynx Adventure",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5aac91cd25dd49f681bf9aa44b433d46/shelter-a-lynx-adventure-1sndp.jpg",
+      "md5": "73ed7a60d88d4c64823954446f677bfa",
+      "width": 2560,
+      "height": 1440,
+      "size": 3061354,
+      "uploadedDate": "2024-06-18T21:03:56.016Z",
+      "alt": "Shelter: A Lynx Adventure Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5aac91cd25dd49f681bf9aa44b433d46/shelter-a-lynx-adventure-1808g.jpg",
+      "md5": "89e0357784cb012203ef72827072e165",
+      "width": 1200,
+      "height": 1600,
+      "size": 1699590,
+      "uploadedDate": "2024-06-18T21:04:04.391Z",
+      "alt": "Download Shelter: A Lynx Adventure Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "80d78ff4059c488784165948b212f721",
+  "status": "ACTIVE",
+  "creationDate": "2024-09-02T18:50:02.886Z",
+  "lastModifiedDate": "2024-09-02T18:50:02.886Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Shelter2_Data/{EpicID}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "shelter2.shelter2"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ShelterALynxAdventurGSQ5S"
+    }
+  },
+  "entitlementName": "11a15fb0a1ce44dca4336d697359f77d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1b1c63c100724a41bafe332954dfb713",
+      "appId": "1cc641fb562e4eb8a627ffade0aa2cb5",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Might and Delight",
+  "developerId": "o-z3dwxqx7qx6fkc32ja3b8ttywyeehd",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
