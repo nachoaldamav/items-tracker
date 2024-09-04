@@ -35,7 +35,7 @@
   "namespace": "661acb27189a4b4f8e6fdc8ca44aa6ea",
   "status": "ACTIVE",
   "creationDate": "2023-02-23T08:53:55.491Z",
-  "lastModifiedDate": "2023-12-18T14:48:49.578Z",
+  "lastModifiedDate": "2024-09-04T08:31:07.443Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "de23f0c11f004b36a746c8cb001265f7",
+      "id": "d6fbbe51a2324ebd95ec209a89b217bb",
       "appId": "4fdae6ca3efc46a29204960cde2917b4",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Microids",
