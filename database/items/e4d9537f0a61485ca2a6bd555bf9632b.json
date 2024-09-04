@@ -1,0 +1,63 @@
+{
+  "id": "e4d9537f0a61485ca2a6bd555bf9632b",
+  "title": "Voyager: Ascension",
+  "description": "Voyager: Ascension",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3cbf0db5c75442fd815d31cb341ef66a/voyager-1p5ap.png",
+      "md5": "b32d967797639948260c89628149c3e4",
+      "width": 2560,
+      "height": 1440,
+      "size": 3788678,
+      "uploadedDate": "2024-08-27T20:12:42.832Z",
+      "alt": "Voyager Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3cbf0db5c75442fd815d31cb341ef66a/voyager-m34d2.png",
+      "md5": "b29c2c3263a4204cf4fa2d2d3cdcd611",
+      "width": 1200,
+      "height": 1600,
+      "size": 2164080,
+      "uploadedDate": "2024-08-27T20:10:21.543Z",
+      "alt": "Download Voyager Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "11f121ab17ac41c79278a6e3c15cfd3b",
+  "status": "ACTIVE",
+  "creationDate": "2024-09-03T15:44:24.549Z",
+  "lastModifiedDate": "2024-09-03T15:44:24.830Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Voyager"
+    }
+  },
+  "entitlementName": "e4d9537f0a61485ca2a6bd555bf9632b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "367d1950d3fa4112a6223ebc7f161f0f",
+      "appId": "c60c255782054eb4b11847a6fb042748",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "C World Enterprises, LLC (d.b.a. RFLXT)",
+  "developerId": "o-8nwg92hulerv6zbh497at7ugeyyzdt",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
