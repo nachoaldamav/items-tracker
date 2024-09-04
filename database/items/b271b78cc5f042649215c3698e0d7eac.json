@@ -34,9 +34,13 @@
   ],
   "namespace": "0ff2a1392b884d6fba75823c49c96af4",
   "status": "ACTIVE",
-  "creationDate": "2024-05-17T06:28:38.036Z",
-  "lastModifiedDate": "2024-05-17T06:28:38.036Z",
+  "creationDate": "2023-11-10T10:00:16.199Z",
+  "lastModifiedDate": "2024-09-04T13:07:33.018Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/GardenWitchLife/Saved/SaveGames/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "GardenWitchLife"
@@ -47,15 +51,17 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "32a7a6f59fb3463294bcef5492aa48ce",
+      "id": "f88776a8b0ca4505974649dd68c2be9f",
       "appId": "9aac20931f9942ab80190b8eeeeabdc2",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "SOEDESCO",
   "developerId": "o-9uf2bsrkptwqbkpy867grcbj5jxrta",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567TA0ugtHoXkTjiAgEqQ84iyC6",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
