@@ -1,0 +1,91 @@
+{
+  "id": "da8e0417930546d285b5d8a68908bb11",
+  "title": "Verse World",
+  "description": "Verse World",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/64696fda329f406e8c5f18bc624bb45e/verse-world-vo2eh.jpg",
+      "md5": "65295e48693101b6204313bb02a202c1",
+      "width": 2560,
+      "height": 1440,
+      "size": 1267292,
+      "uploadedDate": "2024-06-26T18:54:54.050Z",
+      "alt": "Verse World Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/64696fda329f406e8c5f18bc624bb45e/verse-world-7txbw.jpg",
+      "md5": "a04865c5ec37269659f991e53ea62d9a",
+      "width": 1200,
+      "height": 1600,
+      "size": 1211423,
+      "uploadedDate": "2024-06-26T18:55:05.781Z",
+      "alt": "Download Verse World Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b73c0f22d0ab4804a0b9be047aba6a62",
+  "status": "ACTIVE",
+  "creationDate": "2024-09-05T10:45:30.148Z",
+  "lastModifiedDate": "2024-09-05T10:45:30.148Z",
+  "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "TRUE"
+    },
+    "SkipAutoInstallDlc": {
+      "type": "STRING",
+      "value": "TRUE"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "VerseWorld.exe"
+    },
+    "NotarizedAndSigned": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "VerseWorld"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "VerseWorldpKOwv"
+    },
+    "BackgroundProcessNames": {
+      "type": "STRING",
+      "value": "VerseWorld"
+    }
+  },
+  "entitlementName": "da8e0417930546d285b5d8a68908bb11",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "368e099396f241f6a1fb2cd93505605e",
+      "appId": "feafd9311770448598498e411a5ec066",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Verse World",
+  "developerId": "o-whxuzrcmsn47whbshc5eewhpw3vdzw",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
