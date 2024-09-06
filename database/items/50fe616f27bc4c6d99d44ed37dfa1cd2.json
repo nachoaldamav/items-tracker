@@ -1,0 +1,62 @@
+{
+  "id": "50fe616f27bc4c6d99d44ed37dfa1cd2",
+  "title": "Reqvia",
+  "description": "Reqvia",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b8dce10039974b5590beef336b4c8c35/reqvia-1ga4z.png",
+      "md5": "d9e077fd2e1221ee3c3bd1da3a5e332b",
+      "width": 2560,
+      "height": 1440,
+      "size": 1106113,
+      "uploadedDate": "2024-08-13T16:44:10.420Z",
+      "alt": "Reqvia Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b8dce10039974b5590beef336b4c8c35/reqvia-alrpi.png",
+      "md5": "a48df996eccf1085fabc55f5181fc2a7",
+      "width": 1200,
+      "height": 1600,
+      "size": 979257,
+      "uploadedDate": "2024-08-13T16:44:10.135Z",
+      "alt": "Download Reqvia Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7eae14353be148d4a941113dcaa00b87",
+  "status": "ACTIVE",
+  "creationDate": "2024-09-05T16:18:52.380Z",
+  "lastModifiedDate": "2024-09-05T16:18:52.380Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Reqvia8vsOZ"
+    }
+  },
+  "entitlementName": "50fe616f27bc4c6d99d44ed37dfa1cd2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c4b896c3be2a4e50acdce61f2e55a739",
+      "appId": "02931d38884d45ed892b3b3f45a9e2c3",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Reqvia Ltd.",
+  "developerId": "o-qsm3z27pd33eqkbyuq3akpnzvueehu",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
