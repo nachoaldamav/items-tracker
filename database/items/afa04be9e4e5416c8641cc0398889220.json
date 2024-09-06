@@ -69,7 +69,7 @@
   "namespace": "vpr",
   "status": "ACTIVE",
   "creationDate": "2015-07-30T18:05:49.489Z",
-  "lastModifiedDate": "2024-09-05T14:47:17.041Z",
+  "lastModifiedDate": "2024-09-06T15:14:38.525Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -85,7 +85,7 @@
     },
     "AdditionalCommandLine": {
       "type": "STRING",
-      "value": "--test=123 --testtwo=456"
+      "value": "--test=235"
     },
     "NotarizedAndSigned": {
       "type": "STRING",
