@@ -14,7 +14,7 @@
   "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
   "status": "ACTIVE",
   "creationDate": "2020-06-09T00:57:15.061Z",
-  "lastModifiedDate": "2021-04-29T13:40:17.472Z",
+  "lastModifiedDate": "2024-09-06T21:58:36.886Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -24,6 +24,7 @@
   "entitlementName": "f08f9fb34c1241e2b537dea5125dd301",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Sony Interactive Entertainment",
   "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
   "eulaIds": [
@@ -31,5 +32,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
