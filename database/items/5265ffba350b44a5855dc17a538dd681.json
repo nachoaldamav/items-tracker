@@ -34,8 +34,8 @@
   ],
   "namespace": "f056b83fd8c04561826d41aa08ff5e8c",
   "status": "ACTIVE",
-  "creationDate": "2024-08-02T02:58:01.942Z",
-  "lastModifiedDate": "2024-08-02T02:58:01.942Z",
+  "creationDate": "2024-07-06T02:03:22.931Z",
+  "lastModifiedDate": "2024-09-08T12:58:46.251Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -51,9 +51,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "79e1f06e89e84d5f8955148d2e147bff",
+      "id": "c366406af0bf45cda07ec6ec0b6e6bcb",
       "appId": "2c317c20fad047259e9df60fd17d1263",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "LDL",
