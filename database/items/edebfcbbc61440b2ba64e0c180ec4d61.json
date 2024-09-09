@@ -1,0 +1,71 @@
+{
+  "id": "edebfcbbc61440b2ba64e0c180ec4d61",
+  "title": "The Magical Mixture Mill",
+  "description": "Brew magical mixtures for the local questing heroes - and keep them coming back for more! Team up with a mushroom-loving witch to restore her run-down shop. Build automated production lines, experiment with exotic ingredients, explore a cozy world, and hope nothing blows up.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/da136e41d7ef40c99ce0f8b73fb57c36/the-magical-mixture-mill-1avml.jpg",
+      "md5": "4ff7ba162a7b66a9aea32a9a804473e0",
+      "width": 2560,
+      "height": 1440,
+      "size": 914715,
+      "uploadedDate": "2024-07-12T10:56:16.373Z",
+      "alt": "The Magical Mixture Mill Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/da136e41d7ef40c99ce0f8b73fb57c36/the-magical-mixture-mill-9blco.jpg",
+      "md5": "de93f58a301518a4caffda6730ae367e",
+      "width": 1200,
+      "height": 1600,
+      "size": 531395,
+      "uploadedDate": "2024-07-12T10:56:18.994Z",
+      "alt": "Download The Magical Mixture Mill Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "afb1eb5b870649929df0d5cd7a9afb94",
+  "status": "ACTIVE",
+  "creationDate": "2024-09-09T09:51:45.986Z",
+  "lastModifiedDate": "2024-09-09T09:51:45.986Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/GlowlightGames/The Magical Mixture Mill/SaveData/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav,*.idx,*.dat"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MagicalMixtureMill"
+    }
+  },
+  "entitlementName": "edebfcbbc61440b2ba64e0c180ec4d61",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8cf7852f8fea423785c532f213d0402f",
+      "appId": "454990a95a9f474fb8836dcff7d2be9f",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Hook S.r.L.",
+  "developerId": "o-kdr228ppk64vsyysfmbdk785w8l99j",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
