@@ -1,0 +1,77 @@
+{
+  "id": "c3f73a4adeda41b785197c2f7d8a0165",
+  "title": "Shelter: An Animal Adventure",
+  "description": "Shelter: An Animal Adventure",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/15e7c8f843eb4acaa82abe39f83e7b37/shelter-an-animal-adventure-1jvb3.jpg",
+      "md5": "1cccec2ba7e903309885394d18c45c7e",
+      "width": 2560,
+      "height": 1440,
+      "size": 2229190,
+      "uploadedDate": "2024-05-17T17:07:08.057Z",
+      "alt": "Shelter: An Animal Adventure Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/15e7c8f843eb4acaa82abe39f83e7b37/shelter-an-animal-adventure-3nd6a.jpg",
+      "md5": "650394a6fea43dc31f62ceb7d3d68ad3",
+      "width": 1200,
+      "height": 1600,
+      "size": 1208840,
+      "uploadedDate": "2024-05-17T17:07:06.350Z",
+      "alt": "Download Shelter: An Animal Adventure Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "380c783528fb4ec58069229a29c71802",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-09T07:57:08.057Z",
+  "lastModifiedDate": "2024-09-09T18:18:33.065Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Might and Delight/Shelter/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Might and Delight/Shelter/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "save.grt"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Shelter1qqiBL"
+    }
+  },
+  "entitlementName": "c3f73a4adeda41b785197c2f7d8a0165",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c91e8e6ab7eb45ba9785308275e57fc2",
+      "appId": "52583396390f4793bbabd2ceb91df9e8",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Might and Delight",
+  "developerId": "o-z3dwxqx7qx6fkc32ja3b8ttywyeehd",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
