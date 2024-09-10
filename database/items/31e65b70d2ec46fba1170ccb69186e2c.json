@@ -33,7 +33,7 @@
   "namespace": "d613614e082c4f648835a32f15c1d29b",
   "status": "ACTIVE",
   "creationDate": "2024-03-30T15:13:17.505Z",
-  "lastModifiedDate": "2024-09-09T15:52:24.897Z",
+  "lastModifiedDate": "2024-09-09T22:21:22.691Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -42,6 +42,10 @@
     "PresenceId": {
       "type": "STRING",
       "value": "d613614e082c4f648835a32f15c1d29b"
+    },
+    "disable_artifactDirectPromotion": {
+      "type": "STRING",
+      "value": "true"
     },
     "UseAccessControl": {
       "type": "STRING",
