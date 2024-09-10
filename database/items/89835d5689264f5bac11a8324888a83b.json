@@ -1,0 +1,91 @@
+{
+  "id": "89835d5689264f5bac11a8324888a83b",
+  "title": "Facecheck",
+  "description": "Facecheck",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a9029449507b4a5c88dad2d87ad19d2b/facecheck-157am.png",
+      "md5": "6081ac6731517f1fac7c07f985609106",
+      "width": 2560,
+      "height": 1440,
+      "size": 2137220,
+      "uploadedDate": "2024-08-13T11:43:18.559Z",
+      "alt": "Facecheck Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a9029449507b4a5c88dad2d87ad19d2b/facecheck-1ozpb.png",
+      "md5": "9bfc2ac12361f5eb73794459cffd2913",
+      "width": 1200,
+      "height": 1600,
+      "size": 922594,
+      "uploadedDate": "2024-08-13T11:43:19.197Z",
+      "alt": "Download Facecheck Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d552eca77bcc418183d7689fc8156c58",
+  "status": "ACTIVE",
+  "creationDate": "2024-09-10T09:09:22.701Z",
+  "lastModifiedDate": "2024-09-10T09:09:22.701Z",
+  "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "TRUE"
+    },
+    "SkipAutoInstallDlc": {
+      "type": "STRING",
+      "value": "TRUE"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "/Overwolf"
+    },
+    "NotarizedAndSigned": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "Facecheck.exe"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FacecheckLNfCa"
+    },
+    "BackgroundProcessNames": {
+      "type": "STRING",
+      "value": "Overwolf.exe, OverwolfBrowser.exe"
+    }
+  },
+  "entitlementName": "89835d5689264f5bac11a8324888a83b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f50fc4a82c7d41ed9f7f0bcc6e16340c",
+      "appId": "4b38e87190914b72a1b40119e0402f8a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Overwolf",
+  "developerId": "o-rylak7qvslxaqvsmrdcl44jzquctzs",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
