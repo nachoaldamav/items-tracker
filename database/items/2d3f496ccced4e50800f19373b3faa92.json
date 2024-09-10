@@ -35,8 +35,16 @@
   "namespace": "4bbdc84ecd234d5d8d94b8a350ad17c0",
   "status": "ACTIVE",
   "creationDate": "2024-03-26T15:24:56.628Z",
-  "lastModifiedDate": "2024-08-05T13:40:31.993Z",
+  "lastModifiedDate": "2024-09-10T13:54:38.179Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/Hands of Necromancy II/HNecro2.Commercial/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "500"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "HandsofNecromancyII"
@@ -47,7 +55,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "1b757ad6961045e289afd270d830088e",
+      "id": "697e8dfbef3b43608ad3c02d32d82af7",
       "appId": "23e716f0b7f84654a1323b1d8d31309e",
       "platform": [
         "Windows"
