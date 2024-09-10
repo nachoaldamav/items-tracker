@@ -33,7 +33,7 @@
   "namespace": "carnation",
   "status": "ACTIVE",
   "creationDate": "2019-02-11T18:08:53.061Z",
-  "lastModifiedDate": "2024-09-04T18:36:13.850Z",
+  "lastModifiedDate": "2024-09-10T17:11:36.242Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
@@ -46,6 +46,10 @@
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "RainbowSix.exe"
     },
     "extraLaunchOption_001_Name": {
       "type": "STRING",
@@ -87,6 +91,10 @@
       "type": "STRING",
       "value": "Ubisoft"
     },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "RainbowSix.exe, RainbowSix_DX11.exe"
+    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
@@ -95,13 +103,13 @@
       "type": "STRING",
       "value": "InstallDir"
     },
-    "SupportedPlatforms": {
-      "type": "STRING",
-      "value": "Windows"
-    },
     "GameID": {
       "type": "STRING",
       "value": "635"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
     }
   },
   "entitlementName": "18e6826e1f464668a0aa45635e0bde07",
