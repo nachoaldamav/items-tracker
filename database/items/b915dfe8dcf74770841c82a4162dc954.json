@@ -1,25 +1,25 @@
 {
   "id": "b915dfe8dcf74770841c82a4162dc954",
-  "title": "Satisfactory Early Access",
-  "description": "Satisfactory Early Access",
+  "title": "Satisfactory",
+  "description": "Satisfactory",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/item/crab/EGS_Satisfactory_CoffeeStainStudios_S1_2560x1440-f2a448240541326d35f9c2c039109c4e",
-      "md5": "f2a448240541326d35f9c2c039109c4e",
+      "url": "https://cdn1.epicgames.com/item/crab/EGS_Satisfactory_CoffeeStainStudios_S1_2560x1440-4d68c4229e649463c317109338a53a15",
+      "md5": "4d68c4229e649463c317109338a53a15",
       "width": 2560,
       "height": 1440,
-      "size": 698408,
-      "uploadedDate": "2023-11-14T22:51:33.361Z"
+      "size": 656415,
+      "uploadedDate": "2024-09-09T18:56:21.715Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/crab/EGS_Satisfactory_CoffeeStainStudios_S2_1200x1600-8cbb6e857bc8e131b4085ea7e90ca9de",
-      "md5": "8cbb6e857bc8e131b4085ea7e90ca9de",
+      "url": "https://cdn1.epicgames.com/item/crab/EGS_Satisfactory_CoffeeStainStudios_S2_1200x1600-697c0bc822cb143ccc446d5a307c3cdb",
+      "md5": "697c0bc822cb143ccc446d5a307c3cdb",
       "width": 1200,
       "height": 1600,
-      "size": 707674,
-      "uploadedDate": "2023-11-14T22:51:36.319Z"
+      "size": 414338,
+      "uploadedDate": "2024-09-09T18:56:25.756Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "crab",
   "status": "ACTIVE",
   "creationDate": "2019-02-26T15:59:56.670Z",
-  "lastModifiedDate": "2023-11-14T22:59:12.504Z",
+  "lastModifiedDate": "2024-09-10T15:01:23.016Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -59,17 +59,13 @@
       "type": "STRING",
       "value": "*.sav"
     },
-    "availableDate": {
-      "type": "STRING",
-      "value": "1553011200"
-    },
     "MaxSizeMB": {
       "type": "STRING",
       "value": "30000"
     },
     "FolderName": {
       "type": "STRING",
-      "value": "SatisfactoryEarlyAccess"
+      "value": "Satisfactory"
     }
   },
   "entitlementName": "b915dfe8dcf74770841c82a4162dc954",
