@@ -1,7 +1,7 @@
 {
   "id": "832f339c2375482a8d7478ba89415760",
   "title": "Caravan SandWitch - Soundtrack",
-  "description": "Caravan SandWitch - Soundtrack",
+  "description": "This is additional content for Caravan SandWitch, but does not include the base game.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,8 +34,8 @@
   ],
   "namespace": "45b137b2ecd14e01a54b52e575f1632d",
   "status": "ACTIVE",
-  "creationDate": "2024-09-05T12:08:17.428Z",
-  "lastModifiedDate": "2024-09-05T12:08:17.428Z",
+  "creationDate": "2024-07-30T13:09:47.860Z",
+  "lastModifiedDate": "2024-09-11T13:47:40.923Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,11 +47,9 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "c9ebfa4e68ab4e2bba2317a28b28a71e",
+      "id": "59874702b7934e8b82a80ebe2515e4bb",
       "appId": "571f2d1e815e48f4b94bcb3e921fd9fa",
       "platform": [
-        "Mac",
-        "Win32",
         "Windows"
       ]
     }

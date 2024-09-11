@@ -1,7 +1,7 @@
 {
   "id": "8fd6ed152b9343ee85a7180270e41caa",
   "title": "Carvan SandWitch - Souvenir Shop",
-  "description": "Carvan SandWitch - Souvenir Shop",
+  "description": "This content requires the base game Caravan SandWitch on Epic Games Store in order to play.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,8 +34,8 @@
   ],
   "namespace": "45b137b2ecd14e01a54b52e575f1632d",
   "status": "ACTIVE",
-  "creationDate": "2024-09-05T12:08:17.429Z",
-  "lastModifiedDate": "2024-09-05T12:08:17.429Z",
+  "creationDate": "2024-07-30T13:10:41.719Z",
+  "lastModifiedDate": "2024-09-11T13:47:40.923Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,11 +47,9 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "9a3b430fe0084854a2d3abf710a76638",
+      "id": "978ea66ca65648fdb649e3bfc983f289",
       "appId": "618fd66fce994de683c9b9ba35733478",
       "platform": [
-        "Mac",
-        "Win32",
         "Windows"
       ]
     }
