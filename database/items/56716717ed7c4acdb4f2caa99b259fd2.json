@@ -34,9 +34,17 @@
   ],
   "namespace": "c91b94ecb13244d48fe0e62edd500e5e",
   "status": "ACTIVE",
-  "creationDate": "2024-09-11T13:01:41.982Z",
-  "lastModifiedDate": "2024-09-11T13:01:42.385Z",
+  "creationDate": "2023-10-24T12:16:52.436Z",
+  "lastModifiedDate": "2024-09-13T15:13:42.606Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Vixa Games/EdgeOfSanity/saves/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.dat"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "Edge_of_Sanity"
@@ -47,7 +55,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "431d5e28820d42e9aa48ac8868539d17",
+      "id": "4a2de89eac7c4940b0da909512ddd822",
       "appId": "816527140ea3400cb9b2480af009aea9",
       "platform": [
         "Windows"
