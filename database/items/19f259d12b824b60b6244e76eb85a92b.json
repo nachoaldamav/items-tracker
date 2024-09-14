@@ -1,7 +1,7 @@
 {
   "id": "19f259d12b824b60b6244e76eb85a92b",
   "title": "Murder On Space Station 52",
-  "description": "Murder On Space Station 52",
+  "description": "Murder On Space Station 52 is a point-and-click murder mystery adventure in space. Trapped on a space station with the Keychain Killer, Edward Locke must solve this mystery, or it will be his last.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,11 +35,23 @@
   "namespace": "93037c70ec2a4681bc1fb26d558cc5a4",
   "status": "ACTIVE",
   "creationDate": "2024-01-04T20:21:09.290Z",
-  "lastModifiedDate": "2024-01-26T14:47:43.684Z",
+  "lastModifiedDate": "2024-09-14T15:30:47.926Z",
   "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Dionous Games/Murder on Space Station 52/Savegames/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Dionous Games/Murder on Space Station 52/Savegames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
     "FolderName": {
       "type": "STRING",
-      "value": "MurderonSpaceStationrGYfZ"
+      "value": "MurderonSpaceStation52"
     }
   },
   "entitlementName": "19f259d12b824b60b6244e76eb85a92b",
@@ -47,15 +59,18 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "af281689e8cf4cd9863fdefb32a5056c",
+      "id": "97a9270085be4bf7b5e2757fc0c29dea",
       "appId": "c6591368eeb44dfcb43940b03d0013a9",
-      "platform": []
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
     }
   ],
   "developer": "Dionous Games",
   "developerId": "o-a2gq3hywd5ztrnumlxukwzgz58ddhk",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567tuuprbQx3WIFv168bSzU5Qqa",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
