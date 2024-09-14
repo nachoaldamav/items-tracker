@@ -35,7 +35,7 @@
   "namespace": "822ebd51d45941ab945ccd4b124938c2",
   "status": "ACTIVE",
   "creationDate": "2024-01-13T16:03:08.965Z",
-  "lastModifiedDate": "2024-06-05T00:55:21.147Z",
+  "lastModifiedDate": "2024-09-13T21:42:44.580Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "11426df6a934437196fe4c105408b9d7",
+      "id": "473b2168205b4e7baf314dbcacd6f02c",
       "appId": "901cbcee99614187926650cf58268718",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "DamaedGameStudios",
