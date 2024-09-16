@@ -1,0 +1,62 @@
+{
+  "id": "adcfcd3bffdd4246b47bf424f457d12c",
+  "title": "Interlude",
+  "description": "Interlude",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b51d6cbcd4804d77bc97276c2b7767c7/interlude-1dby5.png",
+      "md5": "2e6e31d4dc2dea81e4b1838a80956051",
+      "width": 2560,
+      "height": 1440,
+      "size": 1991383,
+      "uploadedDate": "2024-08-07T10:46:07.246Z",
+      "alt": "Interlude Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b51d6cbcd4804d77bc97276c2b7767c7/interlude-1hqha.png",
+      "md5": "c374c2c8777303a52d4f8312502b7b22",
+      "width": 1200,
+      "height": 1600,
+      "size": 900057,
+      "uploadedDate": "2024-08-07T10:42:33.524Z",
+      "alt": "Download Interlude Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d75da0b94bfe48898940f73cb3061f05",
+  "status": "ACTIVE",
+  "creationDate": "2024-09-16T10:33:56.567Z",
+  "lastModifiedDate": "2024-09-16T10:33:56.567Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "InterludeffYGd"
+    }
+  },
+  "entitlementName": "adcfcd3bffdd4246b47bf424f457d12c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5ae30cad570b4d3d94e151913205212b",
+      "appId": "3165c175a09e4fc2a246d15017bf06e4",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Interlude",
+  "developerId": "o-mhahpqxzs9ale3379dfuuwjpbtqcms",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
