@@ -15,12 +15,12 @@
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/84b934575e624eddafda51836893065c/tormented-soul-bi8ya.png",
-      "md5": "dbc1f0a92a6f37e35e9401986bff4687",
+      "url": "https://cdn1.epicgames.com/spt-assets/84b934575e624eddafda51836893065c/tormented-soul-1egsw.png",
+      "md5": "ce3a91cc335062a7bb7e9a5e4db72587",
       "width": 1200,
       "height": 1600,
-      "size": 3995300,
-      "uploadedDate": "2024-08-29T00:21:05.737Z",
+      "size": 3945754,
+      "uploadedDate": "2024-09-13T22:42:16.858Z",
       "alt": "Download Tormented Soul Offer"
     }
   ],
@@ -35,11 +35,11 @@
   "namespace": "88d0c87c067544bfb12d8b3bc7d28ad7",
   "status": "ACTIVE",
   "creationDate": "2023-07-14T07:37:18.512Z",
-  "lastModifiedDate": "2024-08-29T14:03:56.805Z",
+  "lastModifiedDate": "2024-09-16T08:16:28.232Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "TormentedSoulTWjoY"
+      "value": "TormentedSoul"
     }
   },
   "entitlementName": "9c11598efa0449b49c537af964c63dc3",
@@ -47,9 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "accc08a6ce0f4b948a44c5b751525196",
+      "id": "f9f07080a847429ea722b30df7750da3",
       "appId": "df453ae1009f4205b2d5cfe64abd4326",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "ChainSoul LLC",
