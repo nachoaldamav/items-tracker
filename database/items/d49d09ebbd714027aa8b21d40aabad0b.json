@@ -1,8 +1,7 @@
 {
-  "id": "f452c98342d24052812b4a8dc17d7d20",
-  "title": "memory GeneralAudience Marker",
-  "description": "memory GeneralAudience Marker",
-  "keyImages": [],
+  "id": "d49d09ebbd714027aa8b21d40aabad0b",
+  "title": "Two Thrones Costume audience_redeemable",
+  "description": "Two Thrones Costume audience_redeemable",
   "categories": [
     {
       "path": "audience"
@@ -13,10 +12,15 @@
   ],
   "namespace": "22600f09e936468c8ecfc22b5eac7d7c",
   "status": "ACTIVE",
-  "creationDate": "2023-05-31T13:08:18.046Z",
-  "lastModifiedDate": "2024-09-17T03:51:30.795Z",
-  "customAttributes": {},
-  "entitlementName": "f452c98342d24052812b4a8dc17d7d20",
+  "creationDate": "2024-09-12T13:42:23.057Z",
+  "lastModifiedDate": "2024-09-17T03:51:30.913Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d49d09ebbd714027aa8b21d40aabad0b",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],

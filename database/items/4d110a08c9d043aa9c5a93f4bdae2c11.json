@@ -1,8 +1,7 @@
 {
-  "id": "f452c98342d24052812b4a8dc17d7d20",
-  "title": "memory GeneralAudience Marker",
-  "description": "memory GeneralAudience Marker",
-  "keyImages": [],
+  "id": "4d110a08c9d043aa9c5a93f4bdae2c11",
+  "title": "Complete Upgrade Pack audience_marker",
+  "description": "Complete Upgrade Pack audience_marker",
   "categories": [
     {
       "path": "audience"
@@ -13,10 +12,15 @@
   ],
   "namespace": "22600f09e936468c8ecfc22b5eac7d7c",
   "status": "ACTIVE",
-  "creationDate": "2023-05-31T13:08:18.046Z",
-  "lastModifiedDate": "2024-09-17T03:51:30.795Z",
-  "customAttributes": {},
-  "entitlementName": "f452c98342d24052812b4a8dc17d7d20",
+  "creationDate": "2024-09-12T15:49:53.208Z",
+  "lastModifiedDate": "2024-09-17T03:51:30.913Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4d110a08c9d043aa9c5a93f4bdae2c11",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],

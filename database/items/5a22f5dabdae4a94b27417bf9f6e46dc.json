@@ -1,8 +1,7 @@
 {
-  "id": "f452c98342d24052812b4a8dc17d7d20",
-  "title": "memory GeneralAudience Marker",
-  "description": "memory GeneralAudience Marker",
-  "keyImages": [],
+  "id": "5a22f5dabdae4a94b27417bf9f6e46dc",
+  "title": "Mask Of Darkness audience_marker",
+  "description": "Mask Of Darkness audience_marker",
   "categories": [
     {
       "path": "audience"
@@ -13,10 +12,15 @@
   ],
   "namespace": "22600f09e936468c8ecfc22b5eac7d7c",
   "status": "ACTIVE",
-  "creationDate": "2023-05-31T13:08:18.046Z",
-  "lastModifiedDate": "2024-09-17T03:51:30.795Z",
-  "customAttributes": {},
-  "entitlementName": "f452c98342d24052812b4a8dc17d7d20",
+  "creationDate": "2024-09-12T15:33:46.675Z",
+  "lastModifiedDate": "2024-09-17T03:51:30.784Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5a22f5dabdae4a94b27417bf9f6e46dc",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
