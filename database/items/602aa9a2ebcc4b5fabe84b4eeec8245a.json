@@ -14,7 +14,7 @@
   "namespace": "carnation",
   "status": "ACTIVE",
   "creationDate": "2019-02-11T19:28:35.255Z",
-  "lastModifiedDate": "2024-04-30T20:35:02.082Z",
+  "lastModifiedDate": "2024-09-17T15:20:16.709Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -23,6 +23,18 @@
     "RegistryPath": {
       "type": "STRING",
       "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\635"
+    },
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "1234"
+    },
+    "extraLaunchOption_002_Args": {
+      "type": "STRING",
+      "value": "9999"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Tom Clancy's Rainbow Six Siege (DX12)"
     },
     "partnerLinkId": {
       "type": "STRING",
@@ -36,13 +48,17 @@
       "type": "STRING",
       "value": "CarnationStaging"
     },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
+    },
     "ThirdPartyManagedProvider": {
       "type": "STRING",
       "value": "UbisoftConnect"
     },
-    "RegistryKey": {
+    "extraLaunchOption_002_Name": {
       "type": "STRING",
-      "value": "InstallDir"
+      "value": "Tom Clancy's Rainbow Six Siege (DX11)"
     },
     "GameID": {
       "type": "STRING",
@@ -71,5 +87,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
