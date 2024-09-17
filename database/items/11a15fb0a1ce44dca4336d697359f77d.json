@@ -34,12 +34,12 @@
   ],
   "namespace": "80d78ff4059c488784165948b212f721",
   "status": "ACTIVE",
-  "creationDate": "2024-09-02T18:50:02.886Z",
-  "lastModifiedDate": "2024-09-02T18:50:02.886Z",
+  "creationDate": "2024-05-23T12:37:32.977Z",
+  "lastModifiedDate": "2024-09-17T07:12:36.570Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{InstallDir}/Shelter2_Data/{EpicID}/"
+      "value": "{InstallDir}/Shelter2_Data/"
     },
     "CloudIncludeList": {
       "type": "STRING",
@@ -55,7 +55,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "1b1c63c100724a41bafe332954dfb713",
+      "id": "341cf4be59d94b6a83418d3d40344f55",
       "appId": "1cc641fb562e4eb8a627ffade0aa2cb5",
       "platform": [
         "Mac",
