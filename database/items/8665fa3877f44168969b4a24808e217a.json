@@ -1,8 +1,7 @@
 {
-  "id": "765d6016213a430ab73f0990edd74a98",
-  "title": "CrowGeneralAudience",
-  "description": "CrowGeneralAudience",
-  "keyImages": [],
+  "id": "8665fa3877f44168969b4a24808e217a",
+  "title": "Pulp Weapons Pack audience",
+  "description": "Pulp Weapons Pack audience",
   "categories": [
     {
       "path": "audience"
@@ -13,15 +12,15 @@
   ],
   "namespace": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "status": "ACTIVE",
-  "creationDate": "2019-08-15T17:31:00.297Z",
-  "lastModifiedDate": "2024-09-17T15:00:07.555Z",
+  "creationDate": "2022-08-16T20:40:52.528Z",
+  "lastModifiedDate": "2024-09-17T15:00:07.557Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
     }
   },
-  "entitlementName": "765d6016213a430ab73f0990edd74a98",
+  "entitlementName": "8665fa3877f44168969b4a24808e217a",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
@@ -33,5 +32,6 @@
   "endOfSupport": false,
   "ageGatings": {},
   "applicationId": "",
+  "requiresSecureAccount": false,
   "unsearchable": true
 }

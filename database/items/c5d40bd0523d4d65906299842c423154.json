@@ -1,8 +1,7 @@
 {
-  "id": "765d6016213a430ab73f0990edd74a98",
-  "title": "CrowGeneralAudience",
-  "description": "CrowGeneralAudience",
-  "keyImages": [],
+  "id": "c5d40bd0523d4d65906299842c423154",
+  "title": "Memories of Banoi Pack audience",
+  "description": "Memories of Banoi Pack audience",
   "categories": [
     {
       "path": "audience"
@@ -13,15 +12,15 @@
   ],
   "namespace": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "status": "ACTIVE",
-  "creationDate": "2019-08-15T17:31:00.297Z",
-  "lastModifiedDate": "2024-09-17T15:00:07.555Z",
+  "creationDate": "2022-08-16T20:39:49.364Z",
+  "lastModifiedDate": "2024-09-17T15:00:07.562Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
     }
   },
-  "entitlementName": "765d6016213a430ab73f0990edd74a98",
+  "entitlementName": "c5d40bd0523d4d65906299842c423154",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
@@ -33,5 +32,6 @@
   "endOfSupport": false,
   "ageGatings": {},
   "applicationId": "",
+  "requiresSecureAccount": false,
   "unsearchable": true
 }
