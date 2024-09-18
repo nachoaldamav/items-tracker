@@ -35,11 +35,11 @@
   "namespace": "b73c0f22d0ab4804a0b9be047aba6a62",
   "status": "ACTIVE",
   "creationDate": "2024-05-23T18:47:13.901Z",
-  "lastModifiedDate": "2024-09-13T14:52:08.030Z",
+  "lastModifiedDate": "2024-09-18T09:17:01.051Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
-      "value": "TRUE"
+      "value": "FALSE"
     },
     "SkipAutoInstallDlc": {
       "type": "STRING",
@@ -75,7 +75,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "37950cc3c31a4aefaae95d5bac71d54c",
+      "id": "933d8ead4b514c799dcdb4185d1985bc",
       "appId": "feafd9311770448598498e411a5ec066",
       "platform": [
         "Windows"
