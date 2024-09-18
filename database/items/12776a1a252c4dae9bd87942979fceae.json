@@ -34,8 +34,8 @@
   ],
   "namespace": "8cbdeae1e8b24e809cc445974e872f25",
   "status": "ACTIVE",
-  "creationDate": "2024-09-17T15:55:54.358Z",
-  "lastModifiedDate": "2024-09-17T15:55:54.358Z",
+  "creationDate": "2024-03-22T11:36:20.017Z",
+  "lastModifiedDate": "2024-09-18T14:03:25.164Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "6234e1aef1974f2f9d4ecfb2558d9552",
+      "id": "00fb0cceb914440ebedcf6223ff06ad7",
       "appId": "62b7a47c6190490eb0bd5ba6652b599c",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Abylight Studios",
