@@ -35,8 +35,16 @@
   "namespace": "0e55c16d6a89449c91646b3add220079",
   "status": "ACTIVE",
   "creationDate": "2024-08-07T20:46:43.072Z",
-  "lastModifiedDate": "2024-09-11T05:16:20.715Z",
+  "lastModifiedDate": "2024-09-18T16:04:00.188Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/HeroesProject/Saved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "50"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "SeedofHeroes2ci8G"
@@ -47,7 +55,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "4af2694d84b84777beeb76d71c783e40",
+      "id": "5bb30b51d4034158a1a257c775b8f18d",
       "appId": "380fd918219e4d96b8e2e6620f19c339",
       "platform": [
         "Win32",
@@ -58,6 +66,7 @@
   "developer": "Sekai Project Inc",
   "developerId": "o-p97p9ztnnp8p3tvz6fv9w5xlwbem3n",
   "endOfSupport": false,
+  "applicationId": "fghi4567vhl7NYGBuKm5rjfVXFc3MijJ",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
