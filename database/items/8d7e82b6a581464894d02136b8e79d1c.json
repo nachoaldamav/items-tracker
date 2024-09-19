@@ -1,7 +1,7 @@
 {
   "id": "8d7e82b6a581464894d02136b8e79d1c",
-  "title": "EARLY ACCESS: What Is This Sorcery: Trading Card Game",
-  "description": "EARLY ACCESS: What Is This Sorcery: Trading Card Game",
+  "title": "What Is This Sorcery: Trading Card Game",
+  "description": "What Is This Sorcery: Trading Card Game",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,7 +35,7 @@
   "namespace": "1a0e52b3813344f3a9e82ff7dc7c6c51",
   "status": "ACTIVE",
   "creationDate": "2024-01-18T22:36:51.766Z",
-  "lastModifiedDate": "2024-04-26T19:56:04.859Z",
+  "lastModifiedDate": "2024-09-19T00:57:28.308Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,10 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "73674dfd7df94edba2a1d31ea171dacd",
+      "id": "42a0ed9630774ceeb1d6499c3ccab94d",
       "appId": "c2c02df5405946d1a8222f21358a9567",
       "platform": [
+        "Mac",
         "Windows"
       ]
     }
