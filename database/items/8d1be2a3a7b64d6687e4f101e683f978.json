@@ -34,9 +34,21 @@
   ],
   "namespace": "a482505de9174374943604102e61972e",
   "status": "ACTIVE",
-  "creationDate": "2024-09-17T12:54:09.046Z",
-  "lastModifiedDate": "2024-09-17T12:54:09.046Z",
+  "creationDate": "2024-08-13T00:39:39.050Z",
+  "lastModifiedDate": "2024-09-20T17:30:20.885Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/ForeverWinter/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.dat"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "TheForeverWinterVOCu2"
@@ -47,7 +59,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "402d22225c844bf0821a9663c79104e0",
+      "id": "910361891867497dac8ca39cbdfa2f8f",
       "appId": "414a360a9bf54e7d9d0563c231cac51f",
       "platform": [
         "Windows"
@@ -57,6 +69,7 @@
   "developer": "Fun Dog Studios, Inc.",
   "developerId": "o-uac5sb8qkbrspm5mvdejmmxaequuwc",
   "endOfSupport": false,
+  "applicationId": "fghi4567PoEQFo9hda2dYnZg4cRZ7dUg",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
