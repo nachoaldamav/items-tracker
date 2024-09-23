@@ -1,0 +1,63 @@
+{
+  "id": "564324bad130435f9881a12c54d086e8",
+  "title": "Ductz",
+  "description": "Ductz",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2383c8280e36494f94747d77419e299a/ductz-17ami.png",
+      "md5": "ec0dc8abf86286959789f0a089505689",
+      "width": 2560,
+      "height": 1440,
+      "size": 401238,
+      "uploadedDate": "2024-08-28T18:53:02.606Z",
+      "alt": "Ductz Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2383c8280e36494f94747d77419e299a/ductz-1s2lm.png",
+      "md5": "349e9d0ee372c6d7c204b95b0156f182",
+      "width": 1200,
+      "height": 1600,
+      "size": 394771,
+      "uploadedDate": "2024-08-28T18:53:02.142Z",
+      "alt": "Download Ductz Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "10a2adbb3abf4533a5009de9b44c2f93",
+  "status": "ACTIVE",
+  "creationDate": "2024-09-22T15:53:38.959Z",
+  "lastModifiedDate": "2024-09-22T15:53:38.959Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Ductz"
+    }
+  },
+  "entitlementName": "564324bad130435f9881a12c54d086e8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1d16a08b92ca40bf8ab13e11cb950bd5",
+      "appId": "54a5a5e2e25c46c99fad6d39cc9604be",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Studio Nagarajan Inc.",
+  "developerId": "o-r4qlvhn9fzeur9amrw8k5c49hgaza7",
+  "endOfSupport": false,
+  "applicationId": "fghi4567VEiLoEhWeSlFM46RuCt91Ca7",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
