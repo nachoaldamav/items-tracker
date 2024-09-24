@@ -32,16 +32,20 @@
   "namespace": "cb88aea9aed742e4a911a65c4898d857",
   "status": "ACTIVE",
   "creationDate": "2024-04-25T08:33:01.252Z",
-  "lastModifiedDate": "2024-07-16T09:40:49.852Z",
+  "lastModifiedDate": "2024-09-24T14:48:16.675Z",
   "customAttributes": {},
   "entitlementName": "6f09309e86314eb2942b08b4101ec213",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "141c0a19eb3e4ec39d4d776c2660c4ab",
+      "id": "04f7e2045fd64699b4b86a54399a02f2",
       "appId": "ebb655e758f0418bb50f3e93ffc7c53f",
-      "platform": []
+      "platform": [
+        "Win32",
+        "Windows",
+        "Mac"
+      ]
     }
   ],
   "developer": "Owlcat Games",
