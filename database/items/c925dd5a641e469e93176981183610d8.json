@@ -1,0 +1,63 @@
+{
+  "id": "c925dd5a641e469e93176981183610d8",
+  "title": "Ponchiqs",
+  "description": "Ponchiqs",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e1e02691b9d14494ab33b55b7c85926e/ponchiqs-16zwz.png",
+      "md5": "cc9dd533f932b247e94e5334b158401c",
+      "width": 2560,
+      "height": 1440,
+      "size": 2184797,
+      "uploadedDate": "2024-09-19T08:23:42.932Z",
+      "alt": "Ponchiqs Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e1e02691b9d14494ab33b55b7c85926e/ponchiqs-1nrp3.png",
+      "md5": "08d567612ebaefd34378fe87a14f080e",
+      "width": 1200,
+      "height": 1600,
+      "size": 3103605,
+      "uploadedDate": "2024-09-19T17:24:03.330Z",
+      "alt": "Download Ponchiqs Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2c3811eee56e4fb98681ef11991e73dc",
+  "status": "ACTIVE",
+  "creationDate": "2024-09-24T08:34:37.668Z",
+  "lastModifiedDate": "2024-09-24T08:34:37.668Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Ponchiqs"
+    }
+  },
+  "entitlementName": "c925dd5a641e469e93176981183610d8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a507e0efb31f4db986bd825809b6275d",
+      "appId": "4c3d39e7d8004ed9b064c928edbf600d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Ponchiqs",
+  "developerId": "o-synwjcmdc9w6hscrmv37vkwu3wftjh",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
