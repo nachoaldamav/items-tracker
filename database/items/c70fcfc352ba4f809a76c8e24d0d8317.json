@@ -1,0 +1,64 @@
+{
+  "id": "c70fcfc352ba4f809a76c8e24d0d8317",
+  "title": "Idle Saga",
+  "description": "Idle Saga",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/275f74b387664a5d9c683d61354611b0/idle-saga-zmpzo.png",
+      "md5": "01bff2452986d12fb3b1b1e2e8d65f97",
+      "width": 2560,
+      "height": 1440,
+      "size": 1774930,
+      "uploadedDate": "2024-08-13T08:28:07.749Z",
+      "alt": "Idle Saga Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/275f74b387664a5d9c683d61354611b0/idle-saga-1wkln.png",
+      "md5": "64caa21f75fe598cee8673cb8144681f",
+      "width": 1200,
+      "height": 1600,
+      "size": 2984796,
+      "uploadedDate": "2024-08-13T08:28:12.450Z",
+      "alt": "Download Idle Saga Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a6ffde51073c496991fe89f3497d4cb1",
+  "status": "ACTIVE",
+  "creationDate": "2024-09-25T08:08:26.156Z",
+  "lastModifiedDate": "2024-09-25T08:08:27.233Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Idle_Saga"
+    }
+  },
+  "entitlementName": "c70fcfc352ba4f809a76c8e24d0d8317",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7cee0759f02345c8be7707e28bd9622f",
+      "appId": "4057b1dd2bde412fb43c688b8a6a4d3b",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Now to play game Sucursal en España",
+  "developerId": "o-sgnf67rv4q6bb6r2kp7w9bn8brq83f",
+  "endOfSupport": false,
+  "applicationId": "fghi4567nxSYbBHsTrBxLpJkWOCw5NNL",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
