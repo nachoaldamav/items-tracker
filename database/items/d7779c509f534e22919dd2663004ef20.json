@@ -1,8 +1,7 @@
 {
-  "id": "7a4a76727ac24c20ae147fd85e1cd6cc",
-  "title": "profiterole GeneralAudience",
-  "description": "profiterole GeneralAudience",
-  "keyImages": [],
+  "id": "d7779c509f534e22919dd2663004ef20",
+  "title": "XDefiant Starter Pack audience_Redeemable",
+  "description": "XDefiant Starter Pack audience_Redeemable",
   "categories": [
     {
       "path": "audience"
@@ -13,10 +12,15 @@
   ],
   "namespace": "a53baa615cea46f08a8bcbc11d4614af",
   "status": "ACTIVE",
-  "creationDate": "2024-01-18T17:42:18.849Z",
-  "lastModifiedDate": "2024-09-25T13:03:21.068Z",
-  "customAttributes": {},
-  "entitlementName": "7a4a76727ac24c20ae147fd85e1cd6cc",
+  "creationDate": "2024-09-23T13:00:06.117Z",
+  "lastModifiedDate": "2024-09-25T13:03:21.075Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d7779c509f534e22919dd2663004ef20",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],

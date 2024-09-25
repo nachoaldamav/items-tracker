@@ -1,8 +1,7 @@
 {
-  "id": "7a4a76727ac24c20ae147fd85e1cd6cc",
-  "title": "profiterole GeneralAudience",
-  "description": "profiterole GeneralAudience",
-  "keyImages": [],
+  "id": "4d1f7e3ac2564646b31bd23682653ffe",
+  "title": "Combat Pack - XDefiant audience_Redeemable",
+  "description": "Combat Pack - XDefiant audience_Redeemable",
   "categories": [
     {
       "path": "audience"
@@ -13,10 +12,15 @@
   ],
   "namespace": "a53baa615cea46f08a8bcbc11d4614af",
   "status": "ACTIVE",
-  "creationDate": "2024-01-18T17:42:18.849Z",
-  "lastModifiedDate": "2024-09-25T13:03:21.068Z",
-  "customAttributes": {},
-  "entitlementName": "7a4a76727ac24c20ae147fd85e1cd6cc",
+  "creationDate": "2024-09-23T12:59:37.842Z",
+  "lastModifiedDate": "2024-09-25T13:03:21.066Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4d1f7e3ac2564646b31bd23682653ffe",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],

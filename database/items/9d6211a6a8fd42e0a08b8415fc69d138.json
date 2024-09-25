@@ -1,8 +1,7 @@
 {
-  "id": "7a4a76727ac24c20ae147fd85e1cd6cc",
-  "title": "profiterole GeneralAudience",
-  "description": "profiterole GeneralAudience",
-  "keyImages": [],
+  "id": "9d6211a6a8fd42e0a08b8415fc69d138",
+  "title": "Gold Season 2 Pack - XDefiant audience_Marker",
+  "description": "Gold Season 2 Pack - XDefiant audience_Marker",
   "categories": [
     {
       "path": "audience"
@@ -13,10 +12,15 @@
   ],
   "namespace": "a53baa615cea46f08a8bcbc11d4614af",
   "status": "ACTIVE",
-  "creationDate": "2024-01-18T17:42:18.849Z",
-  "lastModifiedDate": "2024-09-25T13:03:21.068Z",
-  "customAttributes": {},
-  "entitlementName": "7a4a76727ac24c20ae147fd85e1cd6cc",
+  "creationDate": "2024-09-23T14:31:19.035Z",
+  "lastModifiedDate": "2024-09-25T13:03:21.070Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9d6211a6a8fd42e0a08b8415fc69d138",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
