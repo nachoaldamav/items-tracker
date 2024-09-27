@@ -35,8 +35,12 @@
   "namespace": "8cbdeae1e8b24e809cc445974e872f25",
   "status": "ACTIVE",
   "creationDate": "2024-03-22T11:36:20.017Z",
-  "lastModifiedDate": "2024-09-18T14:03:25.164Z",
+  "lastModifiedDate": "2024-09-26T19:23:26.586Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/SciFunGames/Exographer\\XX-SaveFiles\\Epic/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "Exographer"
@@ -47,7 +51,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "00fb0cceb914440ebedcf6223ff06ad7",
+      "id": "728714775c43448e9b7bbec8859d4ccd",
       "appId": "62b7a47c6190490eb0bd5ba6652b599c",
       "platform": [
         "Windows"
