@@ -1,7 +1,7 @@
 {
   "id": "6ef44df94111463ea0a692016daf8229",
-  "title": "Lost Abroad Cafe - A Language Learning Management Sim",
-  "description": "Lost Abroad Cafe - A Language Learning Management Sim",
+  "title": "Lost Abroad Cafe - A Language Learning Management",
+  "description": "Lost Abroad Café: a language learning game that puts you in the role of a virtual café owner in another country. Learn and use your new language to serve your customers and grow your business!",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,7 +35,7 @@
   "namespace": "2df9c4ac2a644e4daf2e0a752500457d",
   "status": "ACTIVE",
   "creationDate": "2023-03-19T00:41:10.197Z",
-  "lastModifiedDate": "2024-04-12T00:16:48.404Z",
+  "lastModifiedDate": "2024-09-27T17:22:01.082Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,12 +47,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "2fdd062d4e3c48a68e1f0114e048ca64",
+      "id": "5cfee006bae244bab7496f595a2b1f01",
       "appId": "4cc5e58bd3f64e43aee49fa647886e05",
       "platform": [
-        "Windows",
+        "Mac",
         "Win32",
-        "Mac"
+        "Windows"
       ]
     }
   ],
