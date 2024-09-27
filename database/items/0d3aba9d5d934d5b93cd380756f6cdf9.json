@@ -35,8 +35,12 @@
   "namespace": "898ae428ada149888c1cdd97aaa29845",
   "status": "ACTIVE",
   "creationDate": "2024-04-26T17:08:22.709Z",
-  "lastModifiedDate": "2024-09-25T15:45:14.570Z",
+  "lastModifiedDate": "2024-09-27T15:14:29.057Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Ice Code Games/RogueWaters/Saves/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "RogueWatersVHDyb"
@@ -47,7 +51,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "a6a14d12cf6544b29d19ceedcb6f855e",
+      "id": "f8502363fd2d4dadb0c3d4abd7d6c5bd",
       "appId": "f65f1282d47945d0a2462c9590ff810b",
       "platform": [
         "Windows"
@@ -57,6 +61,7 @@
   "developer": "Tripwire Interactive",
   "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
