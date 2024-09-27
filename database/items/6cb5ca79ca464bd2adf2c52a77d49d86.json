@@ -1,0 +1,68 @@
+{
+  "id": "6cb5ca79ca464bd2adf2c52a77d49d86",
+  "title": "NeuraGun",
+  "description": "NeuraGun is a third-person science fiction puzzle game. The player will have to go through a maze of mysteries that will lead him out of the tangled scientific complex.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1c48bbaf93f04b41b7da5cbe75188d49/neuragun-nlydp.jpg",
+      "md5": "1d08515d2f7c5c015664de38dae1d1fa",
+      "width": 2560,
+      "height": 1440,
+      "size": 881324,
+      "uploadedDate": "2024-06-27T21:46:12.636Z",
+      "alt": "NeuraGun Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1c48bbaf93f04b41b7da5cbe75188d49/neuragun-gr7kv.jpg",
+      "md5": "ffce057abf668a35f4efc160e6b7d9cb",
+      "width": 1200,
+      "height": 1600,
+      "size": 779003,
+      "uploadedDate": "2024-06-27T21:46:12.407Z",
+      "alt": "Download NeuraGun Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "14dd4527fdce49f6a7b2911fef500f2c",
+  "status": "ACTIVE",
+  "creationDate": "2024-09-27T12:22:15.041Z",
+  "lastModifiedDate": "2024-09-27T12:22:15.041Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/NeuraGun/CloudSave/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NeuraGunQts7W"
+    }
+  },
+  "entitlementName": "6cb5ca79ca464bd2adf2c52a77d49d86",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8e54322256034f0da38bd24cb6733a35",
+      "appId": "e92ede3f844544b1a6dd09c0ae230627",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Whale Rock Games LLC",
+  "developerId": "o-z8ex63yvz4ye54cfgwhdu3zxz4tpja",
+  "endOfSupport": false,
+  "applicationId": "fghi45679iAUy66o64aK7fjg2NU9LWIX",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
