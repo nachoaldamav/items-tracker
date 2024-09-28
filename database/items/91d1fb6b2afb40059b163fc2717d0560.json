@@ -1,0 +1,80 @@
+{
+  "id": "91d1fb6b2afb40059b163fc2717d0560",
+  "title": "Your Chronicle",
+  "description": "\"Let's begin your own story.\"\n\nThis is a text-based idle RPG game.\nThere are already more than 3,000 unique story actions and it's still growing.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a623a93b056e4444a5b0c0ac94c8454d/your-chronicle-unjx4.png",
+      "md5": "f54f0ccce285d50c3df82881f656bb71",
+      "width": 2560,
+      "height": 1440,
+      "size": 41105,
+      "uploadedDate": "2024-08-20T05:11:20.325Z",
+      "alt": "Your Chronicle Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a623a93b056e4444a5b0c0ac94c8454d/your-chronicle-9rhz6.png",
+      "md5": "f04d6d9f7c9934e916cb8f72f9ef31d5",
+      "width": 1200,
+      "height": 1600,
+      "size": 33376,
+      "uploadedDate": "2024-08-20T05:11:19.719Z",
+      "alt": "Download Your Chronicle Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d62d66d0e4084ac4a941e1293a053e53",
+  "status": "ACTIVE",
+  "creationDate": "2024-09-28T05:32:04.221Z",
+  "lastModifiedDate": "2024-09-28T05:32:04.789Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/SamuraiGames/YourChronicle/EpicGames/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/SamuraiGames/YourChronicle/EpicGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "userdata.dat"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "YourChroniclemtKqm"
+    }
+  },
+  "entitlementName": "91d1fb6b2afb40059b163fc2717d0560",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7cdcc596a87440f8b5af67c5cab980ef",
+      "appId": "cc33187c8a3e42308cda8f4ab33c94b6",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Samurai Box LLC",
+  "developerId": "o-agj6ag26b3b8qhsc36wuaayde496dq",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
