@@ -34,8 +34,8 @@
   ],
   "namespace": "ac3e9ce6aef843f889678ac73f64128f",
   "status": "ACTIVE",
-  "creationDate": "2024-09-10T23:32:47.812Z",
-  "lastModifiedDate": "2024-09-10T23:32:47.812Z",
+  "creationDate": "2023-03-09T22:34:01.670Z",
+  "lastModifiedDate": "2024-09-28T02:13:23.997Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,15 +47,18 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "8588a69c605041fa8e25961111e5f988",
+      "id": "748149241ab94f2ab86a6155a569021e",
       "appId": "9bb06252a09f4c76a410d8b4332490df",
-      "platform": []
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
     }
   ],
   "developer": "Codebit Labs",
   "developerId": "o-rr2p8f74ndkrsr6b9jh4ntcd2mer47",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567VpOSRoMs210sarUzJhW1iUTX",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
