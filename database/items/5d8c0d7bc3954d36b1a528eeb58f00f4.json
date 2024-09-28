@@ -1,0 +1,63 @@
+{
+  "id": "5d8c0d7bc3954d36b1a528eeb58f00f4",
+  "title": "Paug",
+  "description": "Paug",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0e7b5a0c3a054cdca396b856e32bbbca/paug-140fw.jpg",
+      "md5": "a950e918db2d068cb10194351070de8a",
+      "width": 2560,
+      "height": 1440,
+      "size": 1954645,
+      "uploadedDate": "2024-09-25T14:05:06.864Z",
+      "alt": "Paug Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0e7b5a0c3a054cdca396b856e32bbbca/paug-3k5o0.jpg",
+      "md5": "d0ae3cfd46abd6c2c48b9d2b1d4a1263",
+      "width": 1200,
+      "height": 1600,
+      "size": 1307738,
+      "uploadedDate": "2024-09-25T14:06:16.400Z",
+      "alt": "Download Paug Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0c7a53f95cef4566b38b667345c437c0",
+  "status": "ACTIVE",
+  "creationDate": "2024-09-28T07:29:49.023Z",
+  "lastModifiedDate": "2024-09-28T07:29:49.023Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Paug3IrMx"
+    }
+  },
+  "entitlementName": "5d8c0d7bc3954d36b1a528eeb58f00f4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e2068df55b934e34a38f54c17637504c",
+      "appId": "b585aca47be14dd59e348efda7c7d666",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Dezeiraud Gaëtan",
+  "developerId": "o-9e5pw2xgtsd6wdl5sn34lke4klyqup",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
