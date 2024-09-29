@@ -1,0 +1,67 @@
+{
+  "id": "2b7b0bad457448e88812a26a4ede9db3",
+  "title": "Rogue Citadel",
+  "description": "Rogue Citadel",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa9471361e054951b49fca04f895d425/rogue-citadel-8aj8v.png",
+      "md5": "36d3ab5b9e94f99bddeff4043913fb19",
+      "width": 2560,
+      "height": 1440,
+      "size": 1586584,
+      "uploadedDate": "2024-08-02T20:37:21.961Z",
+      "alt": "Rogue Citadel Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa9471361e054951b49fca04f895d425/rogue-citadel-rqqgp.png",
+      "md5": "0839a537f1fa1681ef2bed991c93f6ac",
+      "width": 1200,
+      "height": 1600,
+      "size": 807067,
+      "uploadedDate": "2024-08-02T20:37:24.067Z",
+      "alt": "Download Rogue Citadel Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ab9d4c28dd6c4146beec1e24e2cc8b2a",
+  "status": "ACTIVE",
+  "creationDate": "2024-09-29T08:43:55.395Z",
+  "lastModifiedDate": "2024-09-29T08:43:55.395Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/RogueCitadel/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RogueCitadelbVLSG"
+    }
+  },
+  "entitlementName": "2b7b0bad457448e88812a26a4ede9db3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2817888a61e94c189204764c40a03521",
+      "appId": "58ac6a068b4a462f9acc90e6f7fc0b3b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Malum Games",
+  "developerId": "o-y44lagyhtpd32xnjhlnz8jkrj9v54a",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
