@@ -1,0 +1,71 @@
+{
+  "id": "be552aa49d1840f58383705faed2aeae",
+  "title": "File Destined",
+  "description": "File Destined",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d8e94cc2c7de4dee96f153312169caf6/file-destined-ipjpg.png",
+      "md5": "5d1ca15940fd9e33700350a6a1679410",
+      "width": 2560,
+      "height": 1440,
+      "size": 2735606,
+      "uploadedDate": "2023-03-11T11:15:34.957Z",
+      "alt": "File Destined Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d8e94cc2c7de4dee96f153312169caf6/file-destined-umvnt.png",
+      "md5": "c9605cda19ba64e8a22ce1fee64d40e7",
+      "width": 1200,
+      "height": 1600,
+      "size": 1038315,
+      "uploadedDate": "2023-03-11T11:15:36.314Z",
+      "alt": "Download File Destined Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a797d4405a1c4f0ab62023d72628f60c",
+  "status": "ACTIVE",
+  "creationDate": "2024-09-20T14:45:33.321Z",
+  "lastModifiedDate": "2024-09-20T14:45:33.321Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/FileDestined/Saved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "50"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FileDestinedk0QPa"
+    }
+  },
+  "entitlementName": "be552aa49d1840f58383705faed2aeae",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a189149adf3b44219c2e517fcfb414df",
+      "appId": "579f4bc0d8924789b151d5335cfb869e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Metavision Studio",
+  "developerId": "o-lch2lb74sfym58tant6vcfu2b4f8ch",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
