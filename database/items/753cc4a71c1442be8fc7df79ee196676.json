@@ -34,8 +34,8 @@
   ],
   "namespace": "ef862ce28c8743a1a9ac4d1f66cad91e",
   "status": "ACTIVE",
-  "creationDate": "2024-09-27T07:07:09.451Z",
-  "lastModifiedDate": "2024-09-27T07:07:09.451Z",
+  "creationDate": "2024-06-28T13:35:56.213Z",
+  "lastModifiedDate": "2024-09-30T05:31:59.554Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "aefb16bea7b04244bf3bb8d28123cadb",
+      "id": "759c16e034334781a14a1737b3421ce0",
       "appId": "f88da08c9c3f4aa4b86052f676b6a2e9",
-      "platform": []
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
     }
   ],
   "developer": "Crypto Blockchain Industries",
