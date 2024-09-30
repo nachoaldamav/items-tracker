@@ -35,11 +35,11 @@
   "namespace": "5feb8fb5da084884b66d1d56e67526b9",
   "status": "ACTIVE",
   "creationDate": "2023-07-30T09:41:47.534Z",
-  "lastModifiedDate": "2023-12-10T08:23:30.906Z",
+  "lastModifiedDate": "2024-09-29T21:59:11.813Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "ORDINEM"
+      "value": "ORDINEM_DEV"
     }
   },
   "entitlementName": "08050750ee564ddd8cd70bf2c88f8885",
@@ -47,11 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "ca044280e2294ca0afcbb161f594d692",
+      "id": "68c83116b64949ab849d2086bb9ba133",
       "appId": "e4071070813240528c1bedbec372ecf6",
       "platform": [
-        "Windows",
-        "Win32"
+        "Win32",
+        "Windows"
       ]
     }
   ],
