@@ -1,0 +1,67 @@
+{
+  "id": "20533891cb434dc08aadfa08d845cfd5",
+  "title": "Bananamania",
+  "description": "Bananamania",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ce9e9606900246b2875dbaf4b18723a6/bananamania-zwtyo.png",
+      "md5": "9ce19dd0a9437cf4cfee966cd0fffc30",
+      "width": 2560,
+      "height": 1440,
+      "size": 2030622,
+      "uploadedDate": "2024-09-30T19:28:43.196Z",
+      "alt": "Bananamania Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ce9e9606900246b2875dbaf4b18723a6/bananamania-ram58.png",
+      "md5": "0235b8f1017bbfff4656ce8c71ca02ab",
+      "width": 1200,
+      "height": 1600,
+      "size": 530986,
+      "uploadedDate": "2024-09-30T19:28:29.409Z",
+      "alt": "Download Bananamania Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f1cf72f878744ff6a50a9ef030348056",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-01T18:00:36.900Z",
+  "lastModifiedDate": "2024-10-01T18:00:36.900Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Bananamania"
+    }
+  },
+  "entitlementName": "20533891cb434dc08aadfa08d845cfd5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ad1e24ac5d2b478cb6a7af95bb622fb9",
+      "appId": "1cd58cde2a89467a89b41c8e271e3b39",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Himitsu Entertainment Co.",
+  "developerId": "o-gjj2jbd67l5mlqksvj672qt669pxsd",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
