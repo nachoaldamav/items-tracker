@@ -1,7 +1,7 @@
 {
-  "id": "315b70ac8fc140d1ae86a5589ca0a39e",
-  "title": "DevGeneralAudience",
-  "description": "DevGeneralAudience",
+  "id": "65627bcf08004b9fa0e7c8f1b7d56bbd",
+  "title": "Pack O' Disco Biscuits_ConsumableAudience",
+  "description": "Pack O' Disco Biscuits_ConsumableAudience",
   "categories": [
     {
       "path": "audience"
@@ -12,14 +12,14 @@
   ],
   "namespace": "4838b0b4a084422997a5b43a29ba8fd6",
   "status": "ACTIVE",
-  "creationDate": "2023-04-13T21:02:37.543Z",
-  "lastModifiedDate": "2024-10-01T08:27:33.128Z",
-  "entitlementName": "315b70ac8fc140d1ae86a5589ca0a39e",
+  "creationDate": "2024-10-01T08:27:33.143Z",
+  "lastModifiedDate": "2024-10-01T08:27:33.143Z",
+  "entitlementName": "65627bcf08004b9fa0e7c8f1b7d56bbd",
   "entitlementType": "AUDIENCE",
-  "itemType": "DURABLE",
-  "releaseInfo": [],
+  "itemType": "CONSUMABLE",
   "developer": "Tangent Universe",
   "developerId": "o-u3fgccymf9snrz8u6hwlupv5jc8lsv",
+  "useCount": 1,
   "endOfSupport": false,
   "requiresSecureAccount": false,
   "unsearchable": false

@@ -1,7 +1,7 @@
 {
-  "id": "315b70ac8fc140d1ae86a5589ca0a39e",
-  "title": "DevGeneralAudience",
-  "description": "DevGeneralAudience",
+  "id": "35b2377af01e40039aaa905e3e3a8c80",
+  "title": "Box O' Biscuits_ConsumableAudience",
+  "description": "Box O' Biscuits_ConsumableAudience",
   "categories": [
     {
       "path": "audience"
@@ -12,14 +12,14 @@
   ],
   "namespace": "4838b0b4a084422997a5b43a29ba8fd6",
   "status": "ACTIVE",
-  "creationDate": "2023-04-13T21:02:37.543Z",
-  "lastModifiedDate": "2024-10-01T08:27:33.128Z",
-  "entitlementName": "315b70ac8fc140d1ae86a5589ca0a39e",
+  "creationDate": "2024-10-01T08:27:33.142Z",
+  "lastModifiedDate": "2024-10-01T08:27:33.142Z",
+  "entitlementName": "35b2377af01e40039aaa905e3e3a8c80",
   "entitlementType": "AUDIENCE",
-  "itemType": "DURABLE",
-  "releaseInfo": [],
+  "itemType": "CONSUMABLE",
   "developer": "Tangent Universe",
   "developerId": "o-u3fgccymf9snrz8u6hwlupv5jc8lsv",
+  "useCount": 1,
   "endOfSupport": false,
   "requiresSecureAccount": false,
   "unsearchable": false
