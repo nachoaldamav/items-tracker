@@ -34,12 +34,12 @@
   ],
   "namespace": "549f7581de7a4227a9f91f03282424de",
   "status": "ACTIVE",
-  "creationDate": "2024-09-25T05:35:37.982Z",
-  "lastModifiedDate": "2024-09-25T05:35:37.982Z",
+  "creationDate": "2024-02-29T18:57:48.887Z",
+  "lastModifiedDate": "2024-09-30T18:32:14.038Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "PriestSimulatorVampiC8d6z"
+      "value": "PriestSimulatorVS"
     }
   },
   "entitlementName": "5561b976154e4eea81b4c0535497a539",
@@ -47,7 +47,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "cfadd72bda7c4d8e898499535deb29ed",
+      "id": "654aef7e7a1b41058bc574f836580e40",
       "appId": "5ffb49b9c01c44c6adb03fd5430e9b03",
       "platform": [
         "Windows"
@@ -57,6 +57,7 @@
   "developer": "Ultimate Games S.A",
   "developerId": "o-4f25dzb4qmmhbygu9ssnw4ckg985mh",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
