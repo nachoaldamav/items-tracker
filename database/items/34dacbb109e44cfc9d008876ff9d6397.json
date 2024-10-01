@@ -1,7 +1,7 @@
 {
   "id": "34dacbb109e44cfc9d008876ff9d6397",
   "title": "Flint: The Treasure of Oblivion",
-  "description": "Flint: The Treasure of Oblivion",
+  "description": "Experience the golden age of piracy through a strong and original narrative, real-time exploration and turn-based tactical combat in Flint - Treasure of Oblivion.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,7 +35,7 @@
   "namespace": "ae1a11a634df42feb2e6c28eea474260",
   "status": "ACTIVE",
   "creationDate": "2024-02-27T14:45:21.157Z",
-  "lastModifiedDate": "2024-08-22T13:55:44.199Z",
+  "lastModifiedDate": "2024-10-01T15:00:22.410Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "da0dc76a43c2402b9b0ef0c995bc8245",
+      "id": "d34b6d57edae4f649c27a64cf7f66886",
       "appId": "5cda2fcea4b64f64a5ebcfc227f281aa",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Microids",
