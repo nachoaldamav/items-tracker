@@ -1,0 +1,75 @@
+{
+  "id": "267721b4da764e2d9c7c7fd89b49c1e9",
+  "title": "Potion Tycoon",
+  "description": "Potion Tycoon is a management simulator with a witchy twist! Build and develop your very own potion shop. Manage resources, set up production lines, mix potions and sell them smartly to stay ahead of the competition. Welcome to the potion business!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/419f4d4dae1c4e0eb4b7ba336cd5712f/potion-tycoon-vqc24.png",
+      "md5": "be57a62f54644ab024f15047a20bfd28",
+      "width": 2560,
+      "height": 1440,
+      "size": 1329610,
+      "uploadedDate": "2024-08-08T14:39:05.460Z",
+      "alt": "Potion Tycoon Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/419f4d4dae1c4e0eb4b7ba336cd5712f/potion-tycoon-19iow.png",
+      "md5": "2b8333ea37e4fb58594701b1ec389a71",
+      "width": 1200,
+      "height": 1600,
+      "size": 2417099,
+      "uploadedDate": "2024-08-08T14:39:05.645Z",
+      "alt": "Download Potion Tycoon Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bb556387682d4fc3b7b4a5c8760a7cca",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-01T15:16:19.938Z",
+  "lastModifiedDate": "2024-10-01T15:16:19.938Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Snowhound/PotionTycoon/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "500"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PotionTycoon"
+    }
+  },
+  "entitlementName": "267721b4da764e2d9c7c7fd89b49c1e9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f7272d102c5c466f8ceac4effe89dc11",
+      "appId": "a4047356461744799aad0a450ba9c0f7",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "endOfSupport": false,
+  "applicationId": "fghi4567EqksR6vFhcZf49QozOLRrfFZ",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
