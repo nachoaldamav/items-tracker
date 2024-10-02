@@ -34,9 +34,17 @@
   ],
   "namespace": "c20d98862be8473b896df438004868c5",
   "status": "ACTIVE",
-  "creationDate": "2024-09-04T23:08:15.884Z",
-  "lastModifiedDate": "2024-09-04T23:08:15.884Z",
+  "creationDate": "2024-05-29T17:18:19.492Z",
+  "lastModifiedDate": "2024-10-02T18:10:14.617Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/The MIX Games/Rugrats/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "EmulatorSaveDatarugrats.sav,MixNESEmulatorControlBindsrugrats.json,EmulatorPlayerPrefs.txt"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "RugratsAdventuresinGwzDDG"
@@ -47,7 +55,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "b477486a99dd41058160f5b617ec8c6f",
+      "id": "c337b1c911b745e3ab530265780833ce",
       "appId": "cb28095340aa4bb8ace6f42c9a6e5f13",
       "platform": [
         "Windows"
@@ -57,6 +65,7 @@
   "developer": "The MIX Games Inc.",
   "developerId": "o-4nt2t5ugd4myf5ju68nbj38sv44cfg",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
