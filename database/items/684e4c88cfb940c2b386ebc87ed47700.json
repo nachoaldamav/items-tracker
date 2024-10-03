@@ -33,7 +33,7 @@
   "namespace": "aa598567414d42378187b8861da550f7",
   "status": "ACTIVE",
   "creationDate": "2022-11-11T03:19:34.796Z",
-  "lastModifiedDate": "2024-09-17T09:51:54.801Z",
+  "lastModifiedDate": "2024-10-03T19:09:31.929Z",
   "customAttributes": {
     "PresenceId": {
       "type": "STRING",
@@ -42,6 +42,10 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/Remnant2/Epic/"
     },
     "UseAccessControl": {
       "type": "STRING",
