@@ -1,7 +1,7 @@
 {
   "id": "1d540c60b16849ae9ecdde4868ad02ed",
-  "title": "Cosmik Battle",
-  "description": "Cosmik Battle",
+  "title": "Cosmik Battle - Trading Card Game",
+  "description": "Cosmik Battle - Trading Card Game",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,7 +35,7 @@
   "namespace": "3f5bd4a3bb62462c8b6846a68ad6a4d9",
   "status": "ACTIVE",
   "creationDate": "2023-05-04T14:50:05.959Z",
-  "lastModifiedDate": "2024-02-07T13:00:18.581Z",
+  "lastModifiedDate": "2024-10-03T08:32:14.704Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,11 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "e2c068db83bc4d5f90f8641948971217",
+      "id": "4c2ea9758cb341e2ba1f80af30ebd012",
       "appId": "a4b1b7e3a2f942a398d119d6a6113b96",
       "platform": [
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ]
     }
   ],
