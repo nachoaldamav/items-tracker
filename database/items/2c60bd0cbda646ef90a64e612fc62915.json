@@ -1,0 +1,81 @@
+{
+  "id": "2c60bd0cbda646ef90a64e612fc62915",
+  "title": "LEGO® Horizon Adventures™",
+  "description": "LEGO® Horizon Adventures™",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/bdb4adaa3874491bbafe9a16b2764200/EGS_LEGOHorizonAdventures_GuerrillaStudioGobo_S1_2560x1440-7cd36ffa9f27962db3ce5cb75c9a5fb2",
+      "md5": "7cd36ffa9f27962db3ce5cb75c9a5fb2",
+      "width": 2560,
+      "height": 1440,
+      "size": 872533,
+      "uploadedDate": "2024-05-30T20:45:32.540Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/bdb4adaa3874491bbafe9a16b2764200/EGS_LEGOHorizonAdventures_GuerrillaStudioGobo_S2_1200x1600-49af89f88628760d1285e30b2a00680f",
+      "md5": "49af89f88628760d1285e30b2a00680f",
+      "width": 1200,
+      "height": 1600,
+      "size": 781911,
+      "uploadedDate": "2024-05-30T20:45:36.211Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bdb4adaa3874491bbafe9a16b2764200",
+  "status": "ACTIVE",
+  "creationDate": "2023-07-05T16:52:16.562Z",
+  "lastModifiedDate": "2024-10-03T14:55:06.680Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "bdb4adaa3874491bbafe9a16b2764200"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LEGOHorizonAdventures"
+    }
+  },
+  "entitlementName": "2c60bd0cbda646ef90a64e612fc62915",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f62312c84b374ae8920ec2d489a1bed6",
+      "appId": "b0c8f5f5528b44eaad169fe57b2e8aa5",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567gVEjqsTbrWQepoqL7RQKKGua",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
