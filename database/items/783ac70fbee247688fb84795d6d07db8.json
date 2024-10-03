@@ -1,0 +1,34 @@
+{
+  "id": "783ac70fbee247688fb84795d6d07db8",
+  "title": "Art&OSTBundle audience",
+  "description": "Art&OSTBundle audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "f640a0c1648147fea7e81565b45a3003",
+  "status": "ACTIVE",
+  "creationDate": "2024-09-18T16:59:18.285Z",
+  "lastModifiedDate": "2024-10-03T16:57:28.580Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "783ac70fbee247688fb84795d6d07db8",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Focus Home Interactive",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
