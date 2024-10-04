@@ -1,0 +1,63 @@
+{
+  "id": "056194969d7644f3a9fa7b20963f6e14",
+  "title": "FORGE SIMULATOR",
+  "description": "FORGE SIMULATOR",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f9c07b53a65b483a88f6cf2004cbe399/forge-4yzus.jpg",
+      "md5": "9e80f8f57deaec67571e60f98ecfbff4",
+      "width": 2560,
+      "height": 1440,
+      "size": 571750,
+      "uploadedDate": "2024-06-22T13:32:31.121Z",
+      "alt": "Forge Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f9c07b53a65b483a88f6cf2004cbe399/forge-gt02n.png",
+      "md5": "0cf51b4fc16e1945d712fe2af49459b3",
+      "width": 1200,
+      "height": 1600,
+      "size": 3173449,
+      "uploadedDate": "2024-06-22T13:32:31.656Z",
+      "alt": "Download Forge Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "de38a11d515f4c659f0cd8a40a6670c4",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-04T18:30:56.947Z",
+  "lastModifiedDate": "2024-10-04T18:30:56.947Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ForgeSimulator"
+    }
+  },
+  "entitlementName": "056194969d7644f3a9fa7b20963f6e14",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9f324a6660134e7fb60b1762bdb448a6",
+      "appId": "39a796a012fe44dc8803e2190aff108f",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "GreenOnionGames",
+  "developerId": "o-kqza3pvx5zgehs2ukpzqxsgpeylsdn",
+  "endOfSupport": false,
+  "applicationId": "fghi4567lenEMQ5r4rCyWMUvX07U3LJ1",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
