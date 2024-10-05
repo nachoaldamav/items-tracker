@@ -35,8 +35,16 @@
   "namespace": "c738515085eb490fb8c13acf3749e9e9",
   "status": "ACTIVE",
   "creationDate": "2023-09-26T01:27:47.240Z",
-  "lastModifiedDate": "2024-09-19T15:16:08.671Z",
+  "lastModifiedDate": "2024-10-05T09:18:52.060Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/SaveData/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "99999"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "ROADTOEXOTICS"
@@ -47,7 +55,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "186ebceb575b460694d447a67d1ad476",
+      "id": "6d1f3a9843194118b3607ce7625b650d",
       "appId": "e504c01034504217ab4e3aa9f69c01b3",
       "platform": [
         "Windows"
