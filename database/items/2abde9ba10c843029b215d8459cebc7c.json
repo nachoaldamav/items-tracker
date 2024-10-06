@@ -1,0 +1,69 @@
+{
+  "id": "2abde9ba10c843029b215d8459cebc7c",
+  "title": "InFlux Redux",
+  "description": "A high-def UE5 remake of the 2013 puzzler InFlux, built on a brand new engine with completely overhauled graphics, physics and game code. A ball-rolling puzzle game that mixes exploration and platforming across beautiful natural and abstract environments.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7bcd8da721ca4f74a674a3734549c184/influx-redux-1bf0z.jpg",
+      "md5": "ecae8e4badece402674755370d74b04c",
+      "width": 2560,
+      "height": 1440,
+      "size": 2513176,
+      "uploadedDate": "2024-07-09T10:16:24.235Z",
+      "alt": "InFlux Redux Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7bcd8da721ca4f74a674a3734549c184/influx-redux-1unb4.png",
+      "md5": "47b92eca7a99835fe0bbb259a7527f6c",
+      "width": 1200,
+      "height": 1600,
+      "size": 2618073,
+      "uploadedDate": "2024-07-09T10:12:15.753Z",
+      "alt": "Download InFlux Redux Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b54c9aa442944825966a8d5987933238",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-06T01:54:25.914Z",
+  "lastModifiedDate": "2024-10-06T01:54:25.914Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Local/InFluxRedux/Saved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "5"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "InFluxRedux"
+    }
+  },
+  "entitlementName": "2abde9ba10c843029b215d8459cebc7c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "824935ff761d4148b0211db91abcc489",
+      "appId": "09c663e569354a2c9a70bea5145501b8",
+      "platform": []
+    }
+  ],
+  "developer": "Impromptu Games Pty Ltd",
+  "developerId": "o-5khcslxtz8m2yawvxjtg53pbs8l8g9",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
