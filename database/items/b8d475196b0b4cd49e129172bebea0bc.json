@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/9bb80833d64e470da96f53d82187b30a/simulakros-1wd8x.jpg",
-      "md5": "ffd4febe885d1737edee5a56ff240626",
+      "url": "https://cdn1.epicgames.com/spt-assets/9bb80833d64e470da96f53d82187b30a/simulakros-1jqrd.jpg",
+      "md5": "6eafc40db54300b93aba2b74e37a40f8",
       "width": 2560,
       "height": 1440,
-      "size": 926869,
-      "uploadedDate": "2024-08-07T13:49:33.290Z",
+      "size": 984218,
+      "uploadedDate": "2024-08-14T13:42:57.584Z",
       "alt": "Simulakros Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/9bb80833d64e470da96f53d82187b30a/simulakros-1dzsg.jpg",
-      "md5": "9e37478edd97f75a9df98323c0c003da",
+      "url": "https://cdn1.epicgames.com/spt-assets/9bb80833d64e470da96f53d82187b30a/simulakros-za7s4.jpg",
+      "md5": "84d29a646ebc62b3de6aa524f8c57422",
       "width": 1200,
       "height": 1600,
-      "size": 816995,
-      "uploadedDate": "2024-08-07T13:49:32.805Z",
+      "size": 873354,
+      "uploadedDate": "2024-08-14T13:42:56.912Z",
       "alt": "Download Simulakros Offer"
     }
   ],
@@ -34,9 +34,13 @@
   ],
   "namespace": "f264e262218f41288138a386d2e91b07",
   "status": "ACTIVE",
-  "creationDate": "2024-08-08T13:22:19.938Z",
-  "lastModifiedDate": "2024-08-08T13:22:19.938Z",
+  "creationDate": "2024-08-05T14:44:02.497Z",
+  "lastModifiedDate": "2024-10-07T12:16:31.874Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Simulakros/Saved/SaveGames/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "Simulakros"
@@ -47,9 +51,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "12d586eb245549eea2483b252658567a",
+      "id": "9aaf454750f940c9a4afaabfd9c80bba",
       "appId": "803f8eed1fc44bf4b696a580193f758c",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Plug In Digital SAS",
