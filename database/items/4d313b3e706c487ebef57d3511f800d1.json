@@ -1,0 +1,64 @@
+{
+  "id": "4d313b3e706c487ebef57d3511f800d1",
+  "title": "Off The Grid - Early Access",
+  "description": "Off The Grid - Early Access",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6539240b4a2f47fd834a969bdf008ce9/off-the-grid-1xdgi.jpg",
+      "md5": "d13a6c999eeeda55f46649704c69124b",
+      "width": 2560,
+      "height": 1440,
+      "size": 1930199,
+      "uploadedDate": "2024-03-08T11:55:03.160Z",
+      "alt": "Off The Grid Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6539240b4a2f47fd834a969bdf008ce9/off-the-grid-5t3a9.jpg",
+      "md5": "84f6c8c8ea4d988a3b0f6de494e96458",
+      "width": 1200,
+      "height": 1600,
+      "size": 508016,
+      "uploadedDate": "2024-10-07T20:42:13.024Z",
+      "alt": "Download Off The Grid Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c5e46dc234c449408ede15767c2c631e",
+  "status": "ACTIVE",
+  "creationDate": "2023-05-30T10:19:38.328Z",
+  "lastModifiedDate": "2024-10-08T11:09:44.515Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "OffTheGridLRLT8"
+    }
+  },
+  "entitlementName": "4d313b3e706c487ebef57d3511f800d1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "13b07f2f23b5410cad23eaddab35eedb",
+      "appId": "ec7eb1b404154fdeafcb44b02ff5a980",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Gunzilla Games",
+  "developerId": "o-f6chcld3ju7gyarr72g2vqpq93wv4h",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
