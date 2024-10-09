@@ -1,0 +1,75 @@
+{
+  "id": "47e2b874442945a59bb3ee416d73064a",
+  "title": "Dead Season",
+  "description": "Dead Season",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2cde43d4052c481fb815c120f44512fd/dead-season-kns8f.jpg",
+      "md5": "61257271a3a34dcd04f9b4156af044e2",
+      "width": 2560,
+      "height": 1440,
+      "size": 1305927,
+      "uploadedDate": "2024-10-01T13:02:51.243Z",
+      "alt": "Dead Season Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2cde43d4052c481fb815c120f44512fd/dead-season-eqcfs.jpg",
+      "md5": "df6b667ed97524b91cf36dc29000f025",
+      "width": 1200,
+      "height": 1600,
+      "size": 683630,
+      "uploadedDate": "2024-10-01T13:07:16.471Z",
+      "alt": "Download Dead Season Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f01957afd8ed40b1aaad3e4e8536cfa4",
+  "status": "ACTIVE",
+  "creationDate": "2024-09-23T11:34:03.886Z",
+  "lastModifiedDate": "2024-10-08T17:23:04.821Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Snail Bite/Dead Season/Saves/{EpicID}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.save,*.dat"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DeadSeasonx9yQM"
+    }
+  },
+  "entitlementName": "47e2b874442945a59bb3ee416d73064a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "24d30ecf3ced4344b02589ad0b42f678",
+      "appId": "88dc94893ba64b6eb82ab626d9542679",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Iceberg Interactive",
+  "developerId": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
