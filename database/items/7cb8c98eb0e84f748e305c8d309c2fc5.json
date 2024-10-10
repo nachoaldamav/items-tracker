@@ -1,0 +1,63 @@
+{
+  "id": "7cb8c98eb0e84f748e305c8d309c2fc5",
+  "title": "Halloween Trick or Treat",
+  "description": "Halloween Trick or Treat",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/37d75a6007394d888ba76569b6f37c28/halloween-trick-or-treat-gxgh2.jpg",
+      "md5": "5941ce16151cd5bc14eefa9da1c6cd8c",
+      "width": 2560,
+      "height": 1440,
+      "size": 1186602,
+      "uploadedDate": "2024-05-03T14:38:32.533Z",
+      "alt": "Halloween Trick or Treat Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/37d75a6007394d888ba76569b6f37c28/halloween-trick-or-treat-1vmvl.jpg",
+      "md5": "15c284becb362e554ffa1d98cb28886c",
+      "width": 1200,
+      "height": 1600,
+      "size": 746614,
+      "uploadedDate": "2024-05-03T14:38:36.649Z",
+      "alt": "Download Halloween Trick or Treat Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "00768d1edc824a4da4f499251d0559a5",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-03T07:00:20.254Z",
+  "lastModifiedDate": "2024-10-03T07:00:20.254Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "HalloweenTrickorTreaWUqKP"
+    }
+  },
+  "entitlementName": "7cb8c98eb0e84f748e305c8d309c2fc5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2d07d3281c5a46ffa3ea9b464186bd4f",
+      "appId": "747c754a6f7f4a50838532a0afa3c91b",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Casual Arts",
+  "developerId": "o-n369ubkvy5wu9nbxbml6pqeay5u72a",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
