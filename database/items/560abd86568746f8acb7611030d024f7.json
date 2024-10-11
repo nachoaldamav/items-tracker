@@ -1,0 +1,63 @@
+{
+  "id": "560abd86568746f8acb7611030d024f7",
+  "title": "Shatterline",
+  "description": "Shatterline",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0cbc7c03131b479ab1e5ec67f4da4290/shatterline-17j19.png",
+      "md5": "68243bcd8577788d8c7dc01cab269ed5",
+      "width": 2560,
+      "height": 1440,
+      "size": 2539360,
+      "uploadedDate": "2023-05-09T11:24:21.163Z",
+      "alt": "Shatterline Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0cbc7c03131b479ab1e5ec67f4da4290/shatterline-11bqr.png",
+      "md5": "130a83224d5febdb1693746c552bfdd9",
+      "width": 1200,
+      "height": 1600,
+      "size": 1382148,
+      "uploadedDate": "2023-05-09T11:24:15.001Z",
+      "alt": "Download Shatterline Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1b817ce74ae244e08a0b3038e77e5b6b",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-09T08:55:00.443Z",
+  "lastModifiedDate": "2024-10-09T08:55:00.796Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Shatterline"
+    }
+  },
+  "entitlementName": "560abd86568746f8acb7611030d024f7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "970c80a4ffa34a7494e430206ae255ef",
+      "appId": "b0a22af4cd3247a8b2a036db6534f89a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Frag Lab LLC",
+  "developerId": "o-pqlxczrzqpetbll97xpbh4a3ezrl3p",
+  "endOfSupport": false,
+  "applicationId": "fghi4567SU6TKm6yHtcvWKusrfVyyH18",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
