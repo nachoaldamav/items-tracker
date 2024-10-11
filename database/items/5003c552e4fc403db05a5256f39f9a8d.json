@@ -1,27 +1,27 @@
 {
-  "id": "20533891cb434dc08aadfa08d845cfd5",
-  "title": "Bananamania",
-  "description": "Bananamania",
+  "id": "5003c552e4fc403db05a5256f39f9a8d",
+  "title": "Bananamania Demo",
+  "description": "Bananamania Demo",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/ce9e9606900246b2875dbaf4b18723a6/bananamania-zwtyo.png",
+      "url": "https://cdn1.epicgames.com/spt-assets/ce9e9606900246b2875dbaf4b18723a6/bananamania-1co5r.png",
       "md5": "9ce19dd0a9437cf4cfee966cd0fffc30",
       "width": 2560,
       "height": 1440,
       "size": 2030622,
-      "uploadedDate": "2024-09-30T19:28:43.196Z",
-      "alt": "Bananamania Offer"
+      "uploadedDate": "2024-10-01T20:00:21.919Z",
+      "alt": "Bananamania Bananamania Demo Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/ce9e9606900246b2875dbaf4b18723a6/bananamania-ram58.png",
+      "url": "https://cdn1.epicgames.com/spt-assets/ce9e9606900246b2875dbaf4b18723a6/bananamania-n02vy.png",
       "md5": "0235b8f1017bbfff4656ce8c71ca02ab",
       "width": 1200,
       "height": 1600,
       "size": 530986,
-      "uploadedDate": "2024-09-30T19:28:29.409Z",
-      "alt": "Download Bananamania Offer"
+      "uploadedDate": "2024-10-01T20:00:21.547Z",
+      "alt": "Download Bananamania Bananamania Demo Offer"
     }
   ],
   "categories": [
@@ -34,25 +34,21 @@
   ],
   "namespace": "f1cf72f878744ff6a50a9ef030348056",
   "status": "ACTIVE",
-  "creationDate": "2024-02-22T03:52:41.658Z",
-  "lastModifiedDate": "2024-10-11T18:40:26.588Z",
+  "creationDate": "2024-10-11T18:40:26.601Z",
+  "lastModifiedDate": "2024-10-11T18:40:26.601Z",
   "customAttributes": {
-    "CloudSaveFolder": {
-      "type": "STRING",
-      "value": "{InstallDir}/{EpicID}/"
-    },
     "FolderName": {
       "type": "STRING",
-      "value": "Bananamania"
+      "value": "BananamaniaDemo"
     }
   },
-  "entitlementName": "20533891cb434dc08aadfa08d845cfd5",
+  "entitlementName": "5003c552e4fc403db05a5256f39f9a8d",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "f9fa029cc6b2435d9ffe56a28d1ef6e6",
-      "appId": "1cd58cde2a89467a89b41c8e271e3b39",
+      "id": "c7fd0761964b4da5934590e372d78766",
+      "appId": "80bdceae43a940f497e5923c30dffdba",
       "platform": [
         "Windows"
       ]
