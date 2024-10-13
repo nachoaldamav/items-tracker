@@ -1,0 +1,72 @@
+{
+  "id": "cc6d746a26c040c69564c2d7e3020be0",
+  "title": "Bang Average Football",
+  "description": "Experience the thrill of the beautiful game in Bang Average Football - the fast-paced, easy-to-learn football game for 1-4 players! Play against your friends for footballing glory in multiplayer, or turn a hopeless club into national champions as player-manager in Story mode!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f27d5ccb7d0947ca9728966e897fc615/bang-average-football-1nsx7.png",
+      "md5": "5a23ff9c5a75ceb286b2c36f1be146a3",
+      "width": 2560,
+      "height": 1440,
+      "size": 1855479,
+      "uploadedDate": "2024-10-09T02:55:36.543Z",
+      "alt": "Bang Average Football Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f27d5ccb7d0947ca9728966e897fc615/bang-average-football-1wq8q.png",
+      "md5": "22297921af31d8e2a66d2eb0e70cd8dd",
+      "width": 1200,
+      "height": 1600,
+      "size": 887001,
+      "uploadedDate": "2024-10-09T02:55:38.933Z",
+      "alt": "Download Bang Average Football Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ab99a8d5e3c4447380ea741ab9bcbdad",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-13T03:39:28.301Z",
+  "lastModifiedDate": "2024-10-13T03:39:28.301Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/BangAverageFootball/user_data/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/BangAverageFootball/user_data/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BangAverageFootballrqEkB"
+    }
+  },
+  "entitlementName": "cc6d746a26c040c69564c2d7e3020be0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ad8c35afecde4e9db9f223226e4e89b9",
+      "appId": "e1cfd4492578495580444c7ac33ad244",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Banana Life LLC",
+  "developerId": "o-kq86gj36zehnl7ab74fwfj9yg549xc",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
