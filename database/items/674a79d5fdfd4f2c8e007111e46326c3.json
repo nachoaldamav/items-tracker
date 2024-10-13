@@ -34,8 +34,8 @@
   ],
   "namespace": "645d341503a04bfa8c129e42ffd196f4",
   "status": "ACTIVE",
-  "creationDate": "2024-09-20T22:24:58.992Z",
-  "lastModifiedDate": "2024-09-20T22:24:59.263Z",
+  "creationDate": "2024-09-05T13:36:02.287Z",
+  "lastModifiedDate": "2024-10-13T08:46:13.831Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "de5bdd1a72c14562b89f03e327f23709",
+      "id": "40e5bde63ca24757bbdf97c0e5caac79",
       "appId": "65b9639f37d14837ac14d804dc2a36f9",
-      "platform": []
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
     }
   ],
   "developer": "UMIXSTUDIOS",

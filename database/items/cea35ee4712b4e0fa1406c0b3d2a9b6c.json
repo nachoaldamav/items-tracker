@@ -31,17 +31,20 @@
   ],
   "namespace": "645d341503a04bfa8c129e42ffd196f4",
   "status": "ACTIVE",
-  "creationDate": "2024-09-20T22:24:58.996Z",
-  "lastModifiedDate": "2024-09-20T22:24:58.996Z",
+  "creationDate": "2024-09-07T15:17:33.166Z",
+  "lastModifiedDate": "2024-10-13T08:46:13.831Z",
   "customAttributes": {},
   "entitlementName": "cea35ee4712b4e0fa1406c0b3d2a9b6c",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "ddd3c1fbedfb42f6b09647edc133ec75",
+      "id": "d799203c80b74738bcfa28645f0f58e7",
       "appId": "a76635e543004cbe8a76f2b23f5d9a82",
-      "platform": []
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
     }
   ],
   "developer": "UMIXSTUDIOS",
