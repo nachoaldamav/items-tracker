@@ -1,0 +1,67 @@
+{
+  "id": "fda1f9bc625641dca6669da30fe4fbc4",
+  "title": "Orange Season",
+  "description": "Orange Season",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/10a4147193e049e2afea6aa83b9b7a5a/orange-season-uivrs.png",
+      "md5": "4091c8714049e01423387305cb1e9313",
+      "width": 2560,
+      "height": 1440,
+      "size": 3942214,
+      "uploadedDate": "2024-04-08T16:01:35.166Z",
+      "alt": "Orange Season Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/10a4147193e049e2afea6aa83b9b7a5a/orange-season-q68c7.png",
+      "md5": "505ded4b0ccc2fdd675a0b4e0106250c",
+      "width": 1200,
+      "height": 1600,
+      "size": 2084552,
+      "uploadedDate": "2024-04-08T16:01:34.813Z",
+      "alt": "Download Orange Season Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f4a6b55c57fa44a6ad819905f78ec85c",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-15T09:55:59.041Z",
+  "lastModifiedDate": "2024-10-15T09:55:59.041Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Soedesco/Orange Season/save/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OrangeSeason8rxBy"
+    }
+  },
+  "entitlementName": "fda1f9bc625641dca6669da30fe4fbc4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "317a2cf5db364167816e3131bb8506cc",
+      "appId": "0d474328f6ac404ba9486b65572a404b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SOEDESCO",
+  "developerId": "o-9uf2bsrkptwqbkpy867grcbj5jxrta",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
