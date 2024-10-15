@@ -1,0 +1,63 @@
+{
+  "id": "cd4fc54f441b4be7a787bf85623e6c43",
+  "title": "Pocket Legend",
+  "description": "Pocket Legend",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9249e125a86146f3994e7549a04517f7/pocket-legend-xlbf2.jpg",
+      "md5": "c9cc31111f4e8ad8385ffd70c04b553f",
+      "width": 2560,
+      "height": 1440,
+      "size": 713167,
+      "uploadedDate": "2024-10-08T22:29:33.059Z",
+      "alt": "Pocket Legend Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9249e125a86146f3994e7549a04517f7/pocket-legend-6wybq.jpg",
+      "md5": "25274a6e81cfa88faab1f38bd63df3a9",
+      "width": 1200,
+      "height": 1600,
+      "size": 403393,
+      "uploadedDate": "2024-10-08T22:29:32.731Z",
+      "alt": "Download Pocket Legend Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "faea33f432634a328f84723d574e6db3",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-11T13:54:29.100Z",
+  "lastModifiedDate": "2024-10-11T13:54:29.100Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "PocketLegend"
+    }
+  },
+  "entitlementName": "cd4fc54f441b4be7a787bf85623e6c43",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ed9f6e46894f492eb5e2cb45856f5050",
+      "appId": "10ad7b49b7564427b4b98cc3b200b223",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Shading Box",
+  "developerId": "o-jd8uda7pexb7xgmk6rujv922kvacwv",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
