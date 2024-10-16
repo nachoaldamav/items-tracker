@@ -1,0 +1,71 @@
+{
+  "id": "2578ef1f534d4cc480420ce65d08eec5",
+  "title": "RATSHAKER™",
+  "description": "RATSHAKER™",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2107d561454540519a1c668f455eb93c/ratshaker-1ktyh.jpg",
+      "md5": "7e2c75181d55015a8b132988a6a8d781",
+      "width": 2560,
+      "height": 1440,
+      "size": 450497,
+      "uploadedDate": "2024-10-13T22:12:54.134Z",
+      "alt": "RATSHAKER Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2107d561454540519a1c668f455eb93c/ratshaker-vmf3t.png",
+      "md5": "c612faefeb43c0a815914612fc68edb9",
+      "width": 1200,
+      "height": 1600,
+      "size": 4142575,
+      "uploadedDate": "2024-10-13T22:11:25.189Z",
+      "alt": "Download RATSHAKER Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a0ce5ad3290c4bbfae201a21962ad7a3",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-16T17:32:10.041Z",
+  "lastModifiedDate": "2024-10-16T17:32:10.041Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Ratshaker/Saved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RATSHAKER"
+    }
+  },
+  "entitlementName": "2578ef1f534d4cc480420ce65d08eec5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1308aa3ecaf94472af3a1644da226425",
+      "appId": "1bf0d5292ef94b2da044ee1851e29a48",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SUNSCORCHED STUDIOS LIMITED",
+  "developerId": "o-665at355kwnzcxwpfx52j7lg39gyhm",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
