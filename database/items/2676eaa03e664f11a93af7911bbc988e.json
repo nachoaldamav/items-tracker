@@ -34,16 +34,16 @@
   ],
   "namespace": "bc51d32ca88b41bda1e50f5876c0b16e",
   "status": "ACTIVE",
-  "creationDate": "2024-08-21T21:00:19.679Z",
-  "lastModifiedDate": "2024-08-21T21:00:19.679Z",
+  "creationDate": "2023-08-07T18:51:50.545Z",
+  "lastModifiedDate": "2024-10-16T23:09:50.635Z",
   "customAttributes": {
     "CloudSaveFolder_MAC": {
       "type": "STRING",
-      "value": "{AppData}/unity.TGK.TSoM/saves/default/"
+      "value": "{AppData}/unity.TGK.TSoM_EOS/saves/default/"
     },
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{AppData}/../LocalLow/TGK/TSoM/saves/default/"
+      "value": "{AppData}/../LocalLow/TGK/TSoM_EOS/saves/default/"
     },
     "FolderName": {
       "type": "STRING",
@@ -55,7 +55,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "6ac84574cbd748289c48a113f6ed2bfe",
+      "id": "4b64bad62c864541b92169c748e97cf4",
       "appId": "ee9aba2358a7484da67fef34106bb13a",
       "platform": [
         "Windows"
