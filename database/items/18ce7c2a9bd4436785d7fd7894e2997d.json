@@ -1,0 +1,62 @@
+{
+  "id": "18ce7c2a9bd4436785d7fd7894e2997d",
+  "title": "Symphonia Demo",
+  "description": "Symphonia Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/84448578ff08485fa6c5b5fa1cb70669/symphonia-h3qna.jpg",
+      "md5": "70b7bde495728d9b9387a8ce85246c00",
+      "width": 2560,
+      "height": 1440,
+      "size": 607170,
+      "uploadedDate": "2024-09-16T12:45:49.191Z",
+      "alt": "Symphonia Symphonia Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/84448578ff08485fa6c5b5fa1cb70669/symphonia-p1p72.jpg",
+      "md5": "69706249cd613c42a67516dd574b99c6",
+      "width": 1200,
+      "height": 1600,
+      "size": 683256,
+      "uploadedDate": "2024-09-16T12:45:39.090Z",
+      "alt": "Download Symphonia Symphonia Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d7ed29b020f7482f98092ec2aab2d2f5",
+  "status": "ACTIVE",
+  "creationDate": "2024-08-12T14:28:20.990Z",
+  "lastModifiedDate": "2024-10-17T07:06:18.215Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DemoSymphonia1fdcf"
+    }
+  },
+  "entitlementName": "18ce7c2a9bd4436785d7fd7894e2997d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "583ae5b46c194a7db31a90392e35bae1",
+      "appId": "44ccabebacf74282b0c19196169755cc",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Headup Gmbh",
+  "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
