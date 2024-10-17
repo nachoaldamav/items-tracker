@@ -1,8 +1,7 @@
 {
-  "id": "8bd34212021840d397b951e9a872f991",
-  "title": "huddle GeneralAudience",
-  "description": "huddle GeneralAudience",
-  "keyImages": [],
+  "id": "6a66702652bc4c14a1024610ace783fd",
+  "title": "huddle106 Audience",
+  "description": "huddle106 Audience",
   "categories": [
     {
       "path": "audience"
@@ -13,10 +12,15 @@
   ],
   "namespace": "2a14cf8a83b149919a2399504e5686a6",
   "status": "ACTIVE",
-  "creationDate": "2022-08-29T22:37:45.476Z",
-  "lastModifiedDate": "2024-10-17T15:22:51.994Z",
-  "customAttributes": {},
-  "entitlementName": "8bd34212021840d397b951e9a872f991",
+  "creationDate": "2024-10-09T18:53:12.502Z",
+  "lastModifiedDate": "2024-10-17T15:28:39.412Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "6a66702652bc4c14a1024610ace783fd",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
