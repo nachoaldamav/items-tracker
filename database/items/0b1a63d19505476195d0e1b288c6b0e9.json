@@ -1,0 +1,63 @@
+{
+  "id": "0b1a63d19505476195d0e1b288c6b0e9",
+  "title": "LiveLink Hub",
+  "description": "LiveLink Hub",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b35bf342aa544021b2a39eee9227de44/livelink-hub-18cft.png",
+      "md5": "aea09f91f8edb0954c9ab4ea61103ae1",
+      "width": 2560,
+      "height": 1440,
+      "size": 74206,
+      "uploadedDate": "2024-07-28T09:17:33.408Z",
+      "alt": "LiveLink Hub Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b35bf342aa544021b2a39eee9227de44/livelink-hub-15o7l.png",
+      "md5": "01a0dc24c5861a6fb6061b9018830590",
+      "width": 1200,
+      "height": 1600,
+      "size": 61818,
+      "uploadedDate": "2024-07-28T09:17:33.270Z",
+      "alt": "Download LiveLink Hub Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1fe53f1cd37546d7bf4525698ec287ba",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-16T19:37:08.643Z",
+  "lastModifiedDate": "2024-10-16T19:37:08.643Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "LiveLinkHub"
+    }
+  },
+  "entitlementName": "0b1a63d19505476195d0e1b288c6b0e9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c0cd4e35b72b4b8fb1e3c5588722aae0",
+      "appId": "ca19afd25ba44ba8aa09828ed62b9e77",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
