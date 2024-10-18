@@ -16,7 +16,7 @@
   "namespace": "ab139ee5b644412781cf99f48b993b45",
   "status": "ACTIVE",
   "creationDate": "2021-02-09T14:17:47.851Z",
-  "lastModifiedDate": "2021-02-09T14:34:38.136Z",
+  "lastModifiedDate": "2024-10-17T22:36:12.813Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -34,10 +34,12 @@
     {
       "id": "50de7a23cf21498aa7ebd052bc5334ee",
       "appId": "78474f35a129414c95031b9dda32c0be",
+      "compatibleApps": [],
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
-      "dateAdded": "2021-02-09T14:30:41.410Z"
+      "dateAdded": "2021-02-09T14:30:00.000Z"
     }
   ],
   "developer": "PlayEveryWare, Inc.",
@@ -47,6 +49,7 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
