@@ -34,8 +34,8 @@
   ],
   "namespace": "6a9a6d51504d4f229068d151d68b75da",
   "status": "ACTIVE",
-  "creationDate": "2024-09-23T05:27:51.423Z",
-  "lastModifiedDate": "2024-10-12T17:38:36.475Z",
+  "creationDate": "2023-09-11T12:04:11.080Z",
+  "lastModifiedDate": "2024-10-19T17:21:13.713Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "c75613857139462ca01352f7367b086f",
+      "id": "3343228c66ec4d3ca926c09ded6934c6",
       "appId": "221159d4985849b68547353cc5013ba4",
-      "platform": []
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "ShadowWolfGames",
