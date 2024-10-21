@@ -35,8 +35,20 @@
   "namespace": "38f10855ba5a47baa6b6deb8bde74b59",
   "status": "ACTIVE",
   "creationDate": "2021-11-22T19:06:05.894Z",
-  "lastModifiedDate": "2024-10-01T15:05:36.321Z",
+  "lastModifiedDate": "2024-10-21T17:53:02.961Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Foretold/Saved/SaveGames/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "SaveGeneralSettings01.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "TheAxisUnseenpkYa4"
@@ -47,7 +59,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "9a2bdfffb14f454fb82d3bbc377d8d1c",
+      "id": "8afb0b837bd94b1dbed7f7042555e9f3",
       "appId": "3a5fc2c0473748e6a8e13765c47bd52b",
       "platform": [
         "Windows"
@@ -57,6 +69,7 @@
   "developer": "Just Purkey Games",
   "developerId": "o-fd6bagmqkgtll8atmmysk4gunaqfsy",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
