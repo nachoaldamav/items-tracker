@@ -13,7 +13,7 @@
   "namespace": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "status": "ACTIVE",
   "creationDate": "2024-06-06T22:43:47.625Z",
-  "lastModifiedDate": "2024-06-06T22:43:47.696Z",
+  "lastModifiedDate": "2024-10-22T15:00:44.532Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +23,15 @@
   "entitlementName": "b35c8b5f5cb24dbfa8217a75755d59a9",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Plaion",
   "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": true
 }
