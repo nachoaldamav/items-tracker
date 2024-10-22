@@ -1,0 +1,59 @@
+{
+  "id": "4c2ddf80de1d47508a9c5606f520e29d",
+  "title": "StarHeroes",
+  "description": "StarHeroes",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a7404a8c5cf94150ad64e5dfbef54680/starheroes-1un4w.png",
+      "md5": "7a64d646a5daf7f81fe78a90c3f59bc9",
+      "width": 2560,
+      "height": 1440,
+      "size": 1802560,
+      "uploadedDate": "2023-09-13T10:19:34.114Z",
+      "alt": "StarHeroes Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a7404a8c5cf94150ad64e5dfbef54680/starheroes-fgemi.png",
+      "md5": "472ef1e487aea09ea817d84bd470205c",
+      "width": 1200,
+      "height": 1600,
+      "size": 3404678,
+      "uploadedDate": "2023-09-13T11:24:55.998Z",
+      "alt": "Download StarHeroes Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1b9c3a425989479fb81f9b322c566a91",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-21T23:02:53.016Z",
+  "lastModifiedDate": "2024-10-21T23:02:53.016Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "StarHeroeshUKZ5"
+    }
+  },
+  "entitlementName": "4c2ddf80de1d47508a9c5606f520e29d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "866ae08735454c7d90b3a9ebb8173d5e",
+      "appId": "72bec8d477ce4f3892d5b3b1aef05bf5"
+    }
+  ],
+  "developer": "GameSwift",
+  "developerId": "o-xwcgqddp6nxnf4qwsrjnzv4kxgjgwr",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
