@@ -1,0 +1,63 @@
+{
+  "id": "27c1cd3827e245c0a39e73feb7576d94",
+  "title": "TappyFowl",
+  "description": "TappyFowl",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/33421ed1cb6c4b90bc2c85193849fd14/tappyfowl-4p2fj.png",
+      "md5": "e02f1c61207e0c1ab10cd3ec92ed6331",
+      "width": 2560,
+      "height": 1440,
+      "size": 1971533,
+      "uploadedDate": "2024-09-16T20:09:37.690Z",
+      "alt": "TappyFowl Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/33421ed1cb6c4b90bc2c85193849fd14/tappyfowl-wlmil.png",
+      "md5": "0ada833244d0a14b7ae73fa7af9ff787",
+      "width": 1200,
+      "height": 1600,
+      "size": 1085695,
+      "uploadedDate": "2024-09-16T20:09:37.885Z",
+      "alt": "Download TappyFowl Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "46877f45e4ff46fc82bef3d069e1409d",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-22T18:38:18.515Z",
+  "lastModifiedDate": "2024-10-22T18:38:18.515Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TappyFowlvEcj5"
+    }
+  },
+  "entitlementName": "27c1cd3827e245c0a39e73feb7576d94",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "87f06e4b570449d4ba01166e757164ee",
+      "appId": "ef79798ddb594984b9e081bdf20c6cb8",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "thirdweb",
+  "developerId": "o-38tnyrqsv8gyjfkfttcxfg2pcwxpla",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
