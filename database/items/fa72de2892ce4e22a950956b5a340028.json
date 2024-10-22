@@ -34,12 +34,12 @@
   ],
   "namespace": "952df933162b4007b4b07d38b1998f3b",
   "status": "ACTIVE",
-  "creationDate": "2024-06-06T09:30:23.467Z",
-  "lastModifiedDate": "2024-06-06T09:30:23.467Z",
+  "creationDate": "2024-03-25T16:57:25.433Z",
+  "lastModifiedDate": "2024-10-22T15:31:07.045Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "AWAKENAstralBladeRoavo"
+      "value": "AWAKENAstralBlade"
     }
   },
   "entitlementName": "fa72de2892ce4e22a950956b5a340028",
@@ -47,9 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "75fe9edbd3074e1787419b3ad1658d22",
+      "id": "31411876fda64489933393c16b38aac6",
       "appId": "91a69d75c7574f7c8f6cfb33d272b495",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "ESDigital Games ltd",
