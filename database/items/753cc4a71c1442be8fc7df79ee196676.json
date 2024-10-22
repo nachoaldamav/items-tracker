@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/1b58d6c6623f4d44a7ba2174e62e2cfa/brilliantcrypto-uzgln.jpg",
-      "md5": "629d80736f56bebf2b364fe6aa332e52",
+      "url": "https://cdn1.epicgames.com/spt-assets/1b58d6c6623f4d44a7ba2174e62e2cfa/brilliantcrypto-79qxe.jpg",
+      "md5": "192a0fd67bd65a2f34e8c9950bc9fd04",
       "width": 2560,
       "height": 1440,
-      "size": 2002825,
-      "uploadedDate": "2024-08-19T13:21:46.063Z",
+      "size": 693482,
+      "uploadedDate": "2024-10-07T01:51:47.306Z",
       "alt": "Brilliantcrypto Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/1b58d6c6623f4d44a7ba2174e62e2cfa/brilliantcrypto-1gynx.jpg",
-      "md5": "bdcf07e337fd03d86eb027f1f8a9db0b",
+      "url": "https://cdn1.epicgames.com/spt-assets/1b58d6c6623f4d44a7ba2174e62e2cfa/brilliantcrypto-1oskl.jpg",
+      "md5": "612ba3cc5e37e9de45d23f107824f1b2",
       "width": 1200,
       "height": 1600,
-      "size": 1274586,
-      "uploadedDate": "2024-08-19T13:21:47.661Z",
+      "size": 468013,
+      "uploadedDate": "2024-10-07T01:51:47.069Z",
       "alt": "Download Brilliantcrypto Offer"
     }
   ],
@@ -35,8 +35,12 @@
   "namespace": "ef862ce28c8743a1a9ac4d1f66cad91e",
   "status": "ACTIVE",
   "creationDate": "2024-06-28T13:35:56.213Z",
-  "lastModifiedDate": "2024-09-30T05:31:59.554Z",
+  "lastModifiedDate": "2024-10-22T05:04:54.799Z",
   "customAttributes": {
+    "LaunchElevated": {
+      "type": "STRING",
+      "value": "true"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "BrilliantCryptoTXXP8"
@@ -47,7 +51,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "759c16e034334781a14a1737b3421ce0",
+      "id": "b2822ca2082142f9be66d973a8d2cb0e",
       "appId": "f88da08c9c3f4aa4b86052f676b6a2e9",
       "platform": [
         "Windows",
@@ -57,7 +61,9 @@
   ],
   "developer": "Crypto Blockchain Industries",
   "developerId": "o-wqjjd9src3vfvyektgtlxh6rqp7j48",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
