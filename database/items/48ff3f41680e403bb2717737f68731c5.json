@@ -11,8 +11,13 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2017-05-13T00:13:52.788Z",
-  "lastModifiedDate": "2024-08-16T03:53:16.000Z",
-  "customAttributes": {},
+  "lastModifiedDate": "2024-10-23T17:56:31.649Z",
+  "customAttributes": {
+    "tds_allowlist": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
   "entitlementName": "Fortnite_Free",
   "entitlementType": "ENTITLEMENT",
   "itemType": "DURABLE",
