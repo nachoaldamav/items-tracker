@@ -1,0 +1,63 @@
+{
+  "id": "a2d30ed6ad394dd8b6f6245c150735ea",
+  "title": "Exclusive memory",
+  "description": "Exclusive memory",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/eb5391a2b4a24ffe8e1a1f4b810bb34a/exclusive-memory-1ubn2.png",
+      "md5": "8be1504ebb2ae6ce3019cd0133601a4e",
+      "width": 2560,
+      "height": 1440,
+      "size": 2390329,
+      "uploadedDate": "2024-10-18T13:19:20.853Z",
+      "alt": "Exclusive Memory Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/eb5391a2b4a24ffe8e1a1f4b810bb34a/exclusive-memory-msgmx.png",
+      "md5": "57cfacba9bbb31845cfef5fc1e870b61",
+      "width": 1200,
+      "height": 1600,
+      "size": 1518620,
+      "uploadedDate": "2024-10-18T13:19:20.460Z",
+      "alt": "Download Exclusive Memory Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d1c3005aef4c411181bdb7c23e5d1c01",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-23T01:12:44.942Z",
+  "lastModifiedDate": "2024-10-23T01:12:44.942Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Exclusivememory"
+    }
+  },
+  "entitlementName": "a2d30ed6ad394dd8b6f6245c150735ea",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6cb2b4d6fbd841f7b6b9dcc32e02ede2",
+      "appId": "c80af29395f243b7801bb80b6068060a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Liu Zhangjian",
+  "developerId": "o-dcnn33yyqqlwflpfa39eyqanqhca4j",
+  "endOfSupport": false,
+  "applicationId": "fghi45677VyBm4O89rVIi5HsyTecWh7j",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
