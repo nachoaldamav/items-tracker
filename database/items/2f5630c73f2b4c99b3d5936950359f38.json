@@ -1,0 +1,67 @@
+{
+  "id": "2f5630c73f2b4c99b3d5936950359f38",
+  "title": "Miracle Heroes",
+  "description": "Miracle Heroes",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/81d94a885c1a4dc8973e9a57872bfe68/miracle-heroes-uyr61.png",
+      "md5": "6ee30bf01cf014c757f4912466c59f21",
+      "width": 2560,
+      "height": 1440,
+      "size": 1649984,
+      "uploadedDate": "2024-10-22T09:46:04.801Z",
+      "alt": "Miracle Heroes Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/81d94a885c1a4dc8973e9a57872bfe68/miracle-heroes-11pi6.png",
+      "md5": "c765c9379862b61c2a2ea6ed7377d437",
+      "width": 1200,
+      "height": 1600,
+      "size": 2665326,
+      "uploadedDate": "2024-10-22T09:46:17.133Z",
+      "alt": "Download Miracle Heroes Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "89168e1ce56a436e99601415c1a896ce",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-24T05:14:37.519Z",
+  "lastModifiedDate": "2024-10-24T05:14:37.519Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/AnimalBrothers/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MiracleHeroes"
+    }
+  },
+  "entitlementName": "2f5630c73f2b4c99b3d5936950359f38",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "569535f7f39b490e8c456db2ddaba933",
+      "appId": "a74b1a35413b4798ae35841fd6b1da43",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "CatPlayStudio",
+  "developerId": "o-hregs7waz7w3dlfn9zgkb3kbs4n7xv",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
