@@ -1,0 +1,63 @@
+{
+  "id": "a14e80eeef704aa1894b1bf14547e069",
+  "title": "Beholder",
+  "description": "Beholder",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e42eff0761f24bb089fe429611bd2e31/beholder-1dwwd.png",
+      "md5": "97cd9eb9ea0df4e814b7dd2382626302",
+      "width": 2560,
+      "height": 1440,
+      "size": 3910893,
+      "uploadedDate": "2024-08-09T15:26:44.850Z",
+      "alt": "Beholder Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e42eff0761f24bb089fe429611bd2e31/beholder-r50tu.png",
+      "md5": "0e3048ba756c15cff32766ffc14223ea",
+      "width": 1200,
+      "height": 1600,
+      "size": 2106771,
+      "uploadedDate": "2024-08-09T15:26:44.073Z",
+      "alt": "Download Beholder Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7109c2e220544434ad355bce3cf69120",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-24T20:09:47.586Z",
+  "lastModifiedDate": "2024-10-24T20:09:47.586Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Beholder1"
+    }
+  },
+  "entitlementName": "a14e80eeef704aa1894b1bf14547e069",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "34069cc0028245aeb4ada5dbe272e970",
+      "appId": "6fa12837a99e4b16bc21d7719b3c401e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Plug In Digital SAS",
+  "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
