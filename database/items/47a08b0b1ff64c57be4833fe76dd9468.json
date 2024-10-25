@@ -1,0 +1,63 @@
+{
+  "id": "47a08b0b1ff64c57be4833fe76dd9468",
+  "title": "Poppy Playtime",
+  "description": "Poppy Playtime",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/465c0f6c95d04b1c86b280b4925fee2d/poppy-playtime-19yci.jpg",
+      "md5": "2d9b77551baf749a575a3cb3f735c150",
+      "width": 2560,
+      "height": 1440,
+      "size": 582147,
+      "uploadedDate": "2024-03-25T19:27:07.573Z",
+      "alt": "Poppy Playtime Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/465c0f6c95d04b1c86b280b4925fee2d/poppy-playtime-1uhg0.jpg",
+      "md5": "21a62afff28c4908b6db308def3fd289",
+      "width": 1200,
+      "height": 1600,
+      "size": 425959,
+      "uploadedDate": "2024-03-25T17:32:40.843Z",
+      "alt": "Download Poppy Playtime Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "99e8ecbba8a34b95839498e98fbebeeb",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-24T16:00:03.133Z",
+  "lastModifiedDate": "2024-10-24T16:00:03.571Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "PoppyPlaytimeChapterOne"
+    }
+  },
+  "entitlementName": "47a08b0b1ff64c57be4833fe76dd9468",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "438af676cd4040debd3d37a7e368a72e",
+      "appId": "246eeb03ef15431f8ea95c6c7ae1e2ca",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "MOBEntertainment",
+  "developerId": "o-yh7uc5sj8zhx8xcezu48l32b4dj7n4",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
