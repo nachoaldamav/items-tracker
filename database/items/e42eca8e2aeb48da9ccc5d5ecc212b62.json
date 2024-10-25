@@ -32,8 +32,8 @@
   ],
   "namespace": "moose",
   "status": "ACTIVE",
-  "creationDate": "2018-11-30T01:21:47.809Z",
-  "lastModifiedDate": "2020-12-23T04:58:29.321Z",
+  "creationDate": "2024-10-21T15:00:01.736Z",
+  "lastModifiedDate": "2024-10-25T15:10:09.927Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -73,15 +73,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "e7a1b466fa174218bb2d404ab159ca70",
+      "id": "40bf1f31532342b2941b1ed8f3025497",
       "appId": "Moose",
-      "compatibleApps": [],
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2018-11-30T00:00:00.000Z",
-      "releaseNote": "",
-      "versionTitle": ""
+      ]
     }
   ],
   "developer": "Team Meat",
