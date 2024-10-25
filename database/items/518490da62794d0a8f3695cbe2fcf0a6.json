@@ -1,0 +1,67 @@
+{
+  "id": "518490da62794d0a8f3695cbe2fcf0a6",
+  "title": "Brotato",
+  "description": "Brotato is a top-down arena shooter roguelite where you play a potato wielding up to 6 weapons at a time to fight off hordes of aliens. Choose from a variety of traits and items to create unique builds and survive until help arrives.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2c5525406ea34caebf391f1f4c8a44a5/brotato-8c0er.png",
+      "md5": "2c803e7c5289ff60815c5a0fade37d34",
+      "width": 2560,
+      "height": 1440,
+      "size": 2117762,
+      "uploadedDate": "2024-10-09T22:05:54.096Z",
+      "alt": "Brotato Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2c5525406ea34caebf391f1f4c8a44a5/brotato-1q96s.png",
+      "md5": "00245ddd02d40475afa78e9b65c344ce",
+      "width": 1200,
+      "height": 1600,
+      "size": 1334239,
+      "uploadedDate": "2024-10-21T17:03:35.008Z",
+      "alt": "Download Brotato Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3b391953ce4b42bb9a28a2fee249154b",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-25T09:00:52.519Z",
+  "lastModifiedDate": "2024-10-25T09:00:52.823Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Brotato/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Brotato"
+    }
+  },
+  "entitlementName": "518490da62794d0a8f3695cbe2fcf0a6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "781879b1718e44be9ce20647202b52a4",
+      "appId": "e8bbb84be35640cda646233152ff3428",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Blobfish Games",
+  "developerId": "o-bgr72ktympm37plu4ubp6uf46chs6m",
+  "endOfSupport": false,
+  "applicationId": "fghi4567uFc3J5LYUGoDTK08IpEq3nxH",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
