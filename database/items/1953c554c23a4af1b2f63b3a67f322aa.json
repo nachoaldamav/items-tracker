@@ -35,8 +35,8 @@
   ],
   "namespace": "b79cdb6e07ea4ce9a82c00a0fb079ca5",
   "status": "ACTIVE",
-  "creationDate": "2020-03-04T07:17:41.808Z",
-  "lastModifiedDate": "2023-03-02T08:20:54.525Z",
+  "creationDate": "2024-04-03T22:24:31.251Z",
+  "lastModifiedDate": "2024-10-24T18:50:18.875Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -76,13 +76,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "9f8f5ec791a64ee7b870e7616929e3b9",
+      "id": "f6bc9c2255c24c369ec230bf56a45e7c",
       "appId": "c98c4cd6d83a4524b4b22f13af95a104",
       "platform": [
-        "Windows",
-        "Mac"
-      ],
-      "dateAdded": "2020-04-30T00:00:00.000Z"
+        "Mac",
+        "Windows"
+      ]
     }
   ],
   "developer": "Turning Wheel LLC",
