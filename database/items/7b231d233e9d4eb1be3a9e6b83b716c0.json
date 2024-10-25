@@ -1,0 +1,76 @@
+{
+  "id": "7b231d233e9d4eb1be3a9e6b83b716c0",
+  "title": "Slay the Princess",
+  "description": "Slay the Princess",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b8713549322d4fa389e84ce441459389/slay-the-princess--the-pristine-cut-13z6z.jpg",
+      "md5": "43f0114da1fd948b8526377f2aa2bb9a",
+      "width": 2560,
+      "height": 1440,
+      "size": 1030799,
+      "uploadedDate": "2024-10-20T14:52:43.451Z",
+      "alt": "Slay the Princess - The Pristine Cut Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b8713549322d4fa389e84ce441459389/slay-the-princess--the-pristine-cut-1nwxa.jpg",
+      "md5": "f2614d3f7bde740b3d4881d357a1a360",
+      "width": 1200,
+      "height": 1600,
+      "size": 617518,
+      "uploadedDate": "2024-10-20T16:13:52.899Z",
+      "alt": "Download Slay the Princess - The Pristine Cut Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fd8569a6319b47ecbbc3a053de433350",
+  "status": "ACTIVE",
+  "creationDate": "2024-01-26T21:28:03.237Z",
+  "lastModifiedDate": "2024-10-25T03:08:50.038Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/~/Library RenPy/SlayThePrincess/game/saves/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/game/saves/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SlayThePrincess"
+    }
+  },
+  "entitlementName": "7b231d233e9d4eb1be3a9e6b83b716c0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a5c3baecaf6043a481f90cc5ae440236",
+      "appId": "e1d95766d6e14a5db70ba701bc5ac720",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "BLACK TABBY GAMES, INC",
+  "developerId": "o-qqwq2jfkcblxmzpctnt4qherg55d5c",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
