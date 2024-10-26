@@ -35,7 +35,7 @@
   "namespace": "ab72c57fc8ba452eaf3575d1c0f4792b",
   "status": "ACTIVE",
   "creationDate": "2023-03-09T16:50:16.069Z",
-  "lastModifiedDate": "2023-12-14T20:28:08.858Z",
+  "lastModifiedDate": "2024-10-26T13:28:09.449Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "ad1a744a97e54ad39aff74d7b055c36b",
+      "id": "2f2f4c92a995458c809e992d6c29aff9",
       "appId": "00a8d8287427418385605937fa9e9ede",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Venalith",
