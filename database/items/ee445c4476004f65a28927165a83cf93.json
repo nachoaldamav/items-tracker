@@ -1,0 +1,63 @@
+{
+  "id": "ee445c4476004f65a28927165a83cf93",
+  "title": "Guess the Flag!",
+  "description": "Guess the Flag!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8652ef933550412ab4e1740092ffc584/guess-the-flag-1pj65.jpg",
+      "md5": "6da2e0835c34905a538218837cb987ca",
+      "width": 2560,
+      "height": 1440,
+      "size": 136645,
+      "uploadedDate": "2024-10-21T18:06:44.298Z",
+      "alt": "Guess the Flag! Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8652ef933550412ab4e1740092ffc584/guess-the-flag-15mik.jpg",
+      "md5": "b1d278cd5783528d0a11c535fe26d3bd",
+      "width": 1200,
+      "height": 1600,
+      "size": 88499,
+      "uploadedDate": "2024-10-21T18:06:43.966Z",
+      "alt": "Download Guess the Flag! Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f2417cb97f064787bfc9a4bea4c6d3a2",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-26T23:43:32.641Z",
+  "lastModifiedDate": "2024-10-26T23:43:32.641Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "GuesstheFlagmX3Wn"
+    }
+  },
+  "entitlementName": "ee445c4476004f65a28927165a83cf93",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ec61555daca3490795d41425a280865b",
+      "appId": "1982d8ca2338456ba59387ad3ee53cf4",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Source Byte Sp. z o.o.",
+  "developerId": "o-yfgydcathkyuxndflrnxmaxudylwbj",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
