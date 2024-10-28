@@ -34,8 +34,8 @@
   ],
   "namespace": "1efdb71c3b294c9fbc54bfd801e5f053",
   "status": "ACTIVE",
-  "creationDate": "2023-09-08T06:19:04.924Z",
-  "lastModifiedDate": "2023-09-08T06:19:04.924Z",
+  "creationDate": "2023-07-18T08:26:44.776Z",
+  "lastModifiedDate": "2024-10-28T14:55:41.023Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,15 +47,18 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "67e1bd15e35241d99642f3786f0349aa",
+      "id": "08e0ecb91c4f498289d6f10d0ed539c6",
       "appId": "393827164df847cb9e3242649150c690",
-      "platform": []
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
     }
   ],
   "developer": "Mars4",
   "developerId": "o-g4pgvguecf7kzzdnj7gpeeuz3b45et",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567dOmYmxKOnPFFF52boRstTrxT",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
