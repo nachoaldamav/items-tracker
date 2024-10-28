@@ -34,8 +34,8 @@
   ],
   "namespace": "864151ebfd544c4fb3f1de25e361713f",
   "status": "ACTIVE",
-  "creationDate": "2024-09-05T13:26:59.538Z",
-  "lastModifiedDate": "2024-09-05T13:26:59.538Z",
+  "creationDate": "2024-06-06T15:11:22.324Z",
+  "lastModifiedDate": "2024-10-28T18:19:47.778Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "a45906d6421d49878ea482002da30c3d",
+      "id": "0aca2957da894b6dad3485dd5462f9a3",
       "appId": "200726bcfef74c1eb8a25761088b4a09",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Unreliable Narrators",

@@ -1,0 +1,62 @@
+{
+  "id": "bbf1d5aa48394b70ad2bcfcd4738a221",
+  "title": "QuackSquad",
+  "description": "QuackSquad",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/083e4ff81727420291a43a63db1a3552/quacksquad-1yvoy.png",
+      "md5": "59b14662b3276be8b0d7e92f0f7918e9",
+      "width": 2560,
+      "height": 1440,
+      "size": 736979,
+      "uploadedDate": "2024-10-27T06:27:04.078Z",
+      "alt": "QuackSquad Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/083e4ff81727420291a43a63db1a3552/quacksquad-nw1f5.png",
+      "md5": "79cb3e068bcd23d42169f7a33b430cf3",
+      "width": 1200,
+      "height": 1600,
+      "size": 402437,
+      "uploadedDate": "2024-10-27T06:27:07.558Z",
+      "alt": "Download QuackSquad Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ca886a91d43548ef944708b053207d08",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-28T17:23:46.585Z",
+  "lastModifiedDate": "2024-10-28T17:23:46.585Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "QuackSquadjrdHq"
+    }
+  },
+  "entitlementName": "bbf1d5aa48394b70ad2bcfcd4738a221",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "09ccbe3eeee8473ca14e1cd719dc029a",
+      "appId": "fbcbdf8a3516441f98a68ccdae9e4fa1",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "BoxCutter GameDev Studio",
+  "developerId": "o-r5kcaalraf9tqbf3x67hs5xzqdjgdd",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
