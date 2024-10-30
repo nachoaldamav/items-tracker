@@ -1,0 +1,63 @@
+{
+  "id": "b8333397edb4416fa165aa7681d96758",
+  "title": "Paradise Game",
+  "description": "Paradise Game",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/01ee36bca404490caf2487c363c0cc3e/paradise-6il1g.jpg",
+      "md5": "53966d0ff19cfbf3d3eb4dcee660a6aa",
+      "width": 2560,
+      "height": 1440,
+      "size": 623309,
+      "uploadedDate": "2024-10-05T05:56:21.224Z",
+      "alt": "Paradise Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/01ee36bca404490caf2487c363c0cc3e/paradise-hzcvw.jpg",
+      "md5": "962151b48942e6aa590c46bc42263017",
+      "width": 1200,
+      "height": 1600,
+      "size": 282088,
+      "uploadedDate": "2024-10-05T05:56:23.488Z",
+      "alt": "Download Paradise Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "10a90ee367c149718b37b557eb834913",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-29T20:15:27.484Z",
+  "lastModifiedDate": "2024-10-29T20:15:27.484Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "paradiseTHRsz"
+    }
+  },
+  "entitlementName": "b8333397edb4416fa165aa7681d96758",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "928969be3c3f4f9e8cafd8ec95acf316",
+      "appId": "b6878143487e4d90abf4b0a478c5bae9",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Ultra Games",
+  "developerId": "o-nkjudd35bc4n83pwvglarj6w9z74s2",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
