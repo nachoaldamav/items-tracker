@@ -35,7 +35,7 @@
   "namespace": "d683ed3004f1479abdf2fc4bcfdc615d",
   "status": "ACTIVE",
   "creationDate": "2023-03-09T20:38:39.614Z",
-  "lastModifiedDate": "2024-05-20T07:40:29.944Z",
+  "lastModifiedDate": "2024-10-30T17:57:24.853Z",
   "customAttributes": {
     "CloudSaveFolder_MAC": {
       "type": "STRING",
@@ -47,7 +47,7 @@
     },
     "CloudIncludeList": {
       "type": "STRING",
-      "value": "*.backup, *.p1sv, *.p1hs, *.p1rp"
+      "value": "*.backup, *.p1sv, *.p1rp"
     },
     "MaxSizeMB": {
       "type": "STRING",
@@ -63,12 +63,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "cf338719e581466fa862d9d0458c0c92",
+      "id": "0ece39722f5f4b9ab466cb87680d1b73",
       "appId": "6aaa7548a4b04c11aa46047e1b9d5a24",
       "platform": [
-        "Mac",
         "Win32",
-        "Windows"
+        "Windows",
+        "Mac"
       ]
     }
   ],

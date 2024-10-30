@@ -35,7 +35,7 @@
   "namespace": "efc6a5a040ca469ba0bbc8c9cd4d7708",
   "status": "ACTIVE",
   "creationDate": "2024-10-01T12:13:35.334Z",
-  "lastModifiedDate": "2024-10-01T12:13:35.334Z",
+  "lastModifiedDate": "2024-10-30T10:51:42.430Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,6 +49,7 @@
     {
       "id": "8c92462ee30d4ae8ae0196b106cbf516",
       "appId": "a4f44cc582f0409999312cc8b4284eb7",
+      "compatibleApps": [],
       "platform": [
         "Windows"
       ]
@@ -56,7 +57,9 @@
   ],
   "developer": "Outright Games Ltd",
   "developerId": "o-pu7dpghwrh7267c9e8t7uxant62yvn",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
