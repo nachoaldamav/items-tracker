@@ -1,0 +1,63 @@
+{
+  "id": "550aa573e51940d990ad05a33139c908",
+  "title": "SuperB",
+  "description": "SuperB is a free-to-play massively multiplayer game with stylish AAA 3D graphics. 12+ game modes are ready to play with future plans to add new modes regularly.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/78c833de54cf4a549777da21fed0f9fc/superb-9nufo.jpg",
+      "md5": "afa081404f28003c6dd86a985ef995fc",
+      "width": 2560,
+      "height": 1440,
+      "size": 2490715,
+      "uploadedDate": "2024-10-04T11:54:28.042Z",
+      "alt": "SuperB Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/78c833de54cf4a549777da21fed0f9fc/superb-s55dn.png",
+      "md5": "44fa92b407240a27bcf67eb234817292",
+      "width": 1200,
+      "height": 1600,
+      "size": 2454301,
+      "uploadedDate": "2024-10-04T11:54:29.245Z",
+      "alt": "Download SuperB Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8af08e4aac124a88a4967d4444fd1a89",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-30T01:13:38.667Z",
+  "lastModifiedDate": "2024-10-30T01:13:38.667Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SuperBdhebR"
+    }
+  },
+  "entitlementName": "550aa573e51940d990ad05a33139c908",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2c20b73351c141549a51802ba038dba9",
+      "appId": "ac29cfe9f17c47f1b43360ac12a51eab",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Nimblebites",
+  "developerId": "o-8tt8ahy2ycfgjnyfpdm4eypcb6d5yx",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
