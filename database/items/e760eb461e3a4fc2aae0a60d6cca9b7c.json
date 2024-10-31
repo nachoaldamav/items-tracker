@@ -16,7 +16,7 @@
   "namespace": "2744acda6a2e493e9894b389b6564df7",
   "status": "ACTIVE",
   "creationDate": "2019-06-13T17:18:24.339Z",
-  "lastModifiedDate": "2024-04-18T16:20:55.296Z",
+  "lastModifiedDate": "2024-10-31T11:56:23.154Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -29,6 +29,10 @@
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{UserDir}/My Games/SnowRunner/base/storage/{EpicID}/"
+    },
+    "NotarizedAndSigned": {
+      "type": "STRING",
+      "value": "true"
     },
     "MaxSizeMB": {
       "type": "STRING",

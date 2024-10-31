@@ -37,7 +37,7 @@
   "namespace": "2744acda6a2e493e9894b389b6564df7",
   "status": "ACTIVE",
   "creationDate": "2020-03-24T15:15:32.898Z",
-  "lastModifiedDate": "2024-04-18T16:20:56.139Z",
+  "lastModifiedDate": "2024-10-31T11:57:46.986Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -62,6 +62,10 @@
     "RequirementsJson": {
       "type": "STRING",
       "value": "{}"
+    },
+    "NotarizedAndSigned": {
+      "type": "STRING",
+      "value": "true"
     },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
