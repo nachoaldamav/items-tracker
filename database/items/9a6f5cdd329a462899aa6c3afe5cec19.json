@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/c3dcfa3410064364b55b52d62719e890/knockeddown-1nc10.png",
-      "md5": "bfe6e4a1cb0b90b839fd71f46edd1e24",
+      "url": "https://cdn1.epicgames.com/spt-assets/c3dcfa3410064364b55b52d62719e890/knockeddown-w47eg.png",
+      "md5": "3b391e6bf671493d9ba2325198c01196",
       "width": 2560,
       "height": 1440,
-      "size": 3681094,
-      "uploadedDate": "2024-06-14T16:06:27.232Z",
+      "size": 1849298,
+      "uploadedDate": "2024-10-31T01:34:20.338Z",
       "alt": "KnockedDown Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/c3dcfa3410064364b55b52d62719e890/knockeddown-gn8z4.png",
-      "md5": "7d77a19d6c6850c39e3003f910d4924a",
+      "url": "https://cdn1.epicgames.com/spt-assets/c3dcfa3410064364b55b52d62719e890/knockeddown-1req6.png",
+      "md5": "666c8aabab5e3c76cede9aa61573fb1d",
       "width": 1200,
       "height": 1600,
-      "size": 2189179,
-      "uploadedDate": "2024-06-14T16:06:27.780Z",
+      "size": 1096365,
+      "uploadedDate": "2024-10-31T03:57:37.383Z",
       "alt": "Download KnockedDown Offer"
     }
   ],
@@ -35,8 +35,12 @@
   "namespace": "7554c88a6af74e93bd19c4ecd540a62f",
   "status": "ACTIVE",
   "creationDate": "2023-03-23T17:14:25.442Z",
-  "lastModifiedDate": "2024-07-14T15:19:32.812Z",
+  "lastModifiedDate": "2024-10-31T13:27:11.109Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/KnockedDown/Saved\\SaveGames/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "KnockedDown"
@@ -47,7 +51,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "8c4315bd0c954d6994ccc0216e3ce494",
+      "id": "38f69cd92c254111860d168864caa53c",
       "appId": "d77797ca1d3540c292350854ec29915f",
       "platform": []
     }
@@ -55,7 +59,7 @@
   "developer": "KarbonCloud",
   "developerId": "o-4t3npxd85vjej89wj4bcpxcycn2ayt",
   "endOfSupport": false,
-  "applicationId": "fghi4567TOu3U4fppTXrRub5gtqtHNlk",
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }

@@ -1,0 +1,63 @@
+{
+  "id": "b6d45a8e532045b8a9478eb5d5e3f8de",
+  "title": "KnockedDown Demo",
+  "description": "KnockedDown Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c3dcfa3410064364b55b52d62719e890/knockeddown-1ogpc.png",
+      "md5": "3b391e6bf671493d9ba2325198c01196",
+      "width": 2560,
+      "height": 1440,
+      "size": 1849298,
+      "uploadedDate": "2024-10-31T01:36:20.280Z",
+      "alt": "KnockedDown KnockedDown Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c3dcfa3410064364b55b52d62719e890/knockeddown-g5oo5.png",
+      "md5": "666c8aabab5e3c76cede9aa61573fb1d",
+      "width": 1200,
+      "height": 1600,
+      "size": 1096365,
+      "uploadedDate": "2024-10-31T03:57:50.971Z",
+      "alt": "Download KnockedDown KnockedDown Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7554c88a6af74e93bd19c4ecd540a62f",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-31T13:27:11.125Z",
+  "lastModifiedDate": "2024-10-31T13:27:11.125Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "KnockedDownDemo"
+    }
+  },
+  "entitlementName": "b6d45a8e532045b8a9478eb5d5e3f8de",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bdfcf53592ef4ef2a0fb35e18ed24abd",
+      "appId": "5a40ba7182b24acba4074b243c3bb971",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "KarbonCloud",
+  "developerId": "o-4t3npxd85vjej89wj4bcpxcycn2ayt",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
