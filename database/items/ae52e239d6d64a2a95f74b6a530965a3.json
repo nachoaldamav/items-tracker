@@ -1,0 +1,62 @@
+{
+  "id": "ae52e239d6d64a2a95f74b6a530965a3",
+  "title": "Balls Up",
+  "description": "Balls Up",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f9d5e541d1754f09ab08437de3ac972d/balls-up-10klr.jpg",
+      "md5": "123706561b1bcc20dbf789bcb1d6a5d2",
+      "width": 2560,
+      "height": 1440,
+      "size": 1372967,
+      "uploadedDate": "2024-10-27T07:06:16.387Z",
+      "alt": "Balls Up Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f9d5e541d1754f09ab08437de3ac972d/balls-up-bez9l.jpg",
+      "md5": "dbaf6d6c976ac4dff5a2bf4b44364981",
+      "width": 1200,
+      "height": 1600,
+      "size": 1285575,
+      "uploadedDate": "2024-10-27T07:06:20.120Z",
+      "alt": "Download Balls Up Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "13ada988e26f46a48ffa5a73185e822f",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-31T20:11:04.864Z",
+  "lastModifiedDate": "2024-10-31T20:11:04.864Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BallsUpQv6VK"
+    }
+  },
+  "entitlementName": "ae52e239d6d64a2a95f74b6a530965a3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4f573c01e8ce4d7eb8fc76515346b655",
+      "appId": "24d4fb259e8042d8a334b8e7595cfcc0",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "ScarWalkerGames",
+  "developerId": "o-99zebf52ml7pk5y3az4eafw3uyfcc6",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
