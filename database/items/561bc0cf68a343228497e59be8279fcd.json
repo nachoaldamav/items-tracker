@@ -35,11 +35,11 @@
   "namespace": "b45f4ea9d6ca4644a06b5f52ee87930e",
   "status": "ACTIVE",
   "creationDate": "2023-10-05T21:21:10.691Z",
-  "lastModifiedDate": "2024-01-19T12:38:36.713Z",
+  "lastModifiedDate": "2024-11-01T13:00:04.648Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "RealifeSimulatorf6KwK"
+      "value": "RealifeSimulator"
     }
   },
   "entitlementName": "561bc0cf68a343228497e59be8279fcd",
@@ -49,7 +49,9 @@
     {
       "id": "c9225f7aedab4948bb40ddbe03945150",
       "appId": "5e39dc10d7324615aa157917cacdb4ab",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Northenlight Studios",
