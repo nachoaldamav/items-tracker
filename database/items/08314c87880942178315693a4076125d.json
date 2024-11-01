@@ -1,0 +1,62 @@
+{
+  "id": "08314c87880942178315693a4076125d",
+  "title": "Fray Game",
+  "description": "Fray Game",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2f8445a79c0641138f4b3c6ee45b9a83/fray-game-8psf1.png",
+      "md5": "2ffdb4dd997b25f3ade7def55eda70bd",
+      "width": 2560,
+      "height": 1440,
+      "size": 1651651,
+      "uploadedDate": "2024-10-27T18:02:58.818Z",
+      "alt": "Fray Game Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2f8445a79c0641138f4b3c6ee45b9a83/fray-game-d9gry.png",
+      "md5": "f0f3e7aea9f81dd6b97b122bfa2a949d",
+      "width": 1200,
+      "height": 1600,
+      "size": 1032080,
+      "uploadedDate": "2024-10-08T17:32:15.245Z",
+      "alt": "Download Fray Game Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "43c65bad30a34d31b45b28eb6b3498ad",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-31T18:27:02.214Z",
+  "lastModifiedDate": "2024-10-31T18:27:02.214Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "FrayGameXElrZ"
+    }
+  },
+  "entitlementName": "08314c87880942178315693a4076125d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ffe402f69b7740409a521ab3d6fc425b",
+      "appId": "3f8711f286d84d7f870ed295ebcc2ab3",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Candybomber LLC",
+  "developerId": "o-a4wsxc7x7kakmqdrbvqrbmurasl22j",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
