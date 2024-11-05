@@ -41,8 +41,8 @@
   ],
   "namespace": "springbok",
   "status": "ACTIVE",
-  "creationDate": "2018-11-29T23:09:05.969Z",
-  "lastModifiedDate": "2023-09-27T17:33:47.816Z",
+  "creationDate": "2024-10-25T11:06:08.003Z",
+  "lastModifiedDate": "2024-11-05T12:36:20.994Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -74,15 +74,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "4e6bf1550e744239bd7d327a8c420344",
+      "id": "6e7f3a53eb724996b8be6b081f212092",
       "appId": "Springbok",
-      "compatibleApps": [],
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2018-11-29T00:00:00.000Z",
-      "releaseNote": "",
-      "versionTitle": ""
+      ]
     }
   ],
   "developer": "THQ Nordic GmbH",
