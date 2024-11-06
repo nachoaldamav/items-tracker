@@ -1,0 +1,81 @@
+{
+  "id": "34111a0bca7d4fd78d7eef83cd269713",
+  "title": "Gran Saga",
+  "description": "Gran Saga",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d1147ce48e1046bbb84a41081bd7af81/gran-saga-1ywx1.jpg",
+      "md5": "04485097a81f23541976d2c752a0793e",
+      "width": 2560,
+      "height": 1440,
+      "size": 2629781,
+      "uploadedDate": "2024-07-18T05:23:39.107Z",
+      "alt": "Gran Saga Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d1147ce48e1046bbb84a41081bd7af81/gran-saga-158ej.jpg",
+      "md5": "f8ab9636888ecfeb3565c73782d9c7d1",
+      "width": 1200,
+      "height": 1600,
+      "size": 1779260,
+      "uploadedDate": "2024-07-18T05:23:38.663Z",
+      "alt": "Download Gran Saga Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "eecb397c431c4f49a0602fff32e5c6dd",
+  "status": "ACTIVE",
+  "creationDate": "2024-11-06T06:48:09.216Z",
+  "lastModifiedDate": "2024-11-06T06:48:12.617Z",
+  "customAttributes": {
+    "LaunchElevated": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "ProjectR\\Binaries\\Win64\\ProjectR.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "gransaga.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GranSagaoUa1S"
+    },
+    "BackgroundProcessNames": {
+      "type": "STRING",
+      "value": "gransaga.exe"
+    }
+  },
+  "entitlementName": "34111a0bca7d4fd78d7eef83cd269713",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "348af4d2f7874b7bbd1b7721720b5fbf",
+      "appId": "b0ac94ad8d9443ac8d2ed3d2ef398535",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Npixel",
+  "developerId": "o-9hk3hjzzreh7mqtmrlpfefcnt3yb38",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567urpVRBnqqRivePhoMdwFLVnU",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
