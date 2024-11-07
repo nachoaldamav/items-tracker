@@ -1,0 +1,71 @@
+{
+  "id": "62da4c1440ae445093f1d650c3a5cc8c",
+  "title": "Castlevania Anniversary Collection",
+  "description": "Castlevania Anniversary Collection",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-b2t74.jpg",
+      "md5": "5a2a25faa597f1c48d7d6879c985c07b",
+      "width": 2560,
+      "height": 1440,
+      "size": 2622146,
+      "uploadedDate": "2024-06-14T08:28:11.963Z",
+      "alt": "Castlevania Anniversary Collection Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-1opye.png",
+      "md5": "87ac463e55df816ae5e7b6c90284111b",
+      "width": 1200,
+      "height": 1600,
+      "size": 3348361,
+      "uploadedDate": "2024-06-14T08:18:57.418Z",
+      "alt": "Download Castlevania Anniversary Collection Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "247d4d4b4e424afd9b474334fe450a43",
+  "status": "ACTIVE",
+  "creationDate": "2023-09-07T01:05:29.248Z",
+  "lastModifiedDate": "2024-11-05T05:14:57.025Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Konami/CastlevaniaAnniversaryCollection/{EpicID}/SaveData/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CastlevaniaAnniversaXJ2A3"
+    }
+  },
+  "entitlementName": "62da4c1440ae445093f1d650c3a5cc8c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "310609f539c8434fbe024967a89fd68e",
+      "appId": "d1df808b70104992a53512d64fae933c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "KONAMI",
+  "developerId": "o-snd8ledlra6sytkbbve7h5uwuxuytv",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
