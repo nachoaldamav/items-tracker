@@ -1,7 +1,8 @@
 {
-  "id": "5dbeba2159d74a9b9107ca9c806965c9",
-  "title": "yamaneko deluxe Edition audience",
-  "description": "yamaneko deluxe Edition audience",
+  "id": "11efd9bcddd34b5b81874526c1d40a23",
+  "title": "yamaneko Standard Edition Audience",
+  "description": "yamaneko Standard Edition Audience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -12,15 +13,10 @@
   ],
   "namespace": "f13456de6aaf42a890b87c4b8e45aa7a",
   "status": "ACTIVE",
-  "creationDate": "2024-06-19T19:22:37.529Z",
-  "lastModifiedDate": "2024-11-07T20:10:51.958Z",
-  "customAttributes": {
-    "SupportedPlatforms": {
-      "type": "STRING",
-      "value": "Windows"
-    }
-  },
-  "entitlementName": "5dbeba2159d74a9b9107ca9c806965c9",
+  "creationDate": "2024-05-23T23:59:20.107Z",
+  "lastModifiedDate": "2024-11-07T20:10:51.884Z",
+  "customAttributes": {},
+  "entitlementName": "11efd9bcddd34b5b81874526c1d40a23",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
