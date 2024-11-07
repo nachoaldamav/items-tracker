@@ -35,7 +35,7 @@
   "namespace": "97888142acb544ce998f1d145eb27255",
   "status": "ACTIVE",
   "creationDate": "2023-03-27T16:44:06.734Z",
-  "lastModifiedDate": "2023-12-31T14:10:49.370Z",
+  "lastModifiedDate": "2024-11-07T14:55:17.135Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "74f50fbb5769460ca3653f4ba59d29fd",
       "appId": "9220c4aec9ac42a3889ee529358af830",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "SimFabric S.A.",
