@@ -35,7 +35,7 @@
   "namespace": "dbf8527457224720bf19ed5143b8673e",
   "status": "ACTIVE",
   "creationDate": "2024-06-12T13:26:29.462Z",
-  "lastModifiedDate": "2024-10-29T13:46:44.913Z",
+  "lastModifiedDate": "2024-11-08T14:07:09.548Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -53,7 +53,9 @@
     {
       "id": "5dcc9bb9da12488c8d31240656e330b3",
       "appId": "b78ce768f64b496b9dffa631c5b248bc",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "KCI Soft Works",
