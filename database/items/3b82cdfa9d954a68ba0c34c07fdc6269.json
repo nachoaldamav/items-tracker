@@ -32,7 +32,7 @@
   "namespace": "4bd54a4fed074c488e0bb7428f29d2f4",
   "status": "ACTIVE",
   "creationDate": "2024-02-23T08:37:22.057Z",
-  "lastModifiedDate": "2024-09-05T12:58:44.883Z",
+  "lastModifiedDate": "2024-11-09T14:11:49.528Z",
   "customAttributes": {},
   "entitlementName": "3b82cdfa9d954a68ba0c34c07fdc6269",
   "entitlementType": "EXECUTABLE",
@@ -41,7 +41,9 @@
     {
       "id": "5693e2cad7e945febf9b2e84f009affb",
       "appId": "c25e7073ba394d19a77a7273202fc2a3",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "KUBI Games",
