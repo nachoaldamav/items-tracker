@@ -34,8 +34,8 @@
   ],
   "namespace": "c72f755f02204435a4ad38a451805260",
   "status": "ACTIVE",
-  "creationDate": "2024-03-18T13:41:20.676Z",
-  "lastModifiedDate": "2024-03-18T13:41:20.676Z",
+  "creationDate": "2023-03-10T12:11:09.023Z",
+  "lastModifiedDate": "2024-11-10T23:20:28.441Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -51,9 +51,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "fcfda220539a4a8d9a931dbea1f5b099",
+      "id": "0a7df8e6ba3544eeb1a2dba775a1c13b",
       "appId": "3e596ac498bc419194a8cfb26ff2d36a",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "World of Poly",
