@@ -35,7 +35,7 @@
   "namespace": "c75abc5bf2f54b24ac7bd7aa9628c007",
   "status": "ACTIVE",
   "creationDate": "2022-09-19T09:44:22.513Z",
-  "lastModifiedDate": "2023-10-03T09:56:48.012Z",
+  "lastModifiedDate": "2024-11-12T14:16:45.239Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "e5b83aad642e47e18175690bf62593ae",
+      "id": "736edcf6146e4b73a26e88e1f3e35a1b",
       "appId": "bd2f1f9be348475fb596608ba95ed152",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Fulqrum Publishing Ltd.",
