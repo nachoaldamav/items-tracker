@@ -1,0 +1,67 @@
+{
+  "id": "ada1dbe6d6d64aebb788713ec8d709c0",
+  "title": "Guild Wars 2®",
+  "description": "Guild Wars 2 is an award-winning online roleplaying game with fast-paced action combat, deep character customization, and no sub fee. Choose from an arsenal of professions and weapons, explore a vast open world, compete in PVP modes, and more. Join over 18 million players!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/640911e239bb4a259687db1dd1d140c5/guild-wars-2-12h5o.jpg",
+      "md5": "2dd16f446a6dc6d3a774d9ce7ced6ef7",
+      "width": 2560,
+      "height": 1440,
+      "size": 588871,
+      "uploadedDate": "2024-08-13T21:21:48.414Z",
+      "alt": "Guild Wars 2 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/640911e239bb4a259687db1dd1d140c5/guild-wars-2-tnxk2.jpg",
+      "md5": "c2115f7214d1f400bccbaca6ea951e95",
+      "width": 1200,
+      "height": 1600,
+      "size": 305411,
+      "uploadedDate": "2024-08-13T21:21:48.105Z",
+      "alt": "Download Guild Wars 2 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "10cab3b738244873bacb8ec7cef8128c",
+  "status": "ACTIVE",
+  "creationDate": "2024-11-12T17:00:28.857Z",
+  "lastModifiedDate": "2024-11-12T17:00:29.393Z",
+  "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "TRUE"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GuildWars2"
+    }
+  },
+  "entitlementName": "ada1dbe6d6d64aebb788713ec8d709c0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7f80445625884927a8f19fcfc0f2e04f",
+      "appId": "8d87562b481d44dd938c6a34a87d7355",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "ArenaNet",
+  "developerId": "o-3ubbgnmgsc2hhajlhe8wpevmlm4mke",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
