@@ -34,8 +34,8 @@
   ],
   "namespace": "b54c9aa442944825966a8d5987933238",
   "status": "ACTIVE",
-  "creationDate": "2024-10-06T01:54:25.914Z",
-  "lastModifiedDate": "2024-10-06T01:54:25.914Z",
+  "creationDate": "2024-07-09T09:39:27.136Z",
+  "lastModifiedDate": "2024-11-12T00:08:30.172Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -55,9 +55,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "824935ff761d4148b0211db91abcc489",
+      "id": "656ceab1bffe4da5bb91df5e6e7ca494",
       "appId": "09c663e569354a2c9a70bea5145501b8",
-      "platform": []
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Impromptu Games Pty Ltd",
