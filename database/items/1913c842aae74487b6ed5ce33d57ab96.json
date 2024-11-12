@@ -35,7 +35,7 @@
   "namespace": "d19746cad26549e69d42a019a4db4592",
   "status": "ACTIVE",
   "creationDate": "2024-10-14T09:14:53.662Z",
-  "lastModifiedDate": "2024-11-11T14:02:01.896Z",
+  "lastModifiedDate": "2024-11-11T19:47:37.970Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "7858b570-fe7f-4ad8-a8e8-7cd15b0cf5ba",
       "appId": "51919030caae4859985d9a6c2f36c01a",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Spillutvikler Maehle - Hellfire33",
