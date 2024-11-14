@@ -1,0 +1,26 @@
+{
+  "id": "439d30f381504edb9c973368f48842ca",
+  "title": "Test IAP_ConsumableAudience",
+  "description": "Test IAP_ConsumableAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "64ece5ee89d84cb99ddd8929fa957a30",
+  "status": "ACTIVE",
+  "creationDate": "2024-11-14T02:31:46.359Z",
+  "lastModifiedDate": "2024-11-14T02:31:46.359Z",
+  "entitlementName": "439d30f381504edb9c973368f48842ca",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "AtherLabs Inc.",
+  "developerId": "o-7pp5fn7fbfapjk95m8whwjw89rrxfh",
+  "useCount": 1,
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
