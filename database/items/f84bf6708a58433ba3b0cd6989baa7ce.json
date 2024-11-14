@@ -1,0 +1,64 @@
+{
+  "id": "f84bf6708a58433ba3b0cd6989baa7ce",
+  "title": "What's Up There",
+  "description": "What's Up There",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c020f6198abb4dcbb07c5acff6e19c21/whats-up-there-lardu.png",
+      "md5": "23b083ef309e77dd0b61c9ca86117bbe",
+      "width": 2560,
+      "height": 1440,
+      "size": 2413807,
+      "uploadedDate": "2024-11-13T03:10:15.466Z",
+      "alt": "What's Up There Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c020f6198abb4dcbb07c5acff6e19c21/whats-up-there-11z0i.png",
+      "md5": "7bcb347704ac12a568f13ad090ba3515",
+      "width": 1200,
+      "height": 1600,
+      "size": 1210470,
+      "uploadedDate": "2024-11-13T18:49:45.066Z",
+      "alt": "Download What's Up There Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "684f95f4a793464ab1d8408d296a4512",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-28T04:06:36.239Z",
+  "lastModifiedDate": "2024-11-13T20:48:32.765Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "WhatsUpThere"
+    }
+  },
+  "entitlementName": "f84bf6708a58433ba3b0cd6989baa7ce",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7e226616222b46acb225dcff06d5e1d6",
+      "appId": "2aa0298d87c84c298aa17940e2ce4a04",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Ratan Production",
+  "developerId": "o-jx6mra6qjgtmhyfzgjb933g8lupm4q",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
