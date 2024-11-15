@@ -35,11 +35,11 @@
   "namespace": "b82dbb8acfba45c1a8c46eb90264889a",
   "status": "ACTIVE",
   "creationDate": "2024-10-02T13:50:23.101Z",
-  "lastModifiedDate": "2024-10-11T15:21:19.018Z",
+  "lastModifiedDate": "2024-11-14T14:49:29.709Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "DigitalLittleBigAdve45341"
+      "value": "DigitalArtbook"
     }
   },
   "entitlementName": "99b13120377c4b20bc4b82022e05aebd",
@@ -49,12 +49,15 @@
     {
       "id": "a9804b3d-06ce-4ff0-9fe9-0e399cbb95d1",
       "appId": "f08a725ca1d9447ea82c47321ae2a468",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Microids",
   "developerId": "o-lyvtyhgthgebq7jdg4wu6km9lyjp2h",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
