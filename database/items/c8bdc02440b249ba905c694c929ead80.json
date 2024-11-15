@@ -1,0 +1,63 @@
+{
+  "id": "c8bdc02440b249ba905c694c929ead80",
+  "title": "Pet Kawaii Shop",
+  "description": "Pet Kawaii Shop",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e38d80a625654788acf8f84f388d9bc0/pet-kawaii-shop-1fjme.jpg",
+      "md5": "b6648a3522f3ab6f5136c1a4e0c662ae",
+      "width": 2560,
+      "height": 1440,
+      "size": 2121385,
+      "uploadedDate": "2024-11-13T06:30:51.975Z",
+      "alt": "Pet Kawaii Shop Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e38d80a625654788acf8f84f388d9bc0/pet-kawaii-shop-6o0tl.jpg",
+      "md5": "b310140ff832d45f59d990f7b47d2ea7",
+      "width": 1200,
+      "height": 1600,
+      "size": 1208758,
+      "uploadedDate": "2024-11-13T06:30:52.702Z",
+      "alt": "Download Pet Kawaii Shop Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7e500e63a68a464cbbbb8bf14af5be0a",
+  "status": "ACTIVE",
+  "creationDate": "2024-11-13T16:00:38.003Z",
+  "lastModifiedDate": "2024-11-13T16:00:38.003Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "PetKawaiiShop6xyRv"
+    }
+  },
+  "entitlementName": "c8bdc02440b249ba905c694c929ead80",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "664598f422d44e1dbb39a4fa9f862c52",
+      "appId": "44aaabe82fbb458e9573034d4d55f277",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "IndieGames300",
+  "developerId": "o-dev82j3uxjfhasmgtzw7l4nd8ztcqp",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
