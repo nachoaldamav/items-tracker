@@ -1,0 +1,75 @@
+{
+  "id": "c859049c573348268b52ccd028a57c81",
+  "title": "2025 -TOBI-",
+  "description": "The second in Kibodo's classic game series.\nIt is a vertical scrolling shooting game!\n\nControls are left and right movement only.\nThe game is over when the fighter runs out of bullets.\nGet items to replenish bullets and destroy the enemies in front of you!\n\nAim for a high score!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/21fa77c1a3554cbab8a680c4eca0f796/2025-tobi-1ctd8.png",
+      "md5": "3764107d7cf4fdefc36989c1f9052762",
+      "width": 2560,
+      "height": 1440,
+      "size": 3772960,
+      "uploadedDate": "2024-11-09T02:40:54.367Z",
+      "alt": "2025 -TOBI- Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/21fa77c1a3554cbab8a680c4eca0f796/2025-tobi-wzh7f.png",
+      "md5": "b2aa916bc26acf90e4752f7a976ea27e",
+      "width": 1200,
+      "height": 1600,
+      "size": 1988339,
+      "uploadedDate": "2024-11-09T02:40:44.513Z",
+      "alt": "Download 2025 -TOBI- Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ef433f511cc345c28ecf77cb0d053fc6",
+  "status": "ACTIVE",
+  "creationDate": "2024-11-20T03:24:23.005Z",
+  "lastModifiedDate": "2024-11-20T03:24:23.005Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/KIBODO/TOBI/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "sysdata01.dat,play_data01.dat,game_installationid.dat"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "3"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TOBI"
+    }
+  },
+  "entitlementName": "c859049c573348268b52ccd028a57c81",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "97fe119885b84dcaaa7612205d5ee5d6",
+      "appId": "467c696172164a8c9de1c8db83128252",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "KIBODO",
+  "developerId": "o-3hctp33gqzaafwmcelqgmm9744ehqc",
+  "endOfSupport": false,
+  "applicationId": "fghi4567eL9sETmCcnvTP6w4GnJI7TwI",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
