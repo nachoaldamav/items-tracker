@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/184ac184bcba45c585fffaed03337844/eve-online-qd6nv.jpg",
-      "md5": "c28bb1ca4a1f8c13759b68ee34b6a03a",
+      "url": "https://cdn1.epicgames.com/spt-assets/184ac184bcba45c585fffaed03337844/eve-online-13v3u.jpg",
+      "md5": "71ecc8ee5e2a2e910b8f11299cfb67a4",
       "width": 2560,
       "height": 1440,
-      "size": 2856202,
-      "uploadedDate": "2024-06-06T12:23:24.126Z",
+      "size": 1207505,
+      "uploadedDate": "2024-11-19T16:02:11.884Z",
       "alt": "EVE Online Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/184ac184bcba45c585fffaed03337844/eve-online-1whna.png",
-      "md5": "9f808aa0140f3624f3a9f16572958666",
+      "url": "https://cdn1.epicgames.com/spt-assets/184ac184bcba45c585fffaed03337844/eve-online-vxwd1.jpg",
+      "md5": "1d13148470f0f27ef5751aa9190786e0",
       "width": 1200,
       "height": 1600,
-      "size": 3061670,
-      "uploadedDate": "2024-06-06T12:21:30.840Z",
+      "size": 728475,
+      "uploadedDate": "2024-11-19T16:02:16.413Z",
       "alt": "Download EVE Online Offer"
     }
   ],
@@ -35,7 +35,7 @@
   "namespace": "de554cff12704db4a900032bbd194d7e",
   "status": "ACTIVE",
   "creationDate": "2024-03-31T19:37:47.647Z",
-  "lastModifiedDate": "2024-06-11T20:18:14.335Z",
+  "lastModifiedDate": "2024-11-20T10:44:41.941Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -71,11 +71,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "de5db568751e42e9a72c96265a24f5c3",
+      "id": "087b2c4c9bde4c2fa62d5977e7379789",
       "appId": "ab4fa312826b49c0b49a230bc4f5b415",
       "platform": [
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ]
     }
   ],
