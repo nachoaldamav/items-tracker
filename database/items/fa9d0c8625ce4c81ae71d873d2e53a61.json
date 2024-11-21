@@ -1,0 +1,97 @@
+{
+  "id": "fa9d0c8625ce4c81ae71d873d2e53a61",
+  "title": "Strinova",
+  "description": "Strinova is an anime-style third-person tactical competitive shooter. Switch freely between three-dimensional and two-dimensional forms in this one-of-a-kind game that offers a unique tactical shooting system for an unparalleled experience.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/eeb9066a3c254e3a8602a8df3a8821d9/strinova-122um.jpg",
+      "md5": "d4a21f082e2ed6540d6cdc49ad315486",
+      "width": 2560,
+      "height": 1440,
+      "size": 1355544,
+      "uploadedDate": "2024-11-18T14:39:09.931Z",
+      "alt": "Strinova Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/eeb9066a3c254e3a8602a8df3a8821d9/strinova-157b9.jpg",
+      "md5": "76a093ed5feadfb3ebb66dab84f7710e",
+      "width": 1200,
+      "height": 1600,
+      "size": 739807,
+      "uploadedDate": "2024-11-18T14:39:10.194Z",
+      "alt": "Download Strinova Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "96208653faa54c2ba5fd56fd5ed1e00f",
+  "status": "ACTIVE",
+  "creationDate": "2024-11-21T01:33:35.321Z",
+  "lastModifiedDate": "2024-11-21T01:33:36.069Z",
+  "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "TRUE"
+    },
+    "LaunchElevated": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "SkipAutoInstallDlc": {
+      "type": "STRING",
+      "value": "TRUE"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "Epic Games\\Strinova\\Strinova\\Strinova.exe"
+    },
+    "NotarizedAndSigned": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "Epic Games\\Strinova\\Strinova\\Strinova.exe"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Strinova"
+    },
+    "BackgroundProcessNames": {
+      "type": "STRING",
+      "value": "Epic Games\\Strinova\\launcher\\Strinova.exe"
+    }
+  },
+  "entitlementName": "fa9d0c8625ce4c81ae71d873d2e53a61",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7e716214d7e5405f95cbc651c2bd6936",
+      "appId": "e3b9424b656842aeb90305b588ee9e99",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Shenzhen iDreamSky Technology Co., Ltd",
+  "developerId": "o-ykl6jt7njee4544gafr7lnwfvjay5x",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567ONV8pohdpFOiwS0vMYaCZzG8",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
