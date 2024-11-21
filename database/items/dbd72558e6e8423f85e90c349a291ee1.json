@@ -1,0 +1,71 @@
+{
+  "id": "dbd72558e6e8423f85e90c349a291ee1",
+  "title": "Astro Looter: Survivor",
+  "description": "Explore alien planets to mine resources, kill alien insects, build defense turrets, and survive waves of insect attacks across the galactic frontier. Astro Looter combines elements of survival, roguelike, and tower defense in a top-down shooter.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6278f7cf50a045e892c228ecedca0a22/astro-looter-survivor-o1qku.png",
+      "md5": "6db71e3eac19ed9ddf08c41e79bd032c",
+      "width": 2560,
+      "height": 1440,
+      "size": 920411,
+      "uploadedDate": "2024-11-16T12:10:52.776Z",
+      "alt": "Astro Looter: Survivor Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6278f7cf50a045e892c228ecedca0a22/astro-looter-survivor-1vh4r.png",
+      "md5": "b3e9aa50c8e188f29efc4672543c87be",
+      "width": 1200,
+      "height": 1600,
+      "size": 468170,
+      "uploadedDate": "2024-11-16T12:10:54.365Z",
+      "alt": "Download Astro Looter: Survivor Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a03127bf9c774481ba28607816e31bdb",
+  "status": "ACTIVE",
+  "creationDate": "2024-11-21T03:48:39.775Z",
+  "lastModifiedDate": "2024-11-21T03:48:39.775Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/TopDownGame/Saved\\SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AstroLooterSurvivor"
+    }
+  },
+  "entitlementName": "dbd72558e6e8423f85e90c349a291ee1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6e807bd20a8e424b9087d4ca1138caa5",
+      "appId": "81fd82538b0545e98a170f59cc23314b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SODA GAME STUDIO",
+  "developerId": "o-6wsbcmwju24qzwa9clmdaw7ex28k84",
+  "endOfSupport": false,
+  "applicationId": "fghi4567vzIYNpaneKFgimh3vbrmOquz",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
