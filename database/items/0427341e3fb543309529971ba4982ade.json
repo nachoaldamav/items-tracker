@@ -35,7 +35,7 @@
   "namespace": "56584c5aaba5428582d56e561d0a81f4",
   "status": "ACTIVE",
   "creationDate": "2024-10-19T03:58:08.912Z",
-  "lastModifiedDate": "2024-10-24T13:53:36.083Z",
+  "lastModifiedDate": "2024-11-21T14:17:19.466Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "5cd9c28c-5890-450b-aad7-52a0ca1ac0a9",
       "appId": "d55bbdaeb2f34d16baa6f76c38159f6f",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Right Trigger Entertainment, inc",
