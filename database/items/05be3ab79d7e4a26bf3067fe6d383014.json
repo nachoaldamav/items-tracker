@@ -35,7 +35,7 @@
   "namespace": "9de65f6db18c4757a84e639d9a3e5a97",
   "status": "ACTIVE",
   "creationDate": "2023-03-09T14:43:33.996Z",
-  "lastModifiedDate": "2024-06-13T19:10:23.549Z",
+  "lastModifiedDate": "2024-11-25T16:36:24.489Z",
   "customAttributes": {
     "CloudSaveFolder_MAC": {
       "type": "STRING",
@@ -55,12 +55,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "a9dcb223ea0b49b4b157284e1cd4f922",
+      "id": "724900ee8d084c0a8392a0c198b77fda",
       "appId": "70d5a4a177d143349a88bac3fbc67464",
       "platform": [
-        "Mac",
         "Win32",
-        "Windows"
+        "Windows",
+        "Mac"
       ]
     }
   ],
