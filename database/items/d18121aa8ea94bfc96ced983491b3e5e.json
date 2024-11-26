@@ -34,8 +34,8 @@
   ],
   "namespace": "8d86c6965e66438d89f062a09a273782",
   "status": "ACTIVE",
-  "creationDate": "2023-09-07T12:54:53.692Z",
-  "lastModifiedDate": "2023-09-07T12:54:53.692Z",
+  "creationDate": "2023-08-28T12:07:19.005Z",
+  "lastModifiedDate": "2024-11-25T20:23:16.011Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "5699dfa263c347a3a3a2beb9fd3b6d56",
       "appId": "a71c1c738fdf43ea8a254d9c13dc6d2a",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Fulqrum Publishing Ltd.",
