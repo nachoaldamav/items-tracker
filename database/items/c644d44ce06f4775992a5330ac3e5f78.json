@@ -1,0 +1,63 @@
+{
+  "id": "c644d44ce06f4775992a5330ac3e5f78",
+  "title": "Catizens",
+  "description": "Catizens",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/920faec389c44a11886366f35ef880f7/catizens-1a7nc.png",
+      "md5": "5d82fcb1f9c53afc89b4016159d951bb",
+      "width": 2560,
+      "height": 1440,
+      "size": 1215997,
+      "uploadedDate": "2024-11-18T16:24:59.974Z",
+      "alt": "Catizens Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/920faec389c44a11886366f35ef880f7/catizens-1cxaa.png",
+      "md5": "52170282756bccba0bf5a70a90deb132",
+      "width": 1200,
+      "height": 1600,
+      "size": 2267068,
+      "uploadedDate": "2024-11-18T16:24:58.066Z",
+      "alt": "Download Catizens Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3e943926ae334b8ea5e22f905b1879ff",
+  "status": "ACTIVE",
+  "creationDate": "2024-11-26T10:35:57.043Z",
+  "lastModifiedDate": "2024-11-26T10:35:57.043Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TestWrszQ"
+    }
+  },
+  "entitlementName": "c644d44ce06f4775992a5330ac3e5f78",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6900a6ea4f344c20a2b236162ea580d0",
+      "appId": "d567b705f52841aba942215b462a482e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "HeroCraft PC",
+  "developerId": "o-8ux7xn386eqvrb5x2rxrjkyvnfdz7v",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
