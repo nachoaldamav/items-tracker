@@ -34,8 +34,8 @@
   ],
   "namespace": "f10e47423c174a2fb9e271a20ced4fd0",
   "status": "ACTIVE",
-  "creationDate": "2024-09-25T12:50:52.092Z",
-  "lastModifiedDate": "2024-09-25T12:50:52.092Z",
+  "creationDate": "2023-11-07T09:47:18.336Z",
+  "lastModifiedDate": "2024-11-27T09:10:11.283Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,9 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "3fe5ebcec2f542909caf87ec410c70b3",
+      "id": "cab4ac2a509e4f75b616471ff76621e1",
       "appId": "b78eacc7b39240fba34d1c2ab44d7f92",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Vermilion Studios Limited",
