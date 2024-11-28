@@ -1,0 +1,64 @@
+{
+  "id": "096f993faffb4f9eb7fb4629a7db3750",
+  "title": "TCG Card Shop Manager",
+  "description": "TCG Card Shop Manager",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c744196d6f384587baea362932d5cbd1/tgc-card-shop-manager-1qmp3.jpg",
+      "md5": "9ca3fd9e0420f6a70140d60fa6e29c6c",
+      "width": 2560,
+      "height": 1440,
+      "size": 2109294,
+      "uploadedDate": "2024-11-18T06:53:52.580Z",
+      "alt": "TGC Card Shop Manager Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c744196d6f384587baea362932d5cbd1/tgc-card-shop-manager-1u6qi.jpg",
+      "md5": "355701a5e2c002f2a282a73110fbb545",
+      "width": 1200,
+      "height": 1600,
+      "size": 1118651,
+      "uploadedDate": "2024-11-18T06:53:50.417Z",
+      "alt": "Download TGC Card Shop Manager Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "65ca60e94ead44f294cc5f7889dc9f48",
+  "status": "ACTIVE",
+  "creationDate": "2024-11-27T04:22:55.013Z",
+  "lastModifiedDate": "2024-11-27T04:22:55.013Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TCGCardShopManager"
+    }
+  },
+  "entitlementName": "096f993faffb4f9eb7fb4629a7db3750",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9a49bd1752804855b60ed99e0bc5647f",
+      "appId": "77f10d9a1e884b8ca223bae024777492",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "IndieGames300",
+  "developerId": "o-dev82j3uxjfhasmgtzw7l4nd8ztcqp",
+  "endOfSupport": false,
+  "applicationId": "fghi4567lruvLwITzdXGf2CkGzW6xPeq",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
