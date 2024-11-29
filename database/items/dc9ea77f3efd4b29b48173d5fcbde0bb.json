@@ -1,0 +1,62 @@
+{
+  "id": "dc9ea77f3efd4b29b48173d5fcbde0bb",
+  "title": "Conkis",
+  "description": "Conkis",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4c2a1e917c0c47a2a6e29a4b8d171c6c/conkis-fpzgg.jpg",
+      "md5": "5955428b4bbcbb7534848c62442954f8",
+      "width": 2560,
+      "height": 1440,
+      "size": 1642037,
+      "uploadedDate": "2024-11-26T10:28:33.454Z",
+      "alt": "Conkis Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4c2a1e917c0c47a2a6e29a4b8d171c6c/conkis-hh7ir.jpg",
+      "md5": "5fba4aa316f89098ea14c1c087710a90",
+      "width": 1200,
+      "height": 1600,
+      "size": 974306,
+      "uploadedDate": "2024-11-26T10:28:33.780Z",
+      "alt": "Download Conkis Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "78b0dc91ba9b49059e17550289f0b9ff",
+  "status": "ACTIVE",
+  "creationDate": "2024-11-28T21:07:06.195Z",
+  "lastModifiedDate": "2024-11-28T21:07:06.195Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ConkislnJmz"
+    }
+  },
+  "entitlementName": "dc9ea77f3efd4b29b48173d5fcbde0bb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ed845611048048eeac3cb74470e65673",
+      "appId": "abe83094181c4317993597fa691f41ef",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "OCIO Games",
+  "developerId": "o-mptaquxwddeumhypk9mc8e5k2ah2jr",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
