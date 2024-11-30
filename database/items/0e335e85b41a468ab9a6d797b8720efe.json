@@ -1,7 +1,7 @@
 {
   "id": "0e335e85b41a468ab9a6d797b8720efe",
   "title": "Five Hearts Under One Roof",
-  "description": "Five Hearts Under One Roof",
+  "description": "Yuman’s, the player, once solitary home and routine are now invaded by five beautiful women! Each has her unique charm– the 'childhood friend of 20 years,' the 'first love and former idol,' the 'demanding boss,' the 'bold younger girl,' and the 'shy recluse.' Who will you choose?",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,9 +34,25 @@
   ],
   "namespace": "a157e78604f1415ab399aadaddf8471e",
   "status": "ACTIVE",
-  "creationDate": "2024-11-27T23:48:44.300Z",
-  "lastModifiedDate": "2024-11-27T23:48:44.300Z",
+  "creationDate": "2024-10-30T06:06:46.231Z",
+  "lastModifiedDate": "2024-11-30T05:43:34.314Z",
   "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Storytaco/MilkGame/EpicSave/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Storytaco/MilkGame/EpicSave/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10000"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "FiveHeartsUnderOneRoof"
