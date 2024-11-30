@@ -1,0 +1,72 @@
+{
+  "id": "34efcdd02f4f477e968eb10b3239e801",
+  "title": "Amazing Weekend Search and Relax",
+  "description": "Amazing Weekend Search and Relax",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/97d850f9b1a64784ae528466f79f8cd4/amazing-weekend-search-and-relax-zwtwm.png",
+      "md5": "e97574a405dfe3b6527fb2b5890fda2d",
+      "width": 2560,
+      "height": 1440,
+      "size": 1518865,
+      "uploadedDate": "2024-11-22T12:46:56.457Z",
+      "alt": "Amazing Weekend: Search and Relax Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/97d850f9b1a64784ae528466f79f8cd4/amazing-weekend-search-and-relax-17o4i.png",
+      "md5": "783d0708e1cee65decb0b204cb7e5f72",
+      "width": 1200,
+      "height": 1600,
+      "size": 2174213,
+      "uploadedDate": "2024-11-22T12:47:12.139Z",
+      "alt": "Download Amazing Weekend: Search and Relax Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3d67ea0bb7f9405fa985673df6803e28",
+  "status": "ACTIVE",
+  "creationDate": "2024-11-29T16:14:56.414Z",
+  "lastModifiedDate": "2024-11-29T16:14:56.414Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/com.avigamesltdLLC.SearchandRelax1CE/Game Saves/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/avigamesltd LLC/Search and Relax 1 CE/Game Saves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AmazingWeekendSearchGbGmi"
+    }
+  },
+  "entitlementName": "34efcdd02f4f477e968eb10b3239e801",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e98e84f007ea410e83d59b8b5c63263a",
+      "appId": "f31e88f7bf7346b8b7c9eac69902c86f",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Avigamesltd",
+  "developerId": "o-b8byv6tmzagarkqkytmk8ykc347hqa",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
