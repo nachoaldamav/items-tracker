@@ -1,0 +1,67 @@
+{
+  "id": "a4488c8440524a5789e1ef2d51494f73",
+  "title": "ReMix",
+  "description": "ReMix",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c4a537fa810345c79abf7772720a8399/remix-x6j6k.png",
+      "md5": "a78357b1348ffc0c4dd285b25b0bcc1b",
+      "width": 2560,
+      "height": 1440,
+      "size": 2056226,
+      "uploadedDate": "2024-10-30T06:49:49.190Z",
+      "alt": "ReMix Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c4a537fa810345c79abf7772720a8399/remix-1iqkt.png",
+      "md5": "29eb76e40a60a3092fe7f5b735b55fe9",
+      "width": 1200,
+      "height": 1600,
+      "size": 1582031,
+      "uploadedDate": "2024-10-30T06:49:53.991Z",
+      "alt": "Download ReMix Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "113b92301cb94d88bd80d65c3c1717ff",
+  "status": "ACTIVE",
+  "creationDate": "2024-11-30T19:14:36.968Z",
+  "lastModifiedDate": "2024-11-30T19:14:36.968Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/GameSmith/ReMix/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ReMixUuvHC"
+    }
+  },
+  "entitlementName": "a4488c8440524a5789e1ef2d51494f73",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "743346e7ce6149abaa8423d5246d9ecc",
+      "appId": "7c8be60a51264dd1b4ad62c76e3e8033",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "BD Games",
+  "developerId": "o-byjmbm4zudwy8g7g4c7fuh8qw3v5t7",
+  "endOfSupport": false,
+  "applicationId": "fghi45670Un0TR6EOH0WaQT8yWIwuBY2",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
