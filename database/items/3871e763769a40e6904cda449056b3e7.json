@@ -1,0 +1,67 @@
+{
+  "id": "3871e763769a40e6904cda449056b3e7",
+  "title": "CarX Drift Racing Online",
+  "description": "CarX Drift Racing Online",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/bec1ce3db2e44f21a7f18cc10efaaca9/carx-drift-racing-online-xy25a.png",
+      "md5": "80b3e1dd934f43360626bba2aea00264",
+      "width": 2560,
+      "height": 1440,
+      "size": 1322213,
+      "uploadedDate": "2024-09-12T07:54:47.955Z",
+      "alt": "CarX Drift Racing Online Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/bec1ce3db2e44f21a7f18cc10efaaca9/carx-drift-racing-online-pyvz6.png",
+      "md5": "d26a42b0af816f81c6e0017054ce4d95",
+      "width": 1200,
+      "height": 1600,
+      "size": 2403939,
+      "uploadedDate": "2024-09-12T07:51:57.162Z",
+      "alt": "Download CarX Drift Racing Online Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "878c47870bdf43d49c1f51d075887857",
+  "status": "ACTIVE",
+  "creationDate": "2024-12-02T15:03:07.946Z",
+  "lastModifiedDate": "2024-12-02T15:03:08.496Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/CarX Technologies/Drift Racing Online/Cache/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CarXDriftRacingOnline"
+    }
+  },
+  "entitlementName": "3871e763769a40e6904cda449056b3e7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cf99606c29ff47ddbfb1d14c1705803d",
+      "appId": "670aeb4128d142de8490d107e0136fc4",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "CARX TECHNOLOGIES EU LTD",
+  "developerId": "o-fyz9a78lerf4qxmxfyd8n87gbmx6lv",
+  "endOfSupport": false,
+  "applicationId": "fghi45677SUgtK2xj8wzgIGnrzpPxl1V",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
