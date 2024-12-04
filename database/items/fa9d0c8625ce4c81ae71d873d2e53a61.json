@@ -34,12 +34,12 @@
   ],
   "namespace": "96208653faa54c2ba5fd56fd5ed1e00f",
   "status": "ACTIVE",
-  "creationDate": "2024-11-21T01:33:35.321Z",
-  "lastModifiedDate": "2024-11-21T01:33:36.069Z",
+  "creationDate": "2024-06-19T16:22:45.465Z",
+  "lastModifiedDate": "2024-12-04T04:03:57.616Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
-      "value": "TRUE"
+      "value": "FALSE"
     },
     "LaunchElevated": {
       "type": "STRING",
@@ -51,7 +51,7 @@
     },
     "ProcessNames": {
       "type": "STRING",
-      "value": "Epic Games\\Strinova\\Strinova\\Strinova.exe"
+      "value": "launcher\\Strinova.exe"
     },
     "NotarizedAndSigned": {
       "type": "STRING",
@@ -59,7 +59,7 @@
     },
     "MainWindowProcessName": {
       "type": "STRING",
-      "value": "Epic Games\\Strinova\\Strinova\\Strinova.exe"
+      "value": "Strinova\\Strinova.exe"
     },
     "AllowMultipleInstances": {
       "type": "STRING",
@@ -71,7 +71,7 @@
     },
     "BackgroundProcessNames": {
       "type": "STRING",
-      "value": "Epic Games\\Strinova\\launcher\\Strinova.exe"
+      "value": "launcher\\Strinova.exe"
     }
   },
   "entitlementName": "fa9d0c8625ce4c81ae71d873d2e53a61",
