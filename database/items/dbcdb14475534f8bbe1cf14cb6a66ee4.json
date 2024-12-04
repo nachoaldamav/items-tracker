@@ -1,0 +1,72 @@
+{
+  "id": "dbcdb14475534f8bbe1cf14cb6a66ee4",
+  "title": "Kamaeru",
+  "description": "Kamaeru",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/44313cfbb62b4df5801d0c8d541c2624/kamaeru-1yhz3.png",
+      "md5": "288ba830ff7718b8487d0405e07c394d",
+      "width": 2560,
+      "height": 1440,
+      "size": 3709518,
+      "uploadedDate": "2024-10-23T15:57:34.375Z",
+      "alt": "Kamaeru Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/44313cfbb62b4df5801d0c8d541c2624/kamaeru-1v77g.png",
+      "md5": "c7ef7a589570b5d37559ec794a035264",
+      "width": 1200,
+      "height": 1600,
+      "size": 1884321,
+      "uploadedDate": "2024-10-23T15:43:38.863Z",
+      "alt": "Download Kamaeru Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a1fb482c4c6c4dcd855a1cbef1ad79d1",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-23T12:40:50.811Z",
+  "lastModifiedDate": "2024-12-04T16:36:40.875Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Kamaeru/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Kamaeru/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KamaeruRznbw"
+    }
+  },
+  "entitlementName": "dbcdb14475534f8bbe1cf14cb6a66ee4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b561da252c674e71b433a53591029320",
+      "appId": "73c3ffec37e3451a811d9cbad460e106",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Armor Games Studios",
+  "developerId": "o-ttudgfyffrswppq6pflnkwfzdm6qc3",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
