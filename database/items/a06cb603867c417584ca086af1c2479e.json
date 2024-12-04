@@ -31,8 +31,8 @@
   ],
   "namespace": "878c47870bdf43d49c1f51d075887857",
   "status": "ACTIVE",
-  "creationDate": "2024-12-02T15:03:07.954Z",
-  "lastModifiedDate": "2024-12-02T15:03:07.954Z",
+  "creationDate": "2024-09-11T10:44:45.330Z",
+  "lastModifiedDate": "2024-12-04T07:22:14.531Z",
   "customAttributes": {},
   "entitlementName": "a06cb603867c417584ca086af1c2479e",
   "entitlementType": "EXECUTABLE",
@@ -41,7 +41,9 @@
     {
       "id": "c747ae227b894902819c09267374ca7d",
       "appId": "68709edd9f094cf4b6a2f4ff49af30f2",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "CARX TECHNOLOGIES EU LTD",
