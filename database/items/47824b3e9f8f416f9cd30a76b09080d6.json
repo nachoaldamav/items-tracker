@@ -34,9 +34,13 @@
   ],
   "namespace": "02968e20aefe4b798e179e182cede492",
   "status": "ACTIVE",
-  "creationDate": "2024-06-08T20:36:24.384Z",
-  "lastModifiedDate": "2024-10-03T11:39:49.150Z",
+  "creationDate": "2023-03-19T19:16:06.853Z",
+  "lastModifiedDate": "2024-12-05T14:35:35.202Z",
   "customAttributes": {
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "TRUE"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "NikoderikoabdAC"
@@ -49,7 +53,9 @@
     {
       "id": "bf8e919e0fc34fc88217896c1578f9b7",
       "appId": "2d49cd7bfc0540308d84e15e9e522883",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "MY.GAMES",
