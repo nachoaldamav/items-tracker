@@ -1,0 +1,59 @@
+{
+  "id": "dbee6aad88404e0fa68de5c94def0c5f",
+  "title": "OPEN",
+  "description": "OPEN",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/53fd262b87504b869de1114e9e5bb698/open-1gb25.png",
+      "md5": "a26c42353c4be8e1f52fbc9905b735bf",
+      "width": 2560,
+      "height": 1440,
+      "size": 88455,
+      "uploadedDate": "2024-10-08T18:07:57.697Z",
+      "alt": "OPEN Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/53fd262b87504b869de1114e9e5bb698/open-12zpn.jpg",
+      "md5": "98821304a79f1794479d0e38b21b533f",
+      "width": 1200,
+      "height": 1600,
+      "size": 264388,
+      "uploadedDate": "2024-10-08T22:32:04.902Z",
+      "alt": "Download OPEN Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3dea0c63da3e47a2a13b393d0cdb4efa",
+  "status": "ACTIVE",
+  "creationDate": "2024-12-05T19:13:35.315Z",
+  "lastModifiedDate": "2024-12-05T19:13:35.315Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "OPENzMUXc"
+    }
+  },
+  "entitlementName": "dbee6aad88404e0fa68de5c94def0c5f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6f56a6921df94e0d9ae7c095fc4a5256",
+      "appId": "945d11fb6a5647ada03945742e425e1d"
+    }
+  ],
+  "developer": "OPEN",
+  "developerId": "o-zn9zxuvh4424uyd8es5chan5shgggq",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
