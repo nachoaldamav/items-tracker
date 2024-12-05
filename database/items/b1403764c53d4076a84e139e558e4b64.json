@@ -21,7 +21,7 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2019-04-18T01:59:32.165Z",
-  "lastModifiedDate": "2024-08-14T22:24:44.136Z",
+  "lastModifiedDate": "2024-12-05T01:06:24.984Z",
   "customAttributes": {
     "ActionSetName": {
       "type": "STRING",
@@ -34,7 +34,11 @@
   "releaseInfo": [],
   "developer": "Epic Games",
   "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
-  "eulaIds": [],
+  "eulaIds": [
+    "fn"
+  ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
