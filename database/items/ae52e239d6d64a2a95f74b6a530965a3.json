@@ -34,9 +34,13 @@
   ],
   "namespace": "13ada988e26f46a48ffa5a73185e822f",
   "status": "ACTIVE",
-  "creationDate": "2024-10-31T20:11:04.864Z",
-  "lastModifiedDate": "2024-10-31T20:11:04.864Z",
+  "creationDate": "2024-10-21T02:45:11.553Z",
+  "lastModifiedDate": "2024-12-05T20:30:36.909Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/My Games/Documents/BallsUP/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "BallsUpQv6VK"
@@ -57,6 +61,7 @@
   "developer": "ScarWalkerGames",
   "developerId": "o-99zebf52ml7pk5y3az4eafw3uyfcc6",
   "endOfSupport": false,
+  "applicationId": "fghi4567te8RPdBB36ttWXEZELNF9qxO",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
