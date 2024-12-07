@@ -1,0 +1,72 @@
+{
+  "id": "dfbe6a3a0abd4c74b6ad46c81201c13f",
+  "title": "Barton Lynch Pro Surfing",
+  "description": "Barton Lynch Pro Surfing",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e105e50288a24bba8ca1f03de5839139/barton-lynch-pro-surfing-1o6hf.png",
+      "md5": "4c0236ee2c0a59bb69f9dd551468d496",
+      "width": 2560,
+      "height": 1440,
+      "size": 3786070,
+      "uploadedDate": "2024-11-30T06:54:40.674Z",
+      "alt": "Barton Lynch Pro Surfing Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e105e50288a24bba8ca1f03de5839139/barton-lynch-pro-surfing-1j4vr.png",
+      "md5": "4ca7d611ba839d78d8d71e96bd004cb6",
+      "width": 1200,
+      "height": 1600,
+      "size": 3634635,
+      "uploadedDate": "2024-11-09T10:17:50.259Z",
+      "alt": "Download Barton Lynch Pro Surfing Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1560126d50e04b82b96f3b01c89f597d",
+  "status": "ACTIVE",
+  "creationDate": "2024-12-06T16:00:14.401Z",
+  "lastModifiedDate": "2024-12-06T16:00:14.401Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/playersave/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "PlayerInfo.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BartonLynchProSurfinebAgz"
+    }
+  },
+  "entitlementName": "dfbe6a3a0abd4c74b6ad46c81201c13f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e0fbaf1b97ce4fa0a570c5dc456fd7dd",
+      "appId": "b2ae40ac74bd46989d71593f6d70204c",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Bungarra Software Pty Ltd",
+  "developerId": "o-avbkkh384edl6d4td5n82ucnwmjdwv",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
