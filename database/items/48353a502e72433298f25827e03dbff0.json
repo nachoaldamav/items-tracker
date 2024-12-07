@@ -5,21 +5,23 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/item/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S1_2560x1440-6c23d0f0576846fc88d1356df3a0c1cf",
-      "md5": "6c23d0f0576846fc88d1356df3a0c1cf",
+      "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-ky26a.png",
+      "md5": "e7ecf0c8187bd736b9d23735a71540dd",
       "width": 2560,
       "height": 1440,
-      "size": 306085,
-      "uploadedDate": "2024-06-20T15:00:45.595Z"
+      "size": 2867684,
+      "uploadedDate": "2024-11-28T17:04:46.600Z",
+      "alt": "Idle Champions of the Forgotten Realms Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2_1200x1600-bb05a14cce4561f02643dd70d893e608",
-      "md5": "bb05a14cce4561f02643dd70d893e608",
+      "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1xz7t.png",
+      "md5": "e08be11afb67badb1bcec16c97fae120",
       "width": 1200,
       "height": 1600,
-      "size": 571053,
-      "uploadedDate": "2024-06-20T15:00:50.124Z"
+      "size": 1662704,
+      "uploadedDate": "2024-11-28T17:04:49.742Z",
+      "alt": "Download Idle Champions of the Forgotten Realms Offer"
     }
   ],
   "categories": [
@@ -35,8 +37,8 @@
   ],
   "namespace": "7e508f543b05465abe3a935960eb70ac",
   "status": "ACTIVE",
-  "creationDate": "2024-11-22T21:45:15.301Z",
-  "lastModifiedDate": "2024-11-26T20:06:33.608Z",
+  "creationDate": "2020-10-15T12:56:50.481Z",
+  "lastModifiedDate": "2024-12-06T17:00:16.167Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -76,8 +78,7 @@
       "appId": "40cb42e38c0b4a14a1bb133eb3291572",
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2020-10-15T00:00:00.000Z"
+      ]
     }
   ],
   "developer": "Codename Entertainment",
