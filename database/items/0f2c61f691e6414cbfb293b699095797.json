@@ -1,0 +1,64 @@
+{
+  "id": "0f2c61f691e6414cbfb293b699095797",
+  "title": "Bloompunk",
+  "description": "Bloompunk",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9f2f158cb8c3420f885de15abbc106e2/bloompunk-14bxm.jpg",
+      "md5": "1fa712306e68a8e06b559e6376b582a2",
+      "width": 2560,
+      "height": 1440,
+      "size": 167499,
+      "uploadedDate": "2024-11-07T05:05:53.256Z",
+      "alt": "Bloompunk Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9f2f158cb8c3420f885de15abbc106e2/bloompunk-16kqt.png",
+      "md5": "4f0f5eefbf66ef80478475089dc782e0",
+      "width": 1200,
+      "height": 1600,
+      "size": 4092239,
+      "uploadedDate": "2024-11-07T04:46:12.149Z",
+      "alt": "Download Bloompunk Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "87ae74d5f4db477f8b34c8c2ceeee765",
+  "status": "ACTIVE",
+  "creationDate": "2024-12-07T07:02:20.676Z",
+  "lastModifiedDate": "2024-12-07T07:02:20.676Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Bloompunk"
+    }
+  },
+  "entitlementName": "0f2c61f691e6414cbfb293b699095797",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "728539f73e514827974f26261b338613",
+      "appId": "35ff45ad36e54d2abddc66ef60f7c365",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Spinwit LLC",
+  "developerId": "o-ep2bbvebuxwemlr64umr339c4jv22b",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
