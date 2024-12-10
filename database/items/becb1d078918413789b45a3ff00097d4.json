@@ -34,12 +34,12 @@
   ],
   "namespace": "72af285e3254465ca5fffcc65380655b",
   "status": "ACTIVE",
-  "creationDate": "2024-10-30T07:49:00.618Z",
-  "lastModifiedDate": "2024-10-30T07:49:00.618Z",
+  "creationDate": "2024-09-27T09:54:35.919Z",
+  "lastModifiedDate": "2024-12-10T19:16:34.496Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "DemoCrystalfallOpenBeta"
+      "value": "CrystalfallOpenBeta"
     }
   },
   "entitlementName": "becb1d078918413789b45a3ff00097d4",
@@ -49,7 +49,9 @@
     {
       "id": "c629b162-87ea-4335-a802-e9f7e2addd8e",
       "appId": "3ad0246bad8e457a9d788c3eb8ae7c57",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "CRG AB",
