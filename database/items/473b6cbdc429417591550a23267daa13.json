@@ -1,0 +1,71 @@
+{
+  "id": "473b6cbdc429417591550a23267daa13",
+  "title": "TankHead",
+  "description": "Embark on a thrilling journey as Whitaker, piloting a drone-controlled tank through the desolate ECA. Battle fierce enemies, scavenge valuable parts, and fight to survive in this fast-paced sci-fi world, as you strive to reach the mysterious Highpoint.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ce3cfe56d21147dcb398823206cf9073/tankhead-1gjtg.jpg",
+      "md5": "2327de65c8b54134ba51b07ca27b9390",
+      "width": 2560,
+      "height": 1440,
+      "size": 992903,
+      "uploadedDate": "2024-11-18T17:52:09.714Z",
+      "alt": "TankHead Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ce3cfe56d21147dcb398823206cf9073/tankhead-1ed30.jpg",
+      "md5": "f2139dee047f734bdda7212343b60e8e",
+      "width": 1200,
+      "height": 1600,
+      "size": 923267,
+      "uploadedDate": "2024-11-18T17:52:09.134Z",
+      "alt": "Download TankHead Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "69510dfd86074ea6a8090f6e7d7b4dfd",
+  "status": "ACTIVE",
+  "creationDate": "2024-12-10T16:51:55.160Z",
+  "lastModifiedDate": "2024-12-10T16:51:55.160Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/TankHead/Saved/SaveGames/EGS/{EpicID}/tankhead/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TankHead"
+    }
+  },
+  "entitlementName": "473b6cbdc429417591550a23267daa13",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5b9498c67b84496b8fddbc58b8260195",
+      "appId": "0d94bec50536484e88d803fa8f4fd330",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Alpha Channel Inc.",
+  "developerId": "o-n5cb4hy8wvx64evppmk7h4g6shtg6a",
+  "endOfSupport": false,
+  "applicationId": "fghi4567JH67PSviJ0czY2tZwfToBjcD",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
