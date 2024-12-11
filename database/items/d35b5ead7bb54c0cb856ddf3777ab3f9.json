@@ -34,8 +34,8 @@
   ],
   "namespace": "c67c56695c9a47b3b7501758ffe9fbe2",
   "status": "ACTIVE",
-  "creationDate": "2024-12-02T22:28:24.356Z",
-  "lastModifiedDate": "2024-12-02T22:28:24.356Z",
+  "creationDate": "2024-10-01T18:45:29.275Z",
+  "lastModifiedDate": "2024-12-10T19:50:52.725Z",
   "customAttributes": {
     "CloudSaveFolder_MAC": {
       "type": "STRING",
@@ -57,7 +57,10 @@
     {
       "id": "f89af516d75a4cdda3bd144cdbef7d8e",
       "appId": "f6a35e2600774ba789cc6a584b399161",
-      "platform": []
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "I N F I N I T Y 27 LTD.",
