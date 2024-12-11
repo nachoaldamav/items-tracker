@@ -1,0 +1,67 @@
+{
+  "id": "007e2ca9a1dd45eeb84283848a72703f",
+  "title": "Chess Infinity",
+  "description": "Whether new to chess or a seasoned player, welcome to Chess Infinity—the art of timeless strategy. Immerse yourself in serene environments, sharpen your skills with an adaptive AI mentor, and connect with players worldwide. Start your journey today and master your next move.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1cae08a13c2940eda2b49e210f309bb0/chess-infinity-121du.jpg",
+      "md5": "cfc07e19877380d38d4bd0aa5da2017b",
+      "width": 2560,
+      "height": 1440,
+      "size": 943669,
+      "uploadedDate": "2024-11-04T10:54:10.407Z",
+      "alt": "Chess Infinity Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1cae08a13c2940eda2b49e210f309bb0/chess-infinity-wkh6g.jpg",
+      "md5": "3e8d2de6a690ad585f2a652d7926f5e5",
+      "width": 1200,
+      "height": 1600,
+      "size": 657724,
+      "uploadedDate": "2024-11-04T10:54:10.640Z",
+      "alt": "Download Chess Infinity Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e2e42d07912747548712a85043820579",
+  "status": "ACTIVE",
+  "creationDate": "2024-12-11T00:00:22.444Z",
+  "lastModifiedDate": "2024-12-11T00:00:23.085Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Infinity/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ChessInfinity"
+    }
+  },
+  "entitlementName": "007e2ca9a1dd45eeb84283848a72703f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3a2a980f666d4f55b8cb73eb3e426f4c",
+      "appId": "93b2d08186ed406791d1b3619ab90da4",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Ripstone Ltd",
+  "developerId": "o-fbx9l7z95axq9s73trhbttadbareuq",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
