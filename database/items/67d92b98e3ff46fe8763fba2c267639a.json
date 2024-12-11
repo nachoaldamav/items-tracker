@@ -1,0 +1,63 @@
+{
+  "id": "67d92b98e3ff46fe8763fba2c267639a",
+  "title": "Lost in the Hole",
+  "description": "Lost in the Hole",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3f1ac27957244190ad8775534f72bff0/lost-in-the-hole-5wz6y.png",
+      "md5": "06252fefaf7c9b3cfd9713426924afdb",
+      "width": 2560,
+      "height": 1440,
+      "size": 1509670,
+      "uploadedDate": "2024-12-07T13:23:18.785Z",
+      "alt": "Lost in the Hole Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3f1ac27957244190ad8775534f72bff0/lost-in-the-hole-1q33j.png",
+      "md5": "e4fc0504314c76fc58958de8f0be309d",
+      "width": 1200,
+      "height": 1600,
+      "size": 906056,
+      "uploadedDate": "2024-12-07T13:23:18.576Z",
+      "alt": "Download Lost in the Hole Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a4fc4d02412b45da816e5f08061833a7",
+  "status": "ACTIVE",
+  "creationDate": "2024-12-11T14:05:19.091Z",
+  "lastModifiedDate": "2024-12-11T14:05:19.091Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "LostintheHole"
+    }
+  },
+  "entitlementName": "67d92b98e3ff46fe8763fba2c267639a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f23df4e8ef7a4956a8173c3a702fb4dc",
+      "appId": "67070b97b6af438f90462fa9e198f2ce",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Horizon Studios",
+  "developerId": "o-7pzjgqefjq39kpduhnldb7jujnzcjw",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
