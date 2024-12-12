@@ -1,7 +1,7 @@
 {
-  "id": "56c7e17509a841cc9cbb2751de7954ba",
-  "title": "Sphinx DLC 08 Audience",
-  "description": "Sphinx DLC 08 Audience",
+  "id": "58aee8c56dd544a1b0f1239c52ceee08",
+  "title": "SphinxCharacter audience",
+  "description": "SphinxCharacter audience",
   "categories": [
     {
       "path": "audience"
@@ -12,15 +12,15 @@
   ],
   "namespace": "168fc558aeef44a5b9cba5f25b5bb93f",
   "status": "ACTIVE",
-  "creationDate": "2021-10-27T20:25:35.829Z",
-  "lastModifiedDate": "2024-12-12T07:59:34.257Z",
+  "creationDate": "2024-10-01T14:27:07.966Z",
+  "lastModifiedDate": "2024-12-12T07:59:34.259Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
     }
   },
-  "entitlementName": "56c7e17509a841cc9cbb2751de7954ba",
+  "entitlementName": "58aee8c56dd544a1b0f1239c52ceee08",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
@@ -29,7 +29,6 @@
   "eulaIds": [
     "egstore"
   ],
-  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
   "applicationId": "",
