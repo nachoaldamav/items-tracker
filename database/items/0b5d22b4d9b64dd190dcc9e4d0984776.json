@@ -1,0 +1,89 @@
+{
+  "id": "0b5d22b4d9b64dd190dcc9e4d0984776",
+  "title": "Alan Wake Remastered",
+  "description": "Alan Wake Remastered",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/en_Remedy_DEER_S1_2560x1440_2560x1440-cb115f1a44dab465ea27086cebba5c33",
+      "md5": "cb115f1a44dab465ea27086cebba5c33",
+      "width": 2560,
+      "height": 1440,
+      "size": 649853,
+      "uploadedDate": "2021-09-08T01:44:46.570Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/en_Remedy_DEER_S2_1200x1600_1200x1600-43dd4a2f28f9edbf0ed1461339fc11d4",
+      "md5": "43dd4a2f28f9edbf0ed1461339fc11d4",
+      "width": 1200,
+      "height": 1600,
+      "size": 453300,
+      "uploadedDate": "2021-09-08T01:44:49.934Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2e92a78949e2474aa89271b8b893f3b0",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-01T23:19:08.438Z",
+  "lastModifiedDate": "2024-12-12T16:00:15.565Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "2e92a78949e2474aa89271b8b893f3b0"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AlanWakeRemastered"
+    }
+  },
+  "entitlementName": "0b5d22b4d9b64dd190dcc9e4d0984776",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "72e2ac6bda4e48eca1c6953576b4126c",
+      "appId": "7315f614b0504081bcdceef138075c9c",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-02T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Games Publishing",
+  "developerId": "o-e2xslu4mlqqaavphzl6927vtjqamhj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567OYGJeJm2cH9VcwGzrfwDeYmc",
+  "unsearchable": false
+}
