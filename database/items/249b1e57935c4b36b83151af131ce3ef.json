@@ -34,8 +34,8 @@
   ],
   "namespace": "4a5ba7e5cb24448485c7eff0076be187",
   "status": "ACTIVE",
-  "creationDate": "2024-05-15T02:35:42.452Z",
-  "lastModifiedDate": "2024-05-15T02:35:42.452Z",
+  "creationDate": "2023-07-01T11:54:03.584Z",
+  "lastModifiedDate": "2024-12-13T00:23:52.980Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,15 +47,18 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "854c97caa3a048ab8f049bcbb576a69a",
+      "id": "2b965444404b40d392ee96c8ed5d57cc",
       "appId": "801d19a3f7d0429c8fd9e1723ab064e6",
-      "platform": []
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
     }
   ],
   "developer": "Hanoi Studios",
   "developerId": "o-wtwlnu7xybyr67y79v2lnrnzpjdqa7",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567jmWunmsAiCYp4EVRVjQCNzdT",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
