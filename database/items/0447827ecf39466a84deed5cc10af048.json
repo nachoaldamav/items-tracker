@@ -1,0 +1,38 @@
+{
+  "id": "0447827ecf39466a84deed5cc10af048",
+  "title": "yamane Pre-Purchase Audience",
+  "description": "yamane Pre-Purchase Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "e9a679451d094c1ba3d008b6a01adec5",
+  "status": "ACTIVE",
+  "creationDate": "2024-09-06T20:12:57.010Z",
+  "lastModifiedDate": "2024-12-13T04:21:02.393Z",
+  "customAttributes": {
+    "isPrepurchase": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "0447827ecf39466a84deed5cc10af048",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Square Enix (Japan)",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

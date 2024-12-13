@@ -1,0 +1,41 @@
+{
+  "id": "0e5379e3892644f0bfbb9923446c0b56",
+  "title": "Yamane Digital Deluxe Edition Pre-Purchase audience",
+  "description": "Yamane Digital Deluxe Edition Pre-Purchase audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "e9a679451d094c1ba3d008b6a01adec5",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-29T11:24:05.653Z",
+  "lastModifiedDate": "2024-12-13T04:21:02.395Z",
+  "customAttributes": {
+    "isPrepurchase": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0e5379e3892644f0bfbb9923446c0b56",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Square Enix (Japan)",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
