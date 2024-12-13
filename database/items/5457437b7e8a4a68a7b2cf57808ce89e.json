@@ -35,7 +35,7 @@
   "namespace": "5a5665ab559249c8a012b04acfb4a7c9",
   "status": "ACTIVE",
   "creationDate": "2023-10-16T11:28:33.077Z",
-  "lastModifiedDate": "2024-11-05T05:33:57.149Z",
+  "lastModifiedDate": "2024-12-13T00:40:23.381Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -57,7 +57,9 @@
     {
       "id": "7e19b049d61e49e89232df4f3626e920",
       "appId": "7124110092184620b7e481ce6e0c2a34",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "UAB Nordcurrent Group",
