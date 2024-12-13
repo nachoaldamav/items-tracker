@@ -35,7 +35,7 @@
   "namespace": "68d7cea514474cac89318ac7d5c08ba6",
   "status": "ACTIVE",
   "creationDate": "2023-06-13T19:13:02.549Z",
-  "lastModifiedDate": "2024-11-06T15:54:10.251Z",
+  "lastModifiedDate": "2024-12-12T18:32:10.003Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "32677830d661459280722eedd3a09c71",
       "appId": "fd41fb80d1da418bb6670f831dc751b0",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "TM Gaming",
