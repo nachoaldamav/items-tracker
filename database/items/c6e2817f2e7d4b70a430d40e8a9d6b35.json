@@ -1,0 +1,73 @@
+{
+  "id": "c6e2817f2e7d4b70a430d40e8a9d6b35",
+  "title": "My Lovely Pets",
+  "description": "My Lovely Pets",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0345e47021ee46ec8d6e40d9283e1e1f/my-lovely-pets-5yunl.jpg",
+      "md5": "3aacd374a4a4f573a123de8543eceaa2",
+      "width": 2560,
+      "height": 1440,
+      "size": 2157083,
+      "uploadedDate": "2024-11-28T12:42:01.402Z",
+      "alt": "My Lovely Pets Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0345e47021ee46ec8d6e40d9283e1e1f/my-lovely-pets-sumsx.png",
+      "md5": "d0c0626c9a7d82e4ad328ac40235711c",
+      "width": 1200,
+      "height": 1600,
+      "size": 2986400,
+      "uploadedDate": "2024-11-28T12:42:02.860Z",
+      "alt": "Download My Lovely Pets Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "12d6c0db834b492b8d530b64498ddcd4",
+  "status": "ACTIVE",
+  "creationDate": "2024-12-14T07:00:18.960Z",
+  "lastModifiedDate": "2024-12-14T07:00:18.960Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/com.avigamesltdLLC.MyLovelyPetsCE/Game Saves/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/avigamesltd LLC/My Lovely Pets CE/Game Saves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MyLovelyPetshKS7E"
+    }
+  },
+  "entitlementName": "c6e2817f2e7d4b70a430d40e8a9d6b35",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8a696fee73dc40b88dc0bd6cf586afa8",
+      "appId": "3843c95731d647c6a5989669d306e566",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Avigamesltd",
+  "developerId": "o-b8byv6tmzagarkqkytmk8ykc347hqa",
+  "endOfSupport": false,
+  "applicationId": "fghi4567dfxLbP99EcnY5ucx3hAVzveT",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
