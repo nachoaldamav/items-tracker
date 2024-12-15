@@ -1,0 +1,73 @@
+{
+  "id": "1e13e65ba7514d7691f7a2035d8794ba",
+  "title": "Lots of Things - Collector's Edition",
+  "description": "Lots of Things - Collector's Edition",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6dc154e9633a45a3a4a17418e46df0a6/lots-of-things-1176j.jpg",
+      "md5": "ca068212a07ea64e7c3295d4447560d7",
+      "width": 2560,
+      "height": 1440,
+      "size": 2040148,
+      "uploadedDate": "2024-12-03T08:47:22.697Z",
+      "alt": "Lots of Things Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6dc154e9633a45a3a4a17418e46df0a6/lots-of-things-uskr6.png",
+      "md5": "767a61f5a644b1ae64e2213905c23fa7",
+      "width": 1200,
+      "height": 1600,
+      "size": 2332444,
+      "uploadedDate": "2024-12-03T08:47:22.488Z",
+      "alt": "Download Lots of Things Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b8e4a681ebe34e7b806fb01c26d8961d",
+  "status": "ACTIVE",
+  "creationDate": "2024-12-14T22:00:10.100Z",
+  "lastModifiedDate": "2024-12-14T22:00:10.100Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/com.avigamesltdLLC.LotsofThings1SE/Game Saves/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/avigamesltd LLC/Lots of Things 1 SE/Game Saves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LotsofThingsyyexc"
+    }
+  },
+  "entitlementName": "1e13e65ba7514d7691f7a2035d8794ba",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "57f2dbf4f2de49f7816d7a10b98e6b3e",
+      "appId": "eb69aa910c0e46909e414c63c39818e5",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Avigamesltd",
+  "developerId": "o-b8byv6tmzagarkqkytmk8ykc347hqa",
+  "endOfSupport": false,
+  "applicationId": "fghi45670syF0idLEcnrrnzlHjnxL3a5",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
