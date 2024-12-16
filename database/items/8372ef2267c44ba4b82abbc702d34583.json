@@ -1,0 +1,63 @@
+{
+  "id": "8372ef2267c44ba4b82abbc702d34583",
+  "title": "SYNTHROME",
+  "description": "SYNTHROME",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5d53b6b4710e48ceba0a3abbfa7f8806/synthrome-pmfz1.png",
+      "md5": "6672cfa5777158a2fb88f65c271efce7",
+      "width": 2560,
+      "height": 1440,
+      "size": 520477,
+      "uploadedDate": "2024-11-08T11:35:44.396Z",
+      "alt": "SYNTHROME Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5d53b6b4710e48ceba0a3abbfa7f8806/synthrome-zzx1l.png",
+      "md5": "35f1b0c4d508e240713f5383b41c0c7c",
+      "width": 1200,
+      "height": 1600,
+      "size": 2805725,
+      "uploadedDate": "2024-11-01T07:30:29.424Z",
+      "alt": "Download SYNTHROME Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5c26799662c749398a1b87ec3fa71d82",
+  "status": "ACTIVE",
+  "creationDate": "2024-12-16T11:01:02.774Z",
+  "lastModifiedDate": "2024-12-16T11:01:02.774Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SYNTHROME"
+    }
+  },
+  "entitlementName": "8372ef2267c44ba4b82abbc702d34583",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b2251963131a41658e36d9e772b1d693",
+      "appId": "4232c79ef65a452abdd63cedd6a1511c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SnowFlake Studio",
+  "developerId": "o-hek4vxrskhc5ync5pdz5tagnk7necc",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
