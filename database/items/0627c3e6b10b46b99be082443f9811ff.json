@@ -34,8 +34,8 @@
   ],
   "namespace": "ae1a11a634df42feb2e6c28eea474260",
   "status": "ACTIVE",
-  "creationDate": "2024-10-01T15:00:22.017Z",
-  "lastModifiedDate": "2024-10-01T15:00:22.017Z",
+  "creationDate": "2024-07-23T12:55:07.042Z",
+  "lastModifiedDate": "2024-12-17T09:00:04.932Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "d970d261-bb19-4a77-a470-ab617decfa7a",
       "appId": "e2f526165d4f4e798bb0c7cade33f85d",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Microids",
