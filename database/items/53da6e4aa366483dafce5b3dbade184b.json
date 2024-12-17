@@ -1,0 +1,63 @@
+{
+  "id": "53da6e4aa366483dafce5b3dbade184b",
+  "title": "Replikant Chat",
+  "description": "Replikant Chat",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b05658484e524acea20dec872d99af03/replikantchat-mlfbt.png",
+      "md5": "b7d9bbc20d9073b16ffdd19d14778270",
+      "width": 2560,
+      "height": 1440,
+      "size": 1113472,
+      "uploadedDate": "2024-10-15T16:23:55.289Z",
+      "alt": "REPLIKANT-CHAT Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b05658484e524acea20dec872d99af03/replikantchat-jb9zo.png",
+      "md5": "ac81d24048b177288433b6430fb672ce",
+      "width": 1200,
+      "height": 1600,
+      "size": 2268800,
+      "uploadedDate": "2024-10-15T16:24:03.303Z",
+      "alt": "Download REPLIKANT-CHAT Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "140b0575c6c54feca5ca4056cc198987",
+  "status": "ACTIVE",
+  "creationDate": "2024-12-16T17:04:59.701Z",
+  "lastModifiedDate": "2024-12-16T17:04:59.701Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ReplikantChat"
+    }
+  },
+  "entitlementName": "53da6e4aa366483dafce5b3dbade184b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d954ad337603462dbb4932044477ec9d",
+      "appId": "8e07b50963374527a232b59e5dfd483d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "My Team DNABLOCK",
+  "developerId": "o-v8j3awmdfgp2b35ct5j9zds3zcrqjj",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
