@@ -4,22 +4,22 @@
   "description": "Dauntless",
   "keyImages": [
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/item/jackal/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1_2560x1440-bee1a2ffa0adadb1652d592016dc4032",
-      "md5": "bee1a2ffa0adadb1652d592016dc4032",
-      "width": 2560,
-      "height": 1440,
-      "size": 707502,
-      "uploadedDate": "2023-04-20T18:56:28.814Z"
-    },
-    {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/jackal/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2_1200x1600-1319b1cbb431b9eda1bfdb37fcd76f06",
-      "md5": "1319b1cbb431b9eda1bfdb37fcd76f06",
+      "url": "https://cdn1.epicgames.com/item/jackal/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2_1200x1600-c3cef99deb57ca1b8cc50a33b3fe7fc7",
+      "md5": "c3cef99deb57ca1b8cc50a33b3fe7fc7",
       "width": 1200,
       "height": 1600,
-      "size": 414956,
-      "uploadedDate": "2023-04-20T18:56:31.749Z"
+      "size": 494283,
+      "uploadedDate": "2024-12-13T17:02:35.509Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/jackal/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1_2560x1440-597513158eac8ba3df7bb522ec4cc918",
+      "md5": "597513158eac8ba3df7bb522ec4cc918",
+      "width": 2560,
+      "height": 1440,
+      "size": 936886,
+      "uploadedDate": "2024-12-13T17:02:41.878Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "jackal",
   "status": "ACTIVE",
   "creationDate": "2019-01-28T20:38:56.842Z",
-  "lastModifiedDate": "2024-11-27T00:29:48.184Z",
+  "lastModifiedDate": "2024-12-17T01:02:13.361Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
