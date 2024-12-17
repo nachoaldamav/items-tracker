@@ -34,8 +34,8 @@
   ],
   "namespace": "d8c9fe16edfc483a83f91659f95b5617",
   "status": "ACTIVE",
-  "creationDate": "2024-11-20T08:04:25.414Z",
-  "lastModifiedDate": "2024-11-20T08:04:25.414Z",
+  "creationDate": "2024-11-14T15:51:07.760Z",
+  "lastModifiedDate": "2024-12-16T21:45:17.299Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "6155f7ab011442b19de5f08041d4d18b",
       "appId": "73c9a86bca8547499c1c1368a3a5600d",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Tsunoa Games",
