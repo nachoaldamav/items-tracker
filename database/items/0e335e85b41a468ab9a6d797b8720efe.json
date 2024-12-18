@@ -35,7 +35,7 @@
   "namespace": "a157e78604f1415ab399aadaddf8471e",
   "status": "ACTIVE",
   "creationDate": "2024-10-30T06:06:46.231Z",
-  "lastModifiedDate": "2024-11-30T05:43:34.314Z",
+  "lastModifiedDate": "2024-12-17T21:24:29.603Z",
   "customAttributes": {
     "CloudSaveFolder_MAC": {
       "type": "STRING",
@@ -65,13 +65,15 @@
     {
       "id": "835f1933812d414986d2d2c0679b539e",
       "appId": "f0abc2a62d1d48f294a487d223aad2dd",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Storytaco",
   "developerId": "o-7tx633uj2f4zx425mfqpjruykmenu6",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi456719UbP9GKGXutOsZs017DYH16",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
