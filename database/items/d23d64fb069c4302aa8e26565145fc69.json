@@ -1,0 +1,71 @@
+{
+  "id": "d23d64fb069c4302aa8e26565145fc69",
+  "title": "Still There",
+  "description": "Description is not set",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/45dbc8d373f24c239d4378428f7f405d/still-there-11n1v.jpg",
+      "md5": "b0174edd205ecc71257f881a95af5ef8",
+      "width": 2560,
+      "height": 1440,
+      "size": 770274,
+      "uploadedDate": "2024-09-26T13:06:29.632Z",
+      "alt": "Still There Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/45dbc8d373f24c239d4378428f7f405d/still-there-1nwja.png",
+      "md5": "8a3bac099d57a4b5e35c9bbbd82a81a1",
+      "width": 1200,
+      "height": 1600,
+      "size": 2452306,
+      "uploadedDate": "2024-09-26T13:35:47.727Z",
+      "alt": "Download Still There Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "57100abefc28446ba0e8046674604a1d",
+  "status": "ACTIVE",
+  "creationDate": "2024-12-19T14:00:13.840Z",
+  "lastModifiedDate": "2024-12-19T14:00:13.840Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/GhostShark Games/Still There/Savegame/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "50"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "StillThereIlCw5"
+    }
+  },
+  "entitlementName": "d23d64fb069c4302aa8e26565145fc69",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d89ffa27cd4c4e47964ee7cf6b4f615e",
+      "appId": "d7a8cd0dc7384605bbc607e94b6a21be",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Iceberg Interactive",
+  "developerId": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -15,7 +15,7 @@
   "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "status": "ACTIVE",
   "creationDate": "2020-02-11T13:26:45.667Z",
-  "lastModifiedDate": "2021-04-09T20:50:00.765Z",
+  "lastModifiedDate": "2024-12-19T15:02:08.978Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -25,11 +25,14 @@
   "entitlementName": "39b098c4407e4c7f9d28b1a2abcf5b2a",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Warhorse Studios",
   "developerId": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

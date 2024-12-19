@@ -1,0 +1,72 @@
+{
+  "id": "9cc0c39d76354bd79d78f405e09cdb51",
+  "title": "Vampire Survivors",
+  "description": "Description is not set",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6091b3f3943e4a7aa25fcac13de15cd1/vampire-survivors-1ijme.jpg",
+      "md5": "3930f3c87af23325c3b7d97b3177e3fb",
+      "width": 2560,
+      "height": 1440,
+      "size": 2546862,
+      "uploadedDate": "2024-11-18T09:21:11.968Z",
+      "alt": "Vampire Survivors Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6091b3f3943e4a7aa25fcac13de15cd1/vampire-survivors-1jbti.jpg",
+      "md5": "55c7e45670267cb67181926b5f860227",
+      "width": 1200,
+      "height": 1600,
+      "size": 1368075,
+      "uploadedDate": "2024-11-18T09:21:12.625Z",
+      "alt": "Download Vampire Survivors Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a4e77bc04aa440a096962c14b63a41e8",
+  "status": "ACTIVE",
+  "creationDate": "2024-12-19T15:04:14.864Z",
+  "lastModifiedDate": "2024-12-19T15:04:15.574Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/poncle/Vampire_Survivors_EGS/{EpicID}/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Vampire_Survivors_EGS/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "VampireSurvivors"
+    }
+  },
+  "entitlementName": "9cc0c39d76354bd79d78f405e09cdb51",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6cd745ba2fc04613af9865af83cbebb3",
+      "appId": "1136763135c0482cbbb4b2d45e978156",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Poncle Limited",
+  "developerId": "o-s3hymlcn6zwryegvbw86v6mq9up7u9",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
