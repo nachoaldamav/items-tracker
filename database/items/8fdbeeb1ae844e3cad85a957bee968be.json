@@ -1,0 +1,64 @@
+{
+  "id": "8fdbeeb1ae844e3cad85a957bee968be",
+  "title": "Bad Parenthood",
+  "description": "Bad Parenthood",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8d8158c7d080467091bf52c3f577228a/bad-parenthood-u5aft.jpg",
+      "md5": "6baeef349d02da4056bc2b9e73fa56f7",
+      "width": 2560,
+      "height": 1440,
+      "size": 707948,
+      "uploadedDate": "2024-12-06T11:18:50.229Z",
+      "alt": "Bad Parenthood Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8d8158c7d080467091bf52c3f577228a/bad-parenthood-1jfba.jpg",
+      "md5": "d0a0f55f37d0eb504d5c0ee5b3e51acb",
+      "width": 1200,
+      "height": 1600,
+      "size": 420300,
+      "uploadedDate": "2024-12-06T11:49:16.461Z",
+      "alt": "Download Bad Parenthood Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d102b9611bd24998aa305481c0d07f67",
+  "status": "ACTIVE",
+  "creationDate": "2024-12-19T15:00:03.802Z",
+  "lastModifiedDate": "2024-12-19T15:00:03.802Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BadParenthood"
+    }
+  },
+  "entitlementName": "8fdbeeb1ae844e3cad85a957bee968be",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "eceb64ef59624a549ac40d6f0c0bb094",
+      "appId": "23e1a6102f094dde8b29bbbbaac5e1b2",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "IndieGames300",
+  "developerId": "o-dev82j3uxjfhasmgtzw7l4nd8ztcqp",
+  "endOfSupport": false,
+  "applicationId": "fghi45670JcwM4xLzwg9hVhZmuI6UysF",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
