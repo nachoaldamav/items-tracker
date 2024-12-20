@@ -2,7 +2,28 @@
   "id": "cf7fcb7d55304d20a6fcdfb5fa1018f3",
   "title": "HD Voice Pack - English",
   "description": "HD Voice Pack - English",
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-sousx.jpg",
+      "md5": "75fbe30145f9aacbd059d00032c05383",
+      "width": 2560,
+      "height": 1440,
+      "size": 855203,
+      "uploadedDate": "2024-12-17T17:25:01.829Z",
+      "alt": "Kingdom Come: Deliverance HD Voice Pack - English Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-1019g.jpg",
+      "md5": "1e0ff7eab02e143ce659359004633ed8",
+      "width": 1200,
+      "height": 1600,
+      "size": 460207,
+      "uploadedDate": "2024-12-17T17:25:01.997Z",
+      "alt": "Download Kingdom Come: Deliverance HD Voice Pack - English Offer"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,8 +37,8 @@
   ],
   "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "status": "ACTIVE",
-  "creationDate": "2020-01-04T04:37:54.214Z",
-  "lastModifiedDate": "2024-04-25T18:09:44.363Z",
+  "creationDate": "2024-12-19T15:24:33.908Z",
+  "lastModifiedDate": "2024-12-20T12:24:17.645Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -33,7 +54,7 @@
     },
     "UseAccessControl": {
       "type": "STRING",
-      "value": "false"
+      "value": "true"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -53,12 +74,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "48da4267bb59478994048cc53bb0c78e",
+      "id": "e2ff27ccbe64417ea28c7821f23b8982",
       "appId": "EelVoiceEnglish",
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2020-01-04T00:00:00.000Z"
+      ]
     }
   ],
   "developer": "Warhorse Studios",
@@ -67,7 +87,5 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "ageGatings": {},
-  "applicationId": "",
   "unsearchable": false
 }

@@ -2,7 +2,28 @@
   "id": "1e407f50c5214cc59b42333934e837ec",
   "title": "A Woman's Lot",
   "description": "A Woman's Lot",
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-65bw6.jpg",
+      "md5": "a540a9f2ba8ceb08d3a5c1009c251ea3",
+      "width": 2560,
+      "height": 1440,
+      "size": 1029646,
+      "uploadedDate": "2024-12-17T17:21:08.003Z",
+      "alt": "Kingdom Come: Deliverance A Woman's Lot Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-krva5.jpg",
+      "md5": "c216697f40224e0737bf729212fd3cc3",
+      "width": 1200,
+      "height": 1600,
+      "size": 647838,
+      "uploadedDate": "2024-12-17T17:21:07.708Z",
+      "alt": "Download Kingdom Come: Deliverance A Woman's Lot Offer"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,8 +37,8 @@
   ],
   "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "status": "ACTIVE",
-  "creationDate": "2020-01-04T05:30:19.128Z",
-  "lastModifiedDate": "2024-04-25T18:08:57.878Z",
+  "creationDate": "2024-12-19T15:24:33.617Z",
+  "lastModifiedDate": "2024-12-20T12:24:18.468Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -33,7 +54,7 @@
     },
     "UseAccessControl": {
       "type": "STRING",
-      "value": "false"
+      "value": "true"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -53,12 +74,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "dbfe8d998c7f49fd9249425d22ca8c57",
+      "id": "1d77fa89501a4a9e8fb340f67636f464",
       "appId": "EelWomans",
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2020-01-04T00:00:00.000Z"
+      ]
     }
   ],
   "developer": "Warhorse Studios",
@@ -67,7 +87,5 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "ageGatings": {},
-  "applicationId": "",
   "unsearchable": false
 }

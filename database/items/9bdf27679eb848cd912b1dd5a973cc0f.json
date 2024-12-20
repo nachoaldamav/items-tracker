@@ -2,7 +2,28 @@
   "id": "9bdf27679eb848cd912b1dd5a973cc0f",
   "title": "HD Sound Pack",
   "description": "HD Sound Pack",
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-1cazt.jpg",
+      "md5": "75fbe30145f9aacbd059d00032c05383",
+      "width": 2560,
+      "height": 1440,
+      "size": 855203,
+      "uploadedDate": "2024-12-17T17:25:58.452Z",
+      "alt": "Kingdom Come: Deliverance HD Sound Pack Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-1fc6x.jpg",
+      "md5": "1e0ff7eab02e143ce659359004633ed8",
+      "width": 1200,
+      "height": 1600,
+      "size": 460207,
+      "uploadedDate": "2024-12-17T17:25:57.400Z",
+      "alt": "Download Kingdom Come: Deliverance HD Sound Pack Offer"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,8 +37,8 @@
   ],
   "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "status": "ACTIVE",
-  "creationDate": "2020-01-04T04:31:45.504Z",
-  "lastModifiedDate": "2024-04-25T18:01:27.602Z",
+  "creationDate": "2024-12-19T15:24:33.626Z",
+  "lastModifiedDate": "2024-12-20T12:24:18.468Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -33,7 +54,7 @@
     },
     "UseAccessControl": {
       "type": "STRING",
-      "value": "false"
+      "value": "true"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -53,12 +74,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "f383ba4af93d42fba1a013b9db697a43",
+      "id": "b0ec46a8c3ad4adb980b4528694ece4f",
       "appId": "EelSoundPack",
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2020-01-04T00:00:00.000Z"
+      ]
     }
   ],
   "developer": "Warhorse Studios",

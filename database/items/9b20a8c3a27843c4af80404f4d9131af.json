@@ -2,7 +2,28 @@
   "id": "9b20a8c3a27843c4af80404f4d9131af",
   "title": "From the Ashes",
   "description": "From the Ashes",
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-jb4e5.jpg",
+      "md5": "3787ea0be103fec43e34b645c45574ee",
+      "width": 2560,
+      "height": 1440,
+      "size": 866110,
+      "uploadedDate": "2024-12-17T17:21:42.411Z",
+      "alt": "Kingdom Come: Deliverance From the Ashes Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-1xhec.jpg",
+      "md5": "02f03d523f029c0513232a300d13d4bc",
+      "width": 1200,
+      "height": 1600,
+      "size": 780779,
+      "uploadedDate": "2024-12-17T17:21:42.536Z",
+      "alt": "Download Kingdom Come: Deliverance From the Ashes Offer"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,8 +37,8 @@
   ],
   "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "status": "ACTIVE",
-  "creationDate": "2020-01-17T15:18:59.647Z",
-  "lastModifiedDate": "2024-04-25T18:04:12.761Z",
+  "creationDate": "2024-12-19T15:24:33.625Z",
+  "lastModifiedDate": "2024-12-20T12:24:18.468Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -33,7 +54,7 @@
     },
     "UseAccessControl": {
       "type": "STRING",
-      "value": "false"
+      "value": "true"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -53,12 +74,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "fc025c28ffcd4f409aacf8ed2968d19a",
+      "id": "60fa48778e214e6da45642335d871682",
       "appId": "EelAshes",
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2020-01-04T00:00:00.000Z"
+      ]
     }
   ],
   "developer": "Warhorse Studios",
@@ -67,7 +87,5 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "ageGatings": {},
-  "applicationId": "",
   "unsearchable": false
 }

@@ -2,7 +2,28 @@
   "id": "fcf595321e8e4b9c8bbdc140059a5913",
   "title": "HD Texture Pack",
   "description": "HD Texture Pack",
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-e6ttp.jpg",
+      "md5": "75fbe30145f9aacbd059d00032c05383",
+      "width": 2560,
+      "height": 1440,
+      "size": 855203,
+      "uploadedDate": "2024-12-17T17:27:21.841Z",
+      "alt": "Kingdom Come: Deliverance HD Texture Pack Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-1qj2q.jpg",
+      "md5": "1e0ff7eab02e143ce659359004633ed8",
+      "width": 1200,
+      "height": 1600,
+      "size": 460207,
+      "uploadedDate": "2024-12-17T17:27:22.446Z",
+      "alt": "Download Kingdom Come: Deliverance HD Texture Pack Offer"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,8 +37,8 @@
   ],
   "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "status": "ACTIVE",
-  "creationDate": "2020-01-04T04:35:12.747Z",
-  "lastModifiedDate": "2024-04-25T18:09:19.199Z",
+  "creationDate": "2024-12-19T15:24:33.911Z",
+  "lastModifiedDate": "2024-12-20T12:24:17.645Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -33,7 +54,7 @@
     },
     "UseAccessControl": {
       "type": "STRING",
-      "value": "false"
+      "value": "true"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -53,12 +74,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "e877e6532cdc4e50b80a0eba0237e41e",
+      "id": "d91cdb3e89fc462282faaf676f57c3a8",
       "appId": "EelTexturePack",
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2020-01-04T00:00:00.000Z"
+      ]
     }
   ],
   "developer": "Warhorse Studios",
@@ -67,7 +87,5 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "ageGatings": {},
-  "applicationId": "",
   "unsearchable": false
 }

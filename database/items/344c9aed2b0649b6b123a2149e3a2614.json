@@ -2,7 +2,28 @@
   "id": "344c9aed2b0649b6b123a2149e3a2614",
   "title": "Band of Bastards",
   "description": "Band of Bastards",
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-1k9qk.jpg",
+      "md5": "a003b06d95a4725e4c389fc27aadf57b",
+      "width": 2560,
+      "height": 1440,
+      "size": 898341,
+      "uploadedDate": "2024-12-17T17:21:26.851Z",
+      "alt": "Kingdom Come: Deliverance Band of Bastards Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-1qovr.jpg",
+      "md5": "fd1d46e62d44159e7ab7f12587b49bde",
+      "width": 1200,
+      "height": 1600,
+      "size": 693087,
+      "uploadedDate": "2024-12-17T17:21:26.535Z",
+      "alt": "Download Kingdom Come: Deliverance Band of Bastards Offer"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,8 +37,8 @@
   ],
   "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "status": "ACTIVE",
-  "creationDate": "2020-01-04T05:22:03.330Z",
-  "lastModifiedDate": "2024-04-25T18:07:37.790Z",
+  "creationDate": "2024-12-19T15:24:33.618Z",
+  "lastModifiedDate": "2024-12-20T12:24:18.468Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -33,7 +54,7 @@
     },
     "UseAccessControl": {
       "type": "STRING",
-      "value": "false"
+      "value": "true"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -53,12 +74,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "8a56ff8d917c49a999a9d1c0633ab848",
+      "id": "c85ab952100a43a09f49f8e944e82687",
       "appId": "EelBand",
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2020-01-04T00:00:00.000Z"
+      ]
     }
   ],
   "developer": "Warhorse Studios",
@@ -67,7 +87,5 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "ageGatings": {},
-  "applicationId": "",
   "unsearchable": false
 }

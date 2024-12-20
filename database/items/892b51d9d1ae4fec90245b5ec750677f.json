@@ -2,7 +2,28 @@
   "id": "892b51d9d1ae4fec90245b5ec750677f",
   "title": "The Amorous Adventures of Bold Sir Hans Capon",
   "description": "The Amorous Adventures of Bold Sir Hans Capon",
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-1pphe.jpg",
+      "md5": "4a122288277592b8ad6a103e8e071b5b",
+      "width": 2560,
+      "height": 1440,
+      "size": 916177,
+      "uploadedDate": "2024-12-17T17:25:28.483Z",
+      "alt": "Kingdom Come: Deliverance The Amorous Adventures of Bold Sir Hans Capon Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-1glhm.jpg",
+      "md5": "64b2494735ea75402c76a77d66041bc3",
+      "width": 1200,
+      "height": 1600,
+      "size": 838598,
+      "uploadedDate": "2024-12-17T17:25:28.712Z",
+      "alt": "Download Kingdom Come: Deliverance The Amorous Adventures of Bold Sir Hans Capon Offer"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,8 +37,8 @@
   ],
   "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "status": "ACTIVE",
-  "creationDate": "2020-01-04T05:16:50.866Z",
-  "lastModifiedDate": "2024-04-25T18:08:03.655Z",
+  "creationDate": "2024-12-19T15:24:33.623Z",
+  "lastModifiedDate": "2024-12-20T12:24:18.468Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -33,7 +54,7 @@
     },
     "UseAccessControl": {
       "type": "STRING",
-      "value": "false"
+      "value": "true"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -53,12 +74,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "ae08a4d0374a4635968c6c4be7f4c6a0",
+      "id": "b21eb9bdb0974b4d957365d79b92ab4e",
       "appId": "EelAmorous",
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2020-01-04T00:00:00.000Z"
+      ]
     }
   ],
   "developer": "Warhorse Studios",
@@ -67,7 +87,5 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "ageGatings": {},
-  "applicationId": "",
   "unsearchable": false
 }
