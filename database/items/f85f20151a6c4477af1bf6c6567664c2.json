@@ -1,0 +1,34 @@
+{
+  "id": "f85f20151a6c4477af1bf6c6567664c2",
+  "title": "yamaneko Demo audience",
+  "description": "yamaneko Demo audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "f13456de6aaf42a890b87c4b8e45aa7a",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-30T13:10:01.224Z",
+  "lastModifiedDate": "2024-12-17T09:16:16.826Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f85f20151a6c4477af1bf6c6567664c2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Bokeh Game Studio lnc.",
+  "developerId": "o-54exgvubvn7em6cj4b4k5mbc7y79af",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
