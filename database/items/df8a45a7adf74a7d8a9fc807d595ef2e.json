@@ -1,0 +1,80 @@
+{
+  "id": "df8a45a7adf74a7d8a9fc807d595ef2e",
+  "title": "TerraTech",
+  "description": "TerraTech",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6e13abedd200415e9622043791acf055/terratech-o64ox.png",
+      "md5": "ffd96b77607644a56743ec5557ff9f6e",
+      "width": 2560,
+      "height": 1440,
+      "size": 2791658,
+      "uploadedDate": "2024-05-16T09:17:01.947Z",
+      "alt": "TerraTech Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6e13abedd200415e9622043791acf055/terratech-x5vhu.png",
+      "md5": "05fca3237625a3497ffaf2a845d00d27",
+      "width": 1200,
+      "height": 1600,
+      "size": 1646558,
+      "uploadedDate": "2024-05-16T09:17:02.275Z",
+      "alt": "Download TerraTech Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "96830aff053e404c808a54300c941e57",
+  "status": "ACTIVE",
+  "creationDate": "2024-12-17T11:58:16.222Z",
+  "lastModifiedDate": "2024-12-17T11:58:16.645Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserDir}/Library/Application Support/TerraTech/{EpicID}/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/TerraTech/{EpicID}/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "announcementBanners.bin,announcements.bin"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "2000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TerraTechLFsrk"
+    }
+  },
+  "entitlementName": "df8a45a7adf74a7d8a9fc807d595ef2e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a837c6e35eb446a7862b04bfe169776f",
+      "appId": "24b4ee8b16e4450184fe33ff871cc0ee",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Terra Tek Studios LTD",
+  "developerId": "o-an5kffgcuarnlsh4cnl5ke99p5bhsl",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
