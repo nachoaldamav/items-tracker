@@ -1,0 +1,73 @@
+{
+  "id": "62cf4615319347a5ad2874a616bc040b",
+  "title": "Sweet Home: Look and Find Collector's Edition",
+  "description": "Sweet Home: Look and Find Collector's Edition",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3f681d2e1aa74e77b5ef6abcb161cac8/sweet-home-look-and-find-dlj4h.png",
+      "md5": "d65882ff4500de6c39a2951bba0fc879",
+      "width": 2560,
+      "height": 1440,
+      "size": 4099650,
+      "uploadedDate": "2024-12-18T08:37:40.348Z",
+      "alt": "Sweet Home: Look and Find Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3f681d2e1aa74e77b5ef6abcb161cac8/sweet-home-look-and-find-1rfl0.png",
+      "md5": "7fccc6335adafd5c797b548200a04cae",
+      "width": 1200,
+      "height": 1600,
+      "size": 2380913,
+      "uploadedDate": "2024-12-18T08:37:38.862Z",
+      "alt": "Download Sweet Home: Look and Find Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a01318dc2c864cf8a255aded0f8dcb5b",
+  "status": "ACTIVE",
+  "creationDate": "2024-12-22T07:55:53.905Z",
+  "lastModifiedDate": "2024-12-22T07:55:53.905Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/com.avigamesltdLLC.SweetHome_LookandFindCE/Game Saves/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/avigamesltd LLC/Sweet Home_ Look and Find CE\\Game Saves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SweetHomeLookandFindCq2tx"
+    }
+  },
+  "entitlementName": "62cf4615319347a5ad2874a616bc040b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "09cbe48617c54932a553941ffc49e568",
+      "appId": "7398f0f711514aa4969ffc03866c0082",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Avigamesltd",
+  "developerId": "o-b8byv6tmzagarkqkytmk8ykc347hqa",
+  "endOfSupport": false,
+  "applicationId": "fghi4567C8xm7Eco6cc9qVc4tGTPZHGZ",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
