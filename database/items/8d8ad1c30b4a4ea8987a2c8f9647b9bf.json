@@ -1,0 +1,63 @@
+{
+  "id": "8d8ad1c30b4a4ea8987a2c8f9647b9bf",
+  "title": "Ninja Fight",
+  "description": "Ninja Fight",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/cff99c7ef33348748cfe5ce841cc2039/ninja-fighter-13e3n.jpg",
+      "md5": "7877f58f082736160677b1f77c560c8f",
+      "width": 2560,
+      "height": 1440,
+      "size": 1027588,
+      "uploadedDate": "2024-12-21T21:42:11.747Z",
+      "alt": "Ninja Fighter Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/cff99c7ef33348748cfe5ce841cc2039/ninja-fighter-llamh.jpg",
+      "md5": "3782d7409176cf2ef49b39cfe3501181",
+      "width": 1200,
+      "height": 1600,
+      "size": 591088,
+      "uploadedDate": "2024-12-21T21:42:11.869Z",
+      "alt": "Download Ninja Fighter Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7440c35de8d9421b83d639eb80ec1040",
+  "status": "ACTIVE",
+  "creationDate": "2024-12-22T18:38:00.491Z",
+  "lastModifiedDate": "2024-12-22T18:38:00.491Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "NinjaFighter06T95"
+    }
+  },
+  "entitlementName": "8d8ad1c30b4a4ea8987a2c8f9647b9bf",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fffd710bbf9c424fb5127d8ed3c14814",
+      "appId": "d4dbcdd112db496b920cf34f40c54f3d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Pine Games",
+  "developerId": "o-wdh4p9v73kp5ae982mrxypsnwffvgw",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
