@@ -1,0 +1,75 @@
+{
+  "id": "d0baa8fc43df4350b074355c6e564144",
+  "title": "PaymentTest",
+  "description": "PaymentTest",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/dcd83ace86fb4501bde1316ca03e29ad/zenless-zone-zero-zssd7.jpg",
+      "md5": "ef8356baa9b54ded8ba7bfb6cb40830a",
+      "width": 2560,
+      "height": 1440,
+      "size": 73166,
+      "uploadedDate": "2024-12-17T07:09:49.207Z",
+      "alt": "Zenless Zone Zero PaymentTest Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/dcd83ace86fb4501bde1316ca03e29ad/zenless-zone-zero-948sk.jpg",
+      "md5": "452ba3b06d67ae3148ce6649d9039b83",
+      "width": 1200,
+      "height": 1600,
+      "size": 41454,
+      "uploadedDate": "2024-12-17T07:09:49.076Z",
+      "alt": "Download Zenless Zone Zero PaymentTest Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6827387b744d4a46bd70ea8a145e595b",
+  "status": "ACTIVE",
+  "creationDate": "2024-12-04T14:38:56.540Z",
+  "lastModifiedDate": "2024-12-23T11:49:27.049Z",
+  "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "launcher_epic.exe"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DemoTEST"
+    }
+  },
+  "entitlementName": "d0baa8fc43df4350b074355c6e564144",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "25719220-d04b-4656-bd18-ffd3095f418c",
+      "appId": "d212410c4497435282dbe1c7ebc0368d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "COGNOSPHERE PTE. LTD.",
+  "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
