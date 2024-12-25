@@ -1,0 +1,73 @@
+{
+  "id": "eac6533129434f98a6b04a81cbcaf357",
+  "title": "DREDGE",
+  "description": "DREDGE is a single-player fishing adventure with a sinister undercurrent. Sell your catch, upgrade your boat, and dredge the depths for long-buried secrets. Explore a mysterious archipelago and discover why some things are best left forgotten.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/068f920aa2e3477db96c60a00aebf8a3/dredge-1k3u5.jpg",
+      "md5": "e7f50ab8854eff0c117ed9e89a5da577",
+      "width": 2560,
+      "height": 1440,
+      "size": 489149,
+      "uploadedDate": "2024-09-26T12:42:12.477Z",
+      "alt": "DREDGE Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/068f920aa2e3477db96c60a00aebf8a3/dredge-1tu9m.jpg",
+      "md5": "96b45cb9d8e328bfab04329ab88d450d",
+      "width": 1200,
+      "height": 1600,
+      "size": 293526,
+      "uploadedDate": "2024-09-26T12:42:13.221Z",
+      "alt": "Download DREDGE Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8b454b47f5544fc6829cf0fed42ebae0",
+  "status": "ACTIVE",
+  "creationDate": "2024-12-12T15:12:56.383Z",
+  "lastModifiedDate": "2024-12-12T15:12:56.684Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Black Salt Games/DREDGE/eos/saves/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Black Salt Games/DREDGE/eos/saves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DREDGEmKMzx"
+    }
+  },
+  "entitlementName": "eac6533129434f98a6b04a81cbcaf357",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1a1b29dc7ef946edaa9fbf05e6a3d329",
+      "appId": "65c25644a2e0444d8766967a008b1d69",
+      "platform": [
+        "Win32",
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
