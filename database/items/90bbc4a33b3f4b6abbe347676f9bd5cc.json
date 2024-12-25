@@ -1,0 +1,73 @@
+{
+  "id": "90bbc4a33b3f4b6abbe347676f9bd5cc",
+  "title": "Lost and Found 1: Agency Collector's Edition",
+  "description": "Lost and Found 1: Agency Collector's Edition",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/39c77813b5654c3e94c4ea9c8734df84/lost-and-found-agency-1h1ab.jpg",
+      "md5": "764d72c10d6401733a267cab6796416b",
+      "width": 2560,
+      "height": 1440,
+      "size": 1834066,
+      "uploadedDate": "2024-12-19T09:09:42.686Z",
+      "alt": "Lost and Found Agency Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/39c77813b5654c3e94c4ea9c8734df84/lost-and-found-agency-146va.png",
+      "md5": "a3e4b87961147b166d8b4130a61c87e8",
+      "width": 1200,
+      "height": 1600,
+      "size": 2272194,
+      "uploadedDate": "2024-12-19T09:09:46.742Z",
+      "alt": "Download Lost and Found Agency Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c52e499ddc0c4121bd170e205a39d5c6",
+  "status": "ACTIVE",
+  "creationDate": "2024-12-24T14:41:22.366Z",
+  "lastModifiedDate": "2024-12-24T14:41:22.366Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/com.avigamesltdLLC.Lost&FoundAgency1SE/Game Saves/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/avigamesltd LLC/Lost & Found Agency 1 SE/Game Saves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LostandFound1Agencybmv5r"
+    }
+  },
+  "entitlementName": "90bbc4a33b3f4b6abbe347676f9bd5cc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bdb0417296304d5f8cb2cfe88ec7f742",
+      "appId": "a0b9fb2b5e79477daca91963d640be56",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Avigamesltd",
+  "developerId": "o-b8byv6tmzagarkqkytmk8ykc347hqa",
+  "endOfSupport": false,
+  "applicationId": "fghi4567b9vN8N4gmUcH8S5uuqBP7EB6",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
