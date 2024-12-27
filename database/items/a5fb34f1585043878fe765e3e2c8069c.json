@@ -1,0 +1,64 @@
+{
+  "id": "a5fb34f1585043878fe765e3e2c8069c",
+  "title": "Yolo.ex",
+  "description": "Yolo.ex",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/311e3cd23a5a4098b87e7ea425ebadd8/yoloex-s2bdx.png",
+      "md5": "383f2351fe2ecfe44c9deb74fd62f3f7",
+      "width": 2560,
+      "height": 1440,
+      "size": 3757691,
+      "uploadedDate": "2024-11-23T16:30:55.507Z",
+      "alt": "Yolo.ex Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/311e3cd23a5a4098b87e7ea425ebadd8/yoloex-jxoev.png",
+      "md5": "4c8def93eb8046f3f45f6c91bfd40d70",
+      "width": 1200,
+      "height": 1600,
+      "size": 3242221,
+      "uploadedDate": "2024-11-23T16:30:55.152Z",
+      "alt": "Download Yolo.ex Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8c9e2fb8b5054317adcb307f42a90224",
+  "status": "ACTIVE",
+  "creationDate": "2024-12-24T16:00:22.094Z",
+  "lastModifiedDate": "2024-12-24T16:00:22.094Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Yolodotex"
+    }
+  },
+  "entitlementName": "a5fb34f1585043878fe765e3e2c8069c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3dbbc24599fb41de963d7b492dbafb23",
+      "appId": "4e5886773421464eaa51ed2a4d35b105",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Yolo.ex",
+  "developerId": "o-duxftqhkhkrv4zw6lzhlq4p92ptphd",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
