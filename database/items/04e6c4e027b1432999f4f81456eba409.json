@@ -1,0 +1,64 @@
+{
+  "id": "04e6c4e027b1432999f4f81456eba409",
+  "title": "SAELIG",
+  "description": "SAELIG",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/95fbff4720c742ce8b8aaba79a3e19be/saelig-og80z.jpg",
+      "md5": "2b05856d3e2a8bd20803f9b536356727",
+      "width": 2560,
+      "height": 1440,
+      "size": 3304797,
+      "uploadedDate": "2024-12-22T22:40:37.742Z",
+      "alt": "SAELIG Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/95fbff4720c742ce8b8aaba79a3e19be/saelig-kb067.jpg",
+      "md5": "66f52353a544d842ecc4eddcad232ca0",
+      "width": 1200,
+      "height": 1600,
+      "size": 2027300,
+      "uploadedDate": "2024-12-22T22:39:08.252Z",
+      "alt": "Download SAELIG Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f2fa0c442f6b4581b004e11143efe583",
+  "status": "ACTIVE",
+  "creationDate": "2024-12-27T23:06:06.402Z",
+  "lastModifiedDate": "2024-12-27T23:06:06.402Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SAELIG"
+    }
+  },
+  "entitlementName": "04e6c4e027b1432999f4f81456eba409",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "84b9a14bc13b418c98083fdad92359d8",
+      "appId": "86a27c8d006748c28d35e201defbfae8",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Atorcoppe Games",
+  "developerId": "o-bc7ce7uw7m487pbsphpf63g63kdpjs",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
