@@ -1,0 +1,76 @@
+{
+  "id": "7ae00498170d40a18952e3542b7cdd08",
+  "title": "KILL KNIGHT",
+  "description": "KILL KNIGHT is an ultra-responsive arcade-inspired isometric action shooter. Condemned to eternal sufferance, deep within the voids of an eldritch arena, you must wield an arsenal of devastating weaponry to obliterate swarms of otherworldly horrors - and MASTER THE DEMON WITHIN.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7ec1d897ec2c4228b5b2bb63cc447456/kill-knight-365qs.jpg",
+      "md5": "ab10c4387d8da162730fefc8a3eb9c22",
+      "width": 2560,
+      "height": 1440,
+      "size": 531463,
+      "uploadedDate": "2024-11-13T04:50:58.312Z",
+      "alt": "KILL KNIGHT Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7ec1d897ec2c4228b5b2bb63cc447456/kill-knight-6pm7c.jpg",
+      "md5": "52e24762dffce980f3d24b0b4ea417c4",
+      "width": 1200,
+      "height": 1600,
+      "size": 708724,
+      "uploadedDate": "2024-11-13T04:51:04.705Z",
+      "alt": "Download KILL KNIGHT Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "db6d869788bd4aa59f9ccb26c91a0153",
+  "status": "ACTIVE",
+  "creationDate": "2024-12-27T21:55:46.297Z",
+  "lastModifiedDate": "2024-12-27T21:55:46.297Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Playside Studios/KILL KNIGHT/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Campaign0.save,Campaign0.backupsave"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "2"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KILLKNIGHT"
+    }
+  },
+  "entitlementName": "7ae00498170d40a18952e3542b7cdd08",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "630762a31e424061bbddeeb21af7faa9",
+      "appId": "c7cb232d49d347aabfa73d583660d7ee",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "PlaySide Studios LTD",
+  "developerId": "o-dhnxbfhqukwnj6x7db4g94s764peag",
+  "endOfSupport": false,
+  "applicationId": "fghi4567pChK5gxct3B85e5CUs1M99qq",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

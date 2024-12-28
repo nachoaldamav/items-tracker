@@ -1,0 +1,75 @@
+{
+  "id": "8a4ff40030f94b03bd470038324781ec",
+  "title": "KILL KNIGHT dev",
+  "description": "KILL KNIGHT dev",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7ec1d897ec2c4228b5b2bb63cc447456/kill-knight-n1meh.jpg",
+      "md5": "e577b294f0195b9c2e2f4509cfae2546",
+      "width": 2560,
+      "height": 1440,
+      "size": 567253,
+      "uploadedDate": "2024-11-13T05:26:38.203Z",
+      "alt": "KILL KNIGHT KILL KNIGHT dev Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7ec1d897ec2c4228b5b2bb63cc447456/kill-knight-1dlji.jpg",
+      "md5": "0382af4fbab9e77f811e440c1e85af9c",
+      "width": 1200,
+      "height": 1600,
+      "size": 666793,
+      "uploadedDate": "2024-11-13T05:26:51.249Z",
+      "alt": "Download KILL KNIGHT KILL KNIGHT dev Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "db6d869788bd4aa59f9ccb26c91a0153",
+  "status": "ACTIVE",
+  "creationDate": "2024-12-27T21:55:46.300Z",
+  "lastModifiedDate": "2024-12-27T21:55:46.300Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Playside Studios/KILL KNIGHT/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Campaign0.save,Campaign0.backupsave"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "2"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KILLKNIGHT_dev"
+    }
+  },
+  "entitlementName": "8a4ff40030f94b03bd470038324781ec",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6d67a015-964e-426f-b9c8-5cb3cc388823",
+      "appId": "4e73df52cdca44afa2c220c08355f7d9",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "PlaySide Studios LTD",
+  "developerId": "o-dhnxbfhqukwnj6x7db4g94s764peag",
+  "endOfSupport": false,
+  "applicationId": "fghi4567pChK5gxct3B85e5CUs1M99qq",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
