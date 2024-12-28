@@ -34,9 +34,21 @@
   ],
   "namespace": "f2fa0c442f6b4581b004e11143efe583",
   "status": "ACTIVE",
-  "creationDate": "2024-12-27T23:06:06.402Z",
-  "lastModifiedDate": "2024-12-27T23:06:06.402Z",
+  "creationDate": "2023-03-20T05:28:10.606Z",
+  "lastModifiedDate": "2024-12-28T19:25:46.996Z",
   "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Atorcoppe Games/SAELIG/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Atorcoppe Games/SAELIG/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": ".anglo"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "SAELIG"
@@ -50,8 +62,8 @@
       "id": "84b9a14bc13b418c98083fdad92359d8",
       "appId": "86a27c8d006748c28d35e201defbfae8",
       "platform": [
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ]
     }
   ],
