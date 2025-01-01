@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/77739fdb114243c4b385b75e5b462393/ghost-at-dawn-181jq.png",
-      "md5": "e772ac2b008576b44b67d9163194b5d5",
+      "url": "https://cdn1.epicgames.com/spt-assets/77739fdb114243c4b385b75e5b462393/ghost-at-dawn-1fgfx.jpg",
+      "md5": "934247d4709c5660f73d1914cfccb4db",
       "width": 2560,
       "height": 1440,
-      "size": 2780289,
-      "uploadedDate": "2024-04-23T18:46:10.773Z",
+      "size": 1095706,
+      "uploadedDate": "2024-12-19T23:46:10.947Z",
       "alt": "GHOST at DAWN Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/77739fdb114243c4b385b75e5b462393/ghost-at-dawn-1624z.png",
-      "md5": "ef1a05bcfe742472829627b4862923e5",
+      "url": "https://cdn1.epicgames.com/spt-assets/77739fdb114243c4b385b75e5b462393/ghost-at-dawn-zgax2.png",
+      "md5": "f08face1e94044e134dab0184b2862f1",
       "width": 1200,
       "height": 1600,
-      "size": 2597836,
-      "uploadedDate": "2024-04-23T18:46:18.265Z",
+      "size": 2549806,
+      "uploadedDate": "2024-12-17T20:21:07.645Z",
       "alt": "Download GHOST at DAWN Offer"
     }
   ],
@@ -34,8 +34,8 @@
   ],
   "namespace": "709be43d805f419daa4880a85185a152",
   "status": "ACTIVE",
-  "creationDate": "2024-04-24T15:58:41.206Z",
-  "lastModifiedDate": "2024-04-24T15:58:41.206Z",
+  "creationDate": "2024-03-27T20:58:18.381Z",
+  "lastModifiedDate": "2024-12-31T21:16:07.346Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -51,15 +51,17 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "ef524b822d3a46628a8ae0f003fbfbc9",
+      "id": "23f0b99cf36d4c93978ff33339f05551",
       "appId": "563103eefbe547db8349db78db1e1445",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Blue and Red Games",
   "developerId": "o-48d5vm6u234zrd9t23w7qj9ehvjvcc",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567HnY0bru170gelIGfFzrIFL0a",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
