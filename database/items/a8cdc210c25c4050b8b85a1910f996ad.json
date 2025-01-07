@@ -31,14 +31,25 @@
   ],
   "namespace": "d5cbd232ad304c91aacc20f31849435c",
   "status": "ACTIVE",
-  "creationDate": "2024-12-05T16:16:57.692Z",
-  "lastModifiedDate": "2024-12-05T16:16:57.692Z",
+  "creationDate": "2024-12-05T11:23:22.811Z",
+  "lastModifiedDate": "2025-01-07T09:19:23.702Z",
+  "customAttributes": {},
   "entitlementName": "a8cdc210c25c4050b8b85a1910f996ad",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1367f27d73af46d8b9535d2d668301fc",
+      "appId": "775d769308e04148a0d29e8bca729055",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
   "developer": "Frozen District",
   "developerId": "o-uwbdkl2k232jmhme72fmvat8vwlfwd",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
