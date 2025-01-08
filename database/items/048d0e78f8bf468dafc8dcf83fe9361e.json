@@ -1,8 +1,7 @@
 {
-  "id": "de676543f756434fa9cad87ee1e704a2",
-  "title": "jesuite GeneralAudience_marker",
-  "description": "jesuite GeneralAudience_marker",
-  "keyImages": [],
+  "id": "048d0e78f8bf468dafc8dcf83fe9361e",
+  "title": "Star Wars Outlaws Ultimate Pack audience_marker",
+  "description": "Star Wars Outlaws Ultimate Pack audience_marker",
   "categories": [
     {
       "path": "audience"
@@ -13,10 +12,15 @@
   ],
   "namespace": "e860fa919120430ca12c557bb676bc6a",
   "status": "ACTIVE",
-  "creationDate": "2024-04-01T14:32:08.915Z",
-  "lastModifiedDate": "2025-01-07T17:55:16.449Z",
-  "customAttributes": {},
-  "entitlementName": "de676543f756434fa9cad87ee1e704a2",
+  "creationDate": "2024-12-17T20:03:04.196Z",
+  "lastModifiedDate": "2025-01-07T17:55:16.443Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "048d0e78f8bf468dafc8dcf83fe9361e",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],

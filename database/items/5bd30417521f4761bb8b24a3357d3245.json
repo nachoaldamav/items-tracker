@@ -1,8 +1,7 @@
 {
-  "id": "de676543f756434fa9cad87ee1e704a2",
-  "title": "jesuite GeneralAudience_marker",
-  "description": "jesuite GeneralAudience_marker",
-  "keyImages": [],
+  "id": "5bd30417521f4761bb8b24a3357d3245",
+  "title": "Deluxe audience_marker",
+  "description": "Deluxe audience_marker",
   "categories": [
     {
       "path": "audience"
@@ -13,10 +12,15 @@
   ],
   "namespace": "e860fa919120430ca12c557bb676bc6a",
   "status": "ACTIVE",
-  "creationDate": "2024-04-01T14:32:08.915Z",
-  "lastModifiedDate": "2025-01-07T17:55:16.449Z",
-  "customAttributes": {},
-  "entitlementName": "de676543f756434fa9cad87ee1e704a2",
+  "creationDate": "2024-12-17T19:56:20.499Z",
+  "lastModifiedDate": "2025-01-07T17:55:16.527Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5bd30417521f4761bb8b24a3357d3245",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
