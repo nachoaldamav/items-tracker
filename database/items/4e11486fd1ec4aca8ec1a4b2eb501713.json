@@ -1,0 +1,63 @@
+{
+  "id": "4e11486fd1ec4aca8ec1a4b2eb501713",
+  "title": "Kiki",
+  "description": "Kiki",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c69cfcbd62904d0da4cdcaa45b5b168f/kiki-yn3tv.png",
+      "md5": "f853f6b8fdb8aad81ddabda2880f608d",
+      "width": 2560,
+      "height": 1440,
+      "size": 541010,
+      "uploadedDate": "2025-01-09T07:31:38.879Z",
+      "alt": "Kiki Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c69cfcbd62904d0da4cdcaa45b5b168f/kiki-1xrsc.png",
+      "md5": "5a387bf9a9c6b579302130a28d56714e",
+      "width": 1200,
+      "height": 1600,
+      "size": 391840,
+      "uploadedDate": "2025-01-09T07:31:38.769Z",
+      "alt": "Download Kiki Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "44c367dfad5c471792cf7a3c4b623a1b",
+  "status": "ACTIVE",
+  "creationDate": "2025-01-09T18:15:02.821Z",
+  "lastModifiedDate": "2025-01-09T18:15:02.821Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Kiki"
+    }
+  },
+  "entitlementName": "4e11486fd1ec4aca8ec1a4b2eb501713",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8d04e351c0004c5dbeb51cea0595a64e",
+      "appId": "02a627e4b47848dd87a535c554414c7b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "NipoBox Publishing",
+  "developerId": "o-nxu7yzhbs7xdcacndgcwkbabyjw9nq",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
