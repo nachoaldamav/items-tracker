@@ -32,13 +32,24 @@
   "namespace": "11caacd8754d43ffb0c4f479d6035b5b",
   "status": "ACTIVE",
   "creationDate": "2024-08-26T19:07:19.976Z",
-  "lastModifiedDate": "2024-12-06T20:08:10.742Z",
+  "lastModifiedDate": "2025-01-09T20:46:57.071Z",
+  "customAttributes": {},
   "entitlementName": "e0881f5a40654a78a330c9c1ff8a0adf",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "20b8df345daf4d6abd8929847cee776d",
+      "appId": "b32d915f59094ffeac7d1a509b8374fa",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
   "developer": "Piranha Games",
   "developerId": "o-muad9pj32k67stc4ycpgpplwq84sgq",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
