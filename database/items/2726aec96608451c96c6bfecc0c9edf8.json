@@ -35,8 +35,8 @@
   ],
   "namespace": "6cec00f8934146508b884b0f139d55d0",
   "status": "ACTIVE",
-  "creationDate": "2019-08-15T16:16:20.378Z",
-  "lastModifiedDate": "2024-01-10T16:02:24.840Z",
+  "creationDate": "2024-03-26T20:33:28.927Z",
+  "lastModifiedDate": "2025-01-10T18:44:21.445Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -72,13 +72,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "f1dbb05c2a8c4529b480eb73491c0d4d",
+      "id": "ff671fa0d50545fe8027812b180151ce",
       "appId": "Wigeon",
       "platform": [
-        "Windows",
-        "Mac"
-      ],
-      "dateAdded": "2019-08-26T00:00:00.000Z"
+        "Mac",
+        "Windows"
+      ]
     }
   ],
   "developer": "Pillow Castle",
