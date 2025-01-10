@@ -36,7 +36,7 @@
   "namespace": "1b8a504ec52d4430b65cca2990ad6c7f",
   "status": "ACTIVE",
   "creationDate": "2020-03-16T16:10:41.004Z",
-  "lastModifiedDate": "2020-09-03T16:37:28.886Z",
+  "lastModifiedDate": "2025-01-10T14:43:45.900Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -72,12 +72,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "50e38688d8584cbbbc96838520f5161e",
+      "id": "69b5939cac6b4261812d27aeb10632f0",
       "appId": "afdf59e3dc8f40ec8fd887b5d3fcef23",
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2020-04-03T00:00:00.000Z"
+      ]
     }
   ],
   "developer": "Butterscotch Shenanigans",
