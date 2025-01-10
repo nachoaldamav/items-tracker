@@ -34,8 +34,8 @@
   ],
   "namespace": "8f8f6f0f4e3c492aac38c828ea2f763a",
   "status": "ACTIVE",
-  "creationDate": "2024-03-21T21:00:20.962Z",
-  "lastModifiedDate": "2024-03-21T21:00:20.962Z",
+  "creationDate": "2023-11-16T12:58:13.421Z",
+  "lastModifiedDate": "2025-01-10T13:12:18.619Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -57,7 +57,10 @@
     {
       "id": "0632cd14462a4185a95d211470d7bb98",
       "appId": "5fa9bac107fe4264932da4501aa6bfba",
-      "platform": []
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "CI Games ",
