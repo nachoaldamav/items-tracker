@@ -1,0 +1,61 @@
+{
+  "id": "23781de954954f6a88010b4f054614f9",
+  "title": "Brew",
+  "description": "Brew",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d0951abf848045929292c0507d36ac1c/brew-18vie.PNG",
+      "md5": "00550574ab12e419d5e4d90a179e3cde",
+      "width": 2560,
+      "height": 1440,
+      "size": 3998267,
+      "uploadedDate": "2025-01-07T12:04:00.712Z",
+      "alt": "Brew Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d0951abf848045929292c0507d36ac1c/brew-mo908.PNG",
+      "md5": "9713af7b616e49ec8dd483f2e1cb07a3",
+      "width": 1200,
+      "height": 1600,
+      "size": 2667136,
+      "uploadedDate": "2025-01-07T12:04:13.796Z",
+      "alt": "Download Brew Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1c777f998b15401c9d531165af4c9396",
+  "status": "ACTIVE",
+  "creationDate": "2023-03-10T17:00:11.402Z",
+  "lastModifiedDate": "2025-01-10T18:46:29.348Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Brew"
+    }
+  },
+  "entitlementName": "23781de954954f6a88010b4f054614f9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2692c4d00b154235b7ec45951233ce6e",
+      "appId": "f3625c88574042c7a8a53c98cbd4b0f4",
+      "platform": []
+    }
+  ],
+  "developer": "Snow Leaf Studios AS",
+  "developerId": "o-g3drunrwlwe74sak65v9fe8dventxw",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
