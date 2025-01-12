@@ -1,0 +1,63 @@
+{
+  "id": "2b4a630409144b2aab0b9d7b22fb217d",
+  "title": "Solar Zombie",
+  "description": "Solar Zombie",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/65d9a230c574493ea42bbeaf206cf39b/solar-zombies-xjohs.png",
+      "md5": "29c7e822add47fde5b420647e96414a2",
+      "width": 2560,
+      "height": 1440,
+      "size": 1432653,
+      "uploadedDate": "2025-01-11T09:01:01.603Z",
+      "alt": "Solar Zombies Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/65d9a230c574493ea42bbeaf206cf39b/solar-zombies-2o0fp.png",
+      "md5": "0eabb1502fcb597236fb41a45970643a",
+      "width": 1200,
+      "height": 1600,
+      "size": 719703,
+      "uploadedDate": "2025-01-11T09:00:45.883Z",
+      "alt": "Download Solar Zombies Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "387affda9fd541cc93ec16b7299f73ea",
+  "status": "ACTIVE",
+  "creationDate": "2025-01-12T02:15:56.151Z",
+  "lastModifiedDate": "2025-01-12T02:15:56.151Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SolarZombie"
+    }
+  },
+  "entitlementName": "2b4a630409144b2aab0b9d7b22fb217d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a07b30123a99417986937e867adb96da",
+      "appId": "cae887fb41d64848bf7577139a2293d8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Solar Gaming",
+  "developerId": "o-bt3n84p2vahy6pqypwy8x3s77l3zrd",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
