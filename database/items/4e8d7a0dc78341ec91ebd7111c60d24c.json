@@ -1,0 +1,61 @@
+{
+  "id": "4e8d7a0dc78341ec91ebd7111c60d24c",
+  "title": "Leave",
+  "description": "Leave",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c61bcbe2845a4d3fb61fa87341356d99/leave-18bjc.jpg",
+      "md5": "6f434c5bb9e14823f27e102891aae2db",
+      "width": 2560,
+      "height": 1440,
+      "size": 2179035,
+      "uploadedDate": "2025-01-07T19:00:36.508Z",
+      "alt": "Leave Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c61bcbe2845a4d3fb61fa87341356d99/leave-18psp.png",
+      "md5": "34b22aa5aec3d871368ec424c0cdbd4e",
+      "width": 1200,
+      "height": 1600,
+      "size": 2372319,
+      "uploadedDate": "2025-01-07T19:00:54.155Z",
+      "alt": "Download Leave Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9760f93868674693bef968dc786c938d",
+  "status": "ACTIVE",
+  "creationDate": "2025-01-13T17:24:03.273Z",
+  "lastModifiedDate": "2025-01-13T17:24:03.273Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Leave"
+    }
+  },
+  "entitlementName": "4e8d7a0dc78341ec91ebd7111c60d24c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2cac3ce43686490d88b035df52cefd6b",
+      "appId": "32ba5e3e48ac4f229ada7c29fcccd2ca",
+      "platform": []
+    }
+  ],
+  "developer": "Ramdal Games",
+  "developerId": "o-ckwdxbwpvrgdgyzv32gparwz6f2ybm",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
