@@ -1,0 +1,63 @@
+{
+  "id": "b36f7348c8ce409fade0ada82ddd31a0",
+  "title": "Spellagis",
+  "description": "Spellagis",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7286f17f8b584c3c97b88771df09d2f8/spellagis-1ie2k.png",
+      "md5": "4da6c3b3162bf6b718fd59abe8d3f314",
+      "width": 2560,
+      "height": 1440,
+      "size": 799208,
+      "uploadedDate": "2025-01-11T04:43:17.281Z",
+      "alt": "Spellagis Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7286f17f8b584c3c97b88771df09d2f8/spellagis-1rfhq.png",
+      "md5": "d8b71f9c36ec86d47dd0ced5586135f7",
+      "width": 1200,
+      "height": 1600,
+      "size": 760781,
+      "uploadedDate": "2025-01-11T04:43:17.422Z",
+      "alt": "Download Spellagis Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0513cbd7d15b4226889bc6d5245d32a9",
+  "status": "ACTIVE",
+  "creationDate": "2025-01-13T21:45:14.208Z",
+  "lastModifiedDate": "2025-01-13T21:45:14.208Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Spellagis"
+    }
+  },
+  "entitlementName": "b36f7348c8ce409fade0ada82ddd31a0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6fdb2f4da6da4149a064b1c998aa51a1",
+      "appId": "636a523c82ab4765803bbf5fe14154c5",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "NipoBox Publishing",
+  "developerId": "o-nxu7yzhbs7xdcacndgcwkbabyjw9nq",
+  "endOfSupport": false,
+  "applicationId": "fghi45671wBOyiQfoheD5J0vnWumteUA",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
