@@ -1,17 +1,17 @@
 {
   "id": "c9bcf144df3c4eb19f545e1f12abed93",
   "title": "Orcs Must Die! Deathtrap",
-  "description": "Orcs Must Die! Deathtrap is an action-packed third-person shooter and trap defense game. Evolve as an orc-slaying War Mage through rogue-lite choices and obliterate, eviscerate, and incinerate massive hordes with up to four players.",
+  "description": "Orcs Must Die! Deathtrap combines chaotic third-person combat with devious trap-laying strategy. Enjoy endless replayability as your War Mage grows stronger with every battle. Repel relentless orc hordes solo or with up to 4 players.",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/966cfb3f0af649e98706c723627ebb21/burst-m69mx.jpg",
-      "md5": "e5c597f01d0bf4a1f406e21c9a805f89",
+      "url": "https://cdn1.epicgames.com/spt-assets/966cfb3f0af649e98706c723627ebb21/orcs-must-die-deathtrap-cgovv.jpg",
+      "md5": "69093cd22b6ee66c4c6d7510b79debaa",
       "width": 2560,
       "height": 1440,
-      "size": 896855,
-      "uploadedDate": "2024-07-02T22:38:01.556Z",
-      "alt": "Burst Offer"
+      "size": 1283530,
+      "uploadedDate": "2024-11-21T16:45:57.838Z",
+      "alt": "Orcs Must Die! Deathtrap Offer"
     },
     {
       "type": "DieselGameBoxTall",
@@ -34,9 +34,17 @@
   ],
   "namespace": "1a6c29112ec747bda627f2f6643d1dae",
   "status": "ACTIVE",
-  "creationDate": "2024-07-17T13:07:26.934Z",
-  "lastModifiedDate": "2024-07-17T13:07:26.934Z",
+  "creationDate": "2024-03-05T06:47:29.403Z",
+  "lastModifiedDate": "2025-01-15T17:33:17.369Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Robot Entertainment/Orcs Must Die! Deathtrap/Saved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10000"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "OMDD"
@@ -47,7 +55,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "a0c067ac73f8462eb207dbd272140322",
+      "id": "679ac9ffd2914b4dabf79a0f62bddaaa",
       "appId": "9399a71cdf0f4895be24f6be7c78f872",
       "platform": [
         "Windows"
