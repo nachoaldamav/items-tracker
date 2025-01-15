@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/50033abd4a7040c4889f9426e75cb384/eternal-strands-7k8fc.jpg",
-      "md5": "9cc62f22245cf5ff088d9cbe685b5928",
+      "url": "https://cdn1.epicgames.com/spt-assets/50033abd4a7040c4889f9426e75cb384/eternal-strands-inhaj.jpg",
+      "md5": "3d2e26609a2c5cbdf129165d145236b6",
       "width": 2560,
       "height": 1440,
-      "size": 2458884,
-      "uploadedDate": "2024-09-25T17:36:30.453Z",
+      "size": 906707,
+      "uploadedDate": "2024-11-27T19:44:32.073Z",
       "alt": "Eternal Strands Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/50033abd4a7040c4889f9426e75cb384/eternal-strands-ni72e.png",
-      "md5": "e02cc1bf701137f99aadf58ab789afd4",
+      "url": "https://cdn1.epicgames.com/spt-assets/50033abd4a7040c4889f9426e75cb384/eternal-strands-1pmuz.jpg",
+      "md5": "e64e553383b3306e220eaf542d0892ca",
       "width": 1200,
       "height": 1600,
-      "size": 2918777,
-      "uploadedDate": "2024-09-25T17:35:29.654Z",
+      "size": 559509,
+      "uploadedDate": "2024-11-27T19:44:36.076Z",
       "alt": "Download Eternal Strands Offer"
     }
   ],
@@ -34,9 +34,13 @@
   ],
   "namespace": "5deb3472640c45f5b47d6d005aa0cb98",
   "status": "ACTIVE",
-  "creationDate": "2024-10-03T21:00:12.324Z",
-  "lastModifiedDate": "2024-10-03T21:00:12.324Z",
+  "creationDate": "2024-04-16T17:46:01.782Z",
+  "lastModifiedDate": "2025-01-15T13:17:38.708Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/EternalStrands/Saved/SaveGames/{EpicID}/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "EternalStrands"
@@ -49,13 +53,15 @@
     {
       "id": "cf702a00e94f4f4f8d81afb4d2d0aa7d",
       "appId": "b06c36ce2dd84a49bb5dad9c8bb8b5f7",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Yellow Brick Games",
   "developerId": "o-aww6jy6wukmdfbrzvtnrwa37csqwsa",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi45670uZwOYxigLf97Wc0cfjehBLz",
   "requiresSecureAccount": false,
   "unsearchable": false
 }

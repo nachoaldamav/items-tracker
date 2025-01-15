@@ -1,0 +1,67 @@
+{
+  "id": "a3c6e07bc42f405c8708070c13c5e2c8",
+  "title": "Eternal Strands Demo",
+  "description": "Eternal Strands Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/50033abd4a7040c4889f9426e75cb384/eternal-strands-1au9j.jpg",
+      "md5": "3d2e26609a2c5cbdf129165d145236b6",
+      "width": 2560,
+      "height": 1440,
+      "size": 906707,
+      "uploadedDate": "2024-11-28T04:40:04.232Z",
+      "alt": "Eternal Strands Eternal Strands Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/50033abd4a7040c4889f9426e75cb384/eternal-strands-3wv8t.jpg",
+      "md5": "e64e553383b3306e220eaf542d0892ca",
+      "width": 1200,
+      "height": 1600,
+      "size": 559509,
+      "uploadedDate": "2024-11-28T04:40:02.549Z",
+      "alt": "Download Eternal Strands Eternal Strands Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5deb3472640c45f5b47d6d005aa0cb98",
+  "status": "ACTIVE",
+  "creationDate": "2025-01-15T13:17:38.724Z",
+  "lastModifiedDate": "2025-01-15T13:17:38.724Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/EternalStrands/Saved/SaveGames/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DemoEternalStrands"
+    }
+  },
+  "entitlementName": "a3c6e07bc42f405c8708070c13c5e2c8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2981fd6c-30cd-453d-8628-cc105ad1359e",
+      "appId": "7c13cd567d234a07a25bab2fbc9a8d12",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Yellow Brick Games",
+  "developerId": "o-aww6jy6wukmdfbrzvtnrwa37csqwsa",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
