@@ -35,8 +35,12 @@
   "namespace": "bda8d2133655435982b9118972792328",
   "status": "ACTIVE",
   "creationDate": "2025-01-14T16:48:03.721Z",
-  "lastModifiedDate": "2025-01-14T16:48:03.721Z",
+  "lastModifiedDate": "2025-01-14T23:08:12.496Z",
   "customAttributes": {
+    "iosCatalogItemId": {
+      "type": "STRING",
+      "value": "c73f2eeef43c4d1ca6690f8ca963937e"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "FirestoneOnlineIdleRafed7"
@@ -56,7 +60,10 @@
   ],
   "developer": "AM Holyday Studios Ltd",
   "developerId": "o-eg5kffqlkqfqx99eqtwhnvj2p524dv",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }

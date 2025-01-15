@@ -26,20 +26,24 @@
   ],
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "namespace": "bda8d2133655435982b9118972792328",
   "status": "ACTIVE",
   "creationDate": "2025-01-14T16:48:12.104Z",
-  "lastModifiedDate": "2025-01-14T18:23:50.779Z",
+  "lastModifiedDate": "2025-01-14T23:07:52.680Z",
   "customAttributes": {
+    "androidCatalogItemId": {
+      "type": "STRING",
+      "value": "fa311c526d554653a025da7f52ec5a8c"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "FirestoneOnlineIdleRfac94"
@@ -59,7 +63,10 @@
   ],
   "developer": "AM Holyday Studios Ltd",
   "developerId": "o-eg5kffqlkqfqx99eqtwhnvj2p524dv",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
