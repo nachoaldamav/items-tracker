@@ -1,0 +1,63 @@
+{
+  "id": "b023e96c06e545e6bf88b3376bb9bb88",
+  "title": "Operation DFR",
+  "description": "Operation DFR",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d41ff7744e704caaba7b0cef73475709/dfr-bsvip.png",
+      "md5": "84c77254474654270adee83846efb559",
+      "width": 2560,
+      "height": 1440,
+      "size": 2451713,
+      "uploadedDate": "2024-12-14T03:46:43.662Z",
+      "alt": "DFR Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d41ff7744e704caaba7b0cef73475709/dfr-1iupy.png",
+      "md5": "91734b3c3cf005ff2fb19693899d272d",
+      "width": 1200,
+      "height": 1600,
+      "size": 1369592,
+      "uploadedDate": "2024-12-14T03:50:21.680Z",
+      "alt": "Download DFR Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cb5c79b46cf74fa2835ff0bd9d9f7faa",
+  "status": "ACTIVE",
+  "creationDate": "2025-01-15T03:52:29.889Z",
+  "lastModifiedDate": "2025-01-15T03:52:29.889Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "OperationDFR"
+    }
+  },
+  "entitlementName": "b023e96c06e545e6bf88b3376bb9bb88",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8e03dd30a252418d81d59ca045098621",
+      "appId": "51027cec2a8a4ede84d05178892ac2f3",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "MahoganyLog's Organization",
+  "developerId": "o-axs4hqnpk4p9f33zkr9ux46vszwkaf",
+  "endOfSupport": false,
+  "applicationId": "fghi4567u6sMeoIs8zuKx73xiKxzusXX",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
