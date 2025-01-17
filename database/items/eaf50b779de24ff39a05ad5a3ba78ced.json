@@ -1,0 +1,63 @@
+{
+  "id": "eaf50b779de24ff39a05ad5a3ba78ced",
+  "title": "Star Stuff",
+  "description": "Star Stuff",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b8391cee76b54db5bbc81e0fc6e56d51/star-stuff-1owse.jpg",
+      "md5": "81aca77389bb657846dd7310c16ab743",
+      "width": 2560,
+      "height": 1440,
+      "size": 661132,
+      "uploadedDate": "2024-12-10T22:16:39.936Z",
+      "alt": "Star Stuff Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b8391cee76b54db5bbc81e0fc6e56d51/star-stuff-1ofg7.jpg",
+      "md5": "ae6e62960060ca95652c56b17b636455",
+      "width": 1200,
+      "height": 1600,
+      "size": 560805,
+      "uploadedDate": "2024-12-10T22:02:57.150Z",
+      "alt": "Download Star Stuff Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "478f9409adb14d7988a0737302abcef4",
+  "status": "ACTIVE",
+  "creationDate": "2025-01-14T21:14:11.615Z",
+  "lastModifiedDate": "2025-01-14T21:14:11.615Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "StarStuffze0R2"
+    }
+  },
+  "entitlementName": "eaf50b779de24ff39a05ad5a3ba78ced",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d1c343b0e95c43b69251b1a4d94c2505",
+      "appId": "c331118f7ded4050ba0a1182677e3b97",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Astra Logical",
+  "developerId": "o-c5ek86yk5np9s3wezvcqkfjdkkahk5",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
