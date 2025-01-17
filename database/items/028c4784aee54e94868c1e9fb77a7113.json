@@ -34,8 +34,8 @@
   ],
   "namespace": "9f6d3a33ba034660a209ba9a92a5403c",
   "status": "ACTIVE",
-  "creationDate": "2024-04-19T06:07:06.277Z",
-  "lastModifiedDate": "2024-04-19T06:07:06.277Z",
+  "creationDate": "2024-04-17T14:22:54.047Z",
+  "lastModifiedDate": "2025-01-17T16:21:22.125Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,10 @@
     {
       "id": "9173beea-ed11-4a61-ada8-99a8faaf2ac6",
       "appId": "02371366870341d19137915107c9e731",
-      "platform": []
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "SpotPixle Studios",
