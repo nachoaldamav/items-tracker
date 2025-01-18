@@ -1,0 +1,61 @@
+{
+  "id": "27f1486d116742e98c01ac822eed7502",
+  "title": "Terra Firma",
+  "description": "Terra Firma",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ba98560ee3544d3997847afab8b93a72/terra-firma-1tzoy.png",
+      "md5": "9268b91ab69f287a9affd19d9aef586f",
+      "width": 2560,
+      "height": 1440,
+      "size": 4065790,
+      "uploadedDate": "2025-01-14T02:49:49.816Z",
+      "alt": "Terra Firma Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ba98560ee3544d3997847afab8b93a72/terra-firma-iyr4m.png",
+      "md5": "da6ba601cb32d977a13a11d71d1c29bb",
+      "width": 1200,
+      "height": 1600,
+      "size": 2130313,
+      "uploadedDate": "2025-01-14T02:49:47.783Z",
+      "alt": "Download Terra Firma Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ac5ac529c37d4b768925953265ef53f2",
+  "status": "ACTIVE",
+  "creationDate": "2025-01-17T20:09:36.376Z",
+  "lastModifiedDate": "2025-01-17T20:09:36.376Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "terra_firma"
+    }
+  },
+  "entitlementName": "27f1486d116742e98c01ac822eed7502",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3173b1bf56544ba1ae2a87f88ed04a95",
+      "appId": "f168ca231dc94ad0a04ada3f909582ca",
+      "platform": []
+    }
+  ],
+  "developer": "My Organization",
+  "developerId": "o-n4wz9banpszcw7ate5qc4e9tn8n3us",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
