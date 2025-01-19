@@ -1,7 +1,7 @@
 {
   "id": "f24d4e6b80f64e29be9e3abe929dfda5",
   "title": "Arctico",
-  "description": "Arctico",
+  "description": "Explore Arctico with your dog sled team, kayak, and parachute! Build and customize your base camp, gather resources, take care of your experiments in this peaceful island.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,7 +35,7 @@
   "namespace": "9d56883e7b1a45bca132db9427cf4a22",
   "status": "ACTIVE",
   "creationDate": "2023-03-09T19:36:57.767Z",
-  "lastModifiedDate": "2023-07-17T16:28:38.113Z",
+  "lastModifiedDate": "2025-01-19T15:46:10.212Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,12 +47,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "523c436469ed49bd967b2b887309451e",
+      "id": "76af9215fc294be6be88f0dcec4fa8e7",
       "appId": "c5a191d84633494fa6459580060ca42b",
       "platform": [
-        "Mac",
+        "Win32",
         "Windows",
-        "Win32"
+        "Mac"
       ]
     }
   ],
