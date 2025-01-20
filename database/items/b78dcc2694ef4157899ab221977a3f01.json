@@ -26,23 +26,20 @@
   ],
   "categories": [
     {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
       "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
   "namespace": "c62d7481ae1744dab7310c8f4e1e9548",
   "status": "ACTIVE",
-  "creationDate": "2025-01-08T14:23:22.481Z",
-  "lastModifiedDate": "2025-01-08T14:23:22.481Z",
+  "creationDate": "2024-12-11T10:23:50.927Z",
+  "lastModifiedDate": "2025-01-20T16:38:23.720Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "Samorost303cc0"
+      "value": "Samorost3"
     }
   },
   "entitlementName": "b78dcc2694ef4157899ab221977a3f01",
@@ -60,6 +57,7 @@
   "developer": "Amanita Design s.r.o.",
   "developerId": "o-9yx3b8bxbr9g2r3z7ahpmgphp2d5kh",
   "endOfSupport": false,
+  "applicationId": "fghi4567fpFNQqcO3r7TMxX1ZBM2nLh9",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
