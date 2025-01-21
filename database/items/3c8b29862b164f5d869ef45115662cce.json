@@ -1,0 +1,61 @@
+{
+  "id": "3c8b29862b164f5d869ef45115662cce",
+  "title": "Crystale",
+  "description": "Crystale",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7783ab68f2c04d47a4340614425baeb4/crystale-8aepo.jpg",
+      "md5": "39efe2cc358391f5d70afbc73fa9d5e5",
+      "width": 2560,
+      "height": 1440,
+      "size": 227305,
+      "uploadedDate": "2025-01-15T12:01:01.054Z",
+      "alt": "Crystale Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7783ab68f2c04d47a4340614425baeb4/crystale-1lbd3.png",
+      "md5": "a1656819b40f530d54cd94b79af75b1d",
+      "width": 1200,
+      "height": 1600,
+      "size": 2104291,
+      "uploadedDate": "2025-01-15T11:58:33.962Z",
+      "alt": "Download Crystale Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2db0508d821143678f52abb17e430ec7",
+  "status": "ACTIVE",
+  "creationDate": "2025-01-21T11:16:07.220Z",
+  "lastModifiedDate": "2025-01-21T11:16:07.220Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Crystale"
+    }
+  },
+  "entitlementName": "3c8b29862b164f5d869ef45115662cce",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bc79a7a64d8b47c0a922d00ba0e2fc3c",
+      "appId": "115f1db709334baaade2e66fb15b1891",
+      "platform": []
+    }
+  ],
+  "developer": "Crystale",
+  "developerId": "o-4admt2wamgn6spq4wpd6yr2n38q6sq",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
