@@ -1,0 +1,71 @@
+{
+  "id": "a2678aa5d0804fd3863a6d8583571868",
+  "title": "Call of Heroes: Tower Defense",
+  "description": "Embark on a magical and exciting journey to protect the fairy kingdom in this epic TD game. Recruit unique heroes with powerful magic. Craft exclusive weapons for each hero. Defend the fairy kingdom!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/fe051bb32bbb436f9f90c1158fdd5263/call-of-heroes-tower-defense-1jj2j.png",
+      "md5": "0175a97306ccc2b6bfc06140bf0a6312",
+      "width": 2560,
+      "height": 1440,
+      "size": 4114591,
+      "uploadedDate": "2024-11-15T16:04:41.370Z",
+      "alt": "Call of Heroes: Tower Defense Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/fe051bb32bbb436f9f90c1158fdd5263/call-of-heroes-tower-defense-1hvxc.png",
+      "md5": "06c541444c84cabf7d5d3bf4212d4fa8",
+      "width": 1200,
+      "height": 1600,
+      "size": 2348249,
+      "uploadedDate": "2024-11-15T16:04:41.768Z",
+      "alt": "Download Call of Heroes: Tower Defense Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bc73b96738d341d4827244f2d86083b5",
+  "status": "ACTIVE",
+  "creationDate": "2025-01-21T16:07:01.894Z",
+  "lastModifiedDate": "2025-01-21T16:07:02.295Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/BakartGames/Call of Heroes/EPIC/{EpicID}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "gameInfo.dat"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CallofHeroesTowerDefH031l"
+    }
+  },
+  "entitlementName": "a2678aa5d0804fd3863a6d8583571868",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "01846b448b06477594d74ee509f15152",
+      "appId": "20a319348dc04e5da284ba2d8d571a06",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "My Team bacabrother",
+  "developerId": "o-m2u2ubx24syf66v37y2y9jmvdqgt6e",
+  "endOfSupport": false,
+  "applicationId": "fghi4567sSWfLc7cG4wFGvlpXwYq0eOL",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
