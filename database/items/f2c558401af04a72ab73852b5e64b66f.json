@@ -1,0 +1,63 @@
+{
+  "id": "f2c558401af04a72ab73852b5e64b66f",
+  "title": "Autos",
+  "description": "Autos",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1bcba73d314041798323ebfdaf17e4a7/autos-jjxyq.jpg",
+      "md5": "d20c239d2fe3efe88476ec71b7bfa4f9",
+      "width": 2560,
+      "height": 1440,
+      "size": 3424946,
+      "uploadedDate": "2025-01-14T20:45:00.694Z",
+      "alt": "Autos Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1bcba73d314041798323ebfdaf17e4a7/autos-1nnmf.jpg",
+      "md5": "73c772fdff3b1d0c981e37525ff13f15",
+      "width": 1200,
+      "height": 1600,
+      "size": 1744683,
+      "uploadedDate": "2025-01-14T20:44:56.412Z",
+      "alt": "Download Autos Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "937e39807b624624984dfd68dbb138b6",
+  "status": "ACTIVE",
+  "creationDate": "2025-01-19T18:04:00.059Z",
+  "lastModifiedDate": "2025-01-19T18:04:00.059Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Autos_v1"
+    }
+  },
+  "entitlementName": "f2c558401af04a72ab73852b5e64b66f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f5ac8e6385d5455493401385371849b1",
+      "appId": "478bc776a98e43a9aa6d32664673276a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Leedo Studio",
+  "developerId": "o-zhtpxvs8424yac9u44g724hrcshhf8",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
