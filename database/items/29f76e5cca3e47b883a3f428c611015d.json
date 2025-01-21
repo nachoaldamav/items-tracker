@@ -1,0 +1,63 @@
+{
+  "id": "29f76e5cca3e47b883a3f428c611015d",
+  "title": "NoRush!",
+  "description": "NoRush!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c9f21b13a96c43e98f29177035f4a5f5/norush-dsr21.png",
+      "md5": "623da32edf8470905c7646d2f8aa126f",
+      "width": 2560,
+      "height": 1440,
+      "size": 1969177,
+      "uploadedDate": "2024-12-17T19:28:52.940Z",
+      "alt": "NoRush! Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c9f21b13a96c43e98f29177035f4a5f5/norush-4z6b4.png",
+      "md5": "b41376d21341aa59ad8749ebb9ab1f9d",
+      "width": 1200,
+      "height": 1600,
+      "size": 976757,
+      "uploadedDate": "2024-12-17T19:27:51.729Z",
+      "alt": "Download NoRush! Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7a3a6f05f6e74bba9feea2a35bdab257",
+  "status": "ACTIVE",
+  "creationDate": "2025-01-21T14:00:14.277Z",
+  "lastModifiedDate": "2025-01-21T14:00:14.277Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "NoRush"
+    }
+  },
+  "entitlementName": "29f76e5cca3e47b883a3f428c611015d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4a5eed6fafa74ee9ae3d49747e07527c",
+      "appId": "7da2f8bfb93046d19bcc3d61996b433f",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Fivestar",
+  "developerId": "o-8wlncpmxpmqtkz364tpzxs4z8d5bwb",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
