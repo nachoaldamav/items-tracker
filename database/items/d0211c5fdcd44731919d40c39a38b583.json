@@ -1,0 +1,63 @@
+{
+  "id": "d0211c5fdcd44731919d40c39a38b583",
+  "title": "Arcade Flighter!",
+  "description": "Relax while flying on a plane among obstacles!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c00471d1cc344844bb6de0ac2514d586/arcade-flighter-ubuc8.png",
+      "md5": "66f7d7ddab6c71fdd20905cf47c14442",
+      "width": 2560,
+      "height": 1440,
+      "size": 771890,
+      "uploadedDate": "2025-01-21T19:43:16.944Z",
+      "alt": "Arcade Flighter! Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c00471d1cc344844bb6de0ac2514d586/arcade-flighter-qrm45.png",
+      "md5": "430dcde1306ce92bdefd6a991f7bf4f7",
+      "width": 1200,
+      "height": 1600,
+      "size": 1122421,
+      "uploadedDate": "2025-01-21T19:43:16.527Z",
+      "alt": "Download Arcade Flighter! Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "038e0f9c7a2c4e89839805f25821dd36",
+  "status": "ACTIVE",
+  "creationDate": "2025-01-22T19:53:46.028Z",
+  "lastModifiedDate": "2025-01-22T19:53:46.028Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ArcadeFlighter"
+    }
+  },
+  "entitlementName": "d0211c5fdcd44731919d40c39a38b583",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "08e09b552b33451ea6d887ef165debb4",
+      "appId": "7756f3bb9b774b789d04a433878dcfda",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "T3RI GAMES",
+  "developerId": "o-z3xbmslbny74nr775mdauu8qvyudrp",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
