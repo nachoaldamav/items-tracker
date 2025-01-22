@@ -1,0 +1,75 @@
+{
+  "id": "d626629836b548a58db68d6848e145e5",
+  "title": "Into the Emberlands",
+  "description": "Venture out into the Emberlands and uncover an ever-changing world filled with surprising encounters and mystical creatures! Save villagers who got lost in the Miasma, collect resources and rebuild your village to create a safe haven for your people.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/cc08a8398d6649de81d06db1b9d20e97/into-the-emberlands-1duvz.png",
+      "md5": "d07b2d383f630f8bec38e3792d35878d",
+      "width": 2560,
+      "height": 1440,
+      "size": 2983333,
+      "uploadedDate": "2025-01-13T10:41:21.159Z",
+      "alt": "Into the Emberlands Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/cc08a8398d6649de81d06db1b9d20e97/into-the-emberlands-1xgn7.png",
+      "md5": "deb4192af3e8f3f9428c22977eed0dd7",
+      "width": 1200,
+      "height": 1600,
+      "size": 1824357,
+      "uploadedDate": "2025-01-13T10:41:15.273Z",
+      "alt": "Download Into the Emberlands Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "056d3906346943db9decfe172ac6184e",
+  "status": "ACTIVE",
+  "creationDate": "2025-01-21T16:35:04.236Z",
+  "lastModifiedDate": "2025-01-21T16:35:04.236Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Tiny Roar/Into The Emberlands/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.savegame,Savegame.meta,Savegame.general"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "500"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "IntotheEmberlands"
+    }
+  },
+  "entitlementName": "d626629836b548a58db68d6848e145e5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "003206cc834942859e3a19050787c042",
+      "appId": "1f58f4fa6361418c92491256b6390a22",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "endOfSupport": false,
+  "applicationId": "fghi45672iOBq4xkxOWG1ZFrtcRaKjOg",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
