@@ -1,0 +1,63 @@
+{
+  "id": "0ba77318118146d5859826c9a76e7593",
+  "title": "Sinverse",
+  "description": "Sinverse",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c64efabc42e64658b0b2599bf07f023b/sinverse-fiond.jpg",
+      "md5": "f76f1d478b1805afacc70ec793b4984c",
+      "width": 2560,
+      "height": 1440,
+      "size": 1080723,
+      "uploadedDate": "2024-07-30T05:33:52.118Z",
+      "alt": "Sinverse Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c64efabc42e64658b0b2599bf07f023b/sinverse-10k5m.jpg",
+      "md5": "63aeede94735863dc6095e940f74bb74",
+      "width": 1200,
+      "height": 1600,
+      "size": 341518,
+      "uploadedDate": "2024-07-30T05:34:57.381Z",
+      "alt": "Download Sinverse Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6015159c4baa426da8f4b67eceeaeb65",
+  "status": "ACTIVE",
+  "creationDate": "2025-01-23T04:30:19.143Z",
+  "lastModifiedDate": "2025-01-23T04:30:19.143Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Sinverse"
+    }
+  },
+  "entitlementName": "0ba77318118146d5859826c9a76e7593",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2bf71984cc444f98bd32694da8d3e05e",
+      "appId": "1699920fcd1344bb8697d5d804099d04",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Vanilla Network ltd",
+  "developerId": "o-e6qchpnzbjz5z78dbwz7gtf92kwl6g",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
