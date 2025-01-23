@@ -1,0 +1,74 @@
+{
+  "id": "98c1c9199d2f4df4ba4ac1b549da7802",
+  "title": "Super Space Club",
+  "description": "Super Space Club is a lo-fi arcade space shooter to chill to. Defend a vibrant galaxy as a club of misfit heroes and battle endless waves of spacecrafts to the tune of atmospheric beats. Outlast your enemies and vibe to the rhythm of the stars.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d23691af8c7d42729f66d929c8609676/super-space-club-otvqs.png",
+      "md5": "0757f1f45e2e3eb1c8b620847e9af62f",
+      "width": 2560,
+      "height": 1440,
+      "size": 3207413,
+      "uploadedDate": "2024-10-28T21:12:41.072Z",
+      "alt": "Super Space Club Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d23691af8c7d42729f66d929c8609676/super-space-club-tju4y.png",
+      "md5": "73bed956ebd7bb65d96c7c868aaac60e",
+      "width": 1200,
+      "height": 1600,
+      "size": 1495279,
+      "uploadedDate": "2024-10-28T21:12:42.212Z",
+      "alt": "Download Super Space Club Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5d6924bd68114aab9e48f1ed17ce1883",
+  "status": "ACTIVE",
+  "creationDate": "2024-10-22T17:36:09.832Z",
+  "lastModifiedDate": "2025-01-23T00:16:39.801Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/GrahamOfLegend/SuperSpaceClub/{EpicID}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "ssc.game"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SuperSpaceClub7lGTx"
+    }
+  },
+  "entitlementName": "98c1c9199d2f4df4ba4ac1b549da7802",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "667691d3991f4a64b13dbc471371caaf",
+      "appId": "eccf14e21df84712a54d2b89b20d15f9",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "GrahamOfLegend",
+  "developerId": "o-w5juz4p54jnbqrtqfw5x65yd6p6lpx",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567XfemVecWkTAXhplSVzUh6192",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
