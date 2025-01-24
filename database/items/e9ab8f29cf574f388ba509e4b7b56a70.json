@@ -1,0 +1,62 @@
+{
+  "id": "e9ab8f29cf574f388ba509e4b7b56a70",
+  "title": "Build From Block",
+  "description": "Build From Block is a game about a cubic world where you can build whatever you want!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a618326aa4844e62ac0ec4dcd17a132f/build-from-block-1t2rr.png",
+      "md5": "09ab57a36912475185a4b87ba60b1032",
+      "width": 2560,
+      "height": 1440,
+      "size": 3148709,
+      "uploadedDate": "2025-01-02T15:31:38.020Z",
+      "alt": "Build From Block Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a618326aa4844e62ac0ec4dcd17a132f/build-from-block-1o5cy.png",
+      "md5": "1a0141aa0bb826111268767f5948a2df",
+      "width": 1200,
+      "height": 1600,
+      "size": 1784361,
+      "uploadedDate": "2025-01-02T15:31:38.822Z",
+      "alt": "Download Build From Block Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "60729ae90fb84063808cac360e5a6c68",
+  "status": "ACTIVE",
+  "creationDate": "2025-01-24T14:35:18.063Z",
+  "lastModifiedDate": "2025-01-24T14:35:18.063Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BuildFromBlockUI3VN"
+    }
+  },
+  "entitlementName": "e9ab8f29cf574f388ba509e4b7b56a70",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "11e96cfc90c94daa83290dd3637aa94b",
+      "appId": "cb69ea389cad4c1084ee745ca8f17832",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Pine Games",
+  "developerId": "o-wdh4p9v73kp5ae982mrxypsnwffvgw",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
