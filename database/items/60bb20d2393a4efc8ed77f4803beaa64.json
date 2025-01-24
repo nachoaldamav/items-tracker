@@ -1,17 +1,8 @@
 {
   "id": "60bb20d2393a4efc8ed77f4803beaa64",
-  "title": "F1® 24 Standard Edition",
-  "description": "F1® 24 Standard Edition",
+  "title": "F1® 24",
+  "description": "F1® 24",
   "keyImages": [
-    {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/edffc5fcc62140a7afd239d9e65df463/EGS_F124_Codemasters_S2_1200x1600-4640c5c849df939a2303ab872d618530",
-      "md5": "4640c5c849df939a2303ab872d618530",
-      "width": 1200,
-      "height": 1600,
-      "size": 483982,
-      "uploadedDate": "2024-05-29T22:39:00.263Z"
-    },
     {
       "type": "DieselGameBox",
       "url": "https://cdn1.epicgames.com/item/edffc5fcc62140a7afd239d9e65df463/EGS_F124_Codemasters_S1_2560x1440-134fa405a4a48829e12b36175fdfe520",
@@ -20,6 +11,15 @@
       "height": 1440,
       "size": 908038,
       "uploadedDate": "2024-05-29T22:39:06.462Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/edffc5fcc62140a7afd239d9e65df463/EGS_F124_Codemasters_S2_1200x1600-4640c5c849df939a2303ab872d618530",
+      "md5": "4640c5c849df939a2303ab872d618530",
+      "width": 1200,
+      "height": 1600,
+      "size": 483982,
+      "uploadedDate": "2024-05-29T22:39:00.263Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "edffc5fcc62140a7afd239d9e65df463",
   "status": "ACTIVE",
   "creationDate": "2024-01-25T19:21:25.372Z",
-  "lastModifiedDate": "2024-05-31T14:57:05.842Z",
+  "lastModifiedDate": "2025-01-24T00:01:28.966Z",
   "customAttributes": {
     "PresenceId": {
       "type": "STRING",
