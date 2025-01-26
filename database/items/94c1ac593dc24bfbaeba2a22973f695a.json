@@ -1,0 +1,63 @@
+{
+  "id": "94c1ac593dc24bfbaeba2a22973f695a",
+  "title": "Cyber Quest",
+  "description": "Cyber Quest is a roguelike deck-building game where you pit your crew against the toughest gangs in the city. Assemble your team, gather weapons, and restore order.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e9fd572ccbe64deea0c5f81896968448/cyber-quest-ko3j2.png",
+      "md5": "211f21a792da7c1535df24200a2567cd",
+      "width": 2560,
+      "height": 1440,
+      "size": 1760783,
+      "uploadedDate": "2025-01-24T17:16:35.274Z",
+      "alt": "Cyber Quest Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e9fd572ccbe64deea0c5f81896968448/cyber-quest-7pvcz.png",
+      "md5": "e4f6af9e0af4b3553633a92c8a0d5f10",
+      "width": 1200,
+      "height": 1600,
+      "size": 867802,
+      "uploadedDate": "2025-01-24T17:16:34.208Z",
+      "alt": "Download Cyber Quest Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "db5f73bc80a24e0396c66d752e0524ec",
+  "status": "ACTIVE",
+  "creationDate": "2025-01-25T17:28:23.649Z",
+  "lastModifiedDate": "2025-01-25T17:28:23.649Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "CyberQuest0iWoh"
+    }
+  },
+  "entitlementName": "94c1ac593dc24bfbaeba2a22973f695a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "dd7d6e64f063451eb7279521d64a4314",
+      "appId": "78cc5907f299479bae2f223ccccf4fcd",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Super Punch Games",
+  "developerId": "o-by8xkgycvsen8qmngjvtxa9m4e674q",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
