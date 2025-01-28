@@ -1,0 +1,61 @@
+{
+  "id": "065dc3d081cc48ea8822142a955071df",
+  "title": "Wartorn",
+  "description": "Wartorn",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/bbf06a69e2d743d3a8a11f00e4fc6894/hydrogen-z6onb.jpg",
+      "md5": "bd973504e1b419c35c007461834303f6",
+      "width": 2560,
+      "height": 1440,
+      "size": 361945,
+      "uploadedDate": "2025-01-13T23:10:06.144Z",
+      "alt": "Hydrogen Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/bbf06a69e2d743d3a8a11f00e4fc6894/hydrogen-pd2v8.png",
+      "md5": "b3768b842fcaadf1e891b7d70e502e12",
+      "width": 1200,
+      "height": 1600,
+      "size": 2277631,
+      "uploadedDate": "2025-01-13T23:10:06.470Z",
+      "alt": "Download Hydrogen Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "39eaa39b78de44fa81144924e490b0a3",
+  "status": "ACTIVE",
+  "creationDate": "2025-01-27T18:24:58.887Z",
+  "lastModifiedDate": "2025-01-27T18:24:58.887Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Wartorn"
+    }
+  },
+  "entitlementName": "065dc3d081cc48ea8822142a955071df",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4f1034913ca9468b93d7bda5962e6983",
+      "appId": "a16e0c3b1a0246fd8523e9b08aa16277",
+      "platform": []
+    }
+  ],
+  "developer": "Stray Kite Studios",
+  "developerId": "o-h7u57tedb6gyruha6z3zjqulpygabh",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
