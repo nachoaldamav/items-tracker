@@ -1,0 +1,71 @@
+{
+  "id": "4007d5b6db86441095e396c16ff6b292",
+  "title": "Sentinel Agency",
+  "description": "Sentinel Agency",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/27516ac8e0b2469ab6ebba25624501ee/sentinel-agency-125jt.jpg",
+      "md5": "dccfa79c616ffdb214f2df547db0c978",
+      "width": 2560,
+      "height": 1440,
+      "size": 735299,
+      "uploadedDate": "2025-01-06T08:57:27.703Z",
+      "alt": "Sentinel Agency Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/27516ac8e0b2469ab6ebba25624501ee/sentinel-agency-15cdq.png",
+      "md5": "90755ebe0d8c849cd8322510a9947daf",
+      "width": 1200,
+      "height": 1600,
+      "size": 2721922,
+      "uploadedDate": "2025-01-06T08:57:33.414Z",
+      "alt": "Download Sentinel Agency Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ac5c3247f6514624b6205d07cdc178e8",
+  "status": "ACTIVE",
+  "creationDate": "2025-01-30T07:06:16.730Z",
+  "lastModifiedDate": "2025-01-30T07:06:16.730Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/Windows/SentinelAgency/Saved/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SentinelAgency"
+    }
+  },
+  "entitlementName": "4007d5b6db86441095e396c16ff6b292",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "65a27bf385304ecd931ff1986701b25b",
+      "appId": "dc2c2af878794c5e8d123000fd167269",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Phantomedia",
+  "developerId": "o-46jesvbhby4lnrmukehkhxcz4ee865",
+  "endOfSupport": false,
+  "applicationId": "fghi4567Rfq1LTWzfGfDPa8pMIER80TY",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
