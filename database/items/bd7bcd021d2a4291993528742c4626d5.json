@@ -1,0 +1,63 @@
+{
+  "id": "bd7bcd021d2a4291993528742c4626d5",
+  "title": "Akolyta",
+  "description": "Akolyta",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/80ff13d36f7842cf9243fe4424258cdb/akolyta-s93cw.jpg",
+      "md5": "6276ab3a5eb594b71b1ca9b795d15d0c",
+      "width": 2560,
+      "height": 1440,
+      "size": 1228213,
+      "uploadedDate": "2025-01-27T17:12:46.931Z",
+      "alt": "Akolyta Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/80ff13d36f7842cf9243fe4424258cdb/akolyta-1ku0a.jpg",
+      "md5": "3e1cfc39dd3005a038dd28bc32147b26",
+      "width": 1200,
+      "height": 1600,
+      "size": 560651,
+      "uploadedDate": "2025-01-27T17:12:46.309Z",
+      "alt": "Download Akolyta Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bac0bcafe62d474492c6aea8f01457ff",
+  "status": "ACTIVE",
+  "creationDate": "2025-01-30T00:00:38.665Z",
+  "lastModifiedDate": "2025-01-30T00:00:38.665Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Akolyta"
+    }
+  },
+  "entitlementName": "bd7bcd021d2a4291993528742c4626d5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "77c12f7660894774babf270a3bb809c9",
+      "appId": "0859f45f904e41768c75330381ace101",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Pterosoft studio",
+  "developerId": "o-896dh8kxaqfv2hmhrk4tswe4wp963v",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
