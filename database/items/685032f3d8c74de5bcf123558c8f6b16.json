@@ -1,0 +1,81 @@
+{
+  "id": "685032f3d8c74de5bcf123558c8f6b16",
+  "title": "Marvel’s Spider-Man 2",
+  "description": "Marvel’s Spider-Man 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/b2818b59c0bb420e9647983dfd254931/EGS_Octopus_InsomniacGamesNixxesSoftware_S1_2560x1440-f27da78f484626718d1e22e7d6950ca5",
+      "md5": "f27da78f484626718d1e22e7d6950ca5",
+      "width": 2560,
+      "height": 1440,
+      "size": 694040,
+      "uploadedDate": "2024-10-07T21:23:53.987Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/b2818b59c0bb420e9647983dfd254931/EGS_Octopus_InsomniacGamesNixxesSoftware_S2_1200x1600-5831c61378872a1fe233b295fbf3140f",
+      "md5": "5831c61378872a1fe233b295fbf3140f",
+      "width": 1200,
+      "height": 1600,
+      "size": 870935,
+      "uploadedDate": "2024-10-07T21:23:50.476Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b2818b59c0bb420e9647983dfd254931",
+  "status": "ACTIVE",
+  "creationDate": "2024-09-11T18:36:06.640Z",
+  "lastModifiedDate": "2025-01-31T18:08:40.404Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "b2818b59c0bb420e9647983dfd254931"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/Marvel's Spider-Man 2/{EpicID}/"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "marvelsspiderman2"
+    }
+  },
+  "entitlementName": "685032f3d8c74de5bcf123558c8f6b16",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1e314779421c4f3994d68a85121a0c97",
+      "appId": "0c6db5941ac8420aabbd8510e94e7d9a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567JYEf1kpBk1lgB6yePYxkhFK6",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
