@@ -1,0 +1,69 @@
+{
+  "id": "20f33f327ae848baaa2ca80606f85c4d",
+  "title": "Nancy Drew: Mystery of the Seven Keys",
+  "description": "Nancy Drew: Mystery of the Seven Keys",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/db604bbbbfdd4d6987f71c90291298d4/nancy-drew-mystery-of-the-seven-keys-33zgj.png",
+      "md5": "db7f5af50f9242e9dffda77647531696",
+      "width": 2560,
+      "height": 1440,
+      "size": 3940810,
+      "uploadedDate": "2024-11-22T03:00:14.651Z",
+      "alt": "Nancy Drew: Mystery of the Seven Keys Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/db604bbbbfdd4d6987f71c90291298d4/nancy-drew-mystery-of-the-seven-keys-1dyxq.png",
+      "md5": "c6809af88b109b5595f03524c84553c7",
+      "width": 1200,
+      "height": 1600,
+      "size": 2540720,
+      "uploadedDate": "2024-11-22T03:14:22.937Z",
+      "alt": "Download Nancy Drew: Mystery of the Seven Keys Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7e475d5e12264ace9a842ca687db1393",
+  "status": "ACTIVE",
+  "creationDate": "2024-08-26T00:17:51.292Z",
+  "lastModifiedDate": "2025-01-30T18:56:01.381Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/MysteryOfTheSevenKeys/Saves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MysteryOfTheSevenKeys"
+    }
+  },
+  "entitlementName": "20f33f327ae848baaa2ca80606f85c4d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "dddfe1ba88b74da7aeed806712b4a7c7",
+      "appId": "25126cce323b4e618e944f07822efd1c",
+      "platform": [
+        "Win32",
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "HeR Interactive",
+  "developerId": "o-ywdhb2qsdf5lhu5cnutdqm8vjzvwcc",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
