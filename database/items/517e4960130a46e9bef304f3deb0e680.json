@@ -1,0 +1,71 @@
+{
+  "id": "517e4960130a46e9bef304f3deb0e680",
+  "title": "AK-xolotl: Together",
+  "description": "The cutest, deadliest top-down roguelike shooter featuring AK-wielding Axolotls. Blast your way through the animal kingdom with an arsenal of kick-ass guns, mighty power-ups and even raise an army of trigger-happy baby axolotls. Double the firepower! Local co-op update now live!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f6e3235f6d194a41ba7f20365963c1dd/akxolotl-1mnmp.png",
+      "md5": "dacaabeb465af157aba14db04752d3c7",
+      "width": 2560,
+      "height": 1440,
+      "size": 1051045,
+      "uploadedDate": "2025-01-27T12:06:28.410Z",
+      "alt": "AK-xolotl Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f6e3235f6d194a41ba7f20365963c1dd/akxolotl-dx8g0.png",
+      "md5": "8c293567e4762a430059e6f59ea0a632",
+      "width": 1200,
+      "height": 1600,
+      "size": 471208,
+      "uploadedDate": "2025-01-27T12:06:30.212Z",
+      "alt": "Download AK-xolotl Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9b830a39a6e642b6907341598cb0a1b6",
+  "status": "ACTIVE",
+  "creationDate": "2025-01-31T16:00:18.769Z",
+  "lastModifiedDate": "2025-01-31T16:00:18.769Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/~/Library/Application/ Support/Playstack/AK-xolotl/SaveFiles/AKSettingSlotSync/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/%userprofile%/AppData\\LocalLow\\Playstack\\AK-xolotl\\SaveFiles\\AKSettingSlotSync/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AKxolotlokDYC"
+    }
+  },
+  "entitlementName": "517e4960130a46e9bef304f3deb0e680",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6f4c6784c5674b419c55a7261d14c8d5",
+      "appId": "d578a8f36f8c49dc8c952c30f7dd049f",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Playstack",
+  "developerId": "o-fwcegrmgnhg9bjn597f2ywf3gvrvqw",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
