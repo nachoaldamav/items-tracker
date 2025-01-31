@@ -1,0 +1,62 @@
+{
+  "id": "426d1c758a91439a9685b55bf5dfff1c",
+  "title": "SPTPresentation",
+  "description": "SPTPresentation",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b75ffe94ec7e4e5d8190954af8ac3ec3/sptpresentation-iytzp.jpg",
+      "md5": "a2b80c08703fe831b981621e4fe131b3",
+      "width": 2560,
+      "height": 1440,
+      "size": 132165,
+      "uploadedDate": "2024-09-02T04:46:10.486Z",
+      "alt": "SPTPresentation Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b75ffe94ec7e4e5d8190954af8ac3ec3/sptpresentation-dvlow.jpg",
+      "md5": "5f8d83aea34c60202035039aa1704de9",
+      "width": 1200,
+      "height": 1600,
+      "size": 75974,
+      "uploadedDate": "2024-09-02T04:46:09.947Z",
+      "alt": "Download SPTPresentation Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a1a5ae516b074eba9103d0f50e1a1b88",
+  "status": "ACTIVE",
+  "creationDate": "2024-09-02T05:24:20.094Z",
+  "lastModifiedDate": "2024-09-02T05:24:20.094Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SPTPresentationfLcIF"
+    }
+  },
+  "entitlementName": "426d1c758a91439a9685b55bf5dfff1c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f08668a8ca36408ea1ec4e0b86554d61",
+      "appId": "e9eca5d89e644d1eb5234688ef34e2b9",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SPTTutorials",
+  "developerId": "o-xtcxwqe5x99gfuc4ay85j2favmkugn",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
