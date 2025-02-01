@@ -36,7 +36,7 @@
   "namespace": "8a574ca3cbfc46c69ea8d3491932e973",
   "status": "ACTIVE",
   "creationDate": "2020-05-19T18:01:49.803Z",
-  "lastModifiedDate": "2023-03-10T21:15:11.865Z",
+  "lastModifiedDate": "2025-02-01T03:37:39.661Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -72,12 +72,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "b3d6b37fae264a168a6585f861e44275",
+      "id": "b9a5661867da479a895db536fead8399",
       "appId": "401f7b873ff042edabfe24af49e9043f",
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2020-05-19T00:00:00.000Z"
+      ]
     }
   ],
   "developer": "THQ Nordic GmbH",
