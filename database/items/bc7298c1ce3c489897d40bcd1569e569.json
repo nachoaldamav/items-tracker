@@ -1,0 +1,90 @@
+{
+  "id": "bc7298c1ce3c489897d40bcd1569e569",
+  "title": "The Sims 2 + The Sims 2 Packs",
+  "description": "The game you know and love. For Windows 10/11.\n\nIn The Sims 2, you direct your Sims over a lifetime. Give them a long, successful existence or leave their lives in shambles.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/990417e772734621bd693dbb54e75a9e/the-sims-2-zop6r.jpg",
+      "md5": "d3c64109af0b586949ff113362944cad",
+      "width": 2560,
+      "height": 1440,
+      "size": 563667,
+      "uploadedDate": "2025-01-17T22:11:27.895Z",
+      "alt": "The Sims 2 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/990417e772734621bd693dbb54e75a9e/the-sims-2-z77fn.jpg",
+      "md5": "6d33c33342a3913ae01928e49f421d6d",
+      "width": 1200,
+      "height": 1600,
+      "size": 370278,
+      "uploadedDate": "2025-01-17T22:11:28.059Z",
+      "alt": "Download The Sims 2 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "af2b0a179fcb4902a571a4c82129f303",
+  "status": "ACTIVE",
+  "creationDate": "2024-12-13T14:34:35.285Z",
+  "lastModifiedDate": "2025-01-31T00:01:02.658Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\Electronic Arts\\The Sims 2 Ultimate Collection 25"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "Sims2EP9.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "Sims2EP9.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheSims2"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "bc7298c1ce3c489897d40bcd1569e569",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2591e985171044f493cb0dbee725250e",
+      "appId": "snooty",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
