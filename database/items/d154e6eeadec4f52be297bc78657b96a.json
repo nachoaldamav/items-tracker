@@ -35,7 +35,7 @@
   "namespace": "9d526342864b44ba86674bd7d4bd8eee",
   "status": "ACTIVE",
   "creationDate": "2024-11-05T06:51:38.300Z",
-  "lastModifiedDate": "2024-12-19T06:55:13.178Z",
+  "lastModifiedDate": "2025-02-02T07:42:01.236Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "15907da57c0a464fb95878ae7a4c865e",
       "appId": "53dddd35912c4bf08117ad4b50f088d3",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "DigitalMain",
