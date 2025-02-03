@@ -1,0 +1,34 @@
+{
+  "id": "f45b5a78522d4af9af8a52c384eddc62",
+  "title": "caravan JCP audience",
+  "description": "caravan JCP audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "8962863aee2f4e7483fc37d4719c3f69",
+  "status": "ACTIVE",
+  "creationDate": "2025-01-16T15:29:22.702Z",
+  "lastModifiedDate": "2025-02-03T11:28:42.587Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f45b5a78522d4af9af8a52c384eddc62",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Plaion",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
