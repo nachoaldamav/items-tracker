@@ -35,11 +35,27 @@
   "namespace": "e5429798296d4f78b8090f243b00cf11",
   "status": "ACTIVE",
   "creationDate": "2024-04-02T15:19:23.989Z",
-  "lastModifiedDate": "2025-01-29T18:44:29.985Z",
+  "lastModifiedDate": "2025-02-03T09:16:39.842Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/kingdomcome2/saves/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.whs"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "8400"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "TRUE"
+    },
     "FolderName": {
       "type": "STRING",
-      "value": "KingdomComeDeliveranNoNuV"
+      "value": "KingdomComeDeliverance2"
     }
   },
   "entitlementName": "9a045c9990eb4f30a029b53bb77b369a",
@@ -47,7 +63,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "bc0ea752bb1845d4bdac1addc1d89a73",
+      "id": "3a47ed5e5f5f4848ba57297fc5b261b8",
       "appId": "278984b84235407d922da634b9d7d247",
       "platform": [
         "Windows"
