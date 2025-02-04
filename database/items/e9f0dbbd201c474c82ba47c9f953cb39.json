@@ -1,0 +1,71 @@
+{
+  "id": "e9f0dbbd201c474c82ba47c9f953cb39",
+  "title": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars",
+  "description": "A hero's destiny is written in the Stars. \nThe legendary Konami JRPGs Suikoden I and Suikoden II have now been remastered in HD!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7b268e218a8747ed984d0968d8f20a8a/suikoden-i-and-ii-hd-remaster-1o6bs.jpg",
+      "md5": "61d41b893684560baa8dd430c2ed457d",
+      "width": 2560,
+      "height": 1440,
+      "size": 825284,
+      "uploadedDate": "2024-11-27T04:24:15.935Z",
+      "alt": "Suikoden I and II HD Remaster Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7b268e218a8747ed984d0968d8f20a8a/suikoden-i-and-ii-hd-remaster-i5xb5.jpg",
+      "md5": "434251e644cd3d0ef77a2c861024cf03",
+      "width": 1200,
+      "height": 1600,
+      "size": 542819,
+      "uploadedDate": "2024-11-27T04:24:21.897Z",
+      "alt": "Download Suikoden I and II HD Remaster Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "678f87f25a4d4ef79c2d6700800f22ae",
+  "status": "ACTIVE",
+  "creationDate": "2025-02-04T04:37:35.983Z",
+  "lastModifiedDate": "2025-02-04T04:37:36.329Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Save/{EpicID}/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "20"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SuikodenIandIIHDRemaster"
+    }
+  },
+  "entitlementName": "e9f0dbbd201c474c82ba47c9f953cb39",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a2714bea19a040b68d1f1a27951ba6da",
+      "appId": "f7aa1b904eb34959ad9eea9b86dce964",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "KONAMI",
+  "developerId": "o-snd8ledlra6sytkbbve7h5uwuxuytv",
+  "endOfSupport": false,
+  "applicationId": "fghi4567wA7MMUpnawiWny9KwQWi1tQo",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
