@@ -35,11 +35,11 @@
   "namespace": "503e0694c7f6438fb9865df48eca5e67",
   "status": "ACTIVE",
   "creationDate": "2023-05-24T09:26:30.764Z",
-  "lastModifiedDate": "2025-01-23T15:40:48.316Z",
+  "lastModifiedDate": "2025-02-04T21:19:22.849Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "EnginesofFuryMrqWn"
+      "value": "EnginesofFury"
     }
   },
   "entitlementName": "80208feeda7445b48aec09ce0cc7a896",
@@ -50,14 +50,15 @@
       "id": "f133817358314c099c982956d2a56f47",
       "appId": "9475b9808ff148cfb83791e84cb1ef8d",
       "platform": [
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ]
     }
   ],
   "developer": "Engines of Fury",
   "developerId": "o-k34qlj646kdkagruhb4ep4j5ukyyd6",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
