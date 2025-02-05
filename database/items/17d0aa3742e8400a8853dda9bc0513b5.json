@@ -1,7 +1,7 @@
 {
   "id": "17d0aa3742e8400a8853dda9bc0513b5",
   "title": "Big Helmet Heroes",
-  "description": "Throw yourself into an epic 3D beat’em up adventure with adorable knights, full of surprising worlds and situations.\nGrab your buddy and play in 2 player co-op to save the princess, but this is only the beginning!",
+  "description": "Discover a hilarious 3D beat 'em up game that combines combat and adventure. Find the 29 adorable heroes hidden in fantastic kingdoms and choose your favorites to save the princess.\nPlay solo or with a friend and try to overcome all the challenges!",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,8 +34,8 @@
   ],
   "namespace": "fcba6b461efc4602bbb0d4b736f7f0a7",
   "status": "ACTIVE",
-  "creationDate": "2024-06-14T12:05:46.617Z",
-  "lastModifiedDate": "2024-06-14T12:05:46.617Z",
+  "creationDate": "2024-05-30T13:10:47.318Z",
+  "lastModifiedDate": "2025-02-05T14:51:11.119Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,13 +49,16 @@
     {
       "id": "2c0d35983eab4f51bef7fbd80a74292a",
       "appId": "9d7eef230c6048b69c0613b0204bf868",
-      "platform": []
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Plug In Digital SAS",
   "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567uSEbPoOugUJoXwNv7bKWKJdJ",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
