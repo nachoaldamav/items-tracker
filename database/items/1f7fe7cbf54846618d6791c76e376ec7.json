@@ -35,7 +35,7 @@
   "namespace": "306a3dc5437a43d29e58661fc6f391f2",
   "status": "ACTIVE",
   "creationDate": "2023-03-11T15:38:38.447Z",
-  "lastModifiedDate": "2024-11-12T18:48:53.371Z",
+  "lastModifiedDate": "2025-02-06T15:38:16.652Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -53,7 +53,9 @@
     {
       "id": "43959d93561b44e0834b640dfd61d043",
       "appId": "f206ec8cd26f4fdf9ce6d0f5c9b6235c",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Iceberg Interactive",
