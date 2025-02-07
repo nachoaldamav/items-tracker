@@ -35,7 +35,7 @@
   "namespace": "7c64b0352fb7449082d7331141b36d97",
   "status": "ACTIVE",
   "creationDate": "2023-03-22T10:11:28.733Z",
-  "lastModifiedDate": "2024-12-03T13:57:32.508Z",
+  "lastModifiedDate": "2025-02-07T10:04:25.458Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "8c6ab3bf6f6641749ffc666f00d987bb",
       "appId": "ceed5e1d183043e381e6776108009c89",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Kalypso Media Group GmbH",
