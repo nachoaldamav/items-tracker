@@ -1,0 +1,71 @@
+{
+  "id": "67cd55fa8afd447781c09e77caeb9286",
+  "title": "STATION",
+  "description": "STATION",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/bb203d163f7142168319ea08d0094f78/station-mkyqd.png",
+      "md5": "99d075523d8d8a2384f73c54175f3bfa",
+      "width": 2560,
+      "height": 1440,
+      "size": 3191042,
+      "uploadedDate": "2025-01-29T21:20:19.039Z",
+      "alt": "STATION Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/bb203d163f7142168319ea08d0094f78/station-1ers6.png",
+      "md5": "f839bba821e4252e50d411f480f702e5",
+      "width": 1200,
+      "height": 1600,
+      "size": 992433,
+      "uploadedDate": "2025-01-10T14:22:28.193Z",
+      "alt": "Download STATION Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "341e1541b74a484e9a0fe7b09d687cfe",
+  "status": "ACTIVE",
+  "creationDate": "2025-02-07T17:11:29.339Z",
+  "lastModifiedDate": "2025-02-07T17:11:29.339Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Station/Saved/{EpicID}/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "STATION"
+    }
+  },
+  "entitlementName": "67cd55fa8afd447781c09e77caeb9286",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "46370c0e8b834fa8ba532f18a9057df9",
+      "appId": "ce4b2ab9f0c64dea83fd324d2e815b4e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "UN reliable company",
+  "developerId": "o-jq7pferhv88pxrfwxcz6hdatnr3snv",
+  "endOfSupport": false,
+  "applicationId": "fghi4567VSr30V5ZSTUncvhLcLS7JMtq",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
