@@ -1,7 +1,7 @@
 {
   "id": "d6c92fe3cb1b40e59a22fd84dd4b15e3",
-  "title": "Speedborn: Base offer",
-  "description": "Speedborn: Base offer",
+  "title": "Speedborn: The Parkour Game",
+  "description": "Speedborn: The Parkour Game",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,8 +34,8 @@
   ],
   "namespace": "d03854c9d8f54358916514341241f308",
   "status": "ACTIVE",
-  "creationDate": "2025-02-07T18:03:02.475Z",
-  "lastModifiedDate": "2025-02-07T18:03:02.475Z",
+  "creationDate": "2025-01-27T13:42:46.797Z",
+  "lastModifiedDate": "2025-02-09T14:33:42.983Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "b548add20e71460b922c4315c9143c73",
       "appId": "6e175adbbd224cf59a05fc31fbfc7a28",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Vault Games",
