@@ -1,0 +1,63 @@
+{
+  "id": "961b81e634c247fabb3602786aa8b11e",
+  "title": "Albatross",
+  "description": "Albatross",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3c1948b0b5a34a29b170e782780cd8b8/albatross-go6k6.png",
+      "md5": "232d27abf7f283794ddeccd167351783",
+      "width": 2560,
+      "height": 1440,
+      "size": 401482,
+      "uploadedDate": "2024-12-30T03:19:48.305Z",
+      "alt": "Albatross Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3c1948b0b5a34a29b170e782780cd8b8/albatross-1ysmc.png",
+      "md5": "34a07154f997d7d78cdf0c1d6d49d0a6",
+      "width": 1200,
+      "height": 1600,
+      "size": 160992,
+      "uploadedDate": "2024-12-30T03:19:50.536Z",
+      "alt": "Download Albatross Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0e68630da47041ffb030a1bbe55fca3c",
+  "status": "ACTIVE",
+  "creationDate": "2025-02-10T04:15:25.842Z",
+  "lastModifiedDate": "2025-02-10T04:15:25.842Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Albatross"
+    }
+  },
+  "entitlementName": "961b81e634c247fabb3602786aa8b11e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "797ff88268554ff6ba2afb871f38f87d",
+      "appId": "549b9c8963814e62adff73f78a97553f",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Qureo Studios",
+  "developerId": "o-83uz3udrht4x5brylfcvscmjs9xsta",
+  "endOfSupport": false,
+  "applicationId": "fghi4567cEtRy5QeU9byWae2kqqeXRpk",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
