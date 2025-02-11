@@ -15,12 +15,12 @@
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/d0951abf848045929292c0507d36ac1c/brew-mo908.PNG",
-      "md5": "9713af7b616e49ec8dd483f2e1cb07a3",
+      "url": "https://cdn1.epicgames.com/spt-assets/d0951abf848045929292c0507d36ac1c/brew-1ouky.png",
+      "md5": "87a44068001c37fa1b9ff7c32b1d667b",
       "width": 1200,
       "height": 1600,
-      "size": 2667136,
-      "uploadedDate": "2025-01-07T12:04:13.796Z",
+      "size": 2152535,
+      "uploadedDate": "2025-02-07T15:49:28.930Z",
       "alt": "Download Brew Offer"
     }
   ],
@@ -35,7 +35,7 @@
   "namespace": "1c777f998b15401c9d531165af4c9396",
   "status": "ACTIVE",
   "creationDate": "2023-03-10T17:00:11.402Z",
-  "lastModifiedDate": "2025-01-10T18:46:29.348Z",
+  "lastModifiedDate": "2025-02-11T17:10:12.445Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "2692c4d00b154235b7ec45951233ce6e",
       "appId": "f3625c88574042c7a8a53c98cbd4b0f4",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Snow Leaf Studios AS",

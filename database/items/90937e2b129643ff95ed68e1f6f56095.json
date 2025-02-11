@@ -1,0 +1,63 @@
+{
+  "id": "90937e2b129643ff95ed68e1f6f56095",
+  "title": "Brew demo",
+  "description": "Brew demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d0951abf848045929292c0507d36ac1c/brew-1hdht.png",
+      "md5": "d4b76ff42e2407fea58ae6b7e88671ef",
+      "width": 2560,
+      "height": 1440,
+      "size": 2891850,
+      "uploadedDate": "2025-02-07T16:20:02.431Z",
+      "alt": "Brew Brew demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d0951abf848045929292c0507d36ac1c/brew-xyuul.png",
+      "md5": "87a44068001c37fa1b9ff7c32b1d667b",
+      "width": 1200,
+      "height": 1600,
+      "size": 2152535,
+      "uploadedDate": "2025-02-07T15:50:11.142Z",
+      "alt": "Download Brew Brew demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1c777f998b15401c9d531165af4c9396",
+  "status": "ACTIVE",
+  "creationDate": "2025-02-11T17:10:12.459Z",
+  "lastModifiedDate": "2025-02-11T17:10:12.459Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BrewDemo"
+    }
+  },
+  "entitlementName": "90937e2b129643ff95ed68e1f6f56095",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bebccdd3-5c7c-4c5f-8d60-d015e6110721",
+      "appId": "806e1781d65741f08895124023402074",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Snow Leaf Studios AS",
+  "developerId": "o-g3drunrwlwe74sak65v9fe8dventxw",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
