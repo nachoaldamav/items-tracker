@@ -1,0 +1,98 @@
+{
+  "id": "cf1bacdc3c3444fa93dcdaef11968ce6",
+  "title": "Sid Meier's Civilization® VII",
+  "description": "Sid Meier's Civilization® VII",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/eb9cdf6dbe4b47fc8ba474017023476a/STANDARD-METADATA-DESKTOP-HORIZONTAL-STATIC-ENUS-NO_RATING-EPIC-1920x1080-QA_1920x1080-3c84e8436c0fba7191761849b8632f32",
+      "md5": "3c84e8436c0fba7191761849b8632f32",
+      "width": 1920,
+      "height": 1080,
+      "size": 1020388,
+      "uploadedDate": "2024-08-19T19:31:24.115Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/eb9cdf6dbe4b47fc8ba474017023476a/STANDART--METADATA-PRODUCT_OFFER_PORTRAIT_IMAGE-STATIC-ENUS-NO_RATING-EPIC-1200X1600-QA_1200x1600-7a2a0b7697c6355fed8da2a407ff17b2",
+      "md5": "7a2a0b7697c6355fed8da2a407ff17b2",
+      "width": 1200,
+      "height": 1600,
+      "size": 960817,
+      "uploadedDate": "2024-08-19T19:31:31.972Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "eb9cdf6dbe4b47fc8ba474017023476a",
+  "status": "ACTIVE",
+  "creationDate": "2021-11-24T16:53:01.446Z",
+  "lastModifiedDate": "2025-02-11T00:39:16.067Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "eb9cdf6dbe4b47fc8ba474017023476a"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Civilization VII"
+    },
+    "BackgroundProcessNames": {
+      "type": "STRING",
+      "value": "LauncherPatcher.exe"
+    }
+  },
+  "entitlementName": "cf1bacdc3c3444fa93dcdaef11968ce6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "41f86be360274e9c8ced1128a5adc27f",
+      "appId": "3f0b68b4d67e4b128030024dae4e3c77",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567HtsMd96mSp6wTPlTGVUjAvPK",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
