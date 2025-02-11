@@ -1,0 +1,71 @@
+{
+  "id": "983f9e806aa84983a51f021b617013b1",
+  "title": "X-Morph Defense Complete Edition",
+  "description": "X-Morph Defense Complete Edition",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/58e50880d9da43c6ac1f15a4b1f4e8f0/xmorph-defense-84ee9.jpg",
+      "md5": "51bb35473bfff4243ad7c7d231f1cd3d",
+      "width": 2560,
+      "height": 1440,
+      "size": 3592367,
+      "uploadedDate": "2025-01-08T15:26:19.220Z",
+      "alt": "X-Morph Defense Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/58e50880d9da43c6ac1f15a4b1f4e8f0/xmorph-defense-1jzjl.jpg",
+      "md5": "570107873f15f36296218bf9d500fed4",
+      "width": 1200,
+      "height": 1600,
+      "size": 1928563,
+      "uploadedDate": "2025-01-08T15:26:18.611Z",
+      "alt": "Download X-Morph Defense Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cd053a8104444485ad00ceb98eb4aecd",
+  "status": "ACTIVE",
+  "creationDate": "2025-02-11T11:25:09.405Z",
+  "lastModifiedDate": "2025-02-11T11:25:09.405Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/X-Morph Defense/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.entities, *.game, *.grid, *.logic, *.physics, *.stats, *.map, playerinfo/*"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "XMorphDefense7VRjy"
+    }
+  },
+  "entitlementName": "983f9e806aa84983a51f021b617013b1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "da54f4f36ef948fa97c9ad5d3afa8f0c",
+      "appId": "e3afb894b0db4286b90f304d9ee38823",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "EXOR Studios",
+  "developerId": "o-e8gktlrrf9zkrs9zuhlhd3xlf2znyv",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
