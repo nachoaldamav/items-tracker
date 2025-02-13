@@ -1,0 +1,75 @@
+{
+  "id": "e86f6b6354ce46cda1e3ff08a418b7db",
+  "title": "Redemption Reapers",
+  "description": "Redemption Reapers",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ef29f30004144520854538fe677fd34b/redemption-reapers-1gsjc.jpg",
+      "md5": "27dfc99cbada657168b09f720fb9dbd8",
+      "width": 2560,
+      "height": 1440,
+      "size": 506443,
+      "uploadedDate": "2025-01-30T05:56:47.394Z",
+      "alt": "Redemption Reapers Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ef29f30004144520854538fe677fd34b/redemption-reapers-q65e5.png",
+      "md5": "646b0c42e7d8f8bf02307eb734acc88a",
+      "width": 1200,
+      "height": 1600,
+      "size": 2443805,
+      "uploadedDate": "2025-02-04T04:46:05.165Z",
+      "alt": "Download Redemption Reapers Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "131265b799fc415b88882ce5c999fb59",
+  "status": "ACTIVE",
+  "creationDate": "2025-02-12T13:23:10.536Z",
+  "lastModifiedDate": "2025-02-12T13:23:10.536Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/RedemptionReapers/Saved/SaveGames/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/RedemptionReapers/Saved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RedemptionReaperseR01D"
+    }
+  },
+  "entitlementName": "e86f6b6354ce46cda1e3ff08a418b7db",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bd616cc811a040abb86cd0313235e292",
+      "appId": "0a0841c5f62f4c59bdb78ee9b5a7d58b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Binary Haze Interactive Inc.",
+  "developerId": "o-cx7f4uu8gdmyhpxsa33vnhrk3uqek7",
+  "endOfSupport": false,
+  "applicationId": "fghi4567H7jzOTy4RuEqUrR6rlsTQec9",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

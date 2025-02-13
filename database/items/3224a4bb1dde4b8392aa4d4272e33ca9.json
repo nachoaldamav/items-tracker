@@ -34,8 +34,8 @@
   ],
   "namespace": "19f5f1c6259941838c77d24b3e7fd212",
   "status": "ACTIVE",
-  "creationDate": "2024-08-23T13:48:38.278Z",
-  "lastModifiedDate": "2024-08-23T13:48:38.278Z",
+  "creationDate": "2024-06-21T09:08:27.989Z",
+  "lastModifiedDate": "2025-02-13T12:37:12.484Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "a35d296050a547f4b6c34edf4b730595",
       "appId": "2fd3a1de16734ee895eeb72548d0754d",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "gamegine",
