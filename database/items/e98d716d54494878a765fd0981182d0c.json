@@ -1,0 +1,91 @@
+{
+  "id": "e98d716d54494878a765fd0981182d0c",
+  "title": "Runes of Mystery",
+  "description": "The Demon Lord. His cold-blooded minions roam the magical world, spreading fear and destruction. Draw them out of their hiding places, strip them of their power and restore peace.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/19a2d5f4d52f4d6898441694ef1a5b4e/runes-of-mystery-4iwj9.png",
+      "md5": "74d082d32cdff16e27a51a7030e18374",
+      "width": 2560,
+      "height": 1440,
+      "size": 1634279,
+      "uploadedDate": "2024-01-03T21:25:23.866Z",
+      "alt": "Runes of Mystery Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/19a2d5f4d52f4d6898441694ef1a5b4e/runes-of-mystery-1pnrp.png",
+      "md5": "c17878a99549e7b9081a79030068ba4d",
+      "width": 1200,
+      "height": 1600,
+      "size": 1512876,
+      "uploadedDate": "2024-01-03T21:25:24.313Z",
+      "alt": "Download Runes of Mystery Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4e2e4b7052de48e192361c7364b27bf0",
+  "status": "ACTIVE",
+  "creationDate": "2024-01-03T19:14:04.267Z",
+  "lastModifiedDate": "2025-02-13T14:40:45.043Z",
+  "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "SkipAutoInstallDlc": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "Client.exe"
+    },
+    "NotarizedAndSigned": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "Client.exe"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RunesofMystery"
+    },
+    "BackgroundProcessNames": {
+      "type": "STRING",
+      "value": "MysteryGuard.exe, Launcher.exe"
+    }
+  },
+  "entitlementName": "e98d716d54494878a765fd0981182d0c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d8bacb7de3504e1fa8472786490990a2",
+      "appId": "5ba667a4e5af4c41bfee1a7e2e8706ff",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SIMYACI BILISIM SANAYI VE TICARET LIMITED SIRKETI",
+  "developerId": "o-fn3q86t3rlr5ya5c2y2duekrs3vbnf",
+  "endOfSupport": false,
+  "applicationId": "fghi4567Jdx6ChtHKy1oG6z7OYqUMVra",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
