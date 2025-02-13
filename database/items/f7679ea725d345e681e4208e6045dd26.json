@@ -1,0 +1,63 @@
+{
+  "id": "f7679ea725d345e681e4208e6045dd26",
+  "title": "The Purge",
+  "description": "The Purge",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/babf70842e6544bfb9ca2933fc05f60a/the-purge-18r7t.png",
+      "md5": "4e35c272a74227b74c0c4ee5d133c79f",
+      "width": 2560,
+      "height": 1440,
+      "size": 3432527,
+      "uploadedDate": "2024-11-22T23:35:39.968Z",
+      "alt": "The Purge Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/babf70842e6544bfb9ca2933fc05f60a/the-purge-kfvx4.png",
+      "md5": "5674b40be15692f8f36d83df4b7bf3da",
+      "width": 1200,
+      "height": 1600,
+      "size": 2315330,
+      "uploadedDate": "2024-11-22T23:11:21.613Z",
+      "alt": "Download The Purge Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7b3b7d47a5974a448aad95f8251ff3a5",
+  "status": "ACTIVE",
+  "creationDate": "2025-02-13T14:51:52.984Z",
+  "lastModifiedDate": "2025-02-13T14:51:53.525Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ThePurge"
+    }
+  },
+  "entitlementName": "f7679ea725d345e681e4208e6045dd26",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e048af2373e44982bd5e54dfc67b7e09",
+      "appId": "0eb831b48cc346d0ae7986e547c3650f",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "OG Games Entertainment",
+  "developerId": "o-rbhgw9g3fbfytw6966nhpbkf9qfwl8",
+  "endOfSupport": false,
+  "applicationId": "fghi4567z60GulTKHqPN02sBpIH5eTYY",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
