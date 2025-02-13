@@ -1,0 +1,64 @@
+{
+  "id": "f1b6f2a0b8d64f45903086e5211e9dce",
+  "title": "NetVRk",
+  "description": "NetVRk",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ce7659b8cc494f1abf193183567ac304/netvrk-1gbbn.png",
+      "md5": "8c6984691c614cc077a55b33c03c1555",
+      "width": 2560,
+      "height": 1440,
+      "size": 1770353,
+      "uploadedDate": "2024-05-21T19:43:35.364Z",
+      "alt": "NetVRk Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ce7659b8cc494f1abf193183567ac304/netvrk-1n3ld.png",
+      "md5": "d62c5e056ce131ca02a1cd5567941f01",
+      "width": 1200,
+      "height": 1600,
+      "size": 2994748,
+      "uploadedDate": "2024-05-21T19:43:25.597Z",
+      "alt": "Download NetVRk Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d521ab9788c7409785155dff9f94777f",
+  "status": "ACTIVE",
+  "creationDate": "2025-02-13T02:22:07.908Z",
+  "lastModifiedDate": "2025-02-13T02:22:07.908Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "NetVRkMetaverse"
+    }
+  },
+  "entitlementName": "f1b6f2a0b8d64f45903086e5211e9dce",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "05d0886291e942fa90b4afccebff9b43",
+      "appId": "172fe2feca9d4af3b9363cc0f3f0ab89",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "NetVRk",
+  "developerId": "o-8kjca2rqm7kdb3q3tjcm8kp2lub6h7",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
