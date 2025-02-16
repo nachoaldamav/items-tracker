@@ -1,0 +1,63 @@
+{
+  "id": "e304b075cb9e4e5aa227b85a2c4c601e",
+  "title": "TripleSix",
+  "description": "TripleSix",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1b1b8327bc20496481c728480ef5f09d/triplesix-ploev.png",
+      "md5": "b9775bd8bc4191fc1b1a48841e9b2c3a",
+      "width": 2560,
+      "height": 1440,
+      "size": 560268,
+      "uploadedDate": "2024-12-02T06:37:14.413Z",
+      "alt": "TripleSix Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1b1b8327bc20496481c728480ef5f09d/triplesix-eudx2.png",
+      "md5": "a8ca2985091b1ff42d18943bc2eafef7",
+      "width": 1200,
+      "height": 1600,
+      "size": 174249,
+      "uploadedDate": "2024-12-02T06:37:13.155Z",
+      "alt": "Download TripleSix Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fe69b2159d144b3daf37aacb8a8d73d1",
+  "status": "ACTIVE",
+  "creationDate": "2025-02-15T06:00:55.481Z",
+  "lastModifiedDate": "2025-02-15T06:00:55.481Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TripleSix"
+    }
+  },
+  "entitlementName": "e304b075cb9e4e5aa227b85a2c4c601e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f21981d52a22417aa2c45b661ff99c46",
+      "appId": "f712be63d7aa42f78fb42372798b1e3a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Jabsz Gaming Studios LLP",
+  "developerId": "o-nub2glrm5g6aegxagp94zshf9zw7x6",
+  "endOfSupport": false,
+  "applicationId": "fghi4567CWP67JTTiwNPwx481dGJO1FU",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
