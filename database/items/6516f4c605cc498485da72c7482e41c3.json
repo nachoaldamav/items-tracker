@@ -1,0 +1,76 @@
+{
+  "id": "6516f4c605cc498485da72c7482e41c3",
+  "title": "NAIAD",
+  "description": "Immerse yourself in a relaxing, minimalist and colorful adventure. Flow with Naiad across a mysterious river and interact with its fauna and flora to discover little secrets. Enjoy a wholesome experience with an original and dreamy visual style.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8a5f84df81fb4c6296df822c44ea75be/naiad-9esa1.jpg",
+      "md5": "91c4a6e65a79dcd304d8d37386356aa1",
+      "width": 2560,
+      "height": 1440,
+      "size": 1023205,
+      "uploadedDate": "2025-02-10T16:07:20.829Z",
+      "alt": "NAIAD Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8a5f84df81fb4c6296df822c44ea75be/naiad-px6ua.jpg",
+      "md5": "d03ec54153e30231cd21e047f251e129",
+      "width": 1200,
+      "height": 1600,
+      "size": 614276,
+      "uploadedDate": "2025-02-10T16:07:23.505Z",
+      "alt": "Download NAIAD Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "890c597bea4946039d174a02cab79be0",
+  "status": "ACTIVE",
+  "creationDate": "2025-02-15T23:35:37.486Z",
+  "lastModifiedDate": "2025-02-15T23:35:37.486Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Naiad/{EpicID}/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Naiad/{EpicID}/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "16"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NAIAD60YrJ"
+    }
+  },
+  "entitlementName": "6516f4c605cc498485da72c7482e41c3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f12951619b014d1096f9c6d916a2a0c0",
+      "appId": "6d0ce30e71ad4c44ac7a55b16ac03c2e",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "HIWARP",
+  "developerId": "o-yx9wqygnh5aclnpjqqxq3ttjy3b9k6",
+  "endOfSupport": false,
+  "applicationId": "fghi4567Nzaf21ccjwZaBbSKt3HFvrEU",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
