@@ -35,8 +35,12 @@
   "namespace": "d49999c8fe5f4c6da446b3665e178a75",
   "status": "ACTIVE",
   "creationDate": "2024-11-18T08:43:17.236Z",
-  "lastModifiedDate": "2024-11-26T08:35:25.239Z",
+  "lastModifiedDate": "2025-02-17T13:39:54.898Z",
   "customAttributes": {
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "DigitalMandragora27f33"
@@ -56,7 +60,9 @@
   ],
   "developer": "MY.GAMES",
   "developerId": "o-tg8bdyuaqa58k5lnzh29nw3qx2fjxm",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
