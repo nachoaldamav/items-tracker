@@ -36,11 +36,15 @@
   "namespace": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "status": "ACTIVE",
   "creationDate": "2019-08-15T17:31:00.367Z",
-  "lastModifiedDate": "2024-09-17T15:00:07.730Z",
+  "lastModifiedDate": "2025-02-18T17:15:37.304Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/DeadIsland/Saved/SaveGames/"
     },
     "PresenceId": {
       "type": "STRING",
@@ -82,8 +86,10 @@
     {
       "id": "8f2948cbff75447a9e23a266ac84f710",
       "appId": "Crow",
+      "compatibleApps": [],
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "dateAdded": "2019-08-20T00:00:00.000Z"
     }
