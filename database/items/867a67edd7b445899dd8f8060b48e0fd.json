@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/330dace5ffc74156987f91d454ac544b/project-w-b7z6d.jpg",
-      "md5": "2588d20e84c728873c593716290cf0e1",
+      "url": "https://cdn1.epicgames.com/spt-assets/330dace5ffc74156987f91d454ac544b/project-w-1gl6e.jpg",
+      "md5": "483490505c27f285d266c104e79ee9a1",
       "width": 2560,
       "height": 1440,
-      "size": 995381,
-      "uploadedDate": "2023-11-09T13:18:21.062Z",
+      "size": 944444,
+      "uploadedDate": "2025-02-18T13:50:43.165Z",
       "alt": "Project W Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/330dace5ffc74156987f91d454ac544b/project-w-14mrq.jpg",
-      "md5": "53e04550885101b1053b649fcab02a26",
+      "url": "https://cdn1.epicgames.com/spt-assets/330dace5ffc74156987f91d454ac544b/project-w-1a2er.jpg",
+      "md5": "271347fc977949a409278164d1a54b36",
       "width": 1200,
       "height": 1600,
-      "size": 662991,
-      "uploadedDate": "2023-11-09T13:18:20.072Z",
+      "size": 664596,
+      "uploadedDate": "2025-02-18T13:05:16.791Z",
       "alt": "Download Project W Offer"
     }
   ],
@@ -35,11 +35,11 @@
   "namespace": "fd04af72ea0f437aad3a15acd9ed5508",
   "status": "ACTIVE",
   "creationDate": "2023-06-22T15:15:56.523Z",
-  "lastModifiedDate": "2025-01-23T18:53:14.423Z",
+  "lastModifiedDate": "2025-02-18T18:44:44.262Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "Expedition33AUWpf"
+      "value": "Expedition33"
     }
   },
   "entitlementName": "867a67edd7b445899dd8f8060b48e0fd",
@@ -49,7 +49,9 @@
     {
       "id": "1c644195ee7e4d1ebffa6484f2d37bb5",
       "appId": "f18fc860e6b4419e89147983bf769723",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Kepler Interactive",
