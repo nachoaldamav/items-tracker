@@ -1,25 +1,25 @@
 {
   "id": "22b3fe13958b41a8b8c60d1d1a2d43f4",
-  "title": "Twinmotion 2025.1 Preview 3",
-  "description": "Twinmotion 2025.1 Preview 3",
+  "title": "Twinmotion 2025.1",
+  "description": "Twinmotion 2025.1",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/item/poodle/TM-dieselGameBox-1920x1080logo_1920x1080-c85752a35ef8f9f7f49d8eb5249991b92_1920x1080-2469b46905bec3939ab1ba600ba968a1",
-      "md5": "2469b46905bec3939ab1ba600ba968a1",
+      "url": "https://cdn1.epicgames.com/item/poodle/TM-dieselGameBox-1920x1080logo_1920x1080-c85752a35ef8f9f7f49d8eb5249991b95_1920x1080-b8207b589015d291b065379b5c32d6b3",
+      "md5": "b8207b589015d291b065379b5c32d6b3",
       "width": 1920,
       "height": 1080,
-      "size": 4269473,
-      "uploadedDate": "2024-06-05T20:44:28.383Z"
+      "size": 1226547,
+      "uploadedDate": "2025-02-18T13:51:41.342Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/poodle/TM-DieselGameBoxTall-1200x1600logo_1200x1600-8ef8e0f3c9bc1c2ea60f4b2bd77351512_1200x1600-154fb4422379a8e4332fbec0b0db9a00",
-      "md5": "154fb4422379a8e4332fbec0b0db9a00",
+      "url": "https://cdn1.epicgames.com/item/poodle/TM-DieselGameBoxTall-1200x1600logo_1200x1600-8ef8e0f3c9bc1c2ea60f4b2bd77351515_1200x1600-a75485ef338b2e9e587a59a7e7815161",
+      "md5": "a75485ef338b2e9e587a59a7e7815161",
       "width": 1200,
       "height": 1600,
-      "size": 3608025,
-      "uploadedDate": "2024-06-05T20:44:46.692Z"
+      "size": 931968,
+      "uploadedDate": "2025-02-18T13:52:26.182Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "poodle",
   "status": "ACTIVE",
   "creationDate": "2024-11-04T13:58:31.509Z",
-  "lastModifiedDate": "2025-02-10T14:12:16.794Z",
+  "lastModifiedDate": "2025-02-18T14:22:05.299Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -50,6 +50,10 @@
     "egs.library.display_version": {
       "type": "STRING",
       "value": "2025.1"
+    },
+    "notarizedandsigned": {
+      "type": "STRING",
+      "value": "true"
     },
     "com.epicgames.app.developerName": {
       "type": "STRING",
