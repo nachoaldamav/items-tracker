@@ -1,0 +1,67 @@
+{
+  "id": "9d4fcbb509f24dc99ae9b8c4a41c4602",
+  "title": "DBall",
+  "description": "DBall",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ece16ad799e445d0b84b80035d7a7009/dball-11xo3.jpg",
+      "md5": "1fcecd5c8be811206f3e247ac30c928e",
+      "width": 2560,
+      "height": 1440,
+      "size": 823662,
+      "uploadedDate": "2025-02-18T18:25:54.271Z",
+      "alt": "DBall Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ece16ad799e445d0b84b80035d7a7009/dball-c2gy6.jpg",
+      "md5": "b12232b3386140cf18116d1373789d04",
+      "width": 1200,
+      "height": 1600,
+      "size": 1915152,
+      "uploadedDate": "2025-02-18T18:30:04.507Z",
+      "alt": "Download DBall Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4bc0671f7e5542b8bc2b4c6b8860ee96",
+  "status": "ACTIVE",
+  "creationDate": "2025-02-19T05:20:41.611Z",
+  "lastModifiedDate": "2025-02-19T05:20:41.611Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Dodo/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DBall"
+    }
+  },
+  "entitlementName": "9d4fcbb509f24dc99ae9b8c4a41c4602",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f94dcd07f35542eea8ff9e808eb40e5a",
+      "appId": "5d37bdbc0fea47e995cb87db1fe74b78",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Cooking Girl LLC",
+  "developerId": "o-ralu4zecfldz49xc9s5fncd9cgrcgg",
+  "endOfSupport": false,
+  "applicationId": "fghi4567CmOkcGgPwJiH1sMf3DRAQN3B",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
