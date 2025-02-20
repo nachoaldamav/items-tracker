@@ -1,0 +1,67 @@
+{
+  "id": "2cabc30a4d68477e84587aa609f5998f",
+  "title": "Chip 'N Clawz vs The Brainioids",
+  "description": "Chip 'N Clawz vs The Brainioids",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/49f24d3dc24944cc88892c6b16b5d63b/hecate-1h7u5.jpg",
+      "md5": "e718e64feb3117f2b39291200e026c1b",
+      "width": 2560,
+      "height": 1440,
+      "size": 1017258,
+      "uploadedDate": "2025-02-04T20:54:01.411Z",
+      "alt": "Hecate Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/49f24d3dc24944cc88892c6b16b5d63b/hecate-168qz.jpg",
+      "md5": "d13a37c88424d1555e6464b8e1dfe8bb",
+      "width": 1200,
+      "height": 1600,
+      "size": 602743,
+      "uploadedDate": "2025-02-04T20:54:01.838Z",
+      "alt": "Download Hecate Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "abb42bb74ebf446b9cfc98fded5a05c8",
+  "status": "ACTIVE",
+  "creationDate": "2025-02-20T17:00:17.732Z",
+  "lastModifiedDate": "2025-02-20T17:00:17.732Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/CHIPNCLAWZ/Saved/SaveGames/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ChipNClawz"
+    }
+  },
+  "entitlementName": "2cabc30a4d68477e84587aa609f5998f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "982f18b9bf3c43daa409f43bd6561b67",
+      "appId": "cad98ca9dc014983a2946f41dfe3d3e0",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Arc Games",
+  "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
