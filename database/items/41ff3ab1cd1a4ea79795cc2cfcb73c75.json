@@ -1,6 +1,6 @@
 {
   "id": "41ff3ab1cd1a4ea79795cc2cfcb73c75",
-  "title": "SuperB Playtest",
+  "title": "Super-B Playtest",
   "description": "Join forces with your teammates in Team Death Match and eliminate the enemy team! Also, Battle Royale Mode is available to play with updated level design & newly added AI players!",
   "keyImages": [
     {
@@ -35,7 +35,7 @@
   "namespace": "8af08e4aac124a88a4967d4444fd1a89",
   "status": "ACTIVE",
   "creationDate": "2024-10-04T12:40:34.671Z",
-  "lastModifiedDate": "2025-01-21T04:42:18.065Z",
+  "lastModifiedDate": "2025-02-20T01:51:49.243Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -50,9 +50,9 @@
       "id": "653b090d85754ce38f06c25679b0eded",
       "appId": "00e9d9cb76af4872aa26bdbed2b97d30",
       "platform": [
+        "Mac",
         "Win32",
-        "Windows",
-        "Mac"
+        "Windows"
       ]
     }
   ],
