@@ -35,15 +35,15 @@
   "namespace": "c67c56695c9a47b3b7501758ffe9fbe2",
   "status": "ACTIVE",
   "creationDate": "2024-10-01T18:45:29.275Z",
-  "lastModifiedDate": "2025-02-01T13:11:08.094Z",
+  "lastModifiedDate": "2025-02-20T15:31:51.806Z",
   "customAttributes": {
     "CloudSaveFolder_MAC": {
       "type": "STRING",
-      "value": "{UserLibrary}/Samsara/{EpicID}/"
+      "value": "{UserLibrary}/Samsara/Saved/SaveGames/{EpicID}/"
     },
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{AppData}/Samsara/{EpicID}/"
+      "value": "{AppData}/Samsara/Saved/SaveGames/"
     },
     "FolderName": {
       "type": "STRING",
@@ -58,6 +58,7 @@
       "id": "f89af516d75a4cdda3bd144cdbef7d8e",
       "appId": "f6a35e2600774ba789cc6a584b399161",
       "platform": [
+        "Win32",
         "Windows"
       ]
     }
