@@ -2,7 +2,28 @@
   "id": "eddbe659a99e440b88979472f1089f52",
   "title": "Art Book",
   "description": "Art Book",
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-1v82c.png",
+      "md5": "8c74d17eec3b67184d1b3a3a748eee63",
+      "width": 2560,
+      "height": 1440,
+      "size": 2813701,
+      "uploadedDate": "2025-02-21T10:09:11.631Z",
+      "alt": "Kingdom Come: Deliverance Art Book Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/88801317bf794eaba96d893fa7d0c5c3/kingdom-come-deliverance-pb63x.jpg",
+      "md5": "53ffe6cc87dac403d9daf5b9bc19dd94",
+      "width": 1200,
+      "height": 1600,
+      "size": 936487,
+      "uploadedDate": "2025-02-21T10:00:35.375Z",
+      "alt": "Download Kingdom Come: Deliverance Art Book Offer"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -19,8 +40,8 @@
   ],
   "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "status": "ACTIVE",
-  "creationDate": "2024-12-19T15:24:33.910Z",
-  "lastModifiedDate": "2024-12-20T12:24:18.468Z",
+  "creationDate": "2024-04-04T20:44:40.220Z",
+  "lastModifiedDate": "2025-02-21T16:32:53.788Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
