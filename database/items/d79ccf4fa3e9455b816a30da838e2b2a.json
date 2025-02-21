@@ -35,11 +35,11 @@
   "namespace": "fe7271d3a3da49c6924e38388ed3174a",
   "status": "ACTIVE",
   "creationDate": "2024-05-10T20:39:18.032Z",
-  "lastModifiedDate": "2025-02-12T20:37:30.780Z",
+  "lastModifiedDate": "2025-02-21T03:17:49.016Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{AppData}/../LocalLow/Party for Introverts/"
+      "value": "{AppData}/../LocalLow/Party for Introverts/CabernetEpic/"
     },
     "FolderName": {
       "type": "STRING",
@@ -53,7 +53,9 @@
     {
       "id": "e82ee32ac50d4e7f83598f7f994737a9",
       "appId": "5e45c78c1b5044c4834eece66f56c8aa",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Akupara Games",
