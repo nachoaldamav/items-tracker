@@ -1,0 +1,62 @@
+{
+  "id": "cf790f5600ce4f35a0bf32f466282f38",
+  "title": "fluffy's Adventure",
+  "description": "fluffy's Adventure",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5fdc9d47508b4e92a20309de7cba28a2/fluffys-adventure-103mr.png",
+      "md5": "c396f54a3028f8c4b7e72e3a37698323",
+      "width": 2560,
+      "height": 1440,
+      "size": 2639830,
+      "uploadedDate": "2025-02-16T23:45:58.282Z",
+      "alt": "fluffy's Adventure Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5fdc9d47508b4e92a20309de7cba28a2/fluffys-adventure-nfkdo.png",
+      "md5": "6d523011bf54ed3d4c0f01c253fa6cf3",
+      "width": 1200,
+      "height": 1600,
+      "size": 1877689,
+      "uploadedDate": "2025-02-16T23:45:45.020Z",
+      "alt": "Download fluffy's Adventure Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "acf223393e4741d88b66172f7f0875e9",
+  "status": "ACTIVE",
+  "creationDate": "2025-02-22T08:03:32.715Z",
+  "lastModifiedDate": "2025-02-22T08:03:32.715Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "fluffysAdventurergKIU"
+    }
+  },
+  "entitlementName": "cf790f5600ce4f35a0bf32f466282f38",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9e9186a8e5e64ad5ad05ce51d84b790c",
+      "appId": "df1d7cc20d784a849a81d0c8e98096bc",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Gamoksh Studio",
+  "developerId": "o-cpuq6gdxuzezhd43332evsp6z7mvbe",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
