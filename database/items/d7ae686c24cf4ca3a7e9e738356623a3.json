@@ -1,8 +1,8 @@
 {
-  "id": "f255964383d04135921876c536a0099c",
-  "title": "Band of Bastards Audience",
-  "description": "Band of Bastards Audience",
-  "longDescription": "Classic DLC",
+  "id": "d7ae686c24cf4ca3a7e9e738356623a3",
+  "title": "Royal DLC Audience",
+  "description": "Royal DLC Audience",
+  "longDescription": "Royal DLC",
   "keyImages": [],
   "categories": [
     {
@@ -14,15 +14,15 @@
   ],
   "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "status": "ACTIVE",
-  "creationDate": "2024-04-04T20:44:40.248Z",
-  "lastModifiedDate": "2025-02-22T22:29:32.871Z",
+  "creationDate": "2025-02-22T22:29:32.894Z",
+  "lastModifiedDate": "2025-02-22T22:29:33.414Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
     }
   },
-  "entitlementName": "f255964383d04135921876c536a0099c",
+  "entitlementName": "d7ae686c24cf4ca3a7e9e738356623a3",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
@@ -34,5 +34,6 @@
   "endOfSupport": false,
   "ageGatings": {},
   "applicationId": "",
+  "requiresSecureAccount": false,
   "unsearchable": false
 }
