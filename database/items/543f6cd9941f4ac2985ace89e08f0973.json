@@ -1,0 +1,69 @@
+{
+  "id": "543f6cd9941f4ac2985ace89e08f0973",
+  "title": "Trivia War",
+  "description": "Trivia War",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/63ee7a8523de44718d47ca02783a51f5/trivia-war-3ini0.png",
+      "md5": "943b9739ad344237b70288dc009afebf",
+      "width": 2560,
+      "height": 1440,
+      "size": 595097,
+      "uploadedDate": "2025-02-21T05:45:20.276Z",
+      "alt": "Trivia War Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/63ee7a8523de44718d47ca02783a51f5/trivia-war-acybo.png",
+      "md5": "07757d1687aed46f7e365b4e1346ef4f",
+      "width": 1200,
+      "height": 1600,
+      "size": 348790,
+      "uploadedDate": "2025-02-21T05:47:13.416Z",
+      "alt": "Download Trivia War Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1ef24209fc7c4baa96b7554616881348",
+  "status": "ACTIVE",
+  "creationDate": "2025-02-24T14:00:03.705Z",
+  "lastModifiedDate": "2025-02-24T14:00:03.705Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/TriviaWar/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/TriviaWar/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TriviaWarc2tHy"
+    }
+  },
+  "entitlementName": "543f6cd9941f4ac2985ace89e08f0973",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "67b0033bb3f7432288ae723fd0bc5136",
+      "appId": "600e1ae8338f4bb6b01050b8d4ddf43e",
+      "platform": []
+    }
+  ],
+  "developer": "Malachite Studios LLC",
+  "developerId": "o-dqpls5kuu8dcyskgx6s4bdlxhmkmmb",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
