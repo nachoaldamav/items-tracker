@@ -14,7 +14,7 @@
   "namespace": "e89efaeec0cd408abee8bd4dd02c8d32",
   "status": "ACTIVE",
   "creationDate": "2020-09-10T12:40:23.991Z",
-  "lastModifiedDate": "2020-09-25T15:50:53.952Z",
+  "lastModifiedDate": "2025-02-25T12:40:09.027Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -24,6 +24,7 @@
   "entitlementName": "b90b8ad26a4e45a18401fb8f34775582",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Kalypso Media Group GmbH",
   "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
   "eulaIds": [
@@ -31,6 +32,7 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
