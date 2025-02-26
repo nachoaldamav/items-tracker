@@ -14,7 +14,7 @@
   "namespace": "91189432bbad4478afd611edff7f0339",
   "status": "ACTIVE",
   "creationDate": "2019-07-15T23:28:17.079Z",
-  "lastModifiedDate": "2024-04-02T13:52:03.971Z",
+  "lastModifiedDate": "2025-02-26T15:28:30.985Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -22,12 +22,14 @@
     }
   },
   "entitlementName": "2470356bea7b44478440fc976e114146",
-  "entitlementType": "EXECUTABLE",
+  "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
   "developer": "11 Bit Studios",
   "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
   "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
