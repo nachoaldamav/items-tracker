@@ -1,0 +1,76 @@
+{
+  "id": "4ebf8fc77b5246648bd7c99148a76997",
+  "title": "Wilmot Works It Out",
+  "description": "Wilmot Works It Out is a puzzle building game about completing beautiful images and using them to decorate the walls of your house.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f42208f15d9a44b6aa7bfa9313055f5c/wilmot-works-it-out-8y35d.jpg",
+      "md5": "2bebb7ce608463135003320315653f4a",
+      "width": 2560,
+      "height": 1440,
+      "size": 460501,
+      "uploadedDate": "2024-10-15T17:17:52.513Z",
+      "alt": "Wilmot Works It Out Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f42208f15d9a44b6aa7bfa9313055f5c/wilmot-works-it-out-1g9q3.jpg",
+      "md5": "9b2d741bfb209b1d5a131de5d67c44ca",
+      "width": 1200,
+      "height": 1600,
+      "size": 600614,
+      "uploadedDate": "2024-10-15T17:17:52.686Z",
+      "alt": "Download Wilmot Works It Out Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c2e69cd8f5dd43058f299b8d231a0e02",
+  "status": "ACTIVE",
+  "creationDate": "2025-02-26T20:58:05.912Z",
+  "lastModifiedDate": "2025-02-26T20:58:05.912Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/com.Hollow-Ponds.Wilmot-Works-It-Out/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Hollow Ponds/Wilmot Works It Out/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WilmotWorksItOut"
+    }
+  },
+  "entitlementName": "4ebf8fc77b5246648bd7c99148a76997",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e1fa9dbfaaab4e41b737fec1de35cb85",
+      "appId": "b4581b9494f041e2b4067d8aa71726c0",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Finji LLC",
+  "developerId": "o-mlc3sx58k2v33qgucwt7nr9cvwc2y4",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
