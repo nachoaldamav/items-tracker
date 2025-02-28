@@ -1,0 +1,62 @@
+{
+  "id": "b5004baf4afd4322a8bbb74aa97b4ef5",
+  "title": "Little Comet",
+  "description": "Little Comet",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1f9fe94513a1490493fbe92f5c61994a/little-comet-1hr6m.png",
+      "md5": "867e2f73e263079676126b4cab7d5345",
+      "width": 2560,
+      "height": 1440,
+      "size": 596391,
+      "uploadedDate": "2025-02-09T10:50:31.050Z",
+      "alt": "Little Comet Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1f9fe94513a1490493fbe92f5c61994a/little-comet-13u6q.png",
+      "md5": "53533482e99d419fc64135bd8d7af991",
+      "width": 1200,
+      "height": 1600,
+      "size": 286057,
+      "uploadedDate": "2025-02-09T10:50:30.437Z",
+      "alt": "Download Little Comet Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "546da52e27c143c2b0addecce29eec55",
+  "status": "ACTIVE",
+  "creationDate": "2025-02-27T15:42:51.108Z",
+  "lastModifiedDate": "2025-02-27T15:42:51.108Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "LittleCometVjxIe"
+    }
+  },
+  "entitlementName": "b5004baf4afd4322a8bbb74aa97b4ef5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "89e6b09a04c34fffb56695ec2767f6bd",
+      "appId": "da100c5ab28f4028a7c0efbd5f970c7d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Outgunned Games",
+  "developerId": "o-w65t2jhb6snuhb6ujcgkg5k9ry24tg",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
