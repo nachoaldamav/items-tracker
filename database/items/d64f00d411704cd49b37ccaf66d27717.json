@@ -34,12 +34,20 @@
   ],
   "namespace": "837d902a50ee4f9295d5f7d324306f1a",
   "status": "ACTIVE",
-  "creationDate": "2023-08-25T18:00:49.062Z",
-  "lastModifiedDate": "2023-08-25T18:00:49.062Z",
+  "creationDate": "2023-05-29T16:58:39.000Z",
+  "lastModifiedDate": "2025-02-28T13:29:47.883Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Ops Game Studio/Lunar Axe/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "AutoSaveFile.es3,SaveFile.es3"
+    },
     "FolderName": {
       "type": "STRING",
-      "value": "LunarAxew39lF"
+      "value": "LunarAxe"
     }
   },
   "entitlementName": "d64f00d411704cd49b37ccaf66d27717",
@@ -57,6 +65,7 @@
   "developer": "Ops Game Studio",
   "developerId": "o-57b4mmr8323qd797k4gy693z7ltbfw",
   "endOfSupport": false,
+  "applicationId": "fghi4567u4PkCryK5QSV6zdnHkPIfGjb",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
