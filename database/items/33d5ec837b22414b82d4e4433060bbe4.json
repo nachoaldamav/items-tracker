@@ -35,7 +35,7 @@
   "namespace": "739d0f3d53054b29befc2753d58c7045",
   "status": "ACTIVE",
   "creationDate": "2023-03-15T07:57:03.060Z",
-  "lastModifiedDate": "2023-06-19T02:07:12.246Z",
+  "lastModifiedDate": "2025-02-28T07:15:07.700Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -51,11 +51,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "595fead21dde4dd198079c4d93a6c160",
+      "id": "8db8fee5387e41808dc196c789c81d56",
       "appId": "040e5fe3617443ef86e07d2127bda0b5",
       "platform": [
-        "Windows",
-        "Win32"
+        "Win32",
+        "Windows"
       ]
     }
   ],
