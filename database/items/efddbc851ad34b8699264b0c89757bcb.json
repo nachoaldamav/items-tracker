@@ -1,0 +1,79 @@
+{
+  "id": "efddbc851ad34b8699264b0c89757bcb",
+  "title": "Possessions",
+  "description": "Possessions",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/498d6929658f497d842fcbed1b07f3fa/possessions-1o045.png",
+      "md5": "65784239466de8eeca088dcf7988cd24",
+      "width": 2560,
+      "height": 1440,
+      "size": 1900196,
+      "uploadedDate": "2025-01-23T07:32:24.876Z",
+      "alt": "Possessions Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/498d6929658f497d842fcbed1b07f3fa/possessions-g5fu8.png",
+      "md5": "223ef376a0dd0fdfe42761f2273a0cf6",
+      "width": 1200,
+      "height": 1600,
+      "size": 415310,
+      "uploadedDate": "2025-01-23T07:37:56.317Z",
+      "alt": "Download Possessions Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "896e53aa87fb412aa37cbe6fdcbabdff",
+  "status": "ACTIVE",
+  "creationDate": "2025-03-02T00:04:47.354Z",
+  "lastModifiedDate": "2025-03-02T00:04:47.354Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Lucid Labs/Possessions/SavesDir/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Lucid Labs/Possessions/SavesDir/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Possessions"
+    }
+  },
+  "entitlementName": "efddbc851ad34b8699264b0c89757bcb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "00eacdb5d4e942d490a2da4c9ed476dd",
+      "appId": "7ddecf81c46b4367bf717b79a63735e1",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Lucid Labs",
+  "developerId": "o-v8ez4julrxrk4hvybdpbedx72dv7yh",
+  "endOfSupport": false,
+  "applicationId": "fghi4567g37OcZC2akmOUPtOwZ2f5bcW",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
