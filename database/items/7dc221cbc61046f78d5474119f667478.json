@@ -35,7 +35,7 @@
   "namespace": "2c587f0c88334a2698628f33c9927d44",
   "status": "ACTIVE",
   "creationDate": "2023-03-16T16:07:05.206Z",
-  "lastModifiedDate": "2024-11-27T23:05:05.255Z",
+  "lastModifiedDate": "2025-03-01T23:03:40.805Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "61d89f813c6943bb8e2bf2b2129b1eec",
       "appId": "4640f02c221a4c919e87377fed20f86a",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Pirate Royalty",
