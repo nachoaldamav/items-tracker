@@ -1,0 +1,83 @@
+{
+  "id": "8f41bba180d9453e8f84bafe2ea930d6",
+  "title": "Escape from Tarkov: Arena",
+  "description": "Escape from Tarkov: Arena is a tactical shooter with high level of realism, where skill and teamwork are key. There are no arcade simplifications here – dynamic, hardcore PvP battles with detailed weapon mechanics and ballistics that demand mastery and refined instincts",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/eb7eff84d8ba4b3e8d512589c5048187/escape-from-tarkov-arena-1v65a.jpg",
+      "md5": "aff7033959be5bc6cf42e01b7377e6d8",
+      "width": 2560,
+      "height": 1440,
+      "size": 982137,
+      "uploadedDate": "2025-02-13T10:44:38.951Z",
+      "alt": "Escape from Tarkov: Arena Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/eb7eff84d8ba4b3e8d512589c5048187/escape-from-tarkov-arena-ai606.jpg",
+      "md5": "2b4814efee645ad1b48d6eff3f26d860",
+      "width": 1200,
+      "height": 1600,
+      "size": 502600,
+      "uploadedDate": "2025-02-13T10:44:38.843Z",
+      "alt": "Download Escape from Tarkov: Arena Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "74d748b2912e49dd842e389a20f78c93",
+  "status": "ACTIVE",
+  "creationDate": "2025-03-04T12:53:30.192Z",
+  "lastModifiedDate": "2025-03-04T12:53:30.192Z",
+  "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "\"C:\\Battlestate Games\\BsgLauncher\\BsgLauncher.exe\""
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "EscapeFromTarkovArena.exe"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EscapefromTarkovArena"
+    },
+    "BackgroundProcessNames": {
+      "type": "STRING",
+      "value": "BsgLauncher.exe"
+    }
+  },
+  "entitlementName": "8f41bba180d9453e8f84bafe2ea930d6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "48df145cd53f484883b80d062d004e05",
+      "appId": "4196940fb9fe4087bcf0eaf713648e20",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "BATTLESTATE GAMES LIMITED",
+  "developerId": "o-u9342z4xnmazkj4senemlqbpkpn5ur",
+  "endOfSupport": false,
+  "applicationId": "fghi4567tkUwTWuS5xvRSlkOjCCveVbT",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
