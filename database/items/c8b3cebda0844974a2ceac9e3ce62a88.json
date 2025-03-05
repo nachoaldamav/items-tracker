@@ -35,8 +35,12 @@
   "namespace": "a186804ccee0436daa300390685eb7d7",
   "status": "ACTIVE",
   "creationDate": "2024-04-11T15:33:38.834Z",
-  "lastModifiedDate": "2025-01-20T17:49:00.584Z",
+  "lastModifiedDate": "2025-03-05T15:43:57.135Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/SiliconGame/Saved\\SaveGames/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "SpaceOutpostSiliconOne"
