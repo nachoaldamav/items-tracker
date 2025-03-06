@@ -1,0 +1,76 @@
+{
+  "id": "daa237dc80924df39d7ed728dbd1cd19",
+  "title": "Paladin's Passage",
+  "description": "Embark on an epic journey in this challenging 2.5D precision platformer with over 100 handcrafted dungeons filled with monsters. Become a master of block manipulation in your quest to restore harmony to the realm. The passage beckons; dare to answer the call!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f48545fe15094861840c7063364d1deb/paladins-passage-1fkhe.jpg",
+      "md5": "cdb02210fc7556c25dc20843f38529b6",
+      "width": 2560,
+      "height": 1440,
+      "size": 525058,
+      "uploadedDate": "2025-02-19T01:15:15.133Z",
+      "alt": "Paladin's Passage Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f48545fe15094861840c7063364d1deb/paladins-passage-3po8u.jpg",
+      "md5": "7d96fb97c14bc09ab26c5b5c583c0469",
+      "width": 1200,
+      "height": 1600,
+      "size": 320174,
+      "uploadedDate": "2025-02-19T01:15:14.883Z",
+      "alt": "Download Paladin's Passage Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "78b6c684014e4fe39ccab85dc26053dc",
+  "status": "ACTIVE",
+  "creationDate": "2025-03-06T14:41:25.895Z",
+  "lastModifiedDate": "2025-03-06T14:41:25.895Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Epic/PaladinsPassage/Saved/SaveGames/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/PaladinsPassage/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "PaladinSaveGame.sav,EnhancedInputUserSettings.sav,MenuSettings*.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PaladinsPassage"
+    }
+  },
+  "entitlementName": "daa237dc80924df39d7ed728dbd1cd19",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bd038e72e27d4dfdb4f7fe1e1427fa84",
+      "appId": "ab4a559e54db4169bc5f3e3c79b2d3be",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Bent Vector Studios, Inc.",
+  "developerId": "o-a42gvf8dm8gnv8rf68e2yarhwgcmlv",
+  "endOfSupport": false,
+  "applicationId": "fghi4567OqSdMdr0cUNrnRKjKO7G6ifu",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
