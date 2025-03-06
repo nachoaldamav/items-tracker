@@ -35,8 +35,16 @@
   "namespace": "d19977b12d7349b6ac45dbc05debeb49",
   "status": "ACTIVE",
   "creationDate": "2024-06-09T14:55:56.613Z",
-  "lastModifiedDate": "2025-03-04T23:52:26.467Z",
+  "lastModifiedDate": "2025-03-06T11:08:59.229Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/StreamlandsDefense/Saved\\SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1.25"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "StreamlandsDefensenEeDe"
@@ -49,7 +57,9 @@
     {
       "id": "105c251bf50b448a9090198dd7f92835",
       "appId": "b36b140d05c54a12ad65c7b0ec37994c",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "NGDStudios",
