@@ -31,18 +31,19 @@
   ],
   "namespace": "d3f97f301cb746d5b6e15424edb28afc",
   "status": "ACTIVE",
-  "creationDate": "2024-09-19T19:53:09.702Z",
-  "lastModifiedDate": "2024-09-19T19:53:09.702Z",
+  "creationDate": "2024-08-12T09:43:35.721Z",
+  "lastModifiedDate": "2025-03-07T10:42:45.794Z",
   "customAttributes": {},
   "entitlementName": "b875df5d0b4346af98c572245b063114",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "867a67edd7df41f0a8e3e55bac2fa8a6",
+      "id": "577a6e05364945ae9eeb8b78f3aeebc1",
       "appId": "bec54824bbad4888aa9475e6979c4bd3",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ]
     }
   ],
