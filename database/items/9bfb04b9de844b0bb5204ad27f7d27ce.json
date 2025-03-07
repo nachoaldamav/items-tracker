@@ -1,0 +1,73 @@
+{
+  "id": "9bfb04b9de844b0bb5204ad27f7d27ce",
+  "title": "Defense of Fort Burton",
+  "description": "Defense of Fort Burton",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/56cf15afb8ea41da9e7f4f02d95ba822/defense-of-fort-burton-1717q.png",
+      "md5": "c83ce3cae85e591b7a3567a785f4d1ec",
+      "width": 2560,
+      "height": 1440,
+      "size": 2079432,
+      "uploadedDate": "2025-02-06T04:53:39.124Z",
+      "alt": "Defense Of Fort Burton Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/56cf15afb8ea41da9e7f4f02d95ba822/defense-of-fort-burton-posgd.png",
+      "md5": "714841c50fe5144a2ad4eb02f89f4a8d",
+      "width": 1200,
+      "height": 1600,
+      "size": 552009,
+      "uploadedDate": "2025-02-06T04:53:40.736Z",
+      "alt": "Download Defense Of Fort Burton Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c6f5d83328db47b49a5d95bce93269cd",
+  "status": "ACTIVE",
+  "creationDate": "2025-02-11T14:35:21.523Z",
+  "lastModifiedDate": "2025-02-11T14:35:21.523Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserDir}/{EpicID}/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/{EpicID}/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DefenseOfFortBurtonArti"
+    }
+  },
+  "entitlementName": "9bfb04b9de844b0bb5204ad27f7d27ce",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "aef0c1207ba34fffbaa7b104e4a76a5f",
+      "appId": "0703f6383d1a4186a21605ed34757304",
+      "platform": []
+    }
+  ],
+  "developer": "PT Ledx Fun Studio",
+  "developerId": "o-pave4q9spuyv4m9424yp8zdljuruwj",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
