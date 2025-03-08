@@ -35,8 +35,12 @@
   "namespace": "bac0bcafe62d474492c6aea8f01457ff",
   "status": "ACTIVE",
   "creationDate": "2025-01-27T15:56:25.016Z",
-  "lastModifiedDate": "2025-02-01T13:14:52.829Z",
+  "lastModifiedDate": "2025-03-08T11:15:42.115Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/user/{EpicID}/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "Akolyta"
