@@ -1,0 +1,79 @@
+{
+  "id": "ac73c570191c43cb8eff53ca53b85a0c",
+  "title": "Farcana",
+  "description": "Farcana",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8d136fc52fba40858d3c62001b9348b4/farcana-5tk2m.png",
+      "md5": "b7a724eeaf65c43bf809c90efe822166",
+      "width": 2560,
+      "height": 1440,
+      "size": 3732921,
+      "uploadedDate": "2025-03-07T13:05:07.640Z",
+      "alt": "Farcana Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8d136fc52fba40858d3c62001b9348b4/farcana-o046u.png",
+      "md5": "dbfa8b9d48c8e55bc0386ec237a82e5f",
+      "width": 1200,
+      "height": 1600,
+      "size": 2440144,
+      "uploadedDate": "2025-02-27T17:10:31.015Z",
+      "alt": "Download Farcana Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f1ab8484337349de999ca30c28c92415",
+  "status": "ACTIVE",
+  "creationDate": "2025-01-21T13:21:36.909Z",
+  "lastModifiedDate": "2025-03-08T19:00:21.100Z",
+  "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "FarcanaGame-Win64-Shipping.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "FarcanaLauncher.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FarcanaGame"
+    },
+    "BackgroundProcessNames": {
+      "type": "STRING",
+      "value": "FarcanaLauncher.exe"
+    }
+  },
+  "entitlementName": "ac73c570191c43cb8eff53ca53b85a0c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b9dd2eb343d3458083e741529f9c4847",
+      "appId": "9f02ddb958914c2f90bc39ea71544df3",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Dizzaract FZ LLC",
+  "developerId": "o-4ef6b7m7ln5a7ejvtwjyg5b48b434p",
+  "endOfSupport": false,
+  "applicationId": "fghi4567CaVbe179bkko8w97uJbghc9h",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
