@@ -1,0 +1,64 @@
+{
+  "id": "d945cf0562864e22be9e2b449baf4df2",
+  "title": "The Shadow Tavern",
+  "description": "The Shadow Tavern",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/dcc269d781c84c81b81fdd1e8add4832/la-taverne-des-ombres-1avof.jpg",
+      "md5": "0b2e418f35dd51fb4c9e3c7d585712c2",
+      "width": 2560,
+      "height": 1440,
+      "size": 2660046,
+      "uploadedDate": "2025-03-07T19:49:38.459Z",
+      "alt": "la taverne des ombres Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/dcc269d781c84c81b81fdd1e8add4832/la-taverne-des-ombres-a1whh.jpg",
+      "md5": "d33c7c06627fc7b0824774601fa485de",
+      "width": 1200,
+      "height": 1600,
+      "size": 1667430,
+      "uploadedDate": "2025-03-07T19:51:20.475Z",
+      "alt": "Download la taverne des ombres Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c6a711ded6ec4bdd97cfad35252f5d43",
+  "status": "ACTIVE",
+  "creationDate": "2025-03-11T06:56:52.848Z",
+  "lastModifiedDate": "2025-03-11T06:56:52.848Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "theShadowTavern3W27"
+    }
+  },
+  "entitlementName": "d945cf0562864e22be9e2b449baf4df2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bb8a4e8e9f2d4085b8dde5db50850196",
+      "appId": "bec268092ae44226a61f9579c398c54b",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Crazy Production",
+  "developerId": "o-wlgb6hflq5zq54jks634dgyqvecmpb",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
