@@ -33,15 +33,11 @@
   "namespace": "carnation",
   "status": "ACTIVE",
   "creationDate": "2019-02-11T18:08:53.061Z",
-  "lastModifiedDate": "2025-03-07T15:30:19.522Z",
+  "lastModifiedDate": "2025-03-11T16:53:28.731Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
-    },
-    "defaultLaunchOption_Args": {
-      "type": "STRING",
-      "value": "-ExeId 0"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -54,10 +50,6 @@
     "MainWindowProcessName": {
       "type": "STRING",
       "value": "RainbowSix.exe"
-    },
-    "extraLaunchOption_001_Name": {
-      "type": "STRING",
-      "value": "Rainbow Six Siege - DX11"
     },
     "partnerLinkId": {
       "type": "STRING",
@@ -86,10 +78,6 @@
     "RegistryPath": {
       "type": "STRING",
       "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\635"
-    },
-    "extraLaunchOption_001_Args": {
-      "type": "STRING",
-      "value": "-ExeId 1"
     },
     "com.epicgames.app.developerName": {
       "type": "STRING",
