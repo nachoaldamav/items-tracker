@@ -1,7 +1,7 @@
 {
-  "id": "6f58cd49ea3c4fb08af7fcf9f78c5fab",
-  "title": "DevGeneralAudience",
-  "description": "DevGeneralAudience",
+  "id": "5c2bab410584445c85d769ea4c6c8fcb",
+  "title": "晋升通行证精英版_ConsumableAudience",
+  "description": "晋升通行证精英版_ConsumableAudience",
   "categories": [
     {
       "path": "audience"
@@ -12,14 +12,14 @@
   ],
   "namespace": "c5af2aba801c4c66add65784696e6806",
   "status": "ACTIVE",
-  "creationDate": "2025-02-11T06:54:19.898Z",
-  "lastModifiedDate": "2025-03-12T01:27:34.869Z",
-  "entitlementName": "6f58cd49ea3c4fb08af7fcf9f78c5fab",
+  "creationDate": "2025-03-12T01:27:34.903Z",
+  "lastModifiedDate": "2025-03-12T01:27:34.903Z",
+  "entitlementName": "5c2bab410584445c85d769ea4c6c8fcb",
   "entitlementType": "AUDIENCE",
-  "itemType": "DURABLE",
-  "releaseInfo": [],
+  "itemType": "CONSUMABLE",
   "developer": "CENTURY NETWORK (HONG KONG) LIMITED",
   "developerId": "o-3qk8hg3g7dfzl7pe2y8vd79se2sqda",
+  "useCount": 1,
   "endOfSupport": false,
   "requiresSecureAccount": false,
   "unsearchable": false
