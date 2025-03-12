@@ -34,9 +34,17 @@
   ],
   "namespace": "2ff9b80a92ef4a3fbc506a62f1bc3c59",
   "status": "ACTIVE",
-  "creationDate": "2023-09-08T15:40:37.284Z",
-  "lastModifiedDate": "2023-09-08T15:40:37.284Z",
+  "creationDate": "2023-07-26T07:37:07.204Z",
+  "lastModifiedDate": "2025-03-12T06:34:32.261Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Save/{EpicID}/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "POPUCOM"
@@ -49,7 +57,9 @@
     {
       "id": "526eed0e03dd4284b917ba07d7e65dab",
       "appId": "0ae6132eb21f44c5833aea234de6beba",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Gryph Frontier",
