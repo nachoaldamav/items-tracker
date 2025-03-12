@@ -1,0 +1,62 @@
+{
+  "id": "54bada3f6500459fb7d2bbe99598beda",
+  "title": "HyperFlight Arena",
+  "description": "HyperFlight Arena",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d839cf3eaffd464ba1071d35b5cac037/hyperflight-arena-hfjje.jpg",
+      "md5": "7cd750656e66b5b256afc1c87f234cfa",
+      "width": 2560,
+      "height": 1440,
+      "size": 2229610,
+      "uploadedDate": "2025-03-10T10:04:20.180Z",
+      "alt": "HyperFlight Arena Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d839cf3eaffd464ba1071d35b5cac037/hyperflight-arena-zu6mg.jpg",
+      "md5": "a50e8af49b194d832cb566cdfac82e53",
+      "width": 1200,
+      "height": 1600,
+      "size": 990913,
+      "uploadedDate": "2025-03-10T10:03:51.194Z",
+      "alt": "Download HyperFlight Arena Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f18768cf6bc9474b99c8a7c379d269a3",
+  "status": "ACTIVE",
+  "creationDate": "2025-03-11T23:42:05.716Z",
+  "lastModifiedDate": "2025-03-11T23:42:05.716Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "HyperFlightArenaOB9YT"
+    }
+  },
+  "entitlementName": "54bada3f6500459fb7d2bbe99598beda",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "83bd4118f743416aa9a3e9a3f64ca22a",
+      "appId": "1aceeb241e7c4fefaee18e82c4c3cf21",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Akiyam Solutions Private Limited",
+  "developerId": "o-8bxbnb6ghylvu9xv2venfjzma4hlvj",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
