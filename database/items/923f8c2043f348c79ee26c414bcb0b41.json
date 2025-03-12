@@ -1,0 +1,71 @@
+{
+  "id": "923f8c2043f348c79ee26c414bcb0b41",
+  "title": "Trident's Tale",
+  "description": "Uncover the Secrets of the Storm Trident and Rule the Seas - Your Legend Awaits in Trident's Tale!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/73fa58df74e24988ad8cea2437ed44be/tridents-tale-ocosv.png",
+      "md5": "c92da8420e8be208d79fe61ca8505b4c",
+      "width": 2560,
+      "height": 1440,
+      "size": 3922570,
+      "uploadedDate": "2025-02-26T14:51:36.484Z",
+      "alt": "Trident's Tale Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/73fa58df74e24988ad8cea2437ed44be/tridents-tale-z7h61.png",
+      "md5": "42939dfcf38671d71e4095ed4fd29872",
+      "width": 1200,
+      "height": 1600,
+      "size": 1941541,
+      "uploadedDate": "2025-02-26T14:51:34.480Z",
+      "alt": "Download Trident's Tale Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b3eefb9401454010919b8f9f93c2966e",
+  "status": "ACTIVE",
+  "creationDate": "2025-03-11T22:49:45.612Z",
+  "lastModifiedDate": "2025-03-11T22:49:45.612Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/KS2/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "GameProgressionEos.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TridentsTaleCi9c5"
+    }
+  },
+  "entitlementName": "923f8c2043f348c79ee26c414bcb0b41",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d13559d2064f48b9846fa807ca26315f",
+      "appId": "087c27f321c745f5bdfde59f184f72a4",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "3DClouds SRL",
+  "developerId": "o-4uhjx9kx4ck6cllux3tdshrzlmny7z",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
