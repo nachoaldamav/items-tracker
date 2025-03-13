@@ -1,0 +1,72 @@
+{
+  "id": "126ca651f7984d8bb138385dd004f3c1",
+  "title": "2 in 1 Hidden Object Worlds",
+  "description": "2 in 1 Hidden Object Worlds",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/46a42cd413ee4c118445a3df3b6091de/2-in-1-wimmelbild-welten-14go1.jpg",
+      "md5": "7ccba7ca9455fc19e659dd4a400d9501",
+      "width": 2560,
+      "height": 1440,
+      "size": 1721903,
+      "uploadedDate": "2025-03-07T12:02:38.491Z",
+      "alt": "2 in 1 Wimmelbild Welten Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/46a42cd413ee4c118445a3df3b6091de/2-in-1-wimmelbild-welten-19i73.png",
+      "md5": "e6b6f49a66dfbd019cb5172e615810c5",
+      "width": 1200,
+      "height": 1600,
+      "size": 3949857,
+      "uploadedDate": "2025-03-07T12:02:37.494Z",
+      "alt": "Download 2 in 1 Wimmelbild Welten Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3daa3e92eb884f35bc9ad904ac7a6f2b",
+  "status": "ACTIVE",
+  "creationDate": "2025-03-12T15:57:33.087Z",
+  "lastModifiedDate": "2025-03-12T15:57:33.087Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/2in1 Wimmelbildwelten/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.cfg, *.prf, *.lan"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TwoInOneHiddenObjectWorld"
+    }
+  },
+  "entitlementName": "126ca651f7984d8bb138385dd004f3c1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0a3a048b140e46e98473e96145c89eea",
+      "appId": "07f43de17fe742e4a5aed6365291f083",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "magnussoft",
+  "developerId": "o-5km446cfcu648rac6dmjxyyeuktdbt",
+  "endOfSupport": false,
+  "applicationId": "fghi4567MmlyeCBwBP7YAHUR0oQ6UxVq",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
