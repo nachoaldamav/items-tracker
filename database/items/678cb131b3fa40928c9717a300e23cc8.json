@@ -1,0 +1,72 @@
+{
+  "id": "678cb131b3fa40928c9717a300e23cc8",
+  "title": "Brigand: Gold",
+  "description": "Brigand: Gold",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/21ace03b4a614a94bac59260e9f611d7/brigand-gold-2vzv6.png",
+      "md5": "cb2011c036213cec3b23cd77ed8d214c",
+      "width": 2560,
+      "height": 1440,
+      "size": 1745949,
+      "uploadedDate": "2025-02-20T05:55:28.937Z",
+      "alt": "Brigand: Gold Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/21ace03b4a614a94bac59260e9f611d7/brigand-gold-1lz72.png",
+      "md5": "a08777b59e752ed0b4fcc177cbb322dc",
+      "width": 1200,
+      "height": 1600,
+      "size": 1487413,
+      "uploadedDate": "2025-02-20T05:55:33.697Z",
+      "alt": "Download Brigand: Gold Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1ed0b11b83a54b8a920f4996a08738f7",
+  "status": "ACTIVE",
+  "creationDate": "2025-03-13T17:58:56.461Z",
+  "lastModifiedDate": "2025-03-13T17:58:56.461Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/saves/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "200"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BrigandGoldMhfrz"
+    }
+  },
+  "entitlementName": "678cb131b3fa40928c9717a300e23cc8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1455c8573dd04fe480435a8a8013842b",
+      "appId": "7f03f64bf3524a7483b7f8152350bc1a",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "LCSoft",
+  "developerId": "o-9m8sfqb8kmb9933rdpz5tyzlxdgddn",
+  "endOfSupport": false,
+  "applicationId": "fghi4567ZFeoOrkVOY8OtAA9oBjTzuc5",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
