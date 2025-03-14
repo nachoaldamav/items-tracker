@@ -1,0 +1,69 @@
+{
+  "id": "ac5623f9fc224d3ebc0be03b6c2677e5",
+  "title": "Gas Giant Voyage",
+  "description": "In the 798th parallel universe, there’s a gaseous planet, code-named \"Gas Giant Voyage,\" which is entirely gaseous without any land. It is composed of various elemental gases, including metal elements and dust floating in the air left by meteorites tearing through the atmosphere.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b7c7670d7d734df49c30bd117f93fada/gas-giant-voyage-uy7si.jpg",
+      "md5": "a9f337a005884d17fa4ffc8765c74339",
+      "width": 2560,
+      "height": 1440,
+      "size": 770007,
+      "uploadedDate": "2025-03-11T07:27:21.536Z",
+      "alt": "Gas Giant Voyage Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b7c7670d7d734df49c30bd117f93fada/gas-giant-voyage-q0ach.png",
+      "md5": "32039994abbf0e342cd4848bd963d464",
+      "width": 1200,
+      "height": 1600,
+      "size": 2702526,
+      "uploadedDate": "2025-03-11T07:27:31.628Z",
+      "alt": "Download Gas Giant Voyage Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a5af1c76dbe24f589852db5ce0f87b0a",
+  "status": "ACTIVE",
+  "creationDate": "2025-03-13T03:30:21.974Z",
+  "lastModifiedDate": "2025-03-13T03:30:21.974Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/GasGiantVoyage/Saved/SaveGames/{EpicID}/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GasGiantVoyage"
+    }
+  },
+  "entitlementName": "ac5623f9fc224d3ebc0be03b6c2677e5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "98c4831bc8a1433a9f69a72952a94b77",
+      "appId": "dba81538cf4e42d9a874aa30e1ecd2c1",
+      "platform": []
+    }
+  ],
+  "developer": "Beijing 1023 Technology CO., Ltd",
+  "developerId": "o-w7jyrlpjny3ff9tagn77xl3gjlg29s",
+  "endOfSupport": false,
+  "applicationId": "fghi4567XGuUJ2pSIiPpzboIOfDOYsWb",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
