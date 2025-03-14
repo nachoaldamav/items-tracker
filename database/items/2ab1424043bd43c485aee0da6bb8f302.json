@@ -1,0 +1,65 @@
+{
+  "id": "2ab1424043bd43c485aee0da6bb8f302",
+  "title": "XOCIETY",
+  "description": "XOCIETY",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/950c689c72814c19b60b6976a025e3ce/xociety-1cajn.jpg",
+      "md5": "ead5d1041f0b4a9fd051fae0ffb894f0",
+      "width": 2560,
+      "height": 1440,
+      "size": 777737,
+      "uploadedDate": "2025-01-22T05:37:54.032Z",
+      "alt": "XOCIETY Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/950c689c72814c19b60b6976a025e3ce/xociety-8mx2q.png",
+      "md5": "d4522a93fb7d1dee15e7ba29b43f42fe",
+      "width": 1200,
+      "height": 1600,
+      "size": 2758979,
+      "uploadedDate": "2025-01-22T05:22:12.453Z",
+      "alt": "Download XOCIETY Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7a544209697a4373988b8f1724a7c90d",
+  "status": "ACTIVE",
+  "creationDate": "2025-03-13T23:28:40.800Z",
+  "lastModifiedDate": "2025-03-13T23:28:40.800Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "XOCIETY"
+    }
+  },
+  "entitlementName": "2ab1424043bd43c485aee0da6bb8f302",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ae82d470c5f143899dba0812b20f816a",
+      "appId": "dd5ace8bcef9430696e0e125d1d9964a",
+      "platform": [
+        "Win32",
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "TXCELERATOR PTE. LTD.",
+  "developerId": "o-nxhr33hw52labu42x22let7desxs7j",
+  "endOfSupport": false,
+  "applicationId": "fghi45670raQUVs6nxsAnhUFIIRQ1itn",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
