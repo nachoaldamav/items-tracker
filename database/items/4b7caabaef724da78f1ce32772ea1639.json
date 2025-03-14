@@ -1,0 +1,67 @@
+{
+  "id": "4b7caabaef724da78f1ce32772ea1639",
+  "title": "SILENT HILL f",
+  "description": "Hinako's hometown is engulfed in fog, driving her to fight grotesque monsters and solve eerie puzzles. Uncover the disturbing beauty hidden in terror.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6d34282a26c544df88ccc57505cdd2f0/silent-hill-f-3e9jt.jpg",
+      "md5": "1ad13dfe69d78f0408d74076357921b4",
+      "width": 2560,
+      "height": 1440,
+      "size": 2237260,
+      "uploadedDate": "2025-02-27T09:42:19.643Z",
+      "alt": "SILENT HILL f Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6d34282a26c544df88ccc57505cdd2f0/noce-1mgy9.png",
+      "md5": "b6460f57809b1dce284d987eaac700b8",
+      "width": 1200,
+      "height": 1600,
+      "size": 3508961,
+      "uploadedDate": "2025-01-07T08:06:12.391Z",
+      "alt": "Download NOCE Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0c17e87dad684dfc80f297b02db03991",
+  "status": "ACTIVE",
+  "creationDate": "2024-11-05T06:44:41.376Z",
+  "lastModifiedDate": "2025-03-13T07:00:44.028Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/SHf/Saved/SaveGames/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SHf"
+    }
+  },
+  "entitlementName": "4b7caabaef724da78f1ce32772ea1639",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fb75898117c74bb8ab7042b712695141",
+      "appId": "dc2af50022074452a20293a88da9940f",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "KONAMI",
+  "developerId": "o-snd8ledlra6sytkbbve7h5uwuxuytv",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
