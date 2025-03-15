@@ -1,0 +1,64 @@
+{
+  "id": "3bfbc10a106f42428c489413bb1f6b16",
+  "title": "Valiants: Arena",
+  "description": "Valiants: Arena",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8d71efcc03a34d0ba2147692bfe96378/valiants-arena-zz4mr.png",
+      "md5": "19a044c1e12102586ba646f7a54beb06",
+      "width": 2560,
+      "height": 1440,
+      "size": 3345738,
+      "uploadedDate": "2025-03-11T15:44:14.545Z",
+      "alt": "Valiants: Arena Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8d71efcc03a34d0ba2147692bfe96378/valiants-arena-12m4i.png",
+      "md5": "7f37c105d918030dae474123bd5c9a4d",
+      "width": 1200,
+      "height": 1600,
+      "size": 2127619,
+      "uploadedDate": "2025-03-11T15:27:11.385Z",
+      "alt": "Download Valiants: Arena Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0e433fc95cc8495ab17f1191be1dd812",
+  "status": "ACTIVE",
+  "creationDate": "2025-03-15T17:50:39.029Z",
+  "lastModifiedDate": "2025-03-15T17:50:39.029Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ValiantsArena"
+    }
+  },
+  "entitlementName": "3bfbc10a106f42428c489413bb1f6b16",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f108a4d0afab4091bd1f114bc770c35c",
+      "appId": "ca4be91e647547bdb1f58374d4ce5cbf",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Vortrius",
+  "developerId": "o-2fglrewe2mp728v8z69ax5b4p8s4la",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
