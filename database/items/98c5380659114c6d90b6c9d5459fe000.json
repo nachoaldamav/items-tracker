@@ -1,0 +1,64 @@
+{
+  "id": "98c5380659114c6d90b6c9d5459fe000",
+  "title": "Save Your Nuts",
+  "description": "Save Your Nuts",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/61df8a3ca92546b283170fce8d7cc01d/save-your-nuts-1tveu.png",
+      "md5": "f277aeed21463024779a692301757927",
+      "width": 2560,
+      "height": 1440,
+      "size": 3686114,
+      "uploadedDate": "2025-02-05T21:17:59.605Z",
+      "alt": "Save Your Nuts Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/61df8a3ca92546b283170fce8d7cc01d/save-your-nuts-1e1bs.png",
+      "md5": "21bb9c1c0aeb16e0f3c486cc63d04201",
+      "width": 1200,
+      "height": 1600,
+      "size": 2770144,
+      "uploadedDate": "2025-02-05T21:18:09.119Z",
+      "alt": "Download Save Your Nuts Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "29e3dabcd11d4522861b7eb435e41644",
+  "status": "ACTIVE",
+  "creationDate": "2025-03-14T18:11:16.140Z",
+  "lastModifiedDate": "2025-03-14T18:11:16.473Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SaveYourNuts"
+    }
+  },
+  "entitlementName": "98c5380659114c6d90b6c9d5459fe000",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0a6a62443976479e99e649612a0c606b",
+      "appId": "744f9eaeef3c426082ca1fb52ee8afca",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Triple Scale Games Inc",
+  "developerId": "o-cbb581a11ad54c92baba27e83c85d3",
+  "endOfSupport": false,
+  "applicationId": "fghi4567rX6wyBdJIER1g5OJmOKCW9mZ",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
