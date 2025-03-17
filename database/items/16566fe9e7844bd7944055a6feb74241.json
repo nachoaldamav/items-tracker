@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/a730a8b1b09148619db00c18bc998f09/cataclismo-q33x7.jpg",
-      "md5": "4108aa8543673f0228fdca02f8d1081e",
+      "url": "https://cdn1.epicgames.com/spt-assets/a730a8b1b09148619db00c18bc998f09/cataclismo-18jy2.jpg",
+      "md5": "759f05c600756813beb11ab4737c7230",
       "width": 2560,
       "height": 1440,
-      "size": 753415,
-      "uploadedDate": "2025-02-13T12:25:00.729Z",
+      "size": 797177,
+      "uploadedDate": "2025-03-05T12:10:22.235Z",
       "alt": "Cataclismo Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/a730a8b1b09148619db00c18bc998f09/cataclismo-1vdbm.jpg",
-      "md5": "9f470bbbbf199ce11643fe5ed05bf1ba",
+      "url": "https://cdn1.epicgames.com/spt-assets/a730a8b1b09148619db00c18bc998f09/cataclismo-y8tq6.jpg",
+      "md5": "4e6bebc47b96417406ca0ef078317d58",
       "width": 1200,
       "height": 1600,
-      "size": 406929,
-      "uploadedDate": "2025-02-13T12:25:00.192Z",
+      "size": 472450,
+      "uploadedDate": "2025-03-05T12:10:22.563Z",
       "alt": "Download Cataclismo Offer"
     }
   ],
@@ -34,12 +34,16 @@
   ],
   "namespace": "2f7dd9c2f1a4416fbcfed127b9873f65",
   "status": "ACTIVE",
-  "creationDate": "2025-02-20T14:00:20.816Z",
-  "lastModifiedDate": "2025-02-21T14:47:06.198Z",
+  "creationDate": "2024-03-07T11:14:57.429Z",
+  "lastModifiedDate": "2025-03-17T11:41:20.198Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{UserSavedGames}/Cataclismo/{EpicID}/"
+      "value": "{AppData}/../LocalLow/Digital Sun/Cataclismo/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "./Player-prev.log,\n./Player.log,\n./Unity/*,\n./backtrace/*"
     },
     "FolderName": {
       "type": "STRING",
