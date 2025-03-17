@@ -32,8 +32,8 @@
   ],
   "namespace": "lilac",
   "status": "ACTIVE",
-  "creationDate": "2019-01-16T13:11:43.663Z",
-  "lastModifiedDate": "2023-01-12T13:06:45.377Z",
+  "creationDate": "2025-03-06T18:52:57.628Z",
+  "lastModifiedDate": "2025-03-17T17:09:00.272Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -69,17 +69,13 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "dff83420e1f34d9fb1fda8b10e2e198e",
+      "id": "26d297622eca40e69000117e3e5dd204",
       "appId": "Lilac",
-      "compatibleApps": [],
       "platform": [
-        "Windows",
         "Mac",
-        "Win32"
-      ],
-      "dateAdded": "2019-01-16T00:00:00.000Z",
-      "releaseNote": "",
-      "versionTitle": ""
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Jackbox Games, Inc.",
