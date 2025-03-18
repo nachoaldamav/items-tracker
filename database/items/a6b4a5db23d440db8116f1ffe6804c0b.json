@@ -1,0 +1,61 @@
+{
+  "id": "a6b4a5db23d440db8116f1ffe6804c0b",
+  "title": "Defenders of Etheria",
+  "description": "Defenders of Etheria",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/329b3fb450ff4535858779b5608f3151/doe-1pgii.png",
+      "md5": "e7aefefc56a0093c93c36d4a0499cff3",
+      "width": 2560,
+      "height": 1440,
+      "size": 3095405,
+      "uploadedDate": "2025-03-05T19:55:42.376Z",
+      "alt": "DOE Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/329b3fb450ff4535858779b5608f3151/doe-tckpg.png",
+      "md5": "5d52583c2d2a890bc09f62444babff8c",
+      "width": 1200,
+      "height": 1600,
+      "size": 2007751,
+      "uploadedDate": "2025-03-05T19:55:46.390Z",
+      "alt": "Download DOE Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "359d0476f7da417fb43111edb9a60992",
+  "status": "ACTIVE",
+  "creationDate": "2025-03-17T16:26:29.431Z",
+  "lastModifiedDate": "2025-03-17T16:26:29.431Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DefendersofEtheria"
+    }
+  },
+  "entitlementName": "a6b4a5db23d440db8116f1ffe6804c0b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "772e2e09938945308ac37c1776f52136",
+      "appId": "68f51cf4d0e84b9a841c418321cb4658",
+      "platform": []
+    }
+  ],
+  "developer": "Chromatic Games",
+  "developerId": "o-ekrxdaudtq394jz4trl9aer3zxypvx",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
