@@ -1,0 +1,64 @@
+{
+  "id": "4fe420039510496cad08178224670471",
+  "title": "OVERDARE Studio",
+  "description": "OVERDARE Studio",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f712d192595c45e09422e8fbea073f34/overdare-studio-1ezvz.png",
+      "md5": "8d3033818fd23dc29ee9f5c44cc2fa1f",
+      "width": 2560,
+      "height": 1440,
+      "size": 1669694,
+      "uploadedDate": "2025-02-06T09:48:45.271Z",
+      "alt": "OVERDARE Studio Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f712d192595c45e09422e8fbea073f34/overdare-studio-1jyiz.png",
+      "md5": "c614351cac6efeee3c046b900c753848",
+      "width": 1200,
+      "height": 1600,
+      "size": 798854,
+      "uploadedDate": "2025-02-06T09:48:38.083Z",
+      "alt": "Download OVERDARE Studio Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "24121f882bcb4003ba110312b1b0e66b",
+  "status": "ACTIVE",
+  "creationDate": "2025-03-18T03:00:09.336Z",
+  "lastModifiedDate": "2025-03-18T03:00:09.336Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "OverdareStudioPJVXb"
+    }
+  },
+  "entitlementName": "4fe420039510496cad08178224670471",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ff242e63ff654f49b893aa904dbf60e7",
+      "appId": "20687893280c48c787633578d3e0ca2e",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "OVERDARE Inc",
+  "developerId": "o-rxlt2gdp7dfcgre4uwhd578xkes3lt",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
