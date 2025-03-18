@@ -35,8 +35,16 @@
   "namespace": "9c01cbfda83649178b87bdc22ae23c1a",
   "status": "ACTIVE",
   "creationDate": "2024-05-24T15:53:09.076Z",
-  "lastModifiedDate": "2024-11-11T15:16:19.808Z",
+  "lastModifiedDate": "2025-03-18T12:51:44.667Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/userdata/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "500"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "TheLostMythQIDox"
@@ -55,6 +63,7 @@
   "developer": "Moz the Tiger",
   "developerId": "o-3m9z7h3pfx6832e2kzx7me5ln2c8ew",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
