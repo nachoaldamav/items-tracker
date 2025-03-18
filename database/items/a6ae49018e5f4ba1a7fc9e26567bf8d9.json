@@ -1,0 +1,68 @@
+{
+  "id": "a6ae49018e5f4ba1a7fc9e26567bf8d9",
+  "title": "Tennis Antics",
+  "description": "Tennis Antics",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2b2e95dddaf54924a3bd3760b3dc9644/tennis-antics-5d5zz.jpg",
+      "md5": "39fc2b838636ada81a8c83f93b7f9a63",
+      "width": 2560,
+      "height": 1440,
+      "size": 979606,
+      "uploadedDate": "2025-03-10T15:20:39.875Z",
+      "alt": "Tennis Antics Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2b2e95dddaf54924a3bd3760b3dc9644/tennis-antics-18yb7.jpg",
+      "md5": "cc732b37f50da0f9c19b21d54058b3bc",
+      "width": 1200,
+      "height": 1600,
+      "size": 622045,
+      "uploadedDate": "2025-03-10T15:20:40.203Z",
+      "alt": "Download Tennis Antics Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "99551d32d8734d4db78b28cccfbee99f",
+  "status": "ACTIVE",
+  "creationDate": "2025-03-18T20:32:09.635Z",
+  "lastModifiedDate": "2025-03-18T20:32:09.635Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/data/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TennisAntics"
+    }
+  },
+  "entitlementName": "a6ae49018e5f4ba1a7fc9e26567bf8d9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b5a04ac063b74aa39a852ffb7ece096e",
+      "appId": "0b2cba0afacf430dbde60e93fb9f38f8",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Digital Theory Ltd.",
+  "developerId": "o-dn6tnel4gvgvtf452phltztdm4sp36",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
