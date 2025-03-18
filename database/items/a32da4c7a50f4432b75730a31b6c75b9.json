@@ -35,11 +35,19 @@
   "namespace": "7c64b0352fb7449082d7331141b36d97",
   "status": "ACTIVE",
   "creationDate": "2023-03-22T10:11:28.733Z",
-  "lastModifiedDate": "2025-02-07T10:04:25.458Z",
+  "lastModifiedDate": "2025-03-18T13:34:49.544Z",
   "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Commandos/Saved/SaveGames/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Commandos/Saved/SaveGames/"
+    },
     "FolderName": {
       "type": "STRING",
-      "value": "CommandosOriginsE6Gv6"
+      "value": "CommandosOrigins"
     }
   },
   "entitlementName": "a32da4c7a50f4432b75730a31b6c75b9",
@@ -57,7 +65,7 @@
   "developer": "Kalypso Media Group GmbH",
   "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567b2QVN7hvvW7JUsJXL7rAnDZo",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
