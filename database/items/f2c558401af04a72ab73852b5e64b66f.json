@@ -35,8 +35,12 @@
   "namespace": "937e39807b624624984dfd68dbb138b6",
   "status": "ACTIVE",
   "creationDate": "2024-12-24T19:47:28.646Z",
-  "lastModifiedDate": "2025-03-17T19:29:11.136Z",
+  "lastModifiedDate": "2025-03-19T19:59:48.608Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Autos/SaveGames/SaveGame.sav/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "Autos_v1"
