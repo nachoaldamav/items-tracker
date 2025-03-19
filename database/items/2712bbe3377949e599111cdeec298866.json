@@ -1,0 +1,75 @@
+{
+  "id": "2712bbe3377949e599111cdeec298866",
+  "title": "ReSetna",
+  "description": "ReSetna",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1286d61aca5449d6983b5648dd3451e2/resetna-st448.png",
+      "md5": "9293e9e4d5c4cacfb023d27775cd4419",
+      "width": 2560,
+      "height": 1440,
+      "size": 1735151,
+      "uploadedDate": "2025-03-03T09:15:05.582Z",
+      "alt": "ReSetna Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1286d61aca5449d6983b5648dd3451e2/resetna-16r3a.png",
+      "md5": "2be24006b5de422fa0a72727769ff2ce",
+      "width": 1200,
+      "height": 1600,
+      "size": 2854983,
+      "uploadedDate": "2025-03-03T09:14:06.549Z",
+      "alt": "Download ReSetna Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c0b94fd25bcb4fceaf5fd5d87ac494bd",
+  "status": "ACTIVE",
+  "creationDate": "2025-03-18T14:41:22.181Z",
+  "lastModifiedDate": "2025-03-18T14:41:22.181Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/ReSetna_Data/Saves/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.rst"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ReSetnaZAHKl"
+    }
+  },
+  "entitlementName": "2712bbe3377949e599111cdeec298866",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "749b2843249b43d19b524934d356c739",
+      "appId": "30e037feff9545f398c3808c70fdff46",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "TODAY'S GAMES",
+  "developerId": "o-4af6p9dtsy686mygjng62bs8wlgrb2",
+  "endOfSupport": false,
+  "applicationId": "fghi4567keZo4jCI2C1wgGizqMAO0auB",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
