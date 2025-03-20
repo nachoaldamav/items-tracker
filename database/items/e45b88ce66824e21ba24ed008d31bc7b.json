@@ -1,0 +1,71 @@
+{
+  "id": "e45b88ce66824e21ba24ed008d31bc7b",
+  "title": "Where the sky is",
+  "description": "Let's create in a mysterious world!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8ee4826842a245c7a5f2840b3896dff5/wheretheskyis-abza5.jpg",
+      "md5": "abc705a4991258f14cc62560ac3c03b5",
+      "width": 2560,
+      "height": 1440,
+      "size": 565709,
+      "uploadedDate": "2025-03-19T16:37:41.292Z",
+      "alt": "WhereTheSkyIs Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8ee4826842a245c7a5f2840b3896dff5/wheretheskyis-udcrm.jpg",
+      "md5": "71dca7145d2d356649f21c0c430083a9",
+      "width": 1200,
+      "height": 1600,
+      "size": 268097,
+      "uploadedDate": "2025-03-19T16:37:47.169Z",
+      "alt": "Download WhereTheSkyIs Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "65edddc61e26468184608e680682f04c",
+  "status": "ACTIVE",
+  "creationDate": "2025-03-20T14:00:10.853Z",
+  "lastModifiedDate": "2025-03-20T14:00:10.853Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/WhereTheSkyIs/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Wheretheskyis"
+    }
+  },
+  "entitlementName": "e45b88ce66824e21ba24ed008d31bc7b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "42573e45bdb94f69bd368b17e721263e",
+      "appId": "4a00a6663dd04057ae0de6a2b3f092de",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SmileForeverStudio",
+  "developerId": "o-492vsc4rzx28pstk3vlmwg998x44fa",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
