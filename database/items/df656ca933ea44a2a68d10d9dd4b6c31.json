@@ -32,8 +32,8 @@
   ],
   "namespace": "daisy",
   "status": "ACTIVE",
-  "creationDate": "2019-01-29T19:04:53.409Z",
-  "lastModifiedDate": "2023-01-12T12:47:13.126Z",
+  "creationDate": "2025-03-19T17:29:59.536Z",
+  "lastModifiedDate": "2025-03-21T15:32:16.468Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -69,17 +69,13 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "5007e255100c48da818eec5a4ecfd250",
+      "id": "bf7b30962fe04ded98c5abe6606a8c8b",
       "appId": "Daisy",
-      "compatibleApps": [],
       "platform": [
-        "Windows",
         "Mac",
-        "Win32"
-      ],
-      "dateAdded": "2019-01-29T00:00:00.000Z",
-      "releaseNote": "",
-      "versionTitle": ""
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Jackbox Games, Inc.",
