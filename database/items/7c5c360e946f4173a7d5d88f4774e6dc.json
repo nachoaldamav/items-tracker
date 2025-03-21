@@ -32,8 +32,8 @@
   ],
   "namespace": "orchid",
   "status": "ACTIVE",
-  "creationDate": "2019-01-16T13:37:03.290Z",
-  "lastModifiedDate": "2023-01-12T13:31:38.003Z",
+  "creationDate": "2025-03-18T17:51:58.227Z",
+  "lastModifiedDate": "2025-03-21T15:24:14.006Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -53,17 +53,13 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "e124f91587574754bc4e045421c3420f",
+      "id": "fac5fc7bffa14d8795f540f1f1296dc7",
       "appId": "Orchid",
-      "compatibleApps": [],
       "platform": [
-        "Windows",
         "Mac",
-        "Win32"
-      ],
-      "dateAdded": "2019-01-16T00:00:00.000Z",
-      "releaseNote": "",
-      "versionTitle": ""
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Jackbox Games, Inc.",
