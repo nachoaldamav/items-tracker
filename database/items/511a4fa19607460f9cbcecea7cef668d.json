@@ -32,8 +32,8 @@
   ],
   "namespace": "snowdrop",
   "status": "ACTIVE",
-  "creationDate": "2019-01-16T13:55:53.392Z",
-  "lastModifiedDate": "2023-01-12T13:37:25.518Z",
+  "creationDate": "2025-03-18T23:02:25.479Z",
+  "lastModifiedDate": "2025-03-21T15:23:33.828Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -65,17 +65,13 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "6d07366bb670476ba95a99d83751656b",
+      "id": "07cee74f4b6c4a4cb28d17b5687b09ef",
       "appId": "Snowdrop",
-      "compatibleApps": [],
       "platform": [
-        "Windows",
         "Mac",
-        "Win32"
-      ],
-      "dateAdded": "2019-01-16T00:00:00.000Z",
-      "releaseNote": "",
-      "versionTitle": ""
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Jackbox Games, Inc.",
