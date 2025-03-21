@@ -34,8 +34,8 @@
   ],
   "namespace": "c6f5d83328db47b49a5d95bce93269cd",
   "status": "ACTIVE",
-  "creationDate": "2025-02-11T14:35:21.523Z",
-  "lastModifiedDate": "2025-02-11T14:35:21.523Z",
+  "creationDate": "2025-01-22T03:51:49.056Z",
+  "lastModifiedDate": "2025-03-21T00:55:19.224Z",
   "customAttributes": {
     "CloudSaveFolder_MAC": {
       "type": "STRING",
@@ -61,7 +61,9 @@
     {
       "id": "aef0c1207ba34fffbaa7b104e4a76a5f",
       "appId": "0703f6383d1a4186a21605ed34757304",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "PT Ledx Fun Studio",
