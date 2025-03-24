@@ -34,8 +34,8 @@
   ],
   "namespace": "37b92b2c81b24185aa6d1bfa70cef42c",
   "status": "ACTIVE",
-  "creationDate": "2025-02-15T14:39:12.863Z",
-  "lastModifiedDate": "2025-02-15T14:39:12.863Z",
+  "creationDate": "2025-02-11T12:51:29.835Z",
+  "lastModifiedDate": "2025-03-24T18:08:23.299Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "e0f62313903c4cd0b704d930444893bc",
       "appId": "29d0252bda8a41a4a5402ae1fb12576c",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Vault Games",
