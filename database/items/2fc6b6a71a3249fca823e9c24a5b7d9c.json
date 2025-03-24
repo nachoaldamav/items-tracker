@@ -35,8 +35,8 @@
   ],
   "namespace": "8a6a94901c8248fca1f5c78931c85cbd",
   "status": "ACTIVE",
-  "creationDate": "2019-10-01T23:32:54.288Z",
-  "lastModifiedDate": "2024-01-24T16:03:25.553Z",
+  "creationDate": "2025-03-18T10:38:56.179Z",
+  "lastModifiedDate": "2025-03-24T10:39:11.428Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -72,13 +72,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "4fd479db1ec1473cb40d58c1b49429bb",
+      "id": "92f02c672081406dbc60c22707987cef",
       "appId": "Emu",
       "platform": [
-        "Windows",
-        "Mac"
-      ],
-      "dateAdded": "2019-10-01T00:00:00.000Z"
+        "Mac",
+        "Windows"
+      ]
     }
   ],
   "developer": "Frictional Games",
