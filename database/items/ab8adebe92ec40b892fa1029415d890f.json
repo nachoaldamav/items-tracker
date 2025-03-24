@@ -31,14 +31,25 @@
   ],
   "namespace": "4c436646d6f0400da483546a70e3a6e0",
   "status": "ACTIVE",
-  "creationDate": "2025-03-08T09:51:48.002Z",
-  "lastModifiedDate": "2025-03-08T09:51:48.002Z",
+  "creationDate": "2024-12-12T08:25:51.896Z",
+  "lastModifiedDate": "2025-03-24T17:00:03.792Z",
+  "customAttributes": {},
   "entitlementName": "ab8adebe92ec40b892fa1029415d890f",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a9db8406987b46c387fa48b3a3cc5419",
+      "appId": "f8cddbe1e1b14daca5aad6d3695f7458",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
   "developer": "Hooded Horse Inc.",
   "developerId": "o-4ftedygtvtsgp7tbaf49mpm7lt6u2e",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
