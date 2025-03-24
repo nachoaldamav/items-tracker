@@ -32,8 +32,8 @@
   ],
   "namespace": "feverfew",
   "status": "ACTIVE",
-  "creationDate": "2019-01-15T15:42:03.384Z",
-  "lastModifiedDate": "2023-01-12T12:58:06.252Z",
+  "creationDate": "2025-03-18T17:58:27.914Z",
+  "lastModifiedDate": "2025-03-24T15:13:40.594Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -73,17 +73,13 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "1d5285ca905042aca2812abbaa55919a",
+      "id": "cc223e27c5204520abbd0538a35baf97",
       "appId": "Feverfew",
-      "compatibleApps": [],
       "platform": [
-        "Windows",
         "Mac",
-        "Win32"
-      ],
-      "dateAdded": "2019-01-15T00:00:00.000Z",
-      "releaseNote": "",
-      "versionTitle": ""
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Jackbox Games, Inc.",
