@@ -36,7 +36,7 @@
   "namespace": "917551a8060244469eb4e6ab8a99cf24",
   "status": "ACTIVE",
   "creationDate": "2020-04-20T14:16:27.097Z",
-  "lastModifiedDate": "2020-04-30T14:39:59.697Z",
+  "lastModifiedDate": "2025-03-25T14:33:38.531Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -72,14 +72,13 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "ca687fc1dfb648ffb059a43bff40b81d",
+      "id": "df3498539f06484892c938d96503e2fa",
       "appId": "ece4c58603d04bcb97454be9a7492fa6",
       "platform": [
-        "Windows",
         "Mac",
-        "Win32"
-      ],
-      "dateAdded": "2020-04-20T00:00:00.000Z"
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Frictional Games",
