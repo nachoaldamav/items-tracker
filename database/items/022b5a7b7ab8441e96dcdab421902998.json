@@ -1,0 +1,34 @@
+{
+  "id": "022b5a7b7ab8441e96dcdab421902998",
+  "title": "Jelly Belly Bundle audience",
+  "description": "Jelly Belly Bundle audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "6009be9994c2409099588cde6f3a5ed0",
+  "status": "ACTIVE",
+  "creationDate": "2024-12-12T12:04:47.471Z",
+  "lastModifiedDate": "2025-03-24T14:12:20.591Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "022b5a7b7ab8441e96dcdab421902998",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
