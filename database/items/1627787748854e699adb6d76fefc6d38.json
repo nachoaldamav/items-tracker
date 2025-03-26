@@ -1,0 +1,76 @@
+{
+  "id": "1627787748854e699adb6d76fefc6d38",
+  "title": "Swordhaven: Iron Conspiracy",
+  "description": "Swordhaven: Iron Conspiracy",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/62ab4869b3ae408ba7af616f1e776732/swordhaven-iron-conspiracy-82e3w.jpg",
+      "md5": "5196296b2571bc2c8bcebe00f5ed0273",
+      "width": 2560,
+      "height": 1440,
+      "size": 2349852,
+      "uploadedDate": "2025-03-20T19:07:01.359Z",
+      "alt": "Swordhaven: Iron Conspiracy Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/62ab4869b3ae408ba7af616f1e776732/swordhaven-iron-conspiracy-1i06s.jpg",
+      "md5": "8d893a9729033c7e3e0e6313eab8a87a",
+      "width": 1200,
+      "height": 1600,
+      "size": 1174736,
+      "uploadedDate": "2025-03-20T19:06:28.481Z",
+      "alt": "Download Swordhaven: Iron Conspiracy Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "42e41966e08f45bf8687353f59fadc05",
+  "status": "ACTIVE",
+  "creationDate": "2025-03-26T17:57:24.139Z",
+  "lastModifiedDate": "2025-03-26T17:57:24.139Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/unity.AtomTeam.Swordhaven/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/AtomTeam/Swordhaven/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.as"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Swordhaven"
+    }
+  },
+  "entitlementName": "1627787748854e699adb6d76fefc6d38",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b0ce3347fb214b26b50edec10c4bf064",
+      "appId": "3f92827a28a14640a48d139da735560b",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "ATENT GAMES LTD",
+  "developerId": "o-2lap2qxjkr2g5pp9la5ese5t8akcy5",
+  "endOfSupport": false,
+  "applicationId": "fghi45672TsPdmaoSzNPwACA5owmTBgb",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
