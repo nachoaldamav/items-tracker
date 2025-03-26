@@ -1,0 +1,63 @@
+{
+  "id": "971a0857164f4a64a7220aa7027fdf1e",
+  "title": "Anime City",
+  "description": "Anime City",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/57bf9df3c4f14678a6958049fb32f258/anime-city-1qnev.jpg",
+      "md5": "3bf0e9f19499bfc4a02d1e7fd59c8de8",
+      "width": 2560,
+      "height": 1440,
+      "size": 3336688,
+      "uploadedDate": "2025-03-13T21:14:39.753Z",
+      "alt": "Anime City Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/57bf9df3c4f14678a6958049fb32f258/anime-city-1vw0z.jpg",
+      "md5": "20c11458c56e0316cf31731a5638ab8b",
+      "width": 1200,
+      "height": 1600,
+      "size": 1804182,
+      "uploadedDate": "2025-03-13T21:14:39.503Z",
+      "alt": "Download Anime City Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "566e62bde9d549eabd9754a4113dd837",
+  "status": "ACTIVE",
+  "creationDate": "2025-03-26T12:55:49.539Z",
+  "lastModifiedDate": "2025-03-26T12:55:49.539Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "AnimeCityUWxJf"
+    }
+  },
+  "entitlementName": "971a0857164f4a64a7220aa7027fdf1e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2d63b1ac8b10443a9d85b8eb10990b33",
+      "appId": "1985ee920a2549aebaba41aadf209b0a",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "PE PTITSYN ANTON VIKTORI",
+  "developerId": "o-xm38ddqz6hd2be8zvwde2fjcnq3l8p",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
