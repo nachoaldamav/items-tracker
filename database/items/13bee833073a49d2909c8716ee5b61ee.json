@@ -1,0 +1,63 @@
+{
+  "id": "13bee833073a49d2909c8716ee5b61ee",
+  "title": "Happy Game",
+  "description": "A little boy falls asleep to a horrible nightmare. Can you make him happy again?",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/61e093fe853d48eca37b3b7db72d6cd4/happy-game-1k9ov.jpg",
+      "md5": "172520950cf13ed61da47e4dfd394459",
+      "width": 2560,
+      "height": 1440,
+      "size": 1384867,
+      "uploadedDate": "2025-03-06T11:04:44.128Z",
+      "alt": "Happy Game Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/61e093fe853d48eca37b3b7db72d6cd4/happy-game-1ckvl.jpg",
+      "md5": "8002957fbdb8e8c879f72e78213e6c62",
+      "width": 1200,
+      "height": 1600,
+      "size": 400526,
+      "uploadedDate": "2025-03-06T11:04:43.586Z",
+      "alt": "Download Happy Game Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0024d18025a544fd99b2ee8dee87baaf",
+  "status": "ACTIVE",
+  "creationDate": "2025-03-25T15:46:13.198Z",
+  "lastModifiedDate": "2025-03-25T15:46:13.198Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "HappyGame"
+    }
+  },
+  "entitlementName": "13bee833073a49d2909c8716ee5b61ee",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1059cfdc-867e-4877-bc29-26e19807d6bd",
+      "appId": "d259e7fd1ef84474894256f7b762ea1f",
+      "platform": [
+        "iOS"
+      ]
+    }
+  ],
+  "developer": "Amanita Design s.r.o.",
+  "developerId": "o-9yx3b8bxbr9g2r3z7ahpmgphp2d5kh",
+  "endOfSupport": false,
+  "applicationId": "fghi4567gxcCigohzW7SHAl7mlbAcRDV",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
