@@ -1,0 +1,89 @@
+{
+  "id": "f74e6a3fbd0744ab82a3767f09998905",
+  "title": "F1® 25 Standard Edition",
+  "description": "Pre-purchase* F1® 25 Standard Edition and receive the F1® 75 Celebration Pack, F1® World Starter Pack and 5,000 PitCoin virtual currency to spend in-game.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4c57275be6f1469b9ae10006f7429a81/f1-25-2dcgz.jpg",
+      "md5": "3668bfd333a421ba8f2b0074849320c9",
+      "width": 2560,
+      "height": 1440,
+      "size": 385052,
+      "uploadedDate": "2025-03-18T17:41:09.165Z",
+      "alt": "F1 25 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4c57275be6f1469b9ae10006f7429a81/f1-25-yx26t.jpg",
+      "md5": "5837d64c6e42f1dc2c389f18d9e816aa",
+      "width": 1200,
+      "height": 1600,
+      "size": 222863,
+      "uploadedDate": "2025-03-18T17:41:11.626Z",
+      "alt": "Download F1 25 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "951a2095adea41729a180cb3bcba5dc1",
+  "status": "ACTIVE",
+  "creationDate": "2025-03-26T15:59:33.090Z",
+  "lastModifiedDate": "2025-03-26T15:59:33.090Z",
+  "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Codemasters\\F1_25"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "F1_25.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "F1_25.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "F125MdN9e"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "f74e6a3fbd0744ab82a3767f09998905",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6797f48366154bb29a6d1a776f21e1bc",
+      "appId": "Dhaulagiri",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
