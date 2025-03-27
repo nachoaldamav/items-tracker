@@ -1,8 +1,7 @@
 {
-  "id": "2ee6024572d7452db3c0ca755428810a",
-  "title": "nuclearbanana GeneralAudience",
-  "description": "nuclearbanana GeneralAudience",
-  "keyImages": [],
+  "id": "7a560a49f1484b498bc85b36a5831250",
+  "title": "nuclearbanana Deluxe audience",
+  "description": "nuclearbanana Deluxe audience",
   "categories": [
     {
       "path": "audience"
@@ -13,10 +12,15 @@
   ],
   "namespace": "8cd5e5952bb24df7813017d11d3ac03b",
   "status": "ACTIVE",
-  "creationDate": "2023-05-02T18:50:46.414Z",
-  "lastModifiedDate": "2025-01-07T17:12:28.569Z",
-  "customAttributes": {},
-  "entitlementName": "2ee6024572d7452db3c0ca755428810a",
+  "creationDate": "2024-11-14T19:36:35.097Z",
+  "lastModifiedDate": "2025-01-07T17:12:28.574Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7a560a49f1484b498bc85b36a5831250",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
