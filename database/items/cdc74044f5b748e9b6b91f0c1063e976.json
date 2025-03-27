@@ -1,0 +1,71 @@
+{
+  "id": "cdc74044f5b748e9b6b91f0c1063e976",
+  "title": "TENSEI",
+  "description": "An experience of self-discovery set in soothing Zen landscapes.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/96c4738e60b8466d887b2076988a65b2/tensei-1amwe.png",
+      "md5": "fd989deb9733a8fcdb73ac04ab31208b",
+      "width": 2560,
+      "height": 1440,
+      "size": 1903329,
+      "uploadedDate": "2025-02-06T09:17:38.156Z",
+      "alt": "TENSEI Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/96c4738e60b8466d887b2076988a65b2/tensei-g35u7.png",
+      "md5": "faaf368022bd0fbfbcab97c2ebe5ee3c",
+      "width": 1200,
+      "height": 1600,
+      "size": 2683587,
+      "uploadedDate": "2025-02-06T09:08:04.557Z",
+      "alt": "Download TENSEI Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9f53470792564e64ac9f3193e2ba85fd",
+  "status": "ACTIVE",
+  "creationDate": "2025-03-27T08:00:18.280Z",
+  "lastModifiedDate": "2025-03-27T08:00:18.280Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/NEURON-AGE/TENSEI/Storage_Epic/{EpicID}/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TENSEIOBVOt"
+    }
+  },
+  "entitlementName": "cdc74044f5b748e9b6b91f0c1063e976",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bb01923bda034913bae7f796db047bd2",
+      "appId": "7b52d20b8101459391508c3698f8b259",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "NEURON･AGE CO.,LTD.",
+  "developerId": "o-lbrvsefhyqktdpsvurbgb7xu73ramm",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
