@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/64502ad36cbc499399e9b795922446a4/nyan-heroes-1k8s8.png",
-      "md5": "542e39898c7b7ceb86cfbf8d3d047221",
+      "url": "https://cdn1.epicgames.com/spt-assets/64502ad36cbc499399e9b795922446a4/nyan-heroes-11m8k.png",
+      "md5": "2d0534a186fe4e8c37ec65134b8421f8",
       "width": 2560,
       "height": 1440,
-      "size": 3423195,
-      "uploadedDate": "2023-12-13T09:01:00.164Z",
+      "size": 3509893,
+      "uploadedDate": "2025-03-13T17:21:51.495Z",
       "alt": "Nyan Heroes Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/64502ad36cbc499399e9b795922446a4/nyan-heroes-1v55s.png",
-      "md5": "bb8c771d4375878d71c414e8355eecc9",
+      "url": "https://cdn1.epicgames.com/spt-assets/64502ad36cbc499399e9b795922446a4/nyan-heroes-puzid.png",
+      "md5": "a3e8bbf3e69859449088abe27d8e4057",
       "width": 1200,
       "height": 1600,
-      "size": 2304226,
-      "uploadedDate": "2023-12-13T09:29:18.387Z",
+      "size": 2515921,
+      "uploadedDate": "2025-03-13T17:21:11.780Z",
       "alt": "Download Nyan Heroes Offer"
     }
   ],
@@ -35,7 +35,7 @@
   "namespace": "8e8c6752bd704123adc71241c92e7bce",
   "status": "ACTIVE",
   "creationDate": "2023-04-13T21:03:35.356Z",
-  "lastModifiedDate": "2024-08-21T19:10:36.874Z",
+  "lastModifiedDate": "2025-03-28T03:24:44.352Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,10 @@
     {
       "id": "100361543f074632b33b11991989d74c",
       "appId": "fb43a8cb445643589094ed1c30a0741e",
-      "platform": []
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "9 Lives Interactive",
