@@ -32,13 +32,24 @@
   "namespace": "c8b495f1a9a34972ba0b0c46e8afec31",
   "status": "ACTIVE",
   "creationDate": "2025-01-24T20:13:51.649Z",
-  "lastModifiedDate": "2025-03-14T16:50:10.989Z",
+  "lastModifiedDate": "2025-03-28T16:20:09.686Z",
+  "customAttributes": {},
   "entitlementName": "e4b7c15b372342589bbdf12a1cc4c1a7",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9925bff6cfaa4ed5ad2650a72e2e4744",
+      "appId": "936244d5c4d543b0920e2d7cfb38928b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
   "developer": "Akupara Games",
   "developerId": "o-vzv8n7jse99sluj4vaa8522rh45cvg",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }

@@ -34,9 +34,13 @@
   ],
   "namespace": "9aef8a4b03674ce4b61922d7d13995af",
   "status": "ACTIVE",
-  "creationDate": "2025-02-18T08:49:56.753Z",
-  "lastModifiedDate": "2025-02-18T08:49:56.753Z",
+  "creationDate": "2024-12-20T09:35:37.979Z",
+  "lastModifiedDate": "2025-03-28T17:00:14.925Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/MindsEye/Saved/SaveGames/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "MindsEyeFbQBs"
@@ -57,6 +61,7 @@
   "developer": "IO Interactive Partners A/S",
   "developerId": "o-7ztq52w28wn8clbf4xfuvtbph3p4q5",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
