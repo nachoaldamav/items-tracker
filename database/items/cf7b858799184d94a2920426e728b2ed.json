@@ -4,6 +4,16 @@
   "description": "Neko Ghost, Jump!",
   "keyImages": [
     {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f2f1008125d14145a848fe58a6afc56c/brilliantrose-12swc.jpg",
+      "md5": "e78769e60eb056837a5ceb66f7e6fa6d",
+      "width": 2560,
+      "height": 1440,
+      "size": 1570016,
+      "uploadedDate": "2025-03-28T06:01:37.239Z",
+      "alt": "BrilliantRose Offer"
+    },
+    {
       "type": "DieselGameBoxTall",
       "url": "https://cdn1.epicgames.com/item/c4c7d3cd0a2f4ea2bf7d4a57e46e8d68/EGS_NekoGhostJump_BurgosGames_S2_1200x1600-b754b5c67827936697227849596d4829",
       "md5": "b754b5c67827936697227849596d4829",
@@ -11,15 +21,6 @@
       "height": 1600,
       "size": 342061,
       "uploadedDate": "2022-01-10T16:17:23.759Z"
-    },
-    {
-      "type": "DieselGameBoxWide",
-      "url": "https://cdn1.epicgames.com/item/c4c7d3cd0a2f4ea2bf7d4a57e46e8d68/EGS_NekoGhostJump_BurgosGames_S1_2560x1440-cd6248aeb6b664dc044ad6219d7f3608",
-      "md5": "cd6248aeb6b664dc044ad6219d7f3608",
-      "width": 2560,
-      "height": 1440,
-      "size": 540057,
-      "uploadedDate": "2022-01-10T16:17:33.604Z"
     }
   ],
   "categories": [
@@ -35,8 +36,8 @@
   ],
   "namespace": "c4c7d3cd0a2f4ea2bf7d4a57e46e8d68",
   "status": "ACTIVE",
-  "creationDate": "2021-05-04T16:45:13.330Z",
-  "lastModifiedDate": "2024-05-21T05:41:03.061Z",
+  "creationDate": "2025-03-28T06:02:24.061Z",
+  "lastModifiedDate": "2025-03-28T20:01:37.081Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -72,7 +73,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "a043c1136b8d4dfca414c61d66a2255d",
+      "id": "b0cbb54d2cb04cb9aac678baa3a0d9f2",
       "appId": "a9999cf992d74279b410a0ac9608e153",
       "platform": [
         "Windows"
