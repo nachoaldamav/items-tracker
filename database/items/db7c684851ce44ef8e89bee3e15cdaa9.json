@@ -1,0 +1,64 @@
+{
+  "id": "db7c684851ce44ef8e89bee3e15cdaa9",
+  "title": "Titans of War",
+  "description": "Titans of War",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e70ceb67ace240c2a61bdba6615dd3be/titans-of-war-1ybhf.jpg",
+      "md5": "f6548cabb9c38a842d573707009cead0",
+      "width": 2560,
+      "height": 1440,
+      "size": 596735,
+      "uploadedDate": "2025-01-06T02:42:36.354Z",
+      "alt": "Titans of War Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e70ceb67ace240c2a61bdba6615dd3be/titans-of-war-1v8w1.png",
+      "md5": "231afc1aecabc357f0f82a0fdd1a98b5",
+      "width": 1200,
+      "height": 1600,
+      "size": 3303784,
+      "uploadedDate": "2025-01-06T02:42:40.211Z",
+      "alt": "Download Titans of War Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "59e6682cdf804e96b6271a4be871d92f",
+  "status": "ACTIVE",
+  "creationDate": "2025-03-29T12:18:42.028Z",
+  "lastModifiedDate": "2025-03-29T12:18:42.028Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TitansofWar"
+    }
+  },
+  "entitlementName": "db7c684851ce44ef8e89bee3e15cdaa9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bdde27cad2864fcd91209c15d86c8dca",
+      "appId": "63f5fee12cb646f89aee09dd719ac0cc",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Titans of war",
+  "developerId": "o-2wcyczl9j6fxxbjx7tzt6h99grves7",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
