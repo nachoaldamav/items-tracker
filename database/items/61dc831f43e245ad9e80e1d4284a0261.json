@@ -1,7 +1,7 @@
 {
   "id": "61dc831f43e245ad9e80e1d4284a0261",
   "title": "Chess Club Valley",
-  "description": "Chess Club Valley",
+  "description": "Chess Club Valley is a 2D Open-World Chess RPG. Experience this epic chess adventure for the first time across a world filled with unique character’s, monsters, secrets and super bosses, while playing chess to level up your XP. A total of 20+ hours of gameplay!",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,8 +34,8 @@
   ],
   "namespace": "55e58062efd94787992a36c5ed9b44d4",
   "status": "ACTIVE",
-  "creationDate": "2024-06-29T00:08:43.057Z",
-  "lastModifiedDate": "2024-06-29T00:08:43.057Z",
+  "creationDate": "2023-07-01T20:30:11.979Z",
+  "lastModifiedDate": "2025-03-30T16:41:46.326Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -50,7 +50,8 @@
       "id": "32bca2a04e0b41cbb1649b2a0b82fbfd",
       "appId": "a598f9b037a9487793f23294523f1aa1",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ]
     }
   ],
