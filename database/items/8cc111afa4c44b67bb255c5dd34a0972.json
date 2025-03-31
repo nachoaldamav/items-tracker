@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/4110dd5e0d3d4b84b1cdc2d7aa3b2a2b/the-lost-myth-17ryq.png",
-      "md5": "e51585e200aec8d3ab215fa76e485af5",
+      "url": "https://cdn1.epicgames.com/spt-assets/4110dd5e0d3d4b84b1cdc2d7aa3b2a2b/the-lost-myth-hhblj.png",
+      "md5": "87931b276a86a4ba58fbe3ae3bf4bc91",
       "width": 2560,
       "height": 1440,
-      "size": 1007647,
-      "uploadedDate": "2024-10-16T18:50:58.224Z",
+      "size": 1846268,
+      "uploadedDate": "2025-03-31T09:44:28.612Z",
       "alt": "The Lost Myth Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/4110dd5e0d3d4b84b1cdc2d7aa3b2a2b/the-lost-myth-15trs.png",
-      "md5": "59ea9ad0e06311e1d30aae4ed02dfb72",
+      "url": "https://cdn1.epicgames.com/spt-assets/4110dd5e0d3d4b84b1cdc2d7aa3b2a2b/the-lost-myth-16fv7.png",
+      "md5": "42eb344340cd0fcba7ce638a3a20caa6",
       "width": 1200,
       "height": 1600,
-      "size": 1011110,
-      "uploadedDate": "2024-10-16T18:49:52.062Z",
+      "size": 1000735,
+      "uploadedDate": "2025-03-18T10:05:19.825Z",
       "alt": "Download The Lost Myth Offer"
     }
   ],
@@ -35,7 +35,7 @@
   "namespace": "9c01cbfda83649178b87bdc22ae23c1a",
   "status": "ACTIVE",
   "creationDate": "2024-05-24T15:53:09.076Z",
-  "lastModifiedDate": "2025-03-18T12:51:44.667Z",
+  "lastModifiedDate": "2025-03-31T15:55:22.903Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -47,7 +47,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "TheLostMythQIDox"
+      "value": "TheLostMyth"
     }
   },
   "entitlementName": "8cc111afa4c44b67bb255c5dd34a0972",
@@ -57,7 +57,9 @@
     {
       "id": "a5bfdd12159d46d9816981ad96033db4",
       "appId": "b224492e634d43b6baf92eef08a4c33e",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Moz the Tiger",
