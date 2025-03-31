@@ -35,8 +35,8 @@
   ],
   "namespace": "bec822fb982843c3be794d440728336b",
   "status": "ACTIVE",
-  "creationDate": "2019-07-09T15:35:38.259Z",
-  "lastModifiedDate": "2023-03-10T19:03:38.815Z",
+  "creationDate": "2025-03-28T11:13:14.294Z",
+  "lastModifiedDate": "2025-03-31T12:24:36.610Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -80,13 +80,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "095f8fdc376247ff9cc454f5be43fc8e",
+      "id": "1f53681dff4f4bf681512a820f795677",
       "appId": "Eagle",
       "platform": [
-        "Windows",
-        "Mac"
-      ],
-      "dateAdded": "2019-07-16T00:00:00.000Z"
+        "Mac",
+        "Windows"
+      ]
     }
   ],
   "developer": "11 Bit Studios",

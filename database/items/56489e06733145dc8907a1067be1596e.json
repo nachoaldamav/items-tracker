@@ -35,8 +35,8 @@
   ],
   "namespace": "bec822fb982843c3be794d440728336b",
   "status": "ACTIVE",
-  "creationDate": "2019-07-10T18:38:57.913Z",
-  "lastModifiedDate": "2023-03-10T19:05:15.360Z",
+  "creationDate": "2025-03-28T11:13:14.295Z",
+  "lastModifiedDate": "2025-03-31T12:24:36.610Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -48,16 +48,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "1c376507541a49cc8041802dd68f9fe5",
+      "id": "15a0941d48d1493e88757c5bb2aa391a",
       "appId": "EagleDLC",
-      "compatibleApps": [],
       "platform": [
-        "Windows",
-        "Mac"
-      ],
-      "dateAdded": "2019-07-10T00:00:00.000Z",
-      "releaseNote": "",
-      "versionTitle": ""
+        "Mac",
+        "Windows"
+      ]
     }
   ],
   "developer": "11 Bit Studios",

@@ -13,13 +13,14 @@
       "uploadedDate": "2019-07-16T18:24:44.834Z"
     },
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/bec822fb982843c3be794d440728336b/item/EGS_11bitstudios_Moonlighter_IC1_White-9543x2160-305693e0b369d31af6f97ce21eb05a2e.png",
-      "md5": "305693e0b369d31af6f97ce21eb05a2e",
-      "width": 9543,
-      "height": 2160,
-      "size": 75772,
-      "uploadedDate": "2019-07-16T18:24:57.579Z"
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f4fe2ffc7b0f4acebc040a31b6dcd278/moonlighter-eq2mm.jpg",
+      "md5": "acb1d7ab9d8163f307281bc9b8e46f57",
+      "width": 1200,
+      "height": 1600,
+      "size": 1410317,
+      "uploadedDate": "2025-03-31T09:43:52.140Z",
+      "alt": "Download Moonlighter Eagle DLC Staging Offer"
     }
   ],
   "categories": [
@@ -35,8 +36,8 @@
   ],
   "namespace": "bec822fb982843c3be794d440728336b",
   "status": "ACTIVE",
-  "creationDate": "2019-07-10T18:47:00.081Z",
-  "lastModifiedDate": "2019-07-31T16:24:21.474Z",
+  "creationDate": "2025-03-31T09:44:49.836Z",
+  "lastModifiedDate": "2025-03-31T12:24:36.610Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -48,16 +49,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "236641ab1e544470ba295c02c071f1ba",
+      "id": "6f7b5d2beec84d069e2d00f1c668b51b",
       "appId": "EagleDLCStaging",
-      "compatibleApps": [],
       "platform": [
-        "Windows",
-        "Mac"
-      ],
-      "dateAdded": "2019-07-10T00:00:00.000Z",
-      "releaseNote": "",
-      "versionTitle": ""
+        "Mac",
+        "Windows"
+      ]
     }
   ],
   "developer": "11 Bit Studios",
@@ -66,5 +63,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
