@@ -1,0 +1,62 @@
+{
+  "id": "31fcd69b50914c6ca9b1e9a6ddcbb82f",
+  "title": "Easter Egg Hunt",
+  "description": "Easter Egg Hunt",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4b79b583edd541ff87f6938a1def84ae/easter-egg-hunt-u1uo4.png",
+      "md5": "e085312210a856b54c8cf27dd8dbb513",
+      "width": 2560,
+      "height": 1440,
+      "size": 3025105,
+      "uploadedDate": "2025-03-27T23:52:30.292Z",
+      "alt": "Easter Egg Hunt Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4b79b583edd541ff87f6938a1def84ae/easter-egg-hunt-13n61.png",
+      "md5": "ab77ffdbfd0da70f77224e00d71157a0",
+      "width": 1200,
+      "height": 1600,
+      "size": 1024528,
+      "uploadedDate": "2025-03-27T23:52:30.025Z",
+      "alt": "Download Easter Egg Hunt Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ccfb856798744a0bb6d73548a6c8950e",
+  "status": "ACTIVE",
+  "creationDate": "2025-04-01T04:40:50.614Z",
+  "lastModifiedDate": "2025-04-01T04:40:50.614Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "EasterEggHuntx1aOH"
+    }
+  },
+  "entitlementName": "31fcd69b50914c6ca9b1e9a6ddcbb82f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1c856d283e9f4d0b9867be7c5ff872c4",
+      "appId": "aadbe0e5dc1845e384a6b3c59ad10499",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Akasoft Studios",
+  "developerId": "o-c6qa65gs4n5xvvdffuft2gprx5a3vx",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
