@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/starfish/item/OuterWilds_PrimaryPromo-1290x725-930b33ddbd98f10b26d8d2bd72551095.png",
-      "md5": "930b33ddbd98f10b26d8d2bd72551095",
-      "width": 1290,
-      "height": 725,
-      "size": 215896,
-      "uploadedDate": "2019-05-20T13:18:41.005Z"
+      "url": "https://cdn1.epicgames.com/item/starfish/OW_Epic_LandscapeStorefront_2560x1440-21cc536ba20ca2ddbff1a147046642fe_2560x1440-21cc536ba20ca2ddbff1a147046642fe",
+      "md5": "21cc536ba20ca2ddbff1a147046642fe",
+      "width": 2560,
+      "height": 1440,
+      "size": 368233,
+      "uploadedDate": "2025-04-02T15:41:53.419Z"
     },
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/starfish/item/OuterWilds_Logo-1501x700-bf592e4fe986130cee68604ec4059e03.png",
-      "md5": "bf592e4fe986130cee68604ec4059e03",
-      "width": 1501,
-      "height": 700,
-      "size": 70702,
-      "uploadedDate": "2019-05-20T13:18:54.066Z"
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/starfish/OW_Epic_PortraitStorefront_1200x1600-99dad6c305834ce163cabb944d909304_1200x1600-99dad6c305834ce163cabb944d909304",
+      "md5": "99dad6c305834ce163cabb944d909304",
+      "width": 1200,
+      "height": 1600,
+      "size": 275921,
+      "uploadedDate": "2025-04-02T15:41:56.600Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "starfish",
   "status": "ACTIVE",
   "creationDate": "2019-05-20T13:18:59.879Z",
-  "lastModifiedDate": "2019-05-30T14:59:32.911Z",
+  "lastModifiedDate": "2025-04-02T15:42:03.795Z",
   "customAttributes": {
     "availableDate": {
       "type": "STRING",
@@ -62,5 +62,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
