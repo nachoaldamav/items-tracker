@@ -1,0 +1,70 @@
+{
+  "id": "cb7ad2e2438c42bb965b950d67237090",
+  "title": "Hone",
+  "description": "Hone",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4690104e45c34445addab9503870dcc9/hone-11rzz.png",
+      "md5": "00ab4e5f3bcc5cbddf6783e14d947144",
+      "width": 2560,
+      "height": 1440,
+      "size": 2018808,
+      "uploadedDate": "2024-04-16T08:54:22.981Z",
+      "alt": "Hone Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4690104e45c34445addab9503870dcc9/hone-17vlq.png",
+      "md5": "6b349ac34d242c362eb33e903de28248",
+      "width": 1200,
+      "height": 1600,
+      "size": 1193188,
+      "uploadedDate": "2024-04-16T08:54:23.618Z",
+      "alt": "Download Hone Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6f8addca2fba41539d30094249b6aa91",
+  "status": "ACTIVE",
+  "creationDate": "2024-04-12T14:26:45.963Z",
+  "lastModifiedDate": "2025-04-02T14:36:03.654Z",
+  "customAttributes": {
+    "LaunchElevated": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Hone"
+    }
+  },
+  "entitlementName": "cb7ad2e2438c42bb965b950d67237090",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7ae83df6f1c94bdabbfd3236dd1138f6",
+      "appId": "504bf18950934ee197b398f97f2b95f5",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Auraside, Inc.",
+  "developerId": "o-jrknf2q5ssuf7f8yznh3v3r4q75jj3",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567X7FhQcsU6xRmEaLt9HOfbhrl",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
