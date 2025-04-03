@@ -35,15 +35,11 @@
   "namespace": "45902935391b479dae96a60495be8d8d",
   "status": "ACTIVE",
   "creationDate": "2025-01-06T22:25:38.537Z",
-  "lastModifiedDate": "2025-04-02T15:49:33.680Z",
+  "lastModifiedDate": "2025-04-03T13:51:33.547Z",
   "customAttributes": {
-    "CloudSaveFolder_MAC": {
-      "type": "STRING",
-      "value": "{AppData}/{EpicID}/"
-    },
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{UserSavedGames}/{EpicID}/"
+      "value": "{AppData}/Corrigendum/Saved/SaveGames/"
     },
     "FolderName": {
       "type": "STRING",
