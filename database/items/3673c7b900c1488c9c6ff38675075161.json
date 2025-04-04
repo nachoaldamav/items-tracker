@@ -1,0 +1,63 @@
+{
+  "id": "3673c7b900c1488c9c6ff38675075161",
+  "title": "Denbora",
+  "description": "Denbora",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/45cd4b8744e84010af477831ba280e89/denbora-13dzy.png",
+      "md5": "e7a42616e11f3dbf70c542e28d7e3808",
+      "width": 2560,
+      "height": 1440,
+      "size": 1831272,
+      "uploadedDate": "2025-04-03T14:43:26.013Z",
+      "alt": "Denbora Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/45cd4b8744e84010af477831ba280e89/denbora-1oo8g.png",
+      "md5": "fb2969d44462bf2b8399d8c7f5390c63",
+      "width": 1200,
+      "height": 1600,
+      "size": 1102299,
+      "uploadedDate": "2025-04-03T14:43:26.088Z",
+      "alt": "Download Denbora Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "83b4ad639971403f878a29a9e4c43da4",
+  "status": "ACTIVE",
+  "creationDate": "2025-04-04T05:56:46.926Z",
+  "lastModifiedDate": "2025-04-04T05:56:46.926Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Denbora"
+    }
+  },
+  "entitlementName": "3673c7b900c1488c9c6ff38675075161",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "347f906f7de848b993f6859e9f73d34a",
+      "appId": "097dd005f09f4890af26aebb7359804d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Bionic Ape",
+  "developerId": "o-s9yrc7dsvq49hejt4xx27hdcga4zpr",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
