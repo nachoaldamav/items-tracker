@@ -1,0 +1,102 @@
+{
+  "id": "45aac344cbfe40a5acb856999117d5fe",
+  "title": "Days Gone",
+  "description": "Days Gone",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Brutalopenworldactionadventuregame_BendStudio_S1_2560x1440-fec2937a1bd5f04f2a6321e4e2a2a2ba",
+      "md5": "fec2937a1bd5f04f2a6321e4e2a2a2ba",
+      "width": 2560,
+      "height": 1440,
+      "size": 696748,
+      "uploadedDate": "2021-05-12T03:38:44.519Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Brutalopenworldactionadventuregame_BendStudio_S2_1200x1600-e1c183cc11fdb47e26581e5ba19aa10a",
+      "md5": "e1c183cc11fdb47e26581e5ba19aa10a",
+      "width": 1200,
+      "height": 1600,
+      "size": 312780,
+      "uploadedDate": "2021-05-12T03:38:48.691Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9f4875c1b0cf4cf19b28e203fc7aff07",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-26T16:39:39.753Z",
+  "lastModifiedDate": "2025-04-04T16:18:13.613Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "9f4875c1b0cf4cf19b28e203fc7aff07"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/BendGame/Saved/{EpicID}/SaveGames/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "5000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DaysGone"
+    }
+  },
+  "entitlementName": "45aac344cbfe40a5acb856999117d5fe",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "11b0dbf884f4416289a0908c4ff77fcd",
+      "appId": "628aaf4b94794ea6815a6dc4d8a3de42",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-26T00:00:00.000Z"
+    }
+  ],
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "installModes": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567OruwIaQJCnVINzQxa0YZHMia",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
