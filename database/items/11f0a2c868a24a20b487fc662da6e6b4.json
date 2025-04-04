@@ -35,8 +35,16 @@
   "namespace": "42042b00aa674b1bab0084bf88b42776",
   "status": "ACTIVE",
   "creationDate": "2024-06-14T15:44:12.672Z",
-  "lastModifiedDate": "2024-12-10T16:00:22.398Z",
+  "lastModifiedDate": "2025-04-04T16:07:26.971Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/SRX_EGS/{EpicID}/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "20000"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "LegacyofKainSoulReavRhyAk"
