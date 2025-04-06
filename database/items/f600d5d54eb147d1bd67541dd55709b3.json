@@ -34,8 +34,8 @@
   ],
   "namespace": "3bb0cfb02595417f9134a5f31bc46333",
   "status": "ACTIVE",
-  "creationDate": "2023-12-15T11:30:12.861Z",
-  "lastModifiedDate": "2023-12-15T11:30:12.861Z",
+  "creationDate": "2023-12-01T12:01:32.487Z",
+  "lastModifiedDate": "2025-04-05T20:49:53.929Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "1272dd5bd07642bb98f6235d3848b0ee",
       "appId": "7fd7c25eb8e74df2bf2ccf6c9bf69bca",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Swarm Creations",
