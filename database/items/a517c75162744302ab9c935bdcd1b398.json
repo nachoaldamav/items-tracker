@@ -35,7 +35,7 @@
   "namespace": "01ad5d6fa6cf40e9a1dd04192fac6ad7",
   "status": "ACTIVE",
   "creationDate": "2023-03-11T02:22:46.507Z",
-  "lastModifiedDate": "2025-01-11T10:14:46.373Z",
+  "lastModifiedDate": "2025-04-07T18:42:33.969Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,13 +49,15 @@
     {
       "id": "1945176bd40547c58792e4129546ccbd",
       "appId": "ed58b6dd1c9d4c5f9cb8e4c214098634",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Produno Games Studios",
   "developerId": "o-yrzx3egahwdq23kbm7uffcd2dhejcp",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi45672uIDhvRbEixDHzA4HZ0hmanG",
   "requiresSecureAccount": false,
   "unsearchable": false
 }

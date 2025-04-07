@@ -38,7 +38,7 @@
   "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "status": "ACTIVE",
   "creationDate": "2024-04-04T20:44:40.215Z",
-  "lastModifiedDate": "2025-02-22T22:29:33.593Z",
+  "lastModifiedDate": "2025-04-07T21:17:08.841Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -66,7 +66,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "From the Ashes"
+      "value": "FromtheAshes"
     }
   },
   "entitlementName": "9b20a8c3a27843c4af80404f4d9131af",
@@ -87,5 +87,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
