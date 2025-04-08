@@ -1,0 +1,64 @@
+{
+  "id": "3523c1b563bb4bd8a40272e7eefa9a9c",
+  "title": "Tibia",
+  "description": "25 years and counting, Tibia is the MMORPG classic without limits: decades of content, a global community, the freedom to do whatever you like and to level as far as you want - with every death costing you progress.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5d0c71d808e34c73b4aad2b2461297c0/tibia-30hun.jpg",
+      "md5": "01a46c5e5812b1ba6bffcf06d96ebea7",
+      "width": 2560,
+      "height": 1440,
+      "size": 817688,
+      "uploadedDate": "2025-02-27T08:58:18.336Z",
+      "alt": "Tibia Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5d0c71d808e34c73b4aad2b2461297c0/tibia-hhtcg.jpg",
+      "md5": "27c05c92f257a3dc27dbb2740033df26",
+      "width": 1200,
+      "height": 1600,
+      "size": 510386,
+      "uploadedDate": "2025-02-27T08:58:18.607Z",
+      "alt": "Download Tibia Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "26c5a9f131a24f24b755f11e04f6fa77",
+  "status": "ACTIVE",
+  "creationDate": "2025-02-10T12:55:33.103Z",
+  "lastModifiedDate": "2025-04-08T06:10:31.659Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Tibia"
+    }
+  },
+  "entitlementName": "3523c1b563bb4bd8a40272e7eefa9a9c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "065d725a988246808f5ae9d6ee29e6ce",
+      "appId": "2338bab8dd1040f98e92064b4fd66dc3",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "CipSoft GmbH",
+  "developerId": "o-2agf3p43ftaegv9gwrl9ajahzptyev",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
