@@ -1,0 +1,63 @@
+{
+  "id": "9875b62bfc8740e9b32341d4f2e4a52b",
+  "title": "Harthorn",
+  "description": "Harthorn",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/65ac2e7da855424ea0d320206254792e/harthorn-1ypc7.jpg",
+      "md5": "ad57008d113b6feddc3b772b1a7d1853",
+      "width": 2560,
+      "height": 1440,
+      "size": 1543670,
+      "uploadedDate": "2023-03-27T07:21:20.180Z",
+      "alt": "Harthorn Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/65ac2e7da855424ea0d320206254792e/harthorn-129e6.png",
+      "md5": "bedd222ccae1a0e6868ed33333fc310b",
+      "width": 1200,
+      "height": 1600,
+      "size": 2264709,
+      "uploadedDate": "2023-03-27T07:21:22.853Z",
+      "alt": "Download Harthorn Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "52129557f7724876815d0ceb9e8c1751",
+  "status": "ACTIVE",
+  "creationDate": "2025-04-09T12:29:44.190Z",
+  "lastModifiedDate": "2025-04-09T12:29:44.190Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "HarthornHAMtB"
+    }
+  },
+  "entitlementName": "9875b62bfc8740e9b32341d4f2e4a52b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d31f366a0e924037bc83d947e0c1ee1c",
+      "appId": "0fe2091b33cd4097b1f164d9865ef7df",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Vincent Lade",
+  "developerId": "o-c2f88bj6zk6shq27n9yh2ktuysdue6",
+  "endOfSupport": false,
+  "applicationId": "fghi4567SPpmS9Jc1gF74s8QRWKkvDJC",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
