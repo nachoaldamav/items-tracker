@@ -35,8 +35,8 @@
   ],
   "namespace": "0dabb0f14acf4fef84bd2b2bf3085dfc",
   "status": "ACTIVE",
-  "creationDate": "2020-04-15T17:08:42.606Z",
-  "lastModifiedDate": "2024-04-01T19:55:52.892Z",
+  "creationDate": "2024-04-01T20:09:56.382Z",
+  "lastModifiedDate": "2025-04-09T15:33:32.709Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -76,13 +76,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "dd836dc7a0cd4ef997bb04cd617f2879",
+      "id": "2d1b9def90dc42e7bd72601dd8389229",
       "appId": "a434dcb20f0d439b93aaa31dac9e3210",
       "platform": [
-        "Windows",
-        "Win32"
-      ],
-      "dateAdded": "2020-07-21T00:00:00.000Z"
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Hidden Path",
