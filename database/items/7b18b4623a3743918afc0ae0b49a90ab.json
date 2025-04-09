@@ -1,0 +1,76 @@
+{
+  "id": "7b18b4623a3743918afc0ae0b49a90ab",
+  "title": "ASYLUM",
+  "description": "ASYLUM",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f6e999c6ac68469d9ddfb633cd6cece4/asylum-8gkf4.jpg",
+      "md5": "b89250925dcdc736ace924c556dfb61a",
+      "width": 2560,
+      "height": 1440,
+      "size": 1189772,
+      "uploadedDate": "2025-03-18T14:16:56.038Z",
+      "alt": "ASYLUM Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f6e999c6ac68469d9ddfb633cd6cece4/asylum-meenz.jpg",
+      "md5": "f47e68439d4f4d4f15d11f274bc6ec58",
+      "width": 1200,
+      "height": 1600,
+      "size": 798119,
+      "uploadedDate": "2025-03-18T14:12:09.882Z",
+      "alt": "Download ASYLUM Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a39b5c89fbcb44278924f9cab93dd234",
+  "status": "ACTIVE",
+  "creationDate": "2025-04-09T16:13:14.513Z",
+  "lastModifiedDate": "2025-04-09T16:13:14.513Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Epic/Asylum/Saved/SavedGames/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Asylum/Saved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "40000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AsylumYsKnx"
+    }
+  },
+  "entitlementName": "7b18b4623a3743918afc0ae0b49a90ab",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "77fe7bfdc76448ad9d3a96b37d4f41aa",
+      "appId": "c23f65c089314a5a917635c01e1ca477",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Senscape",
+  "developerId": "o-hqtbrc92kc4pp487hxn4h53nnhu9pd",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
