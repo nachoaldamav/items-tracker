@@ -36,8 +36,36 @@
   "namespace": "3db17abfd650423f993291624b1b2ac1",
   "status": "ACTIVE",
   "creationDate": "2020-05-05T18:13:08.880Z",
-  "lastModifiedDate": "2024-04-16T13:36:39.239Z",
+  "lastModifiedDate": "2025-04-10T08:26:29.734Z",
   "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "Products/elite-dangerous-odyssey-64/EliteDangerous64.exe"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Launch in VR"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EliteDangerous"
+    },
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
@@ -54,25 +82,13 @@
       "type": "STRING",
       "value": "/VR"
     },
-    "UseAccessControl": {
+    "ProcessNames": {
       "type": "STRING",
-      "value": "false"
+      "value": "Products/elite-dangerous-64/EliteDangerous64.exe,Products/elite-dangerous-odyssey-64/EliteDangerous64.exe"
     },
-    "RequirementsJson": {
+    "BackgroundProcessNames": {
       "type": "STRING",
-      "value": "[]"
-    },
-    "CanSkipKoreanIdVerification": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "extraLaunchOption_001_Name": {
-      "type": "STRING",
-      "value": "Launch in VR"
-    },
-    "FolderName": {
-      "type": "STRING",
-      "value": "EliteDangerous"
+      "value": "CrashReporter.exe,EDLaunch.exe,HardwareReporter.exe,MachineIdentifier.exe,WatchDog.exe,WatchDog64.exe"
     }
   },
   "entitlementName": "9b8ee44da2e84b139c7444ab002cbc35",
@@ -84,8 +100,7 @@
       "appId": "9c203b6ed35846e8a4a9ff1e314f6593",
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2020-05-05T00:00:00.000Z"
+      ]
     }
   ],
   "developer": "Frontier Developments",
