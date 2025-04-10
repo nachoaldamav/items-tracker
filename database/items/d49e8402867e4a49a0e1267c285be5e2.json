@@ -34,9 +34,13 @@
   ],
   "namespace": "36f31181f22049eb80cca2237b479963",
   "status": "ACTIVE",
-  "creationDate": "2024-12-05T20:46:02.158Z",
-  "lastModifiedDate": "2024-12-05T20:46:02.158Z",
+  "creationDate": "2023-08-09T08:23:06.494Z",
+  "lastModifiedDate": "2025-04-10T16:30:32.897Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Super Fantasy Games/Super Fantasy Kingdom/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "SuperFantasyKingdom"
@@ -49,13 +53,15 @@
     {
       "id": "45fc0b1b4a7546248e257f4d06894331",
       "appId": "ae3f93683559416a9ce25a085280cf43",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Hooded Horse Inc.",
   "developerId": "o-4ftedygtvtsgp7tbaf49mpm7lt6u2e",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567SX2AmAeEfLccTh7jmnyxLCoZ",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
