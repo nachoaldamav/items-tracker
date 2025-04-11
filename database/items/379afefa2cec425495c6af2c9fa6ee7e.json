@@ -1,7 +1,7 @@
 {
   "id": "379afefa2cec425495c6af2c9fa6ee7e",
-  "title": "TRIB3",
-  "description": "TRIB3",
+  "title": "TRIB3: Beta",
+  "description": "TRIB3: Beta",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,7 +35,7 @@
   "namespace": "f6f888bc947145dfadda50a043c880fc",
   "status": "ACTIVE",
   "creationDate": "2024-02-27T21:09:15.316Z",
-  "lastModifiedDate": "2024-08-27T13:40:05.511Z",
+  "lastModifiedDate": "2025-04-11T11:00:19.510Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -51,9 +51,10 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "9507942f850f45d9bda3fb4eef81c9e9",
+      "id": "c70a155874054028a893a9f10936667f",
       "appId": "8f05414a7ecf490b8c640cf8e4b78474",
       "platform": [
+        "Win32",
         "Windows"
       ]
     }
