@@ -35,8 +35,8 @@
   ],
   "namespace": "9fce8233852f4940acde233a87bb41ce",
   "status": "ACTIVE",
-  "creationDate": "2020-11-12T00:08:58.741Z",
-  "lastModifiedDate": "2023-05-31T08:03:11.654Z",
+  "creationDate": "2025-04-08T19:56:38.030Z",
+  "lastModifiedDate": "2025-04-11T17:52:32.248Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -72,13 +72,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "c85ad07ccdcc4e278886372512f59cc9",
+      "id": "5afea347a4644ec58de3f7d7283372f9",
       "appId": "d8c9dea950f44a81adad69ae645e47b3",
       "platform": [
-        "Windows",
-        "Mac"
-      ],
-      "dateAdded": "2020-11-12T00:00:00.000Z"
+        "Mac",
+        "Windows"
+      ]
     }
   ],
   "developer": "Beamdog",
