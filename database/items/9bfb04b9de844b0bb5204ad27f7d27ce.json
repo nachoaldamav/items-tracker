@@ -5,23 +5,23 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/56cf15afb8ea41da9e7f4f02d95ba822/defense-of-fort-burton-1717q.png",
-      "md5": "c83ce3cae85e591b7a3567a785f4d1ec",
+      "url": "https://cdn1.epicgames.com/spt-assets/56cf15afb8ea41da9e7f4f02d95ba822/defense-of-fort-burton-1gb4s.jpg",
+      "md5": "b4ad8df7e19e2db3524320406e24390e",
       "width": 2560,
       "height": 1440,
-      "size": 2079432,
-      "uploadedDate": "2025-02-06T04:53:39.124Z",
-      "alt": "Defense Of Fort Burton Offer"
+      "size": 751528,
+      "uploadedDate": "2025-04-12T01:19:46.411Z",
+      "alt": "Defense of Fort Burton Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/56cf15afb8ea41da9e7f4f02d95ba822/defense-of-fort-burton-posgd.png",
-      "md5": "714841c50fe5144a2ad4eb02f89f4a8d",
+      "url": "https://cdn1.epicgames.com/spt-assets/56cf15afb8ea41da9e7f4f02d95ba822/defense-of-fort-burton-a8hl5.jpg",
+      "md5": "dfc5e1d95d81287143758c4072958d60",
       "width": 1200,
       "height": 1600,
-      "size": 552009,
-      "uploadedDate": "2025-02-06T04:53:40.736Z",
-      "alt": "Download Defense Of Fort Burton Offer"
+      "size": 380976,
+      "uploadedDate": "2025-04-12T01:20:26.614Z",
+      "alt": "Download Defense of Fort Burton Offer"
     }
   ],
   "categories": [
@@ -35,15 +35,15 @@
   "namespace": "c6f5d83328db47b49a5d95bce93269cd",
   "status": "ACTIVE",
   "creationDate": "2025-01-22T03:51:49.056Z",
-  "lastModifiedDate": "2025-04-11T04:13:09.034Z",
+  "lastModifiedDate": "2025-04-12T03:54:27.823Z",
   "customAttributes": {
     "CloudSaveFolder_MAC": {
       "type": "STRING",
-      "value": "{UserDir}/{EpicID}/"
+      "value": "{UserDir}/Saved Games/"
     },
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{UserSavedGames}/{EpicID}/"
+      "value": "{UserProfile}/Documents/Saved Games/"
     },
     "MaxSizeMB": {
       "type": "STRING",
@@ -51,7 +51,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "DefenseOfFortBurtonArti"
+      "value": "DefenseOfFortBurton"
     }
   },
   "entitlementName": "9bfb04b9de844b0bb5204ad27f7d27ce",
