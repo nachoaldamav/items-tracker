@@ -1,0 +1,75 @@
+{
+  "id": "100a215194b94777a8288d14f634fffd",
+  "title": "Once Upon A Puppet",
+  "description": "Once Upon A Puppet",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/19a1060722e4427b9bd142e2e9ec0fef/once-upon-a-puppet-1fwcx.png",
+      "md5": "696c9cf2345260aebb30b2b5ee49e550",
+      "width": 2560,
+      "height": 1440,
+      "size": 3885709,
+      "uploadedDate": "2025-03-18T17:06:01.495Z",
+      "alt": "Once Upon A Puppet Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/19a1060722e4427b9bd142e2e9ec0fef/once-upon-a-puppet-rrcsc.png",
+      "md5": "5ca183589e738778c747c81ef8dd372c",
+      "width": 1200,
+      "height": 1600,
+      "size": 2631905,
+      "uploadedDate": "2025-03-18T17:06:00.633Z",
+      "alt": "Download Once Upon A Puppet Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0adef0e84daa4abd91ac06fa38836293",
+  "status": "ACTIVE",
+  "creationDate": "2025-04-08T09:49:39.370Z",
+  "lastModifiedDate": "2025-04-08T09:49:39.370Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/FlatterThanEarth/OUAP/Saves/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "info_session_*"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "500"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OnceUponAPuppet"
+    }
+  },
+  "entitlementName": "100a215194b94777a8288d14f634fffd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3b1d5251b9144b418d3dc4710cb02221",
+      "appId": "deb690e4bff6445db9544705a10dd3a3",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "endOfSupport": false,
+  "applicationId": "fghi4567VPsykl9gZW4Hx3f1UyWvFI4D",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
