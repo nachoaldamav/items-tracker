@@ -1,0 +1,72 @@
+{
+  "id": "ae3ae83adf5c4829aeb3c3a18b4af55b",
+  "title": "Mirage: Ignis Fatuus",
+  "description": "As the world turns short of Mana, Mirage, the city of illusions, is in danger of collapsing! Help Kyuboy’d make his way through mind-boggling puzzles to save his hometown!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b0e512f9fcb24c7e8368b83776996923/mirage-ignis-fatuus-fdjng.png",
+      "md5": "1c0d86680a8f092284f7dbce0aff7687",
+      "width": 2560,
+      "height": 1440,
+      "size": 2123711,
+      "uploadedDate": "2025-04-02T13:58:32.640Z",
+      "alt": "Mirage: Ignis Fatuus Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b0e512f9fcb24c7e8368b83776996923/mirage-ignis-fatuus-2ynow.png",
+      "md5": "6518a494b4649a0a54b2b9e0b0ced1eb",
+      "width": 1200,
+      "height": 1600,
+      "size": 1465066,
+      "uploadedDate": "2025-04-02T13:58:31.265Z",
+      "alt": "Download Mirage: Ignis Fatuus Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c33f04d4795a4cd59a9a035888e7bf9f",
+  "status": "ACTIVE",
+  "creationDate": "2025-04-14T12:50:24.035Z",
+  "lastModifiedDate": "2025-04-14T12:50:24.035Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}//Containers/com.Illam.MirageIF/Data/Library/Application Support/Epic/MirageIF/Saved/SaveGames/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/MirageIF/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MirageIF"
+    }
+  },
+  "entitlementName": "ae3ae83adf5c4829aeb3c3a18b4af55b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7409266f1df9486e8ec0b950bc8768ef",
+      "appId": "51dbbcc8604f4a02bb1c9ea768fe1c2f",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Illam Software Entertainment Pte. Ltd.",
+  "developerId": "o-9cflavhltqk74nh8ge5jlm7tpgwktt",
+  "endOfSupport": false,
+  "applicationId": "fghi45671dpCKPCILrRygtsR2Lvqutnc",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
