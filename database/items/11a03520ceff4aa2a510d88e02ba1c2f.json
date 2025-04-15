@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/d19ab74a4ff141a2b32cdb2e557ec71d/the-precinct-1xyn7.png",
-      "md5": "5afad23b27b07791e5613dd2c4eebcb1",
+      "url": "https://cdn1.epicgames.com/spt-assets/d19ab74a4ff141a2b32cdb2e557ec71d/the-precinct-13a35.png",
+      "md5": "3a53b432d8864a699484ff60cdd25dcc",
       "width": 2560,
       "height": 1440,
-      "size": 4180549,
-      "uploadedDate": "2024-05-21T11:36:27.702Z",
+      "size": 4187647,
+      "uploadedDate": "2025-03-25T15:22:18.199Z",
       "alt": "The Precinct Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/d19ab74a4ff141a2b32cdb2e557ec71d/the-precinct-sw8qm.png",
-      "md5": "07af719c4cd7136a287c90a24b08862a",
+      "url": "https://cdn1.epicgames.com/spt-assets/d19ab74a4ff141a2b32cdb2e557ec71d/the-precinct-1olgy.png",
+      "md5": "550f94fa2dfd739bab3d76cacf219818",
       "width": 1200,
       "height": 1600,
-      "size": 2463300,
-      "uploadedDate": "2024-05-21T11:36:27.908Z",
+      "size": 2473977,
+      "uploadedDate": "2025-03-25T15:22:22.263Z",
       "alt": "Download The Precinct Offer"
     }
   ],
@@ -35,8 +35,12 @@
   "namespace": "2d1432c62a8c49ab80feaefa176a9671",
   "status": "ACTIVE",
   "creationDate": "2023-04-25T12:15:40.913Z",
-  "lastModifiedDate": "2024-05-23T14:26:09.747Z",
+  "lastModifiedDate": "2025-04-15T13:23:54.216Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Fallen Tree Games Ltd/The Precinct/SaveGame_Epic/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "Theprecinctoc0s1"
@@ -47,9 +51,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "b9203fce9c5741f9b8581ca963e43af5",
+      "id": "4c22fac0f55c4607be0bae7d31a0d585",
       "appId": "1754093f6fb7482a9becbfcf881ff1f6",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Kwalee",
