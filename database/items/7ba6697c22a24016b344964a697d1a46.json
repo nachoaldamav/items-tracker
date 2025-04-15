@@ -1,7 +1,7 @@
 {
-  "id": "8cd0f199239043f8a14bdecae55a2d22",
-  "title": "Firestone Online Idle RPG_IOS_BaseGameAudience",
-  "description": "Firestone Online Idle RPG_IOS_BaseGameAudience",
+  "id": "7ba6697c22a24016b344964a697d1a46",
+  "title": "Unlock Mechanism_ConsumableAudience",
+  "description": "Unlock Mechanism_ConsumableAudience",
   "categories": [
     {
       "path": "audience"
@@ -12,13 +12,14 @@
   ],
   "namespace": "bda8d2133655435982b9118972792328",
   "status": "ACTIVE",
-  "creationDate": "2025-01-09T14:54:54.922Z",
-  "lastModifiedDate": "2025-04-15T15:02:00.127Z",
-  "entitlementName": "8cd0f199239043f8a14bdecae55a2d22",
+  "creationDate": "2025-04-15T15:02:00.144Z",
+  "lastModifiedDate": "2025-04-15T15:02:00.144Z",
+  "entitlementName": "7ba6697c22a24016b344964a697d1a46",
   "entitlementType": "AUDIENCE",
-  "itemType": "DURABLE",
+  "itemType": "CONSUMABLE",
   "developer": "AM Holyday Studios Ltd",
   "developerId": "o-eg5kffqlkqfqx99eqtwhnvj2p524dv",
+  "useCount": 1,
   "endOfSupport": false,
   "requiresSecureAccount": false,
   "unsearchable": false
