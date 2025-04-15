@@ -1,7 +1,7 @@
 {
   "id": "9caf2f4964a04b819bbbb0f5ceb27f5c",
   "title": "Bubble Rage",
-  "description": "Bubble Rage",
+  "description": "Bubble Rage is the platformer you’ll love to hate. Brutal traps, endless fails, and pure rage fuel. Whether you're playing or watching someone lose their mind, the real fun is in the suffering.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,7 +35,7 @@
   "namespace": "9a3d480ce9db4b03b83fd5b70c70e363",
   "status": "ACTIVE",
   "creationDate": "2025-04-02T09:18:08.619Z",
-  "lastModifiedDate": "2025-04-11T19:55:29.552Z",
+  "lastModifiedDate": "2025-04-15T00:34:57.031Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -50,7 +50,8 @@
       "id": "12bded7512e84a2d87db8dc1569c65d9",
       "appId": "636650cd00ef494e9956ca799fd2c7f4",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ]
     }
   ],
