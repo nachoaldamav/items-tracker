@@ -1,0 +1,64 @@
+{
+  "id": "15744e23207d4584a9f4f473a065117e",
+  "title": "The One",
+  "description": "The One",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b957041a38384571843ac06a64c7f2a2/the-one-pxcc9.jpg",
+      "md5": "911e1e803ed278338236cc7db5483f1e",
+      "width": 2560,
+      "height": 1440,
+      "size": 275026,
+      "uploadedDate": "2025-04-15T14:29:18.046Z",
+      "alt": "The One Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b957041a38384571843ac06a64c7f2a2/the-one-l25d8.jpg",
+      "md5": "20ea856a6360e42215acd45662727c45",
+      "width": 1200,
+      "height": 1600,
+      "size": 178867,
+      "uploadedDate": "2025-04-15T14:29:37.229Z",
+      "alt": "Download The One Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "89f17acf3032497eb85fc3a503b67cf3",
+  "status": "ACTIVE",
+  "creationDate": "2025-04-16T16:05:24.012Z",
+  "lastModifiedDate": "2025-04-16T16:05:24.012Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheOne"
+    }
+  },
+  "entitlementName": "15744e23207d4584a9f4f473a065117e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5e7da3fbb9674c4c967abf36b51e265b",
+      "appId": "6ffbc2a72d2b47579b1bae9db3f5855c",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "PolyLS",
+  "developerId": "o-fruh3jhqvcmmkpcqa4dcr39rwdnlky",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
