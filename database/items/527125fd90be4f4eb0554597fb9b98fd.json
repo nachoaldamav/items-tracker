@@ -35,23 +35,19 @@
   "namespace": "6ce9cadbab474f07928e3035473289d2",
   "status": "ACTIVE",
   "creationDate": "2024-04-16T10:44:37.655Z",
-  "lastModifiedDate": "2024-08-26T07:45:58.156Z",
+  "lastModifiedDate": "2025-04-17T00:34:04.514Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{InstallDir}/MOTW2/Saved/SaveGames/"
+      "value": "{AppData}/CotW/Saved/SaveGames/{EpicID}/"
     },
     "CloudIncludeList": {
       "type": "STRING",
-      "value": "GameData.sav,SystemData.sav"
-    },
-    "MaxSizeMB": {
-      "type": "STRING",
-      "value": "200"
+      "value": "*.sav"
     },
     "FolderName": {
       "type": "STRING",
-      "value": "GarouCityOfTheWolvesTIvrY"
+      "value": "CotW"
     }
   },
   "entitlementName": "527125fd90be4f4eb0554597fb9b98fd",
@@ -59,7 +55,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "1d978b2d44fc4cfa97c81828184350ec",
+      "id": "b9ae1cf7002b443bb2bcd5a6d875d717",
       "appId": "659186067fd348dca224025bb1f2b5a8",
       "platform": [
         "Windows"
