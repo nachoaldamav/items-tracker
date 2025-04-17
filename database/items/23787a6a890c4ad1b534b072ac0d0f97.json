@@ -15,12 +15,12 @@
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/7592d69f9adf4b558a298812ed173c42/goblintown-really-hard-driving-game-1myvv.jpg",
-      "md5": "2d1f39feffbaec3449e228da6ad404e1",
+      "url": "https://cdn1.epicgames.com/spt-assets/7592d69f9adf4b558a298812ed173c42/goblintown-really-hard-driving-game-112c3.png",
+      "md5": "c08e0d815f10b01682e192aa94db5831",
       "width": 1200,
       "height": 1600,
-      "size": 321429,
-      "uploadedDate": "2025-02-04T17:42:54.028Z",
+      "size": 2352595,
+      "uploadedDate": "2025-04-15T15:06:39.831Z",
       "alt": "Download Goblintown: Really Hard Driving Game Offer"
     }
   ],
@@ -35,11 +35,11 @@
   "namespace": "f25f2fbac1e04b1497462a4d08645bde",
   "status": "ACTIVE",
   "creationDate": "2024-12-19T11:51:14.748Z",
-  "lastModifiedDate": "2025-02-11T17:03:51.378Z",
+  "lastModifiedDate": "2025-04-16T20:41:16.589Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "GoblintownRHDrivingGame"
+      "value": "GoblintownRHDG"
     }
   },
   "entitlementName": "23787a6a890c4ad1b534b072ac0d0f97",
@@ -49,7 +49,9 @@
     {
       "id": "a41cb00eecfc4657a8555ea652c0a559",
       "appId": "6e4562466cd34e28bb59256add33c2d1",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Truth Arts Inc.",
