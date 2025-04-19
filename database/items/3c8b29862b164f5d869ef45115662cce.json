@@ -35,7 +35,7 @@
   "namespace": "2db0508d821143678f52abb17e430ec7",
   "status": "ACTIVE",
   "creationDate": "2025-01-09T09:11:21.930Z",
-  "lastModifiedDate": "2025-02-06T13:57:48.785Z",
+  "lastModifiedDate": "2025-04-18T18:23:09.619Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "bc79a7a64d8b47c0a922d00ba0e2fc3c",
       "appId": "115f1db709334baaade2e66fb15b1891",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Crystale",
