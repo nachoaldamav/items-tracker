@@ -1,27 +1,27 @@
 {
-  "id": "53c31d963abb4328828e76352524a7c4",
-  "title": "Alternates",
-  "description": "Alternates",
+  "id": "5621be3c2abc4f1fbeadca9325273783",
+  "title": "Alternates - Early Access",
+  "description": "Alternates - Early Access",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/55a901b31a474a6489b89fed96b86ba7/alternates-1i0wa.png",
-      "md5": "a6028ae6c0bd929d3544520d979ef526",
+      "url": "https://cdn1.epicgames.com/spt-assets/55a901b31a474a6489b89fed96b86ba7/alternates-s5m6k.png",
+      "md5": "834ad4399f9f61a841794eb6bfdf3e7b",
       "width": 2560,
       "height": 1440,
-      "size": 1429951,
-      "uploadedDate": "2025-01-16T04:22:31.595Z",
-      "alt": "Alternates Offer"
+      "size": 1616939,
+      "uploadedDate": "2025-04-15T19:38:09.048Z",
+      "alt": "Alternates Alternates - Early Access Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/55a901b31a474a6489b89fed96b86ba7/alternates-5mxol.png",
+      "url": "https://cdn1.epicgames.com/spt-assets/55a901b31a474a6489b89fed96b86ba7/alternates-16v14.png",
       "md5": "0e1a6522e413cc40433693d985b2ddc6",
       "width": 1200,
       "height": 1600,
       "size": 1812344,
-      "uploadedDate": "2024-11-25T16:24:56.627Z",
-      "alt": "Download Alternates Offer"
+      "uploadedDate": "2025-04-15T19:41:18.655Z",
+      "alt": "Download Alternates Alternates - Early Access Offer"
     }
   ],
   "categories": [
@@ -34,8 +34,8 @@
   ],
   "namespace": "3108f43b882f4977934f029346953497",
   "status": "ACTIVE",
-  "creationDate": "2024-07-01T19:25:37.519Z",
-  "lastModifiedDate": "2025-04-21T15:59:27.835Z",
+  "creationDate": "2025-04-21T15:59:27.848Z",
+  "lastModifiedDate": "2025-04-21T15:59:27.848Z",
   "customAttributes": {
     "CloudSaveFolder_MAC": {
       "type": "STRING",
@@ -51,19 +51,17 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "AlternatesBdr8n"
+      "value": "DemoAlternatesafeae"
     }
   },
-  "entitlementName": "53c31d963abb4328828e76352524a7c4",
+  "entitlementName": "5621be3c2abc4f1fbeadca9325273783",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "470fea9387bb4987bb9795de825de426",
-      "appId": "ca6aae4b29b0414f9f719e3228a4ca3b",
-      "platform": [
-        "Windows"
-      ]
+      "id": "3086bfae-1e07-489e-b589-1754b4f15075",
+      "appId": "0665c87c34c94618a123150a105f7bac",
+      "platform": []
     }
   ],
   "developer": "Alternates",
