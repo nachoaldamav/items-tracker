@@ -35,8 +35,12 @@
   "namespace": "fd04af72ea0f437aad3a15acd9ed5508",
   "status": "ACTIVE",
   "creationDate": "2023-06-22T15:15:56.523Z",
-  "lastModifiedDate": "2025-02-18T18:44:44.262Z",
+  "lastModifiedDate": "2025-04-21T18:53:13.459Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Sandfall/Saved/SaveGames/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "Expedition33"
