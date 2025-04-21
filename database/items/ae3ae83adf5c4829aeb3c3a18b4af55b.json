@@ -34,16 +34,20 @@
   ],
   "namespace": "c33f04d4795a4cd59a9a035888e7bf9f",
   "status": "ACTIVE",
-  "creationDate": "2025-04-14T12:50:24.035Z",
-  "lastModifiedDate": "2025-04-14T12:50:24.035Z",
+  "creationDate": "2024-10-15T08:12:29.869Z",
+  "lastModifiedDate": "2025-04-20T13:34:18.533Z",
   "customAttributes": {
     "CloudSaveFolder_MAC": {
       "type": "STRING",
-      "value": "{UserLibrary}//Containers/com.Illam.MirageIF/Data/Library/Application Support/Epic/MirageIF/Saved/SaveGames/"
+      "value": "{UserLibrary}/Application Support/Epic/MirageIF/Saved/SaveGames/"
     },
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{AppData}/MirageIF/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "save.sav"
     },
     "FolderName": {
       "type": "STRING",
@@ -58,8 +62,8 @@
       "id": "7409266f1df9486e8ec0b950bc8768ef",
       "appId": "51dbbcc8604f4a02bb1c9ea768fe1c2f",
       "platform": [
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ]
     }
   ],
