@@ -13,22 +13,14 @@
       "uploadedDate": "2019-07-04T12:51:02.749Z"
     },
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/4561b40e52584ac2bcf34bbd5c401480/item/Overcooked_Logo-2650x602-fca007cbbe1be0a8d54b8ca2a0edc510.png",
-      "md5": "fca007cbbe1be0a8d54b8ca2a0edc510",
-      "width": 2650,
-      "height": 602,
-      "size": 247313,
-      "uploadedDate": "2019-08-02T18:13:41.511Z"
-    },
-    {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/4561b40e52584ac2bcf34bbd5c401480/item/Overcooked-portrait-1280x1440-9bcad6d74ed9e54433c84f933aecf0f0.jpg",
-      "md5": "9bcad6d74ed9e54433c84f933aecf0f0",
-      "width": 1280,
-      "height": 1440,
-      "size": 104216,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/spt-assets/4b3ecffc16b14b5aa968abe906ba457d/overcooked-1ssn0.png",
+      "md5": "e3a3bb40a8442c7d90ff8178062618ae",
+      "width": 1200,
+      "height": 1600,
+      "size": 1414305,
+      "uploadedDate": "2025-03-28T04:09:31.446Z",
+      "alt": "Download Overcooked Offer"
     }
   ],
   "categories": [
@@ -44,8 +36,8 @@
   ],
   "namespace": "4561b40e52584ac2bcf34bbd5c401480",
   "status": "ACTIVE",
-  "creationDate": "2019-06-14T04:01:59.344Z",
-  "lastModifiedDate": "2019-11-19T17:03:22.624Z",
+  "creationDate": "2025-03-30T21:59:51.141Z",
+  "lastModifiedDate": "2025-04-22T15:30:05.597Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -89,13 +81,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "52b956ddf50241f5a90078b729491882",
+      "id": "dc7400e67d1c489cb463d6bf2ff1fa72",
       "appId": "Sage",
       "platform": [
-        "Windows",
-        "Win32"
-      ],
-      "dateAdded": "2019-06-25T00:00:00.000Z"
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Team17 Digital Ltd",
