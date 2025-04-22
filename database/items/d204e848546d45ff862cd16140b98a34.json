@@ -1,7 +1,7 @@
 {
-  "id": "055674648c714dd0ae63fdb28ef89943",
-  "title": "alnilam Original Soundtrack Audience",
-  "description": "alnilam Original Soundtrack Audience",
+  "id": "d204e848546d45ff862cd16140b98a34",
+  "title": "ThorneExperimentalPublicAudience",
+  "description": "ThorneExperimentalPublicAudience",
   "keyImages": [],
   "categories": [
     {
@@ -11,12 +11,17 @@
       "path": "public"
     }
   ],
-  "namespace": "f919a1262081444fb28f0fdef68d6b14",
+  "namespace": "942b65a56ff448f6be529cd07b407bb0",
   "status": "ACTIVE",
-  "creationDate": "2025-03-28T15:24:33.328Z",
-  "lastModifiedDate": "2025-04-22T15:33:25.564Z",
-  "customAttributes": {},
-  "entitlementName": "055674648c714dd0ae63fdb28ef89943",
+  "creationDate": "2025-03-28T15:50:46.639Z",
+  "lastModifiedDate": "2025-04-22T15:34:30.005Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d204e848546d45ff862cd16140b98a34",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
@@ -25,7 +30,6 @@
   "eulaIds": [
     "egstore"
   ],
-  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
   "applicationId": "",
