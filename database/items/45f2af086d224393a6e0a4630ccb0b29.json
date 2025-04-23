@@ -1,0 +1,63 @@
+{
+  "id": "45f2af086d224393a6e0a4630ccb0b29",
+  "title": "QUBIT",
+  "description": "QUBIT",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2e75c95c458c4d82878c5a0e442ac562/qubit-1ioqn.png",
+      "md5": "6bc844dfe03645c54ca34ee30106c1ba",
+      "width": 2560,
+      "height": 1440,
+      "size": 3941568,
+      "uploadedDate": "2025-04-22T13:41:45.557Z",
+      "alt": "Qubit Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2e75c95c458c4d82878c5a0e442ac562/qubit-fcup1.png",
+      "md5": "0e2d8c7b56d7c1120918b35a6bf67668",
+      "width": 1200,
+      "height": 1600,
+      "size": 1939220,
+      "uploadedDate": "2025-04-22T13:41:40.968Z",
+      "alt": "Download Qubit Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "32ad6753b5154071b60e358860608a01",
+  "status": "ACTIVE",
+  "creationDate": "2025-04-22T21:35:10.169Z",
+  "lastModifiedDate": "2025-04-22T21:35:10.169Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "QubitCyz7C"
+    }
+  },
+  "entitlementName": "45f2af086d224393a6e0a4630ccb0b29",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "586ec8ca3dc542c190ee91e23b43e1fb",
+      "appId": "6aebe814bf994548993676e3138a796c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Qubit Entertainment",
+  "developerId": "o-2djxhepsw9emtw4322leyaddabvbzy",
+  "endOfSupport": false,
+  "applicationId": "fghi45679XIW9tSlnFXF82KWT27tdAoJ",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
