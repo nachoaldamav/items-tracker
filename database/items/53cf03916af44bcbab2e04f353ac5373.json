@@ -1,0 +1,75 @@
+{
+  "id": "53cf03916af44bcbab2e04f353ac5373",
+  "title": "Skin Deep",
+  "description": "Skin Deep",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4ae3a6bc07c249ef8c70645beb5a294f/skin-deep-1ol5q.jpg",
+      "md5": "3c0b9a2779a949e4d31f5ce0378101fb",
+      "width": 2560,
+      "height": 1440,
+      "size": 3546196,
+      "uploadedDate": "2025-04-08T13:47:31.098Z",
+      "alt": "Skin Deep Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4ae3a6bc07c249ef8c70645beb5a294f/skin-deep-crwe0.jpg",
+      "md5": "0c502e1d62883a38320a8a35a6da23e0",
+      "width": 1200,
+      "height": 1600,
+      "size": 1980641,
+      "uploadedDate": "2025-04-08T13:47:39.966Z",
+      "alt": "Download Skin Deep Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1fe54e43f3644b0ea404b4e66a087f8c",
+  "status": "ACTIVE",
+  "creationDate": "2025-03-21T00:15:49.919Z",
+  "lastModifiedDate": "2025-04-24T15:29:31.084Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Annapurna/Skin Deep/{EpicID}/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/skindeep/base/savegames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SkinDeep"
+    }
+  },
+  "entitlementName": "53cf03916af44bcbab2e04f353ac5373",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "daca00089deb458f97a19384613cb785",
+      "appId": "1b8aa574938b40468dd3eff58bd24acf",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "endOfSupport": false,
+  "applicationId": "fghi4567tAmBQOKQ4bgbRPxaKtr4O3Ns",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
