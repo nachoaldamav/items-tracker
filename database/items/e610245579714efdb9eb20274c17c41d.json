@@ -1,0 +1,62 @@
+{
+  "id": "e610245579714efdb9eb20274c17c41d",
+  "title": "Blob's Adventure",
+  "description": "Blob's Adventure",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4dff2a73e2b54dbdb0c5477e3bd51d30/blobs-adventure-137db.png",
+      "md5": "e88f9245e7c934e351bfd587176b11a3",
+      "width": 2560,
+      "height": 1440,
+      "size": 1485015,
+      "uploadedDate": "2025-04-22T15:47:20.078Z",
+      "alt": "Blob's Adventure Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4dff2a73e2b54dbdb0c5477e3bd51d30/blobs-adventure-163r7.png",
+      "md5": "ba765536e2b13e8553577b8ce84b789d",
+      "width": 1200,
+      "height": 1600,
+      "size": 720523,
+      "uploadedDate": "2025-04-22T15:47:19.864Z",
+      "alt": "Download Blob's Adventure Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8979af090c224851a8d556070c487b16",
+  "status": "ACTIVE",
+  "creationDate": "2025-04-24T00:34:55.460Z",
+  "lastModifiedDate": "2025-04-24T00:34:55.460Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BlobsAdventurej8QMn"
+    }
+  },
+  "entitlementName": "e610245579714efdb9eb20274c17c41d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ef2cd1123819485bb546071834fc7c21",
+      "appId": "a1427cdb368c49fc939e2c4cd865b36b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "WhatDreamsCost",
+  "developerId": "o-w5u3khn24d5lp7kue3mhyja2cy764w",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
