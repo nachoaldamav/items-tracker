@@ -1,0 +1,75 @@
+{
+  "id": "be04fb97310a42d5b119677c0cd49b9c",
+  "title": "Every Day We Fight",
+  "description": "Caught in a time loop, your band of resistance fighters is humanity’s last hope. Real-time exploration meets turn-based tactics and roguelite strategy as you learn new abilities, seek out new weapons, and develop new techniques to overcome the mysterious alien threat.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/525b30eaaec1411389b95e69c2a048a5/every-day-we-fight-g0raf.jpg",
+      "md5": "d51b924585eed82d3796763c052d3d50",
+      "width": 2560,
+      "height": 1440,
+      "size": 552727,
+      "uploadedDate": "2025-04-03T19:36:47.000Z",
+      "alt": "Every Day We Fight Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/525b30eaaec1411389b95e69c2a048a5/every-day-we-fight-asdoz.jpg",
+      "md5": "3f172198d3dcde01c35dd56c30abeae8",
+      "width": 1200,
+      "height": 1600,
+      "size": 334559,
+      "uploadedDate": "2025-04-03T19:36:46.888Z",
+      "alt": "Download Every Day We Fight Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2f37d311cd6a434685a9557abc6eee6f",
+  "status": "ACTIVE",
+  "creationDate": "2025-04-25T13:00:02.841Z",
+  "lastModifiedDate": "2025-04-25T13:00:02.841Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Fuji/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "1.sav,2.sav,3.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EveryDayWeFight"
+    }
+  },
+  "entitlementName": "be04fb97310a42d5b119677c0cd49b9c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ab13eb81cdc64f9e8bf40bf6f03b80d2",
+      "appId": "c09da32ae87d411ca3c0c3725244a96a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Hooded Horse Inc.",
+  "developerId": "o-4ftedygtvtsgp7tbaf49mpm7lt6u2e",
+  "endOfSupport": false,
+  "applicationId": "fghi4567vxlYo20D18SrvdnBoxci0ZOs",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
