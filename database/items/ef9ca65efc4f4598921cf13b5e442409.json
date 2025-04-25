@@ -1,0 +1,75 @@
+{
+  "id": "ef9ca65efc4f4598921cf13b5e442409",
+  "title": "Deadtime Defenders",
+  "description": "Deadtime Defenders",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-zhw1c.png",
+      "md5": "c64fea9e606274bc4f901f8a3cb89c63",
+      "width": 2560,
+      "height": 1440,
+      "size": 2921341,
+      "uploadedDate": "2025-04-07T23:22:33.521Z",
+      "alt": "Deadtime Defenders Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-1dr6y.png",
+      "md5": "6a8ca7fc11a60ab524afc312a1d9f594",
+      "width": 1200,
+      "height": 1600,
+      "size": 1612950,
+      "uploadedDate": "2025-04-07T23:22:32.993Z",
+      "alt": "Download Deadtime Defenders Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bd93f0ee6bcb47f9abc3ef018cb97a0d",
+  "status": "ACTIVE",
+  "creationDate": "2025-04-24T17:25:30.470Z",
+  "lastModifiedDate": "2025-04-24T17:25:30.470Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Arcane Embers/Deadtime Defenders/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Arcane Embers/Deadtime Defenders/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "game*.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DeadtimeDefenders3xCu2"
+    }
+  },
+  "entitlementName": "ef9ca65efc4f4598921cf13b5e442409",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "200a96a48d12473b8dc2badb31af2162",
+      "appId": "23cbdd44de914e9caec216acefc51f9b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Arcane Embers Game Studio Inc.",
+  "developerId": "o-8ejptp3p7szx5jtbcpvur5nczb7yf2",
+  "endOfSupport": false,
+  "applicationId": "fghi4567cVXbIOYaPnQz4TnrxUFDIslX",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
