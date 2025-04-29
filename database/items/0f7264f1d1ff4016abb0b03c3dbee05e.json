@@ -1,0 +1,63 @@
+{
+  "id": "0f7264f1d1ff4016abb0b03c3dbee05e",
+  "title": "Under The Surface",
+  "description": "Under The Surface",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6d0f0fb579204a71a256957e71734c63/product1-p28eu.png",
+      "md5": "ea12fe89ce0a08409d29f1422c65965b",
+      "width": 2560,
+      "height": 1440,
+      "size": 131488,
+      "uploadedDate": "2025-04-22T03:14:58.451Z",
+      "alt": "Product1 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6d0f0fb579204a71a256957e71734c63/product1-1aa73.png",
+      "md5": "1f9c0be8c1c543ad8afdb8c1f738794a",
+      "width": 1200,
+      "height": 1600,
+      "size": 129697,
+      "uploadedDate": "2025-04-22T03:14:11.264Z",
+      "alt": "Download Product1 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d1eeba92f6d943ec8a60b30f5d1d4321",
+  "status": "ACTIVE",
+  "creationDate": "2025-04-29T04:00:09.115Z",
+  "lastModifiedDate": "2025-04-29T04:00:09.115Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "UnderTheSurface"
+    }
+  },
+  "entitlementName": "0f7264f1d1ff4016abb0b03c3dbee05e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f3a532bf734945f68ba4c9fd7541826e",
+      "appId": "b7cd8407837a45f582957648a94ec6dc",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "DragonKnightGaming",
+  "developerId": "o-pzpxd34ermmey86d85reh3a4vuzczn",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
