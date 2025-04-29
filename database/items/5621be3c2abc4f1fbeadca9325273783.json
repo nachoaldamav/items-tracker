@@ -34,8 +34,8 @@
   ],
   "namespace": "3108f43b882f4977934f029346953497",
   "status": "ACTIVE",
-  "creationDate": "2025-04-21T15:59:27.848Z",
-  "lastModifiedDate": "2025-04-21T15:59:27.848Z",
+  "creationDate": "2025-04-15T19:27:36.701Z",
+  "lastModifiedDate": "2025-04-28T17:25:37.139Z",
   "customAttributes": {
     "CloudSaveFolder_MAC": {
       "type": "STRING",
@@ -61,7 +61,9 @@
     {
       "id": "3086bfae-1e07-489e-b589-1754b4f15075",
       "appId": "0665c87c34c94618a123150a105f7bac",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Alternates",
