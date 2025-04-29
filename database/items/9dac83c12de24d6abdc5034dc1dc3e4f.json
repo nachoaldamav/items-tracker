@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/61237a4bad9f482a9ad1a1ac74520bba/wuchang-fallen-feathers-zh4or.jpg",
-      "md5": "03b760494c641514a8202b55947ba916",
+      "url": "https://cdn1.epicgames.com/spt-assets/61237a4bad9f482a9ad1a1ac74520bba/wuchang-fallen-feathers-1suts.jpg",
+      "md5": "98fc6c11a2c028707a97970cf165bcaf",
       "width": 2560,
       "height": 1440,
-      "size": 784438,
-      "uploadedDate": "2024-06-06T14:42:53.297Z",
+      "size": 925651,
+      "uploadedDate": "2025-04-24T09:32:05.792Z",
       "alt": "WUCHANG: Fallen Feathers Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/61237a4bad9f482a9ad1a1ac74520bba/wuchang-fallen-feathers-4n3kj.jpg",
-      "md5": "4473074f7479ce643fb5f1ebe85fa5a5",
+      "url": "https://cdn1.epicgames.com/spt-assets/61237a4bad9f482a9ad1a1ac74520bba/wuchang-fallen-feathers-xrknh.jpg",
+      "md5": "e311772804e86eb3c53b6b997dc6f98c",
       "width": 1200,
       "height": 1600,
-      "size": 834042,
-      "uploadedDate": "2024-06-06T14:42:53.186Z",
+      "size": 862851,
+      "uploadedDate": "2025-04-24T09:32:05.924Z",
       "alt": "Download WUCHANG: Fallen Feathers Offer"
     }
   ],
@@ -35,11 +35,11 @@
   "namespace": "08d6df03616c42388556ce5fc1366d3d",
   "status": "ACTIVE",
   "creationDate": "2024-06-04T14:06:54.027Z",
-  "lastModifiedDate": "2025-03-06T15:47:45.902Z",
+  "lastModifiedDate": "2025-04-29T00:00:24.089Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "WuchangsIn2D"
+      "value": "Wuchang"
     }
   },
   "entitlementName": "9dac83c12de24d6abdc5034dc1dc3e4f",
@@ -49,7 +49,10 @@
     {
       "id": "c7ca9a3d9def488caf847eb859a7c099",
       "appId": "ebfa14ea910a4e55a48ccf5daf6c2607",
-      "platform": []
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "505 Games",
