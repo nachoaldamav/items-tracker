@@ -1,7 +1,7 @@
 {
   "id": "ecf9c8377232498f96c2c482ed12e86a",
   "title": "MotoGP™25",
-  "description": "Be the fastest! Pre-order MotoGP™25 now and get the Full Game, plus the Off Road Helmets Pack and the Iconic Liveries Pack.",
+  "description": "Rev up your engines for the 2025 season! Feel the authentic MotoGP™ thrills with refined sound design and exciting challenges. Train with new disciplines in Race Off mode and choose the Arcade or Pro Experience for ultimate fun or realism!",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,8 +35,12 @@
   "namespace": "f30e90061a554d4a977c99d4b0baa892",
   "status": "ACTIVE",
   "creationDate": "2024-06-26T12:53:18.296Z",
-  "lastModifiedDate": "2025-04-24T13:27:25.770Z",
+  "lastModifiedDate": "2025-04-30T12:27:15.771Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/motogp25/Saved_EpicGamesStore/SaveGames/{EpicID}/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "MotoGP25SGKE3"
