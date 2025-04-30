@@ -1,0 +1,62 @@
+{
+  "id": "773ab1da2ed44deaa5ed52cb67cc3df7",
+  "title": "OdraOnline",
+  "description": "OdraOnline",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/68de65a50295432e9f63dd918d3e4064/odraonline-9zt1k.png",
+      "md5": "44f12ca5db67cbc777e0261b812d816f",
+      "width": 2560,
+      "height": 1440,
+      "size": 3979506,
+      "uploadedDate": "2025-03-21T09:48:57.454Z",
+      "alt": "OdraOnline Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/68de65a50295432e9f63dd918d3e4064/odraonline-1dcdq.png",
+      "md5": "b1f1f4d9ab917e9b0e01d68cbab4d78b",
+      "width": 1200,
+      "height": 1600,
+      "size": 2113167,
+      "uploadedDate": "2025-03-21T09:48:58.772Z",
+      "alt": "Download OdraOnline Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d7dea1acab2541a0aa94d496742ff809",
+  "status": "ACTIVE",
+  "creationDate": "2025-04-17T13:40:23.918Z",
+  "lastModifiedDate": "2025-04-17T13:40:23.918Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "OdraOnlinedTvN8"
+    }
+  },
+  "entitlementName": "773ab1da2ed44deaa5ed52cb67cc3df7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e409ea41852645ec8719f1bf005fe6bf",
+      "appId": "6878ad1d9c87440789b54c9d02b08f02",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Brightika, Inc.",
+  "developerId": "o-2cjye9ryu4k24hdvys8ksfqvp5p4fy",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
