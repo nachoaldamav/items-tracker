@@ -1,0 +1,67 @@
+{
+  "id": "86165754d44646fcba4ee2ae24f76ddf",
+  "title": "Bioweaver",
+  "description": "Bioweaver",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b78cc7dcbb0544529b8d5d7e4de21401/bioweaver-3o7fu.png",
+      "md5": "97db7980e7e91a6a7649325493b104f6",
+      "width": 2560,
+      "height": 1440,
+      "size": 1483096,
+      "uploadedDate": "2025-04-23T07:05:47.657Z",
+      "alt": "Bioweaver Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b78cc7dcbb0544529b8d5d7e4de21401/bioweaver-1q0uk.png",
+      "md5": "4ddf31405dc93f2b77f82463335264f9",
+      "width": 1200,
+      "height": 1600,
+      "size": 699032,
+      "uploadedDate": "2025-04-23T07:07:06.245Z",
+      "alt": "Download Bioweaver Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6bdaccd6890e4bb7b966a3f9367068fd",
+  "status": "ACTIVE",
+  "creationDate": "2025-04-30T01:20:25.903Z",
+  "lastModifiedDate": "2025-04-30T01:20:25.903Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/EmpromGame/Bioweaver/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BioweaverByGlb"
+    }
+  },
+  "entitlementName": "86165754d44646fcba4ee2ae24f76ddf",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ade60974f94745d6a6b4cd7bc5dd670e",
+      "appId": "ef006d8c3bc545c9a3c3ee33c0a06b3c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Emprom Game",
+  "developerId": "o-famms2r4pwk47zaygysdz4aqqgpy5q",
+  "endOfSupport": false,
+  "applicationId": "fghi4567rat2sXhBVfOmfdYRKbitZKOT",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
