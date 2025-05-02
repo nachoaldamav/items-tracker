@@ -1,7 +1,7 @@
 {
   "id": "bf80d603003c480cb68ebf453dbd328d",
-  "title": "The Tales of Elysium Imperium: A Dream from Memory Shards",
-  "description": "The Tales of Elysium Imperium: A Dream from Memory Shards",
+  "title": "The Tales of Elysian Imperium: A Dream from Memory Shards",
+  "description": "The Tales of Elysian Imperium: A Dream from Memory Shards",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,9 +34,13 @@
   ],
   "namespace": "8f36fddab8d940b5b39db100b695c819",
   "status": "ACTIVE",
-  "creationDate": "2025-04-22T14:11:39.256Z",
-  "lastModifiedDate": "2025-04-22T14:11:39.256Z",
+  "creationDate": "2025-04-11T19:24:43.867Z",
+  "lastModifiedDate": "2025-05-02T08:53:53.833Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/TEI_DMS/Saved/SaveGames/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "TheTalesofElysiumImpVoXLG"
@@ -57,6 +61,7 @@
   "developer": "XD Group",
   "developerId": "o-mbxsnrz4r9w9cq7wchbw9dck74jn8s",
   "endOfSupport": false,
+  "applicationId": "fghi4567GiAprfphLOHoX3LLHsJRLV2t",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
