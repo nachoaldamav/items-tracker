@@ -1,0 +1,63 @@
+{
+  "id": "a779f770578d4715b0146235009852b6",
+  "title": "Gloamryn Demo",
+  "description": "Gloamryn Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/cf84b4df97f34ef28673ef349642ed6d/gloamryn-1n043.png",
+      "md5": "60f07207c15439fb098ffab1c8f19d43",
+      "width": 2560,
+      "height": 1440,
+      "size": 3243365,
+      "uploadedDate": "2025-05-03T12:27:02.137Z",
+      "alt": "Gloamryn Gloamryn Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/cf84b4df97f34ef28673ef349642ed6d/gloamryn-m305l.png",
+      "md5": "337c86200980bfb13ac3b3e9cd130013",
+      "width": 1200,
+      "height": 1600,
+      "size": 1711295,
+      "uploadedDate": "2025-05-03T12:26:23.605Z",
+      "alt": "Download Gloamryn Gloamryn Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c2f4b08f96104317910dbff5c90a3cf3",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-04T03:38:16.580Z",
+  "lastModifiedDate": "2025-05-04T03:38:16.580Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "GloamrynDemo"
+    }
+  },
+  "entitlementName": "a779f770578d4715b0146235009852b6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f2594229-e40c-45f5-b4f2-b4caac83d26a",
+      "appId": "b05de78e122844febfdcc69b481424f5",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Gloamryn Studio",
+  "developerId": "o-z8fr6f543dbp8wmzljvanzgdk6r8t7",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
