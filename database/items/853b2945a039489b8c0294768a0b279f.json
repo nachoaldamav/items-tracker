@@ -35,7 +35,7 @@
   "namespace": "0ac5868e8b8443ba9d31178cf7c4d1aa",
   "status": "ACTIVE",
   "creationDate": "2023-08-19T14:42:20.904Z",
-  "lastModifiedDate": "2024-08-28T18:52:11.656Z",
+  "lastModifiedDate": "2025-05-05T16:53:35.608Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -47,7 +47,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "RiseoftheSavagePlaneI3InZ"
+      "value": "RevengeoftheSavagePlanet"
     }
   },
   "entitlementName": "853b2945a039489b8c0294768a0b279f",
@@ -55,14 +55,18 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "ba9d97a5ba554f65909b40172701d15a",
+      "id": "de815a09e31740509d45df644580ceb6",
       "appId": "7e14cb73e5c941a7b8e77f79cd1bd161",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Raccoon Logic",
   "developerId": "o-uv3bg5crvrnuud3shwp2ck5qgvkyy6",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false

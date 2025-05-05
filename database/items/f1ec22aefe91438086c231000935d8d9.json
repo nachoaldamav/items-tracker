@@ -2,6 +2,7 @@
   "id": "f1ec22aefe91438086c231000935d8d9",
   "title": "DevGeneralAudience",
   "description": "DevGeneralAudience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -13,14 +14,18 @@
   "namespace": "0ac5868e8b8443ba9d31178cf7c4d1aa",
   "status": "ACTIVE",
   "creationDate": "2023-08-19T14:42:20.802Z",
-  "lastModifiedDate": "2024-08-28T18:52:11.656Z",
+  "lastModifiedDate": "2025-05-05T16:53:35.608Z",
+  "customAttributes": {},
   "entitlementName": "f1ec22aefe91438086c231000935d8d9",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
   "developer": "Raccoon Logic",
   "developerId": "o-uv3bg5crvrnuud3shwp2ck5qgvkyy6",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
