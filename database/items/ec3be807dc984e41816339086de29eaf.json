@@ -1,0 +1,62 @@
+{
+  "id": "ec3be807dc984e41816339086de29eaf",
+  "title": "KLETKA",
+  "description": "KLETKA",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7500f93818f34f6fa7df71e2466cf898/kletka-47tkp.jpg",
+      "md5": "264f8965732bbf411b7ccb354eca71f0",
+      "width": 2560,
+      "height": 1440,
+      "size": 749274,
+      "uploadedDate": "2025-04-29T15:06:08.518Z",
+      "alt": "KLETKA Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7500f93818f34f6fa7df71e2466cf898/kletka-1yid1.jpg",
+      "md5": "5e163457d59903b692b3afb422c46868",
+      "width": 1200,
+      "height": 1600,
+      "size": 337153,
+      "uploadedDate": "2025-04-29T15:04:51.266Z",
+      "alt": "Download KLETKA Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "aceedf2c021d4347a413e6735c9de5c1",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-06T05:51:48.781Z",
+  "lastModifiedDate": "2025-05-06T05:51:48.781Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "KLETKAGEi1V"
+    }
+  },
+  "entitlementName": "ec3be807dc984e41816339086de29eaf",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c6157c2c5de647c68060115593e40953",
+      "appId": "82c66f96e1884ed9b46e263608a06a58",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Callback",
+  "developerId": "o-srq97ba2qqkacrt2ulzftqdrujjcfb",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
