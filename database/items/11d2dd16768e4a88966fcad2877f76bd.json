@@ -1,0 +1,71 @@
+{
+  "id": "11d2dd16768e4a88966fcad2877f76bd",
+  "title": "Enjoy the Diner",
+  "description": "Why not enjoy the diner? The moon is as full as it'll ever be, and there's even a drink fountain.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/89ec1be9efb64af7add66f57c6b6bd1c/enjoy-the-diner-1g3b4.png",
+      "md5": "499b3293c044928922757a50a6a89557",
+      "width": 2560,
+      "height": 1440,
+      "size": 1105042,
+      "uploadedDate": "2025-02-27T08:09:46.447Z",
+      "alt": "Enjoy the Diner Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/89ec1be9efb64af7add66f57c6b6bd1c/enjoy-the-diner-nnvxq.png",
+      "md5": "878ad3d81eff06c8b8e0d2031e78da48",
+      "width": 1200,
+      "height": 1600,
+      "size": 272431,
+      "uploadedDate": "2025-02-27T08:12:31.336Z",
+      "alt": "Download Enjoy the Diner Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9789a00f56b84368b894bd7384719667",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-06T15:00:22.101Z",
+  "lastModifiedDate": "2025-05-06T15:00:22.101Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Waku Waku Games G_K_/Enjoy the Diner/{EpicID}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "enjoy_the_diner_savedata001.json"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EnjoytheDiner"
+    }
+  },
+  "entitlementName": "11d2dd16768e4a88966fcad2877f76bd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ec7ee8dedce54385beef4a6b9b2d47df",
+      "appId": "9f9bbffaea0e4c1bae49803d3143715e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Waku Waku Games G.K.",
+  "developerId": "o-zf2ql2eah4eb4qbbr7arbhrjasuk34",
+  "endOfSupport": false,
+  "applicationId": "fghi4567c081VcA8vrr6LP3yqaDxCmfQ",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
