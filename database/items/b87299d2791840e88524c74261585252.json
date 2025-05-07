@@ -1,0 +1,72 @@
+{
+  "id": "b87299d2791840e88524c74261585252",
+  "title": "Captain Blood",
+  "description": "Captain Blood is a pirate-themed action game where you play as a fearsome pirate seeking gold and glory. Expect adventures with cannon firing, pistol shooting, swashbuckling sword fights, and plenty of pirate shenanigans.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e4f7e4bbe2434f3d86159159ffbb40fb/captain-blood-5d02g.jpg",
+      "md5": "0b1ca94bcca15fbcf18e85bba8c04e6a",
+      "width": 2560,
+      "height": 1440,
+      "size": 1890051,
+      "uploadedDate": "2025-04-15T03:40:19.685Z",
+      "alt": "Captain Blood Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e4f7e4bbe2434f3d86159159ffbb40fb/captain-blood-9sj1g.jpg",
+      "md5": "bb26a1f624d934116c015e63d9dfdd35",
+      "width": 1200,
+      "height": 1600,
+      "size": 1187202,
+      "uploadedDate": "2025-04-15T03:40:19.813Z",
+      "alt": "Download Captain Blood Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5010921c8e014613a67f16e799adf1b8",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-07T04:20:48.488Z",
+  "lastModifiedDate": "2025-05-07T04:20:48.488Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Captain Blood/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/Captain Blood/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CaptainBloodE5HTr"
+    }
+  },
+  "entitlementName": "b87299d2791840e88524c74261585252",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "58d81686d20840c7ba97c344530910bf",
+      "appId": "aac8caa8041f4eedb32b124691dac20a",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SNEG",
+  "developerId": "o-ksgzfcfp9zeyqt86qknygb99w4xu5q",
+  "endOfSupport": false,
+  "applicationId": "fghi45675l69RGDzdvIrZrLV8WMJF5m1",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
