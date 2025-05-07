@@ -4,31 +4,23 @@
   "description": "Slime Rancher",
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/corydalis/item/SR_logo_source-4000x1527-4464ca1018834321dfcad9ef70fd984c.png",
-      "md5": "4464ca1018834321dfcad9ef70fd984c",
-      "width": 4000,
-      "height": 1527,
-      "size": 351336,
-      "uploadedDate": "2019-02-18T19:12:55.060Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/corydalis/item/SlimeRancher_PrimaryPromo_1920-1920x1079-81ac1ff1db1478a08adc0dc2e182e866.jpg",
-      "md5": "81ac1ff1db1478a08adc0dc2e182e866",
-      "width": 1920,
-      "height": 1079,
-      "size": 256207,
-      "uploadedDate": "2019-02-27T20:05:28.101Z"
+      "url": "https://cdn1.epicgames.com/item/p-8tda6wz9pfdn5pp8zzqeby3n2gzxeq/slimerancher_wide_2560x1440-b2f7b22e6d19dff415daf5dbe4d8e78c",
+      "md5": "b2f7b22e6d19dff415daf5dbe4d8e78c",
+      "width": 2560,
+      "height": 1440,
+      "size": 490432,
+      "uploadedDate": "2025-04-17T14:14:19.126Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/corydalis/item/SlimeRancher-Keyart_Portrait-Promo-1280x1420-aca38e046b5272b458e75462a604d977.jpg",
-      "md5": "aca38e046b5272b458e75462a604d977",
-      "width": 1280,
-      "height": 1420,
-      "size": 149446,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/spt-assets/34f98a406ed74c7f906eacead1570f3c/slimerancher-dyv5f.png",
+      "md5": "decc92177d094a41c94624c84ce5fa58",
+      "width": 1200,
+      "height": 1600,
+      "size": 1727210,
+      "uploadedDate": "2025-04-17T14:15:44.323Z",
+      "alt": "Download SlimeRancher Offer"
     }
   ],
   "categories": [
@@ -41,8 +33,8 @@
   ],
   "namespace": "corydalis",
   "status": "ACTIVE",
-  "creationDate": "2019-02-18T19:25:01.293Z",
-  "lastModifiedDate": "2023-02-22T17:41:53.587Z",
+  "creationDate": "2025-04-30T18:02:03.608Z",
+  "lastModifiedDate": "2025-05-06T21:21:49.692Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -82,9 +74,9 @@
       "appId": "Corydalis",
       "compatibleApps": [],
       "platform": [
+        "Win32",
         "Windows",
-        "Mac",
-        "Win32"
+        "Mac"
       ],
       "dateAdded": "2019-02-18T00:00:00.000Z",
       "releaseNote": "",
@@ -97,5 +89,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
