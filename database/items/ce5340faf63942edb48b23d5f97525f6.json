@@ -1,0 +1,67 @@
+{
+  "id": "ce5340faf63942edb48b23d5f97525f6",
+  "title": "Creature Keeper",
+  "description": "Creature Keeper",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/84b025bf944042b2931ff82c2a372017/creature-keeper-1dqqt.png",
+      "md5": "d93812fa68c9a2f24fbe25af7b4feabf",
+      "width": 2560,
+      "height": 1440,
+      "size": 1663555,
+      "uploadedDate": "2025-04-11T19:04:38.077Z",
+      "alt": "Creature Keeper Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/84b025bf944042b2931ff82c2a372017/creature-keeper-scm3y.png",
+      "md5": "5551ce2f052fa58a34a6e1a93344f128",
+      "width": 1200,
+      "height": 1600,
+      "size": 851200,
+      "uploadedDate": "2025-04-11T19:04:23.854Z",
+      "alt": "Download Creature Keeper Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "626e7c620b8a40fba8023f0a9af34e7b",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-06T17:43:44.840Z",
+  "lastModifiedDate": "2025-05-06T17:43:44.840Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Creature Keeper/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CreatureKeepera3NRp"
+    }
+  },
+  "entitlementName": "ce5340faf63942edb48b23d5f97525f6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1bf9a72ece9b48029a513dbff1a90fac",
+      "appId": "4a3b3107d6cc413a95bafb5382198e31",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Graffiti Games",
+  "developerId": "o-87c748zl24r2zsfe7t98b49ghm86kr",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
