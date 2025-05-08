@@ -1,0 +1,71 @@
+{
+  "id": "459fb05bcf3a4745a810da34a12e110d",
+  "title": "Blood Bar Tycoon",
+  "description": "Blood Bar Tycoon is a vampire bar management game. Build bars and blood factories, lure humans to harvest their blood, process it, and serve your customers: other vampires. Research quirky machines and deal with hunters! Expand through Crimson City to become a mighty Elder!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/627829787fa0442884273ae5fcfb62b3/blood-bar-tycoon-k376v.png",
+      "md5": "a8a8689cbc860d6f87f007a054f183e2",
+      "width": 2560,
+      "height": 1440,
+      "size": 2243403,
+      "uploadedDate": "2025-03-04T16:22:23.628Z",
+      "alt": "Blood Bar Tycoon Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/627829787fa0442884273ae5fcfb62b3/blood-bar-tycoon-179dv.png",
+      "md5": "08fd3b2141cbfff82a82da50944e0a01",
+      "width": 1200,
+      "height": 1600,
+      "size": 1752585,
+      "uploadedDate": "2025-03-04T16:22:27.697Z",
+      "alt": "Download Blood Bar Tycoon Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8c279dfb223c49f9a24c9f3e0352392f",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-07T22:30:20.072Z",
+  "lastModifiedDate": "2025-05-07T22:30:20.072Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Clever Trickster Studio/BloodBarTycoon/saves/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "*.vdf\n*.bac"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BloodBarTycoonTctYS"
+    }
+  },
+  "entitlementName": "459fb05bcf3a4745a810da34a12e110d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "caa1f09a53ef4fe0adfcfe32e3ee502b",
+      "appId": "b660433d9a9348118ae81113ac38e663",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Clever Trickster Studio",
+  "developerId": "o-fmm6wt4nvglpm38d5c4747jdbzhx6b",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
