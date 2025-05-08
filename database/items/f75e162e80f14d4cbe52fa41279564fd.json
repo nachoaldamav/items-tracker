@@ -1,0 +1,75 @@
+{
+  "id": "f75e162e80f14d4cbe52fa41279564fd",
+  "title": "Kaiju Evolution Survivor",
+  "description": "Kaiju Evolution Survivor",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d927bd5551af483cbebf7f07a8a8826c/kaiju-evolution-survivor-7g0hf.png",
+      "md5": "d73e31f7a5713e635fb5912f1b4446be",
+      "width": 2560,
+      "height": 1440,
+      "size": 2989869,
+      "uploadedDate": "2025-04-23T21:22:59.770Z",
+      "alt": "Kaiju Evolution Survivor Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d927bd5551af483cbebf7f07a8a8826c/kaiju-evolution-survivor-10q08.png",
+      "md5": "9e5c6d6404fdbef45daf3517eb7f6013",
+      "width": 1200,
+      "height": 1600,
+      "size": 1462052,
+      "uploadedDate": "2025-04-23T21:33:17.597Z",
+      "alt": "Download Kaiju Evolution Survivor Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1abbd63be21e4adc8832a849b14f8e11",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-07T21:07:54.270Z",
+  "lastModifiedDate": "2025-05-07T21:07:54.270Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/KaiEvo/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "GameSaveState.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KaijuEvolutionSurviv22NGU"
+    }
+  },
+  "entitlementName": "f75e162e80f14d4cbe52fa41279564fd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d2cf516c77de4bec9e38f9c62d3fd26e",
+      "appId": "0b2f3035cf73439fbe0c331e33e37f49",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Angry Ant Games",
+  "developerId": "o-qxj4v996ab6z83yvbpmm6cukcu7sdu",
+  "endOfSupport": false,
+  "applicationId": "fghi4567eJKaTJg8BIW0nlZ7Rj46pquj",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
