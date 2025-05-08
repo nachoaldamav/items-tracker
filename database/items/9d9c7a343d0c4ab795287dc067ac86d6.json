@@ -1,0 +1,67 @@
+{
+  "id": "9d9c7a343d0c4ab795287dc067ac86d6",
+  "title": "SILENT HILL 2",
+  "description": "Investigating a letter from his late wife, James returns to where they made so many memories - Silent Hill.\nConfront the monsters, solve puzzles, and search for traces of your wife in this remake of SILENT HILL 2.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-1pte2.jpg",
+      "md5": "9fdac5d9405f950a6e56465f286692c6",
+      "width": 2560,
+      "height": 1440,
+      "size": 1695192,
+      "uploadedDate": "2024-12-24T07:10:13.021Z",
+      "alt": "SILENT HILL 2 Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-1fjn3.png",
+      "md5": "e424f874e888bdb5321c79dabfe76d8c",
+      "width": 1200,
+      "height": 1600,
+      "size": 2159583,
+      "uploadedDate": "2024-12-24T01:55:46.188Z",
+      "alt": "Download SILENT HILL 2 Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f69f64df68b844e89c75e0a5fe95ea5f",
+  "status": "ACTIVE",
+  "creationDate": "2023-10-17T08:29:15.355Z",
+  "lastModifiedDate": "2025-05-08T04:00:19.308Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/SilentHill2/Saved/SaveGames/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SilentHill2"
+    }
+  },
+  "entitlementName": "9d9c7a343d0c4ab795287dc067ac86d6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "52df283ffb9d4ea488fde4eaa46277d6",
+      "appId": "c4dc308a1b69492aba4d47f7feaa1083",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "KONAMI",
+  "developerId": "o-snd8ledlra6sytkbbve7h5uwuxuytv",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
