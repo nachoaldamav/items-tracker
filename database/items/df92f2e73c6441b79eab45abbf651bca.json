@@ -1,0 +1,62 @@
+{
+  "id": "df92f2e73c6441b79eab45abbf651bca",
+  "title": "Journey Up",
+  "description": "Journey Up",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7080ef0760434aca9ae0c4fa259c7493/journey-up-1oirx.png",
+      "md5": "8c6307f4f71808a56352ba6e07d25c4a",
+      "width": 2560,
+      "height": 1440,
+      "size": 3854565,
+      "uploadedDate": "2025-05-07T13:17:06.352Z",
+      "alt": "Journey Up Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7080ef0760434aca9ae0c4fa259c7493/journey-up-1kl0k.png",
+      "md5": "6c8be23df44c4940ffae30aaa5f1265b",
+      "width": 1200,
+      "height": 1600,
+      "size": 2003533,
+      "uploadedDate": "2025-05-07T13:17:14.494Z",
+      "alt": "Download Journey Up Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "dab0fb629dbd41c99cd802fbc502751b",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-08T14:19:06.160Z",
+  "lastModifiedDate": "2025-05-08T14:19:06.160Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "JourneyUp4mP1V"
+    }
+  },
+  "entitlementName": "df92f2e73c6441b79eab45abbf651bca",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1e4d3d07a2c045a89fc5af4f024aedd1",
+      "appId": "5601ff2c885842a382e4db688e3d8ff9",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Mechabit",
+  "developerId": "o-lg9zuawdd842adw7ww8kd3vlm9nfr5",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
