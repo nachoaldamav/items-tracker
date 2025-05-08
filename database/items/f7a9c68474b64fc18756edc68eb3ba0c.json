@@ -1,0 +1,63 @@
+{
+  "id": "f7a9c68474b64fc18756edc68eb3ba0c",
+  "title": "ERcade",
+  "description": "ERcade",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f78176489c4343ed8e982ef6ed0dbaeb/ercade-1q26i.png",
+      "md5": "157899ed694b8f08309b83921f5d6905",
+      "width": 2560,
+      "height": 1440,
+      "size": 1325879,
+      "uploadedDate": "2025-05-07T21:10:43.533Z",
+      "alt": "ER-cade Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f78176489c4343ed8e982ef6ed0dbaeb/ercade-c9din.png",
+      "md5": "abecc445bb435fa808d38c81d69d4d46",
+      "width": 1200,
+      "height": 1600,
+      "size": 919933,
+      "uploadedDate": "2025-05-07T21:10:43.126Z",
+      "alt": "Download ER-cade Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ab3befdffa02420f88a3558d36365b9e",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-08T16:22:44.258Z",
+  "lastModifiedDate": "2025-05-08T16:22:44.464Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ERcade3tE1H"
+    }
+  },
+  "entitlementName": "f7a9c68474b64fc18756edc68eb3ba0c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "19d4d5237ebb4337bdbdd96a208992ef",
+      "appId": "e8b678fd289b473d8b607956a699dea2",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Gnome Lab Games",
+  "developerId": "o-38c93xevddawnpgd8gq3egnrlv95pc",
+  "endOfSupport": false,
+  "applicationId": "fghi4567N9Cd92T60ubf3NFxidI3VBwt",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
