@@ -35,8 +35,12 @@
   "namespace": "01ad5d6fa6cf40e9a1dd04192fac6ad7",
   "status": "ACTIVE",
   "creationDate": "2023-03-11T02:22:46.507Z",
-  "lastModifiedDate": "2025-04-25T08:40:08.659Z",
+  "lastModifiedDate": "2025-05-09T16:09:03.851Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/SpaceSlog/SavedGames/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "SpaceSlog"
