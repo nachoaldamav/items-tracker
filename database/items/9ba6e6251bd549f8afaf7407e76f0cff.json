@@ -1,0 +1,61 @@
+{
+  "id": "9ba6e6251bd549f8afaf7407e76f0cff",
+  "title": "Lumina",
+  "description": "Lumina",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4515ef1391d2490d896bf0e783a09b7d/lumina-1mytz.jpg",
+      "md5": "20d030cb9c9437e309aeb60fdd1a3c8f",
+      "width": 2560,
+      "height": 1440,
+      "size": 3117796,
+      "uploadedDate": "2025-05-07T17:07:56.688Z",
+      "alt": "Lumina Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4515ef1391d2490d896bf0e783a09b7d/lumina-1qxv8.png",
+      "md5": "e4583c6f1aca63709d1db3493c4d6dae",
+      "width": 1200,
+      "height": 1600,
+      "size": 3561554,
+      "uploadedDate": "2025-05-07T17:09:47.032Z",
+      "alt": "Download Lumina Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9de8decc6bce4a5583ce50b67093fb29",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-09T14:50:56.792Z",
+  "lastModifiedDate": "2025-05-09T14:50:56.792Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Lumina"
+    }
+  },
+  "entitlementName": "9ba6e6251bd549f8afaf7407e76f0cff",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5e9fb69cd30f4bfb9664800bfa050c10",
+      "appId": "4d96e84c306f463d90a4a542a0287de1",
+      "platform": []
+    }
+  ],
+  "developer": "Team Chili",
+  "developerId": "o-m97r6ax6wvzw2pvg2m7fhheauh7arb",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
