@@ -34,9 +34,17 @@
   ],
   "namespace": "aceedf2c021d4347a413e6735c9de5c1",
   "status": "ACTIVE",
-  "creationDate": "2025-05-06T05:51:48.781Z",
-  "lastModifiedDate": "2025-05-06T05:51:48.781Z",
+  "creationDate": "2025-04-25T03:35:00.648Z",
+  "lastModifiedDate": "2025-05-11T05:53:41.772Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/KLETKA/Saved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10000"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "KLETKAGEi1V"
@@ -57,6 +65,7 @@
   "developer": "Callback",
   "developerId": "o-srq97ba2qqkacrt2ulzftqdrujjcfb",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
