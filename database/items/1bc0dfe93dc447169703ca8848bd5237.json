@@ -35,7 +35,7 @@
   "namespace": "0a78a5cb65ab4aaa84a75188ac6eb765",
   "status": "ACTIVE",
   "creationDate": "2023-03-12T21:38:40.003Z",
-  "lastModifiedDate": "2025-03-10T20:12:37.418Z",
+  "lastModifiedDate": "2025-05-11T01:04:20.504Z",
   "customAttributes": {
     "CloudSaveFolder_MAC": {
       "type": "STRING",
@@ -61,13 +61,15 @@
     {
       "id": "020c7e3245d749609519faf447f720df",
       "appId": "6bf16fb8813c4fe9a3e4a2eb37797c39",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Pippin Games",
   "developerId": "o-fu4wrkzwjhrqwcz8j6w7dqasrnjw5d",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi456734yt0p0tAlv1JbbisCj8fzeJ",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
