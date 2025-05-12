@@ -1,0 +1,63 @@
+{
+  "id": "a05ffba5cd7443bbb39a6095c2c41109",
+  "title": "Brave Escape",
+  "description": "Brave Escape",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/1f6a07a76f614c31b46f78a1edc45cd3/brave-escape-4p18q.jpg",
+      "md5": "f15df41e5314c160efe9ed8d6a0ffc11",
+      "width": 2560,
+      "height": 1440,
+      "size": 1289286,
+      "uploadedDate": "2025-04-30T18:29:30.665Z",
+      "alt": "Brave Escape Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/1f6a07a76f614c31b46f78a1edc45cd3/brave-escape-18m4q.jpg",
+      "md5": "50b4c88324c5809e21e02e3da1f4d387",
+      "width": 1200,
+      "height": 1600,
+      "size": 745679,
+      "uploadedDate": "2025-04-30T18:29:31.595Z",
+      "alt": "Download Brave Escape Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "04304ec782134f1d9265230783e65d3b",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-12T12:11:16.829Z",
+  "lastModifiedDate": "2025-05-12T12:11:16.829Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BraveEscape"
+    }
+  },
+  "entitlementName": "a05ffba5cd7443bbb39a6095c2c41109",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4ef5ac77fc6e42d8a1d191c4c97168f0",
+      "appId": "87594223bbb74d259c6d1b1870ca678e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Hit Start Studios",
+  "developerId": "o-gt4atecja4m2qxqxenwe7yekrekf5n",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
