@@ -1,0 +1,77 @@
+{
+  "id": "06b6814c76384d03a5274410bf29925c",
+  "title": "Netherworld Covenant",
+  "description": "Netherworld Covenant",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/bdab9893f83045f8b13ba37f4dd7b38c/netherworld-covenant-4nbw0.jpg",
+      "md5": "6be6f2327b4a0ae4dac9aebb1e0e1afd",
+      "width": 2560,
+      "height": 1440,
+      "size": 1456965,
+      "uploadedDate": "2025-04-30T05:35:19.154Z",
+      "alt": "Netherworld Covenant Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/bdab9893f83045f8b13ba37f4dd7b38c/netherworld-covenant-1wkvp.jpg",
+      "md5": "0c3201a1f624b526c0d4cea6bdbbaed3",
+      "width": 1200,
+      "height": 1600,
+      "size": 1294139,
+      "uploadedDate": "2025-04-30T05:35:20.834Z",
+      "alt": "Download Netherworld Covenant Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ebf13d96b90d41eba8b522cecc6b57bb",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-13T02:41:04.793Z",
+  "lastModifiedDate": "2025-05-13T02:41:04.793Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/madgoat/NetherworldCovenant/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/madgoat/NetherworldCovenant/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.en_json"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "50"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NetherworldCovenant"
+    }
+  },
+  "entitlementName": "06b6814c76384d03a5274410bf29925c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e9d6cecb31c241cbb28b22fe6213681d",
+      "appId": "4eb1b9bb0b46417c92d2939a9973e40b",
+      "platform": []
+    }
+  ],
+  "developer": "QI YU (SG) PTE. LTD.",
+  "developerId": "o-8r99jskqh2ny5h8l7bbzxd294zc2gx",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
