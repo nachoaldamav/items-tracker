@@ -1,0 +1,62 @@
+{
+  "id": "ce02627d8e294a859a6a6509cced4176",
+  "title": "Besteam",
+  "description": "Besteam",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3a0932a8b6a44319b2da10acb7131ddb/besteam-lrpuq.png",
+      "md5": "9f03f27bb2151ba77fdbfc38468b03d1",
+      "width": 2560,
+      "height": 1440,
+      "size": 635579,
+      "uploadedDate": "2025-05-05T16:22:12.766Z",
+      "alt": "Besteam Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3a0932a8b6a44319b2da10acb7131ddb/besteam-vs5e9.jpg",
+      "md5": "741fd7e392a45704cbbd6799c983c1a9",
+      "width": 1200,
+      "height": 1600,
+      "size": 354958,
+      "uploadedDate": "2025-05-05T16:22:13.311Z",
+      "alt": "Download Besteam Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e1bbcf541cd24fe9b3ff8bc4da82c16c",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-13T05:56:29.967Z",
+  "lastModifiedDate": "2025-05-13T05:56:29.967Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Besteam6IKZA"
+    }
+  },
+  "entitlementName": "ce02627d8e294a859a6a6509cced4176",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c14e97a366c14b36bf899fb40d71809e",
+      "appId": "5a676e11e252482cbc1cd0bbcb1c63e1",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Besteam Game S.r.l.",
+  "developerId": "o-bptxqtp8gzam4zjjauuluzgswb9l8g",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
