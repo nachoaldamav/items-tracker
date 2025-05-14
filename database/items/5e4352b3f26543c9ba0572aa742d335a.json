@@ -11,13 +11,8 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2018-07-25T14:46:21.522Z",
-  "lastModifiedDate": "2023-06-12T14:20:20.556Z",
-  "customAttributes": {
-    "remove_for_account_deprovision": {
-      "type": "STRING",
-      "value": "true"
-    }
-  },
+  "lastModifiedDate": "2025-05-14T18:27:57.458Z",
+  "customAttributes": {},
   "entitlementName": "Fortnite_Samsung",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
@@ -26,5 +21,7 @@
   "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
   "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

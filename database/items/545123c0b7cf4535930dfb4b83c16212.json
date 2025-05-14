@@ -11,19 +11,17 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2018-04-30T20:51:17.154Z",
-  "lastModifiedDate": "2023-06-12T14:20:20.945Z",
-  "customAttributes": {
-    "remove_for_account_deprovision": {
-      "type": "STRING",
-      "value": "true"
-    }
-  },
+  "lastModifiedDate": "2025-05-14T18:26:37.265Z",
+  "customAttributes": {},
   "entitlementName": "Fortnite_Android",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Epic Games",
   "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
   "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
