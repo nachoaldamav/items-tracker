@@ -35,8 +35,20 @@
   "namespace": "39eaa39b78de44fa81144924e490b0a3",
   "status": "ACTIVE",
   "creationDate": "2024-12-30T18:14:10.837Z",
-  "lastModifiedDate": "2025-01-28T15:57:16.958Z",
+  "lastModifiedDate": "2025-05-13T14:56:26.907Z",
   "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/WartornGame/Saved/SaveGames/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/WartornGame/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "Wartorn"
@@ -49,7 +61,9 @@
     {
       "id": "4f1034913ca9468b93d7bda5962e6983",
       "appId": "a16e0c3b1a0246fd8523e9b08aa16277",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Stray Kite Studios",
