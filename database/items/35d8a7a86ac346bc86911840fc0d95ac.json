@@ -1,0 +1,75 @@
+{
+  "id": "35d8a7a86ac346bc86911840fc0d95ac",
+  "title": "Labyban",
+  "description": "Labyban modernizes the puzzle game experience with an accessible, intuitive, and engaging approach, suitable for all audiences.\nAcross 157 levels, teleporters, slippery surfaces, conveyor belts, and many more mechanics await you!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/087b2ebee429465b97e6137b3d9dd747/labyban-12ulv.png",
+      "md5": "291d352006208aa6213b8fc36143ccea",
+      "width": 2560,
+      "height": 1440,
+      "size": 1292711,
+      "uploadedDate": "2025-05-06T13:04:41.564Z",
+      "alt": "Labyban Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/087b2ebee429465b97e6137b3d9dd747/labyban-iuejf.png",
+      "md5": "bec4efdbbc9a17fa3e5f2d977b0f4461",
+      "width": 1200,
+      "height": 1600,
+      "size": 1482324,
+      "uploadedDate": "2025-05-06T13:04:49.244Z",
+      "alt": "Download Labyban Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "740495a7ccae4027b1c88500d56514b2",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-14T13:03:36.467Z",
+  "lastModifiedDate": "2025-05-14T13:03:36.467Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Godot/app_userdata/Labyban/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "save*.dat,settings.ini"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LabybanxBxi2"
+    }
+  },
+  "entitlementName": "35d8a7a86ac346bc86911840fc0d95ac",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "129d2599fbdb4375b687f8ea9ccb2b8b",
+      "appId": "2083f1553cbb4ddaba1c5e54388b228e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Studio Gravenoire",
+  "developerId": "o-jp4yfa4lg5ner8fz3fhstrag4z2xr8",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
