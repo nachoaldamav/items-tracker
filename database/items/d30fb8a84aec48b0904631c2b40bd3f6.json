@@ -35,7 +35,7 @@
   "namespace": "4e06466623c6447bbcb4b8e9f0b1c14e",
   "status": "ACTIVE",
   "creationDate": "2023-12-14T03:49:40.302Z",
-  "lastModifiedDate": "2025-05-06T02:53:22.767Z",
+  "lastModifiedDate": "2025-05-14T09:17:09.169Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "ef5705f21f88443a8e25d9acde0630e0",
       "appId": "22bfc34d90b64054809542014fc9eb32",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Unknown Worlds Entertainment",
