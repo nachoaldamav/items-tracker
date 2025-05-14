@@ -1,26 +1,26 @@
 {
   "id": "fedeadd6578e472eac63bc9083d6393e",
   "title": "HEXA-WORLD-3D",
-  "description": "Immerse yourself in HEXA-WORLD-3D, a thrilling 3D puzzle game where you arrange hexagonal tiles to score big! With time limits, high score challenges, and 3 exciting modes — Infinite, Competitive, and Levels — the fun never ends!",
+  "description": "HEXA WORLD 3D is a cozy 3D puzzle game with procedural levels.\nEarn XP, unlock skins and maps, use powerful boosters, and master three unique game modes.",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/ed4981a403e84619a43283d33612a6c4/hexaworld3d-12rh0.png",
-      "md5": "d6551b2194f840e029af396821d07113",
+      "url": "https://cdn1.epicgames.com/spt-assets/ed4981a403e84619a43283d33612a6c4/hexaworld3d-34ocw.png",
+      "md5": "8083875a034fddb8d14278fbe127dfe6",
       "width": 2560,
       "height": 1440,
-      "size": 2451758,
-      "uploadedDate": "2025-01-11T19:06:58.698Z",
+      "size": 2945940,
+      "uploadedDate": "2025-05-09T08:50:36.693Z",
       "alt": "HEXA-WORLD-3D Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/ed4981a403e84619a43283d33612a6c4/hexaworld3d-bhvl4.png",
-      "md5": "39c79a89adf1a9014711d7ce4814bec8",
+      "url": "https://cdn1.epicgames.com/spt-assets/ed4981a403e84619a43283d33612a6c4/hexaworld3d-1rz37.png",
+      "md5": "f0df7370d6e96fdacf2e191dd2f562f4",
       "width": 1200,
       "height": 1600,
-      "size": 1263840,
-      "uploadedDate": "2025-01-11T19:06:57.368Z",
+      "size": 1670722,
+      "uploadedDate": "2025-05-09T08:50:29.967Z",
       "alt": "Download HEXA-WORLD-3D Offer"
     }
   ],
@@ -35,8 +35,12 @@
   "namespace": "e0b904c507234f058d769a5fbbf8ead3",
   "status": "ACTIVE",
   "creationDate": "2024-12-24T04:38:54.155Z",
-  "lastModifiedDate": "2025-04-15T13:42:49.547Z",
+  "lastModifiedDate": "2025-05-14T16:30:10.022Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/HEXAWORLD3D/Saved/SaveGames/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "HEXAWORLD3DMdIb9"
