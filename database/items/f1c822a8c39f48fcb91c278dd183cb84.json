@@ -1,0 +1,76 @@
+{
+  "id": "f1c822a8c39f48fcb91c278dd183cb84",
+  "title": "Ogu and the Secret Forest",
+  "description": "Explore the wonderful world with baby Ogu! 'Ogu and the Secret Forest' is a 2D adventure game with hand-drawn characters and various types of puzzles. Befriend bouncy characters and defeat strange creatures to unravel the mystery of the charming world.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ab32c6c664f340f0bb18afcb9b036dae/ogu-and-the-secret-forest-1uk56.png",
+      "md5": "f6421d67946917c410a33f9c7a3abaed",
+      "width": 2560,
+      "height": 1440,
+      "size": 1728087,
+      "uploadedDate": "2025-03-13T06:28:50.981Z",
+      "alt": "Ogu and the Secret Forest Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ab32c6c664f340f0bb18afcb9b036dae/ogu-and-the-secret-forest-1e37g.png",
+      "md5": "1ee245eb887f771cd4a50115eb56226f",
+      "width": 1200,
+      "height": 1600,
+      "size": 1041615,
+      "uploadedDate": "2025-03-13T06:28:50.502Z",
+      "alt": "Download Ogu and the Secret Forest Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "03b2f198c0ec447db7ceff375b4bfe6b",
+  "status": "ACTIVE",
+  "creationDate": "2025-02-14T07:12:02.560Z",
+  "lastModifiedDate": "2025-05-14T01:25:22.645Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/SinkHoleStudio/OguForest/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/SinkHoleStudio/OguForest/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "saveData.txt"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OguandtheSecretFores6K1u7"
+    }
+  },
+  "entitlementName": "f1c822a8c39f48fcb91c278dd183cb84",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3cce532d40c14b88bc846237d2cde024",
+      "appId": "ad10e9b2f38d491499785412149cdc49",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Sinkhole Studio Inc.",
+  "developerId": "o-xcn8vbl6ndtbn4dwes7v9jl4s64qu5",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
