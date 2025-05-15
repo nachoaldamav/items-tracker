@@ -1,0 +1,61 @@
+{
+  "id": "e88be07488514f3caeed42cf3349a2e6",
+  "title": "Auto Drive",
+  "description": "Auto Drive",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7a5cbff669e2483e9d9b90748160c1e9/auto-drive-1o4ip.jpg",
+      "md5": "29bd8ca302de3b0a8860533bb98af664",
+      "width": 2560,
+      "height": 1440,
+      "size": 2594766,
+      "uploadedDate": "2025-04-11T09:42:09.280Z",
+      "alt": "Auto Drive Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7a5cbff669e2483e9d9b90748160c1e9/auto-drive-9wi5k.png",
+      "md5": "96bbbc30b7e1ede6a77714b831c6fe56",
+      "width": 1200,
+      "height": 1600,
+      "size": 3155368,
+      "uploadedDate": "2025-03-31T16:22:17.857Z",
+      "alt": "Download Auto Drive Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "29d8a89af9c7437d911dace2fe68e501",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-15T07:22:00.899Z",
+  "lastModifiedDate": "2025-05-15T07:22:00.899Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ADGame"
+    }
+  },
+  "entitlementName": "e88be07488514f3caeed42cf3349a2e6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "669e89a530ef431ca4a32d92a3ff4390",
+      "appId": "c8ebc838fe124baaa38667bd60e6e537",
+      "platform": []
+    }
+  ],
+  "developer": "maxware",
+  "developerId": "o-54tn4zlsrrzrv9r6be9gbqtbn5xmkk",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
