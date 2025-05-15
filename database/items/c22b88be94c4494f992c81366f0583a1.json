@@ -34,12 +34,28 @@
   ],
   "namespace": "321685d747d24252b113786aecadd53e",
   "status": "ACTIVE",
-  "creationDate": "2025-02-12T22:53:12.471Z",
-  "lastModifiedDate": "2025-02-12T22:53:12.471Z",
+  "creationDate": "2025-01-24T01:17:23.019Z",
+  "lastModifiedDate": "2025-05-15T15:00:05.965Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/StellarBlade/{EpicID}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "TRUE"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "300"
+    },
     "FolderName": {
       "type": "STRING",
-      "value": "ProjectSailorkGKoz"
+      "value": "StellarBlade"
     }
   },
   "entitlementName": "c22b88be94c4494f992c81366f0583a1",
@@ -49,13 +65,15 @@
     {
       "id": "361dd5e0844f4e0a9976a2fa424e9f38",
       "appId": "4013d48a20c1403282fc9d1453ec8f5a",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Sony Interactive Entertainment",
   "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567SPc0ToKy96xL4T084pmF0h1A",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
