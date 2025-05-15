@@ -1,0 +1,71 @@
+{
+  "id": "4f60a77bbfb844eaa9050743fff2c0da",
+  "title": "BrightGunner",
+  "description": "BrightGunner is a  innovative fast-paced first person shooter game.simplicity and refreshment, the three major design concepts are: diversified gameplay, mild Rogue mechanism, and no interface design style.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2880548a77eb4b0d951a9d174df0e408/brightgunner-1o7cq.png",
+      "md5": "8fe8cdbdb47a9737b5cf583404646eef",
+      "width": 2560,
+      "height": 1440,
+      "size": 2270549,
+      "uploadedDate": "2025-05-14T02:03:56.271Z",
+      "alt": "BrightGunner Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2880548a77eb4b0d951a9d174df0e408/brightgunner-5bnc.png",
+      "md5": "5cf87f031e217a978a477b11c9715c79",
+      "width": 1200,
+      "height": 1600,
+      "size": 1218245,
+      "uploadedDate": "2025-05-14T02:03:55.445Z",
+      "alt": "Download BrightGunner Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "42672041641c422fbf62e232c2636750",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-15T02:01:14.724Z",
+  "lastModifiedDate": "2025-05-15T02:01:14.724Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/BrightGunner/ {EpicID} /"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BrightGunner"
+    }
+  },
+  "entitlementName": "4f60a77bbfb844eaa9050743fff2c0da",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "52e8d712e0534e09964171ebf859652b",
+      "appId": "6e89baf4a05a4765bd3afa17e21a34fb",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Rock2025",
+  "developerId": "o-e4rl5enmvte8p4bd9jcf3qmsw8dyj9",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
