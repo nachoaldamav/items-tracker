@@ -37,7 +37,7 @@
   "namespace": "52b90f9a982a404781b189f6a7903226",
   "status": "ACTIVE",
   "creationDate": "2019-09-12T18:24:18.128Z",
-  "lastModifiedDate": "2025-05-16T17:01:14.232Z",
+  "lastModifiedDate": "2025-05-16T17:17:01.540Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -48,10 +48,6 @@
       "value": "52b90f9a982a404781b189f6a7903226"
     },
     "MonitorPresence": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "UseAccessControl": {
       "type": "STRING",
       "value": "true"
     },
@@ -90,5 +86,6 @@
   "endOfSupport": false,
   "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
