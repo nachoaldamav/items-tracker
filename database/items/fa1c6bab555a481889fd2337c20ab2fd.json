@@ -1,0 +1,71 @@
+{
+  "id": "fa1c6bab555a481889fd2337c20ab2fd",
+  "title": "Two Point Museum",
+  "description": "Curate and manage incredible museums! \n\nExplore to discover amazing artifacts. Design and refine the layout, keep staff happy, guests entertained, donations plentiful… and children off the exhibits",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c480054596374516ae73fcf3449a531f/borelli-a68a1.jpg",
+      "md5": "be0eff753a8c931e2d4d4dc701e9eb03",
+      "width": 2560,
+      "height": 1440,
+      "size": 811130,
+      "uploadedDate": "2025-04-15T09:14:31.091Z",
+      "alt": "Borelli Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c480054596374516ae73fcf3449a531f/borelli-wlx0b.png",
+      "md5": "034c40f4dad17bf44c5b900080ef012e",
+      "width": 1200,
+      "height": 1600,
+      "size": 3033389,
+      "uploadedDate": "2025-04-15T09:14:31.675Z",
+      "alt": "Download Borelli Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4a6492c90e394cc189002b0cf0ae776b",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-15T14:00:18.986Z",
+  "lastModifiedDate": "2025-05-15T14:00:19.448Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/com.twopointstudios.twopointmuseum/{EpicID}/Saves/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Two Point Studios/Two Point Museum/Cloud/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BorellignIoL"
+    }
+  },
+  "entitlementName": "fa1c6bab555a481889fd2337c20ab2fd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7286e1452f72416ea9d44c05b12c45ea",
+      "appId": "8fbc5a2480924f6493f175e56c2ef153",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
