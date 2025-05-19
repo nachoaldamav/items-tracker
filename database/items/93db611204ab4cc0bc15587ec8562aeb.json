@@ -1,0 +1,64 @@
+{
+  "id": "93db611204ab4cc0bc15587ec8562aeb",
+  "title": "Merge Adventure",
+  "description": "Merge Adventure",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4ffd95e2e23e4aa2ad1b7c970e349ad1/merge-adventure-1xt9e.jpg",
+      "md5": "839133d4ccc7f409a6986526ba9b4d37",
+      "width": 2560,
+      "height": 1440,
+      "size": 679522,
+      "uploadedDate": "2025-05-14T09:28:54.920Z",
+      "alt": "Merge Adventure Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4ffd95e2e23e4aa2ad1b7c970e349ad1/merge-adventure-uvtuk.jpg",
+      "md5": "f6716bfe92784d63e96ee81a7b679769",
+      "width": 1200,
+      "height": 1600,
+      "size": 306671,
+      "uploadedDate": "2025-05-14T13:09:53.116Z",
+      "alt": "Download Merge Adventure Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "858b53dfe5284efea39e4feb3b3d3430",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-19T08:05:28.542Z",
+  "lastModifiedDate": "2025-05-19T08:05:30.461Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "MergeAdventure"
+    }
+  },
+  "entitlementName": "93db611204ab4cc0bc15587ec8562aeb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e4e445b6dbce4888a9cf3a8aeb5c27da",
+      "appId": "c0a65a45cdef42449a7115b5ecb14051",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Neverest PC",
+  "developerId": "o-ey96hpgpw7vxrtgql3h26rz7x78awg",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
