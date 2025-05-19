@@ -1,0 +1,62 @@
+{
+  "id": "7a65a2f8599049b7ba895b025e5ba2ab",
+  "title": "Happy Treasure King",
+  "description": "Dear players, monsters don't spawn automatically. Use ‘C’ to switch to overhead view and press start to spawn them.  Use keypad 1, 2, 3 to select towers, W, A, S, D to move in both perspectives，a thrilling experience!!!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/113c568247c64757a8e60e491f0f89a6/happy-treasure-king-8xeik.png",
+      "md5": "58eede0f1e6bce4ddc22e4a23b619af0",
+      "width": 2560,
+      "height": 1440,
+      "size": 1927848,
+      "uploadedDate": "2025-05-14T11:29:25.757Z",
+      "alt": "Happy Treasure King Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/113c568247c64757a8e60e491f0f89a6/happy-treasure-king-1fksr.png",
+      "md5": "130f2881b716e1d50d441a2bc599d163",
+      "width": 1200,
+      "height": 1600,
+      "size": 1164702,
+      "uploadedDate": "2025-05-14T11:29:25.329Z",
+      "alt": "Download Happy Treasure King Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "608e68a718d04d76bf3676fab252bd40",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-19T14:22:11.890Z",
+  "lastModifiedDate": "2025-05-19T14:22:11.890Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "HappyTreasureKing16MBE"
+    }
+  },
+  "entitlementName": "7a65a2f8599049b7ba895b025e5ba2ab",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6d11841f80304902b5ba7e220bb7dbcd",
+      "appId": "979dfb6a0cd441209ff7ec468449c0b2",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "HappyAgain",
+  "developerId": "o-smwh5wf75j5k6yxmjh42u3bgpw4mx9",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
