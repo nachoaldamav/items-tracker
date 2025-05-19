@@ -1,0 +1,63 @@
+{
+  "id": "6ff7e90c6e6e4a2db37ed2acfaa9b944",
+  "title": "Big Time",
+  "description": "Big Time",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/24857c38855c461e8aedd9aa5a007396/big-time-1vm2f.png",
+      "md5": "b7d946e1490be2cbe8eb0b5b13bb3d12",
+      "width": 2560,
+      "height": 1440,
+      "size": 2441921,
+      "uploadedDate": "2025-05-14T23:22:02.253Z",
+      "alt": "Big Time Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/24857c38855c461e8aedd9aa5a007396/big-time-184bc.png",
+      "md5": "b09e4eb1dee2f0545d07a7b31d4eb26c",
+      "width": 1200,
+      "height": 1600,
+      "size": 1613496,
+      "uploadedDate": "2025-05-14T23:22:09.529Z",
+      "alt": "Download Big Time Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bc15630fadda47f5a981df3ec607e027",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-19T17:15:35.649Z",
+  "lastModifiedDate": "2025-05-19T17:15:35.649Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BigTime"
+    }
+  },
+  "entitlementName": "6ff7e90c6e6e4a2db37ed2acfaa9b944",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e08e6d55f5994858ab7d503a15cca6a7",
+      "appId": "448f09438aa8485c9f267cf855bc586e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Big Time Studios",
+  "developerId": "o-pcgclzq3mgtb4v7sucurh5vbkhpczz",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
