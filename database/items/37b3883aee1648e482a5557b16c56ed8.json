@@ -1,0 +1,71 @@
+{
+  "id": "37b3883aee1648e482a5557b16c56ed8",
+  "title": "S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition",
+  "description": "S.T.A.L.K.E.R.: Shadow of Chornobyl, the first chapter of the Legends of the Zone Trilogy, which started it all. Welcome to the former exclusion territory near the Chornobyl Nuclear Power Plant… the most dangerous place on Earth.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c11b4c51d6454752be612c123f415c0b/stalker-shadow-of-chornobyl--enhanced-edition-1flcz.jpg",
+      "md5": "43ed1034ef2784c790fe5ab347bc6aa2",
+      "width": 2560,
+      "height": 1440,
+      "size": 559522,
+      "uploadedDate": "2025-04-29T11:42:49.666Z",
+      "alt": "S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c11b4c51d6454752be612c123f415c0b/stalker-shadow-of-chornobyl--enhanced-edition-lsubn.jpg",
+      "md5": "f2d706b5ff2913f20ced0ee7532383f7",
+      "width": 1200,
+      "height": 1600,
+      "size": 641577,
+      "uploadedDate": "2025-04-29T11:42:53.543Z",
+      "alt": "Download S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b713f7b6b51b405893ad88c00c86faac",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-19T20:11:23.867Z",
+  "lastModifiedDate": "2025-05-19T20:11:23.867Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/STALKER Shadow of Chornobyl - EE/EGS/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "savedgames/*.*, screenshots/*.png, progress_data.ltx"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "STALKER_SOC_EE"
+    }
+  },
+  "entitlementName": "37b3883aee1648e482a5557b16c56ed8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d3f442064afb43f8adaaea4a69d9ac4a",
+      "appId": "ae7507292ea2473c8023854a8c48cb3d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "GSC Game World Global LTD.",
+  "developerId": "o-e4pcmp7frwrbjnn6q4tc3a642ud2x8",
+  "endOfSupport": false,
+  "applicationId": "fghi4567zb7lsfMyo35zF7DYRcmV0IEE",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
