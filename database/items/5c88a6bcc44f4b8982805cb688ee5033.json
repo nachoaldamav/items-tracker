@@ -1,0 +1,71 @@
+{
+  "id": "5c88a6bcc44f4b8982805cb688ee5033",
+  "title": "S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition",
+  "description": "S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0443a4ae48634019b1dec56cc5faffe4/stalker-call-of-prypiat--enhanced-edition-q0je0.jpg",
+      "md5": "c4c0a47338d261ada275b0132c3fffcd",
+      "width": 2560,
+      "height": 1440,
+      "size": 618883,
+      "uploadedDate": "2025-04-29T15:05:17.905Z",
+      "alt": "S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0443a4ae48634019b1dec56cc5faffe4/stalker-call-of-prypiat--enhanced-edition-17lcl.jpg",
+      "md5": "a9134b471a61288cfc00108452d39f70",
+      "width": 1200,
+      "height": 1600,
+      "size": 634750,
+      "uploadedDate": "2025-04-29T15:05:22.333Z",
+      "alt": "Download S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6026e7b108f94dd5a3037317eb9b4fa4",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-19T20:09:50.944Z",
+  "lastModifiedDate": "2025-05-19T20:09:50.944Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/STALKER Call of Prypiat - EE/EGS/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "savedgames/*.*, screenshots/*.png, progress_data.ltx"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "STALKER_COP_EE"
+    }
+  },
+  "entitlementName": "5c88a6bcc44f4b8982805cb688ee5033",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "42b9bf607acb4acc80fbea48b3fc7db0",
+      "appId": "8ce077125b644249b7f97b00079e4ee8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "GSC Game World Global LTD.",
+  "developerId": "o-e4pcmp7frwrbjnn6q4tc3a642ud2x8",
+  "endOfSupport": false,
+  "applicationId": "fghi4567ebrcOZEl0xLm0O4bpYSutuvX",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
