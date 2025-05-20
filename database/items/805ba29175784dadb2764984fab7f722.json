@@ -1,0 +1,62 @@
+{
+  "id": "805ba29175784dadb2764984fab7f722",
+  "title": "Loaders",
+  "description": "Loaders",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4be836e6c54a495f93ba4a92e3b4f5a8/loaders-5nb1i.png",
+      "md5": "4fa56754b611dafc858395b2394140d9",
+      "width": 2560,
+      "height": 1440,
+      "size": 4162942,
+      "uploadedDate": "2025-03-05T16:36:00.451Z",
+      "alt": "Loaders Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4be836e6c54a495f93ba4a92e3b4f5a8/loaders-192p4.png",
+      "md5": "d99f4d7de1dd5281b75573d20bfcacbc",
+      "width": 1200,
+      "height": 1600,
+      "size": 2151889,
+      "uploadedDate": "2025-03-05T16:36:00.562Z",
+      "alt": "Download Loaders Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4af4ea135d734d30afe60d6b217c0889",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-19T15:34:07.555Z",
+  "lastModifiedDate": "2025-05-19T15:34:07.555Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "LoaderstT9kC"
+    }
+  },
+  "entitlementName": "805ba29175784dadb2764984fab7f722",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f0d144c0f3de4c03b764bd74fbbc01b3",
+      "appId": "f79f67d782664e36bc57b031508c4708",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Tower Five",
+  "developerId": "o-rdrce92pc3bvlusc7rysbflj8q5fda",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
