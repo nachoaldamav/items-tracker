@@ -1,0 +1,63 @@
+{
+  "id": "0f211370cdfa449a85ea5130b1befcd7",
+  "title": "Kernel Hearts",
+  "description": "Kernel Hearts",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/62a2cf69f8de41e79b9f2465f9555b67/kernel-hearts-13mz5.png",
+      "md5": "f7444ca8fe49df00f79fbc07ba8babc4",
+      "width": 2560,
+      "height": 1440,
+      "size": 3330580,
+      "uploadedDate": "2025-05-14T18:29:37.141Z",
+      "alt": "Kernel Hearts Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/62a2cf69f8de41e79b9f2465f9555b67/kernel-hearts-1gl8e.png",
+      "md5": "69e9f60330da8c4106e747636a799841",
+      "width": 1200,
+      "height": 1600,
+      "size": 2638408,
+      "uploadedDate": "2025-05-14T18:46:12.207Z",
+      "alt": "Download Kernel Hearts Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e4f9d4000eb44dbe86d98f2d8b923398",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-19T14:26:54.726Z",
+  "lastModifiedDate": "2025-05-19T14:26:54.726Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "KernelHeartsPDTUi"
+    }
+  },
+  "entitlementName": "0f211370cdfa449a85ea5130b1befcd7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e1534b1151f34369902485ec04501cc2",
+      "appId": "67fce8505f7c4039b38a0578dd814a38",
+      "platform": [
+        "Windows",
+        "Win32"
+      ]
+    }
+  ],
+  "developer": "White Thorn Digital",
+  "developerId": "o-v7c8xq9bmhtqhakulz7lrptnz8b628",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
