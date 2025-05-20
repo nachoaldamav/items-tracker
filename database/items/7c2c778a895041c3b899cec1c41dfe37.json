@@ -34,8 +34,8 @@
   ],
   "namespace": "1f8af6c947d847b0ad23326cec15abd9",
   "status": "ACTIVE",
-  "creationDate": "2025-05-01T21:39:53.498Z",
-  "lastModifiedDate": "2025-05-01T21:39:53.498Z",
+  "creationDate": "2025-03-13T22:47:27.831Z",
+  "lastModifiedDate": "2025-05-20T18:02:13.773Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "d43e5d98-53de-461d-9ce7-77b55a73bf42",
       "appId": "7757ddf42edd4a97bee9e3518c02123b",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "USC Games",
