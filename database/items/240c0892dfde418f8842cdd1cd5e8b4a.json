@@ -1,0 +1,72 @@
+{
+  "id": "240c0892dfde418f8842cdd1cd5e8b4a",
+  "title": "Rumbral",
+  "description": "Rumbral is a dark, puzzle platformer set in a seemingly forgotten world. Find your way through the world while trying to recover your memories and find out who you really are.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e586f9bb41d24f31921cf93a445ad13f/rumbral-kc1it.jpg",
+      "md5": "aaf150abc0be94d8e9133f6e3ace3444",
+      "width": 2560,
+      "height": 1440,
+      "size": 859754,
+      "uploadedDate": "2025-04-15T10:22:04.352Z",
+      "alt": "Rumbral Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e586f9bb41d24f31921cf93a445ad13f/rumbral-1xvdv.jpg",
+      "md5": "9f0ddb36df3bc04a1f7b9585c4c28803",
+      "width": 1200,
+      "height": 1600,
+      "size": 692277,
+      "uploadedDate": "2025-04-15T10:21:47.278Z",
+      "alt": "Download Rumbral Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1b02447c0a9b462aa8c335dfea80e16a",
+  "status": "ACTIVE",
+  "creationDate": "2025-04-21T11:21:44.071Z",
+  "lastModifiedDate": "2025-04-21T11:21:44.071Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Rumbral/Saved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RumbralGame"
+    }
+  },
+  "entitlementName": "240c0892dfde418f8842cdd1cd5e8b4a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "61abd1d84112495a91bc069444d05777",
+      "appId": "2c7f8b49bdbd4a5bbf0aa7bba2d50263",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "OOM sàrl",
+  "developerId": "o-mt5krac5jushgwbp3zj5v4wb6alcvc",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
