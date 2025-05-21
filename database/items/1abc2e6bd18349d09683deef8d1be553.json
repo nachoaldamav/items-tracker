@@ -32,8 +32,8 @@
   ],
   "namespace": "clover",
   "status": "ACTIVE",
-  "creationDate": "2019-02-14T21:35:39.449Z",
-  "lastModifiedDate": "2022-11-01T19:07:03.477Z",
+  "creationDate": "2025-05-16T16:54:35.064Z",
+  "lastModifiedDate": "2025-05-21T17:43:01.727Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -61,17 +61,13 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "a7496186aadb4352bbccbd1c330a7dbc",
+      "id": "3934b468bbee4cf0a825338acfb4feb8",
       "appId": "Clover",
-      "compatibleApps": [],
       "platform": [
-        "Windows",
         "Mac",
-        "Win32"
-      ],
-      "dateAdded": "2019-02-14T00:00:00.000Z",
-      "releaseNote": "",
-      "versionTitle": ""
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Tomorrow Corporation",
