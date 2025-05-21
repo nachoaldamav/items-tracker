@@ -32,8 +32,8 @@
   ],
   "namespace": "basil",
   "status": "ACTIVE",
-  "creationDate": "2019-02-15T17:34:31.041Z",
-  "lastModifiedDate": "2022-11-01T19:07:56.358Z",
+  "creationDate": "2025-05-16T16:55:38.642Z",
+  "lastModifiedDate": "2025-05-21T17:42:51.119Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -65,17 +65,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "358400b8e72e4232b9fd81413cb0eb0e",
+      "id": "70adb301932946a0ac5a314b24713a31",
       "appId": "Basil",
-      "compatibleApps": [],
       "platform": [
-        "Windows",
         "Mac",
-        "Win32"
-      ],
-      "dateAdded": "2019-02-15T00:00:00.000Z",
-      "releaseNote": "",
-      "versionTitle": ""
+        "Windows"
+      ]
     }
   ],
   "developer": "Tomorrow Corporation",
