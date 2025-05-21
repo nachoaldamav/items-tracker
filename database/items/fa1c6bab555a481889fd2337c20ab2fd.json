@@ -34,8 +34,8 @@
   ],
   "namespace": "4a6492c90e394cc189002b0cf0ae776b",
   "status": "ACTIVE",
-  "creationDate": "2025-05-15T14:00:18.986Z",
-  "lastModifiedDate": "2025-05-15T14:00:19.448Z",
+  "creationDate": "2025-03-06T13:20:04.390Z",
+  "lastModifiedDate": "2025-05-20T16:34:20.998Z",
   "customAttributes": {
     "CloudSaveFolder_MAC": {
       "type": "STRING",
@@ -44,6 +44,10 @@
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{AppData}/../LocalLow/Two Point Studios/Two Point Museum/Cloud/{EpicID}/"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "TRUE"
     },
     "FolderName": {
       "type": "STRING",
