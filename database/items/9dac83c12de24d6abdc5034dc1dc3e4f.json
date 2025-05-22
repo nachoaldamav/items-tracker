@@ -35,8 +35,16 @@
   "namespace": "08d6df03616c42388556ce5fc1366d3d",
   "status": "ACTIVE",
   "creationDate": "2024-06-04T14:06:54.027Z",
-  "lastModifiedDate": "2025-04-29T13:10:29.968Z",
+  "lastModifiedDate": "2025-05-22T01:32:35.626Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Project_Plague/Saved/{EpicID}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": ".sav, .bk, .bkA"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "Wuchang"
