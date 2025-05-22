@@ -32,8 +32,8 @@
   ],
   "namespace": "holly",
   "status": "ACTIVE",
-  "creationDate": "2019-02-15T14:49:59.748Z",
-  "lastModifiedDate": "2022-11-01T19:07:32.105Z",
+  "creationDate": "2025-05-16T16:56:09.110Z",
+  "lastModifiedDate": "2025-05-21T17:42:32.293Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -61,17 +61,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "157f150ede7a4144bf99fb7f14d2ddb1",
+      "id": "916ae75b169e4489bcc418bc6b582045",
       "appId": "Holly",
-      "compatibleApps": [],
       "platform": [
-        "Windows",
         "Mac",
-        "Win32"
-      ],
-      "dateAdded": "2019-02-15T00:00:00.000Z",
-      "releaseNote": "",
-      "versionTitle": ""
+        "Windows"
+      ]
     }
   ],
   "developer": "Tomorrow Corporation",
