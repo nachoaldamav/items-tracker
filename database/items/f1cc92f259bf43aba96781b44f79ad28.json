@@ -34,12 +34,12 @@
   ],
   "namespace": "c5d6c13e13ae4e4581e9068d8a75eadb",
   "status": "ACTIVE",
-  "creationDate": "2025-03-26T11:30:49.918Z",
-  "lastModifiedDate": "2025-03-26T11:30:49.918Z",
+  "creationDate": "2025-03-17T04:39:58.000Z",
+  "lastModifiedDate": "2025-05-22T02:08:30.109Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "GameofThronesKingsroe145d"
+      "value": "GameofThronesKingsroad"
     }
   },
   "entitlementName": "f1cc92f259bf43aba96781b44f79ad28",
@@ -49,12 +49,15 @@
     {
       "id": "8f2ded07-1137-40d9-a809-3e52dd1c9449",
       "appId": "e66fd21c59f94eda81a19abee9b262e7",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "NETMARBLE",
   "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
