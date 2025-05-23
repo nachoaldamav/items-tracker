@@ -35,8 +35,8 @@
   ],
   "namespace": "6c77bc1b5faa4ac98441ec75cca0d320",
   "status": "ACTIVE",
-  "creationDate": "2019-12-05T16:10:39.054Z",
-  "lastModifiedDate": "2019-12-23T15:43:26.689Z",
+  "creationDate": "2024-03-27T18:58:48.481Z",
+  "lastModifiedDate": "2025-05-23T20:38:22.598Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -72,13 +72,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "43e0b9ed0e91491f8779226458bc7cfd",
+      "id": "a45006bcba0d4522aff8307c5aaad63c",
       "appId": "Coley",
       "platform": [
-        "Windows",
-        "Win32"
-      ],
-      "dateAdded": "2019-12-23T15:24:55.983Z"
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Devolver Digital, Inc.",
