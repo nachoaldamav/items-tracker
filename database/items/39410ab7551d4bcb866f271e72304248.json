@@ -1,0 +1,64 @@
+{
+  "id": "39410ab7551d4bcb866f271e72304248",
+  "title": "Digital Expo Center",
+  "description": "Digital Expo Center",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/4cf663719a7e46cd983bdbe43d9b6dc2/digital-expo-center-1ijp8.jpg",
+      "md5": "8f9119295df7ab0acfeb83349f48cce3",
+      "width": 2560,
+      "height": 1440,
+      "size": 1391416,
+      "uploadedDate": "2025-05-14T07:23:40.330Z",
+      "alt": "Digital Expo Center Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/4cf663719a7e46cd983bdbe43d9b6dc2/digital-expo-center-b4qyg.jpg",
+      "md5": "35484e9e27a502e34ab9f9575035c322",
+      "width": 1200,
+      "height": 1600,
+      "size": 828008,
+      "uploadedDate": "2025-05-14T06:40:17.255Z",
+      "alt": "Download Digital Expo Center Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f73330ed93dc491a8b25cf705bdc8585",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-23T07:56:44.151Z",
+  "lastModifiedDate": "2025-05-23T07:56:44.151Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DigitalExpoCenter"
+    }
+  },
+  "entitlementName": "39410ab7551d4bcb866f271e72304248",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0e1517f3b58b4c80b25bdffd63a387d6",
+      "appId": "ffed68b0a9324a15960008e5e7cf2f2d",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "DEC",
+  "developerId": "o-b477u2rc4nl5uf4cwekcw6qh46lwd7",
+  "endOfSupport": false,
+  "applicationId": "fghi4567z0WfHkr603YfQCSxI0QfiETi",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
