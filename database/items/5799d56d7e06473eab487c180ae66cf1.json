@@ -35,8 +35,8 @@
   ],
   "namespace": "7c6d889f36124ae4b6269f8e1698a547",
   "status": "ACTIVE",
-  "creationDate": "2020-10-19T17:41:53.623Z",
-  "lastModifiedDate": "2020-10-29T12:39:47.993Z",
+  "creationDate": "2025-03-28T16:37:08.931Z",
+  "lastModifiedDate": "2025-05-23T20:40:13.683Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -80,13 +80,13 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "6fcf0a32a467481b85b5bff587c8f267",
+      "id": "efa2d423324a4d779ddb9c80e20d449a",
       "appId": "9faa3b0871e44b639d49a209f9405aab",
       "platform": [
-        "Windows",
-        "Mac"
-      ],
-      "dateAdded": "2020-10-19T00:00:00.000Z"
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Devolver Digital, Inc.",
