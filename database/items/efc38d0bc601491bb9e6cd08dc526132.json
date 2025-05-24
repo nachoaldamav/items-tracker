@@ -32,8 +32,8 @@
   ],
   "namespace": "marmoset",
   "status": "ACTIVE",
-  "creationDate": "2018-11-30T01:31:47.191Z",
-  "lastModifiedDate": "2022-11-04T21:06:15.313Z",
+  "creationDate": "2025-05-21T20:22:49.479Z",
+  "lastModifiedDate": "2025-05-23T22:29:15.076Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -73,15 +73,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "d3a363ac028a4d6aba0ec1f4d5d4831d",
+      "id": "f5337e995f23452b80d30aa847f93ba5",
       "appId": "Marmoset",
-      "compatibleApps": [],
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2019-08-13T00:00:00.000Z",
-      "releaseNote": "",
-      "versionTitle": ""
+      ]
     }
   ],
   "developer": "Double Damage Games, Inc",
