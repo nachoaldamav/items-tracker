@@ -1,0 +1,62 @@
+{
+  "id": "33fa4930ace64c99be3babedc8fbd174",
+  "title": "Preserve",
+  "description": "Preserve",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/dba9b6170e044c0abdb349f6282629da/preserve-tmh3p.png",
+      "md5": "b44ee42de182c69e1f6604482c5d781f",
+      "width": 2560,
+      "height": 1440,
+      "size": 2787339,
+      "uploadedDate": "2024-11-13T10:18:03.436Z",
+      "alt": "Preserve Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/dba9b6170e044c0abdb349f6282629da/preserve-14ggj.png",
+      "md5": "c3b5ea676d84a3a29f045e6d33ba8b2f",
+      "width": 1200,
+      "height": 1600,
+      "size": 2239719,
+      "uploadedDate": "2024-11-13T10:18:06.297Z",
+      "alt": "Download Preserve Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3484a06ece4f44b09fd9606b9233e96f",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-25T15:46:28.346Z",
+  "lastModifiedDate": "2025-05-25T15:46:28.346Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "PreservexO8Ux"
+    }
+  },
+  "entitlementName": "33fa4930ace64c99be3babedc8fbd174",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8918b2be5dcc453599c270856047bf87",
+      "appId": "724f9fc4decf410bb9522bb221acecc2",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Grindstone, s.r.o.",
+  "developerId": "o-a79cwprw6d72drlw3l6ttac3smmz46",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
