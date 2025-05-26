@@ -35,7 +35,7 @@
   "namespace": "03cf91d81403498e9174eaef769da4bb",
   "status": "ACTIVE",
   "creationDate": "2025-05-11T17:45:19.931Z",
-  "lastModifiedDate": "2025-05-22T23:02:11.319Z",
+  "lastModifiedDate": "2025-05-26T06:35:45.133Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "a96a631f-8678-4fe8-897b-b61ddc8e990f",
       "appId": "7cbeab1efa5d4b078bcbc55853a3ef36",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "TORSHOCK LLC",
