@@ -1,0 +1,63 @@
+{
+  "id": "fe3079170470455db89518bdc4152d68",
+  "title": "Open Robot",
+  "description": "Open Robot",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ee49b95027e44abe868f3aaf95ef0522/open-robot-10msj.jpg",
+      "md5": "90539cb7c374866e01bd1f12024c1e87",
+      "width": 2560,
+      "height": 1440,
+      "size": 310510,
+      "uploadedDate": "2025-05-26T07:12:25.215Z",
+      "alt": "Open Robot Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ee49b95027e44abe868f3aaf95ef0522/open-robot-my6jp.jpg",
+      "md5": "89e5bc3431c9ce4d3ba639d66ca03313",
+      "width": 1200,
+      "height": 1600,
+      "size": 151333,
+      "uploadedDate": "2025-05-26T07:12:25.317Z",
+      "alt": "Download Open Robot Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c2f229f0481d425ea45466f86676a17a",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-26T13:58:16.640Z",
+  "lastModifiedDate": "2025-05-26T13:58:16.640Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "OpenRobot"
+    }
+  },
+  "entitlementName": "fe3079170470455db89518bdc4152d68",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bde7d78f7ac7400485089f603b654dbb",
+      "appId": "07dde6709afc4860beb6013676ace18b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Loomeit Studios",
+  "developerId": "o-9p74hhm8lgklzxd9dwukfqe866pdcn",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
