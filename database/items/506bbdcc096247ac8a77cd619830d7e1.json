@@ -1,7 +1,7 @@
 {
   "id": "506bbdcc096247ac8a77cd619830d7e1",
   "title": "Knock on the Coffin lid",
-  "description": "Knock on the Coffin lid",
+  "description": "Investigate your own death, find ways to break free from a time loop, choose a hero who will ascend to the throne and rule the Northern gate! The fates of whole nations of the land of Midian depend on your choices.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,8 +34,8 @@
   ],
   "namespace": "39d2e9b0ffd047018b472b87ef693dac",
   "status": "ACTIVE",
-  "creationDate": "2025-03-10T14:01:52.536Z",
-  "lastModifiedDate": "2025-03-17T09:05:46.920Z",
+  "creationDate": "2024-02-05T15:15:41.167Z",
+  "lastModifiedDate": "2025-05-26T18:16:35.851Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,10 @@
     {
       "id": "4b8366262c004d179e648d1ce9c674cc",
       "appId": "4443bc4ad5a741c48625c12d954c4987",
-      "platform": []
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
     }
   ],
   "developer": "RedBoon",
