@@ -1,0 +1,75 @@
+{
+  "id": "0a779708484142b1a1478b5dbfea093d",
+  "title": "Take Notes",
+  "description": "Take Notes",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/efb9cff145f04301a8e2f80d53e36ccd/take-notes-1iagj.jpg",
+      "md5": "ab0f0c01661e2d68f3fb44d429057ed3",
+      "width": 2560,
+      "height": 1440,
+      "size": 446062,
+      "uploadedDate": "2025-05-23T09:27:49.416Z",
+      "alt": "Take Notes Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/efb9cff145f04301a8e2f80d53e36ccd/take-notes-13t6u.jpg",
+      "md5": "0596cab5681d913ad0c75d8ed644e6d4",
+      "width": 1200,
+      "height": 1600,
+      "size": 344717,
+      "uploadedDate": "2025-05-23T09:17:09.355Z",
+      "alt": "Download Take Notes Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9a9bb2c5c2f74c4daa64a64f6f087ecd",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-27T14:01:06.346Z",
+  "lastModifiedDate": "2025-05-27T14:01:06.346Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/TakeNotes/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "SaveSlot*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "4"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TakeNotes"
+    }
+  },
+  "entitlementName": "0a779708484142b1a1478b5dbfea093d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "20478a00d2cb4a7482037eb26b16a09a",
+      "appId": "5178ec4f38aa4b8592510d4f8d81a47f",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Stoneware Game Studio ",
+  "developerId": "o-h3mvv7myz86tjpkqhnug6z76e7spe4",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
