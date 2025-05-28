@@ -1,0 +1,71 @@
+{
+  "id": "a79946f44eae4cab9d28fbbf1f6b0ac2",
+  "title": "BLACKSHARD",
+  "description": "BLACKSHARD",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/bf41f197884944bb8e01e3dcfa494a61/blackshard-ziuuz.png",
+      "md5": "28250e378d71e8a4fd5f4d9c864418a7",
+      "width": 2560,
+      "height": 1440,
+      "size": 1930142,
+      "uploadedDate": "2025-04-24T14:45:17.125Z",
+      "alt": "BLACKSHARD Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/bf41f197884944bb8e01e3dcfa494a61/blackshard-1hncq.png",
+      "md5": "cbab647b998efe99cb82edce743da036",
+      "width": 1200,
+      "height": 1600,
+      "size": 1751062,
+      "uploadedDate": "2025-04-24T14:45:17.560Z",
+      "alt": "Download BLACKSHARD Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5479820bfa8945979cc05ef8d37e1a40",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-28T08:05:34.591Z",
+  "lastModifiedDate": "2025-05-28T08:05:34.591Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/BLACKSHARD/Saved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "500"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BLACKSHARD"
+    }
+  },
+  "entitlementName": "a79946f44eae4cab9d28fbbf1f6b0ac2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "90b0a7efaefd4bb2abe40497f34885ac",
+      "appId": "35594e0eebe543e883b2fd0d6d636675",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Plug In Digital SAS",
+  "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
