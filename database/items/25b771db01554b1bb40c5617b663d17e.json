@@ -35,8 +35,8 @@
   ],
   "namespace": "be13f6c4fb11427fbf3313ce93b97cc0",
   "status": "ACTIVE",
-  "creationDate": "2019-05-30T21:56:59.325Z",
-  "lastModifiedDate": "2023-02-03T19:22:08.630Z",
+  "creationDate": "2025-05-23T22:10:45.848Z",
+  "lastModifiedDate": "2025-05-28T16:43:13.873Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -92,14 +92,13 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "0512e22e2a4d4be7b424fd5a1d0aae15",
+      "id": "e45118d22b69408695b8459ba7816225",
       "appId": "Garlic",
       "platform": [
-        "Windows",
         "Mac",
-        "Win32"
-      ],
-      "dateAdded": "2019-06-11T00:00:00.000Z"
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Devolver Digital, Inc.",
