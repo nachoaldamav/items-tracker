@@ -35,8 +35,12 @@
   "namespace": "1c777f998b15401c9d531165af4c9396",
   "status": "ACTIVE",
   "creationDate": "2023-03-10T17:00:11.402Z",
-  "lastModifiedDate": "2025-02-17T13:55:20.634Z",
+  "lastModifiedDate": "2025-05-28T11:22:11.931Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/PotionLand/Saved/SaveGames/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "Brew"
