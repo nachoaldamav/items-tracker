@@ -1,0 +1,64 @@
+{
+  "id": "e95909fea2a74f5bbbde347b4cb830dd",
+  "title": "Gacha Idle",
+  "description": "Gacha Idle",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/79e0b9c56baf4d8e986fab51630d61c9/gacha-idle-18zgl.png",
+      "md5": "d3dd6f84c13995bbdfa5e62646db0f21",
+      "width": 2560,
+      "height": 1440,
+      "size": 2005697,
+      "uploadedDate": "2025-05-07T02:59:33.613Z",
+      "alt": "Gacha Idle Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/79e0b9c56baf4d8e986fab51630d61c9/gacha-idle-1iylh.png",
+      "md5": "81cef1e7cfcfe79191116719fe75dec0",
+      "width": 1200,
+      "height": 1600,
+      "size": 2797146,
+      "uploadedDate": "2025-05-07T02:59:35.573Z",
+      "alt": "Download Gacha Idle Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4744f5d11a2d4cdcbbd89cd3f792aa94",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-29T04:00:41.633Z",
+  "lastModifiedDate": "2025-05-29T04:00:42.814Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Gacha_Idle"
+    }
+  },
+  "entitlementName": "e95909fea2a74f5bbbde347b4cb830dd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "371e443fe39e4f7b88ec123bca4e37ab",
+      "appId": "639fec1cf2cc43bf92169da001868601",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Now to play game Sucursal en España",
+  "developerId": "o-sgnf67rv4q6bb6r2kp7w9bn8brq83f",
+  "endOfSupport": false,
+  "applicationId": "fghi4567a7XBoDgYbL5Ku49hf1aJDhjF",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
