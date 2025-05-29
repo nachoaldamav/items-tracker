@@ -1,7 +1,7 @@
 {
   "id": "9e1b5446794a4036a698e05740f25b13",
   "title": "BloodLoop",
-  "description": "BloodLoop",
+  "description": "Explore BloodLoop: a fast-paced 5v5 Hero-Shooter blending tactical skills, real economy, and crafting.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,7 +35,7 @@
   "namespace": "e9a242d5b2ff42199ba462963f583cba",
   "status": "ACTIVE",
   "creationDate": "2023-05-29T17:06:33.614Z",
-  "lastModifiedDate": "2025-02-25T14:26:51.725Z",
+  "lastModifiedDate": "2025-05-29T15:25:15.987Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -50,7 +50,6 @@
       "id": "95fdf48cc42e4fa387d446f2f26cbf31",
       "appId": "3712e6192dc846419a51f3adabb0b593",
       "platform": [
-        "Win32",
         "Windows"
       ]
     }
