@@ -1,0 +1,64 @@
+{
+  "id": "1df0a3fb91a1488b9b090e238e471d30",
+  "title": "Carnage Battle Arena",
+  "description": "Carnage Battle Arena",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5d53ea049f3142f5bf2d84600ff22e2c/carnage-battle-arena-11wuh.png",
+      "md5": "f868651eba5b0ddb06ce945bd96cc3ae",
+      "width": 2560,
+      "height": 1440,
+      "size": 3866924,
+      "uploadedDate": "2025-01-04T07:46:01.037Z",
+      "alt": "Carnage Battle Arena Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5d53ea049f3142f5bf2d84600ff22e2c/carnage-battle-arena-1axmw.png",
+      "md5": "933d3ccc03cb811433a17146c648625e",
+      "width": 1200,
+      "height": 1600,
+      "size": 2121301,
+      "uploadedDate": "2025-01-04T07:46:00.156Z",
+      "alt": "Download Carnage Battle Arena Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3a9a8c2338d34df28a0eee849c1e15f6",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-28T18:49:43.570Z",
+  "lastModifiedDate": "2025-05-28T18:49:43.570Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "CarnageBattleArena"
+    }
+  },
+  "entitlementName": "1df0a3fb91a1488b9b090e238e471d30",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0dba4c25c66a4fd499100bb49423612b",
+      "appId": "ad8f84b45bd541a6ac1ac6385f923b25",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "BoomBit Games Ltd",
+  "developerId": "o-pke4j36x4pbt99tdf4htzegenguwny",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
