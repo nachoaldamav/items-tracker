@@ -4,24 +4,6 @@
   "description": "John Wick Hex",
   "keyImages": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/a9cb15d3362d43d585b8a5b13b8a4513/item/EGS_BITHELL GAMES_JOHN WICK HEX_IC2-400x400-d34747448ed3fded5b6613ec12c6ae09.png",
-      "md5": "d34747448ed3fded5b6613ec12c6ae09",
-      "width": 400,
-      "height": 400,
-      "size": 3562,
-      "uploadedDate": "2019-05-14T13:58:51.260Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/a9cb15d3362d43d585b8a5b13b8a4513/item/Logo-1856x1440-3c09d00056c8e9722f5cea7b7b5546ab.png",
-      "md5": "3c09d00056c8e9722f5cea7b7b5546ab",
-      "width": 1856,
-      "height": 1440,
-      "size": 46145,
-      "uploadedDate": "2019-10-08T17:05:16.344Z"
-    },
-    {
       "type": "DieselGameBox",
       "url": "https://cdn1.epicgames.com/a9cb15d3362d43d585b8a5b13b8a4513/item/Promo-2560x1440-8a57e69657e5ae58dd7932ce2f857298.jpg",
       "md5": "8a57e69657e5ae58dd7932ce2f857298",
@@ -32,12 +14,13 @@
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/a9cb15d3362d43d585b8a5b13b8a4513/item/EGS_BITHELL GAMES_JOHN WICK HEX_S3_STOREPORTRAIT-1280x1440-e470d19adfff5df32fba4fe7cbc1451e.jpg",
-      "md5": "e470d19adfff5df32fba4fe7cbc1451e",
-      "width": 1280,
-      "height": 1440,
-      "size": 111162,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/spt-assets/c0d94fd464ec482aa80b91ec92827b01/john-wick-hex-hccfo.png",
+      "md5": "64ed1ea2cee41945d2ce22aaa2668c74",
+      "width": 1200,
+      "height": 1600,
+      "size": 1071167,
+      "uploadedDate": "2025-03-29T17:09:39.590Z",
+      "alt": "Download John Wick Hex Offer"
     }
   ],
   "categories": [
@@ -53,8 +36,8 @@
   ],
   "namespace": "a9cb15d3362d43d585b8a5b13b8a4513",
   "status": "ACTIVE",
-  "creationDate": "2019-05-09T18:28:52.441Z",
-  "lastModifiedDate": "2019-11-19T17:02:58.402Z",
+  "creationDate": "2025-01-29T11:30:37.339Z",
+  "lastModifiedDate": "2025-05-29T18:53:25.461Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
