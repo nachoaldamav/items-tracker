@@ -4,24 +4,6 @@
   "description": "Where The Water Tastes Like Wine",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/27d2f156f77b4202b9bc78e40a408b03/item/EGS_WhereTheWaterTastesLikeWine_DimBulbGames_S2-1200x1600-b14d1a4d99a370f387e5e63e53d53a30.jpg",
-      "md5": "b14d1a4d99a370f387e5e63e53d53a30",
-      "width": 1200,
-      "height": 1600,
-      "size": 1022216,
-      "uploadedDate": "2020-09-01T18:57:07.359Z"
-    },
-    {
-      "type": "DieselGameBoxWide",
-      "url": "https://cdn1.epicgames.com/27d2f156f77b4202b9bc78e40a408b03/item/EGS_WhereTheWaterTastesLikeWine_DimBulbGames_S1-2560x1440-75b8bde822ddf61974fe34cc0fb6f26c.jpg",
-      "md5": "75b8bde822ddf61974fe34cc0fb6f26c",
-      "width": 2560,
-      "height": 1440,
-      "size": 1010653,
-      "uploadedDate": "2020-09-01T18:57:16.492Z"
-    },
-    {
       "type": "DieselGameBox",
       "url": "https://cdn1.epicgames.com/27d2f156f77b4202b9bc78e40a408b03/item/EGS_WhereTheWaterTastesLikeWine_DimBulbGames_S1-2560x1440-75b8bde822ddf61974fe34cc0fb6f26c-2560x1440-75b8bde822ddf61974fe34cc0fb6f26c.jpg",
       "md5": "75b8bde822ddf61974fe34cc0fb6f26c",
@@ -29,6 +11,15 @@
       "height": 1440,
       "size": 1010653,
       "uploadedDate": "2020-09-09T13:45:25.234Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/27d2f156f77b4202b9bc78e40a408b03/item/EGS_WhereTheWaterTastesLikeWine_DimBulbGames_S2-1200x1600-b14d1a4d99a370f387e5e63e53d53a30.jpg",
+      "md5": "b14d1a4d99a370f387e5e63e53d53a30",
+      "width": 1200,
+      "height": 1600,
+      "size": 1022216,
+      "uploadedDate": "2020-09-01T18:57:07.359Z"
     }
   ],
   "categories": [
@@ -44,8 +35,8 @@
   ],
   "namespace": "27d2f156f77b4202b9bc78e40a408b03",
   "status": "ACTIVE",
-  "creationDate": "2020-07-28T19:01:26.021Z",
-  "lastModifiedDate": "2020-09-09T17:26:33.874Z",
+  "creationDate": "2025-05-28T16:30:06.331Z",
+  "lastModifiedDate": "2025-05-29T18:52:39.546Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -89,12 +80,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "5b4314995772467bb1bbf2fda6f8d665",
+      "id": "5d6d4d950bcd4ec795385b9fb64d3b23",
       "appId": "e8964b869b6849bea41eefec766cd665",
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2020-07-28T00:00:00.000Z"
+      ]
     }
   ],
   "developer": "Good Shepherd Entertainment",
