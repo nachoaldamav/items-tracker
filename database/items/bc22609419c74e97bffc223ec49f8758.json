@@ -35,7 +35,7 @@
   "namespace": "fc4247baa2584cce9c7202b114b77230",
   "status": "ACTIVE",
   "creationDate": "2023-03-10T18:22:24.039Z",
-  "lastModifiedDate": "2025-04-16T18:53:41.470Z",
+  "lastModifiedDate": "2025-05-29T15:56:40.537Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "15f16c1f5e4949489f264fc8eca572f2",
       "appId": "e1d3c43271444b07a8fb477eb747767f",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Fanny Pack Studios SA",
