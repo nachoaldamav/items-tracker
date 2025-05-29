@@ -34,8 +34,8 @@
   ],
   "namespace": "896e53aa87fb412aa37cbe6fdcbabdff",
   "status": "ACTIVE",
-  "creationDate": "2025-03-02T00:04:47.354Z",
-  "lastModifiedDate": "2025-03-02T00:04:47.354Z",
+  "creationDate": "2023-10-17T12:09:35.137Z",
+  "lastModifiedDate": "2025-05-28T20:29:56.692Z",
   "customAttributes": {
     "CloudSaveFolder_MAC": {
       "type": "STRING",
@@ -45,7 +45,7 @@
       "type": "STRING",
       "value": "{AppData}/../LocalLow/Lucid Labs/Possessions/SavesDir/"
     },
-    "CloudExcludeList": {
+    "CloudIncludeList": {
       "type": "STRING",
       "value": "*.sav"
     },
@@ -66,7 +66,8 @@
       "id": "00eacdb5d4e942d490a2da4c9ed476dd",
       "appId": "7ddecf81c46b4367bf717b79a63735e1",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ]
     }
   ],

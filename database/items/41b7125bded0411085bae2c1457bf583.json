@@ -1,0 +1,80 @@
+{
+  "id": "41b7125bded0411085bae2c1457bf583",
+  "title": "Possessions Demo",
+  "description": "Possessions Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/498d6929658f497d842fcbed1b07f3fa/possessions-6u3fk.png",
+      "md5": "bf6c830ac7e7fb45385b98b11ef2151a",
+      "width": 2560,
+      "height": 1440,
+      "size": 1129085,
+      "uploadedDate": "2025-03-04T11:07:42.224Z",
+      "alt": "Possessions Possessions Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/498d6929658f497d842fcbed1b07f3fa/possessions-148zw.png",
+      "md5": "223ef376a0dd0fdfe42761f2273a0cf6",
+      "width": 1200,
+      "height": 1600,
+      "size": 415310,
+      "uploadedDate": "2025-03-04T11:07:50.926Z",
+      "alt": "Download Possessions Possessions Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "896e53aa87fb412aa37cbe6fdcbabdff",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-28T20:29:56.722Z",
+  "lastModifiedDate": "2025-05-28T20:29:56.722Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Lucid Labs/Possessions/SavesDir/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Lucid Labs/Possessions/SavesDir/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PossessionsDemo"
+    }
+  },
+  "entitlementName": "41b7125bded0411085bae2c1457bf583",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6cef62c9-aa15-4f9b-b316-671d7fd44c1b",
+      "appId": "9911fc337f3a49d78634738dbb0c36e1",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Lucid Labs",
+  "developerId": "o-v8ez4julrxrk4hvybdpbedx72dv7yh",
+  "endOfSupport": false,
+  "applicationId": "fghi4567g37OcZC2akmOUPtOwZ2f5bcW",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
