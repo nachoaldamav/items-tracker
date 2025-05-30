@@ -34,12 +34,40 @@
   ],
   "namespace": "1104bccb5d2145d584bbd4e0b21f89c0",
   "status": "ACTIVE",
-  "creationDate": "2025-05-15T11:00:03.970Z",
-  "lastModifiedDate": "2025-05-15T11:00:03.970Z",
+  "creationDate": "2025-01-03T02:09:43.449Z",
+  "lastModifiedDate": "2025-05-30T11:00:18.196Z",
   "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "TRUE"
+    },
+    "SkipAutoInstallDlc": {
+      "type": "STRING",
+      "value": "TRUE"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "LauncherElectron.exe"
+    },
+    "NotarizedAndSigned": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "LauncherElectron.exe"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "LifeisFeudalArdenGdOUU"
+    },
+    "BackgroundProcessNames": {
+      "type": "STRING",
+      "value": "launcher.exe"
     }
   },
   "entitlementName": "a1998d96e84549cea2a82d087bdb0849",
@@ -58,6 +86,7 @@
   "developer": "Long Tale Games LLC",
   "developerId": "o-akj8lr4wtec28lhwlkge6dzvpevujf",
   "endOfSupport": false,
+  "applicationId": "fghi45674jjeijWDBQl7AG4fqqulPcAX",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
