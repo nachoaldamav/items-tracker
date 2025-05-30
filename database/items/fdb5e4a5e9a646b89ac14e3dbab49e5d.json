@@ -1,0 +1,73 @@
+{
+  "id": "fdb5e4a5e9a646b89ac14e3dbab49e5d",
+  "title": "Space Savory",
+  "description": "Space Savory",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8471dd0f95344eb7bfb85910ab0a2212/space-savory-tt20g.png",
+      "md5": "45531e7da29bd2ac444921ef94c0f08b",
+      "width": 2560,
+      "height": 1440,
+      "size": 2412471,
+      "uploadedDate": "2025-05-26T23:54:35.388Z",
+      "alt": "Space Savory Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8471dd0f95344eb7bfb85910ab0a2212/space-savory-azjsk.png",
+      "md5": "aad488ab4715fba4dca56c1e156e8875",
+      "width": 1200,
+      "height": 1600,
+      "size": 1773385,
+      "uploadedDate": "2025-05-26T23:54:39.750Z",
+      "alt": "Download Space Savory Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c1ff682ea8e741c291bbdb6650da09f3",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-30T02:15:31.127Z",
+  "lastModifiedDate": "2025-05-30T02:15:31.127Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Save/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Save/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "500"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SpaceSavorybMxwz"
+    }
+  },
+  "entitlementName": "fdb5e4a5e9a646b89ac14e3dbab49e5d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "253e7ef26bbc417698fb2bd76e4aed35",
+      "appId": "3f35f233ba974d2ba33e3438e352f55c",
+      "platform": []
+    }
+  ],
+  "developer": "Delusion Art Studio",
+  "developerId": "o-cxmunx8kbgcw67tatyw8engvew32rt",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
