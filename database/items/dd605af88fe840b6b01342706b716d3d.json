@@ -1,0 +1,72 @@
+{
+  "id": "dd605af88fe840b6b01342706b716d3d",
+  "title": "Alien Shooter 2 - The Legend",
+  "description": "Uncover the secrets behind an alien invasion in this brutal shooter-RPG hybrid. Alien Shooter 2 – The Legend delivers a gripping sci-fi story, intense combat, and character progression across massive alien-infested zones.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/b6433612da0645e7a7a30f80c4896f0a/alien-shooter-2--the-legend-192f4.jpg",
+      "md5": "0ae809f641e10a570b44bc08cacd8a41",
+      "width": 2560,
+      "height": 1440,
+      "size": 632120,
+      "uploadedDate": "2025-05-26T06:53:18.655Z",
+      "alt": "Alien Shooter 2 - The Legend Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/b6433612da0645e7a7a30f80c4896f0a/alien-shooter-2--the-legend-l2ost.jpg",
+      "md5": "995ff8cad5d404728dc97b99b68e827b",
+      "width": 1200,
+      "height": 1600,
+      "size": 410930,
+      "uploadedDate": "2025-05-26T06:53:31.874Z",
+      "alt": "Download Alien Shooter 2 - The Legend Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "047c6e2ae0d54ed58811d02b93a58787",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-30T14:26:11.631Z",
+  "lastModifiedDate": "2025-05-30T14:26:11.631Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/SigmaTeam/Alien Shooter 2 - The Legend/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AlienShooter2TheLegend"
+    }
+  },
+  "entitlementName": "dd605af88fe840b6b01342706b716d3d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "04b8635e7d254b52886ac01acc1b1262",
+      "appId": "c9471c4c97ea4eacb153e1b4e418a26e",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Sigma Team",
+  "developerId": "o-khhnz77wp4l9tgmq68wbp7quh4bld7",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
