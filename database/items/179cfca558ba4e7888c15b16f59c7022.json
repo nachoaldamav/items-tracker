@@ -1,0 +1,80 @@
+{
+  "id": "179cfca558ba4e7888c15b16f59c7022",
+  "title": "Broken Sword - Shadow of the Templars: Reforged",
+  "description": "The classic multi-award winning adventure returns with glorious 4K visuals and iconic remastered audio, pitching intrepid American George Stobbart and fearless journalist Nico Collard into a journey of perilous adventures and ancient conspiracies.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/aaa9396aa1f5438da70b676f5d1bd8b1/broken-sword--shadow-of-the-templars-reforged-972zl.png",
+      "md5": "b41848cfea8df854fc997ae5a3071e9f",
+      "width": 2560,
+      "height": 1440,
+      "size": 4166063,
+      "uploadedDate": "2025-03-12T11:57:46.011Z",
+      "alt": "Broken Sword - Shadow of the Templars: Reforged Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/aaa9396aa1f5438da70b676f5d1bd8b1/broken-sword--shadow-of-the-templars-reforged-b5scr.png",
+      "md5": "28a0191f8176ead23b3c5762524e1484",
+      "width": 1200,
+      "height": 1600,
+      "size": 2152760,
+      "uploadedDate": "2025-03-12T11:57:44.934Z",
+      "alt": "Download Broken Sword - Shadow of the Templars: Reforged Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bf5c5c08805f48f5841cf5cfa399b268",
+  "status": "ACTIVE",
+  "creationDate": "2025-03-06T11:32:16.235Z",
+  "lastModifiedDate": "2025-05-30T16:23:57.710Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Revolution Software/BS1R/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Revolution Software/BS1R/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BrokenSword1Reforged"
+    }
+  },
+  "entitlementName": "179cfca558ba4e7888c15b16f59c7022",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4e7b518f8ee04ed98b11cc952921bc1d",
+      "appId": "f1d6cd1f4b584831af91a02688d29b4b",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Revolution Software",
+  "developerId": "o-wjeqly7a8vs2kpat7zpue9cmrpkm86",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
