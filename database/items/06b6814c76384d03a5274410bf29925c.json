@@ -1,7 +1,7 @@
 {
   "id": "06b6814c76384d03a5274410bf29925c",
   "title": "Netherworld Covenant",
-  "description": "Netherworld Covenant",
+  "description": "In the abyss where the mortal realm and netherworld intertwine, becoming a warrior wielding the power of the Nether Lantern along with the fallen souls. With hardcore action and intriguing roguelike builds, shatter the barriers and unveil the truth woven from blood and soul.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,8 +34,8 @@
   ],
   "namespace": "ebf13d96b90d41eba8b522cecc6b57bb",
   "status": "ACTIVE",
-  "creationDate": "2025-05-13T02:41:04.793Z",
-  "lastModifiedDate": "2025-05-13T02:41:04.793Z",
+  "creationDate": "2025-04-29T07:20:45.807Z",
+  "lastModifiedDate": "2025-05-30T02:15:26.717Z",
   "customAttributes": {
     "CloudSaveFolder_MAC": {
       "type": "STRING",
@@ -65,7 +65,10 @@
     {
       "id": "e9d6cecb31c241cbb28b22fe6213681d",
       "appId": "4eb1b9bb0b46417c92d2939a9973e40b",
-      "platform": []
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
     }
   ],
   "developer": "QI YU (SG) PTE. LTD.",
