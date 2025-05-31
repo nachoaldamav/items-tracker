@@ -13,15 +13,6 @@
       "uploadedDate": "2019-01-24T13:03:38.010Z"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/puffin/item/Icon-400x400-f8988a9efb3ecb9b399c5b0fce2a4e1e.png",
-      "md5": "f8988a9efb3ecb9b399c5b0fce2a4e1e",
-      "width": 400,
-      "height": 400,
-      "size": 132277,
-      "uploadedDate": "2019-01-24T13:03:46.541Z"
-    },
-    {
       "type": "DieselGameBoxLogo",
       "url": "https://cdn1.epicgames.com/puffin/item/LogoColored-1920x823-823cc66e9095b2ae217b4dc55e5daf5f.png",
       "md5": "823cc66e9095b2ae217b4dc55e5daf5f",
@@ -32,12 +23,21 @@
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/puffin/item/PrimaryPromo_Portrait-1288x1450-df7893c5b797dd344118c07be4f82112.jpg",
-      "md5": "df7893c5b797dd344118c07be4f82112",
-      "width": 1288,
-      "height": 1450,
-      "size": 184524,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/item/puffin/UxLw05tAMAwDdPxHUp1KcNbunLUy1rnXru-xqzsEfek_350x200_3x-0_1200x1600-60e6a4f0f80b45d73ba76dd1cee5490d",
+      "md5": "60e6a4f0f80b45d73ba76dd1cee5490d",
+      "width": 1200,
+      "height": 1600,
+      "size": 444360,
+      "uploadedDate": "2025-05-30T22:40:44.705Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/puffin/item/Icon-400x400-f8988a9efb3ecb9b399c5b0fce2a4e1e.png",
+      "md5": "f8988a9efb3ecb9b399c5b0fce2a4e1e",
+      "width": 400,
+      "height": 400,
+      "size": 132277,
+      "uploadedDate": "2019-01-24T13:03:46.541Z"
     }
   ],
   "categories": [
@@ -51,7 +51,7 @@
   "namespace": "puffin",
   "status": "ACTIVE",
   "creationDate": "2019-01-24T12:45:00.208Z",
-  "lastModifiedDate": "2021-01-14T00:08:25.919Z",
+  "lastModifiedDate": "2025-05-30T22:40:48.654Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -107,5 +107,6 @@
   "endOfSupport": false,
   "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
