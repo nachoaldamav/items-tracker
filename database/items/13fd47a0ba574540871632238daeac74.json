@@ -1,0 +1,75 @@
+{
+  "id": "13fd47a0ba574540871632238daeac74",
+  "title": "Arzette: The Jewel of Faramore",
+  "description": "A NEW interactive animated adventure! In this action-adventure game, Arzette must explore the Kingdom of Faramore, slay fearsome foes, acquire powerful items, discover secrets, assist colorful characters, and defeat the evil Daimur!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/6cfaceafb324431985918b8d94351588/arzette-the-jewel-of-faramore-pmwnt.png",
+      "md5": "047e1e80f7693de7f659f4ac0b0a3412",
+      "width": 2560,
+      "height": 1440,
+      "size": 3230185,
+      "uploadedDate": "2024-06-05T20:39:22.979Z",
+      "alt": "Arzette: The Jewel of Faramore Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/6cfaceafb324431985918b8d94351588/arzette-the-jewel-of-faramore-j2dfm.png",
+      "md5": "ca3c589bdfec36b5bb6060d2cc54841f",
+      "width": 1200,
+      "height": 1600,
+      "size": 1605272,
+      "uploadedDate": "2024-06-05T20:43:23.871Z",
+      "alt": "Download Arzette: The Jewel of Faramore Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "489330a8db0a4ce59ab3eee4d75bdc4e",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-02T13:50:15.696Z",
+  "lastModifiedDate": "2025-06-02T13:50:15.696Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Arzette/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "savedata.ini,controls.dat"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Arzette"
+    }
+  },
+  "entitlementName": "13fd47a0ba574540871632238daeac74",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "44940b4007a941a586df6f4c7199a558",
+      "appId": "8fb3298510304ddf9b9217ac254eae82",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Limited Run Games",
+  "developerId": "o-53p6z6d7xm37q7m6bvu7s4yvcckz5g",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
