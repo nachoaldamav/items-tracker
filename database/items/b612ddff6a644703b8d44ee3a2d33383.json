@@ -1,0 +1,71 @@
+{
+  "id": "b612ddff6a644703b8d44ee3a2d33383",
+  "title": "Wanderstop",
+  "description": "Wanderstop",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/edf13cb44ce348ee9345189f6831ef66/wanderstop-1d9wi.jpg",
+      "md5": "446d0026caf826c89df77f7a2612421d",
+      "width": 2560,
+      "height": 1440,
+      "size": 961967,
+      "uploadedDate": "2025-04-08T19:10:08.691Z",
+      "alt": "Wanderstop Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/edf13cb44ce348ee9345189f6831ef66/wanderstop-1bl21.jpg",
+      "md5": "0f01bb7fc3ad8fe92c0dbbd515fd068f",
+      "width": 1200,
+      "height": 1600,
+      "size": 532102,
+      "uploadedDate": "2025-04-08T19:10:11.882Z",
+      "alt": "Download Wanderstop Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "dc25891bdecb4c7b8207853c8d15f5be",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-03T17:47:36.097Z",
+  "lastModifiedDate": "2025-06-03T17:47:36.097Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Wanderstop/Saved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Wanderstop"
+    }
+  },
+  "entitlementName": "b612ddff6a644703b8d44ee3a2d33383",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2048a8a626f24f0894075fa4d0e54c51",
+      "appId": "2cf3406b38344df4b848aac8159780eb",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "endOfSupport": false,
+  "applicationId": "fghi4567O5ne1jBvwfyUXsdCs42bykUp",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
