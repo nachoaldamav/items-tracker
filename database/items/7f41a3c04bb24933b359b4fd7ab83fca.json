@@ -1,0 +1,71 @@
+{
+  "id": "7f41a3c04bb24933b359b4fd7ab83fca",
+  "title": "SANDSPEED: CAMEL RACING",
+  "description": "SANDSPEED: CAMEL RACING",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/68317b6cafe3479b88e203d4497a1f14/sandspeed-camel-racing-11qzb.png",
+      "md5": "2d1c3afd5db36d71d340c78933504d7d",
+      "width": 2560,
+      "height": 1440,
+      "size": 1488517,
+      "uploadedDate": "2025-05-31T15:53:49.268Z",
+      "alt": "SANDSPEED: CAMEL RACING Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/68317b6cafe3479b88e203d4497a1f14/sandspeed-camel-racing-bt0m8.png",
+      "md5": "1e1e23b384d252ed2a610bed2f8e717e",
+      "width": 1200,
+      "height": 1600,
+      "size": 1079284,
+      "uploadedDate": "2025-05-31T15:53:53.426Z",
+      "alt": "Download SANDSPEED: CAMEL RACING Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "534bb288720745338b267a56c28a02a1",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-03T19:45:33.990Z",
+  "lastModifiedDate": "2025-06-03T19:45:33.990Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/SaveData/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SANDSPEED"
+    }
+  },
+  "entitlementName": "7f41a3c04bb24933b359b4fd7ab83fca",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9184afb6b75e494daa39695a05b40131",
+      "appId": "5cd5b9d0e48b466dbf320c5cf9603181",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "JGABRIB LTDA",
+  "developerId": "o-cnsb95j47mgmx5l3yy9ztr4shfavub",
+  "endOfSupport": false,
+  "applicationId": "fghi4567tbkkytfvD0iE4z6x0TQQ537F",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
