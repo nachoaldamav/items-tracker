@@ -1,0 +1,64 @@
+{
+  "id": "f2422453105548f98d11fed6575200af",
+  "title": "Nanomon Virtual Pet",
+  "description": "Nanomon Virtual Pet",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/5d21ea8ff8f24a968004b1ff6b87fecb/nanomon-hzcoj.png",
+      "md5": "427dba3b8b0081443fa535fc08cd7a07",
+      "width": 2560,
+      "height": 1440,
+      "size": 1635764,
+      "uploadedDate": "2025-05-30T15:02:23.443Z",
+      "alt": "Nanomon Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/5d21ea8ff8f24a968004b1ff6b87fecb/nanomon-1etel.png",
+      "md5": "9cfc1735370644758088b63255832971",
+      "width": 1200,
+      "height": 1600,
+      "size": 1092385,
+      "uploadedDate": "2025-05-30T15:02:23.277Z",
+      "alt": "Download Nanomon Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1bf0d3f6f04e4e778518170f69c5ba78",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-03T16:39:45.544Z",
+  "lastModifiedDate": "2025-06-03T16:39:45.544Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "NanomongE2aE"
+    }
+  },
+  "entitlementName": "f2422453105548f98d11fed6575200af",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c9a4a0bb9ecd46799115af6885ecc4ae",
+      "appId": "c259a059ced942e981ec86907d98b27d",
+      "platform": [
+        "Mac",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Akupara Games",
+  "developerId": "o-vzv8n7jse99sluj4vaa8522rh45cvg",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
