@@ -1,0 +1,62 @@
+{
+  "id": "36ae009b700f44b29ee2d4245e4667ff",
+  "title": "The Evelyn Game",
+  "description": "The Evelyn Game",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3fbef50929bb4976988909e6a62a64df/the-evelyn-game-1uiab.jpg",
+      "md5": "ed573c83c38dc68dc1a0de39c081961e",
+      "width": 2560,
+      "height": 1440,
+      "size": 416668,
+      "uploadedDate": "2025-06-02T20:49:03.901Z",
+      "alt": "The Evelyn Game Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3fbef50929bb4976988909e6a62a64df/the-evelyn-game-190w1.png",
+      "md5": "2dd847ea425b34b58079ad3e4e0ecc12",
+      "width": 1200,
+      "height": 1600,
+      "size": 836729,
+      "uploadedDate": "2025-06-02T20:55:36.507Z",
+      "alt": "Download The Evelyn Game Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "19cffe1727a64beda616dcce86fb3d19",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-03T20:32:49.353Z",
+  "lastModifiedDate": "2025-06-03T20:32:49.353Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheEvelynGameLziaW"
+    }
+  },
+  "entitlementName": "36ae009b700f44b29ee2d4245e4667ff",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3f50cbbd433749ed9d9d838bed5c5ec7",
+      "appId": "909810b890724d9886cf1fddfa5f382f",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SoerGameStudio",
+  "developerId": "o-5d8ptw3mvr8q7xttp27q62ja5d4ueh",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
