@@ -2,6 +2,7 @@
   "id": "47a0acc4b1a346ce832a232a7633770d",
   "title": "mellowyellow BDL22 audience",
   "description": "mellowyellow BDL22 audience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +14,7 @@
   "namespace": "428115def4ca4deea9d69c99c5a5a99e",
   "status": "ACTIVE",
   "creationDate": "2024-09-06T09:04:24.637Z",
-  "lastModifiedDate": "2025-06-03T11:28:50.234Z",
+  "lastModifiedDate": "2025-06-05T20:40:53.393Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +24,15 @@
   "entitlementName": "47a0acc4b1a346ce832a232a7633770d",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Bungie",
   "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": true
 }
