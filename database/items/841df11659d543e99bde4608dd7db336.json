@@ -1,0 +1,71 @@
+{
+  "id": "841df11659d543e99bde4608dd7db336",
+  "title": "The Strange City",
+  "description": "The Strange City",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/310e6b4878b446da82abc163ad5772d4/thestrangecity-1uc06.png",
+      "md5": "06f209fa8d61ab0ca1697f0ab8deb14a",
+      "width": 2560,
+      "height": 1440,
+      "size": 2668682,
+      "uploadedDate": "2025-02-14T02:29:30.776Z",
+      "alt": "TheStrangeCity Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/310e6b4878b446da82abc163ad5772d4/thestrangecity-k2v2i.png",
+      "md5": "2a2768c4f7deb2ac53bcbf8a8d241628",
+      "width": 1200,
+      "height": 1600,
+      "size": 1599859,
+      "uploadedDate": "2025-02-14T02:29:26.971Z",
+      "alt": "Download TheStrangeCity Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ef2ba09e7e474ac8ace3c802f24c8e44",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-05T05:31:27.531Z",
+  "lastModifiedDate": "2025-06-05T05:31:27.531Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/TheStrangeCity/Saved\\SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheStrangeCity7lPhQ"
+    }
+  },
+  "entitlementName": "841df11659d543e99bde4608dd7db336",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "74559394b7e64b0e9cd2b14ee457782c",
+      "appId": "b99cad054ead4ed7b238ec2e6b64457c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Newmatic Co., Ltd.",
+  "developerId": "o-evax4q3pzvwdf8ju2rp5vu9sfeh83c",
+  "endOfSupport": false,
+  "applicationId": "fghi4567G2dNeTxXoOPJE5ZzPW5YMlnG",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
