@@ -17,7 +17,7 @@
   "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
   "status": "ACTIVE",
   "creationDate": "2020-03-20T15:09:16.789Z",
-  "lastModifiedDate": "2020-12-02T07:00:39.202Z",
+  "lastModifiedDate": "2025-06-05T18:10:20.315Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -29,7 +29,7 @@
     }
   },
   "entitlementName": "99bd8589a40341d785fbf21fad6d571f",
-  "entitlementType": "EXECUTABLE",
+  "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
@@ -47,5 +47,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
