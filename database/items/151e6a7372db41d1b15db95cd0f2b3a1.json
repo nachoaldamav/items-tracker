@@ -1,7 +1,7 @@
 {
-  "id": "61d46316874842f4b6e63f71ec05e6fe",
-  "title": "DevGeneralAudience",
-  "description": "DevGeneralAudience",
+  "id": "151e6a7372db41d1b15db95cd0f2b3a1",
+  "title": "Encrypted Master Tape_ConsumableAudience",
+  "description": "Encrypted Master Tape_ConsumableAudience",
   "categories": [
     {
       "path": "audience"
@@ -12,14 +12,14 @@
   ],
   "namespace": "6827387b744d4a46bd70ea8a145e595b",
   "status": "ACTIVE",
-  "creationDate": "2023-11-15T06:11:09.956Z",
-  "lastModifiedDate": "2025-06-05T22:07:30.893Z",
-  "entitlementName": "61d46316874842f4b6e63f71ec05e6fe",
+  "creationDate": "2025-06-05T22:07:30.928Z",
+  "lastModifiedDate": "2025-06-05T22:07:30.928Z",
+  "entitlementName": "151e6a7372db41d1b15db95cd0f2b3a1",
   "entitlementType": "AUDIENCE",
-  "itemType": "DURABLE",
-  "releaseInfo": [],
+  "itemType": "CONSUMABLE",
   "developer": "COGNOSPHERE PTE. LTD.",
   "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+  "useCount": 1,
   "endOfSupport": false,
   "requiresSecureAccount": false,
   "unsearchable": false
