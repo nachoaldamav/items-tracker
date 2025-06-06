@@ -1,0 +1,62 @@
+{
+  "id": "a7ab94b5dc9a496eaf566d63d211b9a6",
+  "title": "Auto Drive DEMO",
+  "description": "Try out the demo version of Auto Drive, a top down racing game with armed cars.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7a5cbff669e2483e9d9b90748160c1e9/auto-drive-r1ect.jpg",
+      "md5": "29bd8ca302de3b0a8860533bb98af664",
+      "width": 2560,
+      "height": 1440,
+      "size": 2594766,
+      "uploadedDate": "2025-06-05T10:01:06.799Z",
+      "alt": "Auto Drive Auto Drive DEMO Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7a5cbff669e2483e9d9b90748160c1e9/auto-drive-9yphw.png",
+      "md5": "96bbbc30b7e1ede6a77714b831c6fe56",
+      "width": 1200,
+      "height": 1600,
+      "size": 3155368,
+      "uploadedDate": "2025-06-05T10:01:12.261Z",
+      "alt": "Download Auto Drive Auto Drive DEMO Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "29d8a89af9c7437d911dace2fe68e501",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-06T08:21:48.271Z",
+  "lastModifiedDate": "2025-06-06T08:21:48.271Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DemoAutoDrive0a4f1"
+    }
+  },
+  "entitlementName": "a7ab94b5dc9a496eaf566d63d211b9a6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4b7b3118-224a-4b60-a38c-8ea5b190fe5a",
+      "appId": "fed22a5d446e42a9a45ca9b4448b03ad",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "maxware",
+  "developerId": "o-54tn4zlsrrzrv9r6be9gbqtbn5xmkk",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
