@@ -1,0 +1,63 @@
+{
+  "id": "fe5cf52355394f2791f51f4433cd2731",
+  "title": "Sword of the Sea",
+  "description": "Sword of the Sea",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d7b94900d1d543e6bd190c64b8bb1338/sword-of-the-sea-5i36v.png",
+      "md5": "d25dc83846a017b8dbf39470b9d881ac",
+      "width": 2560,
+      "height": 1440,
+      "size": 3071601,
+      "uploadedDate": "2025-06-04T01:15:41.246Z",
+      "alt": "Sword of the Sea Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d7b94900d1d543e6bd190c64b8bb1338/sword-of-the-sea-g8xgt.png",
+      "md5": "df22561b7964261a941bd88ee7098933",
+      "width": 1200,
+      "height": 1600,
+      "size": 2242487,
+      "uploadedDate": "2025-06-04T01:15:42.954Z",
+      "alt": "Download Sword of the Sea Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ef02a33236d949c7bc923a67f05cc900",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-05T18:25:37.167Z",
+  "lastModifiedDate": "2025-06-05T18:25:37.167Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SwordOfTheSea"
+    }
+  },
+  "entitlementName": "fe5cf52355394f2791f51f4433cd2731",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "75dd27d26eee4dfbb4988d2600e8cb5f",
+      "appId": "fb83e50461194bab95dce918c7232315",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Giant Squid, Inc.",
+  "developerId": "o-mmexqf66fh7qv44j9jbent8f34uw7a",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
