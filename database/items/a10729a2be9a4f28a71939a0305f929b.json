@@ -1,0 +1,61 @@
+{
+  "id": "a10729a2be9a4f28a71939a0305f929b",
+  "title": "Mixtape",
+  "description": "Mixtape",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0db67d9d05ad429cb85ff1a445d073bd/mixtape-1rgbq.jpg",
+      "md5": "c8c49808a5171187bc07d4833145657f",
+      "width": 2560,
+      "height": 1440,
+      "size": 334126,
+      "uploadedDate": "2025-05-20T13:41:56.552Z",
+      "alt": "Mixtape Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0db67d9d05ad429cb85ff1a445d073bd/mixtape-abw4x.jpg",
+      "md5": "2bdea591a36a14f14a4431a9ba5da1ee",
+      "width": 1200,
+      "height": 1600,
+      "size": 179792,
+      "uploadedDate": "2025-05-20T13:41:53.381Z",
+      "alt": "Download Mixtape Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "39808df6405d4088b530d024a89aee55",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-26T18:41:19.743Z",
+  "lastModifiedDate": "2025-05-26T18:41:19.743Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Mixtape"
+    }
+  },
+  "entitlementName": "a10729a2be9a4f28a71939a0305f929b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1166833803814d8d89d0eed09d75de87",
+      "appId": "a30d1e849081480896db790fb07d71f6",
+      "platform": []
+    }
+  ],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
