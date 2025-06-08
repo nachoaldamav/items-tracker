@@ -1,7 +1,8 @@
 {
-  "id": "dfddb0721723421987ad16d6eda6091d",
-  "title": "BittersweetGeneralAudience",
-  "description": "BittersweetGeneralAudience",
+  "id": "d0ce7517c35f4f579aabbe2e499ba7a3",
+  "title": "Gold audience_redeemable",
+  "description": "Gold audience_redeemable",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -10,26 +11,25 @@
       "path": "public"
     }
   ],
-  "namespace": "3a1067df83654812b976101174e1904f",
+  "namespace": "525cf92ef772437e98805aeb6e234b2a",
   "status": "ACTIVE",
-  "creationDate": "2021-04-27T23:08:48.270Z",
-  "lastModifiedDate": "2025-05-20T11:25:52.083Z",
+  "creationDate": "2025-06-02T19:05:47.380Z",
+  "lastModifiedDate": "2025-06-08T18:43:16.467Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
     }
   },
-  "entitlementName": "dfddb0721723421987ad16d6eda6091d",
+  "entitlementName": "d0ce7517c35f4f579aabbe2e499ba7a3",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
-  "developer": "Mechanistry",
-  "developerId": "o-vcy3rzdtqnpfgccjv53jv8zj2c5xb5",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
   "eulaIds": [
     "egstore"
   ],
-  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
   "applicationId": "",
