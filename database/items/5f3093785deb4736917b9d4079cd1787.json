@@ -1,0 +1,61 @@
+{
+  "id": "5f3093785deb4736917b9d4079cd1787",
+  "title": "Herdling",
+  "description": "Herdling",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f72bb718d59f46639708bc8269aa2efb/herdling-1t9sz.jpg",
+      "md5": "4d089b1f9132dbf62a0e19f760b633ca",
+      "width": 2560,
+      "height": 1440,
+      "size": 824092,
+      "uploadedDate": "2025-05-12T14:43:28.833Z",
+      "alt": "Herdling Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f72bb718d59f46639708bc8269aa2efb/herdling-16zxu.jpg",
+      "md5": "f3f6a7a26a3a28fbf35039b8ea1271b1",
+      "width": 1200,
+      "height": 1600,
+      "size": 457229,
+      "uploadedDate": "2025-05-12T14:43:27.089Z",
+      "alt": "Download Herdling Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "25b0f8266e204e149dee1bcc225eeb36",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-04T14:30:29.405Z",
+  "lastModifiedDate": "2025-06-04T14:30:29.405Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Herdling"
+    }
+  },
+  "entitlementName": "5f3093785deb4736917b9d4079cd1787",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1ad4d34259e94d58ad4b1f423d31e9e7",
+      "appId": "13f61c4d8e1842d7a8a6c915a84c7fed",
+      "platform": []
+    }
+  ],
+  "developer": "Panic",
+  "developerId": "o-a62axwpwx275msq4yzhdhk9acaf8x3",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
