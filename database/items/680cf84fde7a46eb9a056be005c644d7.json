@@ -1,0 +1,61 @@
+{
+  "id": "680cf84fde7a46eb9a056be005c644d7",
+  "title": "Morsels",
+  "description": "Morsels",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/9bc6b69519ab49f29c5b15a62cb275d6/morsels-p50xt.jpg",
+      "md5": "9f82103938ee1f939bb260ed0130b887",
+      "width": 2560,
+      "height": 1440,
+      "size": 1330717,
+      "uploadedDate": "2025-05-19T14:58:54.151Z",
+      "alt": "Morsels Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/9bc6b69519ab49f29c5b15a62cb275d6/morsels-1pc3v.jpg",
+      "md5": "a4c52d5f7d3b8d06632b76adc776aa59",
+      "width": 1200,
+      "height": 1600,
+      "size": 697249,
+      "uploadedDate": "2025-05-19T14:58:57.395Z",
+      "alt": "Download Morsels Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5fe7cdfd995146c9a38bd05f632fb214",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-27T13:02:04.479Z",
+  "lastModifiedDate": "2025-05-27T13:02:04.479Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Morsels"
+    }
+  },
+  "entitlementName": "680cf84fde7a46eb9a056be005c644d7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "34ddbfadbf68417ebc3853bc91f2ac6f",
+      "appId": "a0c36cece7344a0296e834acda4d4ea0",
+      "platform": []
+    }
+  ],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
