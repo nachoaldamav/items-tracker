@@ -4,22 +4,13 @@
   "description": "Magic The Gathering Arena",
   "keyImages": [
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/item/5fdcc0dc67294af3be740f362bd976fd/EGS_MagicTheGatheringArena_WizardsoftheCoast_S1_2560x1440-732016dd8cd5decaccfa87a71596c1ac",
-      "md5": "732016dd8cd5decaccfa87a71596c1ac",
-      "width": 2560,
-      "height": 1440,
-      "size": 1011251,
-      "uploadedDate": "2025-04-11T09:54:07.874Z"
-    },
-    {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/5fdcc0dc67294af3be740f362bd976fd/EGS_MagicTheGatheringArena_WizardsoftheCoast_S2_1200x1600-7792ae1a1acbd37fd47a72ee570d3e70",
-      "md5": "7792ae1a1acbd37fd47a72ee570d3e70",
+      "url": "https://cdn1.epicgames.com/item/5fdcc0dc67294af3be740f362bd976fd/EGS_MagicTheGatheringArena_WizardsoftheCoast_S2_1200x1600-eafef8f5f6b5e645510c9afc37d1ea93",
+      "md5": "eafef8f5f6b5e645510c9afc37d1ea93",
       "width": 1200,
       "height": 1600,
-      "size": 973636,
-      "uploadedDate": "2025-04-11T09:54:11.841Z"
+      "size": 898879,
+      "uploadedDate": "2025-06-10T15:12:22.001Z"
     }
   ],
   "categories": [
@@ -36,7 +27,7 @@
   "namespace": "5fdcc0dc67294af3be740f362bd976fd",
   "status": "ACTIVE",
   "creationDate": "2019-05-20T18:23:14.550Z",
-  "lastModifiedDate": "2025-04-11T09:55:00.958Z",
+  "lastModifiedDate": "2025-06-10T15:19:28.593Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -79,7 +70,6 @@
   "eulaIds": [
     "egstore"
   ],
-  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
   "applicationId": "",
