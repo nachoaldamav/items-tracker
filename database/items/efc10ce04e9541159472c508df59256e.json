@@ -1,0 +1,67 @@
+{
+  "id": "efc10ce04e9541159472c508df59256e",
+  "title": "NebulaStrike",
+  "description": "Nebula Strike is a space-themed 2.5D top-down twin-stick shooter game. This is the first game I independently developed, and I hope you have fun playing it. If you have any comments or suggestions, please leave them in the comment section. Thank you again for playing my game.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/7e564640e8444f36bfcddbd792b73c30/nebulastrike-1iziz.png",
+      "md5": "18acc2ed3a8c9b33a34b65137cc1e32d",
+      "width": 2560,
+      "height": 1440,
+      "size": 3362427,
+      "uploadedDate": "2025-06-09T12:07:33.056Z",
+      "alt": "NebulaStrike Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/7e564640e8444f36bfcddbd792b73c30/nebulastrike-1gt4m.png",
+      "md5": "53c89b2a4a03d4dd6f2825543e350b6d",
+      "width": 1200,
+      "height": 1600,
+      "size": 1688698,
+      "uploadedDate": "2025-06-09T12:07:36.256Z",
+      "alt": "Download NebulaStrike Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ab0ec9e284e54f0ba4d2fde60a1243af",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-09T23:14:37.236Z",
+  "lastModifiedDate": "2025-06-09T23:14:37.236Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/R1/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NebulaStrikeHS77m"
+    }
+  },
+  "entitlementName": "efc10ce04e9541159472c508df59256e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "efdd03c69e224a8480ce7db2a4e82a98",
+      "appId": "d80b93fa662a4c728b0284e0f75cbec0",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "YangYuHui",
+  "developerId": "o-cvp9knmy2yrqxgx3jtnltt3hqan45g",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
