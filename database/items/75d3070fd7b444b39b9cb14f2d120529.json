@@ -2,6 +2,7 @@
   "id": "75d3070fd7b444b39b9cb14f2d120529",
   "title": "PrePurchaseDevGeneralAudience",
   "description": "PrePurchaseDevGeneralAudience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -12,14 +13,19 @@
   ],
   "namespace": "9aef8a4b03674ce4b61922d7d13995af",
   "status": "ACTIVE",
-  "creationDate": "2025-03-28T17:00:13.388Z",
-  "lastModifiedDate": "2025-03-28T17:00:14.382Z",
+  "creationDate": "2025-03-19T14:12:47.610Z",
+  "lastModifiedDate": "2025-06-10T17:17:28.848Z",
+  "customAttributes": {},
   "entitlementName": "75d3070fd7b444b39b9cb14f2d120529",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "IO Interactive Partners A/S",
   "developerId": "o-7ztq52w28wn8clbf4xfuvtbph3p4q5",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
