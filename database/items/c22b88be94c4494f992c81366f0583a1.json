@@ -35,23 +35,23 @@
   "namespace": "321685d747d24252b113786aecadd53e",
   "status": "ACTIVE",
   "creationDate": "2025-01-24T01:17:23.019Z",
-  "lastModifiedDate": "2025-05-15T15:00:05.965Z",
+  "lastModifiedDate": "2025-06-11T21:48:13.616Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{UserDir}/StellarBlade/{EpicID}/"
+      "value": "{AppData}/SB/Saved/SaveGames/{EpicID}/"
     },
     "CloudIncludeList": {
       "type": "STRING",
       "value": "*.sav"
     },
-    "OwnershipToken": {
-      "type": "STRING",
-      "value": "TRUE"
-    },
     "MaxSizeMB": {
       "type": "STRING",
       "value": "300"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "TRUE"
     },
     "FolderName": {
       "type": "STRING",
