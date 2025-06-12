@@ -4,40 +4,24 @@
   "description": "Oxygen Not Included",
   "keyImages": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/lotus/item/Game-Icon-400x400-0ca35ebc6f717bb02db4a46d0b596dd3.png",
-      "md5": "0ca35ebc6f717bb02db4a46d0b596dd3",
-      "width": 400,
-      "height": 400,
-      "size": 66351,
-      "uploadedDate": "2019-02-18T14:28:19.114Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/lotus/item/OxygenNotIncluded_PrimaryPromo-1281x720-661875a06ca152a669ca2056080da18c.jpg",
-      "md5": "661875a06ca152a669ca2056080da18c",
-      "width": 1281,
-      "height": 720,
-      "size": 291290,
-      "uploadedDate": "2019-02-19T15:27:40.559Z"
+      "url": "https://cdn1.epicgames.com/spt-assets/prod-lotus/oxygen-not-included-ahepn.png",
+      "md5": "be0b27bf6caceb292c1fcfb931839dbb",
+      "width": 2560,
+      "height": 1440,
+      "size": 3029631,
+      "uploadedDate": "2025-06-11T20:25:14.473Z",
+      "alt": "Oxygen Not Included Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/lotus/item/OxygenNotIncluded_PlatformAssets_PromoPortrait-1280x1420-038f7f5ee3797c6565085375318b9925-1280x1420-038f7f5ee3797c6565085375318b9925.jpg",
-      "md5": "038f7f5ee3797c6565085375318b9925",
-      "width": 1280,
-      "height": 1420,
-      "size": 262245,
-      "uploadedDate": "2019-11-20T21:17:18.515Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/lotus/item/Game Logo - Oxygen Not Included [Large]-3951x1922-954a8ccacf405ed97c7dd05c55605c19-3951x1922-954a8ccacf405ed97c7dd05c55605c19.png",
-      "md5": "954a8ccacf405ed97c7dd05c55605c19",
-      "width": 3951,
-      "height": 1922,
-      "size": 84315,
-      "uploadedDate": "2019-11-21T16:17:22.066Z"
+      "url": "https://cdn1.epicgames.com/spt-assets/prod-lotus/oxygen-not-included-1j8ak.png",
+      "md5": "e09ddcf1cb67ff1bba22b00464f416bb",
+      "width": 1200,
+      "height": 1600,
+      "size": 1843530,
+      "uploadedDate": "2025-06-11T20:25:22.034Z",
+      "alt": "Download Oxygen Not Included Offer"
     }
   ],
   "categories": [
@@ -50,8 +34,8 @@
   ],
   "namespace": "lotus",
   "status": "ACTIVE",
-  "creationDate": "2024-07-23T23:17:22.932Z",
-  "lastModifiedDate": "2024-11-27T23:00:19.840Z",
+  "creationDate": "2019-02-01T00:38:07.001Z",
+  "lastModifiedDate": "2025-06-12T16:46:31.914Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -91,11 +75,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "be0f21214a2940d791cd9675607c20db",
+      "id": "02983463c0234506b4790dfb144255ae",
       "appId": "Lotus",
       "platform": [
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ]
     }
   ],
