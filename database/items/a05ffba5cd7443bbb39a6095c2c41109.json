@@ -34,9 +34,25 @@
   ],
   "namespace": "04304ec782134f1d9265230783e65d3b",
   "status": "ACTIVE",
-  "creationDate": "2025-05-12T12:11:16.829Z",
-  "lastModifiedDate": "2025-05-12T12:11:16.829Z",
+  "creationDate": "2025-04-23T15:31:52.236Z",
+  "lastModifiedDate": "2025-06-12T12:16:01.806Z",
   "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Brave Escape/saves/epic-{EpicId}/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Brave Escape/saves/epic-{EpicId}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.save"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "BraveEscape"
