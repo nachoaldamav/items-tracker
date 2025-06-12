@@ -1,7 +1,7 @@
 {
-  "id": "899f45b4d9784464b7d81a3b35c29a4d",
-  "title": "DC Heroes United_Android_BaseGameAudience",
-  "description": "DC Heroes United_Android_BaseGameAudience",
+  "id": "08c1f0a9253e4a6f8652a2408c0284eb",
+  "title": "Super Power Batman Bundle_ConsumableAudience",
+  "description": "Super Power Batman Bundle_ConsumableAudience",
   "categories": [
     {
       "path": "audience"
@@ -12,13 +12,14 @@
   ],
   "namespace": "5118b091950743c2bf33185cbd9cd35f",
   "status": "ACTIVE",
-  "creationDate": "2025-02-25T02:18:57.208Z",
-  "lastModifiedDate": "2025-06-12T15:00:13.375Z",
-  "entitlementName": "899f45b4d9784464b7d81a3b35c29a4d",
+  "creationDate": "2025-06-12T15:00:13.398Z",
+  "lastModifiedDate": "2025-06-12T15:00:13.398Z",
+  "entitlementName": "08c1f0a9253e4a6f8652a2408c0284eb",
   "entitlementType": "AUDIENCE",
-  "itemType": "DURABLE",
+  "itemType": "CONSUMABLE",
   "developer": "Genvid Entertainment",
   "developerId": "o-ls5bx9ykwelfhaelsd9ubx8dmqs859",
+  "useCount": 1,
   "endOfSupport": false,
   "requiresSecureAccount": false,
   "unsearchable": false
