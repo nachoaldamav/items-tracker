@@ -1,0 +1,71 @@
+{
+  "id": "7cc0c365ded945a68b2dceda50b429c6",
+  "title": "Diorama Builder",
+  "description": "Diorama Builder",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/185a8e8f1d9a46a693d40a34c29a9d79/diorama-builder-1u3o3.jpg",
+      "md5": "99a389f39e61c03808a67a035b26b589",
+      "width": 2560,
+      "height": 1440,
+      "size": 2071312,
+      "uploadedDate": "2025-01-15T23:16:25.599Z",
+      "alt": "Diorama Builder Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/185a8e8f1d9a46a693d40a34c29a9d79/diorama-builder-1d4ss.jpg",
+      "md5": "46e59332ee8a9c351dbf80a0bb617ce7",
+      "width": 1200,
+      "height": 1600,
+      "size": 1320492,
+      "uploadedDate": "2025-01-15T23:16:25.363Z",
+      "alt": "Download Diorama Builder Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "707ae8570efa44aa9071d48251784e4c",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-12T13:14:31.767Z",
+  "lastModifiedDate": "2025-06-12T13:14:32.613Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/com.VirtualArtsStudio.DioramaBuilder/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Virtual Arts Studio/Diorama Builder/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DioramaBuilder"
+    }
+  },
+  "entitlementName": "7cc0c365ded945a68b2dceda50b429c6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ea679195484c4402ad21e550b63246a6",
+      "appId": "9aa45bae1d574d60a33c333dfcaff306",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Virtual Arts Studio",
+  "developerId": "o-9tp69lnaakj9bsxrruahwtpen535zl",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
