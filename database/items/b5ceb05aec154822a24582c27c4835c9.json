@@ -1,0 +1,76 @@
+{
+  "id": "b5ceb05aec154822a24582c27c4835c9",
+  "title": "The Operator",
+  "description": "The Operator",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/65963abab56541eda0887402d505167e/the-operator-dgz2h.png",
+      "md5": "59e87de379bc8d04bb78f4752d6e1c5a",
+      "width": 2560,
+      "height": 1440,
+      "size": 2380354,
+      "uploadedDate": "2025-06-04T14:34:10.631Z",
+      "alt": "The Operator Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/65963abab56541eda0887402d505167e/the-operator-dme1v.png",
+      "md5": "89ccf6d2ef7dcc3ead418f26749a5f6f",
+      "width": 1200,
+      "height": 1600,
+      "size": 1171950,
+      "uploadedDate": "2025-06-04T14:39:11.939Z",
+      "alt": "Download The Operator Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2485eccb13d14250a0a5649e8ed63a3b",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-12T07:13:50.169Z",
+  "lastModifiedDate": "2025-06-12T07:13:50.169Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/com.Bureau-81.OPERATOR/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Bureau 81/OPERATOR/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "settings_locall.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheOperatorMMXbR"
+    }
+  },
+  "entitlementName": "b5ceb05aec154822a24582c27c4835c9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "02aef732886c4fb19b2a4bc848a59b72",
+      "appId": "5919f2a03ba34e36b8e7de60acc26736",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Bureau 81",
+  "developerId": "o-hpn3hhrtaucjv5c67kvxa9sumrhskt",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
