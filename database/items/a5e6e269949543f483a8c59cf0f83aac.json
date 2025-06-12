@@ -1,0 +1,75 @@
+{
+  "id": "a5e6e269949543f483a8c59cf0f83aac",
+  "title": "Ataraxie",
+  "description": "ATARAXIE, in the pure style of retro games, ties itself with the SNES Gaming era and embrace difficulty, for it wishes to give experienced gamers/players the test they are really looking for!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/0f8767f6339745328a1e8536004a704d/ataraxie-4xsn5.png",
+      "md5": "78d73131a65ea15e2ca1cfb11e9751cd",
+      "width": 2560,
+      "height": 1440,
+      "size": 1997033,
+      "uploadedDate": "2025-05-25T20:17:48.225Z",
+      "alt": "Ataraxie Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/0f8767f6339745328a1e8536004a704d/ataraxie-b1aed.png",
+      "md5": "36bdfc9cb328dde2a0627b0d3f092815",
+      "width": 1200,
+      "height": 1600,
+      "size": 903732,
+      "uploadedDate": "2025-05-25T20:17:47.522Z",
+      "alt": "Download Ataraxie Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a923b90f01e64983b406ee64b5f05cda",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-12T08:14:00.935Z",
+  "lastModifiedDate": "2025-06-12T08:14:00.935Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Gravenoire Studio/Ataraxie/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "save*.dat, controls.json, options.dat, screen*.png"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Ataraxie"
+    }
+  },
+  "entitlementName": "a5e6e269949543f483a8c59cf0f83aac",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f942fa30ab1345ebbcd33bfbdb888c3d",
+      "appId": "44b888b131674ef6a6b5c23ee7852a96",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Studio Gravenoire",
+  "developerId": "o-jp4yfa4lg5ner8fz3fhstrag4z2xr8",
+  "endOfSupport": false,
+  "applicationId": "fghi4567VFeNaO27YFgXnpGyh5j8b4rw",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
