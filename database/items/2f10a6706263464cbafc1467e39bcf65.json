@@ -1,0 +1,63 @@
+{
+  "id": "2f10a6706263464cbafc1467e39bcf65",
+  "title": "Main Testing",
+  "description": "Main Testing",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/72c100be707d4b619fdccc66085a9fa0/fbc-firebreak-17rhv.jpg",
+      "md5": "760452e87aa3bc24c1cedfe5c855176c",
+      "width": 2560,
+      "height": 1440,
+      "size": 2957438,
+      "uploadedDate": "2025-05-27T12:43:15.342Z",
+      "alt": "FBC: Firebreak Main Testing Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/72c100be707d4b619fdccc66085a9fa0/fbc-firebreak-1a8v2.png",
+      "md5": "5808f359453eeb98000b12624144daa4",
+      "width": 1200,
+      "height": 1600,
+      "size": 3068246,
+      "uploadedDate": "2025-05-27T12:43:14.813Z",
+      "alt": "Download FBC: Firebreak Main Testing Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9aad94b5754846fbb06ba6818201fab1",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-13T05:47:29.621Z",
+  "lastModifiedDate": "2025-06-13T05:47:29.621Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DemoFBCFirebreaka58a6"
+    }
+  },
+  "entitlementName": "2f10a6706263464cbafc1467e39bcf65",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ea466370-ccaa-4adc-9979-4a3a7b1b87e9",
+      "appId": "a5b4dd7aea74426aa951fb9ffea7b012",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Remedy Entertainment",
+  "developerId": "o-sdmmvl8pftrkwfy86bjp286kuwhnsq",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

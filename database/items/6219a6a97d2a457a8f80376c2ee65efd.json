@@ -35,7 +35,7 @@
   "namespace": "9aad94b5754846fbb06ba6818201fab1",
   "status": "ACTIVE",
   "creationDate": "2024-08-06T10:59:37.834Z",
-  "lastModifiedDate": "2025-03-21T19:30:18.276Z",
+  "lastModifiedDate": "2025-06-13T05:47:30.146Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "674344313dfa4482aaede6e9912aeed4",
       "appId": "89e1ce9bd6ea41edb457f97f73f54f3e",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Remedy Entertainment",
