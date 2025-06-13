@@ -1,0 +1,77 @@
+{
+  "id": "a027a0b530794fd68180515ae22097ca",
+  "title": "Hordes of Fate : A Hand of Fate Adventure",
+  "description": "Hordes of Fate : A Hand of Fate Adventure",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e7df7996f6834ae4bd800b689f0d0150/hordes-of-fate--a-hand-of-fate-adventure-1ccc0.jpg",
+      "md5": "09f19101ccb196737ae086ce5b7c27ae",
+      "width": 2560,
+      "height": 1440,
+      "size": 2614836,
+      "uploadedDate": "2025-05-24T06:09:09.296Z",
+      "alt": "Hordes of Fate : A Hand of Fate Adventure Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e7df7996f6834ae4bd800b689f0d0150/hordes-of-fate--a-hand-of-fate-adventure-kyb0a.png",
+      "md5": "78e4fd8b0f5ba5bdbc8d2ae0e85e637e",
+      "width": 1200,
+      "height": 1600,
+      "size": 2808969,
+      "uploadedDate": "2025-05-24T06:09:18.656Z",
+      "alt": "Download Hordes of Fate : A Hand of Fate Adventure Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d9a6be1383f1430a84c51a3cd0345255",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-13T01:11:07.518Z",
+  "lastModifiedDate": "2025-06-13T01:11:07.518Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/HordesOfFate/Saved/SaveGames/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/HordesOfFate/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Slot*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HordesofFateAHandofF4e038"
+    }
+  },
+  "entitlementName": "a027a0b530794fd68180515ae22097ca",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ca9cab36f8b74d388428a19e92224596",
+      "appId": "f8be9d3d87894b44972b414dc1f0a0a1",
+      "platform": []
+    }
+  ],
+  "developer": "Defiant Development PTY LTD",
+  "developerId": "o-263x4kmewy3sltg46p3ccce2aqmypf",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
