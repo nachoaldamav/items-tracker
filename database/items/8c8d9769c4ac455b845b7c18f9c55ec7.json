@@ -1,0 +1,67 @@
+{
+  "id": "8c8d9769c4ac455b845b7c18f9c55ec7",
+  "title": "Chrono",
+  "description": "Chrono",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/653dfcd8a2cd4cdebce77c8247b7dbc4/chrono-11f5b.png",
+      "md5": "7cd2093edc25cd538fb43f1129888532",
+      "width": 2560,
+      "height": 1440,
+      "size": 4164136,
+      "uploadedDate": "2025-06-05T21:30:18.649Z",
+      "alt": "Chrono Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/653dfcd8a2cd4cdebce77c8247b7dbc4/chrono-11dz4.png",
+      "md5": "914b631186b8564cc0a8dc02f2baee13",
+      "width": 1200,
+      "height": 1600,
+      "size": 2801324,
+      "uploadedDate": "2025-06-05T21:30:17.461Z",
+      "alt": "Download Chrono Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5a4fc84405534cf499aeff84a59a881f",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-13T09:35:55.559Z",
+  "lastModifiedDate": "2025-06-13T09:35:55.559Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Chrono/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Chrono"
+    }
+  },
+  "entitlementName": "8c8d9769c4ac455b845b7c18f9c55ec7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "357a826fb90c46f698921e2e9c124406",
+      "appId": "74a8c1770aae4e8dbfa0570a777bc5fd",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "David Simoes Dev",
+  "developerId": "o-5b5cdrrt5gt7a4jtblc5mv7wxzh5fc",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
