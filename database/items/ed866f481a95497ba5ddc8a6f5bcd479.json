@@ -1,0 +1,63 @@
+{
+  "id": "ed866f481a95497ba5ddc8a6f5bcd479",
+  "title": "Dinosaur World",
+  "description": "Dinosaur World",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/beefd7c8d1a847b08cad07408098b522/dinosaurworld-1n0u0.png",
+      "md5": "d0af95aca6553460d1b19fe31f12e8f6",
+      "width": 2560,
+      "height": 1440,
+      "size": 4048652,
+      "uploadedDate": "2025-06-07T13:29:05.727Z",
+      "alt": "DinosaurWorld Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/beefd7c8d1a847b08cad07408098b522/dinosaurworld-1p282.png",
+      "md5": "e19cec393fdf48b0567984c31d0088ee",
+      "width": 1200,
+      "height": 1600,
+      "size": 2797135,
+      "uploadedDate": "2025-06-07T13:32:41.141Z",
+      "alt": "Download DinosaurWorld Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6adb5b729f3f4299a536fda58f6c0c7e",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-14T01:57:01.241Z",
+  "lastModifiedDate": "2025-06-14T01:57:01.241Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DinosaurWorldhG03t"
+    }
+  },
+  "entitlementName": "ed866f481a95497ba5ddc8a6f5bcd479",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ecd6772094944cf9af6562ff10f05662",
+      "appId": "a897e03184aa4435abf7fbe7363d3712",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SnowBabyGames",
+  "developerId": "o-2pzfwf8l7zk3bgha48huvuub3ag8ue",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
