@@ -35,8 +35,16 @@
   "namespace": "a02304688fb3406192a3491b4281bee7",
   "status": "ACTIVE",
   "creationDate": "2023-09-09T00:36:17.412Z",
-  "lastModifiedDate": "2025-04-01T14:41:00.469Z",
+  "lastModifiedDate": "2025-06-15T22:14:56.937Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/WayForward Technologies/River City Girls/_savedata/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "RiverCityGirls"
@@ -47,20 +55,18 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "1fb1d119bccc4368ab02619ac0eadf61",
+      "id": "00f6ea0be5524dbd8e0fc9ee42348f99",
       "appId": "588cec64448242d8b61188205d97f887",
       "platform": [
-        "Windows",
-        "Win32"
+        "Win32",
+        "Windows"
       ]
     }
   ],
   "developer": "WayForward",
   "developerId": "o-t9vdtu8kntlubnxnh64w4tnrfzatkx",
-  "eulaIds": [],
   "endOfSupport": false,
-  "ageGatings": {},
-  "applicationId": "fghi45678m9bHbPqdEKRJ3wud3ndo9NZ",
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
