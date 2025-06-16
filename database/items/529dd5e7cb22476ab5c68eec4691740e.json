@@ -1,0 +1,64 @@
+{
+  "id": "529dd5e7cb22476ab5c68eec4691740e",
+  "title": "Eleven",
+  "description": "Eleven",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/3ac65ef5cdf44b8084fcac818002635f/eleven-18hv6.png",
+      "md5": "28ad1e6896682508ca1f5398d8fd943b",
+      "width": 2560,
+      "height": 1440,
+      "size": 3911385,
+      "uploadedDate": "2025-06-09T01:08:29.539Z",
+      "alt": "Eleven Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/3ac65ef5cdf44b8084fcac818002635f/eleven-1p89m.png",
+      "md5": "bedae1c172262c86a3ee7e0548674a26",
+      "width": 1200,
+      "height": 1600,
+      "size": 2441675,
+      "uploadedDate": "2025-06-09T01:06:37.376Z",
+      "alt": "Download Eleven Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cd685771e5974812a9161c9619c8912e",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-16T14:10:38.130Z",
+  "lastModifiedDate": "2025-06-16T14:10:38.769Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ElevenhG1vL"
+    }
+  },
+  "entitlementName": "529dd5e7cb22476ab5c68eec4691740e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "07939f9ec5564701ac6b278b5a81440f",
+      "appId": "afcf887ce05946a09cffe63cf71ec297",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "PlayIEC",
+  "developerId": "o-sktrnm8cdpgu3tdc4mfmu9b74m4pth",
+  "endOfSupport": false,
+  "applicationId": "fghi45676sozMLFew47u13CKfVZgj0ns",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
