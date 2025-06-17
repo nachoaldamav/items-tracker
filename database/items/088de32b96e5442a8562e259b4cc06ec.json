@@ -1,0 +1,63 @@
+{
+  "id": "088de32b96e5442a8562e259b4cc06ec",
+  "title": "About a Boy",
+  "description": "About a Boy",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f3e0a5491a3b4aa7835fb5b8939ec03f/about-a-boy-16k54.jpg",
+      "md5": "20fc034096fac97809e6d3b8487121ef",
+      "width": 2560,
+      "height": 1440,
+      "size": 1521045,
+      "uploadedDate": "2025-05-22T16:44:46.378Z",
+      "alt": "About a Boy Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f3e0a5491a3b4aa7835fb5b8939ec03f/about-a-boy-1su75.png",
+      "md5": "4a20cf7c152825836ac583aa064b8304",
+      "width": 1200,
+      "height": 1600,
+      "size": 2952991,
+      "uploadedDate": "2025-05-22T16:47:20.548Z",
+      "alt": "Download About a Boy Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "71881b503b8942a3a1f3cdfb992cc0e7",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-16T13:48:21.105Z",
+  "lastModifiedDate": "2025-06-16T13:48:21.105Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "AboutaBoygl8EH"
+    }
+  },
+  "entitlementName": "088de32b96e5442a8562e259b4cc06ec",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6c778d9416a340d1881e449ce04a951f",
+      "appId": "7bf431e10e864d2cba3d66dd8140e053",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Return 0 Studio",
+  "developerId": "o-5zxuae9gnxuj994l933lgvcftqkfzf",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
