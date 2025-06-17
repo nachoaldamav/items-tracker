@@ -2,6 +2,28 @@
   "id": "e800532cb08344c2a9af9a9c2f794d72",
   "title": "OatmealStaging",
   "description": "OatmealStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ab65a6a4dd674fa097ad463d7e1f9d85/ghostbusters-spirits-unleashed-k2qfv.jpg",
+      "md5": "4d7fda10dc080c657319ebcbce2b1c23",
+      "width": 2560,
+      "height": 1440,
+      "size": 506948,
+      "uploadedDate": "2025-05-21T16:35:32.320Z",
+      "alt": "Ghostbusters: Spirits Unleashed OatmealStaging Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ab65a6a4dd674fa097ad463d7e1f9d85/ghostbusters-spirits-unleashed-bc875.jpg",
+      "md5": "85e33a65afb6496f8ee25217fc0a83e7",
+      "width": 1200,
+      "height": 1600,
+      "size": 470753,
+      "uploadedDate": "2025-05-21T16:35:32.767Z",
+      "alt": "Download Ghostbusters: Spirits Unleashed OatmealStaging Offer"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -15,8 +37,8 @@
   ],
   "namespace": "598bbf91c75b4ac9a676d82719acdbb1",
   "status": "ACTIVE",
-  "creationDate": "2020-09-11T20:58:07.033Z",
-  "lastModifiedDate": "2024-01-17T23:57:26.392Z",
+  "creationDate": "2024-10-07T07:31:02.450Z",
+  "lastModifiedDate": "2025-06-17T15:47:43.138Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -32,12 +54,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "bc9fa022cfd74a669918b5273b21a86f",
+      "id": "d69244182d984d63927619ff22ba2e2f",
       "appId": "a5fbe7abec0646a08c1df49905e50aee",
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2020-09-11T00:00:00.000Z"
+      ]
     }
   ],
   "developer": "IllFonic",
@@ -47,6 +68,7 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
