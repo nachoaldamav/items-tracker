@@ -36,7 +36,7 @@
   "namespace": "92053006068e4aa9b1ad413f72090f5e",
   "status": "ACTIVE",
   "creationDate": "2019-06-14T15:50:45.335Z",
-  "lastModifiedDate": "2020-09-25T11:00:06.748Z",
+  "lastModifiedDate": "2025-06-17T21:45:50.239Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -53,10 +53,6 @@
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{InstallDir}/save_game/"
-    },
-    "UseAccessControl": {
-      "type": "STRING",
-      "value": "false"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -96,5 +92,6 @@
   "endOfSupport": false,
   "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
