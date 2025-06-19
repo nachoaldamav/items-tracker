@@ -1,0 +1,76 @@
+{
+  "id": "ae5ada9e23ed4a649c04d11c70458572",
+  "title": "Battle Train",
+  "description": "Battle Train",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f78545ff4e594867898991826deb560b/battle-train-yopid.jpg",
+      "md5": "8b05bae75bc77f927a1d08c4834f9bcd",
+      "width": 2560,
+      "height": 1440,
+      "size": 675351,
+      "uploadedDate": "2025-04-14T17:21:31.394Z",
+      "alt": "Battle Train Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f78545ff4e594867898991826deb560b/battle-train-16y2d.jpg",
+      "md5": "f89eef8f6eab41ce588cce57a2bd2438",
+      "width": 1200,
+      "height": 1600,
+      "size": 381995,
+      "uploadedDate": "2025-04-14T17:21:35.204Z",
+      "alt": "Download Battle Train Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d05a552432b449a386c1b4eea9cbe41c",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-18T13:08:38.363Z",
+  "lastModifiedDate": "2025-06-18T13:08:38.363Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/BattleTrain/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BattleTrainPGYvb"
+    }
+  },
+  "entitlementName": "ae5ada9e23ed4a649c04d11c70458572",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cdb5565a9c4c48b3917f9edc0ebb7bc3",
+      "appId": "7b3fb828c2424a9c832a4dde3bfe0719",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Terrible Posture Games, Inc.",
+  "developerId": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+  "endOfSupport": false,
+  "applicationId": "fghi4567uKR5B1zMvKHqx8chRxtLd4Xy",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
