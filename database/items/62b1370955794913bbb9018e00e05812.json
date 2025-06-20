@@ -34,9 +34,21 @@
   ],
   "namespace": "ebda47c0b4204a448e810558d15d2d26",
   "status": "ACTIVE",
-  "creationDate": "2025-04-23T16:00:10.579Z",
-  "lastModifiedDate": "2025-04-23T16:00:10.579Z",
+  "creationDate": "2024-10-01T07:12:43.315Z",
+  "lastModifiedDate": "2025-06-20T21:12:28.673Z",
   "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/com.GameSmithing.SoulstoneSurvivors/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Game Smithing/Soulstone Survivors/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav, *.savgs, *.savbkp"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "SoulstoneSurvivors"
@@ -49,13 +61,17 @@
     {
       "id": "1a61407a00da40b197e4a11394e53809",
       "appId": "a7d7b86a17f74d759e48cd39e1d5efe1",
-      "platform": []
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Game Smithing Limited",
   "developerId": "o-xlffcvrja8qbepc64uxwaq28e9qcb3",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567UdOU8FhbfwZvh7ukFrObgqWc",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
