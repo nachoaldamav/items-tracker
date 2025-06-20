@@ -42,7 +42,7 @@
   "namespace": "columbine",
   "status": "ACTIVE",
   "creationDate": "2019-04-02T15:52:54.246Z",
-  "lastModifiedDate": "2019-12-12T13:04:11.792Z",
+  "lastModifiedDate": "2025-06-19T23:48:10.685Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -58,7 +58,7 @@
     },
     "UseAccessControl": {
       "type": "STRING",
-      "value": "true"
+      "value": "false"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -99,6 +99,8 @@
     "(egstore && quantic)"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
