@@ -36,7 +36,7 @@
   "namespace": "4c00c7506c4b4fa695f749bd6bb07ff6",
   "status": "ACTIVE",
   "creationDate": "2020-02-19T13:38:23.102Z",
-  "lastModifiedDate": "2023-02-09T22:33:23.929Z",
+  "lastModifiedDate": "2025-06-20T20:01:08.608Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -53,10 +53,6 @@
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{InstallDir}/"
-    },
-    "UseAccessControl": {
-      "type": "STRING",
-      "value": "false"
     },
     "RequirementsJson": {
       "type": "STRING",
