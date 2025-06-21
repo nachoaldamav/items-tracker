@@ -42,7 +42,7 @@
   "namespace": "columbine",
   "status": "ACTIVE",
   "creationDate": "2019-03-18T18:48:29.463Z",
-  "lastModifiedDate": "2019-12-13T16:15:38.922Z",
+  "lastModifiedDate": "2025-06-20T16:44:38.414Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -58,7 +58,7 @@
     },
     "UseAccessControl": {
       "type": "STRING",
-      "value": "true"
+      "value": "false"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -99,5 +99,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
