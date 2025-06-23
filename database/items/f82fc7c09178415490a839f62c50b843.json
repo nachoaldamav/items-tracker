@@ -42,7 +42,7 @@
   "namespace": "lavender",
   "status": "ACTIVE",
   "creationDate": "2019-03-29T21:25:00.833Z",
-  "lastModifiedDate": "2019-10-16T14:25:56.303Z",
+  "lastModifiedDate": "2025-06-23T19:16:49.121Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -58,7 +58,7 @@
     },
     "UseAccessControl": {
       "type": "STRING",
-      "value": "true"
+      "value": "false"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -95,5 +95,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
