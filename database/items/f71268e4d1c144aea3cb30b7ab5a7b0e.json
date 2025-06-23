@@ -36,19 +36,19 @@
   "namespace": "493e9ad801e8487497fe7840cb8404bb",
   "status": "ACTIVE",
   "creationDate": "2019-10-03T20:05:30.265Z",
-  "lastModifiedDate": "2024-04-18T16:20:55.391Z",
+  "lastModifiedDate": "2025-06-23T15:46:31.186Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
     },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "493e9ad801e8487497fe7840cb8404bb"
-    },
     "CloudSaveFolder_MAC": {
       "type": "STRING",
       "value": "{UserLibrary}/ApplicationSupport/FarmingSimulator2019/"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "493e9ad801e8487497fe7840cb8404bb"
     },
     "MonitorPresence": {
       "type": "STRING",
@@ -61,10 +61,6 @@
     "CloudExcludeList": {
       "type": "STRING",
       "value": "inputDevices/,inputDevicesManual/,mods/,music/,pdlc/,pending_downloads/,savegameBackup/,screenshots/,shader_cache/,AVD_63805.dat,gameSettings.xml,IDT_63805.dat,log.txt,VERSION,savegameBackup,restarting"
-    },
-    "UseAccessControl": {
-      "type": "STRING",
-      "value": "false"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -103,5 +99,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
