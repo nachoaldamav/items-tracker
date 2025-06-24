@@ -35,11 +35,15 @@
   "namespace": "04cc0c5713994f33a4acba1c4272cfff",
   "status": "ACTIVE",
   "creationDate": "2023-09-28T11:17:33.023Z",
-  "lastModifiedDate": "2025-03-31T14:35:34.636Z",
+  "lastModifiedDate": "2025-06-24T13:49:42.162Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{AppData}/../LocalLow/weltenbauer-se/{EpicID}/"
+      "value": "{AppData}/FFSIgnite/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
     },
     "FolderName": {
       "type": "STRING",
