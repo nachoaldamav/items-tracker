@@ -36,7 +36,7 @@
   "namespace": "f2bfff793b224f6190a394f461c9a4b8",
   "status": "ACTIVE",
   "creationDate": "2019-11-16T03:43:47.627Z",
-  "lastModifiedDate": "2021-01-06T02:14:08.165Z",
+  "lastModifiedDate": "2025-06-24T21:16:08.672Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -49,10 +49,6 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "true"
-    },
-    "UseAccessControl": {
-      "type": "STRING",
-      "value": "false"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -87,5 +83,6 @@
   "endOfSupport": false,
   "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "",
   "unsearchable": false
 }
