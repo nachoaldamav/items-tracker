@@ -33,7 +33,7 @@
   "namespace": "begonia",
   "status": "ACTIVE",
   "creationDate": "2019-03-08T18:23:23.927Z",
-  "lastModifiedDate": "2024-02-26T18:54:41.113Z",
+  "lastModifiedDate": "2025-06-24T10:06:12.886Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -47,13 +47,13 @@
       "type": "STRING",
       "value": "true"
     },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
     "com.epicgames.app.developerName": {
       "type": "STRING",
       "value": "Skybound Interactive"
-    },
-    "UseAccessControl": {
-      "type": "STRING",
-      "value": "true"
     },
     "RequirementsJson": {
       "type": "STRING",
