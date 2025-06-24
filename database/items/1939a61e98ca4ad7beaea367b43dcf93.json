@@ -4,24 +4,6 @@
   "description": "Shakedown Hawaii",
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/plumeria/item/ShakedownHawaii-Logo-Monochrome-White-BlackOutline-1459x600-3d7a42af873503ae6c55e2083c1e5537.png",
-      "md5": "3d7a42af873503ae6c55e2083c1e5537",
-      "width": 1459,
-      "height": 600,
-      "size": 104786,
-      "uploadedDate": "2019-04-23T13:10:32.907Z"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/plumeria/item/icon_alt_car-400x400-d1a279d5bca288917fb8e4240a3addee.png",
-      "md5": "d1a279d5bca288917fb8e4240a3addee",
-      "width": 400,
-      "height": 400,
-      "size": 142436,
-      "uploadedDate": "2019-05-07T15:07:45.713Z"
-    },
-    {
       "type": "DieselGameBox",
       "url": "https://cdn1.epicgames.com/plumeria/item/SH_StreetScene_Carjack_Crop_Wide-1800x1013-45ef216a455fba424059f0a68b723325.png",
       "md5": "45ef216a455fba424059f0a68b723325",
@@ -50,8 +32,8 @@
   ],
   "namespace": "plumeria",
   "status": "ACTIVE",
-  "creationDate": "2019-01-29T20:19:35.323Z",
-  "lastModifiedDate": "2020-02-28T17:27:17.048Z",
+  "creationDate": "2025-06-12T04:22:33.069Z",
+  "lastModifiedDate": "2025-06-24T20:37:33.290Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -91,16 +73,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "0390e8114bec49fa82cfe2f704a882e8",
+      "id": "387eb89029c44fd5975bde64a8b051d1",
       "appId": "Plumeria",
-      "compatibleApps": [],
       "platform": [
-        "Windows",
-        "Win32"
-      ],
-      "dateAdded": "2019-02-05T00:00:00.000Z",
-      "releaseNote": "",
-      "versionTitle": ""
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Vblank Entertainment",
