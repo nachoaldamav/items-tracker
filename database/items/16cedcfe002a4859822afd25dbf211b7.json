@@ -33,7 +33,7 @@
   "namespace": "begonia",
   "status": "ACTIVE",
   "creationDate": "2019-03-08T18:23:23.927Z",
-  "lastModifiedDate": "2025-06-24T10:06:12.886Z",
+  "lastModifiedDate": "2025-06-25T15:37:42.215Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -46,10 +46,6 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "true"
-    },
-    "UseAccessControl": {
-      "type": "STRING",
-      "value": "false"
     },
     "com.epicgames.app.developerName": {
       "type": "STRING",
