@@ -36,19 +36,19 @@
   "namespace": "b671fbc7be424e888c9346a9a6d3d9db",
   "status": "ACTIVE",
   "creationDate": "2019-08-05T14:11:02.459Z",
-  "lastModifiedDate": "2023-02-28T19:30:42.031Z",
+  "lastModifiedDate": "2025-06-25T15:32:29.250Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
     },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "b671fbc7be424e888c9346a9a6d3d9db"
-    },
     "CloudSaveFolder_MAC": {
       "type": "STRING",
       "value": "{UserLibrary}/Application Support/Celeste/Saves/"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "b671fbc7be424e888c9346a9a6d3d9db"
     },
     "MonitorPresence": {
       "type": "STRING",
@@ -57,10 +57,6 @@
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{InstallDir}/Saves/"
-    },
-    "UseAccessControl": {
-      "type": "STRING",
-      "value": "false"
     },
     "RequirementsJson": {
       "type": "STRING",
