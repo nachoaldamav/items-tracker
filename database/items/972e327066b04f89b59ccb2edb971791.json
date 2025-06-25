@@ -5,12 +5,12 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/5945060551f0455185f9a4e1882bf238/deal-with-the-devil-chapter-2--from-tuonela-to-hell-z9mnn.png",
-      "md5": "d4fb2422a8112bac0f1a64f141d930b4",
+      "url": "https://cdn1.epicgames.com/spt-assets/5945060551f0455185f9a4e1882bf238/deal-with-the-devil-chapter-2--from-tuonela-to-hell-iwefl.png",
+      "md5": "56b83e1fb2d2780602ad87d71657b120",
       "width": 2560,
       "height": 1440,
-      "size": 1083479,
-      "uploadedDate": "2024-09-19T09:04:43.683Z",
+      "size": 3291952,
+      "uploadedDate": "2025-06-07T07:51:46.055Z",
       "alt": "Deal With The Devil Chapter: 2 - From Tuonela to Hell Offer"
     },
     {
@@ -34,8 +34,8 @@
   ],
   "namespace": "809a6e61e8ac49fb93cd96568ae9158e",
   "status": "ACTIVE",
-  "creationDate": "2024-09-19T14:13:51.697Z",
-  "lastModifiedDate": "2024-09-19T14:13:51.697Z",
+  "creationDate": "2024-08-01T04:30:13.382Z",
+  "lastModifiedDate": "2025-06-25T03:15:23.883Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,10 @@
     {
       "id": "12061206ee104d598cd218c43657ecfd",
       "appId": "8d913e51c8744da5a468841890b280b3",
-      "platform": []
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "SoulTradeStudios ",
