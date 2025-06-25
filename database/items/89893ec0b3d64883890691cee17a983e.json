@@ -1,0 +1,84 @@
+{
+  "id": "89893ec0b3d64883890691cee17a983e",
+  "title": "SF Legends",
+  "description": "SF Legends",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/db1c4947747147a8ba96d997c34400c7/playsflegends-1xvjh.png",
+      "md5": "67c5a3ac000c16433298e3caae8f406c",
+      "width": 2560,
+      "height": 1440,
+      "size": 3214203,
+      "uploadedDate": "2025-05-14T22:50:05.704Z",
+      "alt": "playsflegends Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/db1c4947747147a8ba96d997c34400c7/sf-legends-1jxx4.png",
+      "md5": "8e72c6e641d1756ffec922548309bb45",
+      "width": 1200,
+      "height": 1600,
+      "size": 1996094,
+      "uploadedDate": "2025-06-14T08:51:09.783Z",
+      "alt": "Download SF Legends Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4a9f0dd038e648c799fc917d8d396af5",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-24T13:06:20.062Z",
+  "lastModifiedDate": "2025-06-24T13:06:20.062Z",
+  "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "SkipAutoInstallDlc": {
+      "type": "STRING",
+      "value": "TRUE"
+    },
+    "NotarizedAndSigned": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "SpecialForce.exe"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "sflegends"
+    }
+  },
+  "entitlementName": "89893ec0b3d64883890691cee17a983e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ccab1bb21bcd4a419ce6407cf8adb90b",
+      "appId": "b7a4c7b1ad1a400ea9fff25b68fbfa61",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Myth Games",
+  "developerId": "o-wsujkt79nzrcl7qv6yzar4q5b2aj3d",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
