@@ -33,7 +33,7 @@
   "namespace": "bloodroot",
   "status": "ACTIVE",
   "creationDate": "2019-03-08T22:18:11.168Z",
-  "lastModifiedDate": "2025-06-24T10:03:30.468Z",
+  "lastModifiedDate": "2025-06-25T15:35:35.593Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -46,10 +46,6 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "true"
-    },
-    "UseAccessControl": {
-      "type": "STRING",
-      "value": "false"
     },
     "com.epicgames.app.developerName": {
       "type": "STRING",
