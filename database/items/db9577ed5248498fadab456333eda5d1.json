@@ -1,0 +1,63 @@
+{
+  "id": "db9577ed5248498fadab456333eda5d1",
+  "title": "Look Mum No Computer",
+  "description": "Look Mum No Computer",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/33336a0f65424127a802ea786bfa31eb/look-mum-no-computer-qn6tu.png",
+      "md5": "d8b23eec15b00f8cad07e8291db18475",
+      "width": 2560,
+      "height": 1440,
+      "size": 89955,
+      "uploadedDate": "2025-06-03T13:38:47.196Z",
+      "alt": "Look Mum No Computer Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/33336a0f65424127a802ea786bfa31eb/look-mum-no-computer-grf0w.png",
+      "md5": "cdec49fe0a61e5301b579207a52dac30",
+      "width": 1200,
+      "height": 1600,
+      "size": 39033,
+      "uploadedDate": "2025-06-03T13:38:47.067Z",
+      "alt": "Download Look Mum No Computer Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cdb2327031da4e38b3bf49f5117aa0e1",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-24T07:28:48.930Z",
+  "lastModifiedDate": "2025-06-24T07:28:48.930Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "LookMumNoComputerf0b19"
+    }
+  },
+  "entitlementName": "db9577ed5248498fadab456333eda5d1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "41df17f4-6335-4232-ab89-ab7cc7c88ad0",
+      "appId": "a292856bb04e4c20a96295bdf2489eb3",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Headup Gmbh",
+  "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
