@@ -36,7 +36,7 @@
   "namespace": "62d6f15b1bb345f6a42585b4c8c847a0",
   "status": "ACTIVE",
   "creationDate": "2019-08-06T20:39:38.029Z",
-  "lastModifiedDate": "2023-04-25T15:08:13.341Z",
+  "lastModifiedDate": "2025-06-25T15:36:40.405Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -49,10 +49,6 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "true"
-    },
-    "UseAccessControl": {
-      "type": "STRING",
-      "value": "false"
     },
     "RequirementsJson": {
       "type": "STRING",
