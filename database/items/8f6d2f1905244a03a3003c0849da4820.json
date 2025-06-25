@@ -51,7 +51,7 @@
   "namespace": "lavender",
   "status": "ACTIVE",
   "creationDate": "2019-01-29T17:36:15.434Z",
-  "lastModifiedDate": "2025-06-23T19:13:07.896Z",
+  "lastModifiedDate": "2025-06-24T17:58:35.756Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -64,10 +64,6 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "true"
-    },
-    "UseAccessControl": {
-      "type": "STRING",
-      "value": "false"
     },
     "RequirementsJson": {
       "type": "STRING",

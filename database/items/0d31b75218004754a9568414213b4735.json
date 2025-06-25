@@ -33,7 +33,7 @@
   "namespace": "lavender",
   "status": "ACTIVE",
   "creationDate": "2019-03-29T21:18:04.532Z",
-  "lastModifiedDate": "2025-06-23T19:15:20.380Z",
+  "lastModifiedDate": "2025-06-24T17:58:30.082Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -50,10 +50,6 @@
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{UserDir}/Quantic Dream/"
-    },
-    "UseAccessControl": {
-      "type": "STRING",
-      "value": "false"
     },
     "RequirementsJson": {
       "type": "STRING",
