@@ -33,7 +33,7 @@
   "namespace": "min",
   "status": "ACTIVE",
   "creationDate": "2018-09-26T20:24:34.338Z",
-  "lastModifiedDate": "2024-04-03T18:55:23.262Z",
+  "lastModifiedDate": "2025-06-25T15:33:54.975Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -46,10 +46,6 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "true"
-    },
-    "UseAccessControl": {
-      "type": "STRING",
-      "value": "false"
     },
     "com.epicgames.app.whitelist": {
       "type": "STRING",
