@@ -5,21 +5,23 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/starfish/item/OuterWilds_PrimaryPromo-1290x725-930b33ddbd98f10b26d8d2bd72551095.png",
-      "md5": "930b33ddbd98f10b26d8d2bd72551095",
-      "width": 1290,
-      "height": 725,
-      "size": 215896,
-      "uploadedDate": "2019-04-30T19:18:09.530Z"
+      "url": "https://cdn2.unrealengine.com/ow-epic-landscapestorefront-2560x1440-9e07f9a966fa.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "width": 2560,
+      "height": 1440,
+      "size": 1,
+      "uploadedDate": "2025-04-02T19:06:47.017Z",
+      "alt": "Outer Wilds-667079"
     },
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/starfish/item/OuterWilds_Logo-1501x700-bf592e4fe986130cee68604ec4059e03.png",
-      "md5": "bf592e4fe986130cee68604ec4059e03",
-      "width": 1501,
-      "height": 700,
-      "size": 70702,
-      "uploadedDate": "2019-04-30T19:18:21.220Z"
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn2.unrealengine.com/ow-epic-portraitstorefront-1200x1600-0cbc63f00eaa.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "width": 1200,
+      "height": 1600,
+      "size": 1,
+      "uploadedDate": "2025-04-02T19:06:47.017Z",
+      "alt": "Outer Wilds-287263"
     }
   ],
   "categories": [
@@ -33,7 +35,7 @@
   "namespace": "starfish",
   "status": "ACTIVE",
   "creationDate": "2019-04-25T12:15:54.071Z",
-  "lastModifiedDate": "2021-07-23T15:22:48.093Z",
+  "lastModifiedDate": "2025-06-24T20:00:04.442Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

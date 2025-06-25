@@ -2,7 +2,28 @@
   "id": "153efd4cf210400eb5ebf6dc6036ebff",
   "title": "StarfishStaging",
   "description": "StarfishStaging",
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn2.unrealengine.com/ow-epic-landscapestorefront-2560x1440-9e07f9a966fa.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "width": 2560,
+      "height": 1440,
+      "size": 1,
+      "uploadedDate": "2025-04-02T19:06:47.011Z",
+      "alt": "Outer Wilds-480252"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn2.unrealengine.com/ow-epic-portraitstorefront-1200x1600-0cbc63f00eaa.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "width": 1200,
+      "height": 1600,
+      "size": 1,
+      "uploadedDate": "2025-04-02T19:06:47.011Z",
+      "alt": "Outer Wilds-640013"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -14,7 +35,7 @@
   "namespace": "starfish",
   "status": "ACTIVE",
   "creationDate": "2019-01-08T19:23:51.496Z",
-  "lastModifiedDate": "2024-04-03T18:53:51.418Z",
+  "lastModifiedDate": "2025-06-24T20:00:04.442Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",

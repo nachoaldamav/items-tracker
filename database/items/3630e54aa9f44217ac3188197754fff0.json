@@ -4,31 +4,22 @@
   "description": "Outer Wilds Beta Staging",
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/starfish/item/OW_Logo_MainOrange-01-1501x700-bf592e4fe986130cee68604ec4059e03.png",
-      "md5": "bf592e4fe986130cee68604ec4059e03",
-      "width": 1501,
-      "height": 700,
-      "size": 70702,
-      "uploadedDate": "2018-11-30T01:19:44.847Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/starfish/item/OuterWilds_PrimaryPromo-1290x725-930b33ddbd98f10b26d8d2bd72551095.png",
-      "md5": "930b33ddbd98f10b26d8d2bd72551095",
-      "width": 1290,
-      "height": 725,
-      "size": 215896,
-      "uploadedDate": "2019-04-30T19:17:32.992Z"
+      "url": "https://cdn1.epicgames.com/item/p-hvzgandf9f438z4m7hngrjblq2u67s/outerwilds_wide_2560x1440-21cc536ba20ca2ddbff1a147046642fe",
+      "md5": "21cc536ba20ca2ddbff1a147046642fe",
+      "width": 2560,
+      "height": 1440,
+      "size": 368233,
+      "uploadedDate": "2025-05-09T13:44:55.654Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/starfish/item/Outerwilds_tall-853x960-58dc805f1fe053e7cad4406d3b801f8a.png",
-      "md5": "58dc805f1fe053e7cad4406d3b801f8a",
-      "width": 853,
-      "height": 960,
-      "size": 236287,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/item/p-hvzgandf9f438z4m7hngrjblq2u67s/outwilds_tall_1200x1600-99dad6c305834ce163cabb944d909304",
+      "md5": "99dad6c305834ce163cabb944d909304",
+      "width": 1200,
+      "height": 1600,
+      "size": 275921,
+      "uploadedDate": "2025-05-09T13:44:59.798Z"
     }
   ],
   "categories": [
@@ -42,7 +33,7 @@
   "namespace": "starfish",
   "status": "ACTIVE",
   "creationDate": "2020-01-09T18:53:15.867Z",
-  "lastModifiedDate": "2024-04-03T18:55:45.794Z",
+  "lastModifiedDate": "2025-06-24T20:00:04.442Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
