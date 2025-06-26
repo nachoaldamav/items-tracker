@@ -33,7 +33,7 @@
   "namespace": "min",
   "status": "ACTIVE",
   "creationDate": "2019-11-14T22:50:14.736Z",
-  "lastModifiedDate": "2021-08-12T14:06:37.807Z",
+  "lastModifiedDate": "2025-06-26T14:54:36.120Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -46,10 +46,6 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "true"
-    },
-    "UseAccessControl": {
-      "type": "STRING",
-      "value": "false"
     },
     "RequirementsJson": {
       "type": "STRING",
