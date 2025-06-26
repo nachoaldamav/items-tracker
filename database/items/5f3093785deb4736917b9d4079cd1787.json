@@ -34,8 +34,8 @@
   ],
   "namespace": "25b0f8266e204e149dee1bcc225eeb36",
   "status": "ACTIVE",
-  "creationDate": "2025-06-04T14:30:29.405Z",
-  "lastModifiedDate": "2025-06-04T14:30:29.405Z",
+  "creationDate": "2024-06-06T18:25:19.514Z",
+  "lastModifiedDate": "2025-06-25T17:17:23.608Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "1ad4d34259e94d58ad4b1f423d31e9e7",
       "appId": "13f61c4d8e1842d7a8a6c915a84c7fed",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Panic",
