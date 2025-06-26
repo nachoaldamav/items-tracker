@@ -34,8 +34,8 @@
   ],
   "namespace": "4f97805eeaf3401095c8baba3bbfa566",
   "status": "ACTIVE",
-  "creationDate": "2024-07-04T15:10:01.194Z",
-  "lastModifiedDate": "2024-07-04T15:10:01.194Z",
+  "creationDate": "2023-06-23T12:27:25.178Z",
+  "lastModifiedDate": "2025-06-26T07:28:12.710Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "d563a8eaad524dc6bd95c6c50d589570",
       "appId": "fd81357f28bb4ba785fd21dc93808870",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Headup Gmbh",
