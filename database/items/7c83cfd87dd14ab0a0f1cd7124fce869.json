@@ -1,0 +1,63 @@
+{
+  "id": "7c83cfd87dd14ab0a0f1cd7124fce869",
+  "title": "MythForce Demo",
+  "description": "MythForce Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c4099459877a4e47a6b927032f32ed41/mythforce-1f79n.jpg",
+      "md5": "91b74d0283679095da3dafb733ccf4c8",
+      "width": 2560,
+      "height": 1440,
+      "size": 2222413,
+      "uploadedDate": "2025-06-12T01:17:04.590Z",
+      "alt": "MythForce MythForce Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c4099459877a4e47a6b927032f32ed41/mythforce-sncxl.png",
+      "md5": "a5d88fac3992154faf61211255911815",
+      "width": 1200,
+      "height": 1600,
+      "size": 2639256,
+      "uploadedDate": "2025-06-12T01:17:08.062Z",
+      "alt": "Download MythForce MythForce Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "720cc28ab09b455f8388decfa0ba4796",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-26T17:00:11.000Z",
+  "lastModifiedDate": "2025-06-26T17:00:11.000Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "MythForceDemo"
+    }
+  },
+  "entitlementName": "7c83cfd87dd14ab0a0f1cd7124fce869",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cf3b238e-47a7-4693-99ea-371e5e53df42",
+      "appId": "a27e609aa4054153acf98684cc1cb138",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Beamdog",
+  "developerId": "o-wc3gy6s683brl6424p7kqlrldhy7vd",
+  "endOfSupport": false,
+  "applicationId": "fghi45671EJ974FyQIpWXkWzZZ6uqgvi",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
