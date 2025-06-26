@@ -1,0 +1,63 @@
+{
+  "id": "12c9459fa9fe4a41a701355ee12d62ac",
+  "title": "Incident X",
+  "description": "Incident X",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/906c8b3c427b4f0db4f535f41c60e086/incidentx-7tj8r.png",
+      "md5": "8d0e4017e9efab32d09f227cfe9d966e",
+      "width": 2560,
+      "height": 1440,
+      "size": 252159,
+      "uploadedDate": "2025-06-24T21:57:51.733Z",
+      "alt": "IncidentX Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/906c8b3c427b4f0db4f535f41c60e086/incidentx-pha6v.png",
+      "md5": "8d6dadd68e2c3b540de52154162619b8",
+      "width": 1200,
+      "height": 1600,
+      "size": 67047,
+      "uploadedDate": "2025-06-24T21:58:02.800Z",
+      "alt": "Download IncidentX Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "467c1bee7a3345a9ac89dc9b6c4729e9",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-25T21:04:45.771Z",
+  "lastModifiedDate": "2025-06-25T21:04:45.771Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "IncidentX0131C"
+    }
+  },
+  "entitlementName": "12c9459fa9fe4a41a701355ee12d62ac",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5fccfd33820046afa34b765ee87e889a",
+      "appId": "b062de346778402c93a7d9b0c4fb3198",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "HAMMERBUCK GAMES",
+  "developerId": "o-vefl6hv6hdu7j9jym5b2l848skpy2t",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
