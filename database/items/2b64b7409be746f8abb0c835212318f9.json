@@ -45,7 +45,7 @@
   "namespace": "dfd2530e80e4425d801913b0879be444",
   "status": "ACTIVE",
   "creationDate": "2019-06-07T02:39:46.286Z",
-  "lastModifiedDate": "2020-05-12T13:50:09.830Z",
+  "lastModifiedDate": "2025-06-27T15:41:56.170Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -56,10 +56,6 @@
       "value": "dfd2530e80e4425d801913b0879be444"
     },
     "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
-    },
-    "UseAccessControl": {
       "type": "STRING",
       "value": "false"
     },
@@ -100,5 +96,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

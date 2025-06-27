@@ -36,15 +36,11 @@
   "namespace": "dfd2530e80e4425d801913b0879be444",
   "status": "ACTIVE",
   "creationDate": "2020-02-27T16:09:42.307Z",
-  "lastModifiedDate": "2021-07-27T02:14:07.775Z",
+  "lastModifiedDate": "2025-06-27T15:36:46.071Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
-    },
-    "UseAccessControl": {
-      "type": "STRING",
-      "value": "false"
     },
     "OwnershipToken": {
       "type": "STRING",
@@ -78,5 +74,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
