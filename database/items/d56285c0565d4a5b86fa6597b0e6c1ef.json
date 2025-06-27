@@ -1,0 +1,62 @@
+{
+  "id": "d56285c0565d4a5b86fa6597b0e6c1ef",
+  "title": "Antro Demo",
+  "description": "Antro Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/230ee279c74f452c92580e42204e2832/antro-1jlwu.jpg",
+      "md5": "f8161bc9a4e56965aabdad52ab86e324",
+      "width": 2560,
+      "height": 1440,
+      "size": 2240105,
+      "uploadedDate": "2024-10-10T11:55:03.119Z",
+      "alt": "Antro Antro Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/230ee279c74f452c92580e42204e2832/antro-1t4rb.jpg",
+      "md5": "38a9def8805f18bcff5cf1e8788825a6",
+      "width": 1200,
+      "height": 1600,
+      "size": 1323458,
+      "uploadedDate": "2024-10-10T11:54:57.847Z",
+      "alt": "Download Antro Antro Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "abf75599c4ad4d84abb1ff357130f583",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-27T07:32:15.759Z",
+  "lastModifiedDate": "2025-06-27T07:32:15.759Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DemoAntro6fe83"
+    }
+  },
+  "entitlementName": "d56285c0565d4a5b86fa6597b0e6c1ef",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "30922e65-1557-4e38-9c19-1b86ea252514",
+      "appId": "3bae8017197c469dad94239d370cc31a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Selecta Play (SelectaVision S.L.U.)",
+  "developerId": "o-aj7mf9wgpqmtcjz57bjwl8lql8vw8m",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "d9bb35c50e6841358d9db6e1b06b5fa9",
+  "title": "Antro",
+  "description": "Antro",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/230ee279c74f452c92580e42204e2832/antro-1bfca.jpg",
+      "md5": "f8161bc9a4e56965aabdad52ab86e324",
+      "width": 2560,
+      "height": 1440,
+      "size": 2240105,
+      "uploadedDate": "2024-10-10T11:57:29.461Z",
+      "alt": "Antro Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/230ee279c74f452c92580e42204e2832/antro-1u918.jpg",
+      "md5": "38a9def8805f18bcff5cf1e8788825a6",
+      "width": 1200,
+      "height": 1600,
+      "size": 1323458,
+      "uploadedDate": "2024-10-10T11:57:26.576Z",
+      "alt": "Download Antro Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "abf75599c4ad4d84abb1ff357130f583",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-27T07:32:15.764Z",
+  "lastModifiedDate": "2025-06-27T07:32:15.764Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Antro"
+    }
+  },
+  "entitlementName": "d9bb35c50e6841358d9db6e1b06b5fa9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "84e936d637054a2c9b0b9f97901841dc",
+      "appId": "f5b4c18bcc544b4fa0f0b705fa104060",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Selecta Play (SelectaVision S.L.U.)",
+  "developerId": "o-aj7mf9wgpqmtcjz57bjwl8lql8vw8m",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
