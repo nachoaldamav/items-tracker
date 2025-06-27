@@ -1,0 +1,64 @@
+{
+  "id": "96b5412f22304c44b719264375f46dcd",
+  "title": "Double Dragon Revive",
+  "description": "The world-famous Double Dragon roars back to life!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e6b76b6c9d974e1d88d51ac4a9757975/detrorevive-qpgt7.jpg",
+      "md5": "c3e3148cfd74721b48e7e3bde60bbd2c",
+      "width": 2560,
+      "height": 1440,
+      "size": 2530727,
+      "uploadedDate": "2025-06-17T09:29:42.235Z",
+      "alt": "DetroRevive Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e6b76b6c9d974e1d88d51ac4a9757975/detrorevive-rw17b.png",
+      "md5": "c5ad742756badc034bd3068b7ea0636a",
+      "width": 1200,
+      "height": 1600,
+      "size": 2998164,
+      "uploadedDate": "2025-06-17T09:22:06.590Z",
+      "alt": "Download DetroRevive Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "033b3eca13f946b2b01ff36ecfc97a2b",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-27T00:00:12.823Z",
+  "lastModifiedDate": "2025-06-27T00:00:12.823Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DetroReviveBwGtz"
+    }
+  },
+  "entitlementName": "96b5412f22304c44b719264375f46dcd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6df3bf9bfdd0473a8c3ebcd434723803",
+      "appId": "a0c002a40e764bd485602bffde747b7a",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "ARC SYSTEM WORKS",
+  "developerId": "o-hf2vxks67ymu6my3dccbk39zlzvkdk",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
