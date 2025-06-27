@@ -1,0 +1,71 @@
+{
+  "id": "f33c837863254aff89989086b80da776",
+  "title": "DAVE THE DIVER",
+  "description": "DAVE THE DIVER is a casual, singleplayer adventure RPG featuring deep-sea exploration and fishing during the day and sushi restaurant management at night. Join Dave and his quirky friends as they seek to uncover the secrets of the mysterious Blue Hole.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2fcbaa01fc4345c0906ab55f31cbeddb/dave-the-diver-yd4h5.jpg",
+      "md5": "970265e1de7f910706a9bd9fbaded29d",
+      "width": 2560,
+      "height": 1440,
+      "size": 1063070,
+      "uploadedDate": "2025-03-14T09:53:34.910Z",
+      "alt": "Dave The Diver Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2fcbaa01fc4345c0906ab55f31cbeddb/dave-the-diver-1obic.png",
+      "md5": "9c81f5cbc0584318db406ddb272b4e8e",
+      "width": 1200,
+      "height": 1600,
+      "size": 166788,
+      "uploadedDate": "2025-04-25T09:56:43.811Z",
+      "alt": "Download Dave The Diver Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e89e3cdc1dc34ff8ba4c46db9bf2a38e",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-22T06:37:31.551Z",
+  "lastModifiedDate": "2025-05-22T06:37:32.216Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/mintrocket/Dave The Diver/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DaveTheDiver"
+    }
+  },
+  "entitlementName": "f33c837863254aff89989086b80da776",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "61ce0108dc0d4034bf1c53d4fc0a2247",
+      "appId": "5f6435c19562435c8ce664de548f02b4",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Mintrocket",
+  "developerId": "o-wndjys79xsxtbrr2zg53scjkj8jgaq",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
