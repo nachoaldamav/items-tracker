@@ -4,15 +4,6 @@
   "description": "What Remains of Edith Finch",
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/badger/item/EdithFinch_Logo1-480x285-359c57ed579f9db1b5a7c4f9aadf0d94.png",
-      "md5": "359c57ed579f9db1b5a7c4f9aadf0d94",
-      "width": 480,
-      "height": 285,
-      "size": 47161,
-      "uploadedDate": "2019-01-08T01:28:23.531Z"
-    },
-    {
       "type": "DieselGameBox",
       "url": "https://cdn1.epicgames.com/badger/item/EdithFinch_PrimaryPromo-2580x1450-afd336269dc16aa6971391cc48f0a57f.jpg",
       "md5": "afd336269dc16aa6971391cc48f0a57f",
@@ -23,12 +14,13 @@
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/badger/item/Epic_EdithFinch_PortraitPromo1280x1420-8ce13d0028128729177daad2e3ec0481-1280x1420-8ce13d0028128729177daad2e3ec0481.jpg",
-      "md5": "8ce13d0028128729177daad2e3ec0481",
-      "width": 1280,
-      "height": 1420,
-      "size": 164652,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/spt-assets/prod-badger/what-remains-of-edith-finch-1rael.jpeg",
+      "md5": "e892c2dab78e2e35f5e0ff66043df4a0",
+      "width": 1200,
+      "height": 1600,
+      "size": 224937,
+      "uploadedDate": "2025-06-24T20:20:23.457Z",
+      "alt": "Download What Remains of Edith Finch Offer"
     }
   ],
   "categories": [
@@ -41,8 +33,8 @@
   ],
   "namespace": "badger",
   "status": "ACTIVE",
-  "creationDate": "2018-12-02T20:59:12.259Z",
-  "lastModifiedDate": "2019-11-19T17:04:16.822Z",
+  "creationDate": "2025-06-24T20:21:12.598Z",
+  "lastModifiedDate": "2025-06-28T12:34:34.930Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -66,15 +58,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "deef27034fc946dab2950ec31facea87",
+      "id": "128563f221fd48fb83a3ab6f257d9081",
       "appId": "Badger",
-      "compatibleApps": [],
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2018-12-02T00:00:00.000Z",
-      "releaseNote": "",
-      "versionTitle": ""
+      ]
     }
   ],
   "developer": "Annapurna Interactive",
