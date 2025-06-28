@@ -1,0 +1,62 @@
+{
+  "id": "cc2689cae07846f6b4e6b8eda1e48990",
+  "title": "HelmetFire",
+  "description": "HelmetFire",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/61ef3a81e429482e81215091c63118f7/helmetfire-14cf1.png",
+      "md5": "6e448bcb5ae047e2485766b70037d7df",
+      "width": 2560,
+      "height": 1440,
+      "size": 144149,
+      "uploadedDate": "2025-06-19T22:02:02.233Z",
+      "alt": "HelmetFire Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/61ef3a81e429482e81215091c63118f7/helmetfire-1f2g9.png",
+      "md5": "4d5e067183f21e91e0c25834cc0eaeb2",
+      "width": 1200,
+      "height": 1600,
+      "size": 186320,
+      "uploadedDate": "2025-06-19T22:02:02.299Z",
+      "alt": "Download HelmetFire Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f48d09de6f4546fcb4f63c97b808cea4",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-28T16:28:51.219Z",
+  "lastModifiedDate": "2025-06-28T16:28:51.219Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "HelmetFire9Zthb"
+    }
+  },
+  "entitlementName": "cc2689cae07846f6b4e6b8eda1e48990",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e8088f13420c4871990f6af1f4f27ccd",
+      "appId": "b7bd6be48da4446bb63f0e81eb2feba8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Snick Developments",
+  "developerId": "o-h539v8lrgzczalaux5uf3ap84ylu2z",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
