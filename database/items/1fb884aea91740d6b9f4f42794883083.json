@@ -1,0 +1,63 @@
+{
+  "id": "1fb884aea91740d6b9f4f42794883083",
+  "title": "Super Cauldron",
+  "description": "Super Cauldron",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/57a0fdb24b104bdca53fa857565f6a48/super-cauldron-1r0uv.png",
+      "md5": "86f049f2d038dfdced879770c0ade860",
+      "width": 2560,
+      "height": 1440,
+      "size": 1801066,
+      "uploadedDate": "2025-06-11T16:14:49.333Z",
+      "alt": "Super Cauldron Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/57a0fdb24b104bdca53fa857565f6a48/super-cauldron-1klw9.png",
+      "md5": "6538b53fa8211de50d74b39bd16ae094",
+      "width": 1200,
+      "height": 1600,
+      "size": 875616,
+      "uploadedDate": "2025-06-11T16:14:40.641Z",
+      "alt": "Download Super Cauldron Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "75eac821bed84a60a775f075aaed123c",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-27T16:58:36.337Z",
+  "lastModifiedDate": "2025-06-27T16:58:36.337Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SuperCauldrondwyUe"
+    }
+  },
+  "entitlementName": "1fb884aea91740d6b9f4f42794883083",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7abfe9b8e7a345bdadc02931a2da1e10",
+      "appId": "946fd75997eb4a4a9b50ba4e8fb7b466",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Interplay Entertainment Corp.",
+  "developerId": "o-ebvwv4fmqxbw48yz3rx65fmxxqfk35",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
