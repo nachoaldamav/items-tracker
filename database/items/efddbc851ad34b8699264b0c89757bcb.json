@@ -35,15 +35,15 @@
   "namespace": "896e53aa87fb412aa37cbe6fdcbabdff",
   "status": "ACTIVE",
   "creationDate": "2023-10-17T12:09:35.137Z",
-  "lastModifiedDate": "2025-05-28T20:29:56.692Z",
+  "lastModifiedDate": "2025-06-29T09:56:22.582Z",
   "customAttributes": {
     "CloudSaveFolder_MAC": {
       "type": "STRING",
-      "value": "{AppData}/Lucid Labs/Possessions/SavesDir/"
+      "value": "{UserLibrary}/Application Support/com.lucidlabs.possessions/SavesDir/EpicSaves/"
     },
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{AppData}/../LocalLow/Lucid Labs/Possessions/SavesDir/"
+      "value": "{AppData}/../LocalLow/Lucid Labs/Possessions/SavesDir/EpicSaves/"
     },
     "CloudIncludeList": {
       "type": "STRING",
@@ -66,8 +66,8 @@
       "id": "00eacdb5d4e942d490a2da4c9ed476dd",
       "appId": "7ddecf81c46b4367bf717b79a63735e1",
       "platform": [
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ]
     }
   ],
