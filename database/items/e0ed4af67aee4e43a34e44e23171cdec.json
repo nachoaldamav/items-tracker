@@ -1,0 +1,71 @@
+{
+  "id": "e0ed4af67aee4e43a34e44e23171cdec",
+  "title": "Solvimus",
+  "description": "Solvimus",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f8ba4a657f2949bbb638e9d59a951202/solvimus-1vmu3.png",
+      "md5": "6c793ecfa7eec5825c7c70d5b5b8e3fd",
+      "width": 2560,
+      "height": 1440,
+      "size": 2902153,
+      "uploadedDate": "2025-06-20T20:21:31.296Z",
+      "alt": "Solvimus Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f8ba4a657f2949bbb638e9d59a951202/solvimus-6djs7.png",
+      "md5": "e1552149d3039f9548b13c51e59fb1e0",
+      "width": 1200,
+      "height": 1600,
+      "size": 1805671,
+      "uploadedDate": "2025-06-20T13:20:52.060Z",
+      "alt": "Download Solvimus Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "010b1bd208f247feb83489a2a14a902a",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-30T06:02:32.865Z",
+  "lastModifiedDate": "2025-06-30T06:02:32.865Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Solvimus/Saved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SolvimusOKIqZ"
+    }
+  },
+  "entitlementName": "e0ed4af67aee4e43a34e44e23171cdec",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "920f7b00713b442695798d3561de66bd",
+      "appId": "e0a6fd823bb044fd9b2e2dfa0895e56e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Iocus GmbH",
+  "developerId": "o-cl7rhz9sncnyvh4tldsydpyxhps56r",
+  "endOfSupport": false,
+  "applicationId": "fghi4567f4QOxKu2IIuBpsA0AkhV5Hdb",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
