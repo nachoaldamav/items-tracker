@@ -1,27 +1,27 @@
 {
   "id": "59b0ee92465445688bd9b32403e7910d",
-  "title": "Planet Sandbox",
-  "description": "Planet Sandbox",
+  "title": "Last Sniper",
+  "description": "Last Sniper",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/00c8a83843584fcebce45d02b9b7df4c/planetsandbox-1v3m5.png",
-      "md5": "889de89c74c3b9cc11bd055b64a3b054",
+      "url": "https://cdn1.epicgames.com/spt-assets/00c8a83843584fcebce45d02b9b7df4c/last-sniper-1yed6.jpg",
+      "md5": "3b24495eeb464fc32da175e905ba922b",
       "width": 2560,
       "height": 1440,
-      "size": 1462233,
-      "uploadedDate": "2024-06-20T03:15:49.877Z",
-      "alt": "PlanetSandbox Offer"
+      "size": 1003940,
+      "uploadedDate": "2025-06-04T02:53:39.830Z",
+      "alt": "Last Sniper Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/00c8a83843584fcebce45d02b9b7df4c/planetsandbox-1pdfh.png",
-      "md5": "2705a5b9beb9bd97fe35681a0c2816f5",
+      "url": "https://cdn1.epicgames.com/spt-assets/00c8a83843584fcebce45d02b9b7df4c/last-sniper-1hz1a.png",
+      "md5": "688f38b5c471aa3fd4bf852a714e160c",
       "width": 1200,
       "height": 1600,
-      "size": 1043386,
-      "uploadedDate": "2024-06-20T03:15:48.211Z",
-      "alt": "Download PlanetSandbox Offer"
+      "size": 2713127,
+      "uploadedDate": "2025-03-21T08:14:31.555Z",
+      "alt": "Download Last Sniper Offer"
     }
   ],
   "categories": [
@@ -34,12 +34,12 @@
   ],
   "namespace": "c594529fd3e34d0d8ac9d6a308d20993",
   "status": "ACTIVE",
-  "creationDate": "2024-06-24T04:37:28.732Z",
-  "lastModifiedDate": "2024-06-24T04:37:28.732Z",
+  "creationDate": "2023-08-03T04:55:17.886Z",
+  "lastModifiedDate": "2025-06-29T23:17:45.615Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "PlanetSandbox"
+      "value": "LastSniper"
     }
   },
   "entitlementName": "59b0ee92465445688bd9b32403e7910d",
@@ -49,7 +49,9 @@
     {
       "id": "77b7ead82cdf4542887258748d853580",
       "appId": "0281259c6d434344ae0b84991f456f17",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Polrare Lab",
