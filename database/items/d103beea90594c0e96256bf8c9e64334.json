@@ -1,0 +1,69 @@
+{
+  "id": "d103beea90594c0e96256bf8c9e64334",
+  "title": "The Heirloom",
+  "description": "The Heirloom",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/e702bff322f942dda862add05dbbf6b9/the-heirloom-1rpvb.jpg",
+      "md5": "6f0940ada427729387e447a1814ccfa6",
+      "width": 2560,
+      "height": 1440,
+      "size": 3302639,
+      "uploadedDate": "2025-06-16T14:04:10.278Z",
+      "alt": "The Heirloom Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/e702bff322f942dda862add05dbbf6b9/the-heirloom-1twdl.jpg",
+      "md5": "6ebf92fc30cec94a78c2f5659013d448",
+      "width": 1200,
+      "height": 1600,
+      "size": 1535797,
+      "uploadedDate": "2025-06-16T14:04:01.219Z",
+      "alt": "Download The Heirloom Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1c0d53efbd874def9bafddd86706bd3a",
+  "status": "ACTIVE",
+  "creationDate": "2025-07-01T12:00:21.796Z",
+  "lastModifiedDate": "2025-07-01T12:00:21.796Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserDir}/Other/Application Data/Epic Games Store/Games/The Heirloom/Save Data/{EpicID}/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserProfile}/Other/Application Data/Epic Games Store/Games/The Heirloom/Save Data/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheHeirloom"
+    }
+  },
+  "entitlementName": "d103beea90594c0e96256bf8c9e64334",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "42e1651631bd4fb98d3ca2aef36bda68",
+      "appId": "df3775479191486fbec54fb8e790f472",
+      "platform": []
+    }
+  ],
+  "developer": "Babubi Games",
+  "developerId": "o-xd2mfjdbh2jkr3jms3fxtdmstduy4r",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
