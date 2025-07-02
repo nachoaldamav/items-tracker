@@ -36,15 +36,15 @@
   "namespace": "ffe512fa1e594ee6a75d4643d1e21b43",
   "status": "ACTIVE",
   "creationDate": "2024-03-26T17:39:25.728Z",
-  "lastModifiedDate": "2024-07-18T13:00:18.726Z",
+  "lastModifiedDate": "2025-07-02T14:07:57.095Z",
   "customAttributes": {
-    "CloudSaveFolder_MAC": {
-      "type": "STRING",
-      "value": "{AppData}/Landfall Games/Totally Accurate Battle Simulator/Saved/"
-    },
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Landfall Games/Totally Accurate Battle Simulator/Saved/"
     },
     "PresenceId": {
       "type": "STRING",
@@ -57,10 +57,6 @@
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{AppData}/../LocalLow/Landfall Games/Totally Accurate Battle Simulator/Saved/"
-    },
-    "UseAccessControl": {
-      "type": "STRING",
-      "value": "false"
     },
     "RequirementsJson": {
       "type": "STRING",
