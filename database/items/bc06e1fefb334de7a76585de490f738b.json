@@ -1,0 +1,64 @@
+{
+  "id": "bc06e1fefb334de7a76585de490f738b",
+  "title": "Chrono Stranded",
+  "description": "Chrono Stranded",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/329ee81bb6414017afe2a746fea52163/chrono-stranded-2bjil.jpg",
+      "md5": "51a96f1420badc4bb73285c48ae65642",
+      "width": 2560,
+      "height": 1440,
+      "size": 408875,
+      "uploadedDate": "2025-06-30T03:26:37.190Z",
+      "alt": "Chrono Stranded Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/329ee81bb6414017afe2a746fea52163/chrono-stranded-ueouz.jpg",
+      "md5": "95333387f15f57877d93a82327d7073e",
+      "width": 1200,
+      "height": 1600,
+      "size": 160760,
+      "uploadedDate": "2025-06-30T03:28:08.820Z",
+      "alt": "Download Chrono Stranded Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "24cc2d573b584bd193de6cc321289f9d",
+  "status": "ACTIVE",
+  "creationDate": "2025-06-14T00:13:15.776Z",
+  "lastModifiedDate": "2025-07-02T06:02:25.220Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ChronoStranded"
+    }
+  },
+  "entitlementName": "bc06e1fefb334de7a76585de490f738b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c526339880c4420f81929bbe0d88b5ed",
+      "appId": "399e37dbde66461b8d6d97163533a713",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Moonzen Digital",
+  "developerId": "o-d32dgp7jgswwwk2llszj5fxlvav2ef",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
