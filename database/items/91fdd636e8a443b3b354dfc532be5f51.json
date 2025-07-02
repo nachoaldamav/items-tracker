@@ -35,7 +35,7 @@
   "namespace": "0dc17d69dbfa4dd7b4eeb480d3adad6d",
   "status": "ACTIVE",
   "creationDate": "2023-03-10T15:00:11.691Z",
-  "lastModifiedDate": "2023-12-08T11:08:16.344Z",
+  "lastModifiedDate": "2025-07-02T14:24:31.492Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,15 +47,16 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "7c6fa6e8a7b6498dbb017d8e2f0d93fb",
+      "id": "fdea0b53216040bb91b12b13cca0b0d5",
       "appId": "c2568782280f414aa8476c9fba8bfd60",
       "platform": [
+        "Win32",
         "Windows",
         "Mac"
       ]
     }
   ],
-  "developer": "Different Tales S.A.",
+  "developer": "Pretty Soon S.A.",
   "developerId": "o-j8dsgh9bnmwgkjuyts7cyffpkfc3yk",
   "endOfSupport": false,
   "requiresSecureAccount": false,
