@@ -1,0 +1,65 @@
+{
+  "id": "ef00bb0353d14b81bf282887ddec5983",
+  "title": "Penguin Panic",
+  "description": "Penguin Panic",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/a37567c4a3b9419f86454bbd8beb0724/penguin-panic-ep3r3.jpg",
+      "md5": "65b8653d77fe5637fb8573af21cb135e",
+      "width": 2560,
+      "height": 1440,
+      "size": 1077610,
+      "uploadedDate": "2025-06-02T08:15:45.658Z",
+      "alt": "Penguin Panic Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a37567c4a3b9419f86454bbd8beb0724/penguin-panic-kil8s.jpg",
+      "md5": "624ddf563783e852326ed9ca6070ddf7",
+      "width": 1200,
+      "height": 1600,
+      "size": 631275,
+      "uploadedDate": "2025-06-02T08:15:48.207Z",
+      "alt": "Download Penguin Panic Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b172c475650a4104842716a69af1b889",
+  "status": "ACTIVE",
+  "creationDate": "2025-07-02T15:40:09.615Z",
+  "lastModifiedDate": "2025-07-02T15:40:09.615Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "PenguinPanicflcSR"
+    }
+  },
+  "entitlementName": "ef00bb0353d14b81bf282887ddec5983",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "01bfcc8380bb4a6494f0665de1af0045",
+      "appId": "e13934b878fd49f9966bf724500bdffc",
+      "platform": [
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Derwort Media",
+  "developerId": "o-lzzz2wh6kwhwxfdvhpjqvadcmz9he2",
+  "endOfSupport": false,
+  "applicationId": "fghi4567UgLXKl6CnHWAFGGsr5eEh3f8",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
