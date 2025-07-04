@@ -1,0 +1,64 @@
+{
+  "id": "83cff314bd5f43178b3c24b63fd3133b",
+  "title": "City of Springs",
+  "description": "City of Springs",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/8071ca12fc5441a5a099b7e828f2c02f/city-of-springs-gcc6c.png",
+      "md5": "30e3f37f4e35513bcf74b3d4c179acf8",
+      "width": 2560,
+      "height": 1440,
+      "size": 3203911,
+      "uploadedDate": "2025-06-27T07:32:32.479Z",
+      "alt": "City of Springs Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/8071ca12fc5441a5a099b7e828f2c02f/city-of-springs-1hyyp.png",
+      "md5": "1961c2f96a3cf922013e067acdf81432",
+      "width": 1200,
+      "height": 1600,
+      "size": 1561440,
+      "uploadedDate": "2025-06-27T07:31:42.091Z",
+      "alt": "Download City of Springs Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "255d3dee79484c0bb9f9c2cc52baeeb1",
+  "status": "ACTIVE",
+  "creationDate": "2025-07-03T14:34:58.000Z",
+  "lastModifiedDate": "2025-07-03T14:34:58.000Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "CityofSprings"
+    }
+  },
+  "entitlementName": "83cff314bd5f43178b3c24b63fd3133b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "16ac511bef554acc8bbcaae47c9e8041",
+      "appId": "38b6db823ab0405bb1353a33eb02bec6",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "The Naked Dev",
+  "developerId": "o-lg8rgrg32q6w7geszr5gcvyplzynb8",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
