@@ -34,9 +34,21 @@
   ],
   "namespace": "20ba2a318cac40129528985190d87cc9",
   "status": "ACTIVE",
-  "creationDate": "2025-06-18T21:24:20.384Z",
-  "lastModifiedDate": "2025-06-18T21:24:20.384Z",
+  "creationDate": "2025-05-15T03:27:56.699Z",
+  "lastModifiedDate": "2025-07-07T01:11:39.865Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/data/save/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "SpaceRoadCaSsx"
@@ -57,7 +69,7 @@
   "developer": "Daicsoft",
   "developerId": "o-5h2u2dtf4p3fcumu4tr9jgvfmwuzgn",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567QOCfqmFELY33HiSmoNNrmgt2",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
