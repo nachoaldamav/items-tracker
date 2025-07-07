@@ -1,0 +1,72 @@
+{
+  "id": "e12a32de17404ab2b1cfa4feaee2bd4d",
+  "title": "My Party Needs An Alchemist",
+  "description": "My Party Needs An Alchemist",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/07c56d9b5a96451a9c049ea77feb933d/my-party-needs-an-alchemist-5awuk.png",
+      "md5": "56340811be74a2a5f9a52fefaaa23a39",
+      "width": 2560,
+      "height": 1440,
+      "size": 2508526,
+      "uploadedDate": "2025-07-01T07:44:02.607Z",
+      "alt": "My Party Needs An Alchemist Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/07c56d9b5a96451a9c049ea77feb933d/my-party-needs-an-alchemist-x532a.png",
+      "md5": "8cbc40aeb4082396f00f5feb26c68259",
+      "width": 1200,
+      "height": 1600,
+      "size": 1203467,
+      "uploadedDate": "2025-06-24T15:09:13.406Z",
+      "alt": "Download My Party Needs An Alchemist Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "230c1bdbe68d43c499163013988168f8",
+  "status": "ACTIVE",
+  "creationDate": "2025-07-07T15:29:26.281Z",
+  "lastModifiedDate": "2025-07-07T15:29:26.281Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Gilded Rune Games/My Party Needs An Alchemist/Epic/{EpicID}/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Gilded Rune Games/My Party Needs An Alchemist/Epic/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MyPartyNeedsAnAlchemOwgH1"
+    }
+  },
+  "entitlementName": "e12a32de17404ab2b1cfa4feaee2bd4d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ecb3c2c9669a4253a3a58ea9eed32da5",
+      "appId": "1d1bba80a8734c87999aa16df8aab909",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Gilded Rune Games",
+  "developerId": "o-txnuctznuhl8j2z2c4mr4k9wgbz93n",
+  "endOfSupport": false,
+  "applicationId": "fghi4567fOtskgGNgc0ScLw2QptI6TT2",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
