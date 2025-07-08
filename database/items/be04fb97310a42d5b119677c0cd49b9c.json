@@ -35,7 +35,7 @@
   "namespace": "2f37d311cd6a434685a9557abc6eee6f",
   "status": "ACTIVE",
   "creationDate": "2023-10-27T14:10:18.523Z",
-  "lastModifiedDate": "2025-04-30T16:06:48.590Z",
+  "lastModifiedDate": "2025-07-08T10:31:42.081Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -43,7 +43,7 @@
     },
     "CloudIncludeList": {
       "type": "STRING",
-      "value": "1.sav,2.sav,3.sav"
+      "value": "1.sav,2.sav,3.sav,_1.sav,_2.sav,_3.sav"
     },
     "MaxSizeMB": {
       "type": "STRING",
