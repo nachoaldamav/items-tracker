@@ -1,0 +1,63 @@
+{
+  "id": "3da2e95e168f4c3fa74f5392efc5cb39",
+  "title": "Gunnies",
+  "description": "Gunnies",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/fbb60974fc5c428fb47a2e9507851a7e/gunnies-55faw.png",
+      "md5": "26a55185b81cbb278b6894e42ca6df83",
+      "width": 2560,
+      "height": 1440,
+      "size": 3357057,
+      "uploadedDate": "2025-06-04T07:20:41.226Z",
+      "alt": "Gunnies Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/fbb60974fc5c428fb47a2e9507851a7e/gunnies-nyi9s.png",
+      "md5": "280aad379d250d9ef5cbd13f902ef9bc",
+      "width": 1200,
+      "height": 1600,
+      "size": 1497363,
+      "uploadedDate": "2025-06-04T07:20:56.145Z",
+      "alt": "Download Gunnies Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4d6f26c0d591447090a8db6d6760ff3f",
+  "status": "ACTIVE",
+  "creationDate": "2025-07-09T10:13:19.188Z",
+  "lastModifiedDate": "2025-07-09T10:13:19.428Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Gunnies"
+    }
+  },
+  "entitlementName": "3da2e95e168f4c3fa74f5392efc5cb39",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "541c57493dfc42d5b43ff484c3faf718",
+      "appId": "e7f7657126d1430d963f891a7c139fea",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Seaport Studios Operations Limited",
+  "developerId": "o-2klvqvu7sfgz9q9q94fkxz9tgz6p42",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
