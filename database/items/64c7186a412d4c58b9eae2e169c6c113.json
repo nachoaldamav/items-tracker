@@ -1,7 +1,7 @@
 {
   "id": "64c7186a412d4c58b9eae2e169c6c113",
-  "title": "Ready or Not: Home Invasion",
-  "description": "Los Sueños Police Chief Galo Álvarez issues an emergency broadcast in response to the devastating impact of the record-breaking Category 5 Hurricane Antonio across Los Sueños. Home invasion occurrences widespread and met with disaster response by LSPD SWAT.",
+  "title": "[DNU] Ready or Not: Home Invasion",
+  "description": "[DNU] Ready or Not: Home Invasion",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -31,8 +31,8 @@
   ],
   "namespace": "51b0e42c972e47aebdf507ce4f68ddc3",
   "status": "ACTIVE",
-  "creationDate": "2025-06-19T09:27:04.808Z",
-  "lastModifiedDate": "2025-06-19T09:27:04.808Z",
+  "creationDate": "2025-03-26T02:10:20.366Z",
+  "lastModifiedDate": "2025-07-10T12:49:39.428Z",
   "customAttributes": {},
   "entitlementName": "64c7186a412d4c58b9eae2e169c6c113",
   "entitlementType": "EXECUTABLE",
@@ -41,7 +41,9 @@
     {
       "id": "c058710b01bd45aab0b2dbacf6582b32",
       "appId": "a967c34783f845fea8611c516e3246ef",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "VOID Interactive Limited",

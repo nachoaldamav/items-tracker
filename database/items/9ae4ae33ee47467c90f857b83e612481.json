@@ -1,7 +1,7 @@
 {
   "id": "9ae4ae33ee47467c90f857b83e612481",
-  "title": "Ready or Not: Dark Waters",
-  "description": "LSPD intel indicates high risk of criminal activity off the coast of Los Sueños, emboldened by offshore remoteness. We are focusing on three new areas for threats: natural resources, islands, and watercraft.",
+  "title": "[DNU] Ready or Not: Dark Waters",
+  "description": "[DNU] Ready or Not: Dark Waters",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -31,8 +31,8 @@
   ],
   "namespace": "51b0e42c972e47aebdf507ce4f68ddc3",
   "status": "ACTIVE",
-  "creationDate": "2025-06-19T09:27:04.811Z",
-  "lastModifiedDate": "2025-06-19T09:27:04.811Z",
+  "creationDate": "2025-04-09T04:51:15.265Z",
+  "lastModifiedDate": "2025-07-10T12:49:39.428Z",
   "customAttributes": {},
   "entitlementName": "9ae4ae33ee47467c90f857b83e612481",
   "entitlementType": "EXECUTABLE",
@@ -41,7 +41,9 @@
     {
       "id": "b9e2b617b6dc40c79ab82a27c237e03c",
       "appId": "e1a39173114d41899eecc2930d12fac3",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "VOID Interactive Limited",
