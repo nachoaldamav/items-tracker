@@ -35,11 +35,11 @@
   "namespace": "d28938c1044945239079d371d545e5c7",
   "status": "ACTIVE",
   "creationDate": "2024-04-17T10:24:16.024Z",
-  "lastModifiedDate": "2024-06-04T08:39:46.963Z",
+  "lastModifiedDate": "2025-07-11T08:50:09.959Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "DigitalINDIKAa46e4"
+      "value": "INDIKA_SOUNDTRACK"
     }
   },
   "entitlementName": "a6c8e800438548128e43948e2158d129",
@@ -47,14 +47,17 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "9322df34-ae9f-418f-9196-6d840d138389",
+      "id": "6112ae626bd240fd8f94fd49d30384f8",
       "appId": "1f9b73100fee4f7d847a5447edc48b25",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "11 Bit Studios",
   "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }

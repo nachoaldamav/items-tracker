@@ -35,11 +35,11 @@
   "namespace": "d28938c1044945239079d371d545e5c7",
   "status": "ACTIVE",
   "creationDate": "2024-04-17T10:23:56.798Z",
-  "lastModifiedDate": "2024-06-04T08:39:46.963Z",
+  "lastModifiedDate": "2025-07-11T08:50:09.959Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "DigitalINDIKA98f82"
+      "value": "INDIKA_ARTBOOK"
     }
   },
   "entitlementName": "3e9f11f16f764020a52182d1ab293d90",
@@ -47,14 +47,17 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "62f229eb-c529-44f0-a051-1d97212474fb",
+      "id": "4a9e5778c9574de18cc07217c779fd10",
       "appId": "adef0ebc670b499cac15a4b77038ec61",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "11 Bit Studios",
   "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
