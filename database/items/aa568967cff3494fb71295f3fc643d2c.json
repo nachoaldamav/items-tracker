@@ -1,0 +1,63 @@
+{
+  "id": "aa568967cff3494fb71295f3fc643d2c",
+  "title": "DroneStone",
+  "description": "DroneStone",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2929f2cebb0e463ba631b6dde2e7aea2/dronestone-1dngo.png",
+      "md5": "5320f7defb0009a0ee6e1fcd17cc28d4",
+      "width": 2560,
+      "height": 1440,
+      "size": 186227,
+      "uploadedDate": "2025-04-27T09:39:27.901Z",
+      "alt": "Dronestone Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2929f2cebb0e463ba631b6dde2e7aea2/dronestone-19vzj.png",
+      "md5": "bb9280d6ea5f728765f3beb757d9884a",
+      "width": 1200,
+      "height": 1600,
+      "size": 1262739,
+      "uploadedDate": "2025-04-27T09:39:33.015Z",
+      "alt": "Download Dronestone Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8058330e4b8b443cad266bb6bab76904",
+  "status": "ACTIVE",
+  "creationDate": "2025-07-11T13:20:52.710Z",
+  "lastModifiedDate": "2025-07-11T13:20:52.710Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DroneStone"
+    }
+  },
+  "entitlementName": "aa568967cff3494fb71295f3fc643d2c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1c9563eb56024e61bebc46a89514a952",
+      "appId": "3aa3be463c7b417a96d1ca5abeb4316f",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Zapaz Labs",
+  "developerId": "o-znd85gxhpasg8e798vnf6jlhp6fxvn",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
