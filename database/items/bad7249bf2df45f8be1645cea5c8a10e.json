@@ -32,13 +32,26 @@
   "namespace": "7051eadbb8c2435caf32a9bc0dc17936",
   "status": "ACTIVE",
   "creationDate": "2025-06-04T23:34:49.314Z",
-  "lastModifiedDate": "2025-06-25T16:09:01.415Z",
+  "lastModifiedDate": "2025-07-11T15:12:14.085Z",
+  "customAttributes": {},
   "entitlementName": "bad7249bf2df45f8be1645cea5c8a10e",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3a431f0ebbe449f29aa46f453b2d4749",
+      "appId": "051a8c47257b4fb0beee74de3580a858",
+      "platform": [
+        "Win32",
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
   "developer": "Ludeon Studios",
   "developerId": "o-hsdwarj24e4ntqdnvu83854narhusv",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
