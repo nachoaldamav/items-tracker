@@ -1,0 +1,62 @@
+{
+  "id": "49a27a45f28a41d6b815b1ede11ca52a",
+  "title": "Cat Karting",
+  "description": "Cat Karting",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2b4164c8d4ff4429ba2de7a6a9d33a42/cat-karting-1wp1n.png",
+      "md5": "3f4bbb3e8ec86ace2dd0059bb10b0a31",
+      "width": 2560,
+      "height": 1440,
+      "size": 2533032,
+      "uploadedDate": "2025-06-30T18:07:44.775Z",
+      "alt": "Cat Karting Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2b4164c8d4ff4429ba2de7a6a9d33a42/cat-karting-1jgjm.png",
+      "md5": "525ebc51dd8bfb47845f52ca9be2830d",
+      "width": 1200,
+      "height": 1600,
+      "size": 1427792,
+      "uploadedDate": "2025-06-30T18:07:44.922Z",
+      "alt": "Download Cat Karting Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4e35f306181e4604847b7b4866921d77",
+  "status": "ACTIVE",
+  "creationDate": "2025-07-11T12:30:16.328Z",
+  "lastModifiedDate": "2025-07-11T12:30:16.328Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "CatKarting1B9ts"
+    }
+  },
+  "entitlementName": "49a27a45f28a41d6b815b1ede11ca52a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d0df48d167cb4bf4a113537a9e05f7bf",
+      "appId": "fc0f410d5ff94c7fa9d33e27815143ba",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Pine Games",
+  "developerId": "o-wdh4p9v73kp5ae982mrxypsnwffvgw",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
