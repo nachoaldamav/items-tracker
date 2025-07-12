@@ -1,0 +1,63 @@
+{
+  "id": "3bf3c2300b4242ff927b253df04eb459",
+  "title": "ChronosWorlds",
+  "description": "ChronosWorlds",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa52ba652ac341d9bad1a413a8023670/chronosworlds-1hnda.png",
+      "md5": "d0e01722442a8eaab574dd8eceb6a982",
+      "width": 2560,
+      "height": 1440,
+      "size": 1078862,
+      "uploadedDate": "2025-03-02T18:28:03.536Z",
+      "alt": "ChronosWorlds Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa52ba652ac341d9bad1a413a8023670/chronosworlds-1ssfa.png",
+      "md5": "72d014d9e22f99bdcfc2d2b44b5d141d",
+      "width": 1200,
+      "height": 1600,
+      "size": 1541012,
+      "uploadedDate": "2025-03-02T18:28:02.996Z",
+      "alt": "Download ChronosWorlds Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fe2330a3da124f159c316ec970a97511",
+  "status": "ACTIVE",
+  "creationDate": "2025-07-11T22:13:48.360Z",
+  "lastModifiedDate": "2025-07-11T22:13:48.360Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ChronosWorlds"
+    }
+  },
+  "entitlementName": "3bf3c2300b4242ff927b253df04eb459",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a124869c31b34e64843cef2388442706",
+      "appId": "6715492ec1e0405caa7944669fcf2d3e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "SphereStudios",
+  "developerId": "o-kazwpy7bfn9nrv5ldhflwwawyc7uvt",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
