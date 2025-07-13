@@ -1,0 +1,63 @@
+{
+  "id": "9ab0ec8810164978a398477b4f2cfea7",
+  "title": "Warzone",
+  "description": "Warzone",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/ba82bc3496304062a174b8246dee4d5a/warzone-11pub.png",
+      "md5": "78236260ee476d7ad96d7bc3b20b35bb",
+      "width": 2560,
+      "height": 1440,
+      "size": 1248138,
+      "uploadedDate": "2025-07-07T19:29:03.680Z",
+      "alt": "Warzone Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/ba82bc3496304062a174b8246dee4d5a/warzone-ck72b.png",
+      "md5": "45bd855818baeff42acd874124761eb6",
+      "width": 1200,
+      "height": 1600,
+      "size": 1071858,
+      "uploadedDate": "2025-07-07T19:29:02.936Z",
+      "alt": "Download Warzone Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a19b91446e8c4d4ba319d8d11ddfe178",
+  "status": "ACTIVE",
+  "creationDate": "2025-07-12T22:44:18.324Z",
+  "lastModifiedDate": "2025-07-12T22:44:18.324Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Warzone"
+    }
+  },
+  "entitlementName": "9ab0ec8810164978a398477b4f2cfea7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "12351ff545e5404db0425ce5c629a6c0",
+      "appId": "abde61fcb24d42698057d1c50cf1604e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Firestorm Interactive LLC",
+  "developerId": "o-ll2crqtght43qxkhe4d9ffdqa46cfl",
+  "endOfSupport": false,
+  "applicationId": "fghi4567qJd32D9vAtuOadWiaamPTZsi",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
