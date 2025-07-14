@@ -28,16 +28,13 @@
       "path": "public"
     },
     {
-      "path": "games"
-    },
-    {
       "path": "applications"
     }
   ],
   "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
   "status": "ACTIVE",
   "creationDate": "2020-04-06T19:58:49.849Z",
-  "lastModifiedDate": "2024-10-15T18:28:42.251Z",
+  "lastModifiedDate": "2025-07-14T19:58:25.883Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -68,5 +65,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
