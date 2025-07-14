@@ -31,13 +31,21 @@
   ],
   "namespace": "da1c2c6e190147019e4188f24687a17c",
   "status": "ACTIVE",
-  "creationDate": "2025-06-06T22:57:43.047Z",
-  "lastModifiedDate": "2025-06-06T22:57:43.047Z",
+  "creationDate": "2025-04-17T19:09:23.219Z",
+  "lastModifiedDate": "2025-07-14T19:44:15.451Z",
   "customAttributes": {},
   "entitlementName": "cc64605df1d94d4f92de93063064afb4",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
-  "releaseInfo": [],
+  "releaseInfo": [
+    {
+      "id": "3dc70824175b4c73b1e2b9b1e4570505",
+      "appId": "527f0f0402054066830a71501fe92bab",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
   "developer": "Sega of America",
   "developerId": "o-5gbgsfvsrt9wlx9gu868mrxmhq6dlv",
   "endOfSupport": false,
