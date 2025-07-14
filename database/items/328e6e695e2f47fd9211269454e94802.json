@@ -32,7 +32,7 @@
   "namespace": "fea91f8cbd75425cb02c4b32d5f49afb",
   "status": "ACTIVE",
   "creationDate": "2024-06-20T06:38:10.824Z",
-  "lastModifiedDate": "2025-03-06T01:40:06.967Z",
+  "lastModifiedDate": "2025-07-14T02:19:32.007Z",
   "customAttributes": {},
   "entitlementName": "328e6e695e2f47fd9211269454e94802",
   "entitlementType": "EXECUTABLE",
@@ -42,7 +42,8 @@
       "id": "9e3771bbbfbd47ffb02c5c3f9e00eef1",
       "appId": "e49242796d354a6dbdea96c94456640f",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ]
     }
   ],
