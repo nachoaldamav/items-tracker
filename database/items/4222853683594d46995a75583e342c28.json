@@ -1,0 +1,71 @@
+{
+  "id": "4222853683594d46995a75583e342c28",
+  "title": "Chaos on Wheels",
+  "description": "Chaos on Wheels",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/f334be832ea143ed9def4e063dbf623e/chaos-on-wheels-ocqj1.jpg",
+      "md5": "acf1ce80cd0e5515bea59a1f995e7558",
+      "width": 2560,
+      "height": 1440,
+      "size": 3497914,
+      "uploadedDate": "2024-12-09T15:56:59.330Z",
+      "alt": "Chaos on Wheels Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/f334be832ea143ed9def4e063dbf623e/chaos-on-wheels-fl31l.jpg",
+      "md5": "bfd96760d5fbea12f38a2c7672bd8afb",
+      "width": 1200,
+      "height": 1600,
+      "size": 2536091,
+      "uploadedDate": "2024-12-09T15:57:01.151Z",
+      "alt": "Download Chaos on Wheels Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "627fac6953a04c5cba54c663b6bed384",
+  "status": "ACTIVE",
+  "creationDate": "2025-07-14T18:44:53.238Z",
+  "lastModifiedDate": "2025-07-14T18:44:53.582Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/ProjectCOW/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "CampaignProgress.sav,CCSGS0.sav,SPPDST.sav"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ChaosOnWheels"
+    }
+  },
+  "entitlementName": "4222853683594d46995a75583e342c28",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e8da8ac96de94b79bc126fb2958d39ba",
+      "appId": "b64159ccb4a2451484ef3ecc8e11c090",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Acodeon",
+  "developerId": "o-5y6pq4rganmekbrxzngjb3xxr3bm3v",
+  "endOfSupport": false,
+  "applicationId": "fghi4567wny8z9RjZWWTj9yFBtExClx8",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
