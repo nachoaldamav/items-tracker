@@ -1,0 +1,77 @@
+{
+  "id": "fadc9b75ea5543a1b94252efb32672ad",
+  "title": "Telegraphist 1920: Beats of War",
+  "description": "A narrative rhythm game set in 1920. Experience the war against Soviet Russia from a unique perspective. Become a telegraphist and tap out life-or-death messages in Morse code.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/75b5b46c88a54519b9dea688e393dfff/telegraphist-1920-beats-of-war-ff5eh.png",
+      "md5": "a47b0bfc25c6cd34bb985524c4f49f9c",
+      "width": 2560,
+      "height": 1440,
+      "size": 3450542,
+      "uploadedDate": "2025-07-03T20:28:47.033Z",
+      "alt": "Telegraphist 1920: Beats of War Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/75b5b46c88a54519b9dea688e393dfff/telegraphist-1920-beats-of-war-180tq.png",
+      "md5": "d3cdcceffc788471fcb0d740b4115fd8",
+      "width": 1200,
+      "height": 1600,
+      "size": 1855264,
+      "uploadedDate": "2025-07-03T20:28:48.053Z",
+      "alt": "Download Telegraphist 1920: Beats of War Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "212398bf1705419c9a3766ba5cf78a9e",
+  "status": "ACTIVE",
+  "creationDate": "2025-05-21T10:04:23.958Z",
+  "lastModifiedDate": "2025-07-15T09:14:57.888Z",
+  "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Cubepotato Games/Telegraphist 1920/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Cubepotato Games/Telegraphist 1920/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.json\nCustomLevels/**"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Telegraphist1920"
+    }
+  },
+  "entitlementName": "fadc9b75ea5543a1b94252efb32672ad",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "049fe07bcd61467a85206b15a103a1f1",
+      "appId": "1d05d93e1ed94673b4a5c30c3f2ffa7b",
+      "platform": [
+        "Win32",
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
+  "developer": "Cubepotato Games",
+  "developerId": "o-gtzuhtgslt9ghu7skygpsurk7jvqvk",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
