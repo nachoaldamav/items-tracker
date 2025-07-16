@@ -35,8 +35,16 @@
   "namespace": "4af4ea135d734d30afe60d6b217c0889",
   "status": "ACTIVE",
   "creationDate": "2025-02-06T13:47:57.306Z",
-  "lastModifiedDate": "2025-05-20T14:50:59.298Z",
+  "lastModifiedDate": "2025-07-16T09:22:56.159Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Loaders/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Settings.sav, Tutorial.sav"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "LoaderstT9kC"
@@ -57,6 +65,7 @@
   "developer": "Tower Five",
   "developerId": "o-rdrce92pc3bvlusc7rysbflj8q5fda",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
