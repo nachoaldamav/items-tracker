@@ -2,7 +2,28 @@
   "id": "d8af774841684f0c8d465bcfcb24d442",
   "title": "Nightstorm Isle - DLC",
   "description": "Nightstorm Isle - DLC",
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/wren/offer/NightstormIsle_Landscape_2560x1440-2560x1440-052f4bec86970b527c884f6b487edc03.jpg",
+      "md5": "052f4bec86970b527c884f6b487edc03",
+      "width": 2560,
+      "height": 1440,
+      "size": 1680772,
+      "uploadedDate": "2020-02-27T14:21:57.854Z",
+      "alt": "Nightstorm Isle - DLC-743682"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/wren/offer/CodeRedemption_AshenNightstormIsle-330x440-05cc053e6b3219ae5e0cd3ee1ada34e1.jpg",
+      "md5": "05cc053e6b3219ae5e0cd3ee1ada34e1",
+      "width": 330,
+      "height": 440,
+      "size": 114345,
+      "uploadedDate": "2020-04-10T00:20:10.478Z",
+      "alt": "Nightstorm Isle - DLC-818803"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -13,8 +34,8 @@
   ],
   "namespace": "wren",
   "status": "ACTIVE",
-  "creationDate": "2019-04-01T21:19:55.257Z",
-  "lastModifiedDate": "2019-09-06T15:45:12.629Z",
+  "creationDate": "2024-04-10T18:10:56.268Z",
+  "lastModifiedDate": "2025-07-16T17:59:58.873Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -50,15 +71,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "95624830dd8e4932b1473a0a44d7f58c",
+      "id": "dc5d80eedf6e43558e142dc926970492",
       "appId": "WrenDLC",
-      "compatibleApps": [],
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2019-04-01T00:00:00.000Z",
-      "releaseNote": "",
-      "versionTitle": ""
+      ]
     }
   ],
   "developer": "Annapurna Interactive",
