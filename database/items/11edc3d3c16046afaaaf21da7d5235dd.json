@@ -1,7 +1,8 @@
 {
   "id": "11edc3d3c16046afaaaf21da7d5235dd",
-  "title": "mellowyellow BDL23 audience",
+  "title": "The Edge of Fate audience",
   "description": "mellowyellow BDL23 audience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +14,7 @@
   "namespace": "428115def4ca4deea9d69c99c5a5a99e",
   "status": "ACTIVE",
   "creationDate": "2024-09-06T09:04:33.362Z",
-  "lastModifiedDate": "2025-07-15T13:58:19.132Z",
+  "lastModifiedDate": "2025-07-17T01:16:53.213Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +24,15 @@
   "entitlementName": "11edc3d3c16046afaaaf21da7d5235dd",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Bungie",
   "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": true
 }

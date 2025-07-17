@@ -1,7 +1,8 @@
 {
   "id": "281467e0cd9946f39968a9c0826ea29d",
-  "title": "mellowyellow BDL24 audience",
+  "title": "Year of Prophecy Ultimate Edition audience",
   "description": "mellowyellow BDL24 audience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +14,7 @@
   "namespace": "428115def4ca4deea9d69c99c5a5a99e",
   "status": "ACTIVE",
   "creationDate": "2024-09-06T09:04:42.763Z",
-  "lastModifiedDate": "2025-07-15T13:58:19.133Z",
+  "lastModifiedDate": "2025-07-17T01:15:52.847Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +24,15 @@
   "entitlementName": "281467e0cd9946f39968a9c0826ea29d",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Bungie",
   "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": true
 }

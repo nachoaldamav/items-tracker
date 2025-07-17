@@ -1,7 +1,8 @@
 {
   "id": "e0b7380c41be47b8a90fc33309297e58",
-  "title": "mellowyellow BDL33 audience",
+  "title": "Year of Prophecy audience",
   "description": "mellowyellow BDL33 audience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +14,7 @@
   "namespace": "428115def4ca4deea9d69c99c5a5a99e",
   "status": "ACTIVE",
   "creationDate": "2025-01-29T09:33:56.714Z",
-  "lastModifiedDate": "2025-07-15T13:58:19.140Z",
+  "lastModifiedDate": "2025-07-17T01:16:10.553Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +24,15 @@
   "entitlementName": "e0b7380c41be47b8a90fc33309297e58",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Bungie",
   "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": true
 }
