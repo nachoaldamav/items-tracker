@@ -1,7 +1,7 @@
 {
   "id": "0feb67ead44644a884f13cbb242ef8a7",
   "title": "Age of History 3",
-  "description": "Age of History 3",
+  "description": "Grand strategy where the destiny of Civilizations rests in your hands - will they stand united under your leadership or fall divided in conflict? Journey through the entire saga of human civilization, from its earliest days to the futuristic era, crafting your legacy age by age.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,7 +35,7 @@
   "namespace": "dfb48dfb84a04354a912913708e01d24",
   "status": "ACTIVE",
   "creationDate": "2024-02-12T22:26:13.447Z",
-  "lastModifiedDate": "2025-07-16T16:34:48.433Z",
+  "lastModifiedDate": "2025-07-16T22:06:40.701Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "a77749595d704704a93ffebca4d69fd7",
       "appId": "a714cec4fde64792a2d0ab6d8da3cde0",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Łukasz Jakowski Games",
