@@ -13,22 +13,14 @@
       "uploadedDate": "2019-01-08T13:44:04.333Z"
     },
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/meerkat/item/Gorogoa_logo-1091x183-b2c51b5dd7a4c1b065aa431356d03f74-1091x183-b2c51b5dd7a4c1b065aa431356d03f74.png",
-      "md5": "b2c51b5dd7a4c1b065aa431356d03f74",
-      "width": 1091,
-      "height": 183,
-      "size": 32348,
-      "uploadedDate": "2019-01-08T13:44:12.254Z"
-    },
-    {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/meerkat/item/Gorogoa_PortraitPromo-1280x1420-6f82bf45db6891abb8642ca2be62b741.jpg",
-      "md5": "6f82bf45db6891abb8642ca2be62b741",
-      "width": 1280,
-      "height": 1420,
-      "size": 259074,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/spt-assets/prod-meerkat/gorogoa-1ccdo.jpeg",
+      "md5": "f8de1e43021f3dd28d112a81eeed37fd",
+      "width": 1200,
+      "height": 1600,
+      "size": 564340,
+      "uploadedDate": "2025-06-24T20:01:47.379Z",
+      "alt": "Download Gorogoa Offer"
     }
   ],
   "categories": [
@@ -41,8 +33,8 @@
   ],
   "namespace": "meerkat",
   "status": "ACTIVE",
-  "creationDate": "2018-12-17T17:26:36.407Z",
-  "lastModifiedDate": "2019-11-19T17:02:49.228Z",
+  "creationDate": "2025-07-16T13:32:52.189Z",
+  "lastModifiedDate": "2025-07-16T18:00:38.765Z",
   "customAttributes": {
     "PresenceId": {
       "type": "STRING",
@@ -66,15 +58,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "15de3476c1b442e8b589c833aa2d7601",
+      "id": "812e81b499a04db1be8d6b8708e3d128",
       "appId": "Meerkat",
-      "compatibleApps": [],
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2018-12-17T00:00:00.000Z",
-      "releaseNote": "",
-      "versionTitle": ""
+      ]
     }
   ],
   "developer": "Annapurna Interactive",
