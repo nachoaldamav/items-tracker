@@ -1,7 +1,8 @@
 {
   "id": "baa450fa63ba413987e78f347854123a",
-  "title": "mellowyellow BDL27 audience",
-  "description": "mellowyellow BDL27 audience",
+  "title": "Destiny 2: Edge of Fate Ultimate Edition Upgrade audience",
+  "description": "Destiny 2: Edge of Fate Ultimate Edition Upgrade audience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +14,7 @@
   "namespace": "428115def4ca4deea9d69c99c5a5a99e",
   "status": "ACTIVE",
   "creationDate": "2024-09-06T09:05:19.397Z",
-  "lastModifiedDate": "2025-07-15T13:58:19.135Z",
+  "lastModifiedDate": "2025-07-17T13:41:49.428Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +24,15 @@
   "entitlementName": "baa450fa63ba413987e78f347854123a",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Bungie",
   "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": true
 }
