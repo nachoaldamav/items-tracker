@@ -32,13 +32,25 @@
   "namespace": "19e7f1f3eb5e4afb8015acf2fdc583ce",
   "status": "ACTIVE",
   "creationDate": "2025-04-27T05:31:30.549Z",
-  "lastModifiedDate": "2025-05-06T07:09:27.745Z",
+  "lastModifiedDate": "2025-07-18T05:38:22.653Z",
+  "customAttributes": {},
   "entitlementName": "7027d4ca0087494e8784a8114c73f60f",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "805af9bade2c463ab024709fb0504a02",
+      "appId": "661abb0856d840dda6251cf016cac879",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
   "developer": "KUBI Games",
   "developerId": "o-apetvf7bpycqjhxjq5n8ne9b88qvlc",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
