@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/9dc4c8c6c00349d79560466a43ad2ca6/screamer-13f9o.jpg",
-      "md5": "5173157f786d2cfdd874ccea481cd6aa",
+      "url": "https://cdn1.epicgames.com/spt-assets/9dc4c8c6c00349d79560466a43ad2ca6/screamer-t35bf.jpg",
+      "md5": "ac8cda4c458c73339c955d3c56b46eae",
       "width": 2560,
       "height": 1440,
-      "size": 510959,
-      "uploadedDate": "2024-11-29T14:38:50.632Z",
+      "size": 224465,
+      "uploadedDate": "2025-07-16T16:13:10.036Z",
       "alt": "Screamer Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/9dc4c8c6c00349d79560466a43ad2ca6/screamer-7mkj6.jpg",
-      "md5": "049883989923dcedfa37146ef7beae30",
+      "url": "https://cdn1.epicgames.com/spt-assets/9dc4c8c6c00349d79560466a43ad2ca6/screamer-1g6am.jpg",
+      "md5": "b10d51e29d1917d367e14146f417d7fb",
       "width": 1200,
       "height": 1600,
-      "size": 314457,
-      "uploadedDate": "2024-11-29T14:38:51.441Z",
+      "size": 163169,
+      "uploadedDate": "2025-07-16T16:13:04.927Z",
       "alt": "Download Screamer Offer"
     }
   ],
@@ -35,8 +35,12 @@
   "namespace": "17082e3fa470458fb68c4c8eea658dc9",
   "status": "ACTIVE",
   "creationDate": "2024-07-22T09:21:20.535Z",
-  "lastModifiedDate": "2025-06-09T15:10:54.745Z",
+  "lastModifiedDate": "2025-07-17T15:00:04.264Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Screamer/Saved_EpicGamesStore/SaveGames/{EpicID}/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "ScreamernjLL8"
@@ -57,6 +61,7 @@
   "developer": "Milestone Srl",
   "developerId": "o-n7dnjfk8y2kzquszv8mfn55fg68f7a",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
