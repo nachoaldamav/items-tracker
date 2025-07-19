@@ -35,11 +35,11 @@
   "namespace": "1fa5c33926df4706a51648064ac0bd3e",
   "status": "ACTIVE",
   "creationDate": "2025-02-13T11:32:56.594Z",
-  "lastModifiedDate": "2025-06-04T07:12:33.334Z",
+  "lastModifiedDate": "2025-07-18T23:02:35.558Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "MAVRIXlfSqh"
+      "value": "MAVRIX"
     }
   },
   "entitlementName": "ed5eb2e38b2145d288f90b148fb13971",
@@ -49,13 +49,15 @@
     {
       "id": "d1a0046de048458f911d68217661d0ca",
       "appId": "6df61cfce75841878e6d34a3c2adbd4c",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Cascade Interactive",
   "developerId": "o-dyj4qvs2z3jwhqyrs3b4tbr3fwbpbd",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567xcVKP7XsQi3ea4zk9m88m2DZ",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
