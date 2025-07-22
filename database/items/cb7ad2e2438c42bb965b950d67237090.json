@@ -35,11 +35,31 @@
   "namespace": "6f8addca2fba41539d30094249b6aa91",
   "status": "ACTIVE",
   "creationDate": "2024-04-12T14:26:45.963Z",
-  "lastModifiedDate": "2025-07-15T12:21:03.513Z",
+  "lastModifiedDate": "2025-07-21T14:44:43.073Z",
   "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "TRUE"
+    },
     "LaunchElevated": {
       "type": "STRING",
       "value": "true"
+    },
+    "SkipAutoInstallDlc": {
+      "type": "STRING",
+      "value": "TRUE"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "hone-updater.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "Hone.exe"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "TRUE"
     },
     "FolderName": {
       "type": "STRING",
