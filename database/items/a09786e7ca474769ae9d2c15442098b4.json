@@ -35,7 +35,7 @@
   "namespace": "cb4efbcc8be94ff7b99785902e9ca8a1",
   "status": "ACTIVE",
   "creationDate": "2023-06-15T08:10:49.228Z",
-  "lastModifiedDate": "2025-04-03T16:27:41.513Z",
+  "lastModifiedDate": "2025-07-23T14:17:12.046Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "01e3e9bd150c4832b6f7e7d20be86a5a",
       "appId": "104bd3bcd50d4472a902b73cce14a60f",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Aggressive Mastery",
