@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/0cc0f700eccd4274b9c7c7fccc2676d4/beyond-these-stars-p4oso.jpg",
-      "md5": "cc50ff6c8e630890f901d004b8f25c4a",
+      "url": "https://cdn1.epicgames.com/spt-assets/0cc0f700eccd4274b9c7c7fccc2676d4/beyond-these-stars-bmddd.jpg",
+      "md5": "10371c48f1fc57e48f58fec65e5b3558",
       "width": 2560,
       "height": 1440,
-      "size": 3452989,
-      "uploadedDate": "2023-02-08T19:29:57.959Z",
+      "size": 763339,
+      "uploadedDate": "2025-07-21T10:43:41.086Z",
       "alt": "Beyond These Stars Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/0cc0f700eccd4274b9c7c7fccc2676d4/beyond-these-stars-tzj0o.jpg",
-      "md5": "d1ee45fd31d229c189b65343dcbcc4eb",
+      "url": "https://cdn1.epicgames.com/spt-assets/0cc0f700eccd4274b9c7c7fccc2676d4/beyond-these-stars-117oi.jpg",
+      "md5": "311dd98479ea518ed1bed7d4be49389b",
       "width": 1200,
       "height": 1600,
-      "size": 2021321,
-      "uploadedDate": "2023-02-08T19:29:59.417Z",
+      "size": 492934,
+      "uploadedDate": "2025-07-21T10:43:40.789Z",
       "alt": "Download Beyond These Stars Offer"
     }
   ],
@@ -35,8 +35,12 @@
   "namespace": "151ce8ede0d148f2bf2b868f1c25fac0",
   "status": "ACTIVE",
   "creationDate": "2023-01-24T11:17:06.377Z",
-  "lastModifiedDate": "2024-10-14T13:00:55.626Z",
+  "lastModifiedDate": "2025-07-24T08:34:06.076Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Balancing Monkey Games/Beyond These Stars\\Saves/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "BeyondTheseStars"
@@ -49,7 +53,9 @@
     {
       "id": "3e53a52c3a094626a3e61b8d111cbd9c",
       "appId": "fceb198dfcc2454aaacb2ea6ef0d06bd",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Hooded Horse Inc.",
