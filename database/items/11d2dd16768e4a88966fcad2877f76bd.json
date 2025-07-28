@@ -35,8 +35,12 @@
   "namespace": "9789a00f56b84368b894bd7384719667",
   "status": "ACTIVE",
   "creationDate": "2025-02-20T18:26:37.558Z",
-  "lastModifiedDate": "2025-07-25T07:39:11.527Z",
+  "lastModifiedDate": "2025-07-28T00:57:42.240Z",
   "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Waku-Waku-Games-G-K-.Enjoy-the-Diner/{EpicID}/"
+    },
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{AppData}/../LocalLow/Waku Waku Games G_K_/Enjoy the Diner/{EpicID}/"
@@ -58,8 +62,8 @@
       "id": "ec7ee8dedce54385beef4a6b9b2d47df",
       "appId": "9f9bbffaea0e4c1bae49803d3143715e",
       "platform": [
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ]
     }
   ],
