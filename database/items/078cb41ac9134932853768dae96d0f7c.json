@@ -1,7 +1,7 @@
 {
   "id": "078cb41ac9134932853768dae96d0f7c",
-  "title": "Predator Hunters  Comic",
-  "description": "Predator Hunters  Comic",
+  "title": "PDF Comic",
+  "description": "PDF Comic",
   "longDescription": "Predator Hunters  Comic",
   "keyImages": [
     {
@@ -25,7 +25,7 @@
   ],
   "categories": [
     {
-      "path": "public"
+      "path": "digitalextras"
     },
     {
       "path": "applications"
@@ -34,7 +34,7 @@
   "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
   "status": "ACTIVE",
   "creationDate": "2020-04-06T19:58:49.849Z",
-  "lastModifiedDate": "2025-07-14T19:58:25.883Z",
+  "lastModifiedDate": "2025-07-29T17:17:20.629Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -54,8 +54,7 @@
       "appId": "e13a5418d240493ca0144f3c512a3279",
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2020-02-12T00:00:00.000Z"
+      ]
     }
   ],
   "developer": "IllFonic",
