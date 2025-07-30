@@ -1,7 +1,7 @@
 {
   "id": "036f9732b9f545fb9fe18da345574a0c",
-  "title": "ys_glb_bp_normal_tier10",
-  "description": "DLC08 Audience",
+  "title": "Gnostic Hymn_ConsumableAudience",
+  "description": "Gnostic Hymn_ConsumableAudience",
   "keyImages": [],
   "categories": [
     {
@@ -13,14 +13,9 @@
   ],
   "namespace": "879b0d8776ab46a59a129983ba78f0ce",
   "status": "ACTIVE",
-  "creationDate": "2021-06-22T04:46:28.639Z",
-  "lastModifiedDate": "2024-07-26T09:09:46.153Z",
-  "customAttributes": {
-    "SupportedPlatforms": {
-      "type": "STRING",
-      "value": "Windows"
-    }
-  },
+  "creationDate": "2025-07-08T03:02:29.608Z",
+  "lastModifiedDate": "2025-07-29T21:51:29.145Z",
+  "customAttributes": {},
   "entitlementName": "036f9732b9f545fb9fe18da345574a0c",
   "entitlementType": "AUDIENCE",
   "itemType": "CONSUMABLE",
@@ -31,10 +26,9 @@
   "eulaIds": [
     "egstore"
   ],
-  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
   "applicationId": "",
   "requiresSecureAccount": false,
-  "unsearchable": true
+  "unsearchable": false
 }
