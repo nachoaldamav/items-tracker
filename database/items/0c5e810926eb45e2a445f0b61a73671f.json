@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/a0034376e7384629ab7f32130aca113e/time-flies-1qe39.png",
-      "md5": "a615d421ca1d08efc309bb447620e1ec",
+      "url": "https://cdn1.epicgames.com/spt-assets/a0034376e7384629ab7f32130aca113e/time-flies-xxdkk.png",
+      "md5": "b4670a58cc78f19bc437ebdd4726c382",
       "width": 2560,
       "height": 1440,
-      "size": 18868,
-      "uploadedDate": "2023-08-09T18:58:30.730Z",
+      "size": 19074,
+      "uploadedDate": "2025-05-26T12:27:10.049Z",
       "alt": "Time Flies Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/a0034376e7384629ab7f32130aca113e/time-flies-1c87s.png",
-      "md5": "ed661b91144ed9d5b782f44a8f00dec3",
+      "url": "https://cdn1.epicgames.com/spt-assets/a0034376e7384629ab7f32130aca113e/time-flies-1m47b.png",
+      "md5": "c879c05e7a19a3e8b2e723f455f95b39",
       "width": 1200,
       "height": 1600,
-      "size": 13703,
-      "uploadedDate": "2023-08-09T18:58:35.514Z",
+      "size": 13921,
+      "uploadedDate": "2025-05-26T12:27:13.344Z",
       "alt": "Download Time Flies Offer"
     }
   ],
@@ -34,9 +34,17 @@
   ],
   "namespace": "deef7522b0aa48629c8df8cfab16007c",
   "status": "ACTIVE",
-  "creationDate": "2023-08-29T17:00:35.488Z",
-  "lastModifiedDate": "2023-08-29T17:00:35.488Z",
+  "creationDate": "2023-08-08T14:49:43.591Z",
+  "lastModifiedDate": "2025-07-30T23:04:50.939Z",
   "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Playables/Time Flies/EGS/sync/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Playables/Time Flies/EGS/sync/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "TimeFlies"
@@ -49,13 +57,18 @@
     {
       "id": "57c6e6ffdc8c4003a550b0dcd3520c1e",
       "appId": "6ad8e4fccb2849d99718781f30903c6c",
-      "platform": []
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
     }
   ],
   "developer": "Panic",
   "developerId": "o-a62axwpwx275msq4yzhdhk9acaf8x3",
+  "eulaIds": [],
   "endOfSupport": false,
-  "applicationId": "",
+  "ageGatings": {},
+  "applicationId": "fghi4567CJSn6sF5oVfWf19EIytELNHm",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
