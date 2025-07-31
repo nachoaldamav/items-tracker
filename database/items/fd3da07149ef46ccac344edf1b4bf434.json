@@ -31,14 +31,25 @@
   ],
   "namespace": "c265245a0790465cbf32df9aa540e590",
   "status": "ACTIVE",
-  "creationDate": "2025-07-23T08:10:45.515Z",
-  "lastModifiedDate": "2025-07-23T08:10:45.515Z",
+  "creationDate": "2025-07-14T13:28:18.846Z",
+  "lastModifiedDate": "2025-07-30T08:46:13.906Z",
+  "customAttributes": {},
   "entitlementName": "fd3da07149ef46ccac344edf1b4bf434",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d2063ecc68df4db98625e3038011e80d",
+      "appId": "dfb1581981794b4e9dcb5fefdddf6e14",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
   "developer": "Slitherine Software UK Ltd.",
   "developerId": "o-h4mg4jfen23pupwq2dzpvw7vbf5s5z",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
