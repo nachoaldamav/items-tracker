@@ -35,8 +35,12 @@
   "namespace": "f30e90061a554d4a977c99d4b0baa892",
   "status": "ACTIVE",
   "creationDate": "2024-06-26T12:53:18.296Z",
-  "lastModifiedDate": "2025-04-30T12:27:15.771Z",
+  "lastModifiedDate": "2025-07-30T18:25:33.066Z",
   "customAttributes": {
+    "ForceSignedUrls": {
+      "type": "STRING",
+      "value": "true"
+    },
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{AppData}/motogp25/Saved_EpicGamesStore/SaveGames/{EpicID}/"
@@ -60,7 +64,9 @@
   ],
   "developer": "Milestone Srl",
   "developerId": "o-n7dnjfk8y2kzquszv8mfn55fg68f7a",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
