@@ -35,7 +35,7 @@
   "namespace": "b59d60da5b6a46cba336146acb5bbf70",
   "status": "ACTIVE",
   "creationDate": "2024-09-06T01:41:35.924Z",
-  "lastModifiedDate": "2025-06-27T19:52:44.587Z",
+  "lastModifiedDate": "2025-07-31T18:20:06.440Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "a7cbb04842724208becd8247eb8eb4a2",
       "appId": "3462772a5fc747df95ab47b0a0905661",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "master_mind3",
