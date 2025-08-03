@@ -32,12 +32,20 @@
   "namespace": "707ae8570efa44aa9071d48251784e4c",
   "status": "ACTIVE",
   "creationDate": "2025-06-18T13:26:22.978Z",
-  "lastModifiedDate": "2025-07-04T18:43:14.095Z",
+  "lastModifiedDate": "2025-08-01T20:19:29.723Z",
   "customAttributes": {},
   "entitlementName": "36e58d5241d94797bf02fe521acbaa51",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
-  "releaseInfo": [],
+  "releaseInfo": [
+    {
+      "id": "ea2d0474215b448e985635b06ea52598",
+      "appId": "78307f351c7048b58e6e0cad454eee5b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
   "developer": "Virtual Arts Studio",
   "developerId": "o-9tp69lnaakj9bsxrruahwtpen535zl",
   "endOfSupport": false,
