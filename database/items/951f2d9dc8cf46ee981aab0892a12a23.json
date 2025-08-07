@@ -35,8 +35,12 @@
   "namespace": "dbba31245c4345f7b9efa2f8434c446a",
   "status": "ACTIVE",
   "creationDate": "2023-10-27T08:40:25.432Z",
-  "lastModifiedDate": "2025-07-28T13:48:23.502Z",
+  "lastModifiedDate": "2025-08-06T13:51:50.938Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Lululu Entertainment/Henry Halfhead/saves/{EpicID}/gamesaves/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "HenryHalfhead"
@@ -49,7 +53,9 @@
     {
       "id": "38d085e7e8d5495f9d8e51055b7d4bfd",
       "appId": "c66fee35fc4b4e7aa8691ca05ea93996",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Lululu Entertainment",
