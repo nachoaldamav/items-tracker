@@ -35,8 +35,12 @@
   "namespace": "74ef4349fd684c438077d9e5287c7b2e",
   "status": "ACTIVE",
   "creationDate": "2023-07-11T16:38:23.589Z",
-  "lastModifiedDate": "2025-05-30T18:13:52.366Z",
+  "lastModifiedDate": "2025-08-07T02:40:38.287Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/CrosshairX/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "CrosshairX"
