@@ -35,11 +35,11 @@
   "namespace": "29d8a89af9c7437d911dace2fe68e501",
   "status": "ACTIVE",
   "creationDate": "2025-03-28T10:38:12.683Z",
-  "lastModifiedDate": "2025-07-07T07:23:21.158Z",
+  "lastModifiedDate": "2025-08-14T08:09:15.074Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "ADGame"
+      "value": "AutoDrive"
     }
   },
   "entitlementName": "e88be07488514f3caeed42cf3349a2e6",
@@ -49,13 +49,15 @@
     {
       "id": "669e89a530ef431ca4a32d92a3ff4390",
       "appId": "c8ebc838fe124baaa38667bd60e6e537",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "maxware",
   "developerId": "o-54tn4zlsrrzrv9r6be9gbqtbn5xmkk",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567xnSpo3ylcL2cDtP8yojUn5u1",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
