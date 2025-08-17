@@ -1,7 +1,8 @@
 {
   "id": "882bb334acc347ad8172a10e5f5572ff",
-  "title": "boyozGeneralAudience",
-  "description": "boyozGeneralAudience",
+  "title": "boyoz devkit general Audience",
+  "description": "boyoz devkit general Audience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +14,7 @@
   "namespace": "dae80c0d4e3b4d648498b48af609b8bb",
   "status": "ACTIVE",
   "creationDate": "2023-06-19T21:43:59.819Z",
-  "lastModifiedDate": "2023-11-02T23:59:09.450Z",
+  "lastModifiedDate": "2025-08-15T23:17:34.254Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +24,15 @@
   "entitlementName": "882bb334acc347ad8172a10e5f5572ff",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Studio Wildcard",
   "developerId": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": true
 }
