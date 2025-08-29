@@ -1,7 +1,7 @@
 {
   "id": "ea435776049a43028aa31282ece50022",
-  "title": "RA RA BOOM",
-  "description": "RA RA BOOM",
+  "title": "Ra Ra BOOM",
+  "description": "Grab your pom poms and gear up for 4-player co-op action with a modern twist! Ra Ra BOOM rockets you to a future Earth overrun by rogue AI. Battle waves of enemies and upgrade your ninja cheerleader’s skills as you beat ‘em up, shoot ‘em up, and smash through the chaos!",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,9 +34,17 @@
   ],
   "namespace": "b12a994bf5b7498a9eafe84fe1d97d3a",
   "status": "ACTIVE",
-  "creationDate": "2025-04-30T13:10:46.098Z",
-  "lastModifiedDate": "2025-04-30T13:10:46.098Z",
+  "creationDate": "2023-12-07T22:02:57.262Z",
+  "lastModifiedDate": "2025-08-29T01:09:27.711Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Gylee Games/Ra Ra BOOM/Saves/{EpicID}/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "RaRaBOOM"
@@ -49,7 +57,10 @@
     {
       "id": "067af1d374a4413ca35721443b1cad00",
       "appId": "23ee3c916e3f4ee7b01540e48c2fc3c9",
-      "platform": []
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Gylee Games",
