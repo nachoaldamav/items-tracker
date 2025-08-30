@@ -1,0 +1,75 @@
+{
+  "id": "02bafe04e84d4d4bad54292ca43d53d8",
+  "title": "Sonic Racing: CrossWorlds - Open Network Test",
+  "description": "Race with players from around the world during this limited free-to-play period!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/011d8cdfcc5c46198fd086036940e28f/sonic-racing-crossworlds-16i4s.jpg",
+      "md5": "76417b19187cea8dd5337856e9609403",
+      "width": 2560,
+      "height": 1440,
+      "size": 1009333,
+      "uploadedDate": "2025-07-11T18:18:21.771Z",
+      "alt": "Sonic Racing: CrossWorlds TERRA Open Network Test Production Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/011d8cdfcc5c46198fd086036940e28f/sonic-racing-crossworlds-z6e2c.jpg",
+      "md5": "d4ffb584aadbc8db5f420ceff46f68c8",
+      "width": 1200,
+      "height": 1600,
+      "size": 1021259,
+      "uploadedDate": "2025-07-11T18:18:27.084Z",
+      "alt": "Download Sonic Racing: CrossWorlds TERRA Open Network Test Production Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "da1c2c6e190147019e4188f24687a17c",
+  "status": "ACTIVE",
+  "creationDate": "2025-08-25T16:58:43.609Z",
+  "lastModifiedDate": "2025-08-25T16:58:43.609Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/SEGA/SonicRacingCrossWorldsONT/Epic/{EpicID}/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "option*.sav"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "TRUE"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SonicRacingCrossWorldsONT"
+    }
+  },
+  "entitlementName": "02bafe04e84d4d4bad54292ca43d53d8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bf142a3c-89d7-41dc-a378-fb2e1dcdd1ad",
+      "appId": "8132dfee595244f0b98cb6a6d8441358",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Sega of America",
+  "developerId": "o-5gbgsfvsrt9wlx9gu868mrxmhq6dlv",
+  "endOfSupport": false,
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
