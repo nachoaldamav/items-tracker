@@ -1,0 +1,34 @@
+{
+  "id": "23b028edea9546428d084124494abb16",
+  "title": "quesito demo audience",
+  "description": "quesito demo audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "58a18be6bbba41a0bf52b014bb81d33b",
+  "status": "ACTIVE",
+  "creationDate": "2025-04-04T18:35:59.821Z",
+  "lastModifiedDate": "2025-08-29T19:48:39.482Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "23b028edea9546428d084124494abb16",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Grinding Gear Games",
+  "developerId": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

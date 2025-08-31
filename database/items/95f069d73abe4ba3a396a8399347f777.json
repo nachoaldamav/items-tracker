@@ -1,0 +1,87 @@
+{
+  "id": "95f069d73abe4ba3a396a8399347f777",
+  "title": "Path of Exile 2",
+  "description": "Path of Exile 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/58a18be6bbba41a0bf52b014bb81d33b/EGS_PathofExile2_GrindingGearGames_S1_2560x1440-7fb16cc3968a515e04f90cbb1c4e0648",
+      "md5": "7fb16cc3968a515e04f90cbb1c4e0648",
+      "width": 2560,
+      "height": 1440,
+      "size": 888777,
+      "uploadedDate": "2023-12-13T21:30:45.482Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/58a18be6bbba41a0bf52b014bb81d33b/EGS_PathofExile2_GrindingGearGames_S2_1200x1600-1323726c167f7f050958d1a0547a7400",
+      "md5": "1323726c167f7f050958d1a0547a7400",
+      "width": 1200,
+      "height": 1600,
+      "size": 471548,
+      "uploadedDate": "2023-12-13T21:30:48.158Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "58a18be6bbba41a0bf52b014bb81d33b",
+  "status": "ACTIVE",
+  "creationDate": "2023-11-21T16:01:37.119Z",
+  "lastModifiedDate": "2025-08-20T20:57:05.539Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "58a18be6bbba41a0bf52b014bb81d33b"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PathOfExile2"
+    }
+  },
+  "entitlementName": "95f069d73abe4ba3a396a8399347f777",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a66d4acc8a1b483395c18695c2b16c57",
+      "appId": "57d39134358849b1b765ee649ea6a6e9",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2023-12-13T21:37:00.000Z"
+    }
+  ],
+  "developer": "Grinding Gear Games",
+  "developerId": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567kGgcoo3qwREjmiSs9tgR9GLV",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
