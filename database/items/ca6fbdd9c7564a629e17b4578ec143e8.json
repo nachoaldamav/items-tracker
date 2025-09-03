@@ -1,26 +1,26 @@
 {
   "id": "ca6fbdd9c7564a629e17b4578ec143e8",
   "title": "Legend Of The Crystal Skulls",
-  "description": "Legend Of The Crystal Skulls",
+  "description": "There are stories of ancient artifacts, hidden throughout the world that once found will unlock the true potential of humanity.\n\nThis is the story of one person, trying to seek their destiny.",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/0dcc3e59122b4b7d95aa6e717d294e9c/legend-of-the-crystal-skulls-x17li.png",
-      "md5": "eafa2677c8b77f23eb7bab48432b01ba",
+      "url": "https://cdn1.epicgames.com/spt-assets/0dcc3e59122b4b7d95aa6e717d294e9c/legend-of-the-crystal-skulls-1nuad.png",
+      "md5": "a06e085dd618c7bbb188b7f515fc0771",
       "width": 2560,
       "height": 1440,
-      "size": 1494854,
-      "uploadedDate": "2025-06-12T22:54:40.872Z",
+      "size": 1489474,
+      "uploadedDate": "2025-08-15T20:54:45.519Z",
       "alt": "Legend Of The Crystal Skulls Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/0dcc3e59122b4b7d95aa6e717d294e9c/legend-of-the-crystal-skulls-14frq.png",
-      "md5": "0e4fce9e113ec1b98cba041243cf8152",
+      "url": "https://cdn1.epicgames.com/spt-assets/0dcc3e59122b4b7d95aa6e717d294e9c/legend-of-the-crystal-skulls-1ggpy.png",
+      "md5": "420d98ef42b30e52e26947ba3535e939",
       "width": 1200,
       "height": 1600,
-      "size": 2584601,
-      "uploadedDate": "2025-06-12T22:55:08.602Z",
+      "size": 3272690,
+      "uploadedDate": "2025-08-15T20:54:52.353Z",
       "alt": "Download Legend Of The Crystal Skulls Offer"
     }
   ],
@@ -34,12 +34,12 @@
   ],
   "namespace": "65237b90b3de476698d3df3ae8ea737a",
   "status": "ACTIVE",
-  "creationDate": "2025-06-26T19:15:52.607Z",
-  "lastModifiedDate": "2025-06-26T19:15:52.607Z",
+  "creationDate": "2025-02-03T04:27:36.256Z",
+  "lastModifiedDate": "2025-09-02T01:29:50.869Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "LegendOfTheCrystalSkNNRHI"
+      "value": "LegendOfTheCrystalSkulls"
     }
   },
   "entitlementName": "ca6fbdd9c7564a629e17b4578ec143e8",
@@ -50,13 +50,15 @@
       "id": "cde906c6ac264fa7b1b263f18617d326",
       "appId": "a5d7e10845ee40d9a6fc8ac6304b0b99",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ]
     }
   ],
   "developer": "Oddisee Games LLC",
   "developerId": "o-epvcadwqhfjshjgmft7gkj8sme7jhl",
   "endOfSupport": false,
+  "applicationId": "fghi4567CTD74yN8XJSwK9rU20edNKd4",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
