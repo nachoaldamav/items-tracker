@@ -1,25 +1,27 @@
 {
   "id": "2a8f3c0d466f47ca82a8553df6ed2f52",
-  "title": "Vampire: The Masquerade – Bloodlines 2",
-  "description": "Vampire: The Masquerade – Bloodlines 2",
+  "title": "Vampire: The Masquerade® - Bloodlines™ 2",
+  "description": "Awaken from a century-long slumber as the Nomad — an elder vampire new to the modern nights, in Vampire: The Masquerade - Bloodlines 2, an action RPG, where visceral vampire action meets a neo-noir murder mystery.",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/item/nemesia/EGS_VampireTheMasqueradeBloodlines2_TheChineseRoom_S1_2560x1440-eed15ab6496fcba9770d4205aeb2aaf7",
-      "md5": "eed15ab6496fcba9770d4205aeb2aaf7",
+      "url": "https://cdn1.epicgames.com/spt-assets/prod-nemesia/vampire-the-masquerade--bloodlines-2-wkihm.jpg",
+      "md5": "034c8f913a5fa5c77b5ae7ca916aefb2",
       "width": 2560,
       "height": 1440,
-      "size": 532507,
-      "uploadedDate": "2023-08-30T15:20:49.171Z"
+      "size": 917150,
+      "uploadedDate": "2025-07-16T11:51:41.323Z",
+      "alt": "Vampire: The Masquerade - Bloodlines 2 Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/nemesia/EGS_VampireTheMasqueradeBloodlines2_TheChineseRoom_S2_1200x1600-31c6dc03b2c02f7cf43b6df2972791bf",
-      "md5": "31c6dc03b2c02f7cf43b6df2972791bf",
+      "url": "https://cdn1.epicgames.com/spt-assets/prod-nemesia/vampire-the-masquerade--bloodlines-2-17yyy.jpg",
+      "md5": "c5cddb2ac5206dcb5c0b6fa63eec9d9d",
       "width": 1200,
       "height": 1600,
-      "size": 339924,
-      "uploadedDate": "2023-08-30T15:20:51.842Z"
+      "size": 555243,
+      "uploadedDate": "2025-07-16T11:51:44.865Z",
+      "alt": "Download Vampire: The Masquerade - Bloodlines 2 Offer"
     }
   ],
   "categories": [
@@ -32,8 +34,8 @@
   ],
   "namespace": "nemesia",
   "status": "ACTIVE",
-  "creationDate": "2019-03-13T12:11:22.827Z",
-  "lastModifiedDate": "2024-04-02T16:37:45.022Z",
+  "creationDate": "2024-12-10T23:12:54.765Z",
+  "lastModifiedDate": "2025-08-22T07:43:55.363Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -47,6 +49,10 @@
       "type": "STRING",
       "value": "true"
     },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Bloodlines2/Epic/Saved/SaveGames/"
+    },
     "com.epicgames.app.developerName": {
       "type": "STRING",
       "value": "Paradox Interactive"
@@ -59,9 +65,13 @@
       "type": "STRING",
       "value": "true"
     },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
     "FolderName": {
       "type": "STRING",
-      "value": "VampireTheMasqueradeBloodlines2"
+      "value": "Bloodlines2"
     },
     "SupportedPlatforms": {
       "type": "STRING",
@@ -75,13 +85,10 @@
     {
       "id": "d34bc6e358d44114a2bd2144ed6197b4",
       "appId": "Nemesia",
-      "compatibleApps": [],
       "platform": [
+        "Win32",
         "Windows"
-      ],
-      "dateAdded": "2019-03-13T00:00:00.000Z",
-      "releaseNote": "",
-      "versionTitle": ""
+      ]
     }
   ],
   "developer": "Paradox Interactive",
@@ -91,6 +98,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
-  "applicationId": "",
+  "applicationId": "fghi45677Z69HCeITSxpM4oUKzybOyKK",
   "unsearchable": false
 }
