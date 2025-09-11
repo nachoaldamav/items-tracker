@@ -35,8 +35,16 @@
   "namespace": "de2550653b9146cbbabbc4c628870d51",
   "status": "ACTIVE",
   "creationDate": "2025-02-27T10:31:08.605Z",
-  "lastModifiedDate": "2025-05-06T10:43:10.006Z",
+  "lastModifiedDate": "2025-09-05T08:58:20.384Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/ASC/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "GameProgressionEos.sav"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "FormulaLegendsc3s0Y"
@@ -57,6 +65,7 @@
   "developer": "3DClouds SRL",
   "developerId": "o-4uhjx9kx4ck6cllux3tdshrzlmny7z",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
