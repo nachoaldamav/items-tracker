@@ -35,11 +35,11 @@
   "namespace": "b68272f22bf247be83b9ee5f65992139",
   "status": "ACTIVE",
   "creationDate": "2025-02-25T18:10:06.701Z",
-  "lastModifiedDate": "2025-06-22T14:50:53.540Z",
+  "lastModifiedDate": "2025-09-01T16:49:33.331Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "LHEAandtheWordSpirit"
+      "value": "LHEA"
     }
   },
   "entitlementName": "5e5bd681e57d4148a0e570698064e706",
@@ -49,13 +49,15 @@
     {
       "id": "37f9b0ab28794289bea28c314a952c9c",
       "appId": "17731c75def4459f8252ba13b2762045",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Soul Fuel Games",
   "developerId": "o-y4p9rjn5l7v2xtkq4jbg248fvv9ah9",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567jEAG3wQ9Qsx9pr0zgfhherxq",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
