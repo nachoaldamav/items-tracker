@@ -34,9 +34,17 @@
   ],
   "namespace": "4e0a204021b745bfa9dfc293bac459be",
   "status": "ACTIVE",
-  "creationDate": "2025-05-28T13:08:39.763Z",
-  "lastModifiedDate": "2025-05-28T13:08:39.763Z",
+  "creationDate": "2025-04-30T00:29:27.889Z",
+  "lastModifiedDate": "2025-09-08T16:01:38.753Z",
   "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/Dinogod/Bounty Star/Eos/{EpicID}/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Dinogod/Bounty Star/Eos/{EpicID}/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "BountyStar"
@@ -49,7 +57,9 @@
     {
       "id": "3063ab6ecd6a418ea6235cf23ecf9d98",
       "appId": "7f47142cbf854892af153f307d25b58f",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Annapurna Interactive",
