@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/df55cf45649044fd98c85ce2db0269f5/quantum-frame-bs3x1.png",
-      "md5": "b8133ce29ccb0e8e8635cd250bf8c098",
+      "url": "https://cdn1.epicgames.com/spt-assets/df55cf45649044fd98c85ce2db0269f5/quantum-frame-1c89j.png",
+      "md5": "854e006830f2c511a2a68034df79bc37",
       "width": 2560,
       "height": 1440,
-      "size": 3892473,
-      "uploadedDate": "2025-05-05T06:07:06.394Z",
+      "size": 3490050,
+      "uploadedDate": "2025-09-02T04:52:12.893Z",
       "alt": "Quantum Frame Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/df55cf45649044fd98c85ce2db0269f5/quantum-frame-1r694.jpg",
-      "md5": "67599b456ffef9c7f740b112e4e3d242",
+      "url": "https://cdn1.epicgames.com/spt-assets/df55cf45649044fd98c85ce2db0269f5/quantum-frame-1j6pn.png",
+      "md5": "c3d18a6a47b58655d4244a06a79075a2",
       "width": 1200,
       "height": 1600,
-      "size": 303903,
-      "uploadedDate": "2025-05-07T16:09:07.254Z",
+      "size": 2395009,
+      "uploadedDate": "2025-09-02T04:51:48.008Z",
       "alt": "Download Quantum Frame Offer"
     }
   ],
@@ -35,7 +35,7 @@
   "namespace": "e53a3192a4b344f0be3d1164b48ef02b",
   "status": "ACTIVE",
   "creationDate": "2024-01-13T19:44:43.709Z",
-  "lastModifiedDate": "2025-06-05T15:31:21.414Z",
+  "lastModifiedDate": "2025-09-03T17:00:21.144Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,15 +49,14 @@
     {
       "id": "1fd005073e8140e28a74facf295394c5",
       "appId": "57503332e21c49c1bfadab20b9d6d16f",
-      "compatibleApps": [],
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Cyber Crew",
   "developerId": "o-vgeq5m4cyg3ks3va5nzc29wfvxqkbh",
-  "eulaIds": [],
   "endOfSupport": false,
-  "ageGatings": {},
   "applicationId": "fghi4567on24OUuaR7oHY5yweQYad3rG",
   "requiresSecureAccount": false,
   "unsearchable": false
