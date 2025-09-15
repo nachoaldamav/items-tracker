@@ -1,7 +1,8 @@
 {
   "id": "538825c55e3142e9baff5291582a18e0",
-  "title": "DevEmperorAudience",
-  "description": "DevEmperorAudience",
+  "title": "Emperor devAudience",
+  "description": "Emperor devAudience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +14,7 @@
   "namespace": "109273d8719f46b9b89cb912a6649e5c",
   "status": "ACTIVE",
   "creationDate": "2020-02-18T15:32:40.963Z",
-  "lastModifiedDate": "2020-03-05T16:03:53.653Z",
+  "lastModifiedDate": "2025-08-26T18:15:31.863Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,11 +24,14 @@
   "entitlementName": "538825c55e3142e9baff5291582a18e0",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Raw Fury",
   "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
