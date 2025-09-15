@@ -1,7 +1,7 @@
 {
   "id": "b587bab7b2ec429a94913252ebebe5c1",
   "title": "Brave Escape Friend's Pass",
-  "description": "Brave Escape Friend's Pass",
+  "description": "Only one player needs to own the game! With the Friend's Pass, you can join a friend for free and experience the full adventure together.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,19 +35,19 @@
   "namespace": "04304ec782134f1d9265230783e65d3b",
   "status": "ACTIVE",
   "creationDate": "2025-05-08T18:28:51.266Z",
-  "lastModifiedDate": "2025-06-12T12:16:01.806Z",
+  "lastModifiedDate": "2025-09-01T12:11:05.311Z",
   "customAttributes": {
     "CloudSaveFolder_MAC": {
       "type": "STRING",
-      "value": "{AppData}/Brave Escape Friends Pass/saves/epic-{EpicId}/"
+      "value": "{AppData}/Brave Escape/saves/epic-{EpicId}/"
     },
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{AppData}/../Roaming/Brave Escape Friends Pass/saves/epic-{EpicId}/"
+      "value": "{AppData}/../Roaming/Brave Escape/saves/epic-{EpicId}/"
     },
     "CloudIncludeList": {
       "type": "STRING",
-      "value": "*.save"
+      "value": "*demo*.save"
     },
     "MaxSizeMB": {
       "type": "STRING",

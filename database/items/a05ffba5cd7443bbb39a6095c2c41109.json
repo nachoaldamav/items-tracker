@@ -1,7 +1,7 @@
 {
   "id": "a05ffba5cd7443bbb39a6095c2c41109",
   "title": "Brave Escape",
-  "description": "Brave Escape",
+  "description": "Embark on a thrilling co-op adventure in 'Brave Escape,' a challenging platformer demanding teamwork to conquer perilous traps and treacherous terrain.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,7 +35,7 @@
   "namespace": "04304ec782134f1d9265230783e65d3b",
   "status": "ACTIVE",
   "creationDate": "2025-04-23T15:31:52.236Z",
-  "lastModifiedDate": "2025-06-12T12:16:01.806Z",
+  "lastModifiedDate": "2025-09-01T12:11:05.311Z",
   "customAttributes": {
     "CloudSaveFolder_MAC": {
       "type": "STRING",
@@ -47,7 +47,7 @@
     },
     "CloudIncludeList": {
       "type": "STRING",
-      "value": "*.save"
+      "value": "*game*.save"
     },
     "MaxSizeMB": {
       "type": "STRING",
