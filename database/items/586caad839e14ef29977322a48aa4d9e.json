@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/79c56b7b7fa5447ba6e76ab0e1b5f799/skate-1gzos.jpg",
-      "md5": "6b5fdc87645ee44bbfb85b5da605e910",
+      "url": "https://cdn1.epicgames.com/spt-assets/79c56b7b7fa5447ba6e76ab0e1b5f799/skate-simv0.jpg",
+      "md5": "3cb81e4fa7b13461330896618583fa74",
       "width": 2560,
       "height": 1440,
-      "size": 749903,
-      "uploadedDate": "2025-05-09T22:08:07.872Z",
+      "size": 909652,
+      "uploadedDate": "2025-08-29T11:39:53.645Z",
       "alt": "Skate Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/79c56b7b7fa5447ba6e76ab0e1b5f799/skate-1eokc.jpg",
-      "md5": "4d2b97b3d15a012cc0f6a17a628d38e4",
+      "url": "https://cdn1.epicgames.com/spt-assets/79c56b7b7fa5447ba6e76ab0e1b5f799/skate-9ikbb.jpg",
+      "md5": "62f739f10cd80133e31683e201dc8db1",
       "width": 1200,
       "height": 1600,
-      "size": 480055,
-      "uploadedDate": "2025-05-09T22:08:11.136Z",
+      "size": 652804,
+      "uploadedDate": "2025-08-29T11:39:58.392Z",
       "alt": "Download Skate Offer"
     }
   ],
@@ -35,11 +35,35 @@
   "namespace": "952a41ababd44432b9958babf7d78f22",
   "status": "ACTIVE",
   "creationDate": "2024-11-15T14:30:32.127Z",
-  "lastModifiedDate": "2025-06-18T16:24:17.519Z",
+  "lastModifiedDate": "2025-09-08T22:10:35.514Z",
   "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Full Circle\\Skate"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "Skate.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "Skate.exe"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "SkatecKfHR"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
     }
   },
   "entitlementName": "586caad839e14ef29977322a48aa4d9e",
@@ -48,13 +72,17 @@
   "releaseInfo": [
     {
       "id": "1c6dcbd4dda947d28810a4f407a788a6",
-      "appId": "09d5cd81fa904e678ae2add9a44aa215",
-      "platform": []
+      "appId": "cavalier",
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Electronic Arts",
   "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
