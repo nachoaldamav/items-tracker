@@ -1,7 +1,7 @@
 {
   "id": "bf7acb62393e488380486357085c5708",
   "title": "Arena Breakout: Infinite",
-  "description": "Arena Breakout: Infinite is an immersive tactical extraction FPS. Join the fight to shoot and loot your path to fortune. With realistic visuals and true-to-life audio, push through tough battles where the stakes are high and the rewards even higher.",
+  "description": "Arena Breakout: Infinite is a high-stakes tactical extraction shooter where every decision matters. Fight, loot, and extract alive—or lose it all. With realistic visuals, true-to-life sound design, and unforgiving PvPvE combat, every raid is a gamble between glory and ruin.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,11 +35,19 @@
   "namespace": "6c8394f0a8b748a68503b1c339c19616",
   "status": "ACTIVE",
   "creationDate": "2024-07-01T08:20:33.119Z",
-  "lastModifiedDate": "2025-09-01T02:17:31.159Z",
+  "lastModifiedDate": "2025-09-15T01:57:28.553Z",
   "customAttributes": {
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "arena_breakout_infinite_launcher.exe"
+    },
     "FolderName": {
       "type": "STRING",
-      "value": "ArenaBreakoutInfiniteK2J8"
+      "value": "ArenaBreakoutInfiniteEpic"
+    },
+    "BackgroundProcessNames": {
+      "type": "STRING",
+      "value": "arena_breakout_infinite_launcher.exe"
     }
   },
   "entitlementName": "bf7acb62393e488380486357085c5708",
@@ -50,14 +58,16 @@
       "id": "fa92250cc770489ea0401738f4f24fc4",
       "appId": "74f48b0ace5c4ad2be579813b8fb5384",
       "platform": [
-        "Win32",
         "Windows"
       ]
     }
   ],
   "developer": "Proxima Beta Europe B.V.",
   "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567H3SbApDccHxcDvHFOmUaGdg7",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
