@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/ae4a26962c2d416288dc72a7e26a2b62/nicktoons-and-the-dice-of-destiny-esjoe.png",
-      "md5": "93adc510bd6b3c3751298597aa5c863d",
+      "url": "https://cdn1.epicgames.com/spt-assets/ae4a26962c2d416288dc72a7e26a2b62/nicktoons-and-the-dice-of-destiny-wqfd3.png",
+      "md5": "a235c0127a6e981f380810f7c2fda7e6",
       "width": 2560,
       "height": 1440,
-      "size": 3577962,
-      "uploadedDate": "2025-06-25T09:32:23.829Z",
+      "size": 3665220,
+      "uploadedDate": "2025-09-04T15:03:42.460Z",
       "alt": "Nicktoons and The Dice of Destiny Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/ae4a26962c2d416288dc72a7e26a2b62/nicktoons-and-the-dice-of-destiny-1rwf3.png",
-      "md5": "28a55e4ca75a087eebf7fd6747a0c025",
+      "url": "https://cdn1.epicgames.com/spt-assets/ae4a26962c2d416288dc72a7e26a2b62/nicktoons-and-the-dice-of-destiny-7ipks.png",
+      "md5": "d6d861136adc2b626e519e1b7ff854e0",
       "width": 1200,
       "height": 1600,
-      "size": 2323479,
-      "uploadedDate": "2025-06-25T09:32:23.986Z",
+      "size": 2408303,
+      "uploadedDate": "2025-09-04T15:03:41.872Z",
       "alt": "Download Nicktoons and The Dice of Destiny Offer"
     }
   ],
@@ -35,8 +35,16 @@
   "namespace": "a4dcace1e96444d89dbafcf5239b37fb",
   "status": "ACTIVE",
   "creationDate": "2025-06-06T10:13:40.054Z",
-  "lastModifiedDate": "2025-06-26T09:10:21.819Z",
+  "lastModifiedDate": "2025-09-10T16:10:12.198Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Dice/Saved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "NicktoonsandTheDiceoy7zNG"
@@ -49,7 +57,10 @@
     {
       "id": "4d752960ce0d40f4bcb1d0c3e9163283",
       "appId": "9ecb0e8756e34538be2d3922bd5b4929",
-      "platform": []
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "GameMill Entertainment, LLC",
