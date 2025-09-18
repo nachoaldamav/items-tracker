@@ -26,13 +26,7 @@
   ],
   "categories": [
     {
-      "path": "public"
-    },
-    {
       "path": "digitalextras"
-    },
-    {
-      "path": "games"
     },
     {
       "path": "applications"
@@ -41,7 +35,7 @@
   "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "status": "ACTIVE",
   "creationDate": "2024-04-04T20:44:40.228Z",
-  "lastModifiedDate": "2025-02-21T16:32:53.788Z",
+  "lastModifiedDate": "2025-09-18T00:44:28.524Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -52,10 +46,6 @@
       "value": "ca4058f18b0a4a9e9e2ccc28f7f33000"
     },
     "MonitorPresence": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "UseAccessControl": {
       "type": "STRING",
       "value": "true"
     },
@@ -91,5 +81,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }

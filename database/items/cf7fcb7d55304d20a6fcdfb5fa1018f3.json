@@ -38,7 +38,7 @@
   "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "status": "ACTIVE",
   "creationDate": "2024-04-04T20:44:40.244Z",
-  "lastModifiedDate": "2025-02-21T16:32:53.085Z",
+  "lastModifiedDate": "2025-09-18T00:53:06.488Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -49,10 +49,6 @@
       "value": "ca4058f18b0a4a9e9e2ccc28f7f33000"
     },
     "MonitorPresence": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "UseAccessControl": {
       "type": "STRING",
       "value": "true"
     },
@@ -87,5 +83,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
