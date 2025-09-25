@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/38e19b41cd5e49399c1986d6577288c1/cafe-maid--cute-anime-girls-oromf.png",
-      "md5": "ad7ea0a0e819f83624a565b564d1fc73",
+      "url": "https://cdn1.epicgames.com/spt-assets/38e19b41cd5e49399c1986d6577288c1/cafe-maid--cute-anime-girls-f3hn3.jpg",
+      "md5": "17cd5a0b1874669dd93b80d8b05a8986",
       "width": 2560,
       "height": 1440,
-      "size": 3793808,
-      "uploadedDate": "2024-04-23T20:02:01.277Z",
+      "size": 426469,
+      "uploadedDate": "2025-09-22T18:34:16.300Z",
       "alt": "Cafe Maid - Cute Anime Girls Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/38e19b41cd5e49399c1986d6577288c1/cafe-maid--cute-anime-girls-3w03w.png",
-      "md5": "7a2750dd1751e0ec5430db1e015a72fc",
+      "url": "https://cdn1.epicgames.com/spt-assets/38e19b41cd5e49399c1986d6577288c1/cafe-maid--cute-anime-girls-1hswa.png",
+      "md5": "2117033196efa1c1a3e9f2939e2ff442",
       "width": 1200,
       "height": 1600,
-      "size": 2018956,
-      "uploadedDate": "2024-04-23T20:02:04.680Z",
+      "size": 2618528,
+      "uploadedDate": "2025-09-22T18:28:47.518Z",
       "alt": "Download Cafe Maid - Cute Anime Girls Offer"
     }
   ],
@@ -34,9 +34,13 @@
   ],
   "namespace": "3dfc7c92bb4846b5bfbb0066ba5149e8",
   "status": "ACTIVE",
-  "creationDate": "2024-05-06T08:13:12.264Z",
-  "lastModifiedDate": "2025-09-16T15:16:05.028Z",
+  "creationDate": "2024-04-18T07:25:30.868Z",
+  "lastModifiedDate": "2025-09-25T06:12:54.846Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/WoopEpic/Cafe Maid Classic/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "CafeMaidCuteAnimeGirls"
@@ -49,13 +53,15 @@
     {
       "id": "3cdc37d17a0040a7b146441ef89d4ec6",
       "appId": "51c93c6ebc444205b1d983176e15c8e0",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Catmoon Production International Ltd.",
   "developerId": "o-dkh7w697auxumjxjwf3clflrykp9bl",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567hf972lEEWUeZKvhBuQMcaI67",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
