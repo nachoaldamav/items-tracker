@@ -35,8 +35,8 @@
   ],
   "namespace": "f672c20984f04f69936e6057feefe3d1",
   "status": "ACTIVE",
-  "creationDate": "2021-02-11T01:21:23.690Z",
-  "lastModifiedDate": "2025-09-17T23:02:41.099Z",
+  "creationDate": "2024-03-31T16:31:49.567Z",
+  "lastModifiedDate": "2025-09-25T15:28:13.239Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -84,14 +84,13 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "ce5596a84ab04b61a7a1775cc2b7da13",
+      "id": "e4a64af9c87d4bf9ad7f6ad2894a0eff",
       "appId": "2420b50453144c07b3b847fff941275d",
       "platform": [
+        "Win32",
         "Windows",
-        "Mac",
-        "Win32"
-      ],
-      "dateAdded": "2021-02-11T00:00:00.000Z"
+        "Mac"
+      ]
     }
   ],
   "developer": "Failbetter Games",
