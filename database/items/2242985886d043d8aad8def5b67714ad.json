@@ -1,7 +1,7 @@
 {
   "id": "2242985886d043d8aad8def5b67714ad",
   "title": "Lethal Honor - Order of the Apocalypse",
-  "description": "Lethal Honor - Order of the Apocalypse",
+  "description": "This brutal, obscure, and punishing action-adventure roguelite is set in a shady and beset post-apocalyptic world. Play relentless isometric close-quarter battles with an art style reminiscent of the 1980s dark age of adult superhero graphic novels.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,9 +34,17 @@
   ],
   "namespace": "4fd8ab38c14c4d91ba07aae139723027",
   "status": "ACTIVE",
-  "creationDate": "2023-08-04T07:55:03.236Z",
-  "lastModifiedDate": "2023-08-04T07:55:03.236Z",
+  "creationDate": "2023-07-26T08:50:42.961Z",
+  "lastModifiedDate": "2025-09-25T14:29:32.391Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/ViralStudios/LethalHonor/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.es3"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "LethalHonor"
@@ -47,15 +55,17 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "b2f22e898ca4427a80c556955b4e8353",
+      "id": "28dcb3e1604945e3a40e8dedf530c2f7",
       "appId": "0b2f8e139c2344e7ac30b8de7239fcb0",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Handy Games",
   "developerId": "o-ekk92wx8mesnmsvbseequvnt38mzu6",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567PNT1RevFj2NowX7AUQfS6JLF",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
