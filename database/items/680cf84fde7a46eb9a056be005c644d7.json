@@ -34,9 +34,21 @@
   ],
   "namespace": "5fe7cdfd995146c9a38bd05f632fb214",
   "status": "ACTIVE",
-  "creationDate": "2025-05-27T13:02:04.479Z",
-  "lastModifiedDate": "2025-05-27T13:02:04.479Z",
+  "creationDate": "2025-05-07T14:02:44.124Z",
+  "lastModifiedDate": "2025-09-25T14:36:58.755Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Furcula/Morsels/Epic/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "Morsels"
@@ -49,7 +61,9 @@
     {
       "id": "34ddbfadbf68417ebc3853bc91f2ac6f",
       "appId": "a0c36cece7344a0296e834acda4d4ea0",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Annapurna Interactive",
