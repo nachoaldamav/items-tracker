@@ -33,7 +33,7 @@
   "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
   "status": "ACTIVE",
   "creationDate": "2021-03-04T21:51:42.071Z",
-  "lastModifiedDate": "2024-05-21T15:05:36.035Z",
+  "lastModifiedDate": "2025-06-26T10:46:27.841Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -50,10 +50,6 @@
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{UserDir}/DyingLight/out/save/"
-    },
-    "UseAccessControl": {
-      "type": "STRING",
-      "value": "false"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -84,15 +80,14 @@
       ]
     }
   ],
-  "developer": "Techland",
+  "developer": "Techland S.A.",
   "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
   "eulaIds": [
     "egstore"
   ],
-  "installModes": [],
   "endOfSupport": false,
   "ageGatings": {},
-  "applicationId": "",
+  "applicationId": "fghi4567j1MOvQelRn0AOGdiNT0sMrDW",
   "requiresSecureAccount": false,
   "unsearchable": true
 }
