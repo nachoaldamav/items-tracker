@@ -4,22 +4,22 @@
   "description": "Twinmotion 2025.2",
   "keyImages": [
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/item/poodle/TM-dieselGameBox-1920x1080logo_1920x1080-c85752a35ef8f9f7f49d8eb5249991b95_1920x1080-b8207b589015d291b065379b5c32d6b3",
-      "md5": "b8207b589015d291b065379b5c32d6b3",
-      "width": 1920,
-      "height": 1080,
-      "size": 1226547,
-      "uploadedDate": "2025-02-18T13:51:41.342Z"
-    },
-    {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/poodle/TM-DieselGameBoxTall-1200x1600logo_1200x1600-8ef8e0f3c9bc1c2ea60f4b2bd77351515_1200x1600-a75485ef338b2e9e587a59a7e7815161",
-      "md5": "a75485ef338b2e9e587a59a7e7815161",
+      "url": "https://cdn1.epicgames.com/item/poodle/EGS_Portait_1200x1600-e74d49fb75322fc13685a30b2b05d23d",
+      "md5": "e74d49fb75322fc13685a30b2b05d23d",
       "width": 1200,
       "height": 1600,
-      "size": 931968,
-      "uploadedDate": "2025-02-18T13:52:26.182Z"
+      "size": 2743651,
+      "uploadedDate": "2025-10-01T07:20:05.268Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/poodle/EGS_Pano_1920x1080-4c42874e4e7610d0eef9e316eeb5e24d",
+      "md5": "4c42874e4e7610d0eef9e316eeb5e24d",
+      "width": 1920,
+      "height": 1080,
+      "size": 3368499,
+      "uploadedDate": "2025-10-01T07:20:10.385Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "poodle",
   "status": "ACTIVE",
   "creationDate": "2025-05-06T15:05:48.809Z",
-  "lastModifiedDate": "2025-09-30T13:02:43.895Z",
+  "lastModifiedDate": "2025-10-01T07:23:18.466Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
