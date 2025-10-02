@@ -1,7 +1,7 @@
 {
-  "id": "e233b3820580484fa8ad7a31ce3b5bdd",
-  "title": "DevGeneralAudience",
-  "description": "DevGeneralAudience",
+  "id": "6a253d96f69c447e804785d8b304020d",
+  "title": "Gems_ConsumableAudience",
+  "description": "Gems_ConsumableAudience",
   "categories": [
     {
       "path": "audience"
@@ -12,14 +12,14 @@
   ],
   "namespace": "fe2330a3da124f159c316ec970a97511",
   "status": "ACTIVE",
-  "creationDate": "2024-12-18T00:47:47.564Z",
-  "lastModifiedDate": "2025-10-02T16:41:24.414Z",
-  "entitlementName": "e233b3820580484fa8ad7a31ce3b5bdd",
+  "creationDate": "2025-10-02T16:41:24.440Z",
+  "lastModifiedDate": "2025-10-02T16:41:24.440Z",
+  "entitlementName": "6a253d96f69c447e804785d8b304020d",
   "entitlementType": "AUDIENCE",
-  "itemType": "DURABLE",
-  "releaseInfo": [],
+  "itemType": "CONSUMABLE",
   "developer": "SphereStudios",
   "developerId": "o-kazwpy7bfn9nrv5ldhflwwawyc7uvt",
+  "useCount": 1,
   "endOfSupport": false,
   "requiresSecureAccount": false,
   "unsearchable": false
