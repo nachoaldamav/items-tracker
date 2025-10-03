@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/f0aa344eb2ab4717883da5b7bb0d68b4/realms-1ry8p.png",
-      "md5": "dc04eee2a6552576e87949f89639da24",
+      "url": "https://cdn1.epicgames.com/spt-assets/f0aa344eb2ab4717883da5b7bb0d68b4/realms-18se5.png",
+      "md5": "7e62a50745d9952055538ba2acc205c6",
       "width": 2560,
       "height": 1440,
-      "size": 3084291,
-      "uploadedDate": "2025-05-01T22:01:48.757Z",
+      "size": 3092784,
+      "uploadedDate": "2025-10-02T16:24:30.081Z",
       "alt": "Realms Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/f0aa344eb2ab4717883da5b7bb0d68b4/realms-q7igd.png",
-      "md5": "a58b0a3065deb87987ce0bf3d17e847e",
+      "url": "https://cdn1.epicgames.com/spt-assets/f0aa344eb2ab4717883da5b7bb0d68b4/realms-1hzfd.png",
+      "md5": "705de8c8d39025f8cba22f3e250a2bc1",
       "width": 1200,
       "height": 1600,
-      "size": 2270634,
-      "uploadedDate": "2025-05-01T22:01:54.469Z",
+      "size": 2154623,
+      "uploadedDate": "2025-10-02T16:24:29.928Z",
       "alt": "Download Realms Offer"
     }
   ],
@@ -35,7 +35,7 @@
   "namespace": "8116c11e8f47437dbd96ffc72fbfb148",
   "status": "ACTIVE",
   "creationDate": "2025-04-11T17:41:50.190Z",
-  "lastModifiedDate": "2025-05-31T21:52:30.249Z",
+  "lastModifiedDate": "2025-10-03T03:59:10.996Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -50,7 +50,8 @@
       "id": "e6e249b8182b4ad3af8c1fb37d16cf74",
       "appId": "61aa99fe811e4491a98a05c45811e90d",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ]
     }
   ],
