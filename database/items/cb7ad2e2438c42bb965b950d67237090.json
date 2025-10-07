@@ -35,7 +35,7 @@
   "namespace": "6f8addca2fba41539d30094249b6aa91",
   "status": "ACTIVE",
   "creationDate": "2024-04-12T14:26:45.963Z",
-  "lastModifiedDate": "2025-07-21T14:44:43.073Z",
+  "lastModifiedDate": "2025-10-07T15:25:40.235Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
@@ -49,21 +49,25 @@
       "type": "STRING",
       "value": "TRUE"
     },
-    "ProcessNames": {
+    "NotarizedAndSigned": {
       "type": "STRING",
-      "value": "hone-updater.exe"
+      "value": "FALSE"
     },
     "MainWindowProcessName": {
       "type": "STRING",
-      "value": "Hone.exe"
+      "value": "Hone"
     },
     "AllowMultipleInstances": {
       "type": "STRING",
-      "value": "TRUE"
+      "value": "FALSE"
     },
     "FolderName": {
       "type": "STRING",
       "value": "Hone"
+    },
+    "BackgroundProcessNames": {
+      "type": "STRING",
+      "value": "HttpClient, TotalReg, SysInfo, SetTimerResolution, HoneSvc, HoneTune"
     }
   },
   "entitlementName": "cb7ad2e2438c42bb965b950d67237090",
