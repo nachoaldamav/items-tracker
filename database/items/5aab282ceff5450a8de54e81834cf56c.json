@@ -1,27 +1,27 @@
 {
   "id": "5aab282ceff5450a8de54e81834cf56c",
-  "title": "Cloudheim Open Beta",
-  "description": "Cloudheim Open Beta",
+  "title": "Cloudheim Demo",
+  "description": "Cloudheim Demo",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/14dacdb786b8495f9ced5465fa6ce756/cloudheim-g50wy.png",
-      "md5": "1146d871001e68ee2192fd1a3581e074",
+      "url": "https://cdn1.epicgames.com/spt-assets/14dacdb786b8495f9ced5465fa6ce756/cloudheim-o9iy2.jpg",
+      "md5": "f895a831717dec374f11d6483ed636f2",
       "width": 2560,
       "height": 1440,
-      "size": 1428924,
-      "uploadedDate": "2025-07-18T06:42:12.521Z",
-      "alt": "Cloudheim Cloudheim Open Beta Offer"
+      "size": 2529490,
+      "uploadedDate": "2025-09-18T18:46:14.837Z",
+      "alt": "Cloudheim Cloudheim Demo Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/14dacdb786b8495f9ced5465fa6ce756/cloudheim-vltgq.png",
-      "md5": "1adf5cd3a9bc9db99efb084733d98b3a",
+      "url": "https://cdn1.epicgames.com/spt-assets/14dacdb786b8495f9ced5465fa6ce756/cloudheim-rxjo8.jpg",
+      "md5": "a789040a1d3b558e135843ae8cc691ba",
       "width": 1200,
       "height": 1600,
-      "size": 709409,
-      "uploadedDate": "2025-07-18T06:42:21.536Z",
-      "alt": "Download Cloudheim Cloudheim Open Beta Offer"
+      "size": 1425847,
+      "uploadedDate": "2025-09-18T18:46:08.396Z",
+      "alt": "Download Cloudheim Cloudheim Demo Offer"
     }
   ],
   "categories": [
@@ -35,11 +35,11 @@
   "namespace": "033b4e36509a4e9cb32406e341534f52",
   "status": "ACTIVE",
   "creationDate": "2025-07-10T18:54:06.749Z",
-  "lastModifiedDate": "2025-07-18T17:00:30.415Z",
+  "lastModifiedDate": "2025-10-08T13:13:56.133Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "DemoCloudheim416ec"
+      "value": "CloudheimDemo"
     }
   },
   "entitlementName": "5aab282ceff5450a8de54e81834cf56c",
@@ -57,6 +57,7 @@
   "developer": "Noodle Cat Games",
   "developerId": "o-n7dnrvyfvvpf4t6asl7adhf3s27fld",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
