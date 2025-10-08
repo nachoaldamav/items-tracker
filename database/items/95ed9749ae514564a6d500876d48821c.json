@@ -31,14 +31,26 @@
   ],
   "namespace": "d3f97f301cb746d5b6e15424edb28afc",
   "status": "ACTIVE",
-  "creationDate": "2025-05-30T10:00:54.932Z",
-  "lastModifiedDate": "2025-05-30T10:00:54.932Z",
+  "creationDate": "2025-05-20T13:01:51.841Z",
+  "lastModifiedDate": "2025-10-08T13:50:59.586Z",
+  "customAttributes": {},
   "entitlementName": "95ed9749ae514564a6d500876d48821c",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "23ba2bf0755f4ddca9dec6ed9b7d8f64",
+      "appId": "f91f111a19a24d09ab454dd0fb4170c9",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
   "developer": "DRAGO Entertainment S.A.",
   "developerId": "o-s87dv6zwtwkl5lx5jhj8nvskhyj5u9",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
