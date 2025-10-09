@@ -1,16 +1,17 @@
 {
   "id": "6fdb5feba66846cd8623a6d15ca68080",
-  "title": "Inside",
-  "description": "Inside",
+  "title": "INSIDE",
+  "description": "Hunted and alone, a boy finds himself drawn into the center of a dark project.",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/13bb5776b9e1424d84ce42d9ba61c0ca/item/PLAYDEAD_INSIDE-PROMO-2560x1440-8980f5681b4e521ab357910a1ee3f83b.jpg",
-      "md5": "8980f5681b4e521ab357910a1ee3f83b",
+      "url": "https://cdn1.epicgames.com/spt-assets/777fed0fb6b64ddaafa2d331a7f122db/inside-1j6mq.png",
+      "md5": "12f92ce330651d5e46c77bc97dca397e",
       "width": 2560,
       "height": 1440,
-      "size": 56516,
-      "uploadedDate": "2019-07-23T15:51:01.651Z"
+      "size": 3044668,
+      "uploadedDate": "2025-09-22T11:52:40.916Z",
+      "alt": "INSIDE Offer"
     },
     {
       "type": "DieselGameBoxTall",
@@ -35,8 +36,8 @@
   ],
   "namespace": "13bb5776b9e1424d84ce42d9ba61c0ca",
   "status": "ACTIVE",
-  "creationDate": "2019-06-14T16:20:24.733Z",
-  "lastModifiedDate": "2020-11-16T13:58:37.200Z",
+  "creationDate": "2024-03-23T17:14:14.257Z",
+  "lastModifiedDate": "2025-10-09T08:05:40.581Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -88,13 +89,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "66524b004f4c4776863187681aaee340",
+      "id": "ffa9c16b0615445db2970134dee875b9",
       "appId": "Marigold",
       "platform": [
-        "Windows",
-        "Mac"
-      ],
-      "dateAdded": "2019-07-23T00:00:00.000Z"
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Playdead",
