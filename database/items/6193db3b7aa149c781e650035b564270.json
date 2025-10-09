@@ -1,7 +1,7 @@
 {
   "id": "6193db3b7aa149c781e650035b564270",
   "title": "Sonic Racing: CrossWorlds - Minecraft Pack",
-  "description": "Sonic Racing: CrossWorlds - Minecraft Pack",
+  "description": "Sonic Racing: CrossWorlds is building upon its already impressive roster of racers with Steve, Alex, and Creeper from Minecraft™!",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -32,7 +32,7 @@
   "namespace": "da1c2c6e190147019e4188f24687a17c",
   "status": "ACTIVE",
   "creationDate": "2025-04-17T19:04:55.609Z",
-  "lastModifiedDate": "2025-09-15T21:38:59.951Z",
+  "lastModifiedDate": "2025-10-08T23:59:48.511Z",
   "customAttributes": {},
   "entitlementName": "6193db3b7aa149c781e650035b564270",
   "entitlementType": "EXECUTABLE",
@@ -41,7 +41,9 @@
     {
       "id": "6d08b1cabc82475db9747d1679a802ad",
       "appId": "fdedf36bce9b4865b53e354296d8a4a8",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Sega of America",
