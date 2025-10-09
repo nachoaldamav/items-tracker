@@ -34,12 +34,24 @@
   ],
   "namespace": "033b3eca13f946b2b01ff36ecfc97a2b",
   "status": "ACTIVE",
-  "creationDate": "2025-06-27T00:00:12.823Z",
-  "lastModifiedDate": "2025-06-27T00:00:12.823Z",
+  "creationDate": "2024-11-27T10:11:01.127Z",
+  "lastModifiedDate": "2025-10-09T07:00:05.607Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/DoubleDragonRevive/Saved/SaveGames/{EpicID}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
     "FolderName": {
       "type": "STRING",
-      "value": "DetroReviveBwGtz"
+      "value": "DoubleDragonRevive"
     }
   },
   "entitlementName": "96b5412f22304c44b719264375f46dcd",
@@ -58,7 +70,7 @@
   "developer": "ARC SYSTEM WORKS",
   "developerId": "o-hf2vxks67ymu6my3dccbk39zlzvkdk",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567Si5pcKp8S15sw0JuLqZzJc0G",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
