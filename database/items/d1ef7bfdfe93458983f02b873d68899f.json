@@ -32,13 +32,22 @@
   "namespace": "cd685771e5974812a9161c9619c8912e",
   "status": "ACTIVE",
   "creationDate": "2025-06-10T00:21:48.751Z",
-  "lastModifiedDate": "2025-08-25T23:40:48.371Z",
+  "lastModifiedDate": "2025-10-13T16:04:10.100Z",
+  "customAttributes": {},
   "entitlementName": "d1ef7bfdfe93458983f02b873d68899f",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4d20352984f940449c22ec68f2c9e997",
+      "appId": "989385947aa641ee93d25baca0e6c0b2",
+      "platform": []
+    }
+  ],
   "developer": "PlayIEC",
   "developerId": "o-sktrnm8cdpgu3tdc4mfmu9b74m4pth",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
