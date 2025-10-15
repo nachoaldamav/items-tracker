@@ -35,8 +35,12 @@
   "namespace": "024e99e2bdbe49a6bd291d6789239561",
   "status": "ACTIVE",
   "creationDate": "2024-06-25T11:16:27.150Z",
-  "lastModifiedDate": "2025-09-16T12:22:49.616Z",
+  "lastModifiedDate": "2025-10-15T12:22:17.658Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/{EpicID}/dying light the beast/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "DyingLightTheBeast"
