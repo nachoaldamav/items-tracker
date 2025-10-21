@@ -35,11 +35,11 @@
   "namespace": "3c4699b140554fa5ad48a9413b06159a",
   "status": "ACTIVE",
   "creationDate": "2023-11-15T22:45:32.246Z",
-  "lastModifiedDate": "2025-05-07T08:57:47.037Z",
+  "lastModifiedDate": "2025-10-21T11:19:42.771Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "MyProduct081409a04Jc7C"
+      "value": "LordAmbermaze"
     }
   },
   "entitlementName": "55f14d5e65834291a8c7a9029ab34e22",
@@ -49,13 +49,15 @@
     {
       "id": "346ccd70875f47388a4f3e6cfa2c958a",
       "appId": "a38a2039ffdc44f18b5921a7338b453c",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "HeroCraft PC",
   "developerId": "o-8ux7xn386eqvrb5x2rxrjkyvnfdz7v",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567kVCDIh0j8urG27WFerH66lIo",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
