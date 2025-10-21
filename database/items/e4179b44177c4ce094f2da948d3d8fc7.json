@@ -1,8 +1,7 @@
 {
-  "id": "7f383aa71b18405fb6c182b5bae1dd38",
-  "title": "SatyrGeneralAudience",
-  "description": "SatyrGeneralAudience",
-  "keyImages": [],
+  "id": "e4179b44177c4ce094f2da948d3d8fc7",
+  "title": "Y4 Edition audience",
+  "description": "Y4 Edition audience",
   "categories": [
     {
       "path": "audience"
@@ -13,26 +12,23 @@
   ],
   "namespace": "94cec4802e954a6c9579e29e8b817f3a",
   "status": "ACTIVE",
-  "creationDate": "2021-06-16T21:18:52.430Z",
-  "lastModifiedDate": "2025-10-21T16:02:58.577Z",
+  "creationDate": "2025-06-11T14:15:53.473Z",
+  "lastModifiedDate": "2025-10-21T16:02:58.578Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
     }
   },
-  "entitlementName": "7f383aa71b18405fb6c182b5bae1dd38",
+  "entitlementName": "e4179b44177c4ce094f2da948d3d8fc7",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "releaseInfo": [],
-  "developer": "Focus Entertainment Publishing",
+  "developer": "Focus Home Interactive",
   "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
-  "ageGatings": {},
-  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": true
 }
