@@ -35,11 +35,43 @@
   "namespace": "ceb703de37854cda9932d2f9dd531520",
   "status": "ACTIVE",
   "creationDate": "2025-03-21T07:56:27.429Z",
-  "lastModifiedDate": "2025-08-28T08:31:06.108Z",
+  "lastModifiedDate": "2025-10-24T03:08:11.607Z",
   "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "SkipAutoInstallDlc": {
+      "type": "STRING",
+      "value": "TRUE"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "EMLauncher-Win64-Shipping.exe,EM-Win64-Shipping.exe"
+    },
+    "NotarizedAndSigned": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "EM-Win64-Shipping.exe"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "FALSE"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "TRUE"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "DuetNightAbyss"
+    },
+    "BackgroundProcessNames": {
+      "type": "STRING",
+      "value": "EMLauncher-Win64-Shipping.exe"
     }
   },
   "entitlementName": "572fcef540b841dd9230d813bd5208fe",
