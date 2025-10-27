@@ -34,12 +34,20 @@
   ],
   "namespace": "3b391953ce4b42bb9a28a2fee249154b",
   "status": "ACTIVE",
-  "creationDate": "2024-10-25T09:00:52.519Z",
-  "lastModifiedDate": "2024-10-25T09:00:52.823Z",
+  "creationDate": "2024-05-02T10:37:03.079Z",
+  "lastModifiedDate": "2025-10-27T15:10:29.329Z",
   "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Brotato/{EpicID}/"
+    },
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{AppData}/../Roaming/Brotato/{EpicID}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.json"
     },
     "FolderName": {
       "type": "STRING",
@@ -54,7 +62,8 @@
       "id": "781879b1718e44be9ce20647202b52a4",
       "appId": "e8bbb84be35640cda646233152ff3428",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ]
     }
   ],
