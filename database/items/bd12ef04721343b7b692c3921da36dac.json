@@ -1,0 +1,34 @@
+{
+  "id": "bd12ef04721343b7b692c3921da36dac",
+  "title": "nuclearbanana CE audience",
+  "description": "nuclearbanana CE audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "8cd5e5952bb24df7813017d11d3ac03b",
+  "status": "ACTIVE",
+  "creationDate": "2025-10-14T15:39:03.095Z",
+  "lastModifiedDate": "2025-10-28T13:30:32.124Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "bd12ef04721343b7b692c3921da36dac",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Rebellion",
+  "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
