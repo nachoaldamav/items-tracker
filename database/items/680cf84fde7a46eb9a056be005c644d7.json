@@ -35,11 +35,11 @@
   "namespace": "5fe7cdfd995146c9a38bd05f632fb214",
   "status": "ACTIVE",
   "creationDate": "2025-05-07T14:02:44.124Z",
-  "lastModifiedDate": "2025-09-25T14:36:58.755Z",
+  "lastModifiedDate": "2025-10-27T20:51:57.031Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{AppData}/../LocalLow/Furcula/Morsels/Epic/"
+      "value": "{AppData}/../LocalLow/Furcula/Morsels/{EpicID}/"
     },
     "CloudIncludeList": {
       "type": "STRING",
@@ -47,7 +47,7 @@
     },
     "MaxSizeMB": {
       "type": "STRING",
-      "value": "10"
+      "value": "25"
     },
     "FolderName": {
       "type": "STRING",
