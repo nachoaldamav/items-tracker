@@ -1,0 +1,38 @@
+{
+  "id": "d2c44de1e8484ef3a7945b4e68a95e44",
+  "title": "CompleteEdition audience_redeemable",
+  "description": "CompleteEdition audience_redeemable",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "eca39884bdf14f65af242a8e3ff5b2d9",
+  "status": "ACTIVE",
+  "creationDate": "2025-10-22T18:26:50.471Z",
+  "lastModifiedDate": "2025-10-28T15:47:50.156Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d2c44de1e8484ef3a7945b4e68a95e44",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
