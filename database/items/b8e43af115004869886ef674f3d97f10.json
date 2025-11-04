@@ -1,7 +1,7 @@
 {
   "id": "b8e43af115004869886ef674f3d97f10",
   "title": "Skul: The Hero Slayer",
-  "description": "Skul: The Hero Slayer",
+  "description": "Guide 'Skul' on his quest to single-handedly take on the Imperial Army and rescue his King from captivity, in an action-packed rogue-lite 2D platformer for the ages.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -36,7 +36,7 @@
   "namespace": "6feac7e685174dd698e90ca9536e1299",
   "status": "ACTIVE",
   "creationDate": "2024-03-25T15:22:43.487Z",
-  "lastModifiedDate": "2024-05-20T01:24:37.293Z",
+  "lastModifiedDate": "2025-11-04T09:18:32.352Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -76,12 +76,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "35f506e5267a4c81928c4e661f55f81e",
+      "id": "2b382927e81e4cb5a6e0bb25fa7abc20",
       "appId": "dec246c71964468f94ef4d686f0802c3",
       "platform": [
-        "Mac",
         "Win32",
-        "Windows"
+        "Windows",
+        "Mac"
       ]
     }
   ],
