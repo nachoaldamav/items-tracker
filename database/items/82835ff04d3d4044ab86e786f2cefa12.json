@@ -1,0 +1,47 @@
+{
+  "id": "82835ff04d3d4044ab86e786f2cefa12",
+  "title": "Fallout 4 Anniversary Package",
+  "description": "Fallout 4 Anniversary Package",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "9c1a74145a9145ec803d7452e80819a0",
+  "status": "ACTIVE",
+  "creationDate": "2025-07-08T15:56:23.955Z",
+  "lastModifiedDate": "2025-11-10T18:29:45.338Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "82835ff04d3d4044ab86e786f2cefa12",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3a3ee15aed78440eafdd613c327f0f02",
+      "appId": "1f7ae1bf25bb475585c4f4f6b6defbc4",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
