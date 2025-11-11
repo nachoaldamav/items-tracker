@@ -2,7 +2,26 @@
   "id": "9bdf27679eb848cd912b1dd5a973cc0f",
   "title": "HD Sound Pack",
   "description": "HD Sound Pack",
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/ca4058f18b0a4a9e9e2ccc28f7f33000/kingdom-come-deliverance-1cazt_2560x1440-75fbe30145f9aacbd059d00032c05383",
+      "md5": "75fbe30145f9aacbd059d00032c05383",
+      "width": 2560,
+      "height": 1440,
+      "size": 855203,
+      "uploadedDate": "2025-11-11T17:43:44.453Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/ca4058f18b0a4a9e9e2ccc28f7f33000/kingdom-come-deliverance-1fc6x_1200x1600-1e0ff7eab02e143ce659359004633ed8",
+      "md5": "1e0ff7eab02e143ce659359004633ed8",
+      "width": 1200,
+      "height": 1600,
+      "size": 460207,
+      "uploadedDate": "2025-11-11T17:43:52.357Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -17,7 +36,7 @@
   "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "status": "ACTIVE",
   "creationDate": "2020-01-04T04:31:45.504Z",
-  "lastModifiedDate": "2025-11-11T15:51:07.470Z",
+  "lastModifiedDate": "2025-11-11T17:43:54.729Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -28,10 +47,6 @@
       "value": "ca4058f18b0a4a9e9e2ccc28f7f33000"
     },
     "MonitorPresence": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "UseAccessControl": {
       "type": "STRING",
       "value": "true"
     },
@@ -67,5 +82,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
