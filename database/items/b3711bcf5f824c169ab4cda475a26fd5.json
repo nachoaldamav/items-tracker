@@ -31,8 +31,8 @@
   ],
   "namespace": "33b49c223bc548b99c30266a8aae1eb9",
   "status": "ACTIVE",
-  "creationDate": "2025-11-04T09:29:11.615Z",
-  "lastModifiedDate": "2025-11-04T09:29:11.615Z",
+  "creationDate": "2025-10-21T13:38:23.235Z",
+  "lastModifiedDate": "2025-11-16T18:59:24.517Z",
   "customAttributes": {},
   "entitlementName": "b3711bcf5f824c169ab4cda475a26fd5",
   "entitlementType": "EXECUTABLE",
@@ -41,7 +41,9 @@
     {
       "id": "54a4bed2e6cc4f09a0af5e21212b2fd1",
       "appId": "eeafae43775943a9b25151ecfe8b7141",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Gaming Factory",
