@@ -1,7 +1,7 @@
 {
   "id": "948b2adfe77542fdbd72c1bc5cefe4fe",
   "title": "Sonic Racing: CrossWorlds - SpongeBob SquarePants Pack",
-  "description": "Sonic Racing: CrossWorlds - SpongeBob SquarePants Pack",
+  "description": "Rev up those fryers and engines! SpongeBob SquarePants and Patrick Star join the cast of Sonic Racing: CrossWorlds!",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -32,7 +32,7 @@
   "namespace": "da1c2c6e190147019e4188f24687a17c",
   "status": "ACTIVE",
   "creationDate": "2025-04-17T19:05:49.354Z",
-  "lastModifiedDate": "2025-09-19T17:23:06.146Z",
+  "lastModifiedDate": "2025-11-19T20:11:12.296Z",
   "customAttributes": {},
   "entitlementName": "948b2adfe77542fdbd72c1bc5cefe4fe",
   "entitlementType": "EXECUTABLE",
@@ -41,7 +41,9 @@
     {
       "id": "6055169f7e1a4560acb0c81db913f246",
       "appId": "7651d28e67224a50839677faf6a5fabc",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Sega of America",
