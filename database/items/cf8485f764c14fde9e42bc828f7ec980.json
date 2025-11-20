@@ -35,8 +35,20 @@
   "namespace": "bf9f3925764f43fab1059c3607b3a0e6",
   "status": "ACTIVE",
   "creationDate": "2021-11-10T03:49:36.446Z",
-  "lastModifiedDate": "2025-07-17T10:46:34.985Z",
+  "lastModifiedDate": "2025-11-20T17:00:55.187Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/TerraInvicta/Saves/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.gz,*.json"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "3000"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "TerraInvictacfFYk"
@@ -57,6 +69,7 @@
   "developer": "Hooded Horse Inc.",
   "developerId": "o-4ftedygtvtsgp7tbaf49mpm7lt6u2e",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
