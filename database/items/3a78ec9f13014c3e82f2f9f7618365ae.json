@@ -1,7 +1,7 @@
 {
   "id": "3a78ec9f13014c3e82f2f9f7618365ae",
   "title": "PMR: GTE Decade Pack",
-  "description": "PMR: GTE Decade Pack",
+  "description": "Get behind the wheel of extreme high-performance cars with the GTE Decade Pack and battle it out in one of the most fabled eras in GT racing history.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -32,12 +32,20 @@
   "namespace": "3d36ad7fbc724e97808d0aedd98213ef",
   "status": "ACTIVE",
   "creationDate": "2025-04-04T08:04:12.636Z",
-  "lastModifiedDate": "2025-11-21T16:40:42.373Z",
+  "lastModifiedDate": "2025-11-25T13:00:12.519Z",
   "customAttributes": {},
   "entitlementName": "3a78ec9f13014c3e82f2f9f7618365ae",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
-  "releaseInfo": [],
+  "releaseInfo": [
+    {
+      "id": "7a25c0a63c164f5b9a0905ff00d8b330",
+      "appId": "142c025dad4043fd993e45c1fb10af65",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
   "developer": "GIANTS Software GmbH",
   "developerId": "o-542wb7tuehjkp8ced66p6z3jhnpz8t",
   "endOfSupport": false,
