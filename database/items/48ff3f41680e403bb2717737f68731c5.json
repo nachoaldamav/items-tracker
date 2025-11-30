@@ -11,15 +11,19 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2017-05-13T00:13:52.788Z",
-  "lastModifiedDate": "2025-11-01T17:41:25.764Z",
+  "lastModifiedDate": "2025-11-29T19:45:07.065Z",
+  "customAttributes": {},
   "entitlementName": "Fortnite_Free",
   "entitlementType": "ENTITLEMENT",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Epic Games",
   "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
   "eulaIds": [
-    "fn"
+    "epicgames_tos"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
