@@ -5,21 +5,13 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/ada169f07b81464a9fc06a7d6896101d/item/TheSojourn_StorePromo-1440x810-2ca5aca20db18c69c75264477ee21e04.jpg",
-      "md5": "2ca5aca20db18c69c75264477ee21e04",
-      "width": 1440,
-      "height": 810,
-      "size": 354802,
-      "uploadedDate": "2019-06-07T15:12:56.468Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/ada169f07b81464a9fc06a7d6896101d/item/TheSojourn_Logo_White_Shadow-1920x879-3a7bc87f37dd0059f11691533701bf1f.png",
-      "md5": "3a7bc87f37dd0059f11691533701bf1f",
-      "width": 1920,
-      "height": 879,
-      "size": 263150,
-      "uploadedDate": "2019-06-07T15:13:07.975Z"
+      "url": "https://cdn1.epicgames.com/spt-assets/51ebc694441845839196e3e91ce56fd6/the-sojourn-1ile2.png",
+      "md5": "194c4cbcbeb37e9a48da052a3754adb4",
+      "width": 2560,
+      "height": 1440,
+      "size": 2342669,
+      "uploadedDate": "2025-10-17T09:29:25.697Z",
+      "alt": "The SoJourn Offer"
     },
     {
       "type": "DieselGameBoxTall",
@@ -44,8 +36,8 @@
   ],
   "namespace": "ada169f07b81464a9fc06a7d6896101d",
   "status": "ACTIVE",
-  "creationDate": "2019-06-02T04:20:42.573Z",
-  "lastModifiedDate": "2019-11-19T17:03:58.572Z",
+  "creationDate": "2024-04-01T21:18:07.300Z",
+  "lastModifiedDate": "2025-12-01T13:35:03.174Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -85,12 +77,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "cef6ed9d326041939fe42ece90bcc296",
+      "id": "6c810b7a4fde492787c720272987b0e2",
       "appId": "Shallots",
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2019-06-13T00:00:00.000Z"
+      ]
     }
   ],
   "developer": "Iceberg Interactive",
