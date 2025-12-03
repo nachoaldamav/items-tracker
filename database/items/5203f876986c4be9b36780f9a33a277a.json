@@ -1,0 +1,63 @@
+{
+  "id": "5203f876986c4be9b36780f9a33a277a",
+  "title": "Solargene demo",
+  "description": "Solargene demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/d1c396b559344c4b9de07bb0852dc62d/solargene-yvwei.jpg",
+      "md5": "caae0af5612b5506049b2045dd3e12fe",
+      "width": 2560,
+      "height": 1440,
+      "size": 541757,
+      "uploadedDate": "2025-12-02T08:24:56.137Z",
+      "alt": "Solargene Solargene demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d1c396b559344c4b9de07bb0852dc62d/solargene-9cb5l.jpg",
+      "md5": "03fec4a30b4a04092f1ef174d368adeb",
+      "width": 1200,
+      "height": 1600,
+      "size": 532329,
+      "uploadedDate": "2025-12-02T08:25:04.340Z",
+      "alt": "Download Solargene Solargene demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b5cf25c05580437a86a74319dac4f182",
+  "status": "ACTIVE",
+  "creationDate": "2025-12-03T11:16:16.903Z",
+  "lastModifiedDate": "2025-12-03T11:16:16.903Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "SolargeneDemo"
+    }
+  },
+  "entitlementName": "5203f876986c4be9b36780f9a33a277a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a30ec0e0-c43f-4914-9543-cabebc2f34bf",
+      "appId": "fe05c8415f57453090cd570c424b8687",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Alexander Semenov",
+  "developerId": "o-d43gb53khzq53kh92bztums4rxg82m",
+  "endOfSupport": false,
+  "applicationId": "fghi4567DGDPTdnjwWU1jqZaibwmvEcc",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
