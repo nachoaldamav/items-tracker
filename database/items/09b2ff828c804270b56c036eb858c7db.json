@@ -35,7 +35,7 @@
   "namespace": "0fb6c1ad2771441e96c744125d249be3",
   "status": "ACTIVE",
   "creationDate": "2023-06-19T16:14:45.300Z",
-  "lastModifiedDate": "2023-06-19T16:14:45.300Z",
+  "lastModifiedDate": "2025-12-03T19:48:15.843Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -57,7 +57,9 @@
   ],
   "developer": "Fulqrum Publishing Ltd.",
   "developerId": "o-n4d8bf5e8fnr4kujuut9j6v4d29muc",
-  "eulaIds": [],
+  "eulaIds": [
+    "(egstore && FulqrumPublishing)"
+  ],
   "endOfSupport": false,
   "ageGatings": {},
   "applicationId": "",
