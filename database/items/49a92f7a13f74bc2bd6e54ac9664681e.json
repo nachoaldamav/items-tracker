@@ -32,7 +32,7 @@
   "namespace": "32bc7c6aaecd40eeb5f58bb83dba1c05",
   "status": "ACTIVE",
   "creationDate": "2025-09-16T12:06:55.404Z",
-  "lastModifiedDate": "2025-11-05T16:42:02.589Z",
+  "lastModifiedDate": "2025-12-08T18:00:23.298Z",
   "customAttributes": {},
   "entitlementName": "49a92f7a13f74bc2bd6e54ac9664681e",
   "entitlementType": "EXECUTABLE",
@@ -41,7 +41,9 @@
     {
       "id": "27f733b62f7642ab82b15cca3e5fd863",
       "appId": "0cde172032a949b4a3a98b6a12c78480",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "11 Bit Studios",
