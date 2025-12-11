@@ -2,6 +2,7 @@
   "id": "ccb8a8ef5fbd41b1a7ace658b5145ae4",
   "title": "y2edition audience",
   "description": "y2edition audience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +14,7 @@
   "namespace": "f640a0c1648147fea7e81565b45a3003",
   "status": "ACTIVE",
   "creationDate": "2025-08-05T14:43:03.494Z",
-  "lastModifiedDate": "2025-11-25T10:58:42.689Z",
+  "lastModifiedDate": "2025-12-11T14:59:52.407Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +24,15 @@
   "entitlementName": "ccb8a8ef5fbd41b1a7ace658b5145ae4",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "developer": "Focus Home Interactive",
+  "releaseInfo": [],
+  "developer": "Focus Entertainment Publishing",
   "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": true
 }
