@@ -1,7 +1,8 @@
 {
-  "id": "d80c0fc65b5e49058906a97bcf92a881",
-  "title": "PAYDAY 3: Houston Character Pack audience",
-  "description": "PAYDAY 3: Houston Character Pack audience",
+  "id": "bf35a1c24f9a446299c640085489561a",
+  "title": "Preacher pack audience",
+  "description": "Preacher pack audience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -12,23 +13,26 @@
   ],
   "namespace": "8962863aee2f4e7483fc37d4719c3f69",
   "status": "ACTIVE",
-  "creationDate": "2025-12-11T08:51:48.052Z",
-  "lastModifiedDate": "2025-12-17T10:08:07.145Z",
+  "creationDate": "2025-12-10T16:21:35.603Z",
+  "lastModifiedDate": "2025-12-17T10:08:03.623Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
     }
   },
-  "entitlementName": "d80c0fc65b5e49058906a97bcf92a881",
+  "entitlementName": "bf35a1c24f9a446299c640085489561a",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Plaion",
   "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": true
 }
