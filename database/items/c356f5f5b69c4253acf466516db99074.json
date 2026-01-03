@@ -34,9 +34,21 @@
   ],
   "namespace": "20ba2a318cac40129528985190d87cc9",
   "status": "ACTIVE",
-  "creationDate": "2025-12-18T02:38:44.056Z",
-  "lastModifiedDate": "2025-12-18T02:38:44.056Z",
+  "creationDate": "2025-12-16T22:30:39.320Z",
+  "lastModifiedDate": "2026-01-03T05:17:56.390Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/data/save/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "10"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "DemoSpaceRoadElitd94b8"
