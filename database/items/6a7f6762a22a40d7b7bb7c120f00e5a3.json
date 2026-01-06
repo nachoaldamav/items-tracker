@@ -1,7 +1,7 @@
 {
   "id": "6a7f6762a22a40d7b7bb7c120f00e5a3",
-  "title": "Sonic Racing: CrossWorlds - Content Pack 3",
-  "description": "Sonic Racing: CrossWorlds - Content Pack 3",
+  "title": "Sonic Racing: CrossWorlds - PAC-MAN Pack",
+  "description": "Rev Roll to the front of the pack! PAC-MAN and Team Ghost join the cast of Sonic Racing: CrossWorlds!",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -32,7 +32,7 @@
   "namespace": "da1c2c6e190147019e4188f24687a17c",
   "status": "ACTIVE",
   "creationDate": "2025-04-17T19:06:22.791Z",
-  "lastModifiedDate": "2025-09-19T17:23:06.146Z",
+  "lastModifiedDate": "2026-01-05T22:42:16.804Z",
   "customAttributes": {},
   "entitlementName": "6a7f6762a22a40d7b7bb7c120f00e5a3",
   "entitlementType": "EXECUTABLE",
@@ -41,7 +41,9 @@
     {
       "id": "52ba7b6cabd149a7be83d091e4615ddc",
       "appId": "7ba39ae0875e4f1695c0e3ccf58315e9",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Sega of America",
