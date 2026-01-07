@@ -33,7 +33,7 @@
   "namespace": "anemone",
   "status": "ACTIVE",
   "creationDate": "2019-02-14T19:01:43.178Z",
-  "lastModifiedDate": "2025-11-05T22:42:16.147Z",
+  "lastModifiedDate": "2026-01-07T17:58:37.177Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -69,16 +69,13 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "3fe21922b5d54c578ec2bfaf5ddf7bef",
+      "id": "61a7a804bd9b4a52822d9807ece21afe",
       "appId": "Anemone",
-      "compatibleApps": [],
       "platform": [
+        "Win32",
         "Windows",
         "Mac"
-      ],
-      "dateAdded": "2019-02-14T00:00:00.000Z",
-      "releaseNote": "",
-      "versionTitle": ""
+      ]
     }
   ],
   "developer": "2D Boy",
