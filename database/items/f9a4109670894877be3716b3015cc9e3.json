@@ -35,7 +35,7 @@
   "namespace": "90abbb77fe434ec39e3a4b8c1b3d2eec",
   "status": "ACTIVE",
   "creationDate": "2024-04-04T18:26:08.233Z",
-  "lastModifiedDate": "2025-02-18T05:45:14.011Z",
+  "lastModifiedDate": "2026-01-13T19:00:42.576Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -53,7 +53,9 @@
     {
       "id": "8859c28795554bfd84515e4fc8e50b89",
       "appId": "c206917c4831488084d68bffabfde8eb",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "9462-1570 Québec Inc.",
