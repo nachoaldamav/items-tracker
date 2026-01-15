@@ -1,7 +1,7 @@
 {
   "id": "25ab3ccc56544b66b52b17235ea77404",
   "title": "Corsairs - Battle of the Caribbean",
-  "description": "An immersive adventure and strategy game set amidst the thrilling world of buccaneering. As a shrewd captain, navigate tumultuous seas, engage in complex politics, and manage a diverse crew to establish maritime dominance and ensure your fleet's future.",
+  "description": "Get ready to scour the waves of the Caribbean in search of glory and riches! \n\nAn immersive strategy game set amidst the world of buccaneering. Navigate tumultuous seas and manage a diverse crew to establish maritime dominance and ensure your fleet's future.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,7 +35,7 @@
   "namespace": "776f36c1d52a4124bbf9c07b48e6cf1f",
   "status": "ACTIVE",
   "creationDate": "2023-02-23T08:55:36.349Z",
-  "lastModifiedDate": "2024-06-10T07:35:02.664Z",
+  "lastModifiedDate": "2026-01-15T09:08:32.746Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "32598b2fca664943b0b312209a20dc28",
       "appId": "8b738ab80c08424f9d28c1606910fa70",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Microids",
