@@ -34,9 +34,13 @@
   ],
   "namespace": "220125447cc247c39e2e98c4c85d264f",
   "status": "ACTIVE",
-  "creationDate": "2025-02-13T14:27:26.697Z",
-  "lastModifiedDate": "2025-02-13T14:27:26.697Z",
+  "creationDate": "2025-01-15T18:02:24.480Z",
+  "lastModifiedDate": "2026-01-16T21:00:15.934Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/Cubic Odyssey/lsave/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "CubicOdyssey"
@@ -49,13 +53,15 @@
     {
       "id": "cb7a0737f6fa42eaa9dad6e13a5a26a2",
       "appId": "490fba95ba8d473ba93824cdae847f44",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Gaijin Network Ltd",
   "developerId": "o-ryelu2twnhbef3b9dncwtqh38emq5n",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567SGoJfGZesDRr4lbH8ZULk0Px",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
