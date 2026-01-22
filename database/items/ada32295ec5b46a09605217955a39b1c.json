@@ -2,6 +2,7 @@
   "id": "ada32295ec5b46a09605217955a39b1c",
   "title": "FLSGeneralAudience",
   "description": "FLSGeneralAudience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +14,7 @@
   "namespace": "64f6e25cee7441e9967524a50b08dddd",
   "status": "ACTIVE",
   "creationDate": "2022-01-19T19:48:28.923Z",
-  "lastModifiedDate": "2026-01-07T18:24:25.515Z",
+  "lastModifiedDate": "2026-01-22T18:09:37.192Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +24,15 @@
   "entitlementName": "ada32295ec5b46a09605217955a39b1c",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Okomotive AG",
   "developerId": "o-4phbqht8lldcw6pfjvnhz5xucppmkx",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": true
 }
