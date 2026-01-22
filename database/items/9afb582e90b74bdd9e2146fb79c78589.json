@@ -33,7 +33,7 @@
   "namespace": "calluna",
   "status": "ACTIVE",
   "creationDate": "2019-09-09T16:35:36.400Z",
-  "lastModifiedDate": "2024-12-31T18:39:12.983Z",
+  "lastModifiedDate": "2026-01-21T23:05:05.040Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -53,7 +53,7 @@
     },
     "UseAccessControl": {
       "type": "STRING",
-      "value": "true"
+      "value": "false"
     },
     "RequirementsJson": {
       "type": "STRING",
