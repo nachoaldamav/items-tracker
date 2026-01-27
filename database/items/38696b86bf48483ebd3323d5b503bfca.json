@@ -35,7 +35,7 @@
   "namespace": "7308cf7f15a64bb981cdc7e774688238",
   "status": "ACTIVE",
   "creationDate": "2025-01-14T13:33:21.009Z",
-  "lastModifiedDate": "2025-09-02T13:39:45.982Z",
+  "lastModifiedDate": "2026-01-27T21:05:24.271Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "844af7ce-2dfe-474c-9b9a-7e207138c4a1",
       "appId": "16aa57450dd2438d89ea4889ca037660",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Skillcap Studio",
