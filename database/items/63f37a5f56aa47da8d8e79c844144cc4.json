@@ -35,11 +35,15 @@
   "namespace": "50253b34283c4f8fb644a47fbfbfb45e",
   "status": "ACTIVE",
   "creationDate": "2023-11-13T10:02:14.302Z",
-  "lastModifiedDate": "2025-10-08T15:06:35.068Z",
+  "lastModifiedDate": "2026-01-27T15:46:35.415Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{AppData}/Orca/Saved\\SaveGames/"
+      "value": "{AppData}/Orca/Saved/SaveGames/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
     },
     "FolderName": {
       "type": "STRING",
