@@ -35,11 +35,11 @@
   "namespace": "374a6226cb974c17805faf96df45c31a",
   "status": "ACTIVE",
   "creationDate": "2024-05-28T10:03:26.352Z",
-  "lastModifiedDate": "2025-06-07T05:36:43.042Z",
+  "lastModifiedDate": "2026-02-04T10:36:07.731Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{AppData}/Relooted/Saved/"
+      "value": "{InstallDir}/Relooted/Saved/SaveGames/"
     },
     "FolderName": {
       "type": "STRING",
@@ -54,7 +54,6 @@
       "id": "ed218fffad4548c39e28407192dc3bce",
       "appId": "c4f499381a2342d6b1ebb7a3c9ab39e6",
       "platform": [
-        "Win32",
         "Windows"
       ]
     }
@@ -62,7 +61,7 @@
   "developer": "Nyamakop",
   "developerId": "o-glj2z63u9eq3wwwnh3zm7spj7j3wnp",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567YOmZJWFqI7xrSBraDdhBNmBh",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
