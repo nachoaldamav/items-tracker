@@ -32,13 +32,24 @@
   "namespace": "99e8ecbba8a34b95839498e98fbebeeb",
   "status": "ACTIVE",
   "creationDate": "2025-10-09T17:09:10.103Z",
-  "lastModifiedDate": "2026-01-14T18:40:54.444Z",
+  "lastModifiedDate": "2026-02-11T18:13:19.768Z",
+  "customAttributes": {},
   "entitlementName": "dbfc6991175d483dae546a7e92387502",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7ff988e70df14463bbd177af043c401f",
+      "appId": "0014a97b9ca6457191a9f7cbd31e6d6d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
   "developer": "Mob Entertainment",
   "developerId": "o-yh7uc5sj8zhx8xcezu48l32b4dj7n4",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
