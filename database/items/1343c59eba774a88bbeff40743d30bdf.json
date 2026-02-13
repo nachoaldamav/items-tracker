@@ -34,8 +34,8 @@
   ],
   "namespace": "6e274057d3704624a1270cf7be81966a",
   "status": "ACTIVE",
-  "creationDate": "2024-11-04T16:10:44.895Z",
-  "lastModifiedDate": "2024-11-04T16:10:44.895Z",
+  "creationDate": "2024-11-03T00:15:01.713Z",
+  "lastModifiedDate": "2026-02-12T17:22:20.420Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "29d0dc8816b3472b841b8f35d74252f3",
       "appId": "777f9c5cda6d49279c77441994eb5748",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Jotar",
