@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/3f0cf1d57c30451da148c3899d4fe433/brick-breaker-premium-1u3nq.png",
-      "md5": "76a8216f1363aae1f5392d8674825c0b",
+      "url": "https://cdn1.epicgames.com/spt-assets/3f0cf1d57c30451da148c3899d4fe433/brick-breaker-premium-12r2l.png",
+      "md5": "464bde77d249a1459b2b3e36dbcba6fd",
       "width": 2560,
       "height": 1440,
-      "size": 2309372,
-      "uploadedDate": "2023-04-24T03:28:03.677Z",
+      "size": 3565512,
+      "uploadedDate": "2026-02-13T23:45:31.642Z",
       "alt": "Brick Breaker Premium Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/3f0cf1d57c30451da148c3899d4fe433/brick-breaker-premium-1s07k.png",
-      "md5": "14fa30d350d8b596c4e699363367fa78",
+      "url": "https://cdn1.epicgames.com/spt-assets/3f0cf1d57c30451da148c3899d4fe433/brick-breaker-premium-h7r11.png",
+      "md5": "36454b331f34c7815485301ff1c7b1c9",
       "width": 1200,
       "height": 1600,
-      "size": 1327886,
-      "uploadedDate": "2023-04-24T03:28:03.043Z",
+      "size": 2096267,
+      "uploadedDate": "2026-02-13T23:45:32.929Z",
       "alt": "Download Brick Breaker Premium Offer"
     }
   ],
@@ -35,7 +35,7 @@
   "namespace": "17821d25b37d41f5986120708995fd32",
   "status": "ACTIVE",
   "creationDate": "2023-04-23T19:06:21.994Z",
-  "lastModifiedDate": "2025-03-23T01:41:34.360Z",
+  "lastModifiedDate": "2026-02-15T04:55:02.058Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -50,7 +50,8 @@
       "id": "0cbcbce5388b4fcfaa1ef26420b5dae3",
       "appId": "94706b63d65b4210b0255ab9598385c9",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ]
     }
   ],
