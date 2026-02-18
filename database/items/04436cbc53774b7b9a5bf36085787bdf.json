@@ -14,7 +14,7 @@
   "namespace": "dae80c0d4e3b4d648498b48af609b8bb",
   "status": "ACTIVE",
   "creationDate": "2025-08-15T20:52:37.431Z",
-  "lastModifiedDate": "2025-08-15T22:39:45.734Z",
+  "lastModifiedDate": "2026-02-18T00:59:20.496Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -31,7 +31,32 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "ageGatings": {},
+  "ageGatings": {
+    "ESRB": {
+      "ratingSystem": "ESRB",
+      "ratingSystemDescription": "Entertainment Software Rating Board",
+      "ageControl": 17,
+      "gameRating": "Mature 17+",
+      "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/ESRB_M_192_192x192-1984f5076d6fb905bba422c8700c663e",
+      "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/ESRB-EN-M_355x530-dcad729ba3738cd2007b4ba16f05074f",
+      "title": "Mature 17+",
+      "descriptor": "Violence,Blood and Gore,Suggestive Themes,Use of Alcohol,Crude Humor",
+      "descriptorIds": [
+        34,
+        4,
+        29,
+        31,
+        6
+      ],
+      "element": "Users Interact,In-Game Purchases",
+      "elementIds": [
+        11,
+        21
+      ],
+      "isTrad": false,
+      "isIARC": false
+    }
+  },
   "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": true
