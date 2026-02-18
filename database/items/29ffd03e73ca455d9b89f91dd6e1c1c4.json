@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/80c032b8bc434c2cbe2402a8c76d2bb6/micro-tanks-fgbmz.png",
-      "md5": "bddcb5c30fbb7550cc9294d55e51bacc",
+      "url": "https://cdn1.epicgames.com/spt-assets/80c032b8bc434c2cbe2402a8c76d2bb6/micro-tanks-1kiii.png",
+      "md5": "b7acf762e6ffa2315d869acafe220487",
       "width": 2560,
       "height": 1440,
-      "size": 813723,
-      "uploadedDate": "2024-06-11T04:34:22.291Z",
+      "size": 3491562,
+      "uploadedDate": "2026-02-13T16:53:47.635Z",
       "alt": "Micro Tanks Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/80c032b8bc434c2cbe2402a8c76d2bb6/micro-tanks-36hfn.png",
-      "md5": "585eb377d6600ce6956c4214ad27933b",
+      "url": "https://cdn1.epicgames.com/spt-assets/80c032b8bc434c2cbe2402a8c76d2bb6/micro-tanks-lur7p.png",
+      "md5": "16f661f51307f737cf711053ef77ff13",
       "width": 1200,
       "height": 1600,
-      "size": 524681,
-      "uploadedDate": "2024-06-11T04:34:22.535Z",
+      "size": 1955947,
+      "uploadedDate": "2026-02-13T16:53:45.517Z",
       "alt": "Download Micro Tanks Offer"
     }
   ],
@@ -35,7 +35,7 @@
   "namespace": "de3ed17d886342a998ea8b187c656f15",
   "status": "ACTIVE",
   "creationDate": "2024-06-11T03:41:23.521Z",
-  "lastModifiedDate": "2024-08-01T20:20:56.961Z",
+  "lastModifiedDate": "2026-02-17T16:45:44.207Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -50,7 +50,8 @@
       "id": "4f25eb28412b4249b8861ad35281e692",
       "appId": "0e5825fd683642fc89c5ec6dfa7e5c3b",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ]
     }
   ],
