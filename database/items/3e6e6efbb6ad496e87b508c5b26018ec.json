@@ -35,8 +35,16 @@
   "namespace": "491e7408350f4722a82ce962d122586a",
   "status": "ACTIVE",
   "creationDate": "2021-10-07T21:42:49.882Z",
-  "lastModifiedDate": "2025-04-29T11:43:38.566Z",
+  "lastModifiedDate": "2026-02-19T16:26:29.721Z",
   "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{AppData}/CloudSaves/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/CloudSave/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "ShadowsofDoubtAslQJ"
