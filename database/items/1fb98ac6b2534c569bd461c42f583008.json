@@ -34,9 +34,13 @@
   ],
   "namespace": "9a6f4df90fbd40e79c2fcc6bb72f163c",
   "status": "ACTIVE",
-  "creationDate": "2025-06-18T23:38:29.508Z",
-  "lastModifiedDate": "2025-06-18T23:38:29.508Z",
+  "creationDate": "2024-09-11T08:12:46.594Z",
+  "lastModifiedDate": "2026-02-20T02:43:49.700Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/RED/Saved/SAVE/{EpicID}/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "MARVELTokonFightingSouls"
@@ -49,7 +53,9 @@
     {
       "id": "687157dfe9dc4964b6f25001e00e1ef8",
       "appId": "ab16b5bfd416455ebfbb3aeb245dde4d",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Sony Interactive Entertainment",
