@@ -31,14 +31,25 @@
   ],
   "namespace": "436099305a2249a8bbe4d9113fc41d53",
   "status": "ACTIVE",
-  "creationDate": "2026-02-17T09:23:11.798Z",
-  "lastModifiedDate": "2026-02-17T10:36:12.895Z",
+  "creationDate": "2026-02-12T09:36:49.973Z",
+  "lastModifiedDate": "2026-02-26T08:53:25.410Z",
+  "customAttributes": {},
   "entitlementName": "3ca0042a51f44efe87a8dff2809c32a2",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "86c2453214154e9998d0aa5539582c1c",
+      "appId": "acfb8b76074c41e08beee6a768765f18",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
   "developer": "The Gang Studio AB",
   "developerId": "o-e4mgnmnmw3nv24cep4kazccjgg8d7p",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
