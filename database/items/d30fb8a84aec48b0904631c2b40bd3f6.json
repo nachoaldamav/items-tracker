@@ -35,8 +35,12 @@
   "namespace": "4e06466623c6447bbcb4b8e9f0b1c14e",
   "status": "ACTIVE",
   "creationDate": "2023-12-14T03:49:40.302Z",
-  "lastModifiedDate": "2025-05-14T09:17:09.169Z",
+  "lastModifiedDate": "2026-03-02T10:01:32.086Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Subnautica2/Saved/SaveGames/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "Subnautica2"

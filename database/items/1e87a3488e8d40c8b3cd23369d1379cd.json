@@ -2,6 +2,7 @@
   "id": "1e87a3488e8d40c8b3cd23369d1379cd",
   "title": "DevGeneralAudience",
   "description": "DevGeneralAudience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -13,14 +14,18 @@
   "namespace": "4e06466623c6447bbcb4b8e9f0b1c14e",
   "status": "ACTIVE",
   "creationDate": "2023-12-14T03:49:40.202Z",
-  "lastModifiedDate": "2025-05-14T09:17:09.169Z",
+  "lastModifiedDate": "2026-03-02T10:01:32.086Z",
+  "customAttributes": {},
   "entitlementName": "1e87a3488e8d40c8b3cd23369d1379cd",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
   "developer": "Unknown Worlds Entertainment",
   "developerId": "o-g4s9pbd6mu9e8uqn539s3xqk9yex92",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }

@@ -1,7 +1,7 @@
 {
   "id": "c84bada2313f40f89ab5151a5991acff",
-  "title": "Closed Beta",
-  "description": "Closed Beta",
+  "title": "Subnautica 2 Closed Beta",
+  "description": "Subnautica 2 Closed Beta",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,9 +34,13 @@
   ],
   "namespace": "4e06466623c6447bbcb4b8e9f0b1c14e",
   "status": "ACTIVE",
-  "creationDate": "2025-05-14T09:17:09.184Z",
-  "lastModifiedDate": "2025-05-14T09:17:09.184Z",
+  "creationDate": "2025-05-06T11:10:58.829Z",
+  "lastModifiedDate": "2026-03-02T10:01:32.086Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Subnautica2/Saved/SaveGames/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "DemoSubnautica2c9ae7"
@@ -57,6 +61,7 @@
   "developer": "Unknown Worlds Entertainment",
   "developerId": "o-g4s9pbd6mu9e8uqn539s3xqk9yex92",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
