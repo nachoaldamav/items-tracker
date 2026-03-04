@@ -2,6 +2,7 @@
   "id": "d7a97fd7d48c4963bdae64681e4cd874",
   "title": "PrePurchaseDevGeneralAudience",
   "description": "PrePurchaseDevGeneralAudience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -13,13 +14,18 @@
   "namespace": "e5429798296d4f78b8090f243b00cf11",
   "status": "ACTIVE",
   "creationDate": "2024-08-08T15:19:16.605Z",
-  "lastModifiedDate": "2025-05-15T14:56:33.701Z",
+  "lastModifiedDate": "2026-03-03T16:25:39.897Z",
+  "customAttributes": {},
   "entitlementName": "d7a97fd7d48c4963bdae64681e4cd874",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
+  "releaseInfo": [],
   "developer": "Plaion",
   "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
