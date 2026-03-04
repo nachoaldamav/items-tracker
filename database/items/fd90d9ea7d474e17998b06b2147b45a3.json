@@ -35,8 +35,20 @@
   "namespace": "033b4e36509a4e9cb32406e341534f52",
   "status": "ACTIVE",
   "creationDate": "2022-10-17T22:18:25.419Z",
-  "lastModifiedDate": "2025-12-03T23:41:39.823Z",
+  "lastModifiedDate": "2026-03-04T16:52:54.255Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/ProtoCat/Saved/SaveGames/cloudsaves/{EpicID}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.zip"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "5000"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "Cloudheim"
