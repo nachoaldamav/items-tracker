@@ -31,8 +31,8 @@
   ],
   "namespace": "312174cf57134898a8f751921430d765",
   "status": "ACTIVE",
-  "creationDate": "2025-07-16T05:43:41.658Z",
-  "lastModifiedDate": "2025-07-16T05:43:41.658Z",
+  "creationDate": "2025-07-11T11:09:09.058Z",
+  "lastModifiedDate": "2026-03-05T07:09:51.889Z",
   "customAttributes": {},
   "entitlementName": "e5e7dffdf547496c898ffcdcdc39e3ec",
   "entitlementType": "EXECUTABLE",
@@ -41,7 +41,9 @@
     {
       "id": "e68125891b614e98a1e5b338339ea16e",
       "appId": "608fce0ceb5a443399a667d686840186",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "ARTDOCK COMPANY SRL",
