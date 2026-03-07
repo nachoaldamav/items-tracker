@@ -1,7 +1,7 @@
 {
   "id": "0047c32598ed4b5eb835240947044864",
   "title": "Ready or Not",
-  "description": "Ready or Not",
+  "description": "Ready or Not is an intense, tactical, first-person shooter that depicts a modern-day world in which SWAT police units are called to defuse hostile and confronting situations.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,7 +35,7 @@
   "namespace": "51b0e42c972e47aebdf507ce4f68ddc3",
   "status": "ACTIVE",
   "creationDate": "2023-05-23T06:27:04.394Z",
-  "lastModifiedDate": "2025-09-26T17:00:07.010Z",
+  "lastModifiedDate": "2026-03-06T15:06:33.956Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -50,6 +50,7 @@
       "id": "ba47a49c82314010b7e10f651f1f1d15",
       "appId": "07e0052292f44e71a1efeb219d060ea5",
       "platform": [
+        "Win32",
         "Windows"
       ]
     }
