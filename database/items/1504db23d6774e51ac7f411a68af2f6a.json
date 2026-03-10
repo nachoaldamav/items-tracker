@@ -35,11 +35,23 @@
   "namespace": "6688f6ac60ba489e87ebd7f454c6bded",
   "status": "ACTIVE",
   "creationDate": "2025-04-21T10:10:50.313Z",
-  "lastModifiedDate": "2025-09-29T08:55:49.066Z",
+  "lastModifiedDate": "2026-03-10T11:00:30.005Z",
   "customAttributes": {
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "STARDIVE.exe"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "STARDIVE.exe"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "MONGILSTARDIVE"
+    },
+    "BackgroundProcessNames": {
+      "type": "STRING",
+      "value": "Netmarble Launcher_EPIC.exe"
     }
   },
   "entitlementName": "1504db23d6774e51ac7f411a68af2f6a",
@@ -49,13 +61,15 @@
     {
       "id": "9ce5b05c-d0fc-451d-b13c-1c79d388287f",
       "appId": "5d5ddd31bdd044649b2e254e048b9259",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "NETMARBLE",
   "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567Q7AfHOuNq1DimoQM7c4YTsNt",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
