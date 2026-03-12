@@ -1,0 +1,34 @@
+{
+  "id": "725bbb536ae240cda24ce4599c13a362",
+  "title": "OST audience",
+  "description": "OST audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "a22be63a94a64dd4a999ed959f0ce77f",
+  "status": "ACTIVE",
+  "creationDate": "2026-02-04T15:33:33.893Z",
+  "lastModifiedDate": "2026-03-12T16:27:12.351Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "725bbb536ae240cda24ce4599c13a362",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Focus Entertainment Publishing",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
