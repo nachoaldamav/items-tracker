@@ -1,26 +1,26 @@
 {
   "id": "48f04313df2a4d42a08f1fb8578de672",
-  "title": "A Rats Quest - The Way Back Home",
-  "description": "A Rats Quest - The Way Back Home",
+  "title": "A Rat's Quest: The Way Back Home - Season 1",
+  "description": "Mat, a young rat, risks everything for love. Determined to reunite with Nat, a pet mouse, he secretly ventures to the upper floors of the Giant's house. Longing for a new life on the Outside, Mat's actions and the dark secrets harbored by his commune put their lives in danger.",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/09508edf00004bf48f5564d8e6c8347c/a-rats-quest-1c01c.jpg",
-      "md5": "f2a061131ddcf9b82344e343104abbbd",
+      "url": "https://cdn1.epicgames.com/spt-assets/09508edf00004bf48f5564d8e6c8347c/a-rats-quest-514ju.jpg",
+      "md5": "58a3d5cfc36e4b6f4a536193a1daae17",
       "width": 2560,
       "height": 1440,
-      "size": 800914,
-      "uploadedDate": "2023-07-27T12:07:38.714Z",
+      "size": 776598,
+      "uploadedDate": "2025-11-26T13:19:01.380Z",
       "alt": "A Rats Quest Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/09508edf00004bf48f5564d8e6c8347c/a-rats-quest-1pjh9.jpg",
-      "md5": "501a609fd272edad6c00e2f7ad3c3739",
+      "url": "https://cdn1.epicgames.com/spt-assets/09508edf00004bf48f5564d8e6c8347c/a-rats-quest-18bvn.jpg",
+      "md5": "dc39469fb49d455ec6a2014a3f4bccb7",
       "width": 1200,
       "height": 1600,
-      "size": 490435,
-      "uploadedDate": "2023-07-27T12:07:39.134Z",
+      "size": 520194,
+      "uploadedDate": "2025-11-26T13:19:01.261Z",
       "alt": "Download A Rats Quest Offer"
     }
   ],
@@ -34,9 +34,17 @@
   ],
   "namespace": "ed29b31eb15546d1803598fd2264ea1e",
   "status": "ACTIVE",
-  "creationDate": "2023-08-04T07:54:25.861Z",
-  "lastModifiedDate": "2023-08-04T07:54:25.861Z",
+  "creationDate": "2023-07-26T08:39:34.946Z",
+  "lastModifiedDate": "2026-03-16T06:35:16.216Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/The Dreamerians/ARQ_TWBH/Data/DynamicData/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "2"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "ARatsQuest"
@@ -49,13 +57,15 @@
     {
       "id": "bcfb9bc2e9f748b3bcfa58177ab87d44",
       "appId": "2e0e91d701c34abf851de5b535a2617a",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Handy Games",
   "developerId": "o-ekk92wx8mesnmsvbseequvnt38mzu6",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567Lk9qx58qUk43BuViAsmlMrdl",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
