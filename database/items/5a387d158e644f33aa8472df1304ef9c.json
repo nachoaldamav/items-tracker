@@ -35,7 +35,7 @@
   "namespace": "9de65f6db18c4757a84e639d9a3e5a97",
   "status": "ACTIVE",
   "creationDate": "2023-03-10T12:02:30.841Z",
-  "lastModifiedDate": "2024-06-13T19:10:23.549Z",
+  "lastModifiedDate": "2026-03-18T16:00:06.819Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -50,8 +50,8 @@
       "id": "03b406fc8f9f471b9386bf4f1d09ebc3",
       "appId": "b9f2fa313df846b191a20865e6a07610",
       "platform": [
-        "Windows",
         "Win32",
+        "Windows",
         "Mac"
       ]
     }
