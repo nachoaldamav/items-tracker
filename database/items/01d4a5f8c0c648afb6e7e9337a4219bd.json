@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/865b1a619fe744ed81dd0415fd50f5e6/calamity-bh9ex.png",
-      "md5": "662924d59aa5b5f3b9b02b150b961298",
+      "url": "https://cdn1.epicgames.com/spt-assets/865b1a619fe744ed81dd0415fd50f5e6/calamity-99xjt.png",
+      "md5": "c05817e83827716bd88080f801a4545d",
       "width": 2560,
       "height": 1440,
-      "size": 3875749,
-      "uploadedDate": "2025-08-06T08:03:09.972Z",
+      "size": 215306,
+      "uploadedDate": "2026-03-17T15:56:38.335Z",
       "alt": "Calamity Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/865b1a619fe744ed81dd0415fd50f5e6/calamity-8o7a9.png",
-      "md5": "322a7f5cc89ad6c7b60c2fc702797675",
+      "url": "https://cdn1.epicgames.com/spt-assets/865b1a619fe744ed81dd0415fd50f5e6/calamity-blrgj.png",
+      "md5": "1121ac3f3334e93b382e226c65594d0c",
       "width": 1200,
       "height": 1600,
-      "size": 2318846,
-      "uploadedDate": "2025-08-06T08:03:13.666Z",
+      "size": 85791,
+      "uploadedDate": "2026-03-17T15:56:41.659Z",
       "alt": "Download Calamity Offer"
     }
   ],
@@ -35,7 +35,7 @@
   "namespace": "605c18826d4048e7902d410f98e219ac",
   "status": "ACTIVE",
   "creationDate": "2024-02-27T16:28:22.326Z",
-  "lastModifiedDate": "2025-08-13T08:19:02.507Z",
+  "lastModifiedDate": "2026-03-19T14:38:33.409Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -50,7 +50,8 @@
       "id": "5138bd7ee3ed4c4880662da947a431ee",
       "appId": "d5f1bc26ed2f49288120f5a13dac93bc",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ]
     }
   ],
