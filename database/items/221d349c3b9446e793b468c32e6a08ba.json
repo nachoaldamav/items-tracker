@@ -1,0 +1,63 @@
+{
+  "id": "221d349c3b9446e793b468c32e6a08ba",
+  "title": "Kernel Hearts Demo",
+  "description": "Kernel Hearts Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/62a2cf69f8de41e79b9f2465f9555b67/kernel-hearts-1jhga.png",
+      "md5": "f7444ca8fe49df00f79fbc07ba8babc4",
+      "width": 2560,
+      "height": 1440,
+      "size": 3330580,
+      "uploadedDate": "2026-03-19T17:01:01.134Z",
+      "alt": "Kernel Hearts Kernel Hearts Demo Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/62a2cf69f8de41e79b9f2465f9555b67/kernel-hearts-6esdh.png",
+      "md5": "69e9f60330da8c4106e747636a799841",
+      "width": 1200,
+      "height": 1600,
+      "size": 2638408,
+      "uploadedDate": "2026-03-19T17:00:58.390Z",
+      "alt": "Download Kernel Hearts Kernel Hearts Demo Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e4f9d4000eb44dbe86d98f2d8b923398",
+  "status": "ACTIVE",
+  "creationDate": "2026-03-20T21:25:17.773Z",
+  "lastModifiedDate": "2026-03-20T21:25:17.773Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "DemoKernelHearts3e160"
+    }
+  },
+  "entitlementName": "221d349c3b9446e793b468c32e6a08ba",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ff5f6ed2-a7b5-4a44-8a04-08b6dc4c42e4",
+      "appId": "b724945794574bfabc1c0270a7fcf05a",
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "White Thorn Digital",
+  "developerId": "o-v7c8xq9bmhtqhakulz7lrptnz8b628",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
