@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/22435070a9f84371a20ae25b2eba2ccc/prologue-go-wayback-160o1.jpg",
-      "md5": "ba3c0259d7df15a952ace904daa3dbeb",
+      "url": "https://cdn1.epicgames.com/spt-assets/22435070a9f84371a20ae25b2eba2ccc/prologue-go-wayback-eoyz1.jpg",
+      "md5": "23b8c0d237e4ff4a87e29a3648c415af",
       "width": 2560,
       "height": 1440,
-      "size": 2027073,
-      "uploadedDate": "2025-11-13T16:30:17.951Z",
+      "size": 1222485,
+      "uploadedDate": "2026-03-24T10:24:42.366Z",
       "alt": "Prologue: Go Wayback! Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/22435070a9f84371a20ae25b2eba2ccc/prologue-go-wayback-ym6k9.jpg",
-      "md5": "ef59c71623c8c632763912930696c2e5",
+      "url": "https://cdn1.epicgames.com/spt-assets/22435070a9f84371a20ae25b2eba2ccc/prologue-go-wayback-479y4.png",
+      "md5": "47368eed045f33187415431166338134",
       "width": 1200,
       "height": 1600,
-      "size": 1016576,
-      "uploadedDate": "2025-11-13T16:14:02.238Z",
+      "size": 3370227,
+      "uploadedDate": "2026-03-24T10:24:52.725Z",
       "alt": "Download Prologue: Go Wayback! Offer"
     }
   ],
@@ -35,15 +35,15 @@
   "namespace": "bd32de9f9e8a4c89917502e4fc59f35b",
   "status": "ACTIVE",
   "creationDate": "2025-02-27T10:27:25.208Z",
-  "lastModifiedDate": "2025-11-20T23:06:29.031Z",
+  "lastModifiedDate": "2026-03-26T12:55:08.763Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{AppData}/Prologue/Saved\\SaveGames/"
+      "value": "{AppData}/Prologue/Saved/SaveGames/"
     },
     "CloudIncludeList": {
       "type": "STRING",
-      "value": "SaveGame.sav"
+      "value": "SaveGame*.sav,History/*.pphd"
     },
     "FolderName": {
       "type": "STRING",
