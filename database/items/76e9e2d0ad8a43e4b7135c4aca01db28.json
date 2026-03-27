@@ -4,22 +4,24 @@
   "description": "Titan Quest Anniversary Edition",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/item/096d7313d4ae432f9327081a45db439d/EGS_TitanQuestAnniversaryEdition_IronLoreEntertainmentTHQNordic_S2_1200x1600-0a7aa9a28c2e334b0cae858ce19977a7",
-      "md5": "0a7aa9a28c2e334b0cae858ce19977a7",
-      "width": 1200,
-      "height": 1600,
-      "size": 606936,
-      "uploadedDate": "2021-11-30T16:18:21.583Z"
-    },
-    {
-      "type": "DieselGameBoxWide",
-      "url": "https://cdn1.epicgames.com/item/096d7313d4ae432f9327081a45db439d/EGS_TitanQuestAnniversaryEdition_IronLoreEntertainmentTHQNordic_S1_2560x1440-5a3f9bee3ae37e44791e7bb619ddb985",
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/2707c2b5cc8d4453af18de775b4e8c9e/titan-quest-anniversary-edition-19j0e.jpg",
       "md5": "5a3f9bee3ae37e44791e7bb619ddb985",
       "width": 2560,
       "height": 1440,
       "size": 865564,
-      "uploadedDate": "2021-11-30T16:18:25.134Z"
+      "uploadedDate": "2026-03-24T13:22:47.345Z",
+      "alt": "Titan Quest Anniversary Edition Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/2707c2b5cc8d4453af18de775b4e8c9e/titan-quest-anniversary-edition-cibwj.jpg",
+      "md5": "0a7aa9a28c2e334b0cae858ce19977a7",
+      "width": 1200,
+      "height": 1600,
+      "size": 606936,
+      "uploadedDate": "2026-03-24T13:22:52.105Z",
+      "alt": "Download Titan Quest Anniversary Edition Offer"
     }
   ],
   "categories": [
@@ -32,8 +34,8 @@
   ],
   "namespace": "096d7313d4ae432f9327081a45db439d",
   "status": "ACTIVE",
-  "creationDate": "2021-11-01T19:34:39.079Z",
-  "lastModifiedDate": "2024-05-21T05:36:53.587Z",
+  "creationDate": "2026-03-24T14:01:20.792Z",
+  "lastModifiedDate": "2026-03-27T13:23:08.130Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -69,7 +71,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "36f1fb63685745229feaf7aa59ba9f5a",
+      "id": "c05bb7a2f54c49078d32bf7545b0ae14",
       "appId": "7ef36735319b47d7980964b04070d678",
       "platform": [
         "Windows"
