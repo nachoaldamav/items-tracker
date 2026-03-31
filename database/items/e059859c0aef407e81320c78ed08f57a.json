@@ -1,7 +1,7 @@
 {
   "id": "e059859c0aef407e81320c78ed08f57a",
-  "title": "Down In Bermuda",
-  "description": "Down In Bermuda",
+  "title": "Down in Bermuda",
+  "description": "An unnatural storm leaves an adventurous aviator stranded for decades within the infamous Bermuda. Overcome creatures of the deep and unravel the islands secrets in search for a way back home.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,9 +35,13 @@
   ],
   "namespace": "0558e58003aa447a8ace48c3a0d53b54",
   "status": "ACTIVE",
-  "creationDate": "2020-10-19T03:15:11.481Z",
-  "lastModifiedDate": "2021-01-15T19:18:42.092Z",
+  "creationDate": "2026-03-27T21:54:15.913Z",
+  "lastModifiedDate": "2026-03-30T20:31:09.609Z",
   "customAttributes": {
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/co.yakand.epic.downinbermuda/cloud/"
+    },
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
@@ -52,11 +56,7 @@
     },
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{AppData}\\..\\LocalLow\\Yak and Co\\Down in Bermuda\\"
-    },
-    "CloudExcludeList": {
-      "type": "STRING",
-      "value": "Player.log,Player-prev.log"
+      "value": "{AppData}/../LocalLow/Yak and Co/Down in Bermuda/epic/cloud/"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -80,13 +80,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "de0c6b908d0045b686b529a360470092",
+      "id": "42dc3b060d3546618e5d80d1e21c590e",
       "appId": "1b3d52e6278749868913aa1cdd12e974",
       "platform": [
         "Windows",
         "Mac"
-      ],
-      "dateAdded": "2020-10-19T00:00:00.000Z"
+      ]
     }
   ],
   "developer": "Yak & Co",
