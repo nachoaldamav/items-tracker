@@ -1,7 +1,7 @@
 {
   "id": "a10729a2be9a4f28a71939a0305f929b",
   "title": "Mixtape",
-  "description": "Mixtape",
+  "description": "On their last night together, three friends embark on one final adventure. Play through a mixtape of memories, set to the soundtrack of a generation.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,9 +34,21 @@
   ],
   "namespace": "39808df6405d4088b530d024a89aee55",
   "status": "ACTIVE",
-  "creationDate": "2025-05-26T18:41:19.743Z",
-  "lastModifiedDate": "2025-05-26T18:41:19.743Z",
+  "creationDate": "2025-04-22T15:46:20.142Z",
+  "lastModifiedDate": "2026-04-01T17:15:22.271Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/NewMoon/Saved/SaveGames/EOS/{EpicID}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "256"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "Mixtape"
@@ -49,13 +61,15 @@
     {
       "id": "1166833803814d8d89d0eed09d75de87",
       "appId": "a30d1e849081480896db790fb07d71f6",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Annapurna Interactive",
   "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567SUOvNqMIutsDxp03DSB0KZ7w",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
