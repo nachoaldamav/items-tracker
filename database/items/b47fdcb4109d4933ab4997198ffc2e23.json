@@ -1,0 +1,48 @@
+{
+  "id": "b47fdcb4109d4933ab4997198ffc2e23",
+  "title": "FortniteAurora_StrideMiceContent",
+  "description": "FortniteAurora_StrideMiceContent",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-04-02T15:09:58.807Z",
+  "lastModifiedDate": "2026-04-02T15:14:12.494Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "b47fdcb4109d4933ab4997198ffc2e23",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3eb6d34a22204c71b056ad70208cab09",
+      "appId": "a6774a2344d0445d90ad362da84bab9d",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

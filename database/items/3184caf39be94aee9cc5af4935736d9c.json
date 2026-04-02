@@ -1,0 +1,48 @@
+{
+  "id": "3184caf39be94aee9cc5af4935736d9c",
+  "title": "FortniteAurora_SharedContent",
+  "description": "FortniteAurora_SharedContent",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-04-02T15:09:58.505Z",
+  "lastModifiedDate": "2026-04-02T15:14:11.919Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "3184caf39be94aee9cc5af4935736d9c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0cb9b00d90bd4fb3ae4c3a20a670b2da",
+      "appId": "3df0989bb3b84b9c8f0d62dbac60fddb",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

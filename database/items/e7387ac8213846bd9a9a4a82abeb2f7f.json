@@ -1,0 +1,59 @@
+{
+  "id": "e7387ac8213846bd9a9a4a82abeb2f7f",
+  "title": "FortniteAurora_BlitzContent",
+  "description": "FortniteAurora_BlitzContent",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/fn/blitz_tall_1280x1440-1329b654c7604024bd2ffc307eb626c3",
+      "md5": "828f21677b425f711d9649fc0a174de7",
+      "width": 1280,
+      "height": 1440,
+      "size": 19105,
+      "uploadedDate": "2026-04-02T15:10:08.000Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-04-02T15:09:59.111Z",
+  "lastModifiedDate": "2026-04-02T15:14:13.076Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "e7387ac8213846bd9a9a4a82abeb2f7f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "75a221c923854db3af223d9a816f92b1",
+      "appId": "938862ede25b4d64ad783ed7ae39a10e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

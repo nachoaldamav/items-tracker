@@ -1,0 +1,63 @@
+{
+  "id": "f91268fef9c647d291e7f25db232ff2c",
+  "title": "FortniteAurora_StWContent",
+  "description": "FortniteAurora_StWContent",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/fn/ChatGPTImageFeb2202610_11_27PM_1024x1024-7aaffa4027c74ecc84be87e178cdb4a7",
+      "md5": "d0e05927ee86e26f2c41c4ad809207c0",
+      "width": 1024,
+      "height": 1024,
+      "size": 223218,
+      "uploadedDate": "2026-04-02T15:10:05.000Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-04-02T15:09:58.197Z",
+  "lastModifiedDate": "2026-04-02T15:14:11.264Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "AdditionalCommandLine": {
+      "type": "STRING",
+      "value": "-epicapp=FortniteAurora -IslandOverride=playlist_stw"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "f91268fef9c647d291e7f25db232ff2c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "40dcce3f49774910bc7ac0543e333f15",
+      "appId": "c3a14e3439f743ecba876ebb1191214a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

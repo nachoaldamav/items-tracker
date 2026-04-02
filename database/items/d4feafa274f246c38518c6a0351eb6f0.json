@@ -1,0 +1,48 @@
+{
+  "id": "d4feafa274f246c38518c6a0351eb6f0",
+  "title": "FortniteAurora_CreativeContent",
+  "description": "FortniteAurora_CreativeContent",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-04-02T15:09:59.411Z",
+  "lastModifiedDate": "2026-04-02T15:14:13.688Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "d4feafa274f246c38518c6a0351eb6f0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b4ba8154b32545aabf88b53a1f4b3acf",
+      "appId": "e39b02513a734ad6b966b96c57555cf1",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
