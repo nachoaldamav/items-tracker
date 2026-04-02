@@ -1,7 +1,7 @@
 {
   "id": "3cd2e179bcc847feb1e3c463ab43dc69",
   "title": "Farmer's Dynasty 2",
-  "description": "An idyllic farm surrounded by picturesque landscapes. Embrace the seasons to build, farm and feel the country life in the open game world of Farmer's Dynasty 2. Inherit the family farm as the next generation to prosper and create a farming legacy.",
+  "description": "Build your dream farm and secure your family’s future. Cultivate your fields, raise animals, and shape your dynasty across generations in this beautifully crafted life and farming simulation. Start your dynasty today!",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,11 +35,15 @@
   "namespace": "c60bfde3607c4c079e6da1f5f44fda25",
   "status": "ACTIVE",
   "creationDate": "2024-10-07T08:25:11.464Z",
-  "lastModifiedDate": "2025-08-22T17:49:26.330Z",
+  "lastModifiedDate": "2026-04-02T04:54:08.615Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{AppData}/../Roaming/Farm2/Save/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "*.cfg"
     },
     "MaxSizeMB": {
       "type": "STRING",
