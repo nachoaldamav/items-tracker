@@ -1,7 +1,7 @@
 {
-  "id": "211f08a072c749d88813e2759872dc88",
-  "title": "ConsumableAudience",
-  "description": "ConsumableAudience",
+  "id": "7e105785c0b44cd8ba7f71bdf52140eb",
+  "title": "v2604 Event Pass: Xeno Point_SeasonPassAudience",
+  "description": "v2604 Event Pass: Xeno Point_SeasonPassAudience",
   "categories": [
     {
       "path": "audience"
@@ -12,14 +12,13 @@
   ],
   "namespace": "eb99ee4694474e8da0b05a8ab391825c",
   "status": "ACTIVE",
-  "creationDate": "2022-07-30T12:46:33.558Z",
-  "lastModifiedDate": "2026-04-08T00:00:27.365Z",
-  "entitlementName": "211f08a072c749d88813e2759872dc88",
+  "creationDate": "2026-04-08T00:00:27.416Z",
+  "lastModifiedDate": "2026-04-08T00:00:27.416Z",
+  "entitlementName": "7e105785c0b44cd8ba7f71bdf52140eb",
   "entitlementType": "AUDIENCE",
-  "itemType": "CONSUMABLE",
+  "itemType": "DURABLE",
   "developer": "KRAFTON, Inc.",
   "developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
-  "useCount": 1,
   "endOfSupport": false,
   "requiresSecureAccount": false,
   "unsearchable": false
