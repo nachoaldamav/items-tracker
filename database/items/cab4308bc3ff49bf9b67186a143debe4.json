@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/fedebfd0b6614007b2455c09ecc0d187/sudden-strike-5-tmb85.jpg",
-      "md5": "a62c84c56300f0364ba83331bd336834",
+      "url": "https://cdn1.epicgames.com/spt-assets/fedebfd0b6614007b2455c09ecc0d187/sudden-strike-5-109xv.png",
+      "md5": "9fd98dbb632cbf452472fb26ca30a1dc",
       "width": 2560,
       "height": 1440,
-      "size": 2413974,
-      "uploadedDate": "2025-06-13T10:14:08.629Z",
+      "size": 4051141,
+      "uploadedDate": "2026-04-08T14:45:37.695Z",
       "alt": "Sudden Strike 5 Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/fedebfd0b6614007b2455c09ecc0d187/sudden-strike-5-1awq2.jpg",
-      "md5": "f3af3c3b084f0beaa4dae846ad092255",
+      "url": "https://cdn1.epicgames.com/spt-assets/fedebfd0b6614007b2455c09ecc0d187/sudden-strike-5-17ljc.png",
+      "md5": "5c63ffd7bdf5191422ccaae89cd1b3ad",
       "width": 1200,
       "height": 1600,
-      "size": 1000563,
-      "uploadedDate": "2025-06-13T10:14:07.011Z",
+      "size": 1944153,
+      "uploadedDate": "2026-04-08T14:45:32.152Z",
       "alt": "Download Sudden Strike 5 Offer"
     }
   ],
@@ -34,9 +34,13 @@
   ],
   "namespace": "feadfd9663964a09b1c5840ef43b4e8f",
   "status": "ACTIVE",
-  "creationDate": "2025-07-16T12:47:06.472Z",
-  "lastModifiedDate": "2025-07-16T12:47:06.472Z",
+  "creationDate": "2025-05-15T13:11:33.508Z",
+  "lastModifiedDate": "2026-04-09T11:05:56.029Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Kite Games/Sudden Strike 5/SaveData/Epic/{EpicID}/"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "SuddenStrike5"
@@ -49,13 +53,16 @@
     {
       "id": "24652730d58a465fb953f8db9e88ed4c",
       "appId": "dc0b1de2898e498bb462b3e912a071b1",
-      "platform": []
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Kalypso Media Group GmbH",
   "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567httA8JXs97RzpPLTpz8JNOii",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
