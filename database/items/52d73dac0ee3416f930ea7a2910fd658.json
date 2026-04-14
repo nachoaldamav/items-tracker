@@ -31,14 +31,25 @@
   ],
   "namespace": "6688f6ac60ba489e87ebd7f454c6bded",
   "status": "ACTIVE",
-  "creationDate": "2026-04-01T06:53:22.872Z",
-  "lastModifiedDate": "2026-04-01T06:53:22.872Z",
+  "creationDate": "2026-03-11T05:17:46.167Z",
+  "lastModifiedDate": "2026-04-13T01:03:41.754Z",
+  "customAttributes": {},
   "entitlementName": "52d73dac0ee3416f930ea7a2910fd658",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "dbaadd10e69a47d6b5c2f7a7038cc94c",
+      "appId": "995fa2030c8d4961a7d9887736485929",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
   "developer": "NETMARBLE",
   "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
