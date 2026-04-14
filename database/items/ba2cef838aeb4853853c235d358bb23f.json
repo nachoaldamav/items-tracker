@@ -1,0 +1,62 @@
+{
+  "id": "ba2cef838aeb4853853c235d358bb23f",
+  "title": "911 Operator",
+  "description": "911 Operator",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-cf5tj.jpg",
+      "md5": "e152c243be945a65a96377a2b7203bb3",
+      "width": 2560,
+      "height": 1440,
+      "size": 747117,
+      "uploadedDate": "2026-03-26T13:38:25.905Z",
+      "alt": "911 Operator Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-1br9x.jpg",
+      "md5": "f75d1ee831a4baa84e11b55d9c245dc0",
+      "width": 1200,
+      "height": 1600,
+      "size": 968820,
+      "uploadedDate": "2026-03-26T13:38:29.142Z",
+      "alt": "Download 911 Operator Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d923c737f0d243ccab407605ea40d39e",
+  "status": "ACTIVE",
+  "creationDate": "2026-04-14T09:22:18.431Z",
+  "lastModifiedDate": "2026-04-14T09:22:19.325Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Operator86d76"
+    }
+  },
+  "entitlementName": "ba2cef838aeb4853853c235d358bb23f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f0a8e547-e50d-45eb-a516-27555f1eabec",
+      "appId": "8defbf9070584da498b0145be2f2006d",
+      "platform": [
+        "iOS"
+      ]
+    }
+  ],
+  "developer": "Games Operators S.A.",
+  "developerId": "o-8dv8wz77w8tqnymmm8e99p28eny7kg",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
