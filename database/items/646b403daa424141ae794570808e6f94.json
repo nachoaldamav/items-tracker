@@ -2,6 +2,7 @@
   "id": "646b403daa424141ae794570808e6f94",
   "title": "huddle109 Audience",
   "description": "huddle109 Audience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +14,7 @@
   "namespace": "2a14cf8a83b149919a2399504e5686a6",
   "status": "ACTIVE",
   "creationDate": "2025-03-12T23:56:40.452Z",
-  "lastModifiedDate": "2025-11-24T23:45:11.476Z",
+  "lastModifiedDate": "2026-04-17T20:32:42.405Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -30,7 +31,27 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "ageGatings": {},
+  "ageGatings": {
+    "ESRB": {
+      "ratingSystem": "ESRB",
+      "ratingSystemDescription": "Entertainment Software Rating Board",
+      "ageControl": 13,
+      "gameRating": "Teen",
+      "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/ESRB_T_192_192x192-a0885066a34083cd647dc10db21717f1",
+      "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/ESRB-EN-T_354x530-baae04c009da6ffc5139341c31182e67",
+      "title": "Teen",
+      "descriptor": "Crude Humor,Violence,Sexual Themes",
+      "descriptorIds": [
+        6,
+        34,
+        24
+      ],
+      "element": "",
+      "elementIds": [],
+      "isTrad": false,
+      "isIARC": false
+    }
+  },
   "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": true
