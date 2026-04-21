@@ -35,15 +35,11 @@
   "namespace": "2f37d311cd6a434685a9557abc6eee6f",
   "status": "ACTIVE",
   "creationDate": "2023-10-27T14:10:18.523Z",
-  "lastModifiedDate": "2026-03-02T04:42:03.513Z",
+  "lastModifiedDate": "2026-04-20T15:14:15.178Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{AppData}/Fuji/Saved/SaveGames/"
-    },
-    "CloudIncludeList": {
-      "type": "STRING",
-      "value": "1.sav,2.sav,3.sav,_1.sav,_2.sav,_3.sav"
     },
     "MaxSizeMB": {
       "type": "STRING",
