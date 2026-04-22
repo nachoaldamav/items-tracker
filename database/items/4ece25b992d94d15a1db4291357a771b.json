@@ -1,7 +1,7 @@
 {
   "id": "4ece25b992d94d15a1db4291357a771b",
-  "title": "Symphony of War",
-  "description": "Symphony of War",
+  "title": "Symphony of War: The Nephilim Saga",
+  "description": "Symphony of War: The Nephilim Saga",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,7 +35,7 @@
   "namespace": "02572b5d530d45bcbf19e69717638396",
   "status": "ACTIVE",
   "creationDate": "2021-12-09T16:28:08.199Z",
-  "lastModifiedDate": "2023-10-23T14:51:59.460Z",
+  "lastModifiedDate": "2026-04-22T00:54:46.690Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -50,14 +50,15 @@
       "id": "446e7a341fd649498346e598929e3256",
       "appId": "defa19ce8d5e45488c054e94b4fdb588",
       "platform": [
-        "Windows",
-        "Win32"
+        "Win32",
+        "Windows"
       ]
     }
   ],
   "developer": "Freedom Games",
   "developerId": "o-rlswgtffm6ua68662gd37xv3lmq95q",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
