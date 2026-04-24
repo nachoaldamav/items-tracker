@@ -1,0 +1,34 @@
+{
+  "id": "133f2f2d44784933ab0c17f51732110b",
+  "title": "BSP audience",
+  "description": "BSP audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "58a18be6bbba41a0bf52b014bb81d33b",
+  "status": "ACTIVE",
+  "creationDate": "2026-04-23T15:50:54.411Z",
+  "lastModifiedDate": "2026-04-23T15:50:54.503Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "133f2f2d44784933ab0c17f51732110b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Grinding Gear Games",
+  "developerId": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,34 @@
+{
+  "id": "861a2bf8692149af95e39014113537cd",
+  "title": "DSP audience",
+  "description": "DSP audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "58a18be6bbba41a0bf52b014bb81d33b",
+  "status": "ACTIVE",
+  "creationDate": "2026-04-23T15:49:22.663Z",
+  "lastModifiedDate": "2026-04-23T15:49:22.772Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "861a2bf8692149af95e39014113537cd",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Grinding Gear Games",
+  "developerId": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
