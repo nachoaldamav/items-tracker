@@ -31,14 +31,25 @@
   ],
   "namespace": "4a6492c90e394cc189002b0cf0ae776b",
   "status": "ACTIVE",
-  "creationDate": "2026-04-09T13:31:05.214Z",
-  "lastModifiedDate": "2026-04-09T13:31:05.214Z",
+  "creationDate": "2026-04-07T10:47:46.553Z",
+  "lastModifiedDate": "2026-04-24T07:58:07.026Z",
+  "customAttributes": {},
   "entitlementName": "bee675b118b845a18f38d4745564abc9",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4ee34ef148bc4135998a4cabea7e7c84",
+      "appId": "d144be6692244e4c9b8ab950f14c92cd",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
   "developer": "SEGA of Europe",
   "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
