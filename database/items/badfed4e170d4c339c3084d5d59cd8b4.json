@@ -35,8 +35,16 @@
   "namespace": "e8e07ccfc2e1459d9744b5d5d72596e8",
   "status": "ACTIVE",
   "creationDate": "2025-01-21T14:58:02.047Z",
-  "lastModifiedDate": "2025-12-06T00:16:09.551Z",
+  "lastModifiedDate": "2026-04-28T00:10:33.389Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Funguys/Saved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "FunguysSwarmyUw0e"
@@ -58,6 +66,7 @@
   "developer": "Stairway Games",
   "developerId": "o-r8huqhh4p6a6puzyxltcjsvflkmtsu",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
