@@ -31,14 +31,25 @@
   ],
   "namespace": "d53159b0a47c43d08a92968a6fd9cd78",
   "status": "ACTIVE",
-  "creationDate": "2026-03-03T08:23:28.196Z",
-  "lastModifiedDate": "2026-03-03T08:23:28.196Z",
+  "creationDate": "2026-03-02T11:48:56.579Z",
+  "lastModifiedDate": "2026-04-30T16:44:38.458Z",
+  "customAttributes": {},
   "entitlementName": "e74d4dc300c24bc9a6b939aee6be7b1f",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9da4776f844c4952ac1bb6b50cc5aa1b",
+      "appId": "baac10eb9c8d4961a5517070a3942f50",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
   "developer": "Sobaka Studio KZ",
   "developerId": "o-jt9adutzgt9l3x34mv9mkwvzjygpml",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
