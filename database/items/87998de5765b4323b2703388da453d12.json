@@ -34,16 +34,20 @@
   ],
   "namespace": "5830e39c9f3149cdaf4d6fcb4953273a",
   "status": "ACTIVE",
-  "creationDate": "2024-09-08T16:02:07.700Z",
-  "lastModifiedDate": "2024-09-08T16:02:07.700Z",
+  "creationDate": "2023-09-13T22:00:21.546Z",
+  "lastModifiedDate": "2026-05-01T08:41:06.505Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{AppData}/RealmofDread/Saved/Config/Windows/"
+      "value": "{AppData}/RealmofDread/Saved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
     },
     "FolderName": {
       "type": "STRING",
-      "value": "RealmofDreadoing0"
+      "value": "RealmofDread"
     }
   },
   "entitlementName": "87998de5765b4323b2703388da453d12",
@@ -51,7 +55,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "1e0c4fbe84cd4e5db61aa2a86f83d234",
+      "id": "5b80791fb6554b3287c063e422c07f77",
       "appId": "1559bbfd0b0e4170aa01adcb297ca3c5",
       "platform": [
         "Windows"
@@ -61,7 +65,7 @@
   "developer": "Delta Bright",
   "developerId": "o-c7wfn72enlfzvllg9qyq4yk9wbgy77",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567bGawgm94bUNf2bYnvSYQ0y2J",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
