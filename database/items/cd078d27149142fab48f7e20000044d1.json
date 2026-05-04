@@ -1,0 +1,62 @@
+{
+  "id": "cd078d27149142fab48f7e20000044d1",
+  "title": "Teacup",
+  "description": "Teacup",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/63ab8e15805348a79688f4117bec5370/teacup-hwrpl.jpg",
+      "md5": "edf89256e29e37622b61e59fe4483de4",
+      "width": 2560,
+      "height": 1440,
+      "size": 525923,
+      "uploadedDate": "2026-04-15T21:50:43.721Z",
+      "alt": "Teacup Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/63ab8e15805348a79688f4117bec5370/teacup-1lqkc.jpg",
+      "md5": "8db32dc2d5affdc8ccf473672b4b5985",
+      "width": 1200,
+      "height": 1600,
+      "size": 263031,
+      "uploadedDate": "2026-04-15T21:50:43.347Z",
+      "alt": "Download Teacup Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "820e78ed3f3b4e19a715a25181a0cdd8",
+  "status": "ACTIVE",
+  "creationDate": "2026-05-04T19:18:18.005Z",
+  "lastModifiedDate": "2026-05-04T19:18:18.005Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Teacupb6df7"
+    }
+  },
+  "entitlementName": "cd078d27149142fab48f7e20000044d1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0e35f8d1-e0d0-44ce-abc4-f9f9c713eb5d",
+      "appId": "5a7cd1ad6d164e268871545648d42394",
+      "platform": [
+        "Android"
+      ]
+    }
+  ],
+  "developer": "White Thorn Digital",
+  "developerId": "o-v7c8xq9bmhtqhakulz7lrptnz8b628",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

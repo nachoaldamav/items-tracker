@@ -35,7 +35,7 @@
   "namespace": "7173e0bc69aa4a679d2850b64b81b748",
   "status": "ACTIVE",
   "creationDate": "2021-11-17T16:50:13.565Z",
-  "lastModifiedDate": "2023-09-07T12:17:07.598Z",
+  "lastModifiedDate": "2026-05-04T14:51:34.570Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -47,11 +47,11 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "560ca6712d1d4f24bb4f5dc70060f047",
+      "id": "16cd5dcb66be4fe0adaf95f25a7b1c90",
       "appId": "e57d45d6af1148eabddc2023b3f4fceb",
       "platform": [
-        "Win32",
-        "Windows"
+        "Windows",
+        "Win32"
       ]
     }
   ],
