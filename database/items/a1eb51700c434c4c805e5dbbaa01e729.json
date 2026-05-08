@@ -2,6 +2,7 @@
   "id": "a1eb51700c434c4c805e5dbbaa01e729",
   "title": "KofDSP audience",
   "description": "KofDSP audience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +14,7 @@
   "namespace": "58a18be6bbba41a0bf52b014bb81d33b",
   "status": "ACTIVE",
   "creationDate": "2026-04-23T15:50:00.665Z",
-  "lastModifiedDate": "2026-05-07T19:59:19.577Z",
+  "lastModifiedDate": "2026-05-08T11:32:07.671Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -22,13 +23,17 @@
   },
   "entitlementName": "a1eb51700c434c4c805e5dbbaa01e729",
   "entitlementType": "AUDIENCE",
-  "itemType": "DURABLE",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
   "developer": "Grinding Gear Games",
   "developerId": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
+  "useCount": 1,
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": true
 }

@@ -2,6 +2,7 @@
   "id": "133f2f2d44784933ab0c17f51732110b",
   "title": "BSP audience",
   "description": "BSP audience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +14,7 @@
   "namespace": "58a18be6bbba41a0bf52b014bb81d33b",
   "status": "ACTIVE",
   "creationDate": "2026-04-23T15:50:54.411Z",
-  "lastModifiedDate": "2026-05-07T19:59:19.577Z",
+  "lastModifiedDate": "2026-05-08T11:32:42.754Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -22,13 +23,17 @@
   },
   "entitlementName": "133f2f2d44784933ab0c17f51732110b",
   "entitlementType": "AUDIENCE",
-  "itemType": "DURABLE",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
   "developer": "Grinding Gear Games",
   "developerId": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
+  "useCount": 1,
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": true
 }
