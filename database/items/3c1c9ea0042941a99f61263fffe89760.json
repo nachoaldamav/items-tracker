@@ -1,8 +1,7 @@
 {
-  "id": "9e4c5b761f0247d0a263cd963461c37f",
-  "title": "corunda DD DLC audience",
-  "description": "corunda DD DLC audience",
-  "keyImages": [],
+  "id": "3c1c9ea0042941a99f61263fffe89760",
+  "title": "corunda SE audience",
+  "description": "corunda SE audience",
   "categories": [
     {
       "path": "audience"
@@ -13,26 +12,23 @@
   ],
   "namespace": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "status": "ACTIVE",
-  "creationDate": "2023-03-09T07:50:17.872Z",
-  "lastModifiedDate": "2026-05-12T15:42:57.038Z",
+  "creationDate": "2026-04-24T08:22:11.650Z",
+  "lastModifiedDate": "2026-05-12T15:42:57.175Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
     }
   },
-  "entitlementName": "9e4c5b761f0247d0a263cd963461c37f",
+  "entitlementName": "3c1c9ea0042941a99f61263fffe89760",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "releaseInfo": [],
   "developer": "Paradox Interactive",
   "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
-  "ageGatings": {},
-  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": true
 }
