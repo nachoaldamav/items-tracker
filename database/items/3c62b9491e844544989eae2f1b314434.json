@@ -35,8 +35,16 @@
   "namespace": "a9ad9b9c5b0546b1860c870d2cea9ee3",
   "status": "ACTIVE",
   "creationDate": "2025-05-26T14:21:58.997Z",
-  "lastModifiedDate": "2026-03-30T20:25:21.648Z",
+  "lastModifiedDate": "2026-05-13T08:37:47.572Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/SMB/Saved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "SuperMeatBoy3Dc8bc2"
