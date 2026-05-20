@@ -35,8 +35,8 @@
   ],
   "namespace": "92e8ff0ca9bb421c831dc0f6fc8ef54d",
   "status": "ACTIVE",
-  "creationDate": "2020-11-09T20:03:34.135Z",
-  "lastModifiedDate": "2021-01-14T23:49:01.424Z",
+  "creationDate": "2024-03-25T15:00:50.543Z",
+  "lastModifiedDate": "2026-05-19T15:50:39.147Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -80,13 +80,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "7a0f0ab3e7a941f78aae2020d15a5ac6",
+      "id": "5ef964c63b81449586d5c6ec749c6e86",
       "appId": "aa069bf2d1fb439cb44d659eda568c40",
       "platform": [
-        "Windows",
-        "Mac"
-      ],
-      "dateAdded": "2020-11-09T00:00:00.000Z"
+        "Mac",
+        "Windows"
+      ]
     }
   ],
   "developer": "White Thorn Digital",
@@ -96,6 +95,7 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
