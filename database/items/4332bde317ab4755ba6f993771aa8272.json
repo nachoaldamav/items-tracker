@@ -1,0 +1,52 @@
+{
+  "id": "4332bde317ab4755ba6f993771aa8272",
+  "title": "FortniteGrooving_StWContent",
+  "description": "FortniteGrooving_StWContent",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-05-18T17:02:07.001Z",
+  "lastModifiedDate": "2026-05-18T17:02:08.718Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "AdditionalCommandLine": {
+      "type": "STRING",
+      "value": "-epicapp=FortniteGrooving -IslandOverride=campaign"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "4332bde317ab4755ba6f993771aa8272",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a07b15d14b7742e4833a5360de44fdfb",
+      "appId": "9e7642ce4f7f47aaac38ba16334c7ae0",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

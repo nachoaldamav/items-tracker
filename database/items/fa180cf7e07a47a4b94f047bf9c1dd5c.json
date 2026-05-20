@@ -1,0 +1,52 @@
+{
+  "id": "fa180cf7e07a47a4b94f047bf9c1dd5c",
+  "title": "FortniteDusting_StWContent",
+  "description": "FortniteDusting_StWContent",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-05-18T17:00:23.964Z",
+  "lastModifiedDate": "2026-05-18T17:00:25.692Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "AdditionalCommandLine": {
+      "type": "STRING",
+      "value": "-epicapp=FortniteDusting -IslandOverride=campaign"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "fa180cf7e07a47a4b94f047bf9c1dd5c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0f6cd77579ba488b86854ae921f9d082",
+      "appId": "63c36f32ced4476b8f30825e5d7f7e58",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,52 @@
+{
+  "id": "ea82d1bdf0c146f9bde8274f5b930cf9",
+  "title": "FortniteCry_StWContent",
+  "description": "FortniteCry_StWContent",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-05-18T16:59:39.647Z",
+  "lastModifiedDate": "2026-05-18T16:59:41.533Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "AdditionalCommandLine": {
+      "type": "STRING",
+      "value": "-epicapp=FortniteCry -IslandOverride=campaign"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "ea82d1bdf0c146f9bde8274f5b930cf9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "baeff3a477f847e098618f5ff4c27413",
+      "appId": "8dc81b3f007c4d9fa98a091750df8491",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

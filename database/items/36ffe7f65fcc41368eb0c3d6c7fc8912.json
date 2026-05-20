@@ -1,0 +1,52 @@
+{
+  "id": "36ffe7f65fcc41368eb0c3d6c7fc8912",
+  "title": "FortniteBurger_StWContent",
+  "description": "FortniteBurger_StWContent",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-05-18T16:59:15.542Z",
+  "lastModifiedDate": "2026-05-18T16:59:17.250Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "AdditionalCommandLine": {
+      "type": "STRING",
+      "value": "-epicapp=FortniteBurger -IslandOverride=campaign"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "36ffe7f65fcc41368eb0c3d6c7fc8912",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5713840c4945492fbafea4d4511b9684",
+      "appId": "fb479719435a4e5788c9161fb33e214b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

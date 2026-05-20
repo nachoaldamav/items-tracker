@@ -1,0 +1,52 @@
+{
+  "id": "f5aac416cbae4fb0abdbba95b1d3ffe5",
+  "title": "FortniteJunoQA_StWContent",
+  "description": "FortniteJunoQA_StWContent",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-05-18T16:55:36.860Z",
+  "lastModifiedDate": "2026-05-18T16:55:38.544Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "AdditionalCommandLine": {
+      "type": "STRING",
+      "value": "-epicapp=FortniteJunoQA -IslandOverride=campaign"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "f5aac416cbae4fb0abdbba95b1d3ffe5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "344e7e365163420597cada70aa1974cc",
+      "appId": "2ea050fd9d9549b08004bb77a685b0ed",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

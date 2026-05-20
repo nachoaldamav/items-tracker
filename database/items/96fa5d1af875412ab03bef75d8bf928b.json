@@ -1,0 +1,52 @@
+{
+  "id": "96fa5d1af875412ab03bef75d8bf928b",
+  "title": "FortniteBlueDailyMainTesting_StWContent",
+  "description": "FortniteBlueDailyMainTesting_StWContent",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-05-18T16:46:52.719Z",
+  "lastModifiedDate": "2026-05-18T16:46:54.422Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "AdditionalCommandLine": {
+      "type": "STRING",
+      "value": "-epicapp=FortniteBlueDailyMainTesting -IslandOverride=campaign"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "96fa5d1af875412ab03bef75d8bf928b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d3cae2c9f9c64569a19e48ec47266e90",
+      "appId": "0c20befbe80e480987a80d9e1106f560",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,52 @@
+{
+  "id": "b4dce848929e4199a4ecf2c65cff7f76",
+  "title": "FortniteDevPlaytestD_StWContent",
+  "description": "FortniteDevPlaytestD_StWContent",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-05-18T16:51:18.714Z",
+  "lastModifiedDate": "2026-05-18T16:51:20.409Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "AdditionalCommandLine": {
+      "type": "STRING",
+      "value": "-epicapp=FortniteDevPlaytestD -IslandOverride=campaign"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "b4dce848929e4199a4ecf2c65cff7f76",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cfc0dfa82f704c05ab4bdac60587c0d9",
+      "appId": "c189fe98f0fa45178853d7a7b83608a0",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

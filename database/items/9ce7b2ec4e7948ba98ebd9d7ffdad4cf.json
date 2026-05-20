@@ -1,0 +1,52 @@
+{
+  "id": "9ce7b2ec4e7948ba98ebd9d7ffdad4cf",
+  "title": "FortniteBacchusPlaytest_StWContent",
+  "description": "FortniteBacchusPlaytest_StWContent",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-05-18T16:46:44.119Z",
+  "lastModifiedDate": "2026-05-18T16:46:45.854Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "AdditionalCommandLine": {
+      "type": "STRING",
+      "value": "-epicapp=FortniteBacchusPlaytest -IslandOverride=campaign"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "9ce7b2ec4e7948ba98ebd9d7ffdad4cf",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "41a0675fc67f49d98550135c3abd0032",
+      "appId": "437a3a932c634fa980ebdff3f513dbcd",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
