@@ -1,0 +1,63 @@
+{
+  "id": "5436ffbc3cd046bb8ef1afcb41e0ae94",
+  "title": "Wytchwood",
+  "description": "Wytchwood",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/spt-assets/fe0a31132d6e4404bd145ce2e2ed5ed7/wytchwood-28ouf.jpg",
+      "md5": "9846b35f4d1d08401e3e2f5ea087d8da",
+      "width": 2560,
+      "height": 1440,
+      "size": 234898,
+      "uploadedDate": "2026-04-15T21:46:42.442Z",
+      "alt": "Wytchwood Offer"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/fe0a31132d6e4404bd145ce2e2ed5ed7/wytchwood-168b2.jpg",
+      "md5": "92eda3068cbfa6e1ed08479dbdb350bd",
+      "width": 1200,
+      "height": 1600,
+      "size": 171525,
+      "uploadedDate": "2026-04-15T21:46:42.552Z",
+      "alt": "Download Wytchwood Offer"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8bd7d123bc59474ebb2552793dc0fdbb",
+  "status": "ACTIVE",
+  "creationDate": "2026-05-20T17:29:28.331Z",
+  "lastModifiedDate": "2026-05-20T17:29:28.331Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Wytchwoodccb49"
+    }
+  },
+  "entitlementName": "5436ffbc3cd046bb8ef1afcb41e0ae94",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e00821c3-d568-48b7-9980-cf85260de2b2",
+      "appId": "ee13b2ffad0746acae7f0052f8e458f2",
+      "platform": [
+        "iOS"
+      ]
+    }
+  ],
+  "developer": "White Thorn Digital",
+  "developerId": "o-v7c8xq9bmhtqhakulz7lrptnz8b628",
+  "endOfSupport": false,
+  "applicationId": "fghi45670JAUqFNbYiK9M8PepUXGcyHo",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
