@@ -2,6 +2,7 @@
   "id": "96fa5d1af875412ab03bef75d8bf928b",
   "title": "FortniteBlueDailyMainTesting_StWContent",
   "description": "FortniteBlueDailyMainTesting_StWContent",
+  "keyImages": [],
   "categories": [
     {
       "path": "addons"
@@ -13,7 +14,7 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2026-05-18T16:46:52.719Z",
-  "lastModifiedDate": "2026-05-18T16:46:54.422Z",
+  "lastModifiedDate": "2026-05-22T18:37:38.057Z",
   "customAttributes": {
     "remove_for_account_deprovision": {
       "type": "STRING",
@@ -46,7 +47,10 @@
   ],
   "developer": "Epic Games",
   "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
