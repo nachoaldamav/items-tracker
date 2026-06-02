@@ -1,0 +1,49 @@
+{
+  "id": "0de36fdc342d4541a78ad3fe1896dfef",
+  "title": "FortniteMojoReleaseDaily_JunoContent",
+  "description": "FortniteMojoReleaseDaily_JunoContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-01T16:21:44.346Z",
+  "lastModifiedDate": "2026-06-01T16:21:46.599Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "AdditionalCommandLine": {
+      "type": "STRING",
+      "value": "-epicapp=FortniteMojoReleaseDaily -IslandOverride=playlist_juno"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "0de36fdc342d4541a78ad3fe1896dfef",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c091b9a94caa4bbea15f3a6434c8aadd",
+      "appId": "9d29add8be284280ad1c796c27b6413c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

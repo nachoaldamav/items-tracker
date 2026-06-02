@@ -1,0 +1,49 @@
+{
+  "id": "946a548acb5d49cf9482a8bfb54b2f75",
+  "title": "FortniteExtQAReleaseTesting_JunoContent",
+  "description": "FortniteExtQAReleaseTesting_JunoContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-01T16:20:20.926Z",
+  "lastModifiedDate": "2026-06-01T16:20:23.181Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "AdditionalCommandLine": {
+      "type": "STRING",
+      "value": "-epicapp=FortniteExtQAReleaseTesting -IslandOverride=playlist_juno"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "946a548acb5d49cf9482a8bfb54b2f75",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "580b7b3311b44eddaed6ff767b3d9671",
+      "appId": "ec73c446dfe94f648674ff6f335289d4",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

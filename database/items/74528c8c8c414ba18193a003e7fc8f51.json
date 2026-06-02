@@ -1,0 +1,49 @@
+{
+  "id": "74528c8c8c414ba18193a003e7fc8f51",
+  "title": "FortniteRedDailyMainTesting_JunoContent",
+  "description": "FortniteRedDailyMainTesting_JunoContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-01T16:22:23.050Z",
+  "lastModifiedDate": "2026-06-01T16:22:25.322Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "AdditionalCommandLine": {
+      "type": "STRING",
+      "value": "-epicapp=FortniteRedDailyMainTesting -IslandOverride=playlist_juno"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "74528c8c8c414ba18193a003e7fc8f51",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b52cb8bff430441bbff46131caa54bf0",
+      "appId": "134a0b4b5e99460ea9a3ab5d11b404a9",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "f19a9f7c96a04df7bea2729c31dae48b",
+  "title": "FortniteReleasePlaytestB_JunoContent",
+  "description": "FortniteReleasePlaytestB_JunoContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-01T16:22:35.036Z",
+  "lastModifiedDate": "2026-06-01T16:22:37.319Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "AdditionalCommandLine": {
+      "type": "STRING",
+      "value": "-epicapp=FortniteReleasePlaytestB -IslandOverride=playlist_juno"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "f19a9f7c96a04df7bea2729c31dae48b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "141f50b5559547e5975ba81e391ccf7e",
+      "appId": "028e1f29fc2f4520b54d08a79a5796bb",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
