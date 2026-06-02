@@ -36,7 +36,7 @@
   "namespace": "253d451b16364a22907dd01b7e928fb6",
   "status": "ACTIVE",
   "creationDate": "2026-05-25T18:07:50.284Z",
-  "lastModifiedDate": "2026-05-29T22:35:30.626Z",
+  "lastModifiedDate": "2026-06-01T15:03:42.114Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -78,7 +78,10 @@
     {
       "id": "4437aa53a81c442c8b5127cba31ffedf",
       "appId": "bb406082b69a47208489d3616b22b5c2",
-      "platform": []
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "AQUIRIS",
