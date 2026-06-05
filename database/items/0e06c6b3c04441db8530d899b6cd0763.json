@@ -1,27 +1,27 @@
 {
-  "id": "dfeba1e29e8947028bcf17ca0cebd65e",
-  "title": "Nightborn",
-  "description": "Nightborn",
+  "id": "0e06c6b3c04441db8530d899b6cd0763",
+  "title": "Nightborn Demo",
+  "description": "Nightborn Demo",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/0fe8098913ef43569e4de17d73e5048a/nightborn-zpnxu.png",
+      "url": "https://cdn1.epicgames.com/spt-assets/0fe8098913ef43569e4de17d73e5048a/nightborn-4k7a0.png",
       "md5": "450755eedd69533d9e24311f1386a02e",
       "width": 2560,
       "height": 1440,
       "size": 2766944,
-      "uploadedDate": "2026-06-04T22:31:09.682Z",
-      "alt": "Nightborn Offer"
+      "uploadedDate": "2026-06-04T16:24:16.480Z",
+      "alt": "Nightborn Nightborn Demo Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/0fe8098913ef43569e4de17d73e5048a/nightborn-kkpnz.png",
+      "url": "https://cdn1.epicgames.com/spt-assets/0fe8098913ef43569e4de17d73e5048a/nightborn-1ig9q.png",
       "md5": "90f2730e9de3cf17e54f6475c56c901d",
       "width": 1200,
       "height": 1600,
       "size": 1808967,
-      "uploadedDate": "2026-06-04T22:31:08.758Z",
-      "alt": "Download Nightborn Offer"
+      "uploadedDate": "2026-06-04T22:30:14.563Z",
+      "alt": "Download Nightborn Nightborn Demo Offer"
     }
   ],
   "categories": [
@@ -34,28 +34,29 @@
   ],
   "namespace": "5492e1d07899490db92286c98581d8f5",
   "status": "ACTIVE",
-  "creationDate": "2023-07-08T20:06:08.833Z",
-  "lastModifiedDate": "2026-06-05T02:45:28.998Z",
+  "creationDate": "2026-06-05T02:45:29.026Z",
+  "lastModifiedDate": "2026-06-05T02:45:29.026Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "Nightborn"
+      "value": "DemoNightborna76dd"
     }
   },
-  "entitlementName": "dfeba1e29e8947028bcf17ca0cebd65e",
+  "entitlementName": "0e06c6b3c04441db8530d899b6cd0763",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "99368935d20244608d81c299dbe83edf",
-      "appId": "dd2086b3b5394b26affb91345e698b6c",
-      "platform": []
+      "id": "50451491-deb7-4b36-88a0-4c8ec7108e0d",
+      "appId": "e72e52d43fd246bb99f07fabb70a5e95",
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Occupational Hazard LLC",
   "developerId": "o-mtrqmanhrf8d6yp7rnbvkphbsy8w36",
   "endOfSupport": false,
-  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
