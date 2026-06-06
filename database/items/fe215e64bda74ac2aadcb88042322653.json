@@ -5,23 +5,23 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/fa7bfca1064e461faddcabc2805511a8/bruno-1k4ya.jpg",
-      "md5": "ce3eb94fc1a431c1ff04a4cf70a356bc",
+      "url": "https://cdn1.epicgames.com/spt-assets/fa7bfca1064e461faddcabc2805511a8/star-wars-zero-company-89w4x.jpg",
+      "md5": "9699ed4db5a7c51be914338dadd2820f",
       "width": 2560,
       "height": 1440,
-      "size": 745705,
-      "uploadedDate": "2025-04-14T16:29:18.806Z",
-      "alt": "Bruno Offer"
+      "size": 936346,
+      "uploadedDate": "2026-05-27T20:35:29.766Z",
+      "alt": "STAR WARS Zero Company Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/fa7bfca1064e461faddcabc2805511a8/bruno-17us9.jpg",
-      "md5": "6ca01e28dc1e83a9f643ff26f55d8dde",
+      "url": "https://cdn1.epicgames.com/spt-assets/fa7bfca1064e461faddcabc2805511a8/star-wars-zero-company-v7cwy.jpg",
+      "md5": "ca9eea6d530b1e6aca7b8caf8a49fe89",
       "width": 1200,
       "height": 1600,
-      "size": 487806,
-      "uploadedDate": "2025-04-14T16:29:20.676Z",
-      "alt": "Download Bruno Offer"
+      "size": 599852,
+      "uploadedDate": "2026-05-27T20:35:31.770Z",
+      "alt": "Download STAR WARS Zero Company Offer"
     }
   ],
   "categories": [
@@ -35,11 +35,39 @@
   "namespace": "de33353d9bed419a8b985a46a34d0956",
   "status": "ACTIVE",
   "creationDate": "2025-04-08T17:08:36.845Z",
-  "lastModifiedDate": "2025-06-19T09:51:29.849Z",
+  "lastModifiedDate": "2026-06-06T01:00:25.751Z",
   "customAttributes": {
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Bit Reactor\\STAR WARS Zero Company"
+    },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "The EA App"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&platform=epic"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "SWZeroCompany.exe"
+    },
+    "RegistryLocation": {
+      "type": "STRING",
+      "value": "SOFTWARE\\Bit Reactor\\STAR WARS Zero Company"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "SWZeroCompany.exe"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "BrunoJLMWg"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
     }
   },
   "entitlementName": "fe215e64bda74ac2aadcb88042322653",
@@ -48,13 +76,18 @@
   "releaseInfo": [
     {
       "id": "aa8377f9c09c4f3b9dd71f3c4250612d",
-      "appId": "b505e1f713c2469d8e62f6e16da41ad5",
-      "platform": []
+      "appId": "bruno",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Electronic Arts",
   "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
