@@ -1,26 +1,26 @@
 {
   "id": "e147f27f05a843a0a040e1439d13983c",
   "title": "Teller's Duty",
-  "description": "Teller's Duty",
+  "description": "Set in 1980, what happens when a bank must follow absurd rules from a stupid government? Play as a teller at Kertasia Bank, juggling strict policies, tough customers, and moral dilemmas while saving for your mom’s medical bills. Every choice shapes your fate.",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/b8d88cdce31c4afbbd7277b8552c16dc/tellers-duty-11h2l.png",
-      "md5": "94fe32d3bfaf3a63ebbd94d07b6d2893",
+      "url": "https://cdn1.epicgames.com/spt-assets/b8d88cdce31c4afbbd7277b8552c16dc/tellers-duty-v8hkl.png",
+      "md5": "eccac3e7b09a0c60534ca691243f9753",
       "width": 2560,
       "height": 1440,
-      "size": 2857107,
-      "uploadedDate": "2025-05-23T08:36:12.451Z",
+      "size": 2745811,
+      "uploadedDate": "2026-05-14T14:57:06.666Z",
       "alt": "Teller's Duty Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/b8d88cdce31c4afbbd7277b8552c16dc/tellers-duty-17fmf.png",
-      "md5": "ae1c33a334929ef511333206e79c831b",
+      "url": "https://cdn1.epicgames.com/spt-assets/b8d88cdce31c4afbbd7277b8552c16dc/tellers-duty-1dykv.png",
+      "md5": "5cab7e343d348a8689c572cdb04dc9aa",
       "width": 1200,
       "height": 1600,
-      "size": 2368135,
-      "uploadedDate": "2025-05-23T08:36:15.054Z",
+      "size": 2079410,
+      "uploadedDate": "2026-05-14T14:57:31.084Z",
       "alt": "Download Teller's Duty Offer"
     }
   ],
@@ -34,9 +34,17 @@
   ],
   "namespace": "5f9b512980a645418fadc89c8867e440",
   "status": "ACTIVE",
-  "creationDate": "2025-05-29T05:38:59.087Z",
-  "lastModifiedDate": "2025-05-29T05:38:59.087Z",
+  "creationDate": "2024-08-16T03:01:11.290Z",
+  "lastModifiedDate": "2026-06-11T20:23:06.858Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Hiscory/Teller's Duty/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "TellersDuty"
@@ -49,13 +57,15 @@
     {
       "id": "9f69c47d52c948cc8abf0bbc70cdba29",
       "appId": "8d6387b94fb24e37bd154800a7dc4958",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Hiscory",
   "developerId": "o-dxx5d7klfu9gsll9crxv588rmj4aep",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567iDqs5cTnthz0FOYxxob1sbF8",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
