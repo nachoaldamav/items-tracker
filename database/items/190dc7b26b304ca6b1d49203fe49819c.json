@@ -1,0 +1,45 @@
+{
+  "id": "190dc7b26b304ca6b1d49203fe49819c",
+  "title": "FortniteBatsickle_SparksContent",
+  "description": "FortniteBatsickle_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:15:42.194Z",
+  "lastModifiedDate": "2026-06-18T16:15:44.822Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "190dc7b26b304ca6b1d49203fe49819c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c97ef9b0801b4803a78cb459a39320d5",
+      "appId": "99602abceecf4f9597350c98ccbb2a9a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

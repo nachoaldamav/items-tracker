@@ -1,0 +1,45 @@
+{
+  "id": "16f4155a53604749880cb61f74b55728",
+  "title": "FortniteBlueExtQADevTesting_SparksContent",
+  "description": "FortniteBlueExtQADevTesting_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:16:58.986Z",
+  "lastModifiedDate": "2026-06-18T16:17:01.564Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "16f4155a53604749880cb61f74b55728",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fd3be562456541c9ba80976687359b2c",
+      "appId": "bb682b11209144288b31e2e8c05a2514",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

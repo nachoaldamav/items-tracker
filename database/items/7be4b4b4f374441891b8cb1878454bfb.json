@@ -1,0 +1,45 @@
+{
+  "id": "7be4b4b4f374441891b8cb1878454bfb",
+  "title": "FortniteFuzzy_SparksContent",
+  "description": "FortniteFuzzy_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:32:32.175Z",
+  "lastModifiedDate": "2026-06-18T16:32:34.574Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "7be4b4b4f374441891b8cb1878454bfb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d175c7ac6ad44ee5834e287ef2abfe36",
+      "appId": "e9b7ce4899264234b76c1e00304d11de",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

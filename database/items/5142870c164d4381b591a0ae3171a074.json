@@ -1,0 +1,45 @@
+{
+  "id": "5142870c164d4381b591a0ae3171a074",
+  "title": "FortniteMobileCert_SparksContent",
+  "description": "FortniteMobileCert_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:25:53.412Z",
+  "lastModifiedDate": "2026-06-18T16:25:55.892Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "5142870c164d4381b591a0ae3171a074",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a20ad8343b5c4c28b76e1024f8e48aea",
+      "appId": "45d4b0f71f834dc8877ac3a882b568ce",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

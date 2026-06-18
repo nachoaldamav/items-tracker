@@ -1,0 +1,45 @@
+{
+  "id": "49faa8c7145e4a07be018509496ff188",
+  "title": "FortnitePrairie_DelMarContent",
+  "description": "FortnitePrairie_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:35:39.283Z",
+  "lastModifiedDate": "2026-06-18T16:35:43.060Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "49faa8c7145e4a07be018509496ff188",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "057008c98330492daed987d48f783e2d",
+      "appId": "bf9271db245249ed88d9d56c06a15682",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

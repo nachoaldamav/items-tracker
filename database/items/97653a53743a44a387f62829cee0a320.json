@@ -1,0 +1,45 @@
+{
+  "id": "97653a53743a44a387f62829cee0a320",
+  "title": "FortniteCarbon_SparksContent",
+  "description": "FortniteCarbon_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:17:31.954Z",
+  "lastModifiedDate": "2026-06-18T16:17:34.523Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "97653a53743a44a387f62829cee0a320",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0827185c957b4576a008379fedd44c12",
+      "appId": "6c4e40bd58e04d30828ac3404d2f751e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

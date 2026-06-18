@@ -1,0 +1,45 @@
+{
+  "id": "6ed1738c79d64c3aaee0f5043a34f19b",
+  "title": "FortniteHoliday_DelMarContent",
+  "description": "FortniteHoliday_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:33:28.465Z",
+  "lastModifiedDate": "2026-06-18T16:33:32.186Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "6ed1738c79d64c3aaee0f5043a34f19b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "516cb9db6636430db07ec8f66d65d835",
+      "appId": "cd06c845e06f4152accd016b3e3b4e39",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

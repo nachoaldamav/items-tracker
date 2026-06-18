@@ -1,0 +1,45 @@
+{
+  "id": "09d8839edf9b4ee4bd2c7a2585cf9e95",
+  "title": "FortniteMiner_SparksContent",
+  "description": "FortniteMiner_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:34:39.312Z",
+  "lastModifiedDate": "2026-06-18T16:34:41.798Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "09d8839edf9b4ee4bd2c7a2585cf9e95",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cd52e96637de4cbda002cfd13c8c41e2",
+      "appId": "323f27ebcb04440d87d0191b4bdc59e9",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

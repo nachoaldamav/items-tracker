@@ -1,0 +1,45 @@
+{
+  "id": "93c8916f380f478881dd513c1ae2128e",
+  "title": "FortniteBubbles_DelMarContent",
+  "description": "FortniteBubbles_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:17:10.634Z",
+  "lastModifiedDate": "2026-06-18T16:17:14.324Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "93c8916f380f478881dd513c1ae2128e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c56eb794661246e6980e3216f9f0f5d1",
+      "appId": "57e9a297d396436191029fd8f88bab26",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

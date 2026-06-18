@@ -1,0 +1,45 @@
+{
+  "id": "6dbbc1d35146436b84361367bc10721a",
+  "title": "FortniteFlapper_SparksContent",
+  "description": "FortniteFlapper_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:24:16.843Z",
+  "lastModifiedDate": "2026-06-18T16:24:19.344Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "6dbbc1d35146436b84361367bc10721a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9ea4bf8d42264df4aee114fce7d85d04",
+      "appId": "5933593f763c49c8910120187bd02b33",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

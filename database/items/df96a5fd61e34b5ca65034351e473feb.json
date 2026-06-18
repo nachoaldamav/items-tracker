@@ -1,0 +1,45 @@
+{
+  "id": "df96a5fd61e34b5ca65034351e473feb",
+  "title": "FortniteFirefly_DelMarContent",
+  "description": "FortniteFirefly_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:31:20.925Z",
+  "lastModifiedDate": "2026-06-18T16:31:24.789Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "df96a5fd61e34b5ca65034351e473feb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "beb55bbb1748435bbac808a8b7a704b1",
+      "appId": "27dd828798db49a2902e40fb07dd765f",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

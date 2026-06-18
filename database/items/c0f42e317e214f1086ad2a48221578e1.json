@@ -1,0 +1,45 @@
+{
+  "id": "c0f42e317e214f1086ad2a48221578e1",
+  "title": "FortniteMojoReleaseDaily_DelMarContent",
+  "description": "FortniteMojoReleaseDaily_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:25:43.637Z",
+  "lastModifiedDate": "2026-06-18T16:25:47.724Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "c0f42e317e214f1086ad2a48221578e1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cf3536461c714ea39a92abd8f8b6facb",
+      "appId": "1c3a54b896594f80a8f6634065384ed8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,45 @@
+{
+  "id": "3e834d938b194f17900fad83cf4e0a83",
+  "title": "FortniteDoggus_SparksContent",
+  "description": "FortniteDoggus_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:30:30.664Z",
+  "lastModifiedDate": "2026-06-18T16:30:33.114Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "3e834d938b194f17900fad83cf4e0a83",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5d85d4324ac0475d80ecbcb923566b31",
+      "appId": "206e18c4a7cd4ffebd0e8d9c06608b13",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

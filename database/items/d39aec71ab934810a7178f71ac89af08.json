@@ -1,0 +1,45 @@
+{
+  "id": "d39aec71ab934810a7178f71ac89af08",
+  "title": "FortniteFiber_DelMarContent",
+  "description": "FortniteFiber_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:31:16.055Z",
+  "lastModifiedDate": "2026-06-18T16:31:19.807Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "d39aec71ab934810a7178f71ac89af08",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bbe39f831fb941cba625d6afeaed1b4e",
+      "appId": "8f9d4c3f6eb745f491539d07510554ad",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

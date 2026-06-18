@@ -1,0 +1,45 @@
+{
+  "id": "afa7bc35f97b45b7ad1ba16d10115c33",
+  "title": "FortniteDiesel_DelMarContent",
+  "description": "FortniteDiesel_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:30:16.187Z",
+  "lastModifiedDate": "2026-06-18T16:30:19.993Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "afa7bc35f97b45b7ad1ba16d10115c33",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "235233d84a5d48f0b530e82e43247852",
+      "appId": "5942602e0104438db57fa90eb214e340",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

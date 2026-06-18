@@ -1,0 +1,45 @@
+{
+  "id": "f8d06378c7414bd2a58f9541a5d8a4f4",
+  "title": "FortniteCoral_DelMarContent",
+  "description": "FortniteCoral_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:29:50.063Z",
+  "lastModifiedDate": "2026-06-18T16:29:53.699Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "f8d06378c7414bd2a58f9541a5d8a4f4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5e735798d3934515931d5f1cb8032cdf",
+      "appId": "cb7a0f9e10c8444d9b843f589e51fa4e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

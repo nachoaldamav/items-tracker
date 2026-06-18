@@ -1,0 +1,45 @@
+{
+  "id": "354f761e5edf4cc8be6d557e8276bf47",
+  "title": "FortnitePetunia_SparksContent",
+  "description": "FortnitePetunia_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:35:14.408Z",
+  "lastModifiedDate": "2026-06-18T16:35:16.764Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "354f761e5edf4cc8be6d557e8276bf47",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f4552b7b761748e197574b2b04ca9537",
+      "appId": "73acb4cd12b64af8bafa964ae9b34c88",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

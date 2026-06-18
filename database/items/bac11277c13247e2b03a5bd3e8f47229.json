@@ -1,0 +1,45 @@
+{
+  "id": "bac11277c13247e2b03a5bd3e8f47229",
+  "title": "FortniteFarmer_DelMarContent",
+  "description": "FortniteFarmer_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:31:05.793Z",
+  "lastModifiedDate": "2026-06-18T16:31:09.693Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "bac11277c13247e2b03a5bd3e8f47229",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e9b63956893e4f3fa2e8fce644814c5f",
+      "appId": "8258897622494b65bebde61307689ed0",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

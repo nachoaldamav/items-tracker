@@ -1,0 +1,45 @@
+{
+  "id": "da543d7efaea41919e02e4fb1cad1737",
+  "title": "FortniteLantern_DelMarContent",
+  "description": "FortniteLantern_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:33:47.970Z",
+  "lastModifiedDate": "2026-06-18T16:33:51.808Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "da543d7efaea41919e02e4fb1cad1737",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "aee6328e1cd746ffb0676f794608c751",
+      "appId": "d5ed32776862443b961740bb52895cb8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

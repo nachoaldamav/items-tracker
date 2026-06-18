@@ -1,0 +1,45 @@
+{
+  "id": "556ceb7f05b744d3b15908157fdcc80a",
+  "title": "FortniteNeon_DelMarContent",
+  "description": "FortniteNeon_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:34:54.400Z",
+  "lastModifiedDate": "2026-06-18T16:34:58.274Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "556ceb7f05b744d3b15908157fdcc80a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bf6e5ea8867042afb9dee58706a46c28",
+      "appId": "589e42fd97c34e79ba71c6b8dd87888b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

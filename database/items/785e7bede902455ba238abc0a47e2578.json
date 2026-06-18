@@ -1,0 +1,45 @@
+{
+  "id": "785e7bede902455ba238abc0a47e2578",
+  "title": "FortniteMiner_DelMarContent",
+  "description": "FortniteMiner_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:34:39.614Z",
+  "lastModifiedDate": "2026-06-18T16:34:43.447Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "785e7bede902455ba238abc0a47e2578",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a3cbda141c3b4640b87885828f70b833",
+      "appId": "05f13d83242b4828b951ff64a41fd4de",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

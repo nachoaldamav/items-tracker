@@ -1,0 +1,45 @@
+{
+  "id": "9554104d97f74e9b98fbb9367cc3fed8",
+  "title": "FortniteChug_DelMarContent",
+  "description": "FortniteChug_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:32:17.530Z",
+  "lastModifiedDate": "2026-06-18T16:32:21.442Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "9554104d97f74e9b98fbb9367cc3fed8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4498beacc3b54902b69018aa78a76e8e",
+      "appId": "7ae44188a5df44a2923e3f16945df842",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,45 @@
+{
+  "id": "09bcc847a01545459cd25e1f0e307912",
+  "title": "FortniteHula_DelMarContent",
+  "description": "FortniteHula_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:33:43.056Z",
+  "lastModifiedDate": "2026-06-18T16:33:46.864Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "09bcc847a01545459cd25e1f0e307912",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6aa58a2e142d406080a177726b458574",
+      "appId": "e9ef56ac0f5d4f459fa598e8a83b97eb",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

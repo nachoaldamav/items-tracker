@@ -1,0 +1,45 @@
+{
+  "id": "2f40ce31656a4f0ca027df071fd2f544",
+  "title": "FortniteBrite_SparksContent",
+  "description": "FortniteBrite_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:11:30.112Z",
+  "lastModifiedDate": "2026-06-18T16:11:32.644Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "2f40ce31656a4f0ca027df071fd2f544",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d62d5d3dd3ed496aa15a23bc04beb80e",
+      "appId": "9ef7d8a7f50b4c009d0e53d9ee8579c7",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

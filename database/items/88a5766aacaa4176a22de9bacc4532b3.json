@@ -1,0 +1,45 @@
+{
+  "id": "88a5766aacaa4176a22de9bacc4532b3",
+  "title": "FortniteGlyphs_SparksContent",
+  "description": "FortniteGlyphs_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:32:51.746Z",
+  "lastModifiedDate": "2026-06-18T16:32:54.159Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "88a5766aacaa4176a22de9bacc4532b3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e5436f9a85604f4da6fe10b1562e0b57",
+      "appId": "5535d4f1fb2a479db3415b66bbcf6a09",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

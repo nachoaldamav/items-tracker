@@ -1,0 +1,45 @@
+{
+  "id": "108b9481211342e1a6e0c07adbf6aa6a",
+  "title": "FortniteFurnace_SparksContent",
+  "description": "FortniteFurnace_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:32:27.214Z",
+  "lastModifiedDate": "2026-06-18T16:32:29.711Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "108b9481211342e1a6e0c07adbf6aa6a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "46c9483b79204b35b70433dc36fd67fc",
+      "appId": "575ffa02e2bf4ae28a191dc723f30cfa",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

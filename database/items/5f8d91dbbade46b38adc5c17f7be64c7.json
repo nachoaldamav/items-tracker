@@ -1,0 +1,45 @@
+{
+  "id": "5f8d91dbbade46b38adc5c17f7be64c7",
+  "title": "FortniteCattus_DelMarContent",
+  "description": "FortniteCattus_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:32:07.108Z",
+  "lastModifiedDate": "2026-06-18T16:32:11.002Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "5f8d91dbbade46b38adc5c17f7be64c7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "dbc63b8fe6a946c9ba6f06ac09529ffe",
+      "appId": "84cd89c8cb864ad3a72beba332f9aa19",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

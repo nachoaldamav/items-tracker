@@ -1,0 +1,45 @@
+{
+  "id": "0827740355f848c1a186e66b690bbb85",
+  "title": "FortniteAnarchy_DelMarContent",
+  "description": "FortniteAnarchy_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:27:34.584Z",
+  "lastModifiedDate": "2026-06-18T16:27:38.318Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "0827740355f848c1a186e66b690bbb85",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5a5164c93264454ca50553e0d5fd6076",
+      "appId": "e1be86df7064420da48a94b7e99d5252",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

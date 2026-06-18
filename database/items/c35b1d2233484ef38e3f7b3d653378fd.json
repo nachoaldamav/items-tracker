@@ -1,0 +1,45 @@
+{
+  "id": "c35b1d2233484ef38e3f7b3d653378fd",
+  "title": "FortniteFlapper_DelMarContent",
+  "description": "FortniteFlapper_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:24:17.146Z",
+  "lastModifiedDate": "2026-06-18T16:24:21.158Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "c35b1d2233484ef38e3f7b3d653378fd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8e63fe92354a4e9dbee24855ef9ca389",
+      "appId": "0d669ed3474646559e4eba289a3202e6",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

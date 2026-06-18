@@ -1,0 +1,45 @@
+{
+  "id": "9263872808254cf29b13192072ab65f3",
+  "title": "FortniteBuckler_SparksContent",
+  "description": "FortniteBuckler_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:17:15.614Z",
+  "lastModifiedDate": "2026-06-18T16:17:18.151Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "9263872808254cf29b13192072ab65f3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "03bde53ba1fd461c8e90ea9733f7958c",
+      "appId": "261e6942d40f49bda1e8e7237c435f73",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

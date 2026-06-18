@@ -1,0 +1,45 @@
+{
+  "id": "9575f5fe3257435d8dd746bba9f634be",
+  "title": "FortniteBaseball_DelMarContent",
+  "description": "FortniteBaseball_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:28:11.763Z",
+  "lastModifiedDate": "2026-06-18T16:28:15.529Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "9575f5fe3257435d8dd746bba9f634be",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a636706b400c4db984824d54410f1e03",
+      "appId": "d51e9e0648e148c3b9139d0576185cf9",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

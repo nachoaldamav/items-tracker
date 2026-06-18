@@ -1,0 +1,45 @@
+{
+  "id": "a12f7bf108c84862af30bfc4965bd568",
+  "title": "FortniteExtQAReleaseTestingB_SparksContent",
+  "description": "FortniteExtQAReleaseTestingB_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:23:56.706Z",
+  "lastModifiedDate": "2026-06-18T16:23:59.180Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "a12f7bf108c84862af30bfc4965bd568",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "61beb08d242b4fe991ef33d7443b5cc3",
+      "appId": "761803218d9c4531af86b4f4d28d0883",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

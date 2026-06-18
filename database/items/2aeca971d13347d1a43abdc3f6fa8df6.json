@@ -1,0 +1,45 @@
+{
+  "id": "2aeca971d13347d1a43abdc3f6fa8df6",
+  "title": "FortniteEvents_DelMarContent",
+  "description": "FortniteEvents_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:23:42.214Z",
+  "lastModifiedDate": "2026-06-18T16:23:45.838Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "2aeca971d13347d1a43abdc3f6fa8df6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ad58704f2e054009a001633d0fbb15c1",
+      "appId": "f0990bf73bdc41c6973fc8482ab226aa",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

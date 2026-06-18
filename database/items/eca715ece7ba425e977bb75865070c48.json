@@ -1,0 +1,45 @@
+{
+  "id": "eca715ece7ba425e977bb75865070c48",
+  "title": "FortnitePredeployC_DelMarContent",
+  "description": "FortnitePredeployC_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:31:46.515Z",
+  "lastModifiedDate": "2026-06-18T16:31:50.352Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "eca715ece7ba425e977bb75865070c48",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f91f4ab3f22d4fd6a2a3914a45a463de",
+      "appId": "a279b646dfe44d99b60e9722b196b4f8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

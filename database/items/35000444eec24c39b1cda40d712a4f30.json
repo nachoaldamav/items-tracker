@@ -1,0 +1,45 @@
+{
+  "id": "35000444eec24c39b1cda40d712a4f30",
+  "title": "FortniteHula_SparksContent",
+  "description": "FortniteHula_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:33:42.759Z",
+  "lastModifiedDate": "2026-06-18T16:33:45.183Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "35000444eec24c39b1cda40d712a4f30",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c15e5c0ff64d481bba037d12ce9f7a96",
+      "appId": "3a448817f7a946148320fc4c16c7f399",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

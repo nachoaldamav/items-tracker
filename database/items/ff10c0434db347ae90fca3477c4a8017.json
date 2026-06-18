@@ -1,0 +1,45 @@
+{
+  "id": "ff10c0434db347ae90fca3477c4a8017",
+  "title": "FortniteFuzzy_DelMarContent",
+  "description": "FortniteFuzzy_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:32:32.473Z",
+  "lastModifiedDate": "2026-06-18T16:32:36.227Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "ff10c0434db347ae90fca3477c4a8017",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "faba3e6c650a40388c3093892a4969b7",
+      "appId": "488444e6349f46b890a5b641c3dafd82",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

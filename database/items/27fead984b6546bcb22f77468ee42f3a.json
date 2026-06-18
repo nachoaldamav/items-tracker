@@ -1,0 +1,45 @@
+{
+  "id": "27fead984b6546bcb22f77468ee42f3a",
+  "title": "FortniteElectro_DelMarContent",
+  "description": "FortniteElectro_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:30:55.741Z",
+  "lastModifiedDate": "2026-06-18T16:30:59.470Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "27fead984b6546bcb22f77468ee42f3a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5d17e5c54d64483a846f1389df7dbbee",
+      "appId": "701f2e77de81495a92368cd27936214c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

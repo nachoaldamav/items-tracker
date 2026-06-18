@@ -1,0 +1,45 @@
+{
+  "id": "78c664780e774043b579277d4f0e2dc6",
+  "title": "FortniteAnarchy_SparksContent",
+  "description": "FortniteAnarchy_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:27:34.279Z",
+  "lastModifiedDate": "2026-06-18T16:27:36.697Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "78c664780e774043b579277d4f0e2dc6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "150f2eca37ba4cb4838286d25386ace9",
+      "appId": "752c481681ea4eaeb52e9fc5a7bee5b1",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,45 @@
+{
+  "id": "ecb2f5f4a30b43a7b5c123fef34a0e4c",
+  "title": "FortniteDailyReleaseB_SparksContent",
+  "description": "FortniteDailyReleaseB_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:17:59.954Z",
+  "lastModifiedDate": "2026-06-18T16:18:02.576Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "ecb2f5f4a30b43a7b5c123fef34a0e4c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e1af114e4ded443899fcf9bd99ce5ff3",
+      "appId": "fbc6615da7674cc7bbd6d1093868245b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

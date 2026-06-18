@@ -1,0 +1,45 @@
+{
+  "id": "c53f414eec1b4109addddd34af388764",
+  "title": "FortniteCandy_SparksContent",
+  "description": "FortniteCandy_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:29:34.544Z",
+  "lastModifiedDate": "2026-06-18T16:29:36.982Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "c53f414eec1b4109addddd34af388764",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f4d17bf46e6242d4beddb0e37aa7e178",
+      "appId": "298ff39839df4b39b8c4d97013550d13",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

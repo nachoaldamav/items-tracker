@@ -1,0 +1,45 @@
+{
+  "id": "e7ef8272ec4347a1bfc07e50bfe49f29",
+  "title": "FortniteHarper_DelMarContent",
+  "description": "FortniteHarper_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:33:23.440Z",
+  "lastModifiedDate": "2026-06-18T16:33:27.361Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "e7ef8272ec4347a1bfc07e50bfe49f29",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "420b5d18587340038a5768acc3a4635f",
+      "appId": "baf8ca98a6e941fdb9795138fe56f9c1",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

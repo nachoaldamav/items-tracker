@@ -1,0 +1,45 @@
+{
+  "id": "1d113a09dc4a4650835a22dbce83d7b2",
+  "title": "FortniteJunoStable_SparksContent",
+  "description": "FortniteJunoStable_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:24:52.665Z",
+  "lastModifiedDate": "2026-06-18T16:24:55.227Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "1d113a09dc4a4650835a22dbce83d7b2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0f8b9c5f432b47a6b1a46b37a4a85e11",
+      "appId": "f484ef274e3d46be949def3c65453f23",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

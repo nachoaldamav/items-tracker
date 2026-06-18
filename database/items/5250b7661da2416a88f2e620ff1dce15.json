@@ -1,0 +1,45 @@
+{
+  "id": "5250b7661da2416a88f2e620ff1dce15",
+  "title": "FortniteGumshoe_SparksContent",
+  "description": "FortniteGumshoe_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:33:12.655Z",
+  "lastModifiedDate": "2026-06-18T16:33:15.091Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "5250b7661da2416a88f2e620ff1dce15",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c34a241f4dd84d4d82f5d51f44a6839c",
+      "appId": "33aaea598b2d485da1cd90a8a64ec193",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,45 @@
+{
+  "id": "49b48d6e0e7641eea5ba154eab676861",
+  "title": "FortniteCapoeira_SparksContent",
+  "description": "FortniteCapoeira_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:29:39.409Z",
+  "lastModifiedDate": "2026-06-18T16:29:41.894Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "49b48d6e0e7641eea5ba154eab676861",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "79b9d457b26741c9b108069e1c96e998",
+      "appId": "e6165a0ff58a4816952c2e559f7f05e3",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,45 @@
+{
+  "id": "d6abd6499af043c99466088ff67098b3",
+  "title": "FortniteBronto_DelMarContent",
+  "description": "FortniteBronto_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:29:04.311Z",
+  "lastModifiedDate": "2026-06-18T16:29:08.110Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "d6abd6499af043c99466088ff67098b3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5aa15c26708f4d4696f57944d18c6429",
+      "appId": "0d4e6ea1ba394bf1825f273533d413b2",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

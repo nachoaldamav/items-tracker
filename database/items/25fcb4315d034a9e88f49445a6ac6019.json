@@ -1,0 +1,45 @@
+{
+  "id": "25fcb4315d034a9e88f49445a6ac6019",
+  "title": "FortniteCapoeira_DelMarContent",
+  "description": "FortniteCapoeira_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:29:39.711Z",
+  "lastModifiedDate": "2026-06-18T16:29:43.553Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "25fcb4315d034a9e88f49445a6ac6019",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a536cc2e25d04eee8d289085ba74c4c2",
+      "appId": "623f888b880d4976975f58b16b30403a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

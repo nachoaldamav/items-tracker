@@ -1,0 +1,45 @@
+{
+  "id": "adfdfd71766b49b898d6829a79a26ff4",
+  "title": "FortniteMedic_DelMarContent",
+  "description": "FortniteMedic_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:34:18.372Z",
+  "lastModifiedDate": "2026-06-18T16:34:22.318Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "adfdfd71766b49b898d6829a79a26ff4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9960392c3776489aba6f2ab76058680b",
+      "appId": "feac77026dba45b1afc811a7ae39e071",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

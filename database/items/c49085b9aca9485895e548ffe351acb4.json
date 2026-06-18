@@ -1,0 +1,45 @@
+{
+  "id": "c49085b9aca9485895e548ffe351acb4",
+  "title": "FortniteBrawler_SparksContent",
+  "description": "FortniteBrawler_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:17:04.651Z",
+  "lastModifiedDate": "2026-06-18T16:17:07.257Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "c49085b9aca9485895e548ffe351acb4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "624559bf582647568c9d2dc5d4156c19",
+      "appId": "3e5d78b406be4d1b86dcf467c7595d02",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

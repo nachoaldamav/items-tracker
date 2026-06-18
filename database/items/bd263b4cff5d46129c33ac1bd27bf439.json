@@ -1,0 +1,45 @@
+{
+  "id": "bd263b4cff5d46129c33ac1bd27bf439",
+  "title": "FortniteBalloon_DelMarContent",
+  "description": "FortniteBalloon_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:27:55.985Z",
+  "lastModifiedDate": "2026-06-18T16:27:59.736Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "bd263b4cff5d46129c33ac1bd27bf439",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9adfdc1334d24c93ae61e76d637fe012",
+      "appId": "4722ca2171424c21a0bc522e815ec7ce",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

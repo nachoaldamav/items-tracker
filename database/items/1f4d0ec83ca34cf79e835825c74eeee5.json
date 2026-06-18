@@ -1,0 +1,45 @@
+{
+  "id": "1f4d0ec83ca34cf79e835825c74eeee5",
+  "title": "FortniteArctic_DelMarContent",
+  "description": "FortniteArctic_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:27:44.343Z",
+  "lastModifiedDate": "2026-06-18T16:27:48.170Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "1f4d0ec83ca34cf79e835825c74eeee5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c78b2bb56b364020bbb8908da63c5396",
+      "appId": "b79acb46d2b041f989779aaf5c033e71",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

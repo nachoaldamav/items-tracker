@@ -1,0 +1,45 @@
+{
+  "id": "e8fb6d7197b24732a62ee281d16dd4e4",
+  "title": "FortniteLock_DelMarContent",
+  "description": "FortniteLock_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:33:57.890Z",
+  "lastModifiedDate": "2026-06-18T16:34:01.927Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "e8fb6d7197b24732a62ee281d16dd4e4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "509c9ecf50b24f10b91ef8c23c17c686",
+      "appId": "887d628d7a644dc48c06ad84e0e02f14",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

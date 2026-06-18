@@ -1,0 +1,45 @@
+{
+  "id": "4b891fe992ab4afb83f0032896b01758",
+  "title": "FortniteBiker_DelMarContent",
+  "description": "FortniteBiker_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:28:42.786Z",
+  "lastModifiedDate": "2026-06-18T16:28:46.650Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "4b891fe992ab4afb83f0032896b01758",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8d36a10e58704581b409f08dc0a4b5ac",
+      "appId": "ca6bc0d144b243de80d726e910817596",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

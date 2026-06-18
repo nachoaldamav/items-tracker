@@ -1,0 +1,45 @@
+{
+  "id": "5cbf45f907584f4cbf59c3eacfb1ddf7",
+  "title": "FortniteGrooving_DelMarContent",
+  "description": "FortniteGrooving_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:33:03.085Z",
+  "lastModifiedDate": "2026-06-18T16:33:07.013Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "5cbf45f907584f4cbf59c3eacfb1ddf7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5e2f6839776144ea8e547a44047f9b53",
+      "appId": "c5638f28bfdb4ac8bc3bba69f9c4c940",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

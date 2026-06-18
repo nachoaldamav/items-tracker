@@ -1,0 +1,45 @@
+{
+  "id": "60f0aad4b935489ab78954970d06c8a0",
+  "title": "FortniteDemon_SparksContent",
+  "description": "FortniteDemon_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:30:10.946Z",
+  "lastModifiedDate": "2026-06-18T16:30:13.429Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "60f0aad4b935489ab78954970d06c8a0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f8929938d46f4c7b82dd862da18c30eb",
+      "appId": "722b0b42601844c8aff63b724ed01cda",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

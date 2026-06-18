@@ -1,0 +1,45 @@
+{
+  "id": "7968cbfaf5a741918789b1bed1e3433d",
+  "title": "FortniteConsoleCertB_DelMarContent",
+  "description": "FortniteConsoleCertB_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:31:41.362Z",
+  "lastModifiedDate": "2026-06-18T16:31:45.133Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "7968cbfaf5a741918789b1bed1e3433d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1c0aa5a96ddf45ad8d1d719443c28fdb",
+      "appId": "a86e9ce5c89e4b36834c9c99ffcc88dc",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

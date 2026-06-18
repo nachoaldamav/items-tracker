@@ -1,0 +1,45 @@
+{
+  "id": "4313cdcf51454d248ef758a67c9f4829",
+  "title": "FortniteRedDailyMainTesting_SparksContent",
+  "description": "FortniteRedDailyMainTesting_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:26:33.389Z",
+  "lastModifiedDate": "2026-06-18T16:26:35.862Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "4313cdcf51454d248ef758a67c9f4829",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5d36fc4f56824da394284fc85d820d3d",
+      "appId": "5ae8457b8f7c46a9835326a488dc935a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

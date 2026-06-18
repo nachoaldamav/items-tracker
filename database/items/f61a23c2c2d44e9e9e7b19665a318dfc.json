@@ -1,0 +1,45 @@
+{
+  "id": "f61a23c2c2d44e9e9e7b19665a318dfc",
+  "title": "FortnitePirate_DelMarContent",
+  "description": "FortnitePirate_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:35:19.387Z",
+  "lastModifiedDate": "2026-06-18T16:35:23.423Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "f61a23c2c2d44e9e9e7b19665a318dfc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "df60bf4a2a194c24996e68522bed6ad5",
+      "appId": "409acd0d2f58464393adea7ff04640e5",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

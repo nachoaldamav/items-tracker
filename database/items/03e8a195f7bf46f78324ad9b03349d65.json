@@ -1,0 +1,45 @@
+{
+  "id": "03e8a195f7bf46f78324ad9b03349d65",
+  "title": "FortniteMedley_SparksContent",
+  "description": "FortniteMedley_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:34:23.139Z",
+  "lastModifiedDate": "2026-06-18T16:34:25.644Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "03e8a195f7bf46f78324ad9b03349d65",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "01edafac2ef945d0afbe9e31a24c359e",
+      "appId": "c3ce2f93153d4896a0859f45ce5d78b4",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

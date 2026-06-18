@@ -1,0 +1,45 @@
+{
+  "id": "81f712156940474989417b5f1b18e180",
+  "title": "FortniteAerobics_DelMarContent",
+  "description": "FortniteAerobics_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:27:19.633Z",
+  "lastModifiedDate": "2026-06-18T16:27:23.572Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "81f712156940474989417b5f1b18e180",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "895d5f5f484648bb8f0deeab9de0b8e7",
+      "appId": "6a8b0ae24fdd466c9dee1b72dfe5970a",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

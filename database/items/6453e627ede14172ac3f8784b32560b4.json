@@ -1,0 +1,45 @@
+{
+  "id": "6453e627ede14172ac3f8784b32560b4",
+  "title": "FortnitePanda_DelMarContent",
+  "description": "FortnitePanda_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:35:04.623Z",
+  "lastModifiedDate": "2026-06-18T16:35:08.379Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "6453e627ede14172ac3f8784b32560b4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a1236301fcf84b6c97ccdb24b2a4eac8",
+      "appId": "3816f635bdd44ed597bc158f270a141e",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

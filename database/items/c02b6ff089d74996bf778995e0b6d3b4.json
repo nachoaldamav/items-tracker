@@ -1,0 +1,45 @@
+{
+  "id": "c02b6ff089d74996bf778995e0b6d3b4",
+  "title": "FortniteJunoQA_DelMarContent",
+  "description": "FortniteJunoQA_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:24:48.025Z",
+  "lastModifiedDate": "2026-06-18T16:24:51.869Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "c02b6ff089d74996bf778995e0b6d3b4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cbbc77f6ce074f26944b20257af97d31",
+      "appId": "0e24c5854a83472e8ff7bb22d4f14190",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

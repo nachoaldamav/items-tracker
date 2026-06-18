@@ -1,0 +1,45 @@
+{
+  "id": "51da09925a78402c9c5d6e2ac8a076d8",
+  "title": "FortniteFarmer_SparksContent",
+  "description": "FortniteFarmer_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:31:05.495Z",
+  "lastModifiedDate": "2026-06-18T16:31:07.990Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "51da09925a78402c9c5d6e2ac8a076d8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e434952c3b304f52aa46f56ed86d7e74",
+      "appId": "b5fc726465444735a5f5840ae2afb7af",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

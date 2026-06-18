@@ -1,0 +1,45 @@
+{
+  "id": "bc9f077dab5746309359192d857f7d94",
+  "title": "FortniteGuitar_DelMarContent",
+  "description": "FortniteGuitar_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:33:08.146Z",
+  "lastModifiedDate": "2026-06-18T16:33:11.845Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "bc9f077dab5746309359192d857f7d94",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "53663efc22374aea8a4fa9d945f30bcb",
+      "appId": "d9e3164f6a4f4572836ce67b4a68c506",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

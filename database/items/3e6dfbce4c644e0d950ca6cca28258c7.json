@@ -1,0 +1,45 @@
+{
+  "id": "3e6dfbce4c644e0d950ca6cca28258c7",
+  "title": "FortniteCry_DelMarContent",
+  "description": "FortniteCry_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:29:54.786Z",
+  "lastModifiedDate": "2026-06-18T16:29:58.629Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "3e6dfbce4c644e0d950ca6cca28258c7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0e49856b4271451fab37f69dba6be65b",
+      "appId": "0e69409b45344332b0c79e7493b1b578",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

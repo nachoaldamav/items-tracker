@@ -1,0 +1,45 @@
+{
+  "id": "dc2b6f886e9c499c90a4fed533619ebe",
+  "title": "FortniteComet_SparksContent",
+  "description": "FortniteComet_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:29:44.368Z",
+  "lastModifiedDate": "2026-06-18T16:29:47.318Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "dc2b6f886e9c499c90a4fed533619ebe",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "986a8abe0ee8495abc13e22859c80f58",
+      "appId": "9d0b0365de9c4e40860784ff2ded3e80",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

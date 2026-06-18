@@ -1,0 +1,45 @@
+{
+  "id": "15e7b2739ed1401c8a5a55e489b1f8b5",
+  "title": "FortniteChecker_SparksContent",
+  "description": "FortniteChecker_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:17:37.594Z",
+  "lastModifiedDate": "2026-06-18T16:17:40.085Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "15e7b2739ed1401c8a5a55e489b1f8b5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "13a86f78dbe44f98bc4c2d95e11fefb3",
+      "appId": "dcbfc6d0189c4519a4d7d7de52a86f56",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

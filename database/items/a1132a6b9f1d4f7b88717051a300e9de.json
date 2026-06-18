@@ -1,0 +1,45 @@
+{
+  "id": "a1132a6b9f1d4f7b88717051a300e9de",
+  "title": "FortniteDream_DelMarContent",
+  "description": "FortniteDream_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:30:40.791Z",
+  "lastModifiedDate": "2026-06-18T16:30:44.578Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "a1132a6b9f1d4f7b88717051a300e9de",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2be69ee3c0de4b8590f4d06ba5db3259",
+      "appId": "13f8a096a5b9450899c51d3313af4072",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

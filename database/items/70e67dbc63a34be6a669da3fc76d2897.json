@@ -1,0 +1,45 @@
+{
+  "id": "70e67dbc63a34be6a669da3fc76d2897",
+  "title": "FortniteGraffiti_SparksContent",
+  "description": "FortniteGraffiti_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:32:56.569Z",
+  "lastModifiedDate": "2026-06-18T16:32:59.050Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "70e67dbc63a34be6a669da3fc76d2897",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "eea871d495c44e9ab5fea2176f33ee9b",
+      "appId": "1f3b41da204a448db98ddd16ebe3fa9b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

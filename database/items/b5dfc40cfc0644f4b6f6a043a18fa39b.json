@@ -1,0 +1,45 @@
+{
+  "id": "b5dfc40cfc0644f4b6f6a043a18fa39b",
+  "title": "FortniteGhoul_DelMarContent",
+  "description": "FortniteGhoul_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:32:42.058Z",
+  "lastModifiedDate": "2026-06-18T16:32:45.917Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "b5dfc40cfc0644f4b6f6a043a18fa39b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2153f47217fb4d9581fa2814bc8b385b",
+      "appId": "c23154329b284784b1c910134daccf75",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,45 @@
+{
+  "id": "e73725053b6842cea9bc3a4c00901f51",
+  "title": "FortniteDazzle_SparksContent",
+  "description": "FortniteDazzle_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:18:11.500Z",
+  "lastModifiedDate": "2026-06-18T16:18:13.921Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "e73725053b6842cea9bc3a4c00901f51",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9f4ff27974d145aba4446fe1130f52b5",
+      "appId": "c0dd6bb4e3d44cbba99bbff01937365c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,45 @@
+{
+  "id": "a133b97a88bc4d5cad1ed5efbd6bbd27",
+  "title": "FortniteMerman_SparksContent",
+  "description": "FortniteMerman_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:34:29.178Z",
+  "lastModifiedDate": "2026-06-18T16:34:31.600Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "a133b97a88bc4d5cad1ed5efbd6bbd27",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "be8d2e6a44c34119bf49cf8dc09daf44",
+      "appId": "9303270bed4745fa90b3b4a18e8ecc35",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

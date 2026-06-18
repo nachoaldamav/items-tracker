@@ -1,0 +1,45 @@
+{
+  "id": "06f63594ddd34920a5107d423af1f959",
+  "title": "FortniteBoogie_SparksContent",
+  "description": "FortniteBoogie_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:28:52.641Z",
+  "lastModifiedDate": "2026-06-18T16:28:55.120Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "06f63594ddd34920a5107d423af1f959",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a2ac904337404cec91c7733b4d06f3e3",
+      "appId": "fda0a4a1a8d147a3b2addb67a4798676",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

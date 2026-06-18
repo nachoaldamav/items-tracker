@@ -1,0 +1,45 @@
+{
+  "id": "3cd24b278215479e947858d108ca3f9d",
+  "title": "FortniteLuchador_DelMarContent",
+  "description": "FortniteLuchador_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:34:03.139Z",
+  "lastModifiedDate": "2026-06-18T16:34:06.936Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "3cd24b278215479e947858d108ca3f9d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b26bbbe6aad741028e0df5f9e001518d",
+      "appId": "20ad6d609bc248e09ff2de19db784383",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

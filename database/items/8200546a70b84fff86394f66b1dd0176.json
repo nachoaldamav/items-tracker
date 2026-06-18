@@ -1,0 +1,45 @@
+{
+  "id": "8200546a70b84fff86394f66b1dd0176",
+  "title": "FortniteBullseye_SparksContent",
+  "description": "FortniteBullseye_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:29:08.929Z",
+  "lastModifiedDate": "2026-06-18T16:29:11.287Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "8200546a70b84fff86394f66b1dd0176",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "363a2a4f583341de82f8c5e429a5a632",
+      "appId": "1319b4e12ac64df39f3596fe70505757",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

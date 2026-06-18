@@ -1,0 +1,45 @@
+{
+  "id": "4a788d0bc776499999b73b31bc21eb5a",
+  "title": "FortniteBurpee_SparksContent",
+  "description": "FortniteBurpee_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:29:29.487Z",
+  "lastModifiedDate": "2026-06-18T16:29:31.881Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "4a788d0bc776499999b73b31bc21eb5a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a95c3ee31dcc4a22a674f63c16d761f5",
+      "appId": "350f156c51384828a87aa6909d5d297f",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

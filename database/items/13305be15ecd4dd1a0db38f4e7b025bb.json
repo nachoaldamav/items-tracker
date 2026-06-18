@@ -1,0 +1,45 @@
+{
+  "id": "13305be15ecd4dd1a0db38f4e7b025bb",
+  "title": "FortniteDemon_DelMarContent",
+  "description": "FortniteDemon_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:30:11.250Z",
+  "lastModifiedDate": "2026-06-18T16:30:15.077Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "13305be15ecd4dd1a0db38f4e7b025bb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a9cd8bac7f42437f84e8e4a89b9efc83",
+      "appId": "7f62cc145c6e45c4abe70d9c88ba9030",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

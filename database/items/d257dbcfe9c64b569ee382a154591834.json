@@ -1,0 +1,45 @@
+{
+  "id": "d257dbcfe9c64b569ee382a154591834",
+  "title": "FortniteBunker_DelMarContent",
+  "description": "FortniteBunker_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:29:14.322Z",
+  "lastModifiedDate": "2026-06-18T16:29:18.098Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "d257dbcfe9c64b569ee382a154591834",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d4baffdf30aa475cae8e45b4f7e341b1",
+      "appId": "869de6d276aa4837a1172fe0c3e38624",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,45 @@
+{
+  "id": "bb4ecc58e5da4e86857bf3d76cd8e0ae",
+  "title": "FortniteLuchador_SparksContent",
+  "description": "FortniteLuchador_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:34:02.779Z",
+  "lastModifiedDate": "2026-06-18T16:34:05.246Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "bb4ecc58e5da4e86857bf3d76cd8e0ae",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "61a1e3eb2de84d6191418c0cb1ae89ab",
+      "appId": "81d8fe8e5a0b49b2a9409d5d03bb2d7b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

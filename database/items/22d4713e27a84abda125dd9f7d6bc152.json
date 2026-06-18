@@ -1,0 +1,45 @@
+{
+  "id": "22d4713e27a84abda125dd9f7d6bc152",
+  "title": "FortniteHotrod_SparksContent",
+  "description": "FortniteHotrod_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:24:36.829Z",
+  "lastModifiedDate": "2026-06-18T16:24:39.333Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "22d4713e27a84abda125dd9f7d6bc152",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6622c6effbb54866bbf86a37a7a43f5c",
+      "appId": "b6563119aea64cafac2364a5754561f8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

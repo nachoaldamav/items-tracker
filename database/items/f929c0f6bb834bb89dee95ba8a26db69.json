@@ -1,0 +1,45 @@
+{
+  "id": "f929c0f6bb834bb89dee95ba8a26db69",
+  "title": "FortniteDoggus_DelMarContent",
+  "description": "FortniteDoggus_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:30:30.953Z",
+  "lastModifiedDate": "2026-06-18T16:30:34.770Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "f929c0f6bb834bb89dee95ba8a26db69",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e4a712648eaf45559451d6a4a00ce088",
+      "appId": "f48cf8d213384ca3a66ebf5f913d493c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

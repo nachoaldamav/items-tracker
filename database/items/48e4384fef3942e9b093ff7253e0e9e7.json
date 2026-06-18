@@ -1,0 +1,45 @@
+{
+  "id": "48e4384fef3942e9b093ff7253e0e9e7",
+  "title": "FortniteBanner_SparksContent",
+  "description": "FortniteBanner_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:28:06.233Z",
+  "lastModifiedDate": "2026-06-18T16:28:08.693Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "48e4384fef3942e9b093ff7253e0e9e7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "352c5e3fddc44cb185dd78f5b0b46200",
+      "appId": "05646e7e8c334baeb119fb977b5db422",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

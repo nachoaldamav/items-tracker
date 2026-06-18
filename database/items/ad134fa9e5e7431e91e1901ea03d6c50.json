@@ -1,0 +1,45 @@
+{
+  "id": "ad134fa9e5e7431e91e1901ea03d6c50",
+  "title": "FortniteMetal_DelMarContent",
+  "description": "FortniteMetal_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:34:34.436Z",
+  "lastModifiedDate": "2026-06-18T16:34:38.246Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "ad134fa9e5e7431e91e1901ea03d6c50",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "697527ab72144b9aa646acad2722fd6a",
+      "appId": "177134822a6443a18714cd4342374cc2",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,45 @@
+{
+  "id": "829c2d9757fb4cc49acb4b9cc58b65a7",
+  "title": "FortniteBow_DelMarContent",
+  "description": "FortniteBow_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:28:58.518Z",
+  "lastModifiedDate": "2026-06-18T16:29:02.475Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "829c2d9757fb4cc49acb4b9cc58b65a7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6b4959c2207c49d1998e32a29d988700",
+      "appId": "72410d5a6caf46b6bbfbdba548cf925b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

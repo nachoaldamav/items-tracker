@@ -1,0 +1,45 @@
+{
+  "id": "c493e69e2f7141449f62a77f3ee8e641",
+  "title": "FortniteGuitar_SparksContent",
+  "description": "FortniteGuitar_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:33:07.848Z",
+  "lastModifiedDate": "2026-06-18T16:33:10.276Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "c493e69e2f7141449f62a77f3ee8e641",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fd6140cbdacb4e929c1705a447148cef",
+      "appId": "8a6190efaf6c4be4b740988cbd8c9f4b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

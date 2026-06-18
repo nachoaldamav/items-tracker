@@ -1,0 +1,45 @@
+{
+  "id": "7b3ed59831c74b1b9649861b5a8d5463",
+  "title": "FortniteJunoStable_DelMarContent",
+  "description": "FortniteJunoStable_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:24:52.957Z",
+  "lastModifiedDate": "2026-06-18T16:24:57.018Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "7b3ed59831c74b1b9649861b5a8d5463",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0457530fe170431893c6539f5f0b78c7",
+      "appId": "48a67c2613fb430c8350011644e57ff6",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

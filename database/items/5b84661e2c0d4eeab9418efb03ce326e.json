@@ -1,0 +1,45 @@
+{
+  "id": "5b84661e2c0d4eeab9418efb03ce326e",
+  "title": "FortniteOptics_SparksContent",
+  "description": "FortniteOptics_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:34:59.104Z",
+  "lastModifiedDate": "2026-06-18T16:35:01.566Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "5b84661e2c0d4eeab9418efb03ce326e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1bf9ccb051224527b887f06043e3fd24",
+      "appId": "9207397da6264d13a0d84eb57c688096",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

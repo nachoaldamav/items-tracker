@@ -1,0 +1,45 @@
+{
+  "id": "e75936ef2fb84ff0a5b9487611ec1a0c",
+  "title": "FortniteBuckler_DelMarContent",
+  "description": "FortniteBuckler_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:17:15.907Z",
+  "lastModifiedDate": "2026-06-18T16:17:19.979Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "e75936ef2fb84ff0a5b9487611ec1a0c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "01d25d1eaf544c62abd8dc7e8c31ce8c",
+      "appId": "ef6622102f1b4119a267057f874467d2",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

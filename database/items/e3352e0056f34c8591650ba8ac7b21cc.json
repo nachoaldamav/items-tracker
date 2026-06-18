@@ -1,0 +1,45 @@
+{
+  "id": "e3352e0056f34c8591650ba8ac7b21cc",
+  "title": "FortniteGlow_SparksContent",
+  "description": "FortniteGlow_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:32:46.981Z",
+  "lastModifiedDate": "2026-06-18T16:32:49.331Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "e3352e0056f34c8591650ba8ac7b21cc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c5e6c27782d0492f97a632756fa61bb2",
+      "appId": "d29d795bbca44ae18ea54035db1a2e01",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

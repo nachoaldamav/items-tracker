@@ -1,0 +1,45 @@
+{
+  "id": "2f8eddc733074211bec66e538f739a1c",
+  "title": "FortniteHowl_SparksContent",
+  "description": "FortniteHowl_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:33:37.974Z",
+  "lastModifiedDate": "2026-06-18T16:33:40.359Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "2f8eddc733074211bec66e538f739a1c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "726e3779d42c4ba6b90cdb93a4e17e8a",
+      "appId": "2bc934d82e6e404aae63abe9568847d3",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

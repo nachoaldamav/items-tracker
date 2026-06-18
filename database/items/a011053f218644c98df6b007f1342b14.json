@@ -1,0 +1,45 @@
+{
+  "id": "a011053f218644c98df6b007f1342b14",
+  "title": "FortniteBackflip_SparksContent",
+  "description": "FortniteBackflip_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:27:49.993Z",
+  "lastModifiedDate": "2026-06-18T16:27:52.473Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "a011053f218644c98df6b007f1342b14",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e96fe8ac8fe94c98a76491cc0420c0a1",
+      "appId": "53d7b08d56424a9899b2dd8deff545c0",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

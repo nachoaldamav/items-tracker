@@ -1,0 +1,45 @@
+{
+  "id": "766ef57c27ca4a418bb353f2697ae462",
+  "title": "FortniteFish_DelMarContent",
+  "description": "FortniteFish_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:31:25.899Z",
+  "lastModifiedDate": "2026-06-18T16:31:29.741Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "766ef57c27ca4a418bb353f2697ae462",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a8e603a720474fd0ab3918cc0e5cdffe",
+      "appId": "e53582087bb24adfacddd9a5730b95a5",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

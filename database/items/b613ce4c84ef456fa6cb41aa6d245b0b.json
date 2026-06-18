@@ -1,0 +1,45 @@
+{
+  "id": "b613ce4c84ef456fa6cb41aa6d245b0b",
+  "title": "FortniteExtQAUETestingB_DelMarContent",
+  "description": "FortniteExtQAUETestingB_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:24:07.441Z",
+  "lastModifiedDate": "2026-06-18T16:24:11.320Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "b613ce4c84ef456fa6cb41aa6d245b0b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c9e77da57da64dd19d25233c4ddc4b72",
+      "appId": "832d1054187044d8af5dd74e5d2b7e92",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

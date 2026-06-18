@@ -1,0 +1,45 @@
+{
+  "id": "8ff81809ca0d4022a67b7759312a4ac7",
+  "title": "FortniteDevPlaytestG_SparksContent",
+  "description": "FortniteDevPlaytestG_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:21:10.137Z",
+  "lastModifiedDate": "2026-06-18T16:21:12.488Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "8ff81809ca0d4022a67b7759312a4ac7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9c5fb1f047d94bffb70bd0a0f18a3e06",
+      "appId": "63efda1b8be048ea8fa19454418f447b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

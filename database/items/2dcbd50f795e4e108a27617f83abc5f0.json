@@ -1,0 +1,45 @@
+{
+  "id": "2dcbd50f795e4e108a27617f83abc5f0",
+  "title": "FortniteLiveBroadcasting_DelMarContent",
+  "description": "FortniteLiveBroadcasting_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:25:03.890Z",
+  "lastModifiedDate": "2026-06-18T16:25:08.032Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "2dcbd50f795e4e108a27617f83abc5f0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5ee6e1871df640348260175e8f78e12f",
+      "appId": "888e35bbe07542608dac542b45788999",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

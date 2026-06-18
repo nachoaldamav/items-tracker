@@ -1,0 +1,45 @@
+{
+  "id": "e4040fa6ff004a24a4a61ce06907ba65",
+  "title": "FortniteBurger_DelMarContent",
+  "description": "FortniteBurger_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:29:24.716Z",
+  "lastModifiedDate": "2026-06-18T16:29:28.440Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "e4040fa6ff004a24a4a61ce06907ba65",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "975c1d21e3be408dbe627dcea8fb4a06",
+      "appId": "fd7049f25e2d448baaa931ed52633696",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

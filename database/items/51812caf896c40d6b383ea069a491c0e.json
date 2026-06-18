@@ -1,0 +1,45 @@
+{
+  "id": "51812caf896c40d6b383ea069a491c0e",
+  "title": "FortnitePredeployB_SparksContent",
+  "description": "FortnitePredeployB_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:26:18.680Z",
+  "lastModifiedDate": "2026-06-18T16:26:21.159Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "51812caf896c40d6b383ea069a491c0e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "06efcf740098401ea5b3a75d99ff072e",
+      "appId": "2cd40b1564844667bfbb6351a157ef8c",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,45 @@
+{
+  "id": "ca5572dc39c647a6bffc7d24b9940f09",
+  "title": "FortniteBaseball_SparksContent",
+  "description": "FortniteBaseball_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:28:11.474Z",
+  "lastModifiedDate": "2026-06-18T16:28:13.910Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "ca5572dc39c647a6bffc7d24b9940f09",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f30a26a67e704abe9da51c953da0358c",
+      "appId": "98ff58cafecf4496b6803173076af692",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

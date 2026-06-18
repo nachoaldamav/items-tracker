@@ -1,0 +1,45 @@
+{
+  "id": "9d04d134ee1d4ceb92553a04863ebfd1",
+  "title": "FortniteDevPlaytestZ_DelMarContent",
+  "description": "FortniteDevPlaytestZ_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:23:21.141Z",
+  "lastModifiedDate": "2026-06-18T16:23:24.995Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "9d04d134ee1d4ceb92553a04863ebfd1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c8213bc007ba4d5687167509375ebd3e",
+      "appId": "388efbd10eaa4eebbf8067ba36dda484",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

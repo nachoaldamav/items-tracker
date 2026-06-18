@@ -1,0 +1,45 @@
+{
+  "id": "8d5cdac0c89b4d848c42a1984c9f76e2",
+  "title": "FortniteHover_SparksContent",
+  "description": "FortniteHover_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:33:33.020Z",
+  "lastModifiedDate": "2026-06-18T16:33:35.353Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "8d5cdac0c89b4d848c42a1984c9f76e2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2beecbf7da2940b9999db7ad8ca40f39",
+      "appId": "5504e5d79a344c51ab7423a0cd8b26c6",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

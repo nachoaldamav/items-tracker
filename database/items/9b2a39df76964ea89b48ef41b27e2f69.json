@@ -1,0 +1,45 @@
+{
+  "id": "9b2a39df76964ea89b48ef41b27e2f69",
+  "title": "FortniteBunny_DelMarContent",
+  "description": "FortniteBunny_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:29:19.479Z",
+  "lastModifiedDate": "2026-06-18T16:29:23.349Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "9b2a39df76964ea89b48ef41b27e2f69",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2140dcc7af3041ffa2314b3b0876fb7c",
+      "appId": "3ef5e3e46f104af2acf9bc0e312207b4",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

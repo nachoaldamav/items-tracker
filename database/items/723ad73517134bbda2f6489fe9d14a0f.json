@@ -2,10 +2,8 @@
   "id": "723ad73517134bbda2f6489fe9d14a0f",
   "title": "FortniteAurora_SparksContent",
   "description": "FortniteAurora_SparksContent",
+  "keyImages": [],
   "categories": [
-    {
-      "path": "games"
-    },
     {
       "path": "applications"
     }
@@ -13,7 +11,7 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2026-04-02T15:09:57.270Z",
-  "lastModifiedDate": "2026-04-02T15:14:09.326Z",
+  "lastModifiedDate": "2026-06-18T14:49:59.023Z",
   "customAttributes": {
     "remove_for_account_deprovision": {
       "type": "STRING",
@@ -42,7 +40,10 @@
   ],
   "developer": "Epic Games",
   "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }

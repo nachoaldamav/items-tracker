@@ -1,0 +1,45 @@
+{
+  "id": "591f6c37d8c24af2b5702c885580ab0d",
+  "title": "FortniteMath_SparksContent",
+  "description": "FortniteMath_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:34:08.004Z",
+  "lastModifiedDate": "2026-06-18T16:34:10.439Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "591f6c37d8c24af2b5702c885580ab0d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "893dde8c53964fe69e8aacc2278be885",
+      "appId": "fd1c89e78692447ab28b6692668501d7",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,45 @@
+{
+  "id": "6bc81a34318b4f4a95ce0c5663848161",
+  "title": "FortniteBendy_DelMarContent",
+  "description": "FortniteBendy_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:28:32.176Z",
+  "lastModifiedDate": "2026-06-18T16:28:36.394Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "6bc81a34318b4f4a95ce0c5663848161",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2b802edefbc046db90d802973d9d993a",
+      "appId": "c0a678ef13824c98be8e83515fba9035",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

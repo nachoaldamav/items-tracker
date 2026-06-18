@@ -1,0 +1,45 @@
+{
+  "id": "886bdefe5e944eef9e769b87b4dc74b2",
+  "title": "FortniteElectro_SparksContent",
+  "description": "FortniteElectro_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:30:55.199Z",
+  "lastModifiedDate": "2026-06-18T16:30:57.857Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "886bdefe5e944eef9e769b87b4dc74b2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "59aa78897df54045970cf75593c8e380",
+      "appId": "111142be62e844cd9ee067db69c38527",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

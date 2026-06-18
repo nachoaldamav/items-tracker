@@ -1,0 +1,45 @@
+{
+  "id": "060141fb96cd488abc4ec10bf3cec7f5",
+  "title": "FortniteMako_SparksContent",
+  "description": "FortniteMako_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:25:28.219Z",
+  "lastModifiedDate": "2026-06-18T16:25:30.726Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "060141fb96cd488abc4ec10bf3cec7f5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "83ba965901924ee8acfa6bb944a07649",
+      "appId": "c9a773185fc34e4a87221b5314ed36a1",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

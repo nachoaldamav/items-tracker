@@ -1,0 +1,45 @@
+{
+  "id": "f2a14e843f704cd09ab757acaea80563",
+  "title": "FortniteFloss_SparksContent",
+  "description": "FortniteFloss_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:24:21.971Z",
+  "lastModifiedDate": "2026-06-18T16:24:24.485Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "f2a14e843f704cd09ab757acaea80563",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cbf5e3757b844cc2b2dc75a44a5da1c7",
+      "appId": "46bf67bc5c4a4c9bba386746ae4034c4",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,45 @@
+{
+  "id": "e7bacbe76aff4dd991a761ace983caf3",
+  "title": "FortniteChef_SparksContent",
+  "description": "FortniteChef_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:32:12.100Z",
+  "lastModifiedDate": "2026-06-18T16:32:14.457Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "e7bacbe76aff4dd991a761ace983caf3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1a429e954f944a649b8cc3081202c28f",
+      "appId": "42a3097a4c31402f8516d8b0d67f5626",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

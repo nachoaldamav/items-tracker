@@ -1,0 +1,45 @@
+{
+  "id": "04146e68907a43bca1e11b38a631edd7",
+  "title": "FortniteGumshoe_DelMarContent",
+  "description": "FortniteGumshoe_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:33:12.962Z",
+  "lastModifiedDate": "2026-06-18T16:33:16.739Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "04146e68907a43bca1e11b38a631edd7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2fb233211f3b484b8cecae8bff22e69e",
+      "appId": "b6e8fd99c1a5458196177d202df52fb0",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,45 @@
+{
+  "id": "52635883f9a04b80b9c41b4a72465aef",
+  "title": "FortniteLock_SparksContent",
+  "description": "FortniteLock_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:33:57.586Z",
+  "lastModifiedDate": "2026-06-18T16:34:00.098Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "52635883f9a04b80b9c41b4a72465aef",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "25a9c093df0542c6b30af91be6e5446a",
+      "appId": "13c2714110604b8ab671dd5358d084a5",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

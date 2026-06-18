@@ -1,0 +1,45 @@
+{
+  "id": "3d6c8e79ef4c4e2a8e4308c93da9e953",
+  "title": "FortniteLoadTest_SparksContent",
+  "description": "FortniteLoadTest_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:25:13.873Z",
+  "lastModifiedDate": "2026-06-18T16:25:16.162Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "3d6c8e79ef4c4e2a8e4308c93da9e953",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bc0668d542364dee802469848ef76ffe",
+      "appId": "75bb5aa1eccf49bbb1bd5f57adda74bd",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

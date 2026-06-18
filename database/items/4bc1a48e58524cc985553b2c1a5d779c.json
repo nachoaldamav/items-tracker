@@ -1,0 +1,45 @@
+{
+  "id": "4bc1a48e58524cc985553b2c1a5d779c",
+  "title": "FortniteBurnoutQA_DelMarContent",
+  "description": "FortniteBurnoutQA_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:31:30.952Z",
+  "lastModifiedDate": "2026-06-18T16:31:34.780Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "4bc1a48e58524cc985553b2c1a5d779c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d9686dfe09e343db9d8ec2944d637e44",
+      "appId": "b749f24efe224d6da0d5994639b3832b",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

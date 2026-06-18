@@ -1,0 +1,45 @@
+{
+  "id": "f2bd6c5f5b654c25ade4bde334196158",
+  "title": "FortniteCattus_SparksContent",
+  "description": "FortniteCattus_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:32:06.810Z",
+  "lastModifiedDate": "2026-06-18T16:32:09.260Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "f2bd6c5f5b654c25ade4bde334196158",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "987a1ebc736547678d41c96de66e2690",
+      "appId": "b3cd5b9af8244cd29d60d46290873805",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

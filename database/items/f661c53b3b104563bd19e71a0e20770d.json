@@ -1,0 +1,45 @@
+{
+  "id": "f661c53b3b104563bd19e71a0e20770d",
+  "title": "FortniteAthena_SparksContent",
+  "description": "FortniteAthena_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:15:31.386Z",
+  "lastModifiedDate": "2026-06-18T16:15:33.866Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "f661c53b3b104563bd19e71a0e20770d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ce74b98e2e8f47919dc1e6dad12695c2",
+      "appId": "647d8f67130b4cd7807ee4b38142e5aa",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

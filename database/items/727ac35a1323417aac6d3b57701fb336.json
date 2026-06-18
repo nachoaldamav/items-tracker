@@ -1,0 +1,45 @@
+{
+  "id": "727ac35a1323417aac6d3b57701fb336",
+  "title": "FortniteBronto_SparksContent",
+  "description": "FortniteBronto_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:29:04.017Z",
+  "lastModifiedDate": "2026-06-18T16:29:06.485Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "727ac35a1323417aac6d3b57701fb336",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a18fcb626aae4d35a554f0c47d8958b0",
+      "appId": "379a6b72abe14959a7ca429ba76c98e1",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

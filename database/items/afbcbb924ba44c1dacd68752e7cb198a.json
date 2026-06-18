@@ -1,0 +1,45 @@
+{
+  "id": "afbcbb924ba44c1dacd68752e7cb198a",
+  "title": "FortniteFurnace_DelMarContent",
+  "description": "FortniteFurnace_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:32:27.521Z",
+  "lastModifiedDate": "2026-06-18T16:32:31.372Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "afbcbb924ba44c1dacd68752e7cb198a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "810050acc34e4b818d922b514c4d291a",
+      "appId": "71dba0df7ed7478391af333be432b7a7",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

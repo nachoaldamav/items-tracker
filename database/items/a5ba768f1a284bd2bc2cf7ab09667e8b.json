@@ -1,0 +1,45 @@
+{
+  "id": "a5ba768f1a284bd2bc2cf7ab09667e8b",
+  "title": "FortniteDiesel_SparksContent",
+  "description": "FortniteDiesel_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:30:15.884Z",
+  "lastModifiedDate": "2026-06-18T16:30:18.338Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "a5ba768f1a284bd2bc2cf7ab09667e8b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e50b6e8b0ec845bd99f1293905d42f76",
+      "appId": "55915b7b46754405999cead3e223e179",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

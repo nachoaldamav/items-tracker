@@ -1,0 +1,45 @@
+{
+  "id": "cf71fadfd00c4e3c955a9b7c36e94cdc",
+  "title": "FortniteCaptureDL_DelMarContent",
+  "description": "FortniteCaptureDL_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:17:26.908Z",
+  "lastModifiedDate": "2026-06-18T16:17:30.669Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "cf71fadfd00c4e3c955a9b7c36e94cdc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "88ccaab9d8aa44328de196a1e0002e38",
+      "appId": "0e63a278f62342c1b04ff77d6d166663",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

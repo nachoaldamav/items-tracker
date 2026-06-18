@@ -1,0 +1,45 @@
+{
+  "id": "63883b1acc5347288e1858d98f4b247e",
+  "title": "FortniteAlien_SparksContent",
+  "description": "FortniteAlien_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:27:29.310Z",
+  "lastModifiedDate": "2026-06-18T16:27:31.753Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "63883b1acc5347288e1858d98f4b247e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cb812f0899c34004a456b7bd3084884c",
+      "appId": "1eb59b0ca74e494e838dc44d60b8eae8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

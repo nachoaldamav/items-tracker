@@ -1,0 +1,45 @@
+{
+  "id": "4370561734d54ac099a9ee609617b45c",
+  "title": "FortniteBurnout_SparksContent",
+  "description": "FortniteBurnout_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:17:21.280Z",
+  "lastModifiedDate": "2026-06-18T16:17:23.687Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "4370561734d54ac099a9ee609617b45c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "16fbc33e5d4d4d7686cb6dfdb7f84a6a",
+      "appId": "6fc1949926f34474ba5d799952cdf7b7",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

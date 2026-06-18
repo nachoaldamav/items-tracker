@@ -1,0 +1,45 @@
+{
+  "id": "47564104cbda44769a6118f6bd8f4901",
+  "title": "FortniteAngel_DelMarContent",
+  "description": "FortniteAngel_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:27:39.434Z",
+  "lastModifiedDate": "2026-06-18T16:27:43.234Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "47564104cbda44769a6118f6bd8f4901",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9d25db80dfaf441eb0bec45bcdb4c612",
+      "appId": "195dd0b1d7214510ae5b572899bff075",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2b96512cd90440c8850b8dc33aa03954",
+  "title": "FortniteComet_DelMarContent",
+  "description": "FortniteComet_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:29:44.675Z",
+  "lastModifiedDate": "2026-06-18T16:29:48.969Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "2b96512cd90440c8850b8dc33aa03954",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7b6ffa3ecaf74dd0a01c17b94a051b04",
+      "appId": "92daaf5627db4120b86e4813595345aa",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

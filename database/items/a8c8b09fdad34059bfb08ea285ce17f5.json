@@ -1,0 +1,45 @@
+{
+  "id": "a8c8b09fdad34059bfb08ea285ce17f5",
+  "title": "FortniteFirefly_SparksContent",
+  "description": "FortniteFirefly_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:31:20.620Z",
+  "lastModifiedDate": "2026-06-18T16:31:23.090Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "a8c8b09fdad34059bfb08ea285ce17f5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "07941fcb113f44cd8e1872ba0756b22d",
+      "appId": "e4f478f9a8c34548a41d1c4c872b0375",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

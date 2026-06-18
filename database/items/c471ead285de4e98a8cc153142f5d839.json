@@ -1,0 +1,45 @@
+{
+  "id": "c471ead285de4e98a8cc153142f5d839",
+  "title": "FortniteBurger_SparksContent",
+  "description": "FortniteBurger_SparksContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:29:24.417Z",
+  "lastModifiedDate": "2026-06-18T16:29:26.837Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "c471ead285de4e98a8cc153142f5d839",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "076b5ac8d2e44a5cbc2525906fd55e60",
+      "appId": "75862896c02547f78845f148dba5ccb8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

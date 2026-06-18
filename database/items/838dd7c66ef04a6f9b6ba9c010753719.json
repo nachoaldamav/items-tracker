@@ -1,0 +1,45 @@
+{
+  "id": "838dd7c66ef04a6f9b6ba9c010753719",
+  "title": "FortniteRedDailyMainTesting_DelMarContent",
+  "description": "FortniteRedDailyMainTesting_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:26:33.674Z",
+  "lastModifiedDate": "2026-06-18T16:26:37.506Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "838dd7c66ef04a6f9b6ba9c010753719",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "eddf9d15ad9a4b21a09f57a8e55bf228",
+      "appId": "e56a12e522db4ba28b70b5d54d5a0889",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

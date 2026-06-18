@@ -1,0 +1,45 @@
+{
+  "id": "b0fe00ceecd64ba9a6ccc08962d5f5ef",
+  "title": "FortniteVKQA_DelMarContent",
+  "description": "FortniteVKQA_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:27:04.292Z",
+  "lastModifiedDate": "2026-06-18T16:27:08.207Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "b0fe00ceecd64ba9a6ccc08962d5f5ef",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9e0e6432a8dd4206acdd99237e5d53b7",
+      "appId": "176fa66f4f5948448d06dd3c39a66f70",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

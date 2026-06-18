@@ -1,0 +1,45 @@
+{
+  "id": "b5ebbfd7f6984a378e62f80653c34d2f",
+  "title": "FortniteGlyphs_DelMarContent",
+  "description": "FortniteGlyphs_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:32:52.054Z",
+  "lastModifiedDate": "2026-06-18T16:32:55.774Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "b5ebbfd7f6984a378e62f80653c34d2f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5565638466394f629199f6f8827a69c4",
+      "appId": "e39544ff8ccf4ada88c7da57a0b7b8e0",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

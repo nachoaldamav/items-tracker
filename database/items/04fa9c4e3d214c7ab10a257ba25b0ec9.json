@@ -1,0 +1,45 @@
+{
+  "id": "04fa9c4e3d214c7ab10a257ba25b0ec9",
+  "title": "FortniteFlames_DelMarContent",
+  "description": "FortniteFlames_DelMarContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-18T16:24:12.444Z",
+  "lastModifiedDate": "2026-06-18T16:24:16.044Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "04fa9c4e3d214c7ab10a257ba25b0ec9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f1fb59ba71da4f8289432dccba76549f",
+      "appId": "6159f362e1eb4d8d8e5ef2cb02064813",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
