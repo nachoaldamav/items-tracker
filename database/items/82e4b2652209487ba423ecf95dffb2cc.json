@@ -32,13 +32,24 @@
   "namespace": "e89e3cdc1dc34ff8ba4c46db9bf2a38e",
   "status": "ACTIVE",
   "creationDate": "2026-03-06T06:58:45.930Z",
-  "lastModifiedDate": "2026-03-12T03:18:54.709Z",
+  "lastModifiedDate": "2026-06-18T11:33:46.328Z",
+  "customAttributes": {},
   "entitlementName": "82e4b2652209487ba423ecf95dffb2cc",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c068ca2c002d4378a5177ac2786768c9",
+      "appId": "f399de0895ff4230a16f58d6bc10bdea",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
   "developer": "Mintrocket",
   "developerId": "o-wndjys79xsxtbrr2zg53scjkj8jgaq",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
