@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/709d63c472e44d27907dcf23b26f9b0d/genkai-primal-awakening-2abcm.png",
-      "md5": "d6b7066365022bb5fd5ba584dfcd100d",
+      "url": "https://cdn1.epicgames.com/spt-assets/709d63c472e44d27907dcf23b26f9b0d/genkai-primal-awakening-1u56r.png",
+      "md5": "908ae6bc2675344e00c68b0a83f41ab6",
       "width": 2560,
       "height": 1440,
-      "size": 1610002,
-      "uploadedDate": "2023-10-25T14:54:44.217Z",
+      "size": 3430850,
+      "uploadedDate": "2025-07-15T17:46:01.842Z",
       "alt": "Genkai Primal Awakening Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/709d63c472e44d27907dcf23b26f9b0d/genkai-primal-awakening-15cpg.png",
-      "md5": "c980ea84c67f859695062f64e1d27d73",
+      "url": "https://cdn1.epicgames.com/spt-assets/709d63c472e44d27907dcf23b26f9b0d/genkai-primal-awakening-1ap5n.png",
+      "md5": "505f6577307370a06e991133da981624",
       "width": 1200,
       "height": 1600,
-      "size": 811234,
-      "uploadedDate": "2023-10-25T14:54:41.573Z",
+      "size": 2095683,
+      "uploadedDate": "2025-07-15T17:46:04.103Z",
       "alt": "Download Genkai Primal Awakening Offer"
     }
   ],
@@ -34,9 +34,17 @@
   ],
   "namespace": "631264786bda409f919dd1db541825a9",
   "status": "ACTIVE",
-  "creationDate": "2023-10-27T00:40:53.004Z",
-  "lastModifiedDate": "2023-10-27T00:40:53.004Z",
+  "creationDate": "2023-10-23T02:00:59.711Z",
+  "lastModifiedDate": "2026-06-19T19:05:16.278Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/GenkaiPa/Sved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "100"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "GenkaiPrimalAwakening"
@@ -49,7 +57,9 @@
     {
       "id": "c78a2c3c1c1d405aa7089a4d0382d7ee",
       "appId": "c5bfa2a2356b4e09b8975b335fa229fb",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Mega Game Studios",
