@@ -5,23 +5,23 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LauncherThumbnailLandscapeLogoFull_1920x1080_1920x1080-bebbabc284351b777a50cb9d8caceaa7",
-      "md5": "bebbabc284351b777a50cb9d8caceaa7",
+      "url": "https://cdn1.epicgames.com/item/poodle/2022_1920x1080-f6c49e77cca74eba9180b47b8bd1e81d",
+      "md5": "f4fe3f892d69ab2954f469733f3f1a7d",
       "width": 1920,
       "height": 1080,
-      "size": 2271408,
-      "uploadedDate": "2021-08-04T13:34:28.973Z",
-      "alt": "TwinMotion"
+      "size": 2546651,
+      "uploadedDate": "2026-06-22T12:55:02.904Z",
+      "alt": "Twinmotion"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LauncherThumbnailProfileLogoFull_1200x1600_1200x1600-7860c85d5b27b24179f2faf30b4f9efe",
-      "md5": "7860c85d5b27b24179f2faf30b4f9efe",
+      "url": "https://cdn1.epicgames.com/item/poodle/2022_1200x1600-9da96678d29949529f8cb5153eee4d88",
+      "md5": "2f86270250602599a4ad07f0506f47f7",
       "width": 1200,
       "height": 1600,
-      "size": 2250578,
-      "uploadedDate": "2021-08-04T13:34:39.373Z",
-      "alt": "TwinMotion"
+      "size": 2259361,
+      "uploadedDate": "2026-06-22T12:55:11.500Z",
+      "alt": "Twinmotion"
     }
   ],
   "categories": [
@@ -35,7 +35,7 @@
   "namespace": "poodle",
   "status": "ACTIVE",
   "creationDate": "2022-04-12T12:22:33.144Z",
-  "lastModifiedDate": "2022-12-07T13:41:07.828Z",
+  "lastModifiedDate": "2026-06-22T12:55:19.139Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -45,13 +45,13 @@
       "type": "STRING",
       "value": "Twinmotion"
     },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
-    },
     "CanSkipCabinedWarning": {
       "type": "STRING",
       "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
     },
     "egs.library.display_version": {
       "type": "STRING",

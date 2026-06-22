@@ -5,23 +5,23 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LauncherThumbnailLandscapeLogoEDU_1920x1080_1920x1080-cc96d83fb3119e34abb35d366c5a5f12",
-      "md5": "cc96d83fb3119e34abb35d366c5a5f12",
+      "url": "https://cdn1.epicgames.com/item/poodle/2022_1920x1080-37a84612a2734c0fb6accf817ec15cd2",
+      "md5": "473bd05af7ffe1956d67eb4edd7b40cc",
       "width": 1920,
       "height": 1080,
-      "size": 3705280,
-      "uploadedDate": "2021-08-04T13:29:07.221Z",
-      "alt": "TwinMotion"
+      "size": 2541874,
+      "uploadedDate": "2026-06-22T12:54:03.433Z",
+      "alt": "Twinmotion"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LauncherThumbnailProfileLogoEDU_1200x1600_1200x1600-06d7108384e1d5364995b3a4ad1919c2",
-      "md5": "06d7108384e1d5364995b3a4ad1919c2",
+      "url": "https://cdn1.epicgames.com/item/poodle/2022_1200x1600-c458f46444654ed889d6658f63ddb834",
+      "md5": "592afe53082ba2bc9e5ff37dc5ab66d5",
       "width": 1200,
       "height": 1600,
-      "size": 3095688,
-      "uploadedDate": "2021-08-04T13:29:18.235Z",
-      "alt": "TwinMotion"
+      "size": 2255149,
+      "uploadedDate": "2026-06-22T12:54:11.656Z",
+      "alt": "Twinmotion"
     }
   ],
   "categories": [
@@ -35,7 +35,7 @@
   "namespace": "poodle",
   "status": "ACTIVE",
   "creationDate": "2021-10-04T17:16:34.939Z",
-  "lastModifiedDate": "2022-12-07T13:40:48.945Z",
+  "lastModifiedDate": "2026-06-22T12:54:20.800Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -45,13 +45,13 @@
       "type": "STRING",
       "value": "Twinmotion"
     },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
-    },
     "CanSkipCabinedWarning": {
       "type": "STRING",
       "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
     },
     "egs.library.display_version": {
       "type": "STRING",

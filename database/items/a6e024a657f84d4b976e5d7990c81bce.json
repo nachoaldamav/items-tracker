@@ -5,23 +5,23 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LauncherThumbnailLandscapeLogoTRIAL_1920x1080_1920x1080-b00e03f3393ac9cda093d8baf479ea43",
-      "md5": "b00e03f3393ac9cda093d8baf479ea43",
+      "url": "https://cdn1.epicgames.com/item/poodle/2020_1920x1080-3818986a235b470e881b3aa787aceecc",
+      "md5": "5e7d51e6850f96a26fe364b1698de01d",
       "width": 1920,
       "height": 1080,
-      "size": 3007594,
-      "uploadedDate": "2021-08-04T14:28:27.639Z",
-      "alt": "TwinMotion"
+      "size": 2542314,
+      "uploadedDate": "2026-06-22T12:40:26.651Z",
+      "alt": "Twinmotion"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LauncherThumbnailProfileLogoTRIAL_1200x1600_1200x1600-49d8f47ae6e85b96360d6064909dab9d",
-      "md5": "49d8f47ae6e85b96360d6064909dab9d",
+      "url": "https://cdn1.epicgames.com/item/poodle/2020_1200x1600-10cea32a1f5d4a71a034f45a6c064ffa",
+      "md5": "552db871ed33816b1ec3101a3aeb43df",
       "width": 1200,
       "height": 1600,
-      "size": 2476069,
-      "uploadedDate": "2021-08-04T14:28:34.468Z",
-      "alt": "TwinMotion"
+      "size": 2254732,
+      "uploadedDate": "2026-06-22T12:40:35.040Z",
+      "alt": "Twinmotion"
     }
   ],
   "categories": [
@@ -32,7 +32,7 @@
   "namespace": "poodle",
   "status": "ACTIVE",
   "creationDate": "2020-01-14T09:01:36.433Z",
-  "lastModifiedDate": "2022-12-07T13:52:30.968Z",
+  "lastModifiedDate": "2026-06-22T12:40:43.268Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -42,13 +42,13 @@
       "type": "STRING",
       "value": "Twinmotion"
     },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
-    },
     "CanSkipCabinedWarning": {
       "type": "STRING",
       "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
     },
     "egs.library.display_version": {
       "type": "STRING",
