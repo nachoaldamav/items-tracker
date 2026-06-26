@@ -1,0 +1,49 @@
+{
+  "id": "b619cf61a4144d67bd753dc990637e7c",
+  "title": "Fortnite_JunoContent",
+  "description": "Fortnite_JunoContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-06-25T16:00:14.556Z",
+  "lastModifiedDate": "2026-06-25T18:46:29.244Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "AdditionalCommandLine": {
+      "type": "STRING",
+      "value": "-epicapp=Fortnite -IslandOverride=playlist_juno"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "b619cf61a4144d67bd753dc990637e7c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4012922aa23c4026a3a6ac0c5bce4ccd",
+      "appId": "94bc5ec13f8f438c97fdbef3e9019e27",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
