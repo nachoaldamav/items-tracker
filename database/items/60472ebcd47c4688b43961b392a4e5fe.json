@@ -4,15 +4,6 @@
   "description": "Poly Bridge 2",
   "keyImages": [
     {
-      "type": "DieselGameBoxWide",
-      "url": "https://cdn1.epicgames.com/9b31326adff64c7fa7bbac6e8d4a9e6e/item/EGS_PolyBridge2_DryCactus_S1-2560x1440-b57527fe6ae45ce43eba64848b097b84-2560x1440-b57527fe6ae45ce43eba64848b097b84.jpg",
-      "md5": "b57527fe6ae45ce43eba64848b097b84",
-      "width": 2560,
-      "height": 1440,
-      "size": 945768,
-      "uploadedDate": "2020-05-27T16:58:01.967Z"
-    },
-    {
       "type": "DieselGameBox",
       "url": "https://cdn1.epicgames.com/9b31326adff64c7fa7bbac6e8d4a9e6e/item/EGS_PolyBridge2_DryCactus_S1-2560x1440-b57527fe6ae45ce43eba64848b097b84-2560x1440-b57527fe6ae45ce43eba64848b097b84-2560x1440-b57527fe6ae45ce43eba64848b097b84.jpg",
       "md5": "b57527fe6ae45ce43eba64848b097b84",
@@ -44,8 +35,8 @@
   ],
   "namespace": "9b31326adff64c7fa7bbac6e8d4a9e6e",
   "status": "ACTIVE",
-  "creationDate": "2020-04-23T19:03:05.840Z",
-  "lastModifiedDate": "2020-08-17T21:29:51.183Z",
+  "creationDate": "2026-06-20T12:38:59.709Z",
+  "lastModifiedDate": "2026-06-29T20:58:56.685Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -97,13 +88,13 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "909906c0c964452da93b14138bcbfdc3",
+      "id": "49d31bd25d2548fda416edb73df746a3",
       "appId": "03e51fc525b24b2ea873ac13c16b9ed7",
       "platform": [
-        "Windows",
-        "Mac"
-      ],
-      "dateAdded": "2020-04-23T00:00:00.000Z"
+        "Mac",
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "Dry Cactus",
