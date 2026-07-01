@@ -35,8 +35,8 @@
   ],
   "namespace": "9b31326adff64c7fa7bbac6e8d4a9e6e",
   "status": "ACTIVE",
-  "creationDate": "2026-06-20T12:38:59.709Z",
-  "lastModifiedDate": "2026-06-29T20:58:56.685Z",
+  "creationDate": "2020-04-23T19:03:05.840Z",
+  "lastModifiedDate": "2026-06-30T18:02:32.294Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -91,9 +91,9 @@
       "id": "49d31bd25d2548fda416edb73df746a3",
       "appId": "03e51fc525b24b2ea873ac13c16b9ed7",
       "platform": [
-        "Mac",
         "Win32",
-        "Windows"
+        "Windows",
+        "Mac"
       ]
     }
   ],
