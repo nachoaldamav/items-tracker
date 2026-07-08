@@ -1,7 +1,7 @@
 {
-  "id": "543284ed36b746099afd292d55a0cc63",
+  "id": "300067ac7028475ea64fd6b5ed4edb9d",
   "title": "Foretales",
-  "description": "Decide the fate of the world in this ingenious story-driven card game.\n\nForetales offers a unique take on the adventure genre, with a multitude of playstyles and story paths through which you can save the world… or bring about its end.",
+  "description": "Foretales",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -34,23 +34,23 @@
   ],
   "namespace": "c5730ad3d7004a65a472a7699b88008a",
   "status": "ACTIVE",
-  "creationDate": "2021-11-17T13:07:35.902Z",
-  "lastModifiedDate": "2026-07-06T09:17:22.088Z",
+  "creationDate": "2026-07-06T09:17:22.132Z",
+  "lastModifiedDate": "2026-07-06T09:17:22.132Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "Foretales"
+      "value": "Foretales7c12d"
     }
   },
-  "entitlementName": "543284ed36b746099afd292d55a0cc63",
+  "entitlementName": "300067ac7028475ea64fd6b5ed4edb9d",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "986a10178ad845328faee4fb64ecf48f",
-      "appId": "4256d7c7170f4326a1a861d0b30f1af7",
+      "id": "816bb038-a45d-47fc-b326-980899d365c6",
+      "appId": "af0525255b8947a3a5fed0b877251ee4",
       "platform": [
-        "Windows"
+        "Android"
       ]
     }
   ],
