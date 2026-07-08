@@ -1,0 +1,38 @@
+{
+  "id": "b5d4f2bedbeb4af39be2bfa7d579c43a",
+  "title": "BowfinDLCAudience",
+  "description": "BowfinDLCAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "25e53de2e4ab4da8aa589d881273a11c",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-18T02:42:58.894Z",
+  "lastModifiedDate": "2026-07-06T16:57:56.233Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b5d4f2bedbeb4af39be2bfa7d579c43a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Microsoft",
+  "developerId": "o-f3qq8ygts6pglxx529jhgx5bmyj6bf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
