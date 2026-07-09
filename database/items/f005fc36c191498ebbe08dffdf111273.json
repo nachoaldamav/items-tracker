@@ -35,7 +35,7 @@
   "namespace": "ba61f233b6214140b0257841fd640c94",
   "status": "ACTIVE",
   "creationDate": "2024-07-04T08:54:18.073Z",
-  "lastModifiedDate": "2026-03-24T17:53:36.402Z",
+  "lastModifiedDate": "2026-07-09T13:04:55.421Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,13 +49,16 @@
     {
       "id": "2f4efa7a58844b0fb51e87210021031b",
       "appId": "ca51d0c92b6c4e4e8ca991b3ee201d64",
-      "platform": []
+      "platform": [
+        "Win32",
+        "Windows"
+      ]
     }
   ],
   "developer": "New Tales",
   "developerId": "o-wphpxhw5hpsjghdpg2dxgvjq8jggtg",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi45675XPv7b80fgPc0Ugf2m1v30P3",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
