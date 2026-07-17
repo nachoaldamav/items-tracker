@@ -35,7 +35,7 @@
   "namespace": "258dc1d23f1b499eb8743b30f099b909",
   "status": "ACTIVE",
   "creationDate": "2025-01-02T18:31:45.046Z",
-  "lastModifiedDate": "2026-06-07T08:06:29.236Z",
+  "lastModifiedDate": "2026-07-16T22:36:53.062Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "798e3d958a9e49599e217d5eb130bd9c",
       "appId": "5d360e6d889a4d17b33e04456994f9aa",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Nionetix",
