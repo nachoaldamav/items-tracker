@@ -1,27 +1,27 @@
 {
   "id": "5a32e6b91d4649829d259d0d00ff4481",
-  "title": "Amiko Legends",
-  "description": "Amiko Legends",
+  "title": "Amiko Arena",
+  "description": "Amiko Arena",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/880bd1d2d51d46c298a9d1b06fc6697c/amiko-legends-12137.jpg",
-      "md5": "82513f8731690f285eafc125b50a938c",
+      "url": "https://cdn1.epicgames.com/spt-assets/880bd1d2d51d46c298a9d1b06fc6697c/amiko-arena-meckg.jpg",
+      "md5": "86e72fdd68f6944fcd37c6af9ad03159",
       "width": 2560,
       "height": 1440,
-      "size": 725553,
-      "uploadedDate": "2025-10-31T19:01:39.596Z",
-      "alt": "Amiko Legends Offer"
+      "size": 2964560,
+      "uploadedDate": "2026-07-15T19:16:20.221Z",
+      "alt": "Amiko Arena Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/880bd1d2d51d46c298a9d1b06fc6697c/amiko-legends-1rjhp.png",
-      "md5": "fc3350a14443e17a0b8b7f53216d3294",
+      "url": "https://cdn1.epicgames.com/spt-assets/880bd1d2d51d46c298a9d1b06fc6697c/amiko-arena-awhv2.jpg",
+      "md5": "9a1b2c5db47548f9013c4f3e1dfa1856",
       "width": 1200,
       "height": 1600,
-      "size": 1699702,
-      "uploadedDate": "2025-11-03T14:01:42.779Z",
-      "alt": "Download Amiko Legends Offer"
+      "size": 1319593,
+      "uploadedDate": "2026-07-15T19:16:29.908Z",
+      "alt": "Download Amiko Arena Offer"
     }
   ],
   "categories": [
@@ -35,11 +35,11 @@
   "namespace": "c3859bc4671c4f7ca0df5dbd1d65ae82",
   "status": "ACTIVE",
   "creationDate": "2023-03-13T18:34:07.539Z",
-  "lastModifiedDate": "2026-02-24T17:02:12.958Z",
+  "lastModifiedDate": "2026-07-21T14:27:00.994Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "Amiko"
+      "value": "Amiko_Arena"
     }
   },
   "entitlementName": "5a32e6b91d4649829d259d0d00ff4481",
@@ -50,8 +50,7 @@
       "id": "f8420a26d7a149ba82bbf0eb28b3b1af",
       "appId": "7432e283a1c241fcabbea4d2b53e6c09",
       "platform": [
-        "Windows",
-        "Mac"
+        "Windows"
       ]
     }
   ],
