@@ -1,0 +1,45 @@
+{
+  "id": "f28c49dc02a946fa995686498a31e60e",
+  "title": "FortniteMedusa_ModularContent",
+  "description": "FortniteMedusa_ModularContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-07-24T10:32:07.820Z",
+  "lastModifiedDate": "2026-07-24T10:32:10.040Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "f28c49dc02a946fa995686498a31e60e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "74805ab620bd49cb8f48afd83896acd8",
+      "appId": "36c381c981454eb9a43a5a721ecb07e7",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

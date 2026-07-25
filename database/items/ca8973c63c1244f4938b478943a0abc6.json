@@ -1,0 +1,45 @@
+{
+  "id": "ca8973c63c1244f4938b478943a0abc6",
+  "title": "FortniteGrillin_ModularContent",
+  "description": "FortniteGrillin_ModularContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-07-24T10:30:20.880Z",
+  "lastModifiedDate": "2026-07-24T10:30:23.212Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "ca8973c63c1244f4938b478943a0abc6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b16f268d5d9a452b92e9366997fec999",
+      "appId": "04d8e109907743d0b3d9cf68094170fb",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
