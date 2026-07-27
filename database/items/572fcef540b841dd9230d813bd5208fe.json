@@ -35,7 +35,7 @@
   "namespace": "ceb703de37854cda9932d2f9dd531520",
   "status": "ACTIVE",
   "creationDate": "2025-03-21T07:56:27.429Z",
-  "lastModifiedDate": "2026-06-12T06:25:48.751Z",
+  "lastModifiedDate": "2026-07-27T20:24:56.759Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
@@ -82,6 +82,7 @@
       "id": "43e759d9bd93437cbd1f94c69f2edb38",
       "appId": "58c7aa4f48be44f3b40f5f78f62c84b7",
       "platform": [
+        "Win32",
         "Windows"
       ]
     }
