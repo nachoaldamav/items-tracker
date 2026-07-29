@@ -32,7 +32,7 @@
   "namespace": "da1c2c6e190147019e4188f24687a17c",
   "status": "ACTIVE",
   "creationDate": "2025-04-17T19:06:43.871Z",
-  "lastModifiedDate": "2026-03-25T23:58:55.958Z",
+  "lastModifiedDate": "2026-07-28T23:57:42.614Z",
   "customAttributes": {},
   "entitlementName": "b643461c43ce457690435b80f1185bee",
   "entitlementType": "EXECUTABLE",
@@ -41,7 +41,9 @@
     {
       "id": "99359d7e9e084465bd5f5c2616d4abd5",
       "appId": "22d7d9257f3443a0b09ee065093a2c4d",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Sega of America",
