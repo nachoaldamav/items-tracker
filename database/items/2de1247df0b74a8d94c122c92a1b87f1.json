@@ -35,7 +35,7 @@
   "namespace": "54b09665aae3482c8614a8e7ee561faa",
   "status": "ACTIVE",
   "creationDate": "2025-04-22T15:27:35.555Z",
-  "lastModifiedDate": "2026-07-13T18:55:34.911Z",
+  "lastModifiedDate": "2026-07-31T08:03:38.885Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -50,14 +50,15 @@
       "id": "304486fc14f94bf8ad6489ac5e907e9d",
       "appId": "fcbeaf7bccb24dd4908897b9462ac078",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ]
     }
   ],
   "developer": "Paradox Interactive",
   "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567idBkmf9G0LTZbSfhzcR1dnrs",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
