@@ -1,8 +1,36 @@
 {
   "id": "b619cf61a4144d67bd753dc990637e7c",
-  "title": "LEGO® Fortnite: Odyssey",
-  "description": "LEGO® Fortnite: Odyssey",
-  "keyImages": [],
+  "title": "LEGO® Fortnite Content",
+  "description": "LEGO® Fortnite Content",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/fn/FNJN_33-10_StormKing_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-2fb11130402d4e9f9decddf08f55f519",
+      "md5": "30454be6898cbfab719b0e7485edaec7",
+      "width": 1200,
+      "height": 1600,
+      "size": 476293,
+      "uploadedDate": "2026-08-10T18:29:38.419Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/fn/FNJN_33-10_StormKing_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-2fb11130402d4e9f9decddf08f55f519",
+      "md5": "30454be6898cbfab719b0e7485edaec7",
+      "width": 1200,
+      "height": 1600,
+      "size": 476293,
+      "uploadedDate": "2026-08-10T18:29:42.256Z"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/fn/FNJN_33-10_StormKing_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-5c815fc58e8646e399cd6adb8bea6cd6",
+      "md5": "5765937c30aebb962ae81a6431f819f5",
+      "width": 2560,
+      "height": 1440,
+      "size": 896414,
+      "uploadedDate": "2026-08-10T18:29:47.136Z"
+    }
+  ],
   "categories": [
     {
       "path": "hidden"
@@ -11,7 +39,7 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2026-06-25T16:00:14.556Z",
-  "lastModifiedDate": "2026-08-06T21:33:13.845Z",
+  "lastModifiedDate": "2026-08-10T18:30:37.075Z",
   "customAttributes": {
     "remove_for_account_deprovision": {
       "type": "STRING",
