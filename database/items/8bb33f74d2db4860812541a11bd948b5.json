@@ -1,7 +1,7 @@
 {
-  "id": "15c6cc9b41e242859e028b1850a649fd",
-  "title": "ConsumableAudience",
-  "description": "ConsumableAudience",
+  "id": "8bb33f74d2db4860812541a11bd948b5",
+  "title": "Survivor Pass: Summer Getaway_SeasonPassAudience",
+  "description": "Survivor Pass: Summer Getaway_SeasonPassAudience",
   "categories": [
     {
       "path": "audience"
@@ -12,14 +12,13 @@
   ],
   "namespace": "eb99ee4694474e8da0b05a8ab391825c",
   "status": "ACTIVE",
-  "creationDate": "2022-07-29T10:12:35.245Z",
-  "lastModifiedDate": "2026-08-12T00:00:26.933Z",
-  "entitlementName": "15c6cc9b41e242859e028b1850a649fd",
+  "creationDate": "2026-08-12T00:00:26.986Z",
+  "lastModifiedDate": "2026-08-12T00:00:26.986Z",
+  "entitlementName": "8bb33f74d2db4860812541a11bd948b5",
   "entitlementType": "AUDIENCE",
-  "itemType": "CONSUMABLE",
+  "itemType": "DURABLE",
   "developer": "KRAFTON, Inc.",
   "developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
-  "useCount": 1,
   "endOfSupport": false,
   "requiresSecureAccount": false,
   "unsearchable": false
