@@ -35,8 +35,8 @@
   ],
   "namespace": "2bfd5ca43ef443739ada168e017e1b78",
   "status": "ACTIVE",
-  "creationDate": "2019-06-14T18:16:03.697Z",
-  "lastModifiedDate": "2026-07-14T11:43:46.905Z",
+  "creationDate": "2026-08-18T09:20:18.748Z",
+  "lastModifiedDate": "2026-08-19T16:13:56.862Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -72,12 +72,12 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "734a02f19f854087af65c9c4985b2553",
+      "id": "fb901cefe61549eb84d8ecfcc7b3f352",
       "appId": "Duck",
       "platform": [
+        "Win32",
         "Windows"
-      ],
-      "dateAdded": "2019-06-14T00:00:00.000Z"
+      ]
     }
   ],
   "developer": "Gambrinous",
