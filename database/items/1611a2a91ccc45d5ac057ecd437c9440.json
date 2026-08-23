@@ -1,7 +1,7 @@
 {
   "id": "1611a2a91ccc45d5ac057ecd437c9440",
   "title": "FIRE AND ASHES",
-  "description": "FIRE AND ASHES",
+  "description": "You wake up in a terrifying psychiatric hospital. Fire and Ashes is an immersive horror game where madness and reality blur, and every monster hears your scream… even beyond the hospital walls.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -15,12 +15,12 @@
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/50736607d8a545789d9e8e776107f018/fire-and-ashes-1t1rq.jpg",
-      "md5": "7e3518ee7cabb0e32cd1c94e040f5162",
+      "url": "https://cdn1.epicgames.com/spt-assets/50736607d8a545789d9e8e776107f018/fire-and-ashes-17uaq.jpg",
+      "md5": "573228a4aec725ab65e63e5866d86128",
       "width": 1200,
       "height": 1600,
-      "size": 826088,
-      "uploadedDate": "2026-05-31T16:04:40.834Z",
+      "size": 964651,
+      "uploadedDate": "2026-08-21T16:27:58.639Z",
       "alt": "Download FIRE AND ASHES Offer"
     }
   ],
@@ -35,11 +35,11 @@
   "namespace": "15979667b25e49df99a78fda24701047",
   "status": "ACTIVE",
   "creationDate": "2024-06-19T15:39:53.918Z",
-  "lastModifiedDate": "2026-06-01T05:45:39.084Z",
+  "lastModifiedDate": "2026-08-22T12:37:51.897Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "FIREANDASHES"
+      "value": "FIRE_AND_ASHES"
     }
   },
   "entitlementName": "1611a2a91ccc45d5ac057ecd437c9440",
@@ -49,13 +49,15 @@
     {
       "id": "996fbfd731014d5d8f1b4fa93a119599",
       "appId": "f4f01992c9a74cc89782de0da3b2ba53",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "ASDstudio",
   "developerId": "o-qdxtfa4dj6tsmyetmrcvhdv8krx7gx",
   "endOfSupport": false,
-  "applicationId": "",
+  "applicationId": "fghi4567ggGck0L3ZYQDhQiB12mpJTDZ",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
