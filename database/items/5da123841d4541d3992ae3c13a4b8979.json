@@ -31,8 +31,8 @@
   ],
   "namespace": "3d36ad7fbc724e97808d0aedd98213ef",
   "status": "ACTIVE",
-  "creationDate": "2026-07-30T11:55:13.641Z",
-  "lastModifiedDate": "2026-07-30T11:55:13.641Z",
+  "creationDate": "2026-06-30T12:45:02.731Z",
+  "lastModifiedDate": "2026-08-26T13:27:04.642Z",
   "customAttributes": {},
   "entitlementName": "5da123841d4541d3992ae3c13a4b8979",
   "entitlementType": "EXECUTABLE",
@@ -41,7 +41,9 @@
     {
       "id": "7fa0ac72173e42ddb42f43b4cffab36c",
       "appId": "7db4c9c45f1f4974804af014ba46dab4",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "GIANTS Software GmbH",
