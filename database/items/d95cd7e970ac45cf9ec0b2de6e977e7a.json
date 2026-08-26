@@ -1,0 +1,49 @@
+{
+  "id": "d95cd7e970ac45cf9ec0b2de6e977e7a",
+  "title": "FortniteRaven_JunoContent",
+  "description": "FortniteRaven_JunoContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-08-25T16:34:25.908Z",
+  "lastModifiedDate": "2026-08-25T16:34:29.741Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "AdditionalCommandLine": {
+      "type": "STRING",
+      "value": "-epicapp=FortniteRaven -IslandOverride=playlist_juno"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "d95cd7e970ac45cf9ec0b2de6e977e7a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "96cd7e0a3fab4f2fa5bc0d5b14bfe8c1",
+      "appId": "26b4d16e6f8c4a159056fc5b08eb56f7",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

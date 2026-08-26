@@ -1,0 +1,49 @@
+{
+  "id": "28d0ec37acab443182f22d716efef935",
+  "title": "FortniteReaper_JunoContent",
+  "description": "FortniteReaper_JunoContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-08-25T16:34:30.821Z",
+  "lastModifiedDate": "2026-08-25T16:34:34.646Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "AdditionalCommandLine": {
+      "type": "STRING",
+      "value": "-epicapp=FortniteReaper -IslandOverride=playlist_juno"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "28d0ec37acab443182f22d716efef935",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5737eeb827244f33bb3985e19d12f9f8",
+      "appId": "a81ebbdb7bbf42b98f6a9d2f6123c714",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

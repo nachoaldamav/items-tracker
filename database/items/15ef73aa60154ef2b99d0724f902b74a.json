@@ -1,0 +1,49 @@
+{
+  "id": "15ef73aa60154ef2b99d0724f902b74a",
+  "title": "FortniteRanger_JunoContent",
+  "description": "FortniteRanger_JunoContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-08-25T16:34:15.996Z",
+  "lastModifiedDate": "2026-08-25T16:34:19.904Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "AdditionalCommandLine": {
+      "type": "STRING",
+      "value": "-epicapp=FortniteRanger -IslandOverride=playlist_juno"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "15ef73aa60154ef2b99d0724f902b74a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a55da071fb0f4ab18a30f45f1a58bb28",
+      "appId": "f16e5062868f4dc3a309d0709acd5cf8",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

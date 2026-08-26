@@ -1,0 +1,55 @@
+{
+  "id": "e38f461e6b2e4395b562bc185eed8b3b",
+  "title": "FortniteGrillin_StWContent",
+  "description": "FortniteGrillin_StWContent",
+  "categories": [
+    {
+      "path": "addons/launchable"
+    },
+    {
+      "path": "addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-08-25T16:33:34.080Z",
+  "lastModifiedDate": "2026-08-25T16:33:36.713Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "AdditionalCommandLine": {
+      "type": "STRING",
+      "value": "-epicapp=FortniteGrillin -IslandOverride=campaign"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "e38f461e6b2e4395b562bc185eed8b3b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "09fa10c3852b4f61a1f5d4287077aa03",
+      "appId": "db8bd832f96247dfb51c3c03001ffaca",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

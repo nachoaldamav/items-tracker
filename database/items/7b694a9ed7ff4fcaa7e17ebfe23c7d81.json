@@ -1,0 +1,49 @@
+{
+  "id": "7b694a9ed7ff4fcaa7e17ebfe23c7d81",
+  "title": "FortniteRainbow_JunoContent",
+  "description": "FortniteRainbow_JunoContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-08-25T16:34:10.798Z",
+  "lastModifiedDate": "2026-08-25T16:34:14.653Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "AdditionalCommandLine": {
+      "type": "STRING",
+      "value": "-epicapp=FortniteRainbow -IslandOverride=playlist_juno"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "7b694a9ed7ff4fcaa7e17ebfe23c7d81",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "faebbc8d705142a499dde6c6df4bf15a",
+      "appId": "59dc683db9d44ff0a21f003baf2f2908",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
