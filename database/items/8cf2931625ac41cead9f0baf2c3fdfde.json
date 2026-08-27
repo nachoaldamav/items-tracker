@@ -36,11 +36,11 @@
   "namespace": "bc2b0372eaa448469cb9a769f27acea1",
   "status": "ACTIVE",
   "creationDate": "2020-04-16T20:33:06.704Z",
-  "lastModifiedDate": "2021-01-21T15:58:08.405Z",
+  "lastModifiedDate": "2026-08-27T10:19:51.126Z",
   "customAttributes": {
     "UseAccessControl": {
       "type": "STRING",
-      "value": "true"
+      "value": "false"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -115,5 +115,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
