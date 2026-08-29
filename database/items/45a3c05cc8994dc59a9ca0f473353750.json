@@ -31,8 +31,8 @@
   ],
   "namespace": "a4e77bc04aa440a096962c14b63a41e8",
   "status": "ACTIVE",
-  "creationDate": "2026-06-25T13:20:09.301Z",
-  "lastModifiedDate": "2026-06-25T13:20:09.301Z",
+  "creationDate": "2026-06-04T14:01:11.557Z",
+  "lastModifiedDate": "2026-08-28T13:00:13.748Z",
   "customAttributes": {},
   "entitlementName": "45a3c05cc8994dc59a9ca0f473353750",
   "entitlementType": "EXECUTABLE",
@@ -41,7 +41,10 @@
     {
       "id": "edb64cac67184608891badcc1dc2d535",
       "appId": "a15c6d3fcb26472eac2c8cccd1379f98",
-      "platform": []
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
     }
   ],
   "developer": "Poncle Limited",
