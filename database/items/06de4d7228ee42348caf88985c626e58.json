@@ -2,6 +2,7 @@
   "id": "06de4d7228ee42348caf88985c626e58",
   "title": "DevGeneralAudience",
   "description": "DevGeneralAudience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -13,14 +14,18 @@
   "namespace": "678afb6b7fea4643a800b5e1783347b7",
   "status": "ACTIVE",
   "creationDate": "2023-04-27T11:35:07.670Z",
-  "lastModifiedDate": "2026-01-22T11:18:26.459Z",
+  "lastModifiedDate": "2026-08-27T13:09:29.697Z",
+  "customAttributes": {},
   "entitlementName": "06de4d7228ee42348caf88985c626e58",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],
   "developer": "RockGame S.A.",
   "developerId": "o-e6zbx28e9zzbxg5jvzh37a3p5j8kam",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
