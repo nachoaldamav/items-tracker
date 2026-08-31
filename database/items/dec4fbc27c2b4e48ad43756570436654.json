@@ -31,14 +31,25 @@
   ],
   "namespace": "5c59642227a2412fb38f324d1772914e",
   "status": "ACTIVE",
-  "creationDate": "2026-04-08T09:50:04.674Z",
-  "lastModifiedDate": "2026-04-08T09:50:04.674Z",
+  "creationDate": "2026-02-16T14:48:05.583Z",
+  "lastModifiedDate": "2026-08-26T13:05:31.686Z",
+  "customAttributes": {},
   "entitlementName": "dec4fbc27c2b4e48ad43756570436654",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b5e1beb4a8c3420cbf99631061245e0f",
+      "appId": "08a5d3ed285c4a388df673bd738d78e6",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
   "developer": "Postmeta Games",
   "developerId": "o-ptrc3tlq66gg7gsku56pwafjwzs23b",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
