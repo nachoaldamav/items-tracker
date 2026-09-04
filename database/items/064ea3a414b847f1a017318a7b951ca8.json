@@ -33,9 +33,21 @@
   "namespace": "impala",
   "status": "ACTIVE",
   "creationDate": "2020-04-07T18:05:29.291Z",
-  "lastModifiedDate": "2024-04-30T20:35:14.913Z",
+  "lastModifiedDate": "2026-09-01T13:42:35.139Z",
   "customAttributes": {
-    "UseAccessControl": {
+    "PresenceID": {
+      "type": "STRING",
+      "value": "impala"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\4932"
+    },
+    "isUplay": {
       "type": "STRING",
       "value": "true"
     },
@@ -47,41 +59,25 @@
       "type": "STRING",
       "value": "a00251d163e847009562bb58f751647a"
     },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "TheDivision2Demo"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "InstallDir"
     },
     "ThirdPartyManagedProvider": {
       "type": "STRING",
       "value": "UbisoftConnect"
     },
-    "PresenceID": {
-      "type": "STRING",
-      "value": "impala"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "isUplay": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "RegistryPath": {
-      "type": "STRING",
-      "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\4932"
-    },
-    "partnerLinkType": {
-      "type": "STRING",
-      "value": "ubisoft"
-    },
     "neverUpdate": {
       "type": "STRING",
       "value": "true"
-    },
-    "RegistryKey": {
-      "type": "STRING",
-      "value": "InstallDir"
     },
     "GameID": {
       "type": "STRING",
