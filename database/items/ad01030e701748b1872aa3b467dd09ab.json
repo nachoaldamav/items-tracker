@@ -35,7 +35,7 @@
   "namespace": "74d48dd68be249aab319a2f9bca2dc0e",
   "status": "ACTIVE",
   "creationDate": "2023-12-18T10:26:12.059Z",
-  "lastModifiedDate": "2026-06-02T07:27:26.706Z",
+  "lastModifiedDate": "2026-09-11T07:41:25.631Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "446f7d1e75d9460d861bf9125a7e9919",
       "appId": "5ebdc1027f0943aebfd040147f99b52d",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Anshar Publishing",
