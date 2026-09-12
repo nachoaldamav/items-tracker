@@ -35,11 +35,15 @@
   "namespace": "b38a9b64eb734e9db6dcae0f3fb74e42",
   "status": "ACTIVE",
   "creationDate": "2025-04-02T19:21:42.885Z",
-  "lastModifiedDate": "2025-06-10T14:03:30.541Z",
+  "lastModifiedDate": "2026-09-07T20:00:36.749Z",
   "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/saves/"
+    },
     "FolderName": {
       "type": "STRING",
-      "value": "DepthDwellers1994t9MJP"
+      "value": "DepthDwellers"
     }
   },
   "entitlementName": "1224d2db6b9f4b6d93b693e692b80c56",
@@ -57,6 +61,7 @@
   "developer": "TriSoft Legacy",
   "developerId": "o-jbykzt4yhsj86wxzju6yqju66dnyya",
   "endOfSupport": false,
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
