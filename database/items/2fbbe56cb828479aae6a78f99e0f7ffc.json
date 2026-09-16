@@ -35,11 +35,15 @@
   "namespace": "151ce8ede0d148f2bf2b868f1c25fac0",
   "status": "ACTIVE",
   "creationDate": "2023-01-24T11:17:06.377Z",
-  "lastModifiedDate": "2026-08-20T13:00:04.786Z",
+  "lastModifiedDate": "2026-09-15T07:00:03.921Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{AppData}/../LocalLow/Balancing Monkey Games/Beyond These Stars\\Saves/"
+      "value": "{AppData}/../LocalLow/Balancing Monkey Games/Beyond These Stars/Saves/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "5000"
     },
     "FolderName": {
       "type": "STRING",
