@@ -2,6 +2,7 @@
   "id": "28d0ec37acab443182f22d716efef935",
   "title": "FortniteReaper_JunoContent",
   "description": "FortniteReaper_JunoContent",
+  "keyImages": [],
   "categories": [
     {
       "path": "applications"
@@ -10,7 +11,7 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2026-08-25T16:34:30.821Z",
-  "lastModifiedDate": "2026-08-25T16:34:34.646Z",
+  "lastModifiedDate": "2026-09-15T19:40:36.720Z",
   "customAttributes": {
     "remove_for_account_deprovision": {
       "type": "STRING",
@@ -43,7 +44,10 @@
   ],
   "developer": "Epic Games",
   "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
