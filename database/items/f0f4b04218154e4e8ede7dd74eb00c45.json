@@ -1,0 +1,34 @@
+{
+  "id": "f0f4b04218154e4e8ede7dd74eb00c45",
+  "title": "DLC11 audience",
+  "description": "DLC11 audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "61375e6a52534a1aa2d8ba6d46f9ee64",
+  "status": "ACTIVE",
+  "creationDate": "2026-09-01T03:04:00.494Z",
+  "lastModifiedDate": "2026-10-01T15:46:26.659Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f0f4b04218154e4e8ede7dd74eb00c45",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

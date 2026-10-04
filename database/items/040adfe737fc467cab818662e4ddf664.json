@@ -1,0 +1,34 @@
+{
+  "id": "040adfe737fc467cab818662e4ddf664",
+  "title": "Spooks Magook audience",
+  "description": "Spooks Magook audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "61375e6a52534a1aa2d8ba6d46f9ee64",
+  "status": "ACTIVE",
+  "creationDate": "2026-09-01T03:01:52.017Z",
+  "lastModifiedDate": "2026-10-01T15:46:26.702Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "040adfe737fc467cab818662e4ddf664",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
