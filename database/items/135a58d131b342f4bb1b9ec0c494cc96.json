@@ -4,22 +4,22 @@
   "description": "Discord",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-discord-discord-s2-1200x1600-b72c609ef567_1200x1600-7e960066e153510e27bdded06d99ff5e",
-      "md5": "7e960066e153510e27bdded06d99ff5e",
-      "width": 1200,
-      "height": 1600,
-      "size": 87602,
-      "uploadedDate": "2021-05-19T01:26:37.014Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-discord-discord-s1-2560x1440-834f227d1383_2560x1440-53f5d8dfeecbcb54b5ef5cc2acd8f21f",
-      "md5": "53f5d8dfeecbcb54b5ef5cc2acd8f21f",
+      "url": "https://cdn1.epicgames.com/item/5f3c898b2a3244af99e9900e015717f8/EGS_Discord_Discord_S1_2560x1440-a1a8b52a4b2541dbaeec0b635668361c",
+      "md5": "f948311e745ccd017ea33c3ba3b163d6",
       "width": 2560,
       "height": 1440,
-      "size": 138972,
-      "uploadedDate": "2021-05-19T01:26:45.669Z"
+      "size": 511830,
+      "uploadedDate": "2026-10-06T15:13:05.163Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/5f3c898b2a3244af99e9900e015717f8/EGS_Discord_Discord_S2_1200x1600-3ebfd8689bb44f8e90923d81e5c207da",
+      "md5": "d04ffa20e9755c3ebef02ca858166444",
+      "width": 1200,
+      "height": 1600,
+      "size": 335717,
+      "uploadedDate": "2026-10-06T15:13:10.961Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "5f3c898b2a3244af99e9900e015717f8",
   "status": "ACTIVE",
   "creationDate": "2021-02-16T00:27:23.190Z",
-  "lastModifiedDate": "2026-06-02T19:41:06.985Z",
+  "lastModifiedDate": "2026-10-06T15:15:00.031Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
