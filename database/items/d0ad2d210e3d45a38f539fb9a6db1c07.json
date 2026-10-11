@@ -1,0 +1,61 @@
+{
+  "id": "d0ad2d210e3d45a38f539fb9a6db1c07",
+  "title": "HumanResourceMachine",
+  "description": "HumanResourceMachine",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/basil/EGS_HumanResourceMachine_TomorrowCorporation_S1_2560x1440-ea1281073444d2f46978ebe18b69f54a",
+      "md5": "ea1281073444d2f46978ebe18b69f54a",
+      "width": 2560,
+      "height": 1440,
+      "size": 962828,
+      "uploadedDate": "2022-11-01T18:22:36.922Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/basil/EGS_HumanResourceMachine_TomorrowCorporation_S2_1200x1600-cc77f5a73a9488836ae8fa580f09454c",
+      "md5": "cc77f5a73a9488836ae8fa580f09454c",
+      "width": 1200,
+      "height": 1600,
+      "size": 1035107,
+      "uploadedDate": "2022-11-01T18:22:39.097Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "basil",
+  "status": "ACTIVE",
+  "creationDate": "2026-09-15T01:05:34.142Z",
+  "lastModifiedDate": "2026-10-05T01:41:01.069Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "HumanResourceMachine8dcc5"
+    }
+  },
+  "entitlementName": "d0ad2d210e3d45a38f539fb9a6db1c07",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7bb5ffef-e612-4db6-9652-8229d801e276",
+      "appId": "cd7712e70e25411dbf99a6c6f10b580b",
+      "platform": [
+        "Android"
+      ]
+    }
+  ],
+  "developer": "Tomorrow Corporation",
+  "developerId": "o-46fvj3lpt7r9n79axbrl8tkgfbe2j8",
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

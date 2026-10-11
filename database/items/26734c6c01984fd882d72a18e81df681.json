@@ -32,8 +32,8 @@
   ],
   "namespace": "basil",
   "status": "ACTIVE",
-  "creationDate": "2025-05-16T16:55:38.642Z",
-  "lastModifiedDate": "2026-01-26T21:28:10.722Z",
+  "creationDate": "2024-03-24T19:30:33.534Z",
+  "lastModifiedDate": "2026-10-05T01:41:01.069Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,6 +44,10 @@
       "value": "basil"
     },
     "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
       "type": "STRING",
       "value": "true"
     },
