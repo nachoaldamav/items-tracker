@@ -1,0 +1,62 @@
+{
+  "id": "c231209126144e9a8d10db4d3231583f",
+  "title": "7 Billion Humans",
+  "description": "7 Billion Humans",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/item/holly/EGS_7BillionHumans_TomorrowCorporation_S1_2560x1440-dd49cbec97f4136c823c29a6e9a4eb46",
+      "md5": "dd49cbec97f4136c823c29a6e9a4eb46",
+      "width": 2560,
+      "height": 1440,
+      "size": 1034063,
+      "uploadedDate": "2022-11-01T18:20:09.994Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/item/holly/EGS_7BillionHumans_TomorrowCorporation_S2_1200x1600-3d2393523c90cbb6843faf5ba8196884",
+      "md5": "3d2393523c90cbb6843faf5ba8196884",
+      "width": 1200,
+      "height": 1600,
+      "size": 964421,
+      "uploadedDate": "2022-11-01T18:20:12.727Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "holly",
+  "status": "ACTIVE",
+  "creationDate": "2026-10-02T17:01:02.369Z",
+  "lastModifiedDate": "2026-10-02T17:01:02.369Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BillionHumans0c430"
+    }
+  },
+  "entitlementName": "c231209126144e9a8d10db4d3231583f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9bdd7942-1dd6-4d46-9419-5a3d6ec8c0c7",
+      "appId": "e0207e9fc75c444583e7f3f6b5fc93e2",
+      "platform": [
+        "Android"
+      ]
+    }
+  ],
+  "developer": "Tomorrow Corporation",
+  "developerId": "o-46fvj3lpt7r9n79axbrl8tkgfbe2j8",
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
