@@ -34,8 +34,8 @@
   ],
   "namespace": "ded54a4a0a6f4b4d86d25c10a5fe3cbb",
   "status": "ACTIVE",
-  "creationDate": "2026-09-02T23:50:36.376Z",
-  "lastModifiedDate": "2026-09-02T23:50:36.376Z",
+  "creationDate": "2026-09-01T20:25:15.929Z",
+  "lastModifiedDate": "2026-10-10T21:21:54.718Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -50,14 +50,16 @@
       "id": "42951ce0-1e11-41b3-ab63-0d0383ed7159",
       "appId": "038542128d9e43c687dbabc939ab49c3",
       "platform": [
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ]
     }
   ],
   "developer": "Adam and Simmons",
   "developerId": "o-spdakmuxmdknc7mjebe8w23wzw9c4f",
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }

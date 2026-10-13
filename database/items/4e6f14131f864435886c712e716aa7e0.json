@@ -1,7 +1,7 @@
 {
   "id": "4e6f14131f864435886c712e716aa7e0",
   "title": "Bob BOBBED Bob...",
-  "description": "Famous podcaster, Bob's missing. Sheriff Bob (you) can scour the Old Bobalachins to crack the case w/ “Sheriff-Sense” to uncover clues like an easter egg hunt. Based on a Markiplier, Wade & Bob Distractible ep. Firewatch-like mystery in Skyrimish mountains, under an hour to many.",
+  "description": "Bob BOBBED Bob...",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,7 +35,7 @@
   "namespace": "ded54a4a0a6f4b4d86d25c10a5fe3cbb",
   "status": "ACTIVE",
   "creationDate": "2025-04-09T15:29:20.242Z",
-  "lastModifiedDate": "2026-09-02T14:58:39.449Z",
+  "lastModifiedDate": "2026-10-10T21:21:54.718Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -50,14 +50,16 @@
       "id": "ec29a443a6cb4903b5074be8908a4b8c",
       "appId": "fe64f36be26d4affb527778c7ef588e8",
       "platform": [
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ]
     }
   ],
   "developer": "Adam and Simmons",
   "developerId": "o-spdakmuxmdknc7mjebe8w23wzw9c4f",
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
