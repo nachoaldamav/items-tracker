@@ -2,6 +2,7 @@
   "id": "8e202fc22bd84968a50ed1d982c53abc",
   "title": "VivaldiGeneralAudience",
   "description": "VivaldiGeneralAudience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +14,7 @@
   "namespace": "dd1a1179103041a19c85cee2ca43cd99",
   "status": "ACTIVE",
   "creationDate": "2021-02-23T21:12:20.018Z",
-  "lastModifiedDate": "2021-06-25T15:23:43.770Z",
+  "lastModifiedDate": "2026-10-08T18:06:44.074Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +24,15 @@
   "entitlementName": "8e202fc22bd84968a50ed1d982c53abc",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "developer": "Another Indie Studio Limited",
-  "developerId": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
+  "releaseInfo": [],
+  "developer": "Baroque Decay",
+  "developerId": "o-ffblp4kgjvk84xbkc6kaq6e9s7ub7c",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
