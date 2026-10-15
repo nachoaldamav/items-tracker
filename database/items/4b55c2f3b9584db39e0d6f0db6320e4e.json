@@ -33,18 +33,22 @@
   "ageGatings": {
     "ACB": {
       "ratingSystem": "ACB",
+      "ratingSystemDescription": "Australian Classification Board",
       "ageControl": 15,
       "gameRating": "Mature",
       "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/ACB_M_192_192x192-b702f1ebcbc6daa7458356527d4bba16",
       "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/AUS-M_530x530-0cd57de8a21291d9377b2a9dc312c0b4",
       "title": "Mature",
+      "descriptor": "",
       "descriptorIds": [],
+      "element": "",
       "elementIds": [],
       "isTrad": true,
       "isIARC": false
     },
     "PEGI": {
       "ratingSystem": "PEGI",
+      "ratingSystemDescription": "Pan European Game Information",
       "ageControl": 18,
       "gameRating": "PEGI 18",
       "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/PEGI_18_192_192x192-d6a2111e4c05a18bc5ec235df88a7382",
@@ -55,46 +59,58 @@
         51,
         895
       ],
+      "element": "",
       "elementIds": [],
       "isTrad": true,
       "isIARC": false
     },
     "ClassInd": {
       "ratingSystem": "ClassInd",
+      "ratingSystemDescription": "Classificação Indicativa",
       "ageControl": 14,
       "gameRating": "14 anos",
-      "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/ClassInd_14_192_192x192-57d9ea8adad94d2c39355abf7b8e06f8",
+      "ratingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/ClassInd_14_272_272x272-e2dc5a28a1274cde96bcae7acc336b5d",
       "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/CLASSIND-14_530x530-864d4db6713acbcf6749962ce2053814",
       "title": "14 anos",
+      "descriptor": "",
       "descriptorIds": [],
+      "element": "",
       "elementIds": [],
       "isTrad": true,
       "isIARC": false
     },
     "OFLC": {
       "ratingSystem": "OFLC",
+      "ratingSystemDescription": "Office of Film and Literature Classification",
       "ageControl": 15,
       "gameRating": "M",
       "ratingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/oflc_m_256x256-964c7e676583c9c490ec45fbbc792621",
       "title": "M",
+      "descriptor": "",
+      "descriptorIds": [],
+      "element": "",
       "elementIds": [],
       "isTrad": true,
       "isIARC": false
     },
     "USK": {
       "ratingSystem": "USK",
+      "ratingSystemDescription": "Unterhaltungssoftware Selbstkontrolle",
       "ageControl": 16,
       "gameRating": "USK ab 16",
       "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/USK_16_192_192x192-a60ba37513eb339e23cee67c25ff9f7b",
       "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/USK-16_530x530-93311702f3dddbf0d4d8c4e4e60a52cc",
       "title": "USK ab 16",
+      "descriptor": "",
       "descriptorIds": [],
+      "element": "",
       "elementIds": [],
       "isTrad": true,
       "isIARC": false
     },
     "GRAC": {
       "ratingSystem": "GRAC",
+      "ratingSystemDescription": "Game Rating and Administration Committee",
       "ageControl": 19,
       "gameRating": "청소년이용불가",
       "ratingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/GRAC_19_272_272x272-65537df11aa656d20950e22b4600b8ba",
@@ -107,12 +123,14 @@
         443,
         444
       ],
+      "element": "",
       "elementIds": [],
       "isTrad": true,
       "isIARC": false
     },
     "ESRB": {
       "ratingSystem": "ESRB",
+      "ratingSystemDescription": "Entertainment Software Rating Board",
       "ageControl": 17,
       "gameRating": "Mature 17+",
       "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/ESRB_M_192_192x192-1984f5076d6fb905bba422c8700c663e",
