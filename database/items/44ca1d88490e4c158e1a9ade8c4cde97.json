@@ -35,7 +35,7 @@
   "namespace": "7449318111cd4bad8d8084a031a707bb",
   "status": "ACTIVE",
   "creationDate": "2022-03-24T14:07:41.882Z",
-  "lastModifiedDate": "2025-09-04T16:00:03.942Z",
+  "lastModifiedDate": "2026-10-12T18:30:54.477Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -54,7 +54,6 @@
       "id": "0d37a9de2b8d448da1c3a7b0ea40d037",
       "appId": "14ce1acff0db4cf8bf59533318058c7c",
       "platform": [
-        "Win32",
         "Windows"
       ]
     }
@@ -62,6 +61,7 @@
   "developer": "Nacon",
   "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
   "endOfSupport": false,
+  "ageGatings": {},
   "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
