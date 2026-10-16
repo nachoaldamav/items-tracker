@@ -31,16 +31,26 @@
   ],
   "namespace": "8000cbe7d303418296044b7af84b6fdf",
   "status": "ACTIVE",
-  "creationDate": "2026-09-15T13:00:04.575Z",
-  "lastModifiedDate": "2026-09-15T13:00:04.575Z",
+  "creationDate": "2026-05-13T11:48:42.890Z",
+  "lastModifiedDate": "2026-10-09T14:07:16.344Z",
   "customAttributes": {},
   "entitlementName": "0a100746e97b44d79d1cc0c443073b0a",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
-  "releaseInfo": [],
+  "releaseInfo": [
+    {
+      "id": "f3be0b130b0c49168b13ed641b451fb0",
+      "appId": "ff34342c34774180a4a9039ad64b15cb",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
   "developer": "Hooded Horse Inc",
   "developerId": "o-4ftedygtvtsgp7tbaf49mpm7lt6u2e",
   "endOfSupport": false,
+  "ageGatings": {},
   "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
