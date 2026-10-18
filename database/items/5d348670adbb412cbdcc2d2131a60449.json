@@ -1,7 +1,7 @@
 {
   "id": "5d348670adbb412cbdcc2d2131a60449",
-  "title": "Dahlia View - The Original Soundtrack",
-  "description": "Dahlia View - The Original Soundtrack",
+  "title": "The Dahlia View OST",
+  "description": "This collection features 13 original tracks from the game Dahlia View composed by N.J. Apostol, Audio Director at White Paper Games.",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,11 +35,11 @@
   "namespace": "329ecb6186a14fdab79d72d8e4aaebd3",
   "status": "ACTIVE",
   "creationDate": "2024-07-17T09:10:25.268Z",
-  "lastModifiedDate": "2026-10-10T00:56:43.434Z",
+  "lastModifiedDate": "2026-10-17T18:05:30.646Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
-      "value": "DahliaViewSountrack"
+      "value": "DahliaViewOST"
     }
   },
   "entitlementName": "5d348670adbb412cbdcc2d2131a60449",
@@ -50,7 +50,6 @@
       "id": "22f36d4ee27c4ae8a1603d4020166f77",
       "appId": "27cb339c61b24e6097763bc61e47eab7",
       "platform": [
-        "Mac",
         "Win32",
         "Windows"
       ]
