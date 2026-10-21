@@ -35,7 +35,7 @@
   "namespace": "e7edf6103a6543fabee1c567589909f1",
   "status": "ACTIVE",
   "creationDate": "2025-05-20T11:15:12.873Z",
-  "lastModifiedDate": "2026-08-21T13:17:36.481Z",
+  "lastModifiedDate": "2026-10-20T15:25:27.822Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "c48d3fa0-249e-4217-b875-f27f2f5cb9ae",
       "appId": "f55387c1378145c8b2baf08ee7f3fc63",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Postmeta Games",
