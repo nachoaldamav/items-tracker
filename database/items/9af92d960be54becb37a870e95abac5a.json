@@ -1,0 +1,50 @@
+{
+  "id": "9af92d960be54becb37a870e95abac5a",
+  "title": "FortniteHowl_DemoExperienceAContent",
+  "description": "FortniteHowl_DemoExperienceAContent",
+  "categories": [
+    {
+      "path": "hidden"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-10-16T13:13:09.658Z",
+  "lastModifiedDate": "2026-10-16T13:13:17.425Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "AdditionalCommandLine": {
+      "type": "STRING",
+      "value": "-epicapp=FortniteHowl"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "9af92d960be54becb37a870e95abac5a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "94d6ec51e6a9477a9dc71c1ac2c310a1",
+      "appId": "023ac8ece69a4a4a95bc5707518e15ed",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

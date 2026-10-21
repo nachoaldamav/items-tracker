@@ -2,7 +2,11 @@
   "id": "4a040ae94403490f99144bfa827b033e",
   "title": "FortniteHowl_JunoContent",
   "description": "FortniteHowl_JunoContent",
+  "keyImages": [],
   "categories": [
+    {
+      "path": "addons"
+    },
     {
       "path": "applications"
     }
@@ -10,7 +14,7 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2026-06-01T16:27:54.676Z",
-  "lastModifiedDate": "2026-06-01T16:27:56.876Z",
+  "lastModifiedDate": "2026-10-13T16:27:29.270Z",
   "customAttributes": {
     "remove_for_account_deprovision": {
       "type": "STRING",
@@ -43,8 +47,10 @@
   ],
   "developer": "Epic Games",
   "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
