@@ -5,22 +5,22 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/spt-assets/79cac2fd03544b8f8a8276b48ddd0d8d/office-party-1ag7n.jpg",
-      "md5": "3b69bff1e83c5cfbd6528347e5fe91be",
+      "url": "https://cdn1.epicgames.com/spt-assets/79cac2fd03544b8f8a8276b48ddd0d8d/office-party-v58ki.jpg",
+      "md5": "f47536268cc419843cda34c40c15464d",
       "width": 2560,
       "height": 1440,
-      "size": 1727145,
-      "uploadedDate": "2024-12-19T17:05:04.207Z",
+      "size": 683900,
+      "uploadedDate": "2026-10-08T22:05:47.708Z",
       "alt": "Office Party Offer"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/79cac2fd03544b8f8a8276b48ddd0d8d/office-party-u7s02.jpg",
-      "md5": "722272795241a8636455ed91a7d77099",
+      "url": "https://cdn1.epicgames.com/spt-assets/79cac2fd03544b8f8a8276b48ddd0d8d/office-party-1avb9.jpg",
+      "md5": "8753f7e7b792deecf60fd2de27a1bb01",
       "width": 1200,
       "height": 1600,
-      "size": 1232523,
-      "uploadedDate": "2024-12-19T17:05:03.049Z",
+      "size": 375289,
+      "uploadedDate": "2026-10-08T22:05:47.620Z",
       "alt": "Download Office Party Offer"
     }
   ],
@@ -34,8 +34,8 @@
   ],
   "namespace": "2830b64714634ff2ace07ec4d32bba10",
   "status": "ACTIVE",
-  "creationDate": "2025-01-07T15:28:13.970Z",
-  "lastModifiedDate": "2025-01-07T15:28:13.970Z",
+  "creationDate": "2024-10-18T19:53:09.688Z",
+  "lastModifiedDate": "2026-10-21T15:45:23.473Z",
   "customAttributes": {
     "FolderName": {
       "type": "STRING",
@@ -49,7 +49,9 @@
     {
       "id": "2891807255134d438eb4d67c26a4b867",
       "appId": "a7caf3fa1a134c6f9421127542b4936f",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Eek Games, LLC",
