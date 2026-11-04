@@ -31,15 +31,27 @@
   ],
   "namespace": "3b391953ce4b42bb9a28a2fee249154b",
   "status": "ACTIVE",
-  "creationDate": "2026-09-24T07:55:46.010Z",
-  "lastModifiedDate": "2026-09-24T07:55:46.010Z",
+  "creationDate": "2026-03-10T14:14:24.293Z",
+  "lastModifiedDate": "2026-11-02T18:52:18.759Z",
+  "customAttributes": {},
   "entitlementName": "a6bf5302413b4a839c0786172be6ab73",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fb718e797ae6437593c1c582f1a788a3",
+      "appId": "18ff898e005040d1b285598c8da55f24",
+      "platform": [
+        "Windows",
+        "Mac"
+      ]
+    }
+  ],
   "developer": "Blobfish Games",
   "developerId": "o-bgr72ktympm37plu4ubp6uf46chs6m",
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
