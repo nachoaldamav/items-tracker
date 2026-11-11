@@ -20,15 +20,6 @@
       "height": 1440,
       "size": 597335,
       "uploadedDate": "2021-12-01T11:55:23.703Z"
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/item/3ffb410dab2d409aacd39a1abc6fcbba/EGS_PrisonArchitect_DoubleEleven_S1_2560x1440-032995cc5b2eefb8ce2b7b3b446a76ce_2560x1440-032995cc5b2eefb8ce2b7b3b446a76ce",
-      "md5": "032995cc5b2eefb8ce2b7b3b446a76ce",
-      "width": 2560,
-      "height": 1440,
-      "size": 597335,
-      "uploadedDate": "2022-09-22T19:13:26.200Z"
     }
   ],
   "categories": [
@@ -42,7 +33,7 @@
   "namespace": "3ffb410dab2d409aacd39a1abc6fcbba",
   "status": "ACTIVE",
   "creationDate": "2021-10-15T22:50:02.634Z",
-  "lastModifiedDate": "2024-05-27T10:46:08.083Z",
+  "lastModifiedDate": "2026-11-05T16:24:32.356Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -78,24 +69,23 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "0c84d72b46384475b339490266fcb3c9",
+      "id": "1054d16f7a4143608eb78f628ec5b6fa",
       "appId": "668ffa8fce0847ef9f1c005995cee6df",
       "compatibleApps": [],
       "platform": [
-        "Windows",
-        "Mac"
+        "Windows"
       ],
-      "dateAdded": "2021-12-08T16:40:00.000Z"
+      "dateAdded": "2021-12-08T16:40:21.060Z"
     }
   ],
   "developer": "Paradox Interactive",
   "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
   "eulaIds": [
-    "(egstore && paradoxinteractive)"
+    "egstore"
   ],
   "endOfSupport": false,
   "ageGatings": {},
-  "applicationId": "fghi4567V07yC5H7ficsnXr1R1kb3QTU",
+  "applicationId": "",
   "requiresSecureAccount": false,
   "unsearchable": true
 }

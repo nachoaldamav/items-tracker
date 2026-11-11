@@ -1,0 +1,35 @@
+{
+  "id": "870b712294b945e085fa1cead1ddeaa1",
+  "title": "eureka Apples audience",
+  "description": "eureka Apples audience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "3ffb410dab2d409aacd39a1abc6fcbba",
+  "status": "ACTIVE",
+  "creationDate": "2026-09-03T11:06:48.731Z",
+  "lastModifiedDate": "2026-11-05T16:24:32.416Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "870b712294b945e085fa1cead1ddeaa1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -14,7 +14,7 @@
   "namespace": "3ffb410dab2d409aacd39a1abc6fcbba",
   "status": "ACTIVE",
   "creationDate": "2021-10-15T22:50:02.494Z",
-  "lastModifiedDate": "2024-04-02T16:21:17.285Z",
+  "lastModifiedDate": "2026-11-05T16:24:32.356Z",
   "customAttributes": {},
   "entitlementName": "88ad9e91920544ff901b241f62aed8ea",
   "entitlementType": "AUDIENCE",
@@ -22,7 +22,9 @@
   "releaseInfo": [],
   "developer": "Paradox Interactive",
   "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
-  "eulaIds": [],
+  "eulaIds": [
+    "egstore"
+  ],
   "endOfSupport": false,
   "ageGatings": {},
   "applicationId": "",
