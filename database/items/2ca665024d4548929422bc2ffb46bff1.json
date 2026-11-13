@@ -1,6 +1,6 @@
 {
   "id": "2ca665024d4548929422bc2ffb46bff1",
-  "title": "Fog of War",
+  "title": "Diplomacy is Not an Option: Fog of War",
   "description": "In the new story campaign, you’ll build cities, conquer strongholds, and defend against waves of enemy hordes in epic battles. Continue the story of the Ironbrow dynasty and help the young Prince save the long-suffering Samreignia.",
   "keyImages": [
     {
@@ -31,8 +31,8 @@
   ],
   "namespace": "9a66c93dabb74d3aaf910fa7f23c64fd",
   "status": "ACTIVE",
-  "creationDate": "2026-10-28T07:34:17.022Z",
-  "lastModifiedDate": "2026-10-28T07:34:17.022Z",
+  "creationDate": "2026-09-24T13:48:51.327Z",
+  "lastModifiedDate": "2026-11-10T17:51:14.667Z",
   "customAttributes": {},
   "entitlementName": "2ca665024d4548929422bc2ffb46bff1",
   "entitlementType": "EXECUTABLE",
@@ -41,7 +41,9 @@
     {
       "id": "0f4e2f816a8b47d6b7abad042d0c57eb",
       "appId": "2ed81473367d46db876a1fdfe60e149c",
-      "platform": []
+      "platform": [
+        "Windows"
+      ]
     }
   ],
   "developer": "Llc Aul Games",
