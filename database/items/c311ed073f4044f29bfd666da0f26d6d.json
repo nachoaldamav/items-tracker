@@ -24,7 +24,7 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2017-07-10T20:35:58.653Z",
-  "lastModifiedDate": "2023-02-10T23:02:51.656Z",
+  "lastModifiedDate": "2026-11-17T21:13:06.957Z",
   "customAttributes": {
     "extraLaunchOption_003_Args": {
       "type": "STRING",
@@ -38,9 +38,17 @@
       "type": "STRING",
       "value": "-commandlineargument=here"
     },
+    "AllowUriCmdArgs": {
+      "type": "STRING",
+      "value": "true"
+    },
     "extraLaunchOption_002_Args": {
       "type": "STRING",
       "value": "-UEFN"
+    },
+    "AllowUriCmdArgsSanitized": {
+      "type": "STRING",
+      "value": "^-IslandOverride=(\\d{4}-\\d{4}-\\d{4}|\\w{1,50})$|^-src=\\d{1,4}$|^-pl=[A-Za-z0-9]{1,10}$|^-v=[A-Za-z0-9]{1,10}$"
     },
     "extraLaunchOption_003_Name": {
       "type": "STRING",
@@ -75,5 +83,6 @@
   "eulaIds": [],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "",
   "unsearchable": false
 }
