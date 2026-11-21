@@ -36,7 +36,7 @@
   "namespace": "d74efb08c7f449928fcdfdba1dcbda48",
   "status": "ACTIVE",
   "creationDate": "2021-04-21T21:40:26.354Z",
-  "lastModifiedDate": "2023-08-17T16:46:14.418Z",
+  "lastModifiedDate": "2026-11-20T14:05:57.031Z",
   "customAttributes": {
     "PresenceId": {
       "type": "STRING",
@@ -68,9 +68,10 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "39ba5f1b16b24572b6dc73827da16aa5",
+      "id": "6c82ddfd76cb41279ccae30a53bedc2a",
       "appId": "f7a456368be244ddbb2424774917a3a8",
       "platform": [
+        "Mac",
         "Windows"
       ]
     }
@@ -82,7 +83,7 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
-  "applicationId": "",
+  "applicationId": "fghi45674C9O0dKA5uNlGkSUnBytqBlG",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
